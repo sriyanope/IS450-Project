@@ -1,0 +1,291 @@
+course_title,course_organization,course_certificate_type,course_time,course_rating,course_reviews_num,course_difficulty,course_url,course_students_enrolled,course_skills,course_summary,course_description
+(ISC)² Systems Security Certified Practitioner (SSCP),ISC2,Specialization,3 - 6 Months,4.7,492,Beginner,https://www.coursera.org/specializations/sscp-training,"6,958","['Risk Management', 'Access Control', 'Asset', 'Incident Detection and Response', 'Cloud Computing Security', 'Wireless Security', 'Security Software']",[],"Pursue better IT security job opportunities and prove knowledge with confidence. The SSCP Professional Training Certificate shows employers you have the IT security foundation to defend against cyber attacks – and puts you on a clear path to earning SSCP certification.
+Learn on your own schedule with 120-day access to content aligned with the latest (ISC)2 SSCP exam domains. We’re offering the complete online self-paced program for only $1,000 – a $200 savings when you get all domains bundled together.
+3 Steps to Career Advancement 
+1.  Register for the course 
+2.  Gain access for 120 days 
+3. Register and sit for the SSCP certification exam
+Upon completing the SSCP Professional Certificate, you will:
+1.  Complete six courses of preparing you to sit for the Systems Security Certified Practitioner (SSCP) certification exam Opens in a new tabas outlined below.
+Course 1 - Access Controls
+Course 2 - Security Operations and Administration
+Course 3 - Risk Identification, Monitoring, and Analysis/Incident Response and Recovery
+Course 4 - Cryptography
+Course 5 - Network and Communication Security
+Course 6 - Systems and Application Security
+2. Receive a certificate of program completion.
+3. Understand how to implement, monitor and administer an organization’s IT infrastructure in accordance with security policies and procedures that ensure data confidentiality, integrity and availability.
+Applied Learning Project
+Each course includes a case study that will require students to put into practice the knowledge they have gained throughout each course. Successful completion of course projects will require the basic understanding of the topics covered and the ability to relate those topics to the real world. The objective of each project is to determine whether students have understood course concepts and are able to use them in a real world setting. 
+"
+.NET FullStack Developer,Board Infinity,Specialization,1 - 3 Months,4.3,51,Intermediate,https://www.coursera.org/specializations/dot-net-fullstack,"2,531","['Web API', 'Web Development', 'Cascading Style Sheets (CSS)', 'HTML', 'React (Web Framework)', 'RESTful APIs', 'C# programming', 'API Integration', 'Model–View–Controller (MVC)', 'asp.net']","['Master .NET full stack web dev: from .NET core basics to advanced web application creation using .NET technologies.  ', ""Dive into React frontend development: from foundational HTML & CSS to dynamic UI design using JavaScript and React's core concepts. "", 'Explore backend with ASP.NET: Understand ASP.NET Core architecture, MVC patterns, and build RESTful web APIs with integrated front-end applications. ', 'Acquire robust full-stack skills: Ensuring proficiency in creating scalable, high-quality web applications tailored to modern business needs. ']","Develop the proficiency required to design and develop comprehensive, scalable, and high-performing applications with the .NET framework via this in-depth specialization. The curriculum is segmented into three intensive courses: 
+.NET Full Stack Foundation: 
+Understand the basics of .NET and its significant components.
+Harnessing the C# programming language, mastering everything from basic syntax to complex structures.
+Constructing both web and desktop applications with an unparalleled understanding of .NET's capacities.
+Frontend Development using React: 
+Designing web pages employing the core principles of HTML and CSS.
+Utilizing JavaScript for dynamic and interactive functionalities, covering everything from basic variables to complex functions.
+Constructing dynamic and interactive UIs using React's core concepts such as components, state, props, and JSX.
+Backend Development using ASP.NET:
+Master the ASP.NET Core framework, designed for modern web applications.
+Explore ASP.NET MVC and craft web applications following MVC patterns.
+Delve into ASP.NET Web API to design and implement RESTful web services.
+By the end, you will be proficient in leveraging .NET technologies, designing web applications using ASP.NET with React integrated on the front end, and building RESTful web APIs using ASP.NET Core. Equip yourself to construct scalable, high-performance web applications that align with modern business demands.
+Applied Learning Project
+Our program is highly focused on practical, hands-on learning. We understand that developers learn best by doing, so our courses and modules are designed to help learners apply what they learn in real-world scenarios. Our instructors are experienced developers who have worked on numerous Frontend projects and are well-equipped to guide learners through the practical aspects of Frontend Development & Backend with .Net Technologies.
+"
+21st Century Energy Transition: how do we make it work?,University of Alberta,Course,1 - 3 Months,4.8,62,Beginner,https://www.coursera.org/learn/21st-century-energy-transition,"4,377",[],"['Understand the complexity of systems supplying energy to people around the  world ', 'Evaluate the merits and the costs associated with each major available energy\xa0 source\xa0   ', 'Explore competing viewpoints of how quickly, practically and effectively global  societies can transition to alternative energy sources ']","Affordable, abundant and reliable energy is fundamental to human well-being and prosperity. For the past 150 years, more and more people have gained access to energy, primarily in the form of fossil fuels – coal, petroleum and natural gas. But now, even while half of humanity cannot access adequate energy supplies, we are beginning a profound transition to more diverse energy sources. Climate change, environmental sustainability, and energy poverty are all important – and sometimes conflicting – drivers as we strive to supply more energy to more people with fewer negative impacts on Earth’s environments. 
+In this course from the University of Alberta and Canadian Society for Evolving Energy, you will join us to learn about the many energy sources available, and where technology is providing exciting new solutions to energy and environmental challenges. Find out what roles energy storage must play to support the transition, and discuss how we can optimize transition processes. Examine competing viewpoints (“realities”) to enable energy transition, focusing on the practical challenges in bringing about change on a global basis. Finally, you will bring all these issues together to examine how the energy transition process is progressing and what we must do to create pathways to achieve our goals.
+"
+A Crash Course in Causality:  Inferring Causal Effects from Observational Data,University of Pennsylvania,Course,1 - 3 Months,4.7,517,Intermediate,https://www.coursera.org/learn/crash-course-in-causality,"39,004","['Instrumental Variable', 'Propensity Score Matching', 'Causal Inference', 'Causality']",[],"We have all heard the phrase “correlation does not equal causation.”  What, then, does equal causation?  This course aims to answer that question and more!  
+Over a period of 5 weeks, you will learn how causal effects are defined, what assumptions about your data and models are necessary, and how to implement and interpret some popular statistical methods.  Learners will have the opportunity to apply these methods to example data in R (free statistical software environment).
+
+At the end of the course, learners should be able to:
+1.  Define causal effects using potential outcomes
+2.  Describe the difference between association and causation
+3.  Express assumptions with causal graphs
+4.  Implement several types of causal inference methods (e.g. matching, instrumental variables, inverse probability of treatment weighting)
+5.  Identify which causal assumptions are necessary for each type of statistical method
+
+So join us.... and discover for yourself why modern statistical methods for estimating causal effects are indispensable in so many fields of study!
+"
+A life with ADHD,University of Geneva,Course,1 - 3 Months,,,Beginner,https://www.coursera.org/learn/life-with-adhd,,"['differential diagnosis and comorbidities', 'symptoms assessment', 'accomodation', 'Neuroscience', 'intervention']","[' Understand what ADHD is and the challenges related to this disorder  ', ' Familiarize yourself with the diagnostic and therapeutic issues of this disorder  ', ' Know the biological, psychological and environmental interventions  ']","What is ADHD and what are the challenges that come with it? 
+Whether you are a person affected by ADHD, a family member or a professional, this MOOC will provide you with an understanding of what ADHD is. It will allow you to respond to the specific challenges of ADHD by developing a complex strategy that integrates psychological dimensions, neurobiological treatments, as well as environmental interventions. Since in two thirds of cases this disorder is relatively persistent, even though it may fluctuate over the course of an individual's life, this course will provide keys to understanding how to live with ADHD over time.
+ 
+Through presentations by experts in the field, activities and various resources such as readings and videos, you will learn about
+
+- The assessment of ADHD symptoms
+- The specifics of ADHD diagnosis, as well as its differential diagnoses and comorbidities
+- Biological (including medication), psychological and environmental interventions for ADHD
+
+This MOOC has been created for teenagers and adults affected by ADHD, as well as their families. It has also been designed for professionals interested in ADHD. This MOOC is also proposed to medical and psychology students who wish to learn more about ADHD.
+ 
+We hope you will have a lot of fun following this MOOC!
+"
+AI & Law,Lund University,Course,1 - 4 Weeks,4.8,370,Beginner,https://www.coursera.org/learn/ai-law,"26,023",[],"['Understand the legal significance of the artificially intelligent software and hardware.', 'Understand the impact of the emergence of artificial intelligence on the application and administration of law in the public sector.', 'Understand the legal relevance of the use of artificially intelligent software in the private sector.', 'Understand the importance of artificial intelligence for selected legal fields, including labour law, competition law and health law.']","About this Course
+This four-week course titled AI and Law explores the way in which the increasing use of artificially intelligent technologies (AI) affects the practice and administration of law defined in a broad sense. Subject matters discussed include the connection between AI and Law in the context of legal responsibility, law-making, law-enforcing, criminal law, the medical sector and intellectual property law.
+The course aims to equip members of the general public with an elementary ability to understand the meaningful potential of AI for their own lives. The course also aims to enable members of the general public to understand the consequences of using AI and to allow them to interact with AIs in a responsible, helpful, conscientious way. Please note that the law and content presented in this course is current as of the launch date of this course. 
+
+At the end of this course, you will have a basic understanding of how to:
+•	Understand the legal significance of the artificially intelligent software and hardware.
+•	Understand the impact of the emergence of artificial intelligence on the application and administration of law in the public sector in connection with the enforcement of criminal law, the modelling of law and in the context of administrative law.
+•	Understand the legal relevance of the use of artificially intelligent software in the private sector in connection with innovation and associated intellectual property rights, in the financial services sector and when predicting outcomes of legal proceedings.
+•	Understand the importance of artificial intelligence for selected legal fields, including labour law, competition law and health law.
+
+Syllabus and Format
+
+The course consists of four modules where one module represents about one week of part-time studies. A module includes a number of lectures and readings, and finishes with an assessment – a quiz and/or a peer graded assignment. The assessments are intended to encourage learning and ensure that you understand the material of the course. Participating in forum discussions is voluntary. 
+
+Modules
+Module 1.	AI and Law 
+Module 2.	Legal AI in the Public Sector 
+Module 3.	Legal AI in the Private Sector
+Module 4.	Selected Challenges 
+
+Lund University
+
+Lund University was founded in 1666 and has for a number of years been ranked among the world’s top 100 universities. The University has 47 700 students and 7 500 staff based in Lund, Sweden. Lund University unites tradition with a modern, dynamic, and highly international profile. With eight different faculties and numerous research centers and specialized institutes, Lund is the strongest research university in Sweden and one of Scandinavia's largest institutions for education and research. The university annually attracts a large number of international students and offers a wide range of courses and programmes taught in English. 
+
+The Faulty of Law is one of Lund University’s four original faculties, dating back to 1666. It is a modern faculty with an international profile, welcoming both international and Swedish students. Education, research and interaction with the surrounding community are the main focus of the Faculty’s work. The connection between the three is particularly apparent in the programmes and courses offered by the university, including the university’s MOOC course in European Business Law. The students get the chance to engross themselves in traditional legal studies, while interacting with both researchers and professionally active lawyers with qualifications and experience from various areas of law.
+
+The faculty offers three international Masters: two 2-year Master’s programmes in International Human Rights Law and European Business Law, and a 1-year Master’s in European and International Tax Law. Students from around 40 countries take part in the programmes which offer a unique subject specialization within each field, with highly qualified researchers and professional legal practitioners engaged in the teaching.
+"
+AI Applications in Marketing and Finance,University of Pennsylvania,Course,1 - 4 Weeks,4.7,140,Mixed,https://www.coursera.org/learn/wharton-ai-applications-marketing-finance,"7,584",[],[],"In this course, you will learn about AI-powered applications that can enhance the customer journey and extend the customer lifecycle. You will learn how this AI-powered data can enable you to analyze consumer habits and maximize their potential to target your marketing to the right people. You will also learn about fraud, credit risks, and how AI applications can also help you combat the ever-challenging landscape of protecting consumer data. You will also learn methods to utilize supervised and unsupervised machine learning to enhance your fraud detection methods. You will also hear from leading industry experts in the world of data analytics, marketing, and fraud prevention. By the end of this course, you will have a substantial understanding of the role AI and Machine Learning play when it comes to consumer habits, and how we are able to interact and analyze information to increase deep learning potential for your business.
+"
+AI Applications in People Management,University of Pennsylvania,Course,1 - 4 Weeks,4.7,71,Mixed,https://www.coursera.org/learn/wharton-ai-applications-people-management,"5,325",[],[],"In this course, you will learn about Artificial Intelligence and Machine Learning as it applies to HR Management. You will explore concepts related to the role of data in machine learning, AI application, limitations of using data in HR decisions, and how bias can be mitigated using blockchain technology. Machine learning powers are becoming faster and more streamlined,  and you will gain firsthand knowledge of how to use current and emerging technology to manage the entire employee lifecycle. Through study and analysis, you will learn how to sift through tremendous volumes of data to identify patterns and make predictions that will be in the best interest of your business. By the end of this course, you'll be able to identify how you can incorporate AI to streamline all HR functions and how to work with data to take advantage of the power of machine learning.
+"
+AI For Business,University of Pennsylvania,Specialization,3 - 6 Months,4.7,381,Beginner,https://www.coursera.org/specializations/ai-for-business-wharton,"13,671","['Artificial Intelligence (AI)', 'Machine Learning', 'Management', 'Analytics', 'Fraud Prevention']",[],"This specialization will provide learners with the fundamentals of using Big Data, Artificial Intelligence, and Machine Learning and the various areas in which you can deploy them to support your business. You'll cover ethics and risks of AI, designing governance frameworks to fairly apply AI, and also cover people management in the fair design of HR functions within Machine Learning. You'll also learn effective marketing strategies using data analytics, and how personalization can enhance and prolong the customer journey and lifecycle. Finally, you will hear from industry leaders who will provide you with insights into how AI and Big Data are revolutionizing the way we do business.
+By the end of this specialization, you will be able to implement ethical AI strategies for people management and have a better understanding of the relationship between data analytics, artificial intelligence, and machine learning. You will leave this specialization with insight into how these tools can shape and influence how you manage your business. 
+For additional reading, Professor Hosanagar's book ""A Human’s Guide to Machine Intelligence"" can be used as an additional resource,"". You can find Professor Hosanagar's book on his personal websiteOpens in a new tab or at Penguin RandomhouseOpens in a new tab.
+
+Applied Learning Project
+Each course module in this Specialization culminates in an assessment, with two courses including peer-review exercises. These assessments are designed to check learners' knowledge and to provide an opportunity for learners to apply course concepts such as data analytics, machine learning tools, and people management best practices with AI algorithms.
+The assessments will be cumulative and cover the application of artificial intelligence, ethical governance rules, Big Data management, the customer journey, fraud prevention, and personalization technology in order to develop and implement a successful AI strategy for your business.
+"
+AI For Everyone,DeepLearning.AI,Course,1 - 4 Weeks,4.8,39.3k,Beginner,https://www.coursera.org/learn/ai-for-everyone,"1,092,100","['Workflow of Machine Learning projects', 'AI terminology', 'AI strategy', 'Workflow of Data Science projects']",[],"AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take. 
+In this course, you will learn:
+
+- The meaning behind common AI terminology, including neural networks, machine learning, deep learning, and data science
+- What AI realistically can--and cannot--do
+- How to spot opportunities to apply AI to problems in your own organization
+- What it feels like to build machine learning and data science projects
+- How to work with an AI team and build an AI strategy in your company
+- How to navigate ethical and societal discussions surrounding AI
+
+Though this course is largely non-technical, engineers can also take this course to learn the business aspects of AI.
+"
+AI For Everyone （すべての人のためのAIリテラシー講座）,DeepLearning.AI,Course,1 - 3 Months,4.8,244,Beginner,https://www.coursera.org/learn/ai-for-everyone-ja,"27,718",[],[],"AIはエンジニアだけのものではなく、今や社会⼈の基本リテラシーと⾔えます。本
+コースは、AIの基礎を学びたい⽅、今の組織をAIを使いこなせる組織へと変⾰させ
+たい⽅、そんなすべての⽅々に、理系⽂系問わず、肩書きや職種問わず、受講いた
+だけるコースです。
+
+本コースでは、次のことを学習していただきます：
+- ニューラルネットワーク、機械学習、ディープラーニング、データサイエンス
+など、⼀般的なAIに関する専⾨⽤語とその意味
+- 実際にAIができること、できないこと
+- 組織の課題解決のためにAIを適⽤できる可能性とその⽅法
+- 機械学習およびデータサイエンスプロジェクトの進め⽅
+- AIエンジニアチームと連携して社内でAI戦略を構築する⽅法
+- AIを取り巻く倫理的および社会的議論の概要
+
+本コースはDeepLearning.AIが提供している通常の「AI for Everyone」（オリジナルは英語）に、JDLAが制作し、松尾先生が講師を務める”DXとは何か”、”DXにおけるAIの重要性”、“日本におけるAI活用”を追加 した 特別版 となります。
+
+本コースの修了証を提示すると、JDLAのG検定が30％引きになります。詳細はこちらをご覧ください。
+https://www.jdla.org/certificate/general/apply-everyone-discount/
+"
+AI Foundations for Everyone,IBM,Specialization,3 - 6 Months,4.7,14k,Beginner,https://www.coursera.org/specializations/ai-foundations-for-everyone,"20,717","['Data Science', 'Deep Learning', 'Artificial Intelligence (AI)', 'Machine Learning', 'Watson (Computer)']",[],"Artificial Intelligence (AI) is no longer science fiction. It is rapidly permeating all industries and having a profound impact on virtually every aspect of our existence. Whether you are an executive, a leader, an industry professional, a researcher, or a student - understanding AI, its impact and transformative potential for your organization and our society is of paramount importance. 
+ This specialization is designed for those with little or no background in AI, whether you have technology background or not, and does not require any programming skills. It is designed to give you a firm understanding of what is AI, its applications and use cases across various industries. You will become acquainted with terms like Machine Learning, Deep Learning and Neural Networks. 
+Furthermore, it will familiarize you with IBM Watson AI services that enable any business to quickly and easily employ pre-built AI smarts to their products and solutions. You will also learn about creating intelligent virtual assistants and how they can be leveraged in different scenarios.
+ By the end of this specialization, learners will have had hands-on interactions with several AI environments and applications, and have built and deployed an AI enabled chatbot on a website – without any coding. 
+Applied Learning Project
+Learners will perform several no-code hands-on exercises in each of the  three courses. At the end of the last course, learners would have developed,  tested, and deployed a Watson AI powered customer service chatbot on a website to delight their clients.
+"
+AI Foundations: Prompt Engineering with ChatGPT,Arizona State University,Course,1 - 3 Months,3.8,6,Beginner,https://www.coursera.org/learn/ai-foundations-prompt-engineering-with-chatgpt,,[],[],"This prompt engineering course is a unique opportunity to delve into the world of ChatGPT and Large Language Models (LLMs). Designed by Andrew Maynard, an expert in transformative technologies, this course equips students with the skills needed to harness the power of ChatGPT effectively.
+Through a compact and engaging curriculum, students will learn to evaluate prompts and create impactful ones, maximizing the potential of ChatGPT. The course covers prompt templates, creative prompt structures, and the art of designing prompts for various tasks and applications.
+
+Open to learners from all backgrounds, this course does not require traditional engineering skills. Instead, it focuses on the clear and creative use of language, making it particularly appealing to those studying English, languages, humanities, and social sciences.
+"
+AI Fundamentals for Non-Data Scientists,University of Pennsylvania,Course,1 - 4 Weeks,4.7,203,Mixed,https://www.coursera.org/learn/wharton-ai-fundamentals-non-data-scientists,"14,963",[],[],"In this course, you will go in-depth to discover how Machine Learning is used to handle and interpret Big Data. You will get a detailed look at the various ways and methods to create algorithms to incorporate into your business with such tools as Teachable Machine and TensorFlow. You will also learn different ML methods, Deep Learning, as well as the limitations but also how to drive accuracy and use the best training data for your algorithms. You will then explore GANs and VAEs, using your newfound knowledge to engage with AutoML to help you start building algorithms that work to suit your needs. You will also see exclusive interviews with industry leaders, who manage Big Data for companies such as McDonald's and Visa. By the end of this course, you will have learned different ways to code, including how to use no-code tools, understand Deep Learning, how to measure and review errors in your algorithms, and how to use Big Data to not only maintain customer privacy but also how to use this data to develop different strategies that will drive your business.
+"
+AI Product Management,Duke University,Specialization,3 - 6 Months,4.7,342,Beginner,https://www.coursera.org/specializations/ai-product-management-duke,"19,086","['Data Science', 'Predictive Modelling', 'Artificial Neural Network', 'Ethics', 'Artificial Intelligence (AI)', 'Machine Learning', 'Product Management', 'product design', 'User Experience (UX)', 'Modeling', 'Privacy', 'Project Management']","['Identify when and how machine learning can applied to solve problems', 'Apply human-centered design practices to design AI product experiences that protect privacy and meet ethical standards', 'Lead machine learning projects using the data science process and best practices from industry']","Organizations in every industry are accelerating their use of artificial intelligence and machine learning to create innovative new products and systems.  This requires professionals across a range of functions, not just strictly within the data science and data engineering teams, to understand when and how AI can be applied, to speak the language of data and analytics, and to be capable of working in cross-functional teams on machine learning projects.
+This Specialization provides a foundational understanding of how machine learning works and when and how it can be applied to solve problems.  Learners will build skills in applying the data science process and industry best practices to lead machine learning projects, and develop competency in designing human-centered AI products which ensure privacy and ethical standards. The courses in this Specialization focus on the intuition behind these technologies, with no programming required, and merge theory with practical information including best practices from industry.  Professionals and aspiring professionals from a diverse range of industries and functions, including product managers and product owners, engineering team leaders, executives, analysts and others will find this program valuable.   
+Applied Learning Project
+Learners will implement three projects throughout the course of this Specialization:
+1) In Course 1, you will complete a hands-on project where you will create a machine learning model to solve a simple problem (no coding necessary) and assess your model's performance.
+2) In Course 2, you will identify and frame a problem of interest, design a machine learning system which can help solve it, and begin the development of a project plan.
+3) In Course 3, you will perform a basic user experience design exercise for your ML-based solution and analyze the relevant ethical and privacy considerations of the project.
+"
+AI Strategy and Governance,University of Pennsylvania,Course,1 - 4 Weeks,4.9,69,Beginner,https://www.coursera.org/learn/wharton-ai-strategy-governance,"5,918",[],[],"In this course, you will discover AI and the strategies that are used in transforming business in order to gain a competitive advantage. You will explore the multitude of uses for AI in an enterprise setting and the tools that are available to lower the barriers to AI use. You will get a closer look at the purpose, function, and use-cases for explainable AI. This course will also provide you with the tools to build responsible AI governance algorithms as faculty dive into the large datasets that you can expect to see in an enterprise setting and how that affects the business on a greater scale. Finally, you will examine AI in the organizational structure, how AI is playing a crucial role in change management, and the risks with AI processes. By the end of this course, you will learn different strategies to recognize biases that exist within data, how to ensure that you maintain and build trust with user data and privacy, and what it takes to construct a responsible governance strategy. For additional reading, Professor Hosanagar's book ""A Human’s Guide to Machine Intelligence"" can be used as an additional resource for more extensive information on topics covered in this module.
+"
+AI and Climate Change,DeepLearning.AI,Course,1 - 4 Weeks,4.8,41,Beginner,https://www.coursera.org/learn/ai-and-climate-change,"3,472","['AI for Good project framework', 'Biodiversity Monitoring', 'Supervised Learning', 'Computer Vision', 'Wind Power Generation Modeling']",[],"In this course, you’ll start with a review of the mechanisms behind anthropogenic climate change and its impact on global temperatures and weather patterns. You will work through two case studies, one using time series analysis for wind power forecasting and another using computer vision for biodiversity monitoring. Both case studies are examples of where AI techniques can be part of the solution when it comes to the mitigation of and adaptation to climate change.
+"
+AI and Public Health,DeepLearning.AI,Course,1 - 4 Weeks,4.7,111,Beginner,https://www.coursera.org/learn/ai-and-public-health,"8,294","['Air Quality Monitoring', 'AI for Good project framework', 'Jupyter notebooks', 'Supervised Learning', 'Exploratory Data Analysis']",[],"In this course, you will be introduced to the basics of artificial intelligence and machine learning and how they are applied in real-world scenarios in the AI for Good space. You will also be introduced to a framework for problem solving where AI is part of the solution. The course concludes with a case study featuring three Jupyter notebook labs where you’ll create an air quality monitoring application for the city of Bogotá, Colombia.
+"
+AI for Good,DeepLearning.AI,Specialization,1 - 3 Months,4.8,148,Beginner,https://www.coursera.org/specializations/ai-for-good,"6,742","['Natural Language Processing', 'Topic Model', 'Air Quality Monitoring', 'AI for Good project framework', 'Biodiversity Monitoring', 'Time Series', 'Damage Assessment', 'Jupyter notebooks', 'Supervised Learning', 'Exploratory Data Analysis', 'Computer Vision', 'Wind Power Generation Modeling']","['Master a step-by-step framework for the development of AI projects.', 'Explore real-world case studies related to public health, climate change, and disaster management.', 'Analyze data and build AI models for projects focused on air quality, wind energy, biodiversity monitoring, and disaster management.']","The AI for Good Specialization showcases how AI can be part of the solution when it comes to addressing some of the world’s biggest challenges in areas like public health, climate change, and disaster management.
+In these courses, you’ll learn from instructor Robert Monarch, who has over 20 years of experience building AI products in industry and working at the intersection of AI and public health and disaster management. Robert is also the author of Human-in-the-Loop Machine LearningOpens in a new tab, a book focused on human-centered AI applications. 
+Throughout the courses, you'll hear from experts working on AI for Good initiatives aimed at addressing social and environmental issues. By combining human and machine intelligence, real-world datasets, best practices around data privacy, and ethical considerations, you’ll develop the knowledge and fundamental skills to tackle your own AI for good projects. 
+These courses were built in partnership with researchers at the Microsoft AI for Good LabOpens in a new tab who offered their subject matter expertise throughout the development of the program. We are also grateful to Sasha LuccioniOpens in a new tab, Climate Lead and Researcher at HuggingFace for her help in forming the high-level program structure, outlining what kinds of topics and case studies would work best for these courses, and recruiting many of the experts that either appear in guest speaker videos or have contributed behind the scenes. 
+Applied Learning Project
+Use neural networks and other AI techniques to estimate air quality throughout the city of Bogotá, Colombia.
+Develop an AI model to make wind power generation more predictable by providing forecasts 24 hours into the future.
+Apply computer vision techniques to detect and classify animals for the purpose of biodiversity monitoring.
+Build an image classification pipeline to perform damage assessment using satellite images taken after Hurricane Harvey in the U.S. in 2017.
+Use natural language processing techniques to analyze trends in a corpus of text messages sent in the aftermath of the 2010 earthquake in Haiti.
+"
+AI for Medical Diagnosis,DeepLearning.AI,Course,1 - 4 Weeks,4.7,1.9k,Intermediate,https://www.coursera.org/learn/ai-for-medical-diagnosis,"65,794","['Deep Learning', 'Image Segmentation', 'Machine Learning', 'model evaluation', 'Multi-class classification']",[],"AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. As an AI practitioner, you have the opportunity to join in this transformation of modern medicine. If you're already familiar with some of the math and coding behind AI algorithms, and are eager to develop your skills further to tackle challenges in the healthcare industry, then this specialization is for you. No prior medical expertise is required! 
+This program will give you practical experience in applying cutting-edge machine learning techniques to concrete problems in modern medicine:
+
+- In Course 1, you will create convolutional neural network image classification and segmentation models to make diagnoses of lung and brain disorders. 
+- In Course 2, you will build risk models and survival estimators for heart disease using statistical methods and a random forest predictor to determine patient prognosis. 
+- In Course 3, you will build a treatment effect predictor, apply model interpretation techniques and use natural language processing to extract information from radiology reports.
+
+These courses go beyond the foundations of deep learning to give you insight into the nuances of applying AI to medical use cases. As a learner, you will be set up for success in this program if you are already comfortable with some of the math and coding behind AI algorithms. You don't need to be an AI expert, but a working knowledge of deep neural networks, particularly convolutional networks, and proficiency in Python programming at an intermediate level will be essential. If you are relatively new to machine learning or neural networks, we recommend that you first take the Deep Learning Specialization, offered by deeplearning.ai and taught by Andrew Ng.
+
+The demand for AI practitioners with the skills and knowledge to tackle the biggest issues in modern medicine is growing exponentially. Join us in this specialization and begin your journey toward building the future of healthcare.
+"
+AI for Medicine,DeepLearning.AI,Specialization,1 - 3 Months,4.7,2.2k,Intermediate,https://www.coursera.org/specializations/ai-for-medicine,"41,525","['model interpretation', 'Image Segmentation', 'natural language extraction', 'Machine Learning', 'time-to-event modeling']","['Diagnose diseases from x-rays and 3D MRI brain images', 'Predict patient survival rates more accurately using tree-based models', 'Estimate treatment effects on patients using data from randomized trials', 'Automate the task of labeling medical datasets using natural language processing']","AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. This three-course Specialization will give you practical experience in applying machine learning to concrete problems in medicine.
+These courses go beyond the foundations of deep learning to teach you the nuances in applying AI to medical use cases.  If you are new to deep learning or want to get a deeper foundation of how neural networks work, we recommend taking the Deep Learning SpecializationOpens in a new tab.
+Applied Learning Project
+Medicine is one of the fastest-growing and important application areas, with unique challenges like handling missing data. You’ll start by learning the nuances of working with 2D and 3D medical image data. You’ll then apply tree-based models to improve patient survival estimates. You’ll also use data from randomized trials to recommend treatments more suited to individual patients. Finally, you’ll explore how natural language extraction can more efficiently label medical datasets.
+"
+AI in Healthcare,Stanford University,Specialization,3 - 6 Months,4.7,1.3k,Beginner,https://www.coursera.org/specializations/ai-healthcare,"25,026",[],"['Identify problems healthcare providers face that machine learning can solve', 'Analyze how AI affects patient care safety, quality, and research', 'Relate AI to the science, practice, and business of medicine', 'Apply the building blocks of AI to help you innovate and understand emerging technologies  ']","Artificial intelligence (AI) has transformed industries around the world, and has the potential to radically alter the field of healthcare. Imagine being able to analyze data on patient visits to the clinic, medications prescribed, lab tests, and procedures performed, as well as data outside the health system -- such as social media, purchases made using credit cards, census records, Internet search activity logs that contain valuable health information, and you’ll get a sense of how AI could transform patient care and diagnoses.
+In this specialization, we'll discuss the current and future applications of AI in healthcare with the goal of learning to bring AI technologies into the clinic safely and ethically.  
+This specialization is designed for both healthcare providers and computer science professionals, offering insights to facilitate collaboration between the disciplines.
+CME Accreditation
+The Stanford University School of Medicine is accredited by the Accreditation Council for Continuing Medical Education (ACCME) to provide continuing medical education for physicians.  View the full CME accreditation information on the individual course FAQ page.
+Applied Learning Project
+The final course will consist of a capstone project that will take you on a guided tour exploring all the concepts we have covered in the different classes. This will be a hands-on experience following a patient's journey from the lens of the data, using a unique dataset created for this specialization.We will review how the different choices you make -- such as those around feature construction, the data types to use, how the model evaluation is set up and how you handle the patient timeline -- affect the care that would be recommended by the model.
+"
+"AI, Business & the Future of Work",Lund University,Course,1 - 4 Weeks,4.7,254,Beginner,https://www.coursera.org/learn/ai-business-future-of-work,"24,037",[],"['How AI can give you better information upon which to make better decisions.', 'How AI can help you automate processes and become more efficient.', 'How AI will impact your industry so that you can avoid the pitfalls and seize the benefits.']","This course from Lunds university will help you understand and use AI so that you can transform your organisation to be more efficient, more sustainable and thus innovative. 
+The lives of people all over the world are increasingly enhanced and shaped by artificial intelligence. To organisations there are tremendous opportunities, but also risks, so where do you start to plan for AI, business and the future of work?
+
+Whether you are in the public or private sector, in a large organisation or a small shop, AI has a growing impact on your business. Most organisations don’t have a strategy in place for how to make AI work for them. 
+
+The teacher, Anamaria Dutceac Segesten, will guide you through the topics with short lectures, interviews and interactive exercises meant to get you thinking about your own context.
+
+12 industry professionals, AI experts and thought leaders from different industries have been interviewed and will complement the short lectures to give you a broad overview of perspectives on the topics. You will meet:
+
+Kerstin Enflo
+Professor in Economic History
+Lund University
+
+Dr. Irene Ek	
+Founder	
+Digital Institute
+
+Samuel Engblom
+Policy Director
+The Swedish Confederation of Professional Employees
+
+Pelle Kimvall
+Lead Solution Ideator
+AFRY X
+
+Joakim Wernberg	
+Research Director, Digitalisation and Tech Policy
+Swedish Entrepreneurship Forum
+
+Marcus Henriksson
+Empathic Leader of AI & Automation and Digital Business Development	
+Empathic
+
+Johan Grundström Eriksson	
+Board Advisor, Innovation Management & Corporate Governance	
+Founder & Chairman, aiRikr Innovation AB
+
+Jakob Svensson
+Professor in Media and Communication Studies
+Malmö University
+
+Ulrik Franke
+Senior Researcher
+RISE Research Institutes of Sweden
+
+Björn Lorentzon
+Nordic Growth Lead
+Sympa
+
+Anna Felländer
+Founder 
+AI Sustainability Center
+
+Prof. Fredrik Heintz	
+Associate Professor of Computer Science
+Linköping University
+"
+"AI, Empathy & Ethics","University of California, Santa Cruz",Course,1 - 4 Weeks,4.2,36,Beginner,https://www.coursera.org/learn/ai-empathy-ethics,"4,773",[],"['Compose a personal ethical framework for AI use.', 'Explain how various types of AI programs work.', 'Speculate about the role of AI in the future.']","This nontechnical course provides an overview of artificial intelligence advancements and the ethical challenges we now face as we navigate the development, implementation, and ubiquitous global use of AI.
+"
+AWS Cloud Practitioner Essentials,Amazon Web Services,Course,1 - 3 Months,4.8,1.5k,Beginner,https://www.coursera.org/learn/aws-cloud-practitioner-essentials,"111,494","['Cloud Computing Security', 'AWS cloud', 'cloud networking', 'Cloud Computing', 'Migration and Innovation']","['Understand the working definition of the AWS Cloud', 'Differentiate between on-premises, hybrid-cloud, and all-in cloud', 'Describe the basic global infrastructure of the AWS Cloud', 'Explain the benefits of the AWS Cloud']","Welcome to AWS Cloud Practitioner Essentials. If you’re new to the cloud, whether you’re in a technical or non-technical role such as finance, legal, sales, marketing, this course will provide you with an understanding of fundamental AWS Cloud concepts to help you gain confidence to contribute to your organization’s cloud initiatives. This course is also the starting point to prepare for your AWS Certified Cloud Practitioner certification whenever it’s convenient for you.
+After you complete the course, you’ll understand the benefits of the AWS Cloud and the basics of its global infrastructure. You’ll be able to describe and provide an example of the core AWS services, including compute, network, databases, and storage. For the finance-minded, you’ll be able to articulate the financial benefits of the AWS Cloud, define core billing and pricing models, and learn how to use pricing tools to make cost-effective choices for AWS services.
+"
+AWS Cloud Solutions Architect,Amazon Web Services,Professional Certificate,3 - 6 Months,4.8,4.6k,Intermediate,https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect,"35,988","['AWS Certification Preparation', 'Cloud Architecture', 'Architecting on AWS', 'Data Lakes', 'AWS Management Console']","['Make informed decisions about when and how to apply key AWS Services for compute, storage, database, networking, monitoring, and security.', 'Design architectural solutions, whether designing for cost, performance, and/or operational excellence, to address common business challenges.', 'Create and operate a data lake in a secure and scalable way, ingest and organize data into the data lake, and optimize performance and costs.', 'Prepare for the certification exam, identify your strengths and gaps for each domain area, and build strategies for identifying incorrect responses.']","This professional certificate provides the knowledge and skills you need to start building your career in cloud architecture and helps you prepare for the AWS Certified Solutions Architect - Associate exam. You will start by learning key AWS Services for compute, storage, database, networking, monitoring, and security, then dive into how to design architectural solutions, how to create and operate a data lake, and how to prepare for the certification exam.
+The AWS Certified Solutions Architect – Associate certification showcases knowledge and skills in AWS technology across a wide range of AWS services. The certification focuses on the design of cost and performance optimized solutions and demonstrating a strong understanding of the AWS Well-Architected Framework. This AWS Certification is one of the top-paying IT certifications, per the  SkillSoft IT Skills and Salary reportOpens in a new tab. Per Enterprise Strategy GroupOpens in a new tab, surveyed AWS Certification holders credited their certification for their higher earnings (74%), increased confidence (87%), and increased influence among coworkers (79%).
+To prepare for your AWS Certification exam, we recommend that — in addition to attaining this professional certificate — candidates review the free exam guide, sample questions, and AWS technical documentation (e.g. white papers and product FAQs) on the AWS Certified Solutions Architect - Associate exam pageOpens in a new tab to understand what content and services are covered by the exam.
+Applied Learning Project
+Through 15 hands-on labs, you’ll use the AWS Management Console to apply skills learned in the videos. 
+For example: 
+In Architecting Solutions on AWS, you’ll use Amazon API Gateway, AWS Lambda, Amazon SQS, Amazon DynamoDB, and Amazon SNS to build a serverless web backend.
+In Introduction to Designing Data Lakes, you’ll use Amazon S3, Amazon OpenSearch Service, AWS Lambda and Amazon API Gateway to create an Amazon OpenSearch Service Cluster. You’ll also use Amazon S3, Amazon EC2, Amazon Kinesis Data Firehose, Amazon Kinesis Data Analytics, Amazon Elasticsearch Service to create a data ingestion pipeline with the use of high-scale AWS Managed services. 
+In Cloud Technical Essentials, you’ll design a 3-tier architecture using services like Amazon VPC, Amazon EC2, Amazon RDS with high availability and Elastic Load Balancing following AWS best practices. You’ll upload an architecture diagram laying out your design including the networking layer.
+"
+AWS Cloud Technical Essentials,Amazon Web Services,Course,1 - 3 Months,4.8,4.3k,Beginner,https://www.coursera.org/learn/aws-cloud-technical-essentials,"219,668","['AWS Identity and Access Management', 'Networking on AWS', 'AWS Management Console', 'Cloud Computing', 'aws security']","['Describe terminology and concepts related to AWS services \xa0\xa0  ', 'Articulate key concepts of AWS security measures and AWS Identity and Access Management (IAM) \xa0 \xa0  ', 'You will learn to distinguish among several AWS compute services, including Amazon EC2, AWS Lambda, and Amazon ECS.  ', 'Understand AWS database and storage offerings, including Amazon Relational Database Service (Amazon RDS), Amazon DynamoDB, and Amazon S3.\xa0 \xa0\xa0  ']","Are you in a technical role and want to learn the fundamentals of AWS? Do you aspire to have a job or career as a cloud developer, architect, or in an operations role? If so, AWS Cloud Technical Essentials is an ideal way to start. This course was designed for those at the beginning of their cloud-learning journey - no prior knowledge of cloud computing or AWS products and services required!
+Throughout the course, students will build highly available, scalable, and cost effective application step-by-step. Upon course completion, you will be able to make an informed decision about when and how to apply core AWS services for compute, storage, and database to different use cases. You’ll also learn about cloud security with a review of AWS' shared responsibility model and an introduction to AWS Identity and Access Management (IAM). And, you’ll know how AWS services can be used to monitor and optimize infrastructure in the cloud.
+
+AWS Cloud Technical Essentials is a fundamental-level course and will build your competence, confidence, and credibility with practical cloud skills that help you innovate and advance your professional future. Enroll in AWS Cloud Technical Essentials and start learning the technical fundamentals of AWS today!
+
+Note: This course was designed for learners with a technical background. If you are new to the cloud or come from a business background, we recommend completing AWS Cloud Practitioner Essentials (https://www.coursera.org/learn/aws-cloud-practitioner-essentials) before enrolling in this course.
+"
+AWS Cloud Technology Consultant,Amazon Web Services,Professional Certificate,3 - 6 Months,4.8,4.3k,Beginner,https://www.coursera.org/professional-certificates/aws-cloud-technology-consultant,"3,034","['Data Management', 'teamwork', 'Cloud Architecture', 'Cloud Computing Security', 'Interpersonal Communication', 'Problem Solving', 'Cloud Management', 'Cloud Strategy']","['Understand and translate business goals and drivers into appropriate technical solutions', 'Provide technical direction and oversight to cloud implementation teams', 'Create the conceptual, logical and physical design for cloud-based solutions for infrastructure and platforms', 'Learn how to gather technical requirements, assess client capabilities and analyze findings to provide appropriate cloud solution recommendations']","Prepare for a new career in the fast growing field of cloud consulting. Get professional training designed by AWS and learn how to design and build on AWS from experienced instructors. You’ll also have the chance to unlock career opportunities by connecting with top employers. 
+Through this nine-course program, you’ll gain in-demand skills that prepare you for an entry-level job in the field. You’ll learn from AWS experts how to understand business goals and drivers, translate those into an appropriate AWS technical solution and provide technical direction and oversight to cloud implementation teams.
+After completing this hands-on program you’ll have the foundational and technical context to understand how to build solutions and solve technical problems and how to choose the right AWS solution. You’ll master both the soft skills to become successful cloud consultants and the technical knowledge to go deep into how software gets built, tested and deployed. 
+You’ll also be able to work on a capstone project centered on the Well Architected Framework that you can later share in interviews to demonstrate your job-readiness to potential employers.  
+You can also gain access to the AWS Educate Job Board, where you can explore, search for, and apply to in-demand jobs and internships with leading organizations. 
+Applied Learning Project
+Through 18 hands-on labs, you’ll use the AWS Management Console to apply skills learned in the videos and readings. Here are a few examples of the activities you’ll perform in this Professional Certificate: In Introduction to Information Technology and AWS Cloud, you’ll create a static website with S3 in the easiest way. This lab will introduce you to the AWS Management Console, help you understand the AWS Cloud, and practice hosting a static website on AWS. In AWS Cloud Technical Essentials, you’ll use AWS Identity and Access Management (IAM) to manage your AWS services’ access and permissions. You’ll practice the steps to add users to groups, manage passwords, log in as users with various permissions, and view the effects of IAM policies. In Automation in the AWS Cloud, you’ll work with AWS CLI, write a bash script to perform a task/write user data script to download code and run it on EC2 and build a run command to uninstall Apache and install nginx.  
+
+"
+AWS Fundamentals,Amazon Web Services,Specialization,3 - 6 Months,4.8,4.4k,Beginner,https://www.coursera.org/specializations/aws-fundamentals,"18,282","['AWS Identity and Access Management', 'Networking on AWS', 'AWS Management Console', 'Cloud Computing', 'aws security', 'Software Architecture', 'Data Analysis', 'Data Visualization (DataViz)', 'AWS Account Management']",[],"This specialization gives current or aspiring IT professionals an overview of the features, benefits, and capabilities of Amazon Web Services (AWS). As you proceed through these four interconnected courses, you will gain a more vivid understanding of core AWS services, key AWS security concepts, strategies for migrating from on-premises to AWS, and basics of building serverless applications with AWS. Additionally, you will have opportunities to practice what you have learned by completing labs and exercises developed by AWS technical instructors.
+Applied Learning Project
+This specialization gives current or aspiring IT professionals an overview of the features, benefits, and capabilities of Amazon Web Services (AWS). As you proceed through these four interconnected courses, you will gain a more vivid understanding of core AWS services, key AWS security concepts, strategies for migrating from on-premises to AWS, and basics of building serverless applications with AWS. Additionally, you will have opportunities to practice what you have learned by completing labs and exercises developed by AWS technical instructors.
+"
