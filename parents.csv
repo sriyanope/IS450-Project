@@ -1,0 +1,65 @@
+,course_title,org,cert_type,enrolled,series_type,rating,num_reviews,difficulty,url,lo_description,lo_skills,course_description,course_details
+0,Google Business Intelligence Professional Certificate,Google,Professional Certificate,"108,078",3 course series,4.8,2,Advanced,https://www.coursera.org/professional-certificates/google-business-intelligence,"Explore the roles of business intelligence (BI) professionals within an organization;Practice data modeling and extract, transform, load (ETL) processes that meet organizational goals ;Design data visualizations that answer business questions;Create dashboards that effectively communicate data insights to stakeholders","Business Intelligence;Extraction, Transformation And Loading (ETL);Bigquery;Dashboarding and Reporting;Data Analysis;Data Modeling;Business Analysis;SQL;Tableau Software;Business Process;Sheets;Data Visualization;Effective Communication;Presenting Data Insights;Data transformation;Data Management;Database Optimization;Google Dataflow/Google BigQuery;Business Processes and Requirements;Sharing Insights With Stakeholders;Stakeholder Management;Cross-Functional Team Dynamics;Asking Effective Questions","Professional Certificate - 3 course series;Get professional training designed by Google and take the next step in your career with advanced skills in the high-growth field of business intelligence. There are over 84,000 open jobs in business intelligence with a median salary of $101,000+ in the U.S.1;Business intelligence professionals collect, organize, interpret, and report on data to help organizations make informed business decisions. Some responsibilities include measuring performance, tracking revenue or spending, and monitoring progress.;This certificate builds on your data analytics skills and experience to take your career to the next level. It's designed for graduates of the Google Data Analytics CertificateOpens in a new tab or people with equivalent data analytics experience. Expand your knowledge with practical, hands-on projects, featuring BigQuery, SQL, and Tableau.;After three courses, you’ll be prepared for jobs like business intelligence analyst, business intelligence engineer, business intelligence developer, and more. At under 10 hours a week, the certificate program can be completed in less than two months. Upon completion, you can apply for jobs with Google and over 150 U.S. employers, including Deloitte, Target, and Verizon.;75% of certificate graduates report a positive career outcome (e.g., new job, promotion or raise) within six months of completion2;¹Lightcast™ U.S. Job Postings (2024: Jan. 1, 2024 - Dec. 31, 2024);2Based on program graduate survey responses, US 2022;Applied Learning Project;This program includes over 70 hours of instruction and 50+ practice-based assessments, which will help you simulate real-world business intelligence scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in business intelligence. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to BI tools and platforms and key technical skills required for an entry-level job.;Platforms and tools you will learn include: BigQuery, SQL, Tableau;In addition to expert training and hands-on projects, you'll complete a portfolio project that you can share with potential employers to showcase your new skill set. Learn concrete skills that top employers are hiring for right now.;
+","Foundations of Business Intelligence
+Course 1•14 hours•4.8 (1,668 ratings)
+What you'll learn
+ • Understand common careers and industries that use BI
+ • Investigate the impact data can have on business decision-making
+ • Explain the important role that BI professionals have in businesses
+ • Develop a BI project plan
+Skills you'll gain
+Business Processes and Requirements, Sharing Insights With Stakeholders, Stakeholder Management, Cross-Functional Team Dynamics, Asking Effective Questions
+
+The Path to Insights: Data Models and Pipelines
+Course 2•16 hours•4.7 (603 ratings)
+What you'll learn
+ • Build data models that answer business questions
+ • Apply the ETL process to workplace scenarios
+ • Explore ETL tools
+ • Construct a pipeline to deliver necessary data
+Skills you'll gain
+Extraction, Transformation And Loading (ETL), Data transformation, Data Management, Database Optimization, Google Dataflow/Google BigQuery
+
+Decisions, Decisions: Dashboards and Reports
+Course 3•19 hours•4.8 (1,030 ratings)
+What you'll learn
+ • Design BI visualizations
+ • Practice using BI reporting and dashboard tools
+ • Create presentations to share key BI insights with stakeholders
+ • Develop professional materials for your job search
+Skills you'll gain
+Dashboarding and Reporting, Effective Communication, Tableau Software, Data Visualization, Presenting Data Insights
+
+"
+1,Building No-Code Apps with AppSheet Specialization,Google Cloud,Specialization,"3,922",3 course series,4.8,86,Beginner,https://www.coursera.org/specializations/building-no-code-apps-with-appsheet,"Learn how to use AppSheet, Google Cloud’s no-code app development tool to develop no-code apps.;Use recommended practices to design, manage, and secure app data.;Understand the AppSheet publication process to deploy and publish an app.;Implement business processes automation with AppSheet.",Spreadsheet Software;User Experience;Data Management;Databases;Google Cloud Platform;Mobile Development,"Specialization - 3 course series;This specialization first introduces you to the fundamentals of no-code application development and the capabilities offered by Google Cloud's no-code application development platform AppSheet.
+
+Learn to organize and manage app data, secure and customize apps, and integrate with external services. The courses in this specialization also include topics on managing and upgrading your app, improving app performance and troubleshooting.
+
+Recognize the need to implement business process automation, and use AppSheet’s automation capabilities to send notifications, generate reports and parse documents.;Applied Learning Project;The courses that make up this specialization teach you how to develop no-code apps and implement various capabilities that include data organization and management, application security, actions and integrations in your app using AppSheet. Learners learn to version and upgrade an app, improve app scalability and performance, and troubleshoot common problems with the app.;Recognize the need to implement business process automation in your organization. The course on AppSheet automation discusses automation patterns and use cases, and how to use AppSheet constructs to implement automation in your app. Learn about the various features of AppSheet automation, how to send notifications, generate reports, parse documents, and integrate your app with Google Workspace products.","Building No-Code Apps with AppSheet: Foundations
+Course 1•5 hours•4.7 (159 ratings)
+What you'll learn
+ • Learn about no-code app development and the use cases for building no-code apps.
+ • Learn to navigate the AppSheet UI and editor to build and test a no-code app.
+ • Learn the publishing process to deploy and publish an app for end users.
+ • Create and deploy a simple app.
+Skills you'll gain
+Work with app data sources using Google sheets, Understand the capabilities of the AppSheet no-code app development platform, Navigate the AppSheet UI and editor to build an app, Create and customize the user experience of an app using AppSheet views and branding, Learn the process to deploy and publish an app
+
+Building No-Code Apps with AppSheet: Implementation
+Course 2•12 hours•4.6 (15 ratings)
+What you'll learn
+ • Organize and manage the data used by your app. Add actions, behaviors and automation to your app.
+ • Control access to your app and its data, and integrate your app with external services.
+ • Learn how to improve the performance of your app, manage app versions and upgrade your app.
+ • Collaborate and author your app with your team, and learn how to troubleshoot problems with your app.
+Skills you'll gain
+Application and data access control, App authoring and collaboration, External service integration, App behaviors and automation, App version management
+
+Building No-Code Apps with AppSheet: Automation
+Course 3•7 hours
+What you'll learn
+ • Define business process automation and recognize its use cases in an organization.
+ • Learn how AppSheet automation can automate business processes.
+ • Implement automation in your app with AppSheet automation constructs.
+
+"

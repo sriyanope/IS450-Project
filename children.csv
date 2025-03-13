@@ -1,0 +1,820 @@
+parent_id,course_title,org,cert_type,enrolled,series_type,rating,num_reviews,difficulty,url,lo_description,lo_skills,course_description,course_details
+0,"Decisions, Decisions: Dashboards and Reports",Google,Course,"40,813",6 modules,4.8,1,Advanced,https://www.coursera.org/learn/decisions-decisions-dashboards-and-reports,Design BI visualizations;Practice using BI reporting and dashboard tools;Create presentations to share key BI insights with stakeholders;Develop professional materials for your job search,,"There are 6 modules in this course;You’re almost there! This is the third and final course in the Google Business Intelligence Certificate. In this course, you’ll apply your understanding of stakeholder needs, plan and create BI visuals, and design reporting tools, including dashboards. You’ll also explore how to answer business questions with flexible and interactive dashboards that can monitor data over long periods of time.;Google employees who currently work in BI will guide you through this course by providing hands-on activities that simulate job tasks, sharing examples from their day-to-day work, and helping you build business intelligence skills to prepare for a career in the field. 
+
+Learners who complete the three courses in this certificate program will have the skills needed to apply for business intelligence jobs. This certificate program assumes prior knowledge of foundational analytical principles, skills, and tools covered in the Google Data Analytics Certificate.  
+
+By the end of this course, you will:
+-Explain how BI visualizations answer business questions
+-Identify complications that may arise during the creation of BI visualizations
+-Produce charts that represent BI data monitored over time
+-Use dashboard and reporting tools
+-Build dashboards using best practices to meet stakeholder needs
+-Iterate on a dashboard to meet changing project requirements
+-Design BI presentations to share insights with stakeholders
+-Create or update a resume and prepare for BI interviews","Business intelligence visualizations
+Module 1•3 hours to complete
+You’ll learn about the foundations of BI dashboards, including how they differ from other data analytics dashboards. You’ll also explore how to use dynamic visualizations to answer business questions. Finally, you’ll develop an understanding of how a dashboard’s interactivity empowers stakeholders.
+What's included
+10 videos•Total 32 minutes
+ • Introduction to Course 3•3 minutes•Preview module
+ • Terrence: A day in the life as a BI analyst•2 minutes
+ • Welcome to module 1•1 minute
+ • Data visualization in business intelligence•3 minutes
+ • Empower stakeholders•3 minutes
+ • Plan a dashboard using mockups•3 minutes
+ • Dashboard missteps and how to avoid them•4 minutes
+ • Refresh your Tableau skills•3 minutes
+ • Wrap-up•0 minutes
+ • [Optional] Review Google Data Analytics Certificate content about data visualization•6 minutes
+8 readings•Total 44 minutes
+ • Helpful resources and tips•4 minutes
+ • Course 3 overview•4 minutes
+ • Dashboard examples•4 minutes
+ • Activity Exemplar: Design a data visualization mockup•8 minutes
+ • Visualization tool resources•8 minutes
+ • Balance tool limitations and user expectations•4 minutes
+ • Take a tour of Tableau•8 minutes
+ • Glossary terms from course 3, module 1•4 minutes
+4 assignments•Total 95 minutes
+ • Test your knowledge: Data visualizations and dashboards•15 minutes
+ • Activity: Design a data visualization mockup•30 minutes
+ • Test your knowledge: Planning a dashboard•15 minutes
+ • Module 1 challenge•35 minutes
+2 plugins•Total 30 minutes
+ • Your business intelligence roadmap•15 minutes
+ • Emphasize: Effective charts for visualization•15 minutes
+
+Visualize results
+Module 2•4 hours to complete
+You’ll consider the tradeoffs involved with building a BI visualization, and you’ll practice creating charts and visualizations. You’ll also explore effective ways to organize elements within a dashboard. Finally, you’ll identify factors that contribute to processing speed and how to maximize dashboard performance.
+What's included
+11 videos•Total 36 minutes
+ • Welcome to module 2•1 minute•Preview module
+ • Design trade-offs when building a dashboard•4 minutes
+ • DeAndrea: Business intelligence in action•2 minutes
+ • Start a chart•3 minutes
+ • Organize dashboard elements•3 minutes
+ • Processing speeds and privacy settings•4 minutes
+ • Wrap-up•1 minute
+ • [Optional] Review Google Data Analytics Certificate content about aggregation•3 minutes
+ • [Optional] Review Google Data Analytics Certificate content about data types•5 minutes
+ • [Optional] Review Google Data Analytics Certificate content about Tableau•1 minute
+ • [Optional] Review Google Data Analytics Certificate content about dashboards•4 minutes
+12 readings•Total 84 minutes
+ • Compare scope in different contexts•4 minutes
+ • Case study: Allegis Group - Visualizing key data to understand and advance employee performance•8 minutes
+ • Design resource guide•8 minutes
+ • How to choose the right chart type for your data•8 minutes
+ • Activity Exemplar: Create a chart in Tableau•8 minutes
+ • Activity Exemplar: Lay out dashboard elements in Tableau•8 minutes
+ • Reduce processing load and maintain dashboard effectiveness•8 minutes
+ • Case study: FeatureBase: Exploring the trends with visualizations•8 minutes
+ • Privacy settings in business intelligence tools•8 minutes
+ • Glossary terms from course 3, module 2•4 minutes
+ • [Optional] Effective data visualizations•4 minutes
+ • [Optional] Design thinking for visualization improvement•8 minutes
+5 assignments•Total 130 minutes
+ • Activity: Create a chart in Tableau •30 minutes
+ • Test your knowledge: Communicate clearly with visuals•15 minutes
+ • Activity: Lay out dashboard elements in Tableau•30 minutes
+ • Test your knowledge: Considerations when laying out out a dashboard•15 minutes
+ • Module 2 challenge •40 minutes
+2 plugins•Total 30 minutes
+ • Organize: Insightful dashboards•15 minutes
+ • Protect: Data sources and privacy settings•15 minutes
+
+Automate and monitor
+Module 3•3 hours to complete
+You’ll build charts and organize them to create dashboards that effectively monitor data for the long term. In addition, you’ll put yourself in the role of a BI professional by meeting with a client, practicing question-asking and communication skills, and using the information the client provides to inform your project. 
+What's included
+9 videos•Total 17 minutes
+ • Welcome to module 3•1 minute•Preview module
+ • Complete a dashboard project•2 minutes
+ • Andrea: Power of a BI specialist•2 minutes
+ • Role-play with a stakeholder•1 minute
+ • Data-driven charts•3 minutes
+ • Erica: How BI tools are put to work•3 minutes
+ • Well-organized dashboards•1 minute
+ • Dashboard iteration•1 minute
+ • Wrap-up•1 minute
+9 readings•Total 52 minutes
+ • Potential pain points when long-term monitoring•4 minutes
+ • Prepare your project•4 minutes
+ • Email from your supervisor: Chart design•4 minutes
+ • Activity Exemplar: Create your charts•8 minutes
+ • Email from your supervisor: Dashboard organization•8 minutes
+ • Activity Exemplar: Create your dashboard•8 minutes
+ • Email from your supervisor: Redirections and shifts in scope•4 minutes
+ • Email from your coworker: Iteration tips•4 minutes
+ • Activity Exemplar: Iterate on your dashboard•8 minutes
+4 assignments•Total 120 minutes
+ • Activity: Create your charts•30 minutes
+ • Activity: Create your dashboard•30 minutes
+ • Activity: Iterate on your dashboard•30 minutes
+ • Module 3 challenge•30 minutes
+
+Present business intelligence insights
+Module 4•3 hours to complete
+You’ll explore stakeholder presentations and strategies for sharing dashboards with clients. Then, you’ll focus on preparing for the BI interview process by refining your portfolio, updating your resume, practicing interview techniques that demonstrate your skills to recruiters and hiring managers, and more.
+What's included
+11 videos•Total 36 minutes
+ • Welcome to module 4•1 minute•Preview module
+ • Present your insights•3 minutes
+ • The business intelligence professional hiring process•3 minutes
+ • Heather: Personal career journey into BI•3 minutes
+ • Incorporate business intelligence work in your portfolio•2 minutes
+ • Refine your resume•3 minutes
+ • Kelly: Tips for resume preparation•2 minutes
+ • Interview preparation strategies•3 minutes
+ • Wrap-up•1 minute
+ • [Optional] Review Google Data Analytics Certificate content about presentations•2 minutes
+ • [Optional] Review Google Data Analytics Certificate content about creating a resume•9 minutes
+9 readings•Total 56 minutes
+ • Business intelligence presentation examples•8 minutes
+ • Case study: Ipsos - Informing stakeholders with compelling data visualizations•8 minutes
+ • Activity Exemplar: Design a slide deck for a business intelligence presentation•8 minutes
+ • Use prediction for better collaboration•4 minutes
+ • Resume-writing workshop•8 minutes
+ • Activity Exemplar: Stand out with a compelling, focused resume•4 minutes
+ • Proactive approaches to the interview process•8 minutes
+ • Prepare for interviews with Interview Warmup•4 minutes
+ • Glossary terms from module 4•4 minutes
+3 assignments•Total 90 minutes
+ • Activity: Design a slide deck for a business intelligence presentation •30 minutes
+ • Activity: Stand out with a compelling, focused resume•30 minutes
+ • Module 4 challenge•30 minutes
+1 plugin•Total 15 minutes
+ • Practice: Presentation structures•15 minutes
+
+Course 3 end-of-course project
+Module 5•4 hours to complete
+You’ll finish working on your portfolio project by building a BI dashboard. You’ll refer to key BI documents to create a low-fidelity mockup, design charts, and organize your dashboard. Your portfolio artifacts will include a mockup and a working dashboard, which will be ready to present to stakeholders.
+What's included
+12 videos•Total 33 minutes
+ • Welcome to module 5•1 minute•Preview module
+ • Complete your end-of-course project•2 minutes
+ • Course wrap-up•0 minutes
+ • Tony: Career-building strategies•3 minutes
+ • Myles: Driving impact with AI in the workplace •2 minutes
+ • Boost your data analytics skills with AI•5 minutes
+ • Clean and prepare data with help from AI •3 minutes
+ • Organize data and build formulas using AI•5 minutes
+ • Use AI to help you ask more effective questions•2 minutes
+ • Create engaging data visualizations with AI•2 minutes
+ • Improve your R code with help from AI •3 minutes
+ • Introducing Google AI Essentials•1 minute
+11 readings•Total 52 minutes
+ • Explore Course 3 end-of-course workplace scenarios•4 minutes
+ • Course 3 end-of-course project overview: Cyclistic•4 minutes
+ • Activity Exemplar: Build a dashboard for Cyclistic•4 minutes
+ • Course 3 End-of-course project overview: Google Fiber•4 minutes
+ • Activity Exemplar: Build a dashboard for Google Fiber•4 minutes
+ • Incorporate your project into your portfolio•4 minutes
+ • Create your online portfolio•4 minutes
+ • Introduction to AI for business intelligence•4 minutes
+ • Use generative AI to help you work smarter and faster•8 minutes
+ • Key takeaways from AI in business intelligence•8 minutes
+ • Take the next step with Google AI Essentials•4 minutes
+4 assignments•Total 155 minutes
+ • Activity: Build a dashboard for Cyclistic•30 minutes
+ • Activity: Build a dashboard for Google Fiber•30 minutes
+ • Activity: Use AI to write a project requirements document•45 minutes
+ • Assess your Course 3 end-of-course project•50 minutes
+
+Put your Google Business Intelligence Certificate to work
+Module 6•53 minutes to complete
+You’ll review what you’ve learned throughout the Google Business Intelligence Certificate and explore additional career resources to establish yourself as a BI professional. 
+What's included
+2 videos•Total 3 minutes
+ • Congratulations on completing the Google Business Intelligence Certificate! •1 minute•Preview module
+ • Program recap•1 minute
+4 readings•Total 35 minutes
+ • Business Intelligence Certificate glossary•3 minutes
+ • Showcase your work•8 minutes
+ • Claim your Google Business Intelligence Certificate badge•20 minutes
+ • Resources for Google Business Intelligence Certificate graduates•4 minutes
+1 plugin•Total 15 minutes
+ • End-of-program survey•15 minutes
+
+"
+0,The Path to Insights: Data Models and Pipelines,Google,Course,"50,805",4 modules,4.7,603,Advanced,https://www.coursera.org/learn/the-path-to-insights-data-models-and-pipelines,Build data models that answer business questions ;Apply the ETL process to workplace scenarios;Explore ETL tools;Construct a pipeline to deliver necessary data,,"There are 4 modules in this course;This is the second of three courses in the Google Business Intelligence Certificate. In this course, you'll explore data modeling and how databases are designed. Then you’ll learn about extract, transform, load (ETL) processes that extract data from source systems, transform it into formats that enable analysis, and drive business processes and goals.;Google employees who currently work in BI will guide you through this course by providing hands-on activities that simulate job tasks, sharing examples from their day-to-day work, and helping you build business intelligence skills to prepare for a career in the field. 
+
+Learners who complete the three courses in this certificate program will have the skills needed to apply for business intelligence jobs. This certificate program assumes prior knowledge of foundational analytical principles, skills, and tools covered in the Google Data Analytics Certificate.   
+
+By the end of this course, you will:
+-Determine which data models are appropriate for different business requirements
+-Describe the difference between creating and interacting with a data model
+-Create data models to address different types of questions 
+-Explain the parts of the extract, transform, load (ETL) process and tools used in ETL
+-Understand extraction processes and tools for different data storage systems
+-Design an ETL process that meets organizational and stakeholder needs 
+-Design data pipelines to automate BI processes","Data models and pipelines
+Module 1•7 hours to complete
+You’ll start this course by exploring data modeling, common schemas, and database elements. You’ll consider how business needs determine the kinds of database systems that BI professionals implement. Then, you’ll discover pipelines and ETL processes, which are tools that move data and ensure that it’s accessible and useful. 
+What's included
+19 videos•Total 69 minutes
+ • Introduction to Course 2•2 minutes•Preview module
+ • Ed: Overcome imposter syndrome•2 minutes
+ • Welcome to module 1•0 minutes
+ • Data modeling, design patterns, and schemas•4 minutes
+ • Get the facts with dimensional models•4 minutes
+ • Dimensional models with star and snowflake schemas•2 minutes
+ • Different data types, different databases•6 minutes
+ • The shape of the data•4 minutes
+ • Design useful database schemas•4 minutes
+ • Data pipelines and the ETL process•5 minutes
+ • Maximize data through the ETL process•2 minutes
+ • Choose the right tool for the job •3 minutes
+ • Introduction to Dataflow•2 minutes
+ • Coding with Python•3 minutes
+ • Gather information from stakeholders•3 minutes
+ • Wrap-up•1 minute
+ • [Optional] Review Google Data Analytics Certificate content about data types•5 minutes
+ • [Optional] Review Google Data Analytics Certificate content about primary and foreign keys•3 minutes
+ • [Optional] Review Google Data Analytics Certificate content about BigQuery •4 minutes
+16 readings•Total 92 minutes
+ • Helpful resources and tips•4 minutes
+ • Course 2 overview•4 minutes
+ • Design efficient database systems with schemas•8 minutes
+ • Database comparison checklist•4 minutes
+ • Four key elements of database schemas•4 minutes
+ • Review a database schema•8 minutes
+ • Business intelligence tools and their applications•4 minutes
+ • ETL-specific tools and their applications•4 minutes
+ • Guide to Dataflow•8 minutes
+ • Python applications and resources•8 minutes
+ • Merge data from multiple sources with BigQuery•4 minutes
+ • Unify data with target tables•4 minutes
+ • Activity Exemplar: Create a target table in BigQuery•8 minutes
+ • Case study: Wayfair - Working with stakeholders to create a pipeline•8 minutes
+ • Glossary terms from course 2, module 1•4 minutes
+ • [Optional] Review Google Data Analytics Certificate content about SQL best practices•8 minutes
+8 assignments•Total 230 minutes
+ • Module 1 challenge•60 minutes
+ • Test your knowledge: Data modeling, schemas, and databases•20 minutes
+ • Test your knowledge: Choose the right database•15 minutes
+ • Test your knowledge: How data moves•15 minutes
+ • [Optional] Activity: Create a Google Cloud account•30 minutes
+ • [Optional] Activity: Create a streaming pipeline in Dataflow•30 minutes
+ • Activity: Set up a sandbox and query a public dataset in BigQuery•30 minutes
+ • Activity: Create a target table in BigQuery•30 minutes
+3 plugins•Total 45 minutes
+ • Your business intelligence roadmap•15 minutes
+ • Inspect: Database models and schemas•15 minutes
+ • Transport: More about the data pipeline•15 minutes
+
+Dynamic database design
+Module 2•3 hours to complete
+You’ll learn more about database systems, including data marts, data lakes, data warehouses, and ETL processes. You’ll also investigate the five factors of database performance: workload, throughput, resources, optimization, and contention. Finally, you’ll consider how to design efficient queries that get the most from a system.
+What's included
+6 videos•Total 18 minutes
+ • Welcome to module 2•1 minute•Preview module
+ • Data marts, data lakes, and the ETL process•3 minutes
+ • The five factors of database performance•3 minutes
+ • Optimize database performance•4 minutes
+ • The five factors in action•4 minutes
+ • Wrap-up•1 minute
+7 readings•Total 48 minutes
+ • ETL versus ELT•8 minutes
+ • A guide to the five factors of database performance•4 minutes
+ • Indexes, partitions, and other ways to optimize•8 minutes
+ • Activity Exemplar: Partition data and create indexes in BigQuery•8 minutes
+ • Case study: Deloitte - Optimizing outdated database systems•8 minutes
+ • Determine the most efficient query•8 minutes
+ • Glossary terms from course 2, module 2•4 minutes
+3 assignments•Total 95 minutes
+ • Module 2 challenge•50 minutes
+ • Activity: Partition data and create indexes in BigQuery•30 minutes
+ • Test your knowledge: Database performance•15 minutes
+2 plugins•Total 30 minutes
+ • Store: Understand data storage systems•15 minutes
+ • Design: Optimize for database speed•15 minutes
+
+Optimize ETL processes
+Module 3•4 hours to complete
+You’ll learn about optimization techniques including ETL quality testing, data schema validation, business rule verification, and general performance testing. You’ll also explore data integrity and learn how built-in quality checks defend against potential problems. Finally, you’ll focus on verifying business rules and general performance testing to make sure pipelines meet the intended business need.
+What's included
+10 videos•Total 33 minutes
+ • Welcome to module 3•1 minute•Preview module
+ • The importance of quality testing•5 minutes
+ • Mana: Quality data is useful data•3 minutes
+ • Conformity from source to destination•4 minutes
+ • Check your schema•3 minutes
+ • Verify business rules•3 minutes
+ • Burak: Evolving technology•2 minutes
+ • Wrap-up•1 minute
+ • [Optional] Review Google Data Analytics Certificate content about data integrity•2 minutes
+ • [Optional] Review Google Data Analytics Certificate content about metadata•3 minutes
+10 readings•Total 64 minutes
+ • Seven elements of quality testing•4 minutes
+ • Monitor data quality with SQL•8 minutes
+ • Sample data dictionary and data lineage•8 minutes
+ • Schema-validation checklist•4 minutes
+ • Activity Exemplar: Evaluate a schema using a validation checklist•8 minutes
+ • Business rules•8 minutes
+ • Database performance testing in an ETL context•8 minutes
+ • Defend against known issues•4 minutes
+ • Case study: FeatureBase, Part 2: Alternative solutions to pipeline systems•8 minutes
+ • Glossary terms from course 2, module 3•4 minutes
+5 assignments•Total 125 minutes
+ • Module 3 challenge•35 minutes
+ • Test your knowledge: Optimize pipelines and ETL processes•15 minutes
+ • Activity: Evaluate a schema using a validation checklist •50 minutes
+ • Test your knowledge: Data schema validation•15 minutes
+ • Test your knowledge: Business rules and performance testing •10 minutes
+2 plugins•Total 30 minutes
+ • Validate: Data quality and integrity•15 minutes
+ • Evaluate: Performance test your data pipeline•15 minutes
+
+Course 2 end-of-course project
+Module 4•2 hours to complete
+You’ll complete an end-of-course project by creating a pipeline process to deliver data to a target table and developing reports based on project needs. You’ll also ensure that the pipeline is performing correctly and that there are built-in defenses against data quality issues.
+What's included
+5 videos•Total 10 minutes
+ • Welcome to module 4•2 minutes•Preview module
+ • Continue your end-of-course project•1 minute
+ • Tips for ongoing success with your end-of-course project•2 minutes
+ • Luis: Tips for interview preparation•2 minutes
+ • Course wrap-up•1 minute
+12 readings•Total 46 minutes
+ • Explore Course 2 end-of-course project scenarios•4 minutes
+ • Course 2 workplace scenario overview: Cyclistic•4 minutes
+ • Cyclistic datasets•8 minutes
+ • Observe the Cyclistic team in action•4 minutes
+ • Activity Exemplar: Create your target table for Cyclistic•4 minutes
+ • Course 2 workplace scenario overview: Google Fiber•4 minutes
+ • Google Fiber datasets•4 minutes
+ • [Optional] Merge Google Fiber datasets in Tableau•4 minutes
+ • Activity Exemplar: Create your target table for Google Fiber•4 minutes
+ • Reflect and connect with peers•2 minutes
+ • Course 2 glossary•2 minutes
+ • Get started on Course 3•2 minutes
+3 assignments•Total 65 minutes
+ • Assess your Course 2 end-of-course project•5 minutes
+ • Activity: Create your target table for Cyclistic•30 minutes
+ • Activity: Create your target table for Google Fiber•30 minutes
+
+"
+0,Foundations of Business Intelligence,Google,Course,"135,740",4 modules,4.8,1,Advanced,https://www.coursera.org/learn/foundations-of-business-intelligence,Understand common careers and industries that use BI;Investigate the impact data can have on business decision-making;Explain the important role that BI professionals have in businesses;Develop a BI project plan ,,"There are 4 modules in this course;This is the first of three courses in the Google Business Intelligence Certificate, which will help develop the skills needed to apply for entry-level roles as a business intelligence (BI) professional. People who work in BI help organizations access the right data, use data to help businesses grow and improve, and put insights into action. In this course, you’ll discover the role of BI professionals within an organization and explore BI tools you can use on the job. ;Google employees who currently work in BI will guide you through this course by providing hands-on activities that simulate job tasks, sharing examples from their day-to-day work, and helping you build business intelligence skills to prepare for a career in the field. 
+
+Learners who complete the three courses in this certificate program will have the skills needed to apply for business intelligence jobs. This certificate program assumes prior knowledge of foundational analytical principles, skills, and tools covered in the Google Data Analytics Certificate.  
+
+By the end of this course, you will:
+-Make key distinctions between business intelligence (BI) and data analysis
+-Explore how data is used in business processes and decision-making 
+-Describe ways that BI professionals impact their organizations
+-Identify the uses and benefits of BI tools, including data models, pipelines, data visualizations, and dashboards
+-Acquire, manipulate, and integrate data using key BI concepts
+-Select and define metrics that are relevant to project goals and stakeholder questions
+-Develop and execute a BI project by working with stakeholders to determine project requirements, execute tasks, and deliver insights that guide decision-making","Data-driven results through business intelligence
+Module 1•6 hours to complete
+Begin learning about business intelligence and the roles of BI analysts and engineers within organizations. You’ll discover the tools and techniques BI professionals use to make business decisions and improve processes. In addition, you’ll explore the similarities and differences between BI and data analytics. 
+What's included
+15 videos•Total 60 minutes
+ • Welcome to the Google Business Intelligence Certificate•5 minutes•Preview module
+ • Introduction to Course 1•2 minutes
+ • Sally: Personal career journey•2 minutes
+ • Explore business intelligence careers•3 minutes
+ • Business intelligence teams and partners•4 minutes
+ • Business intelligence maximizes the value of data analytics•4 minutes
+ • The stages of business intelligence•4 minutes
+ • Contribute to a winning business intelligence strategy•5 minutes
+ • The business intelligence professional’s toolbox•4 minutes
+ • Wrap-up•1 minute
+ • Gagan: Get connected•2 minutes
+ • Quiz-taking tips and techniques•1 minute
+ • [Optional] Review Google Data Analytics Certificate content about the data analysis process•6 minutes
+ • [Optional] Review Google Data Analytics Certificate content about data strategy•6 minutes
+ • [Optional] Review Google Data Analytics Certificate content about data governance•3 minutes
+15 readings•Total 92 minutes
+ • Google Business Intelligence Certificate overview •4 minutes
+ • Course 1 overview•8 minutes
+ • Helpful resources and tips •8 minutes
+ • Business intelligence drives change•8 minutes
+ • Collaboration with business intelligence partners•8 minutes
+ • Compare data analysis and business intelligence•4 minutes
+ • Key business intelligence documents•8 minutes
+ • Activity Exemplar: Complete the business intelligence documents•8 minutes
+ • Case study: FeatureBase, Part 1: Fine tuning metrics for data collection•8 minutes
+ • Review technologies and best practices•8 minutes
+ • Prepare to assess your readiness for the Google Business Intelligence Certificate•4 minutes
+ • Understand your readiness score•4 minutes
+ • Participate in program surveys•4 minutes
+ • Get to know other learners•4 minutes
+ • Glossary terms from course 1, module 1•4 minutes
+6 assignments•Total 170 minutes
+ • Module 1 challenge•50 minutes
+ • Test your knowledge: Organizations and teams that benefit from business intelligence•15 minutes
+ • Test your knowledge: Business intelligence structures and stages •15 minutes
+ • Activity: Complete the business intelligence documents  •60 minutes
+ • Test your knowledge: How business intelligence makes an impact•15 minutes
+ • Assess your readiness for the Google Business Intelligence Certificate•15 minutes
+5 plugins•Total 75 minutes
+ • Your business intelligence roadmap•15 minutes
+ • Collaborate: Work as a team•15 minutes
+ • Explore: Your business intelligence toolbox•15 minutes
+ • Commit to completing the program •15 minutes
+ • Google Business Intelligence Certificate participant entry survey•15 minutes
+
+Business intelligence tools and techniques
+Module 2•2 hours to complete
+Explore the BI process, which involves engaging with stakeholders, using tools to make the most of available data, and applying the power of rapid monitoring to make smart business decisions. In addition, you’ll start building career resources by enhancing your online presence, developing strategies for networking and mentorship, and creating a portfolio that will impress future hiring managers.
+What's included
+13 videos•Total 52 minutes
+ • Welcome to module 2•2 minutes•Preview module
+ • Business intelligence stakeholders•4 minutes
+ • Become an expert business intelligence communicator•4 minutes
+ • The value of near-real-time monitoring•3 minutes
+ • Career focus: Let's get to (net)work•2 minutes
+ • Professional relationship building•3 minutes
+ • Anita: My path to BI•2 minutes
+ • Jerrod: The incredible value of mentorship•2 minutes
+ • Wrap-up•1 minute
+ • [Optional] Review Google Data Analytics Certificate content about stakeholders•4 minutes
+ • [Optional] Review Google Data Analytics Certificate content about asking effective questions•7 minutes
+ • [Optional] Review Google Data Analytics Certificate content about bias•3 minutes
+ • [Optional] Review Google Data Analytics Certificate content about creating a resume•9 minutes
+6 readings•Total 36 minutes
+ • Know your stakeholders and their goals•8 minutes
+ • Best practices for communicating with stakeholders•8 minutes
+ • How companies benefit from near-real-time intelligence•4 minutes
+ • Job-search resources for business intelligence professionals•4 minutes
+ • The many benefits of mentorships•8 minutes
+ • Glossary terms from course 1, module 2•4 minutes
+3 assignments•Total 70 minutes
+ • Module 2 challenge•40 minutes
+ • Test your knowledge: Business intelligence analysts and engineers—the ultimate team players•15 minutes
+ • Test your knowledge: Near-real-time monitoring •15 minutes
+1 plugin•Total 15 minutes
+ • Monitor: Gain real-time intelligence•15 minutes
+
+Context is crucial for purposeful insights
+Module 3•3 hours to complete
+Consider the importance of context from a BI perspective. You’ll explore data limitations, including how to address constant changes and access big-picture insights in a timely manner. You’ll also discover strategies that BI professionals use to anticipate and overcome these limitations. Finally, you’ll develop an understanding of how context influences metrics.
+What's included
+7 videos•Total 23 minutes
+ • Welcome to module 3•2 minutes•Preview module
+ • Reexamine the importance of context•4 minutes
+ • Data availability in a world of constant change•5 minutes
+ • Meghna: Beware of bias•2 minutes
+ • Meaningful metrics•4 minutes
+ • Wrap-up•1 minute
+ • [Optional] Review Google Data Analytics Certificate content about data integrity•2 minutes
+9 readings•Total 76 minutes
+ • Why context is critical •8 minutes
+ • Data ethics and the importance of data privacy•8 minutes
+ • Anticipate data limitations•4 minutes
+ • How to identify key metrics for a project •8 minutes
+ • North star metrics•8 minutes
+ • Bridge the gap from current state to ideal state •8 minutes
+ • Case study: USDM - Selecting key project metrics•8 minutes
+ • Glossary terms from course 1, module 3•4 minutes
+ • [Optional] Review Google Data Analytics Certificate content about context•20 minutes
+3 assignments•Total 70 minutes
+ • Module 3 challenge•40 minutes
+ • Test your knowledge: Constant change and other limitations•15 minutes
+ • Test your knowledge: Move beyond data limitations•15 minutes
+1 plugin•Total 15 minutes
+ • Identify: Meaningful metrics•15 minutes
+
+Course 1 end-of-course project
+Module 4•2 hours to complete
+Finally, you’ll complete an end-of-course project. The project is an opportunity to apply the skills and knowledge you developed during this course in a workplace scenario. For this project, you’ll prepare project planning documents and solve a business problem using BI.
+What's included
+5 videos•Total 13 minutes
+ • Welcome to module 4•4 minutes•Preview module
+ • Patrick: Be a candidate of choice •3 minutes
+ • Introduction to your end-of-course project•3 minutes
+ • End-of-course project review•1 minute
+ • Course wrap-up•1 minute
+11 readings•Total 46 minutes
+ • End-of-course project introduction•8 minutes
+ • Design effective executive summaries•4 minutes
+ • Explore Course 1 end-of-course project scenarios•4 minutes
+ • Course 1 workplace scenario overview: Cyclistic•8 minutes
+ • Activity Exemplar: Complete the business intelligence project documents for Cyclistic•4 minutes
+ • Course 1 workplace scenario overview: Google Fiber•4 minutes
+ • Activity Exemplar: Complete the business intelligence documents for Google Fiber•4 minutes
+ • Join the community•2 minutes
+ • Glossary terms from module 4•4 minutes
+ • Course 1 glossary•2 minutes
+ • Get started on Course 2•2 minutes
+3 assignments•Total 65 minutes
+ • Assess your Course 1 end-of-course project•5 minutes
+ • Activity: Complete the business intelligence project documents for Cyclistic•30 minutes
+ • Activity: Complete the business intelligence documents for Google Fiber•30 minutes
+
+"
+1,Building No-Code Apps with AppSheet: Implementation,Google Cloud,Course,,9 modules,4.6,15,Intermediate,https://www.coursera.org/learn/building-no-code-apps-with-appsheet-implementation,"Organize and manage the data used by your app.  Add actions, behaviors and automation to your app.;Control access to your app and its data, and integrate your app with external services.;Learn how to improve the performance of your app, manage app versions and upgrade your app.;Collaborate and author your app with your team, and learn how to troubleshoot problems with your app.",,"There are 9 modules in this course;This course teaches you how to implement various capabilities that include data organization and management, application security, actions and integrations in your app using AppSheet. The course also includes topics on managing and upgrading your app, improving performance and troubleshooting issues with your app.","Module 0: Introduction
+Module 1•1 minute to complete
+Introduction to the course.
+What's included
+1 video•Total 1 minute
+ • Course Introduction•1 minute•Preview module
+
+Module 1: Understanding Data
+Module 2•2 hours to complete
+Organize the data used by your app and add functionality with AppSheet data types and expressions.
+What's included
+11 videos•Total 59 minutes
+ • Organizing data for your app•7 minutes•Preview module
+ • Using keys•7 minutes
+ • AppSheet data types•11 minutes
+ • App column formulas•2 minutes
+ • AppSheet expressions•13 minutes
+ • Slices•3 minutes
+ • Constraints•2 minutes
+ • Data validation•4 minutes
+ • Getting Started with Google Cloud Platform and Qwiklabs•4 minutes
+ • Lab: Working with Data in AppSheet•0 minutes
+ • Module Review•0 minutes
+1 assignment•Total 10 minutes
+ • Quiz•10 minutes
+1 app item•Total 75 minutes
+ • Lab: Working with Data in AppSheet•75 minutes
+
+Module 2: Adding Behaviors to Your App
+Module 3•2 hours to complete
+Add functionality to your app with AppSheet actions and behaviors.
+What's included
+12 videos•Total 47 minutes
+ • Actions•5 minutes•Preview module
+ • Actions for app navigation•9 minutes
+ • Actions for data changes•5 minutes
+ • Actions for external communication•6 minutes
+ • Composite actions•1 minute
+ • Lab: Adding Actions to an App in AppSheet•0 minutes
+ • Automation•3 minutes
+ • Using offline sync•3 minutes
+ • View events•5 minutes
+ • Customizing input forms•5 minutes
+ • Lab: Using View Events and Custom Forms in AppSheet•0 minutes
+ • Module Review•0 minutes
+1 assignment•Total 10 minutes
+ • Quiz•10 minutes
+2 app items•Total 90 minutes
+ • Lab: Adding Actions to an App in AppSheet•60 minutes
+ • Lab: Using View Events and Custom Forms in AppSheet•30 minutes
+
+Module 3: Securing Your App
+Module 4•1 hour to complete
+Learn how to secure your app with AppSheet's security features.
+What's included
+10 videos•Total 34 minutes
+ • AppSheet security•6 minutes•Preview module
+ • Application access control•4 minutes
+ • Data access control•2 minutes
+ • Authentication and authorization•5 minutes
+ • Security filters•10 minutes
+ • Auditing•1 minute
+ • Lab: Securing Your AppSheet App•0 minutes
+ • Private tables•2 minutes
+ • Using sensitive information•0 minutes
+ • Module Review•0 minutes
+1 assignment•Total 8 minutes
+ • Quiz•8 minutes
+1 app item•Total 75 minutes
+ • Lab: Securing Your AppSheet App•75 minutes
+
+Module 4: Integrations
+Module 5•2 hours to complete
+Integrate your app with external applications and services providing access to the data used by the app.
+What's included
+7 videos•Total 23 minutes
+ • AppSheet REST API•7 minutes•Preview module
+ • Apigee REST API•4 minutes
+ • AppSheet webhooks•4 minutes
+ • Webhook to the AppSheet API•3 minutes
+ • Custom webhooks•2 minutes
+ • Lab: Integrating Your AppSheet App with External Services•0 minutes
+ • Module Review•0 minutes
+1 assignment•Total 8 minutes
+ • Quiz•8 minutes
+2 app items•Total 135 minutes
+ • Lab: Using Cloud SQL as a Datasource for Your AppSheet App•45 minutes
+ • Lab: Integrating Your AppSheet App with External Services•90 minutes
+
+Module 5: Advanced App Design
+Module 6•1 hour to complete
+Improve app scalability and performance with security filters and data partitioning.
+What's included
+8 videos•Total 39 minutes
+ • Data scalability•10 minutes•Preview module
+ • AppSheet user settings•3 minutes
+ • Lab: Using Data Partitions with Your AppSheet App•0 minutes
+ • App performance•11 minutes
+ • Using large datasets•3 minutes
+ • Multi-language app support•7 minutes
+ • App user feedback•2 minutes
+ • Module Review•0 minutes
+1 assignment•Total 8 minutes
+ • Quiz•8 minutes
+1 app item•Total 60 minutes
+ • Lab: Using Data Partitions with Your AppSheet App•60 minutes
+
+Module 6: Managing Your App
+Module 7•39 minutes to complete
+Perform management functions like versioning, upgrading, monitoring and authoring your app.
+What's included
+6 videos•Total 29 minutes
+ • Versioning your app•4 minutes•Preview module
+ • Upgrading your app•6 minutes
+ • Monitoring your app•4 minutes
+ • App authoring•4 minutes
+ • Team collaboration•8 minutes
+ • Module Review•0 minutes
+1 assignment•Total 10 minutes
+ • Quiz•10 minutes
+
+Module 7: Troubleshooting Your App
+Module 8•21 minutes to complete
+Troubleshoot errors and common problems with your app.
+What's included
+3 videos•Total 15 minutes
+ • Data, access and sync errors•10 minutes•Preview module
+ • Troubleshooting common problems•5 minutes
+ • Module Review•0 minutes
+1 assignment•Total 6 minutes
+ • Quiz•6 minutes
+
+Module 8: Course Review
+Module 9•2 minutes to complete
+Course review and knowledge gained from the course.
+What's included
+1 video•Total 2 minutes
+ • Course Review•2 minutes•Preview module
+
+"
+1,Building No-Code Apps with AppSheet: Foundations,Google Cloud,Course,"8,800",7 modules,4.7,159,Beginner,https://www.coursera.org/learn/building-no-code-apps-with-appsheet-foundations,Learn about no-code app development and the use cases for building no-code apps.;Learn to navigate the AppSheet UI and editor to build and test a no-code app.;Learn the publishing process to deploy and publish an app for end users.;Create and deploy a simple app.,Spreadsheet Software;User Experience;Data Management;Databases;Google Cloud Platform;Mobile Development,"There are 7 modules in this course;In this course you will learn the fundamentals of no-code app development and recognize use cases for no-code apps. The course provides an overview of the AppSheet no-code app development platform and its capabilities. You learn how to create an app with data from spreadsheets, create the app’s user experience using AppSheet views and publish the app to end users.","Introduction
+Module 1•1 minute to complete
+Introducing the AppSheet course.
+What's included
+1 video•Total 1 minute
+ • Course Introduction•1 minute•Preview module
+
+AppSheet Overview
+Module 2•46 minutes to complete
+Define the fundamentals of no-code app development and provide an overview of AppSheet capabilities.
+What's included
+7 videos•Total 28 minutes
+ • Module Overview•0 minutes•Preview module
+ • History of apps•1 minute
+ • Fundamentals of no-code app development•9 minutes
+ • What is AppSheet?•3 minutes
+ • AppSheet use cases•2 minutes
+ • Demo•10 minutes
+ • Module Review•0 minutes
+1 reading•Total 10 minutes
+ • AppSheet use cases and sample apps•10 minutes
+1 assignment•Total 8 minutes
+ • AppSheet Overview•8 minutes
+
+Getting Started
+Module 3•1 hour to complete
+How to get started using AppSheet and understand the AppSheet editor user interface.
+What's included
+8 videos•Total 22 minutes
+ • Module Overview•0 minutes•Preview module
+ • Signing in to AppSheet•1 minute
+ • Creating your first app•10 minutes
+ • Testing your app•1 minute
+ • Sharing your app•2 minutes
+ • Lab: Creating a Basic App using AppSheet•0 minutes
+ • Getting Started with Google Cloud Platform and Qwiklabs•4 minutes
+ • Module Review•0 minutes
+1 assignment•Total 8 minutes
+ • Getting Started•8 minutes
+1 app item•Total 30 minutes
+ • Lab: Creating a Basic App using AppSheet•30 minutes
+
+Leveraging Data
+Module 4•1 hour to complete
+Using data sources with your app.
+What's included
+7 videos•Total 36 minutes
+ • Module Overview•0 minutes•Preview module
+ • Using data sources•3 minutes
+ • Defining the data structure in your app•9 minutes
+ • Using more than one table in your app•5 minutes
+ • Demo•16 minutes
+ • Lab: Configuring Data for your App using AppSheet•0 minutes
+ • Module Review•0 minutes
+1 assignment•Total 8 minutes
+ • Leveraging Data•8 minutes
+1 app item•Total 30 minutes
+ • Lab: Configuring Data for your App using AppSheet•30 minutes
+
+Defining the User Experience of Your App
+Module 5•1 hour to complete
+Using the AppSheet editor define the user experience of the app.
+What's included
+7 videos•Total 39 minutes
+ • Module Overview•0 minutes•Preview module
+ • Introduction to AppSheet Views•9 minutes
+ • Using Views in AppSheet•5 minutes
+ • Customizing the UX of your app•6 minutes
+ • Demo•15 minutes
+ • Lab: Implementing the User Experience for your App  using AppSheet•0 minutes
+ • Module Review•0 minutes
+1 assignment•Total 10 minutes
+ • Defining the User Experience of Your App•10 minutes
+1 app item•Total 30 minutes
+ • Lab: Implementing the User Experience for your App using AppSheet•30 minutes
+
+Publishing Your App
+Module 6•48 minutes to complete
+Describe the app publication process.
+What's included
+7 videos•Total 12 minutes
+ • Module Overview•0 minutes•Preview module
+ • App deployment process•3 minutes
+ • Deployment methods•3 minutes
+ • Testing your app•1 minute
+ • Sharing your app•2 minutes
+ • Lab: Publishing your App using AppSheet•0 minutes
+ • Module Review•0 minutes
+1 assignment•Total 6 minutes
+ • Publishing Your App•6 minutes
+1 app item•Total 30 minutes
+ • Lab: Publishing your App using AppSheet•30 minutes
+
+Course Review
+Module 7•2 minutes to complete
+Review the Building No-Code Apps with AppSheet: Foundations course.
+What's included
+1 video•Total 2 minutes
+ • Course Review•2 minutes•Preview module
+
+"
+1,Building No-Code Apps with AppSheet: Automation,Google Cloud,Course,,5 modules,,,7 hours to complete,https://www.coursera.org/learn/building-no-code-apps-with-appsheet-automation,Define business process automation and recognize its use cases in an organization.;Learn how AppSheet automation can automate business processes.;Implement automation in your app with AppSheet automation constructs.,,"There are 5 modules in this course;This course helps you recognize the need to implement business process automation in your organization. You learn about automation patterns and use cases, and how to use AppSheet constructs to implement automation in your app. You learn about the various features of AppSheet automation, and integrate your app with Google Workspace products. You also learn how to send email, push notifications and text messages from your app, parse documents and generate reports with AppSheet automation.","Module 0: Introduction
+Module 1•1 minute to complete
+Introduction to the course.
+What's included
+1 video•Total 1 minute
+ • Course Introduction•1 minute•Preview module
+
+Module 1: Implementing Business Processes
+Module 2•29 minutes to complete
+Understand business process automation, recognize patterns and use cases, and learn about the capabilities and features of AppSheet automation.
+What's included
+5 videos•Total 21 minutes
+ • Introduction to business process automation•2 minutes•Preview module
+ • AppSheet automation overview•3 minutes
+ • Patterns for automation•7 minutes
+ • Demo: AppSheet Automation•7 minutes
+ • Module Review•0 minutes
+1 assignment•Total 8 minutes
+ • Quiz: Implementing Business Processes•8 minutes
+
+Module 2: AppSheet Automation
+Module 3•2 hours to complete
+Implement AppSheet automation capabilities in your app.
+What's included
+9 videos•Total 39 minutes
+ • AppSheet automation•5 minutes•Preview module
+ • Automation features•11 minutes
+ • Auto constructs and looping•4 minutes
+ • Getting Started with Google Cloud and Qwiklabs•4 minutes
+ • Lab: Implementing Automation in AppSheet•0 minutes
+ • Apps Script integration•7 minutes
+ • Lab: Using Apps Script with AppSheet automation•0 minutes
+ • Monitoring automation•3 minutes
+ • Module Review•0 minutes
+1 assignment•Total 10 minutes
+ • Quiz: AppSheet Automation•10 minutes
+2 app items•Total 90 minutes
+ • Implementing Automation in AppSheet•60 minutes
+ • Using Apps Script with AppSheet Automation•30 minutes
+
+Module 3: Notifications and Reports
+Module 4•4 hours to complete
+Use automation to send push notifications, dynamic emails and text messages from your app.
+What's included
+11 videos•Total 51 minutes
+ • Push notifications•10 minutes•Preview module
+ • Template variables•4 minutes
+ • Lab: Sending Push Notifications with AppSheet Automation•0 minutes
+ • Embedded app view emails•6 minutes
+ • Lab: Interacting with Embedded App View Emails in AppSheet•0 minutes
+ • Messaging from a bot•4 minutes
+ • Generating files and reports•11 minutes
+ • Lab: Generating Reports with AppSheet Automation•0 minutes
+ • Processing documents•12 minutes
+ • Lab: Processing Documents in AppSheet•0 minutes
+ • Module Review•0 minutes
+1 assignment•Total 10 minutes
+ • Quiz: Notifications and Reports•10 minutes
+4 app items•Total 195 minutes
+ • Sending Push Notifications with AppSheet Automation•45 minutes
+ • Interacting with Embedded App View Emails in AppSheet•60 minutes
+ • Generating Reports with AppSheet Automation•60 minutes
+ • Processing Documents in AppSheet•30 minutes
+
+Module 4: Course Review
+Module 5•1 minute to complete
+Review of course content.
+What's included
+1 video•Total 1 minute
+ • Course Review•1 minute•Preview module
+
+"
