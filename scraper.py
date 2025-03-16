@@ -205,8 +205,13 @@ def main(csv, include_course=True):
             parent_df.to_csv("prog_scraped.csv", index=True)
     parent_df.to_csv("prog_scraped.csv", index=True)
 
-  # Second pass: scrape all course URLs
+    # Second pass: scrape all course URLs
     if include_course and all_course_urls:
+        flattened = [url for sublist in all_course_urls for url in sublist]
+        course_urls = pd.DataFrame(flattened, columns=["url"])
+        course_urls.to_csv("course_urls.csv", index=False)
+        print("-----Child URLs Saved-----")
+
         total_course = len(all_course_urls)
         session = requests.Session()
         
@@ -256,4 +261,4 @@ def main(csv, include_course=True):
 
         print(f"Final results: {len(course_df)} courses and {len(module_df)} module entries")
 
-main("test_courses.csv", include_course=True)
+main("programs.csv", include_course=True)
