@@ -1,15 +1,26 @@
 <DOC>
 mathworks computer vision engineer
-prepare for a in the rapidly expanding field of computer vision the ability to extract meaningful information from visual data is crucial for efficiently developing smart monitoring systems enhancing medical diagnostics and powering the next generation of autonomous vehicles this is designed to transform those with little or no prior image data into proficient computer vision practitioners by completing several handson with realworld applications by the end of the have the necessary to automate image processing tasks detect and track motion train deep models for image classification and object detection tasks and implement advanced deep techniques like data augmentation and aiassisted annotation possessing these will prepare you to keep pace with modern systems which increasingly incorporate cameras into their designsthroughout the use matlab an industrystandard platform known for its userfriendly interface and robust functions that simplify complex algorithms the intuitive apps and functions mean that you dont need to be a programmer or math expert to achieve success leverage matlab capabilities to rapidly prototype and iterate on solutions giving you a competitive edge in the job market and the confidence to push the boundaries of whats possible in computer vision and deep learningapplied projectthis includes several realworld to ensure you are industryreadymeasuring antarctic ice melt by analyzing satellite imagesdetecting and tracking cars on a busy highwayexamining the martian surface by stitching together images from a mars roverdetecting and classifying the letters of the asl alphabet for accessible communicationidentifying and locating parking signs for automated parking assistancedetecting anomalies in medical images for further investigation
+prepare for a in the rapidly expanding field of computer vision the ability to extract meaningful information from visual data is crucial for efficiently developing smart monitoring systems enhancing medical diagnostics and powering the next generation of autonomous vehicles this is designed to transform those with little or no prior image data into proficient computer vision practitioners by completing several handson projects with realworld applications
+by the end of the have the necessary to automate image processing tasks detect and track motion train deep learning models for image classification and object detection tasks and implement advanced deep learning techniques like data augmentation and aiassisted annotation possessing these will prepare you to keep pace with modern systems which increasingly incorporate cameras into their designs
+throughout the use matlab an industrystandard platform known for its userfriendly interface and robust functions that simplify complex algorithms the intuitive apps and functions mean that you dont need to be a programmer or math expert to achieve success leverage matlab capabilities to rapidly prototype and iterate on solutions giving you a competitive edge in the job market and the confidence to push the boundaries of whats possible in computer vision and deep learning
+
+this includes several realworld projects to ensure you are industryready
+measuring antarctic ice melt by analyzing satellite images
+detecting and tracking cars on a busy highway
+examining the martian surface by stitching together images from a mars rover
+detecting and classifying the letters of the asl alphabet for accessible communication
+identifying and locating parking signs for automated parking assistance
+detecting anomalies in medical images for further investigation
 </DOC>
 
 <DOC>
 image segmentation filtering and region analysis
-build on the learned in introduction to image processing to through common complications such as noise use spatial filters to deal with different types of artifacts new approaches to segmentation such as edge detection and clustering also analyze regions of interest and calculate properties such as size orientation and location by the end of this be able to separate and analyze regions in your own images apply your to segment an mri image of a brain to separate different tissues use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your image processing tasks be provided with free access to matlab for the duration of the to complete your to be successful you should have a background in basic math and some exposure to matlab if you want to familiarize yourself with matlab check out the free twohour matlab onramp with image processing is not required
+build on the learned in introduction to image processing to through common complications such as noise use spatial filters to deal with different types of artifacts new approaches to segmentation such as edge detection and clustering also analyze regions of interest and calculate properties such as size orientation and location
+by the end of this be able to separate and analyze regions in your own images apply your to segment an mri image of a brain to separate different tissues use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your image processing tasks be provided with free access to matlab for the duration of the to complete your to be successful you should have a background in basic math and some exposure to matlab if you want to familiarize yourself with matlab check out the free twohour matlab onramp with image processing is not required
 
 spatial filtering and edge detection
 app item
-overview image segmentation filtering and region analysis reducing noise with spatial filtering detecting edges
+image segmentation filtering and region analysis reducing noise with spatial filtering detecting edges
 
 improving segmentation
 
@@ -26,7 +37,8 @@ calculating and using region properties putting it all together analyzing d imag
 
 <DOC>
 introduction to computer vision
-in the first of the computer vision for engineering and science be introduced to computer vision and use the most common algorithms for feature detection extraction and matching to align satellite images and stitch images together to create a single image of a larger scene features are used in applications like motion estimation object tracking and machine use features to estimate geometric transformations between images and perform image registration registration is important whenever you need to compare images of the same scene taken at different times or combine images acquired from different scientific instruments as is common with hyperspectral and medical images use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your computer vision tasks be provided free access to matlab for the duration to complete your to be successful it will help to have some prior image processing if you are new to image data its recommended to first complete the image processing for engineering and science
+in the first of the computer vision for engineering and science be introduced to computer vision and use the most common algorithms for feature detection extraction and matching to align satellite images and stitch images together to create a single image of a larger scene
+features are used in applications like motion estimation object tracking and machine learning use features to estimate geometric transformations between images and perform image registration registration is important whenever you need to compare images of the same scene taken at different times or combine images acquired from different scientific instruments as is common with hyperspectral and medical images use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your computer vision tasks be provided free access to matlab for the duration to complete your to be successful it will help to have some prior image processing if you are new to image data its recommended to first complete the image processing for engineering and science
 
 introduction to features
 discussion prompt
@@ -46,12 +58,13 @@ stitching images together of introduction to computer vision
 </DOC>
 
 <DOC>
-advanced deep techniques for computer vision
-visual inspection and medical imaging are two applications that aim to find anything unusual in images train and calibrate specialized models known as anomaly detectors to identify defects also use advanced techniques to overcome common data challenges with deep aiassisted labeling is a technique to autolabel images saving time and money when you have tens of thousands of images if you have too few images generate synthetic training images using data augmentation for situations where acquiring more data is expensive or impossibleby the end of this be able to train anomaly detection models generate synthetic training images using data augmentation use aiassisted annotation to label images and files import models from rd party tools like pytorch describe approaches to using your model outside of matlab for the duration of the have free access to matlab software used by top employers worldwide the courses draw on the applications using matlab so you spend less time coding and more time applying deep concepts
+advanced deep learning techniques for computer vision
+visual inspection and medical imaging are two applications that aim to find anything unusual in images train and calibrate specialized models known as anomaly detectors to identify defects also use advanced techniques to overcome common data challenges with deep learning aiassisted labeling is a technique to autolabel images saving time and money when you have tens of thousands of images if you have too few images generate synthetic training images using data augmentation for situations where acquiring more data is expensive or impossible
+by the end of this be able to train anomaly detection models generate synthetic training images using data augmentation use aiassisted annotation to label images and files import models from rd party tools like pytorch describe approaches to using your model outside of matlab for the duration of the have free access to matlab software used by top employers worldwide the courses draw on the applications using matlab so you spend less time coding and more time applying deep learning concepts
 
 anomaly detection
 train anomaly detection models these models do not find specific objects or classes but instead find unusual regions in images
-deep for computer vision advanced deep techniques for computer vision detecting anomalies detecting anomalies in matlab
+deep learning for computer vision advanced deep learning techniques for computer vision detecting anomalies detecting anomalies in matlab
 
 data augmentation
 generate synthetic images to use for training models
@@ -62,12 +75,13 @@ save hours of manual labor by using modelassisted labeling to prepare images for
 
 creating your own models
 how to diagnose problems when training models for your applications also the options available to share and use your model outside of matlab
-starting your own deep working with third party models integrating your code of deep for computer vision
+starting your own deep learning project working with third party models integrating your code of deep learning for computer vision
 </DOC>
 
 <DOC>
 object tracking and motion detection with computer vision
-in the third and final of the computer vision for engineering and science to track objects and detect motion in tracking objects and detecting motion are difficult tasks but are required for applications as varied as microbiology and autonomous systems to track objects you first need to detect them use pretrained deep neural networks to perform object detection also use optical flow to detect motion and use the results to detect moving objectsat the end of this apply all the learned to a final take the role of an engineer being asked to track cars on a busy highway with the added challenge of counting each vehicle and its direction use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your computer vision tasks be provided free access to matlab for the duration to complete your to be successful it will help to have some prior image processing if you are new to image data its recommended to first complete the image processing for engineering and science
+in the third and final of the computer vision for engineering and science to track objects and detect motion in tracking objects and detecting motion are difficult tasks but are required for applications as varied as microbiology and autonomous systems to track objects you first need to detect them use pretrained deep neural networks to perform object detection also use optical flow to detect motion and use the results to detect moving objects
+at the end of this apply all the learned to a final project take the role of an engineer being asked to track cars on a busy highway with the added challenge of counting each vehicle and its direction use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your computer vision tasks be provided free access to matlab for the duration to complete your to be successful it will help to have some prior image processing if you are new to image data its recommended to first complete the image processing for engineering and science
 
 detecting objects
 app item discussion prompts
@@ -81,39 +95,41 @@ detection and tracking
 discussion prompt
 introduction to object tracking implementing object tracking concepts implementing object tracking execution
 
-final
+final project
 discussion prompt plugin
-introduction to the traffic flow integrating your code of computer vision for engineering and science
+introduction to the traffic flow project integrating your code of computer vision for engineering and science
 </DOC>
 
 <DOC>
-deep for object detection
-detecting and locating objects is one of the most common uses of deep for computer vision applications include helping autonomous systems navigate complex environments locating medical conditions like tumors and identifying readytoharvest crops in agriculture in the apply detection models to realworld scenarios and train a model to detect various parking signs completing this will give you the to train detection models for your applicationby the end of this be able to explain how deep networks locate and classify objects in images retrain popular yolo deep models for your application use a variety of metrics to evaluate prediction results visualize results to gain insights into model performance improve model performance by adjusting important model parameters analyze labeled images to identify and fix potential shortcomings in your data for the duration of the have free access to matlab software used by top employers worldwide the courses draw on the applications using matlab so you spend less time coding and more time applying deep concepts
+deep learning for object detection
+detecting and locating objects is one of the most common uses of deep learning for computer vision applications include helping autonomous systems navigate complex environments locating medical conditions like tumors and identifying readytoharvest crops in agriculture in the projects apply detection models to realworld scenarios and train a model to detect various parking signs completing this will give you the to train detection models for your application
+by the end of this be able to explain how deep learning networks locate and classify objects in images retrain popular yolo deep learning models for your application use a variety of metrics to evaluate prediction results visualize results to gain insights into model performance improve model performance by adjusting important model parameters analyze labeled images to identify and fix potential shortcomings in your data for the duration of the have free access to matlab software used by top employers worldwide the courses draw on the applications using matlab so you spend less time coding and more time applying deep learning concepts
 
 detecting objects with pretrained models
 get started with object detection by using pretrained models
-deep for computer vision deep for object detection introduction to object detection with cnns using pretrained object detectors
+deep learning for computer vision deep learning for object detection introduction to object detection with cnns using pretrained object detectors
 
 training object detection models
-use transfer to retrain yolo models for new applications
-overview of training object detection models labeling your images analyzing your labeled data peforming transfer with object detection models
+use transfer learning to retrain yolo models for new applications
+of training object detection models labeling your images analyzing your labeled data peforming transfer learning with object detection models
 
 evaluating object detection models
 use metrics like recall precision and mean average precision to evaluate your models
 evaluating object detection models addressing common issues in detection
 
-final train and evaluate a detection model
-apply the full object detection workflow on a final
-introduction to the final of deep for object detection
+final project train and evaluate a detection model
+apply the full object detection workflow on a final project
+introduction to the final project of deep learning for object detection
 </DOC>
 
 <DOC>
 automating image processing
-build on the acquired in image segmentation filtering and region analysis to explore large sets of images and files its impractical to manually inspect results in large data sets automating image processing allows you to do your more efficiently at the end of this apply all the learned to a final take the role of an engineer being asked to monitor traffic on a busy road detect cars from a noisy and analyze the results use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your image processing tasks be provided with free access to matlab for the duration of the to complete your to be successful you should have a background in basic math and some exposure to matlab if you want to familiarize yourself with matlab check out the free twohour matlab onramp with image processing is not required
+build on the acquired in image segmentation filtering and region analysis to explore large sets of images and files its impractical to manually inspect results in large data sets automating image processing allows you to do your more efficiently
+at the end of this apply all the learned to a final project take the role of an engineer being asked to monitor traffic on a busy road detect cars from a noisy and analyze the results use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your image processing tasks be provided with free access to matlab for the duration of the to complete your to be successful you should have a background in basic math and some exposure to matlab if you want to familiarize yourself with matlab check out the free twohour matlab onramp with image processing is not required
 
 processing batches of images
 discussion prompt
-overview automating image processing using the image batch processor app batch processing with image datastores
+automating image processing using the image batch processor app batch processing with image datastores
 
 working with files
 discussion prompt
@@ -123,39 +139,41 @@ analyzing results
 app item
 analyzing data in matlab practical image processing
 
-final detecting cars in a noisy
+final project detecting cars in a noisy
 app item discussion prompt plugin
-introduction to the final of image processing for engineering and science
+introduction to the final project of image processing for engineering and science
 </DOC>
 
 <DOC>
-introduction to deep for computer vision
-starting with zero deep knowledge this foundational will guide you to effectively train cuttingedge models for image classification purposes from analyzing medical images to recognizing traffic signs classification is important for many applications classification models also serve as the backbone for more complicated object detection models through handson train and evaluate models to classify street signs and identify the letters of american sign language by completing this develop a strong foundation in deep for image analysis and will be equipped with the to tackle realworld computer vision challengesby the end of this be able to explain how deep networks find image features and make predictions retrain common models like googlenet and resnet for specific applications investigate model behavior to identify errors and determine potential fixes improve model performance by tuning hyperparameters complete the entire deep workflow in a final for the duration of the have free access to matlab software used by top employers worldwide the courses draw on the applications using matlab so you spend less time coding and more time applying deep concepts
+introduction to deep learning for computer vision
+starting with zero deep learning knowledge this foundational will guide you to effectively train cuttingedge models for image classification purposes from analyzing medical images to recognizing traffic signs classification is important for many applications classification models also serve as the backbone for more complicated object detection models through handson projects train and evaluate models to classify street signs and identify the letters of american sign language by completing this develop a strong foundation in deep learning for image analysis and will be equipped with the to tackle realworld computer vision challenges
+by the end of this be able to explain how deep learning networks find image features and make predictions retrain common models like googlenet and resnet for specific applications investigate model behavior to identify errors and determine potential fixes improve model performance by tuning hyperparameters complete the entire deep learning workflow in a final project for the duration of the have free access to matlab software used by top employers worldwide the courses draw on the applications using matlab so you spend less time coding and more time applying deep learning concepts
 
-introduction to deep with images
+introduction to deep learning with images
 the key components of convolutional neural networks and train a simple classification model
-deep for computer vision introduction to deep for computer vision introduction to convolutional neural networks preparing your data for classification creating and training a cnn for classification
+deep learning for computer vision introduction to deep learning for computer vision introduction to convolutional neural networks preparing your data for classification creating and training a cnn for classification
 
-transfer
-retraining networks with new data is the most common way to apply deep in industry retrain common networks set appropriate values for training options and compare results from different models
-introduction to transfer performing transfer for classification common training options training and comparing models with experiment manager
+transfer learning
+retraining networks with new data is the most common way to apply deep learning in industry retrain common networks set appropriate values for training options and compare results from different models
+introduction to transfer learning performing transfer learning for classification common training options training and comparing models with experiment manager
 
 investigating network behavior
 explaining how models make predictions is increasingly important use confidence scores and visualizations to determine what regions of an image the model is using to make predictions also identify common errors and adjust training options to improve performance
 interpreting network behavior addressing common issues
 
-final classifying the asl alphabet
-apply your new to a final
-final classifying the american sign language alphabet
+final project classifying the asl alphabet
+apply your new to a final project
+final project classifying the american sign language alphabet
 </DOC>
 
 <DOC>
-machine for computer vision
-in the second of the computer vision for engineering and science perform two of the most common computer vision tasks classifying images and detecting objects apply the entire machine workflow from preparing your data to evaluating your results by the end of this train machine models to classify images of street signs and detect material defectsyou will use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your computer vision tasks be provided free access to matlab for the duration to complete your to be successful it will help to have some prior image processing if you are new to image data its recommended to first complete the image processing for engineering and science
+machine learning for computer vision
+in the second of the computer vision for engineering and science perform two of the most common computer vision tasks classifying images and detecting objects apply the entire machine learning workflow from preparing your data to evaluating your results by the end of this train machine learning models to classify images of street signs and detect material defects
+use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your computer vision tasks be provided free access to matlab for the duration to complete your to be successful it will help to have some prior image processing if you are new to image data its recommended to first complete the image processing for engineering and science
 
-image classification with machine
+image classification with machine learning
 
-computer vision for engineering and science introduction to machine for computer vision the machine workflow introduction to classification models preparing your images for classification training image classification models
+computer vision for engineering and science introduction to machine learning for computer vision the machine learning workflow introduction to classification models preparing your images for classification training image classification models
 
 image classification using bag of features
 app item discussion prompt
@@ -165,18 +183,19 @@ evaluating classification models
 
 evaluating classification models evaluating classification models in matlab common issues in image classification
 
-object detection with machine
+object detection with machine learning
 
-object detection with machine labeling your images for machine introduction to the object detection of machine for computer vision
+object detection with machine learning labeling your images for machine learning introduction to the object detection project of machine learning for computer vision
 </DOC>
 
 <DOC>
 introduction to image processing
-introduction to image processing take your first steps in accessing and adjusting digital images for analysis and processing load save and adjust image size and orientation while also understanding how digital images are recognized then perform basic segmentation and quantitative analysis lastly enhance the contrast of images to make objects of interest easier to identify by the end of the apply your segmentation to identify regions of interest such as the amount of surface water from satellite images this introduction to image processing will give you the foundation you need to conduct more advanced on this topic use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your image processing tasks be provided with free access to matlab for the duration of the to complete your to be successful you should have a background in basic math and some exposure to matlab if you want to familiarize yourself with matlab check out the free twohour matlab onramp with image processing is not required
+introduction to image processing take your first steps in accessing and adjusting digital images for analysis and processing load save and adjust image size and orientation while also understanding how digital images are recognized then perform basic segmentation and quantitative analysis lastly enhance the contrast of images to make objects of interest easier to identify
+by the end of the apply your segmentation to identify regions of interest such as the amount of surface water from satellite images this introduction to image processing will give you the foundation you need to conduct more advanced on this topic use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your image processing tasks be provided with free access to matlab for the duration of the to complete your to be successful you should have a background in basic math and some exposure to matlab if you want to familiarize yourself with matlab check out the free twohour matlab onramp with image processing is not required
 
 introduction to digital images
 discussion prompt
-overview introduction to image processing what are digital images
+introduction to image processing what are digital images
 
 working with image data
 app item discussion prompt

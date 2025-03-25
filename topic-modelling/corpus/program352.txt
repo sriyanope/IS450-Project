@@ -1,6 +1,7 @@
 <DOC>
 tesol part teach english now
-this is the second of two specializations that make up the tesol from arizona state university this builds on the theories learned in tesol part teach english now foundational principles it covers the design and implementation of reading and writing listening and speaking and technology enriched activities as well as a teaching practicum in the final capstone developed by international educators and tesol specialists at asus global launch apply the you learned by demonstrating your ability to teach through recordings and by reflecting on your own and others teaching when you complete both specializations submit your for expert review to receive your asu hour tesol in addition to your coursera
+this is the second of two specializations that make up the tesol from arizona state university this builds on the theories learned in tesol part teach english now foundational principles it covers the design and implementation of reading and writing listening and speaking and technology enriched activities as as a teaching practicum in the final capstone project developed by international educators and tesol specialists at asus global launch apply the you learned by demonstrating your ability to teach through recordings and by reflecting on your own and others teaching when you complete both specializations submit your for expert review to receive your asu hour tesol in addition to your coursera
+
 </DOC>
 
 <DOC>
@@ -8,7 +9,7 @@ teach english now second language reading writing and grammar
 ideas for teaching reading and writing courses and how to include grammar instruction within them how to help students with differing types of reading problems and how to implement both intensive and extensive reading strategies strategies to engage students in the stages of writingprewriting writing and postwriting find out about different writing problems that students may encounter incorporate grammar through the use of noticing and input enhancement
 
 overcoming reading difficulties dorothy in the land of oz
-learners are introduced to some of the basic principles of reading as well as three basic types of reading problems common in tesol learners will gain insight into how to overcome these basic types of reading problems through a careful understanding of principles such as prediction involvement and authenticity
+learners are introduced to some of the basic principles of reading as as three basic types of reading problems common in tesol learners will gain insight into how to overcome these basic types of reading problems through a careful understanding of principles such as prediction involvement and authenticity
 welcome dorothy and types of readers the scarecrow reader tips for scarecrows meet ignorance with information the tin man reader tips for tin men and women meet isolation with involvement the lion reader tips for lion readers meet apathy with intrigue
 
 reading strategies the tortoise and the hare
@@ -33,7 +34,7 @@ watch the final review to verify your understanding of the material then proceed
 
 <DOC>
 teach english now second language listening speaking and pronunciation
-be introduced to some of the challenges of teaching and listening and speaking such as paralinguistics performance variables reduced and regional forms and differing types of oral discourse dont worryyoull what those mean too then how to ease the acquisition of listening and speaking for your students the also highlights the powerful to include pronunciation in listening and speaking classes and offers strategies to incorporate pronunciation activities
+be introduced to some of the challenges of teaching and learning listening and speaking such as paralinguistics performance variables reduced and regional forms and differing types of oral discourse dont worryyoull what those mean too then how to ease the acquisition of listening and speaking for your students the also highlights the powerful to include pronunciation in listening and speaking classes and offers strategies to incorporate pronunciation activities
 
 basic principles of listening
 learners are introduced to some of the fundamental elements of listening including features that make listening a difficult chore for language learners learners are also introduced to basic listening strategies
@@ -48,7 +49,7 @@ learners are introduced to various cognitive social and affective demands that m
 what makes speaking hard cognitive social and affective demands on the learner what makes speaking hard take contrasting clara vs adam and ashley
 
 speaking strategies
-learners are introduced to speaking strategies to help language learners take control of their own also learners are also instructional strategies for speaking that teachers can use in their lessons
+learners are introduced to speaking strategies to help language learners take control of their own learning also learners are also instructional strategies for speaking that teachers can use in their lessons
 what makes speaking easy speaking strategies for learners what makes speaking easyfor teachers speaking strategies for teachers
 
 teaching pronunciation
@@ -61,22 +62,22 @@ learners watch the final review to verify their understanding of the material th
 
 <DOC>
 teach english now technology enriched teaching
-this focuses on the key concepts you need in order to effectively integrate technology into your teaching without letting it overshadow language discover current and future trends in educational technology along with strategies for implementing these trends in the classroom and beyond as technology is continually evolving how to keep up on current technological applications through development networks and training
+this focuses on the key concepts you need in order to effectively integrate technology into your teaching without letting it overshadow language learning discover current and future trends in educational technology along with strategies for implementing these trends in the classroom and beyond as technology is continually evolving how to keep up on current technological applications through development networks and training
 
 overcoming your fears of using technology
-learners are introduced to a young teacher who is hesitant to incorporate technology into the classroom on his journey we will be introduced to reasons teachers avoid technology as well as suggestions for how to overcome some common technology difficulties in particular learners will be introduced to the concepts of alignment learner control and the importance of being driven
+learners are introduced to a young teacher who is hesitant to incorporate technology into the classroom on his journey be introduced to reasons teachers avoid technology as as suggestions for how to overcome some common technology difficulties in particular learners will be introduced to the concepts of alignment learner control and the importance of being driven
 welcome technology happens a day in the life of a teacher why teachers avoid technology through the red door welcome to the digital space three tips for using technology alignment matters
 
 enhancing lesson planning using technology
-our young teacher learns about creating a management system lms to assist him in the classroom we are also introduced to nine different categories of technology as well as events of instruction events of instruction are introduced to help teachers recognize the need to examine different technologies according to how they can be useful during the lesson planning process
-making technology for you the teaching assistant technology tool management systems choosing the right technology tools nine categories of technology technology tools organized by events of instruction
+our young teacher learns about creating a learning management system lms to assist him in the classroom we are also introduced to nine different categories of technology as as events of instruction events of instruction are introduced to help teachers recognize the need to examine different technologies according to how they can be useful during the lesson planning process
+making technology for you the teaching assistant technology tool learning management systems choosing the right technology tools nine categories of technology technology tools organized by events of instruction
 
 engaging students using technology
 we are introduced to the concept of digital nativity and students that are both digital natives and nonnatives throughout the our young teacher is given strategies to engage both types of learners
 the best laid plans often go awry digital natives and nonnatives back to school with trilinguist ways to engage digital natives and nonnatives
 
 transforming the classroom using technology
-learners are introduced to the interaction between teaching content and technology using the acronym tpack through this acronym teachers are invited to recognize the ways in which different types of knowledge together we are also introduced to an additional acronym samr this acronym invites teachers to consider how essential the tool is to achieving and whether it simply replaces an older type of technology or if it transforms the process itself
+learners are introduced to the interaction between teaching content and technology using the acronym tpack through this acronym teachers are invited to recognize the ways in which different types of knowledge together we are also introduced to an additional acronym samr this acronym invites teachers to consider how essential the tool is to achieving learning and whether it simply replaces an older type of technology or if it transforms the learning process itself
 the pedagogue part technological pedagogical content knowledge tpack the pedagogue part substitution augmentation modification and redefinition samr
 
 focusing on your training
@@ -88,11 +89,11 @@ each of the concepts covered in is summarized in the learners watch the to verif
 </DOC>
 
 <DOC>
-teach english now capstone
-in the final capstone apply the you learned by doing practice teaching build on your from the previous courses to refine your lesson plans and make of you teaching your lessons submit a total of ten if you have completed teach english now part and teach english now part submit your for expert review to receive your asu hour tesol from asu in addition to your coursera
+teach english now capstone project
+in the final capstone project apply the you learned by doing practice teaching build on your from the previous courses to refine your lesson plans and make of you teaching your lessons submit a total of ten if you have completed teach english now part and teach english now part submit your for expert review to receive your asu hour tesol from asu in addition to your coursera
 
 planning and teaching readingwriting lessons
-welcome to of the capstone for teach english now part we know that you have worked hard to get to this point and are anxious to apply all you have learned in the first of this be planning and teaching two technology enriched readingwriting lessons
+welcome to of the capstone project for teach english now part we know that you have worked hard to get to this point and are anxious to apply all you have learned in the first of this be planning and teaching two technology enriched readingwriting lessons
 welcome academic integrity do itor else
 
 planning and teaching listeningspeaking lessons
@@ -106,6 +107,6 @@ in lesson of participants share a teaching tip with each other in order to build
 
 end of and information
 in create and submit your digital teaching portfolio for expert review
-explanation of the portfolio graduation
+explanation of the portfolio project graduation
 </DOC>
 

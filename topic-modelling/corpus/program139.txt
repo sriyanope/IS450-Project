@@ -1,15 +1,21 @@
 <DOC>
 expressway to data science python programming
-how many times have you decided to a programming language but got stuck somewhere along the way grew frustrated and gave up this is designed for learners who have little or no programming but want to use python as a tool to play with data in the first introduction to python fundamentals the basic input and output methods in python so you can write your first variables operations and flow control statements for more advanced programming in the second introduction to python functions create and use functions to make your programs reusable and adaptive also how to utilize basic packages in the third python packages for data science gain familiarity with the packages specifically used for data science such as pandas numpy matplotlib and seaborn that programming in python is like building with lego you simply follow instructions choose the pieces that fit together and create something fulfilling and unique instead of giving up in frustration discover that python can be easy and funapplied projectlearners will become familiar with python and essential packages for data science through exploratory labs and guided examples starting from one singleline python statement learners will be able to utilize the most widely used python packages to play with data and gain insights from data
+how many times have you decided to a programming language but got stuck somewhere along the way grew frustrated and gave up this is designed for learners who have little or no programming but want to use python as a tool to play with data
+in the first introduction to python fundamentals the basic input and output methods in python so you can write your first variables operations and flow control statements for more advanced programming in the second introduction to python functions create and use functions to make your programs reusable and adaptive also how to utilize basic packages in the third python packages for data science gain familiarity with the packages specifically used for data science such as pandas numpy matplotlib and seaborn
+that programming in python is like building with lego you simply follow instructions choose the pieces that fit together and create something fulfilling and unique instead of giving up in frustration discover that learning python can be easy and fun
+
+
+learners will become familiar with python and essential packages for data science through exploratory labs and guided examples starting from one singleline python statement learners will be able to utilize the most widely used python packages to play with data and gain insights from data
 </DOC>
 
 <DOC>
 introduction to python fundamentals
-how many times have you decided to a programming language but got stuck somewhere along the way grew frustrated and gave up this is designed for learners who have little or no programming but want to use python as a tool to play with data the first will introduce you to programming languages with python as an example you are going to how to use variables and operators as well as inputoutput and flow controls to build simple python programs the pace will be very slow so feel comfortable python as quickly or as slowly as you like are you ready lets go logo image courtesy of mourizal zativa available on unsplash here httpsunsplashcomphotosgnmvpapepe
+how many times have you decided to a programming language but got stuck somewhere along the way grew frustrated and gave up this is designed for learners who have little or no programming but want to use python as a tool to play with data
+the first will introduce you to programming languages with python as an example you are going to how to use variables and operators as as inputoutput and flow controls to build simple python programs the pace will be very slow so feel comfortable learning python as quickly or as slowly as you like are you ready lets go logo image courtesy of mourizal zativa available on unsplash here httpsunsplashcomphotosgnmvpapepe
 
 hello python
 welcome on board this first will introduce you the basics about computers programming languages and python you are going to basic input and output methods and you are going to write your first interactive python are you ready lets go
-overview welcome and introductions python environment hello world quotations python input combine input and print congratulations
+welcome and introductions python environment hello world quotations python input combine input and print congratulations
 
 variables and operations
 this will introduce you the concept variables and primitive data types also the fundamental operations in python arithmetic relational and logical operations with these tools unlocked you can create a more useful computational are you ready lets go
@@ -26,7 +32,8 @@ why do we need repetitions conditionbased repetition countbased repetition conti
 
 <DOC>
 python packages for data science
-how many times have you decided to a programming language but got stuck somewhere along the way grew frustrated and gave up this is designed for learners who have little or no programming but want to use python as a tool to play with data now that you have mastered the fundamentals of python and python functions turn your attention to python packages specifically used for data science such as pandas numpy matplotlib and seaborn are you ready lets go logo image courtesy of mourizal zativa available on unsplash here httpsunsplashcomphotosgnmvpapepe
+how many times have you decided to a programming language but got stuck somewhere along the way grew frustrated and gave up this is designed for learners who have little or no programming but want to use python as a tool to play with data
+now that you have mastered the fundamentals of python and python functions turn your attention to python packages specifically used for data science such as pandas numpy matplotlib and seaborn are you ready lets go logo image courtesy of mourizal zativa available on unsplash here httpsunsplashcomphotosgnmvpapepe
 
 hello packages
 now you have learned the basics of python to be able to play the magic you are going to python packages and their convenience and power you are going to use the packages for something fun are you ready lets go
@@ -41,28 +48,29 @@ an outstanding data scientist is good at not only data processing and data analy
 introduction to matplotlib matplotlib plots matplotlib
 
 data visualization seaborn
-data visualization can be done by matplotlib and it is not enough seaborn is built upon matplotlib and it provides even more power and convenience to the are you ready lets go
+data visualization can be done by matplotlib and it is not enough seaborn is built upon matplotlib and it provides even more power and convenience to the project are you ready lets go
 introduction to seaborn more seaborn
 </DOC>
 
 <DOC>
 introduction to python functions
-how many times have you decided to a programming language but got stuck somewhere along the way grew frustrated and gave up this is designed for learners who have little or no programming but want to use python as a tool to play with data in the second introduction to python functions you are going to and use functions predefined in python and python packages you also are able to define functions as well create and use functions to make your programs reusable and adaptive are you ready lets go logo image courtesy of mourizal zativa available on unsplash here httpsunsplashcomphotosgnmvpapepe
+how many times have you decided to a programming language but got stuck somewhere along the way grew frustrated and gave up this is designed for learners who have little or no programming but want to use python as a tool to play with data
+in the second introduction to python functions you are going to and use functions predefined in python and python packages you also are able to define functions as create and use functions to make your programs reusable and adaptive are you ready lets go logo image courtesy of mourizal zativa available on unsplash here httpsunsplashcomphotosgnmvpapepe
 
 hello functions
 welcome on board this first shows the reasons why we need functions and introduces basic function definitions you are going to recall some functions we have learned before and you are going to define some simple functions of your own are you ready lets go
-overview why do we need functions what are functions lets define functions
+why do we need functions what are functions lets define functions
 
 functions with parameters
-now you should be comfortable with simple functions this introduces you more about functions with parameters which are the majority ones you are going to call when you do your data science are you ready lets go
+now you should be comfortable with simple functions this introduces you more about functions with parameters which are the majority ones you are going to call when you do your data science projects are you ready lets go
 what are parameters exercise define functions with a single parameter what are multiple parameters exercise define functions with multiple parameters calling functions with keyword arguments
 
 functions with return values
-for data science not only we need to execute some functions but also we expect some results from the execution so we can use the results for next step this introduces you the functions with return values are you ready lets go
+for data science projects not only we need to execute some functions but also we expect some results from the execution so we can use the results for next step this introduces you the functions with return values are you ready lets go
 what are return values exercise define functions with return values
 
 functions in functions
-with the knowledge you have learned about simple functions functions with parameters and functions with return values you should be able to nested functions this introduces you the general idea of nested functions as well as two specific categories of them hierarchical functions and recursive functions are you ready lets go
+with the knowledge you have learned about simple functions functions with parameters and functions with return values you should be able to nested functions this introduces you the general idea of nested functions as as two specific categories of them hierarchical functions and recursive functions are you ready lets go
 introduction to nested functions exercise define functions calling functions the design of hierarchy of functions recursive functions
 </DOC>
 

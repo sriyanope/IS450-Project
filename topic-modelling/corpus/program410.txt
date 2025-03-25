@@ -1,17 +1,26 @@
 <DOC>
 google cloud digital leader training
-the cloud digital leader training consists of a series designed to give you foundational knowledge about cloud technology and data this training also offers an overview of google cloud products and services that enable organizations digital transformation this training will empower you and your teams to contribute to cloudrelated business initiatives across your organizationthis training builds knowledge in these areasgeneral cloud knowledgegeneral google cloud knowledgegoogle cloud products and servicesdigital transformation data and aimlmodernizing company it infrastructure and applicationsapplied projectstudents will have an to validate their knowledge gained throughout each of the courses with practice and graded assessments at the end of each and for each practice and graded assessments are used to validate and demonstrate
+the cloud digital leader training consists of a series designed to give you foundational knowledge about cloud technology and data this training also offers an of google cloud products and services that enable organizations digital transformation this training will empower you and your teams to contribute to cloudrelated business initiatives across your organization
+this training builds knowledge in these areas
+general cloud knowledge
+general google cloud knowledge
+google cloud products and services
+digital transformation data and aiml
+modernizing company it infrastructure and applications
+
+
+students will have an to validate their knowledge gained throughout each of the courses with practice and graded assessments at the end of each and for each practice and graded assessments are used to validate and demonstrate learning
 </DOC>
 
 <DOC>
 innovating with google cloud artificial intelligence
-any business or team in an organization interested in about artificial intelligence machine and google cloud technology
+any business or team in an organization interested in learning about artificial intelligence machine learning and google cloud technology
 
 introduction
 introduction explore the goals and preview each section
 
 ai and ml fundamentals
-artificial intelligence and machine can provide many benefits to a business but its important to understand the fundamentals before starting any ai or ml initiative section of the explore many of those fundamental concepts
+artificial intelligence and machine learning can provide many benefits to a business but its important to understand the fundamentals before starting any ai or ml initiative section of the explore many of those fundamental concepts
 introduction ai and ml defined how ai and ml differ from data analytics and business intelligence problems that ml is suited to solve why ml requires highquality data the importance of responsible and explainable ai
 
 google clouds ai and ml solutions
@@ -19,12 +28,13 @@ section of the explore four options to build ml models with google cloud bigquer
 introduction bigquery ml pretrained apis automl custom models tensorflow ai solutions considerations when selecting google cloud aiml solutions
 
 
-the closes with a of the key points covered in each section and next steps to continue
+the closes with a of the key points covered in each section and next steps to continue learning
 </DOC>
 
 <DOC>
 exploring data transformation with google cloud
-cloud technology can bring great value to an organization and combining the power of cloud technology with data has the potential to unlock even more value and create new customer experiencesexploring data transformation with google cloud explores the value data can bring to an organization and ways google cloud can make data useful and accessible part of the cloud digital leader path this aims to help individuals grow in their role and build the future of their business
+cloud technology can bring great value to an organization and combining the power of cloud technology with data has the potential to unlock even more value and create new customer
+exploring data transformation with google cloud explores the value data can bring to an organization and ways google cloud can make data useful and accessible part of the cloud digital leader learning path this aims to help individuals grow in their role and build the future of their business
 
 introduction
 introduction explore the goals and preview each section
@@ -42,12 +52,13 @@ section of the examine how smart analytics business intelligence tools and strea
 introduction business intelligence and insights using looker streaming analytics pubsub and dataflow
 
 
-the closes with a of the key points covered in each section and next steps to continue
+the closes with a of the key points covered in each section and next steps to continue learning
 </DOC>
 
 <DOC>
 scaling with google cloud operations
-organizations of all sizes are embracing the power and flexibility of the cloud to transform how they operate however managing and scaling cloud resources effectively can be a complex task scaling with google cloud operations explores the fundamental concepts of modern operations reliability and resilience in the cloud and how google cloud can help support these efforts part of the cloud digital leader path this aims to help individuals grow in their role and build the future of their business
+organizations of all sizes are embracing the power and flexibility of the cloud to transform how they operate however managing and scaling cloud resources effectively can be a complex task
+scaling with google cloud operations explores the fundamental concepts of modern operations reliability and resilience in the cloud and how google cloud can help support these efforts part of the cloud digital leader learning path this aims to help individuals grow in their role and build the future of their business
 
 introduction
 introduction you explore the goals and preview each section
@@ -64,12 +75,13 @@ sustainability with google cloud
 section of the about google clouds commitment to sustainability and how it supports organizations sustainability goals
 
 
-the closes with a of the main points covered in each section and next steps to continue
+the closes with a of the main points covered in each section and next steps to continue learning
 </DOC>
 
 <DOC>
 trust and security with google cloud
-as organizations move their data and applications to the cloud they must address new security challenges the trust and security with google cloud explores the basics of cloud security the value of google clouds multilayered approach to infrastructure security and how google earns and maintains customer trust in the cloudpart of the cloud digital leader path this aims to help individuals grow in their role and build the future of their business
+as organizations move their data and applications to the cloud they must address new security challenges the trust and security with google cloud explores the basics of cloud security the value of google clouds multilayered approach to infrastructure security and how google earns and maintains customer trust in the cloud
+part of the cloud digital leader learning path this aims to help individuals grow in their role and build the future of their business
 
 introduction
 introduction you explore the goals and preview each section
@@ -87,12 +99,13 @@ section of the you how google clouds trust principles transparency reports and i
 introduction the google cloud trust principles and transparency reports data residency and data sovereignty industry and regional compliance
 
 
-the closes with a of the main points covered in each section and next steps to continue
+the closes with a of the main points covered in each section and next steps to continue learning
 </DOC>
 
 <DOC>
 digital transformation with google cloud
-theres much excitement about cloud technology and digital transformation but often many unanswered questionsfor example what is cloud technology what does digital transformation mean how can cloud technology help your organization where do you even begin if youve asked yourself any of these questions youre in the right place this provides an overview of the types of and challenges that companies often encounter in their digital transformation journey if you want to about cloud technology so you can excel in your role and help build the future of your business then this introductory on digital transformation is for you this is part of the cloud digital leader path
+theres much excitement about cloud technology and digital transformation but often many unanswered questions
+for example what is cloud technology what does digital transformation mean how can cloud technology help your organization where do you even begin if youve asked yourself any of these questions youre in the right place this provides an of the types of and challenges that companies often encounter in their digital transformation journey if you want to about cloud technology so you can excel in your role and help build the future of your business then this introductory on digital transformation is for you this is part of the cloud digital leader learning path
 
 introduction
 introduction explore the goals and preview each section
@@ -111,12 +124,13 @@ when moving to the cloud you must decide the type of cloud computing service mod
 introduction to cloud computing models and shared responsibility cloud computing service models iaas infrastructure as a service paas platform as a service saas software as a service choosing a cloud computing model the shared responsibility model how the shared responsibility model works
 
 
-the closes with a of the key points covered in each section and next steps to continue
+the closes with a of the key points covered in each section and next steps to continue learning
 </DOC>
 
 <DOC>
 modernize infrastructure and applications with google cloud
-many traditional enterprises use legacy systems and applications that cant stay uptodate with modern customer expectations business leaders often have to choose between maintaining their aging it systems or investing in new products and services modernize infrastructure and applications with google cloud explores these challenges and offers solutions to overcome them by using cloud technologypart of the cloud digital leader path this aims to help individuals grow in their role and build the future of their business
+many traditional enterprises use legacy systems and applications that cant stay uptodate with modern customer expectations business leaders often have to choose between maintaining their aging it systems or investing in new products and services modernize infrastructure and applications with google cloud explores these challenges and offers solutions to overcome them by using cloud technology
+part of the cloud digital leader learning path this aims to help individuals grow in their role and build the future of their business
 
 introduction
 introduction explore the goals and preview each section
@@ -131,6 +145,6 @@ section of the focus on application modernization and the business value of appl
 introduction the benefits of modern cloud application development rehosting legacy applications in the cloud application programming interfaces apis apigee api management hybrid and multicloud
 
 
-the closes with a of the main points covered in each section and next steps to continue
+the closes with a of the main points covered in each section and next steps to continue learning
 </DOC>
 

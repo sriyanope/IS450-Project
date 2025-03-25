@@ -1,11 +1,15 @@
 <DOC>
 intellectual property law
-intellectual property is the currency of the tech world the pharmaceutical patent for lipitor generated over billion in revenue the copyright for the harry potter franchise has generated over billion to date and the trademarked brands of the worlds largest tech companies now eclipse billion in value but what makes these intangible assets so valuablethrough the courses the differences between the various forms of us intellectual property rights including patents copyrights and trademarks and their various applications to human innovations drawing from that knowledge then to develop a trademark strategy for a company analyze a patent document and address a copyright ceaseanddesist request after completing these handson have the necessary framework to craft integrated intellectual property strategies tailored to an organizations core business goalsapplied through the various on developing a trademark strategy analyzing a patent document and addressing a copyright ceaseanddesist request develop integrated intellectual property strategies tailored to an organizations core business goals
+intellectual property is the currency of the tech world the pharmaceutical patent for lipitor generated over billion in revenue the copyright for the harry potter franchise has generated over billion to date and the trademarked brands of the worlds largest tech companies now eclipse billion in value but what makes these intangible assets so valuable
+through the courses the differences between the various forms of us intellectual property rights including patents copyrights and trademarks and their various applications to human innovations drawing from that knowledge then to develop a trademark strategy for a company analyze a patent document and address a copyright ceaseanddesist request after completing these handson projects have the necessary framework to craft integrated intellectual property strategies tailored to an organizations core business goals
+
+through the various projects on developing a trademark strategy analyzing a patent document and addressing a copyright ceaseanddesist request develop integrated intellectual property strategies tailored to an organizations core business goals
 </DOC>
 
 <DOC>
 patent law
-in our modern technologicallybased economy the creation and enforcement of patent rights can make or break a business with record numbers of patents being issued every year the stakes for inventors and indeed their lawyers continue to rise even as the patent law and its administration faces growing criticism this begins with an examination of the fundamental justifications for and creation of us patent rights as well as the relationship between patent law and other intellectual property concepts we will then delve into the details of the us requirements for patentability and explore the scope of patent rights again considering how the policies expressed reflect the justifications for patent rights then we will look at an actual patent document and analyze the different pieces of an issued patent with a special focus on the importance of patent claims finally we will explore strategies for dealing with patent infringement
+in our modern technologicallybased economy the creation and enforcement of patent rights can make or break a business with record numbers of patents being issued every year the stakes for inventors and indeed their lawyers continue to rise even as the patent law and its administration faces growing criticism
+this begins with an examination of the fundamental justifications for and creation of us patent rights as as the relationship between patent law and other intellectual property concepts then delve into the details of the us requirements for patentability and explore the scope of patent rights again considering how the policies expressed reflect the justifications for patent rights then look at an actual patent document and analyze the different pieces of an issued patent with a special focus on the importance of patent claims finally explore strategies for dealing with patent infringement
 
 what is patent law
 this introduces patent law what patents are what they cover how they are enforced and the structure of the us patent system
@@ -20,13 +24,15 @@ once you have a patent what exactly do you have this explores the exact scope an
 what does a patent cover the components of patent claims interpreting patent claims how to define claim terms caveats and cautions when determining patent coverage takeaway points
 
 patent enforcement
-once you have a patent how do you enforce it this looks at patent enforcement as well as patent avoidance we also take a close look at the fascinating case of the super soaker patent
+once you have a patent how do you enforce it this looks at patent enforcement as as patent avoidance we also take a close look at the fascinating case of the super soaker patent
 how to enforce or avoid a patent the mechanics of patent enforcement patent infringement case study the super soaker the doctrine of equivalents how to avoid infringement remedies for infringement takeaway points
 </DOC>
 
 <DOC>
 copyright law
-copyright law is unique in the greater intellectual property regime as it protects original expression that is fixed in a tangible medium and is the product of authorship this is designed for creative professionals such as screenwriters musicians documentary filmmakers or artists who want to understand the scope and limits of which works can enjoy us copyright protection the will introduce students to the workings of copyright law through an examination of the systems basic principles rules and institutions topics will include the justifications for copyright law copyrightable subject matter authorship the nature and scope of copyrights exclusive rights fair use and remedies for infringement we will also explore realworld examples of legal battles surrounding copyright law from the recent litigation over robin thickes hit song blurred lines to more peculiar cases such as the infamous monkey selfie case by understanding what copyright does and does not protect producers of creative expression will be able to protect and maximize the commercial value of their works
+copyright law is unique in the greater intellectual property regime as it protects original expression that is fixed in a tangible medium and is the product of authorship this is designed for creative professionals such as screenwriters musicians documentary filmmakers or artists who want to understand the scope and limits of which works can enjoy us copyright protection the will introduce students to the workings of copyright law through an examination of the systems basic principles rules and institutions topics will include
+the justifications for copyright law copyrightable subject matter authorship the nature and scope of copyrights exclusive rights fair use and remedies for infringement
+also explore realworld examples of legal battles surrounding copyright law from the recent litigation over robin thickes hit song blurred lines to more peculiar cases such as the infamous monkey selfie case by understanding what copyright does and does not protect producers of creative expression will be able to protect and maximize the commercial value of their works
 
 what is copyright
 we begin our examination of copyright law by exploring what works are eligible for copyright protection and the basic requirements for attaining copyright protection
@@ -47,10 +53,13 @@ understanding copyright limits the basics of fair use ordinary fair use transfor
 
 <DOC>
 introduction to intellectual property
-intellectual property is the currency of the tech world with the worlds most valuable intellectual property assets dwarfing the value of their realworld counterparts apple trademarked brand was valued at over billion as of jk rowlings harry potter franchise has generated over billion to date but how did the law come to create such enormous value in intangible assetsthis will introduce the various types of us intellectual property patents which cover inventions and process innovations copyright which protects original works of authorship and trademarks which protect a business commercial identity as the source of valuable goods and services then explore case studies of how global businesses have used intellectual property law to generate enormous value from these intangible assets
+intellectual property is the currency of the tech world with the worlds most valuable intellectual property assets dwarfing the value of their realworld counterparts apple trademarked brand was valued at over billion as of jk rowlings harry potter franchise has generated over billion to date but how did the law come to create such enormous value in intangible assets
+this will introduce the various types of us intellectual property patents which cover inventions and process innovations
+copyright which protects original works of authorship
+and trademarks which protect a business commercial identity as the source of valuable goods and services then explore case studies of how global businesses have used intellectual property law to generate enormous value from these intangible assets
 
 existing intellectual property protection in the us
-this will introduce the concept of intellectual property and explain how it creates value about the major forms of intellectual property protection in the united states copyright trademarks and patents as well as alternative forms of intellectual property protection
+this will introduce the concept of intellectual property and explain how it creates value about the major forms of intellectual property protection in the united states copyright trademarks and patents as as alternative forms of intellectual property protection
 introduction to intellectual property why about intellectual property law expansion of intellectual property patents trademarks copyright other regimes takeaway points
 
 philosophical and economic justifications of ip rights
@@ -68,7 +77,8 @@ case studies in intellectual property law case study apple computers case study 
 
 <DOC>
 trademark law
-the protections afforded under trademark law have created incredible value in intangible assets with the value of the worlds most valuable brands such as amazon apple and google each exceeding billion but what exactly is trademark law and how is such enormous value createdthis examines the fundamentals of us trademark law and the ways in which the manufacturers of various products and services can establish and protect their identities and the identities of their products in the marketplace we will explore the purpose of trademark law identify the different types of trademarks including names designs logos and trade dress and explore strategies for choosing and protecting strong potentially valuable trademarks we will also discuss strategies for strengthening descriptive marks and lay out the steps for filing for federal trademark protection finally we will address how to design an ongoing maintenance strategy to protect extend and maximize the value of trademarks and discuss strategies for responding to possible trademark infringement
+the protections afforded under trademark law have created incredible value in intangible assets with the value of the worlds most valuable brands such as amazon apple and google each exceeding billion but what exactly is trademark law and how is such enormous value created
+this examines the fundamentals of us trademark law and the ways in which the manufacturers of various products and services can establish and protect their identities and the identities of their products in the marketplace explore the purpose of trademark law identify the different types of trademarks including names designs logos and trade dress and explore strategies for choosing and protecting strong potentially valuable trademarks also discuss strategies for strengthening descriptive marks and lay out the steps for filing for federal trademark protection finally address how to design an ongoing maintenance strategy to protect extend and maximize the value of trademarks and discuss strategies for responding to possible trademark infringement
 
 what is a trademark
 what is a trademark what can and cannot qualify as a trademark this answers these important threshold questions to begin our study of us trademark law
@@ -83,7 +93,7 @@ if when and how to file for official trademark protection
 federal vs state trademark registration when are you ready to file an application filing a federal trademark application part filing a federal trademark application part what happens after the application is filed
 
 how to maintain a mark and the basics of infringement
-so you have a trademark what now this will show you how to protect and police your trademark as well as how to approach potential trademark infringement
+so you have a trademark what now this will show you how to protect and police your trademark as as how to approach potential trademark infringement
 proper trademark marking and use policing and maintenance part policing and maintenance part addressing trademark infringement
 </DOC>
 

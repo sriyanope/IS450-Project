@@ -1,11 +1,14 @@
 <DOC>
 the fundamentals of personal finance
-this is intended for anyone looking to take control of their finances through these five courses cover a variety of personal finance topics including budgets investing and managing risk the and activities will prepare you to understand the current state of your money as well as take actions to toward your financial goals this is geared towards learners in the united states of americaapplied projectin each learners will get to apply the they are reading and hearing about through activity worksheets that allow them to apply the personal finance concepts towards their own money situation including a budget financial goals and strategy
+this is intended for anyone looking to take control of their finances through these five courses cover a variety of personal finance topics including budgets investing and managing risk the and activities will prepare you to understand the current state of your money as as take actions to toward your financial goals this is geared towards learners in the united states of america
+
+in each learners will get to apply the they are reading and hearing about through activity worksheets that allow them to apply the personal finance concepts towards their own money situation including a budget financial goals and strategy
 </DOC>
 
 <DOC>
 risk management in personal finance
-this is primarily aimed at those who want to understand more about how they can protect their finances from unexpected events taught by a certified financial planner this covers the role insurance plays into your financial plan including what kinds of insurance to explore how to determine how much insurance you need and how different kinds of insurance works the includes life insurance health insurance disability insurance homeowners insurance renters insurance auto insurance and umbrella insurance also about estate planning including the documents involved and special considerations for new parentsthis helps you understand how protecting your money is an important part of financial planning it is geared towards learners in the united states of america it is part of the fundamentals of personal finance but can be taken as a standalone as well
+this is primarily aimed at those who want to understand more about how they can protect their finances from unexpected events taught by a certified financial planner this covers the role insurance plays into your financial plan including what kinds of insurance to explore how to determine how much insurance you need and how different kinds of insurance works the includes life insurance health insurance disability insurance homeowners insurance renters insurance auto insurance and umbrella insurance also about estate planning including the documents involved and special considerations for new parents
+this helps you understand how protecting your money is an important part of financial planning it is geared towards learners in the united states of america it is part of the fundamentals of personal finance but can be taken as a standalone as
 
 understanding basic insurance concepts
 this will help you understand the different kinds of insurance and how they fit into a financial plan it will also explore the specific kinds of health insurance
@@ -25,7 +28,7 @@ this will help you understand the basics of estate planning including the common
 
 <DOC>
 managing debt
-this is aimed at anyone who has debt is thinking of taking on debt or wants to better understand debt as part of your overall financial picture it covers a variety of debt types as well as debt payment options the will help you assess your current debt situation and understand the paths to paying off your debt this includes categories such as mortgages credit card debt and student loans how to differentiate between good and bad debt as well as how to think about debt as you towards your financial goals this is geared towards learners in the united states of america
+this is aimed at anyone who has debt is thinking of taking on debt or wants to better understand debt as part of your overall financial picture it covers a variety of debt types as as debt payment options the will help you assess your current debt situation and understand the paths to paying off your debt this includes categories such as mortgages credit card debt and student loans how to differentiate between good and bad debt as as how to think about debt as you towards your financial goals this is geared towards learners in the united states of america
 
 understanding the basics of debt and home loans
 this will help you understand the difference between good and bad debt the cost of debt and the important factors that go into buying and then owning a home
@@ -46,14 +49,15 @@ using the good debtbad debt framework to prioritize your debt debt paydown in th
 
 <DOC>
 fundamentals of investing
-this is primarily aimed at novice investors who want to better understand the concept of investing and how it can fit into their overall financial plan taught by a certified financial planner this will cover different investment vehicles risk tolerance diversification and the difference between active and passive investing as well as investment fees and taxeswhether you are just getting started investing or want to play a more active role in your investment decisions this can provide you the knowledge to feel comfortable in the investing decisions you make for yourself and your family this is geared towards learners in the united states of america
+this is primarily aimed at novice investors who want to better understand the concept of investing and how it can fit into their overall financial plan taught by a certified financial planner this will cover different investment vehicles risk tolerance diversification and the difference between active and passive investing as as investment fees and taxes
+whether you are just getting started investing or want to play a more active role in your investment decisions this can provide you the knowledge to feel comfortable in the investing decisions you make for yourself and your family this is geared towards learners in the united states of america
 
 understanding the different types of investments
 this will help you understand different types of investments including stocks bonds derivative products and pooled investments it will help set the foundation to have a better understanding of investing
 introduction investing basics stock basics understanding stocks analyzing stocks investing in stocks bond basics understanding bonds analyzing bonds investing in bonds what is a mutual fund allinone mutual funds what is an exchangetraded fund etf what is a derivative equity compensation stock options
 
 balancing risk and return
-this will help you understand the concept of risk and return as well as ways to measure both it will also help you have the tools to evaluate your own risk tolerance
+this will help you understand the concept of risk and return as as ways to measure both it will also help you have the tools to evaluate your own risk tolerance
 understanding investment risk systematic investment risk unsystematic investment risk measuring investment risk measuring investment returns investment risk return investment risk tolerance how to find yours
 
 developing an investment strategy
@@ -67,7 +71,8 @@ how investments are taxed investment fees choosing investment accounts to maximi
 
 <DOC>
 saving money for the future
-this is designed for anyone who currently has or will have in the future have savings goals learners will come to understand the importance of compounding growth the variables that impact setting goals like retirement savings and how much money you need to save now to reach future goals the will help learners think through individual goals like retirement but also how those goals fit into your bigger financial picture for example saving for retirement buying a home and funding college for your kids all at the same time the instructors will also cover how preparing for emergencies can prevent the derailment of those financial goalsthe concepts covered are broad but through the activities offered learners will see how to apply what they are about saving money for the future to their lives now this is geared towards learners in the united states of america
+this is designed for anyone who currently has or will have in the future have savings goals learners will come to understand the importance of compounding growth the variables that impact setting goals like retirement savings and how much money you need to save now to reach future goals the will help learners think through individual goals like retirement but also how those goals fit into your bigger financial picture for example saving for retirement buying a home and funding college for your kids all at the same time the instructors will also cover how preparing for emergencies can prevent the derailment of those financial goals
+the concepts covered are broad but through the activities offered learners will see how to apply what they are learning about saving money for the future to their lives now this is geared towards learners in the united states of america
 
 building your financial foundation
 this will help you understand how your savings will grow and how much you need to set aside for emergencies while you set your longterm financial goals
@@ -88,7 +93,8 @@ calculating the return on education the true cost of education types of financia
 
 <DOC>
 introduction to personal finance
-this is a general overview of a variety of personal finance topics including budgeting the importance of your credit score cash flow setting financial goals and taxes taught by two certified financial planner professionals the concepts are broken down through and activities so you can apply what you are in real time the provides the foundation to build on for the rest of the fundamentals of personal finance or as a standalone survey to improve your understanding of basic personal finance terminology as well as how they apply to your own financial situation whether you are just starting college nearing retirement or somewhere in between this will provide you with the knowledge to understand your money and actionable steps to manage your finances in the future this is geared towards learners in the united states of america
+this is a general of a variety of personal finance topics including budgeting the importance of your credit score cash flow setting financial goals and taxes taught by two certified financial planner professionals the concepts are broken down through and activities so you can apply what you are learning in real time the provides the foundation to build on for the rest of the fundamentals of personal finance or as a standalone survey to improve your understanding of basic personal finance terminology as as how they apply to your own financial situation
+whether you are just starting college nearing retirement or somewhere in between this will provide you with the knowledge to understand your money and actionable steps to manage your finances in the future this is geared towards learners in the united states of america
 
 approaching your finances with purpose
 this will cover the importance of being intentional with your finances and the underlying forces impacting your current relationship with money

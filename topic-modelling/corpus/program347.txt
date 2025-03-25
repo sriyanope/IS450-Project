@@ -1,11 +1,22 @@
 <DOC>
 supply chain analytics
-this is intended for people seeking to integrate supply chain management with data analytics through six courses discover and solve problems in various domains of a supply chain from source make move to sell upon completion concrete data analytics and tools to improve supply chain performancesupply chain analytics essentials supply chain pain points and how analytics may relieve them job and intelligencebusiness intelligence and competitive analysis use data analytics to assess the competitive environment and discover business problems and demand analytics data analytics for demand forecasting and planninginventory analytics discover and solve inventory problems an essential part of sales operations planningsourcing analytics use market intelligence bargain power analysis and supplier analysis to identify and select new supplierssupply chain analytics use analytics to design logistics strategies for a largescale distribution systemapplied projectlearners will build reallife datadriven on job analysis business intelligence and competitive analysis demand forecasting and planning distribution and logistics inventory management and sourcing intelligence using various diagnostic predictive and prescriptive analytics and tools
+this is intended for people seeking to integrate supply chain management with data analytics through six courses discover and solve problems in various domains of a supply chain from source make move to sell upon completion concrete data analytics and tools to improve supply chain performance
+supply chain analytics essentials supply chain pain points and how analytics may relieve them job and intelligence
+business intelligence and competitive analysis use data analytics to assess the competitive environment and discover business problems and
+demand analytics data analytics for demand forecasting and planning
+inventory analytics discover and solve inventory problems an essential part of sales operations planning
+sourcing analytics use market intelligence bargain power analysis and supplier analysis to identify and select new suppliers
+supply chain analytics use analytics to design logistics strategies for a largescale distribution system
+
+learners will build reallife datadriven projects on job analysis business intelligence and competitive analysis demand forecasting and planning distribution and logistics inventory management and sourcing intelligence using various diagnostic predictive and prescriptive analytics and tools
 </DOC>
 
 <DOC>
 supply chain analytics essentials
-welcome to supply chain analytics an exciting area that is in high demand introductory to supply chain analytics i will take you on a journey to this fascinating area that applies data analytics to diagnose and solve problems in supply chain management real life examples on how data analytics can generate a significant financial and economic impact in various domains of a supply chain from selling to logistics production and sourcing job market outlook requirement and preparation lastly see the power of data analytics by using it to identify your dream jobs upon completing this see the pain points of a supply chain and how data analytics may relieve them understand why analytics is critical to supply chain management and how supply chain analytics may create a longterm competitive advantage see the impact of supply chain analytics on companies financials and stock market performance supply chain analytics job and preparation and find your dream jobs using data analytics this is for you if you are starting your in supply chain management either sourcing procurement or production operations planning or distribution logistics you are already familiar with the basic supply chain management concepts and hope to upskill with data analytics you already learned the data analytics and hope to make a financial and economic impact in the supply chain field i hope you enjoy the
+welcome to supply chain analytics an exciting area that is in high demand
+introductory to supply chain analytics i will take you on a journey to this fascinating area that applies data analytics to diagnose and solve problems in supply chain management real life examples on how data analytics can generate a significant financial and economic impact in various domains of a supply chain from selling to logistics production and sourcing job market outlook requirement and preparation lastly see the power of data analytics by using it to identify your dream jobs upon completing this see the pain points of a supply chain and how data analytics may relieve them understand why analytics is critical to supply chain management and how supply chain analytics may create a longterm competitive advantage see the impact of supply chain analytics on companies financials and stock market performance supply chain analytics job and preparation and find your dream jobs using data analytics this is for you if you are starting your in supply chain management either sourcing procurement or production operations planning or distribution logistics
+you are already familiar with the basic supply chain management concepts and hope to upskill with data analytics
+you already learned the data analytics and hope to make a financial and economic impact in the supply chain field i hope you enjoy the
 
 welcome
 welcome to supply chain analytics sca an emerging and exciting area in high demand i will give you an introduction to sca share my journey and preview the talent crisis
@@ -21,12 +32,13 @@ demand planning product selection pricing promotion fulfillment diagnostics dist
 
 dream job analysis
 final supply chain analytics job and the power of data analytics by using it to find your dream jobs and make choices
-supply chain analytics job requirement preparation job analysis overview job analysis by region where to locate job analysis by industry which industry to enter job analysis by company which company to for screenshots create a new screenshots business geoinfo screenshots industry analysis and enterprise diagnosis screenshots navigator and supply chain mapping screenshots preview share and cite
+supply chain analytics job requirement preparation job analysis job analysis by region where to locate job analysis by industry which industry to enter job analysis by company which company to for screenshots create a new project screenshots business geoinfo screenshots industry analysis and enterprise diagnosis screenshots navigator and supply chain mapping screenshots preview share and cite
 </DOC>
 
 <DOC>
 business intelligence and competitive analysis
-by the end of it is clear that american airlines aal the worlds largest airline group and a sp company is in trouble with the growth rate of its stock price ranked at the bottom of all major us airlines and going in the opposite direction from the sp index aal needs to find out what is going on and how to turn the company and its stock price aroundaddressing the challenge faced by aal may well be a largescale management consulting to start business intelligence and competitive analysis or competitive intelligence for short is required to discover the problems and for the company which lay the foundation for the turningaround strategies gain the knowledge and to combine data analytics models and visualization tools for effective and efficient competitive intelligence upon completion of the you should be able to conduct competitive intelligence on companies of your choice as a management consultant note to gain handson in competitive intelligence via data analytics you need to get into action to this end this utilizes an external website free for you to practice the learned
+by the end of it is clear that american airlines aal the worlds largest airline group and a sp company is in trouble with the growth rate of its stock price ranked at the bottom of all major us airlines and going in the opposite direction from the sp index aal needs to find out what is going on and how to turn the company and its stock price around
+addressing the challenge faced by aal may be a largescale management consulting project to start business intelligence and competitive analysis or competitive intelligence for short is required to discover the problems and for the company which lay the foundation for the turningaround strategies gain the knowledge and to combine data analytics models and visualization tools for effective and efficient competitive intelligence upon completion of the you should be able to conduct competitive intelligence on companies of your choice as a management consultant note to gain handson in competitive intelligence via data analytics you need to get into action to this end this utilizes an external website free for you to practice the learned
 
 welcome
 welcome to business intelligence and competitive analysis or competitive intelligence for short in the story of american airlines group the challenges it faces and the framework of competitive analysis get a feel of competitive intelligence through a comparison of the worlds major economies
@@ -34,7 +46,7 @@ from american airlines to competitive intelligence topics and weekly preview why
 
 industry analysis
 in industry analysis including market potential risk and competition intensity and value chain analysis
-market potential growth and profitability market risk analysis concentration and competition intensity value chain analysis i focused study value chain analysis ii comprehensive study data and software tools overview screenshots create a new screenshots business geoinfo screenshots industry analysis and enterprise diagnosis screenshots navigator and supply chain mapping screenshots preview search and cite
+market potential growth and profitability market risk analysis concentration and competition intensity value chain analysis i focused study value chain analysis ii comprehensive study data and software tools screenshots create a new project screenshots business geoinfo screenshots industry analysis and enterprise diagnosis screenshots navigator and supply chain mapping screenshots preview search and cite
 
 competition positioning
 in how to position a company within an industry to find out where the company stands in the competitive landscape
@@ -47,11 +59,12 @@ what are my strengths and weaknesses value driver analysis breakdown analysis
 
 <DOC>
 supply chain analytics
-welcome to supply chain analytics the art and science of applying data analytics to assess and improve supply chain performancea supply chain is a complex system with conflicting objectives of cost efficiency and customer satisfaction supply chain management is becoming increasingly data driven through the reallife story and data of a major us telecommunication company the analytics tools to diagnose and optimize a supply chain upon completion of this be able to use data analytics to assess the impact of various strategies on all aspects of a supply chain from inventory shipping to warehouse order fulfillment store operations and customer satisfaction customize the supply chain strategy by product to improve the overall cost efficiency without sacrificing customer service obtain handson on the application and financial impact of analytics in integrated supply chain and logistics planning vasta name disguised is a major wireless carrier in the us selling cell phones through a national network of retail stores recently it wrote off a huge amount of obsolete inventory each year and was suffering a significant cost inefficiency in an increasingly stagnant market vasta must assess the competitive environment and renovate its supply chain to stay competitive at the end of this help vasta save billions on supply chain cost and retain its leadership in a stagnant and saturated market i hope you enjoy the
+welcome to supply chain analytics the art and science of applying data analytics to assess and improve supply chain performance
+a supply chain is a complex system with conflicting objectives of cost efficiency and customer satisfaction supply chain management is becoming increasingly data driven through the reallife story and data of a major us telecommunication company the analytics tools to diagnose and optimize a supply chain upon completion of this be able to use data analytics to assess the impact of various strategies on all aspects of a supply chain from inventory shipping to warehouse order fulfillment store operations and customer satisfaction customize the supply chain strategy by product to improve the overall cost efficiency without sacrificing customer service obtain handson on the application and financial impact of analytics in integrated supply chain and logistics planning vasta name disguised is a major wireless carrier in the us selling cell phones through a national network of retail stores recently it wrote off a huge amount of obsolete inventory each year and was suffering a significant cost inefficiency in an increasingly stagnant market vasta must assess the competitive environment and renovate its supply chain to stay competitive at the end of this help vasta save billions on supply chain cost and retain its leadership in a stagnant and saturated market i hope you enjoy the
 
 welcome
-welcome to supply chain analytics i shall first tell you the story of vasta and the challenge it faces then provide an overview of the and weekly topics then competitive analysis and benchmarking to assess a firms competitive environment and identify the business
-the story of vasta overview weekly preview competitive analysis and benchmarking
+welcome to supply chain analytics i shall first tell you the story of vasta and the challenge it faces then provide an of the learning and weekly topics then competitive analysis and benchmarking to assess a firms competitive environment and identify the business
+the story of vasta weekly preview competitive analysis and benchmarking
 
 general principles and intuition
 in understand the general principles of supply chain planning and develop intuitions on the benefits and concerns of the push pull strategies the intuitions and insights will guide you in the quantitative supply chain analysis in
@@ -61,22 +74,23 @@ data collection cost estimation and supply chain analytics
 in what data to collect how to estimate various types of costs and how to use data analysis to assess the impact of various strategies on different aspects of a supply chain
 inventory shipping cost estimates warehouse pick pack cost estimate sales and inventory data supply chain analytics i hotsmart hotfeature supply chain analytics ii coldsmart coldfeature net impact
 
-customer implementation and
-in how to assess the impact of the strategies on customer get handson on the implementation and financial impact of supply chain analytics in a reallife example complete this by conducting a to analyze the geographic difference for the strategies
-store operations customer shipping implementation and epilogue
+customer implementation and project
+in how to assess the impact of the strategies on customer get handson on the implementation and financial impact of supply chain analytics in a reallife example complete this by conducting a project to analyze the geographic difference for the strategies
+store operations customer shipping implementation and epilogue project
 </DOC>
 
 <DOC>
 sourcing analytics
-it is easy to spend money but hard to get the valuefrom to apple made billion from iphone with a profit of billion apple could not achieve this financial success without its global sourcing strategy however one of apples key suppliers samsung electronics became a competitor and used its cost advantage to overtake apple in the global market meanwhile many new suppliers and products are emerging constantly to continue the success apple must explore the global markets to identify and select new suppliers that are capable inexpensive and financially robust the question is how to do it right for this year what apple experienced is typical in practice as a company may have thousands of suppliers and numerous new suppliers and products services emerge constantly and globally which requires a frequent adjustment of the supply base sourcing analytics which applies data analytics and business intelligence to supplier development and management specifically market intelligence bargain power analysis and supplier analysis to identify and select suppliers with the objective of getting more value with less spend
+it is easy to spend money but hard to get the value
+from to apple made billion from iphone with a profit of billion apple could not achieve this financial success without its global sourcing strategy however one of apples key suppliers samsung electronics became a competitor and used its cost advantage to overtake apple in the global market meanwhile many new suppliers and products are emerging constantly to continue the success apple must explore the global markets to identify and select new suppliers that are capable inexpensive and financially robust the question is how to do it right for this year what apple experienced is typical in practice as a company may have thousands of suppliers and numerous new suppliers and products services emerge constantly and globally which requires a frequent adjustment of the supply base sourcing analytics which applies data analytics and business intelligence to supplier development and management specifically market intelligence bargain power analysis and supplier analysis to identify and select suppliers with the objective of getting more value with less spend
 
 welcome
 welcome to sourcing analytics through the story of apples iphone some sourcing pain points sourcing metrics and analytics framework and the best practice of a sophisticated buyer
-overview sourcing metrics and impact sourcing analytics framework and weekly schedule sourcing process naive vs sophisticated buyers
+sourcing metrics and impact sourcing analytics framework and weekly schedule sourcing process naive vs sophisticated buyers
 
 sourcing criteria and market intelligence
 in the second how to set the supplier selection criteria to match the companys needs to identify potential suppliers market intelligence to assess the trend stability and competition intensity of the global markets
-matching sourcing criteria with the firms strategic priority global market intelligence introduction to gcps screenshots create a new screenshots business geoinfo screenshots industry analysis and enterprise diagnosis screenshots navigator and supply chain mapping screenshots preview search and cite
+matching sourcing criteria with the firms strategic priority global market intelligence introduction to gcps screenshots create a new project screenshots business geoinfo screenshots industry analysis and enterprise diagnosis screenshots navigator and supply chain mapping screenshots preview search and cite
 
 bargain power and supplier analysis
 in the third bargain power analysis to assess your and your suppliers leverages and bargain power also supplier analysis to analyze individual suppliers capability pricing financial robustness and efficiency
@@ -84,20 +98,21 @@ bargain power analysis supplier analysis i pricing and profitability analysis su
 
 supplier score sheets and miniproject
 this is the last of sourcing analytics wrap up all the analysis learned so far into supplier score sheets so as to select the best suppliers perform a miniproject on sourcing intelligence
-from analyses to score sheets
+from analyses to score sheets project
 </DOC>
 
 <DOC>
 inventory analytics
-inventory analytics is the corner stone of supply chain analytics a company in trade industries may have of their assets tied up in inventory an effective inventory management can improve revenue by increasing product variety and availability and reduce cost and speed up cash cycle by reducing excessive inventory and waste through reallife examples eg amazon vs macys handson tools and to discover and solve inventory problems by data analytics upon completion you can answer the following questions for which industries is inventory important how may inventory drive a companys financial performance how do i know that i have an inventory problem how to classify inventory and manage it accordingly note this is for beginners and thus focuses more on discovering inventory problems than solving them it is my belief that discovering a problem and knowing which directions to go is at least equally important as solving the problem we are planning to launch new courses or expand this to cover more sophisticated inventory solutions in the future thank you
+inventory analytics is the corner stone of supply chain analytics a company in trade industries may have of their assets tied up in inventory an effective inventory management can improve revenue by increasing product variety and availability and reduce cost and speed up cash cycle by reducing excessive inventory and waste
+through reallife examples eg amazon vs macys handson tools and to discover and solve inventory problems by data analytics upon completion you can answer the following questions for which industries is inventory important how may inventory drive a companys financial performance how do i know that i have an inventory problem how to classify inventory and manage it accordingly note this is for beginners and thus focuses more on discovering inventory problems than solving them it is my belief that discovering a problem and knowing which directions to go is at least equally important as solving the problem we are planning to launch new courses or expand this to cover more sophisticated inventory solutions in the future thank you
 
 the value and impact of inventory
-welcome to inventory analytics the cornerstone of supply chain analytics first the story of amazon and macys then get an overview of the including the value trend breakdown and economic indication of inventory in the us and around the world
-overview weekly schedule how much inventory do we carry
+welcome to inventory analytics the cornerstone of supply chain analytics first the story of amazon and macys then get an of the including the value trend breakdown and economic indication of inventory in the us and around the world
+weekly schedule how much inventory do we carry
 
 in which industries is inventory important
 the importance of inventory is industry and country dependent be able to identify the importance of inventory in various industries and countries by two metrics inventory as a percentage of the total assets and inventory turns or days
-assessing industries by inventory over total asset assessing industries by inventory turns and days introduction to gcps screenshots create a new screenshots business geoinfo screenshots industry analysis and enterprise diagnosis screenshots navigator and supply chain mapping screenshots preview search and cite
+assessing industries by inventory over total asset assessing industries by inventory turns and days introduction to gcps screenshots create a new project screenshots business geoinfo screenshots industry analysis and enterprise diagnosis screenshots navigator and supply chain mapping screenshots preview search and cite
 
 how may inventory drive financials and how to discover inventory problems
 how may inventory drive a companys financial performance how do i know that i have an inventory problem why do companies hold inventory and why not be able to answer these questions
@@ -110,11 +125,12 @@ classifying inventory abc analysis by excel abc analysis by google sheets managi
 
 <DOC>
 demand analytics
-welcome to demand analytics one of the most soughtafter in supply chain management and marketingthrough the reallife story and data of a leading cookware manufacturer in north america the data analytics for demand planning and forecasting upon the completion of this be able to improve the forecasting accuracy by building and validating demand prediction models better stimulate and influence demand by identifying the drivers eg time seasonality price and other environmental factors for demand and quantifying their impact ak is a leading cookware manufacturer in north america its newly launched topline product was gaining momentum in the marketplace however a price adjustment at the peak season stimulated a significant demand surge which took ak completely by surprise and resulted in huge backorders ak faced the risk of losing the market momentum due to the upset customers and the high cost associated with overtime production and expedited shipping accurate demand forecast is essential for increasing revenue and reducing cost identifying the drivers for demand and assessing their impact on demand can help companies better influence and stimulate demand i hope you enjoy the
+welcome to demand analytics one of the most soughtafter in supply chain management and marketing
+through the reallife story and data of a leading cookware manufacturer in north america the data analytics for demand planning and forecasting upon the completion of this be able to improve the forecasting accuracy by building and validating demand prediction models better stimulate and influence demand by identifying the drivers eg time seasonality price and other environmental factors for demand and quantifying their impact ak is a leading cookware manufacturer in north america its newly launched topline product was gaining momentum in the marketplace however a price adjustment at the peak season stimulated a significant demand surge which took ak completely by surprise and resulted in huge backorders ak faced the risk of losing the market momentum due to the upset customers and the high cost associated with overtime production and expedited shipping accurate demand forecast is essential for increasing revenue and reducing cost identifying the drivers for demand and assessing their impact on demand can help companies better influence and stimulate demand i hope you enjoy the
 
 welcome
 welcome to the exciting world of demand analytics in the crisis that ak metalcrafters a leading cookware manufacturer in north america faced in launching new products and how ak successfully resolved the crisis using demand analytics also the general principles of demand planning and forecasting and how it fits into a firms integrated business planning
-the story of ak metalcrafters overview general principles of demand planning and forecasting
+the story of ak metalcrafters general principles of demand planning and forecasting
 
 predicting trend
 welcome to of demand analytics in you learned the general principles now in put them to action by building and interpreting a linear model for predicting the trend as in new product introduction also data collection preprocessing and visualization techniques which are critical to model building

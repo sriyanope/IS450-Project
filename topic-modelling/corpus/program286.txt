@@ -1,6 +1,8 @@
 <DOC>
 organizational change and culture for adopting google cloud
-understanding organizational adoption of google cloud this series of courses starts with the basics of digital transformation and google cloud and then builds on that knowledge to understand the culture and change management that organizations use to benefit from google cloudapplied projectthis is intended for anyone interested in how moving your organization to google cloud creates and requires change it does not include any handson technical training and no previous with cloud technology is required
+understanding organizational adoption of google cloud this series of courses starts with the basics of digital transformation and google cloud and then builds on that knowledge to understand the culture and change management that organizations use to benefit from google cloud
+
+this is intended for anyone interested in how moving your organization to google cloud creates and requires change it does not include any handson technical training and no previous with cloud technology is required
 </DOC>
 
 <DOC>
@@ -8,26 +10,26 @@ developing a google sre culture
 in many it organizations incentives are not aligned between developers who strive for agility and operators who focus on stability site reliability engineering or sre is how google aligns incentives between development and operations and does missioncritical production support adoption of sre cultural and technical practices can help improve collaboration between the business and it this introduces key practices of google sre and the important role it and business leaders play in the success of sre organizational adoption
 
 welcome to developing a google sre culture
-this provides a overview why this is beneficial for it and business leaders who want to embrace sre culture and what topics each covers
+this provides a why this is beneficial for it and business leaders who want to embrace sre culture and what topics each covers
 
 devops sre and why they exist
 this explains the components of devops philosophy why site reliability engineering came to exist and who in an organization can and should practice sre
 introduction devops and sre
 
 slos with consequences
-this covers the value of sre to an organization as well as the technical and cultural fundamentals related to reducing organizational silos and accepting failure as normal topics include the sre technical practices of blameless postmortems servicelevel objectives slos and error budgets and the sre cultural practices of blamelessness psychological safety unified vision collaboration and communication and knowledge sharing
+this covers the value of sre to an organization as as the technical and cultural fundamentals related to reducing organizational silos and accepting failure as normal topics include the sre technical practices of blameless postmortems servicelevel objectives slos and error budgets and the sre cultural practices of blamelessness psychological safety unified vision collaboration and communication and knowledge sharing
 introduction sre value postmortems blamelessness and psych safety slos and error budgets share vision and knowledge
 
 make tomorrow better than today
-continuous gradual testing as well as automation are very important in sre culture this covers the sre technical concepts of continuous integration continuous delivery and canarying as they relate to the devops pillar of implementing gradual change about the concepts of toil and automation and the idea of automating this years job away also about sre cultural practices of design thinking prototyping and how you can support your teams through change
+continuous gradual testing as as automation are very important in sre culture this covers the sre technical concepts of continuous integration continuous delivery and canarying as they relate to the devops pillar of implementing gradual change about the concepts of toil and automation and the idea of automating this years job away also about sre cultural practices of design thinking prototyping and how you can support your teams through change
 introduction continuous integration continuous delivery and canarying design thinking and prototyping toil psychology of change
 
 regulate workload
-about sre practices around measuring everything specifically reliability and toil and the concept of monitoring well also cover the cultural fundamentals of goalsetting transparency and datadriven decision making
+about sre practices around measuring everything specifically reliability and toil and the concept of monitoring also cover the cultural fundamentals of goalsetting transparency and datadriven decision making
 introduction toil and reliability goal setting
 
 apply sre in your organization
-we will talk about ways you can assess and understand your organizations maturity and readiness for adopting sre principles practices and culture well also discuss the types of to look for in hiring new sres and how to upskill your current workforce lastly well give you advice on how to start thinking about setting up an sre org and the additional support our google cloud services teams can provide your organization as you continue on your journey to sre
+talk about ways you can assess and understand your organizations maturity and readiness for adopting sre principles practices and culture also discuss the types of to look for in hiring new sres and how to upskill your current workforce lastly give you advice on how to start thinking about setting up an sre org and the additional support our google cloud services teams can provide your organization as you continue on your journey to sre
 introduction organizational maturity and training sre teams getting started
 
 final assessment
@@ -45,7 +47,8 @@ introduction why organizations move to the cloud challenges of moving to the clo
 
 <DOC>
 modernize infrastructure and applications with google cloud
-many traditional enterprises use legacy systems and applications that cant stay uptodate with modern customer expectations business leaders often have to choose between maintaining their aging it systems or investing in new products and services modernize infrastructure and applications with google cloud explores these challenges and offers solutions to overcome them by using cloud technologypart of the cloud digital leader path this aims to help individuals grow in their role and build the future of their business
+many traditional enterprises use legacy systems and applications that cant stay uptodate with modern customer expectations business leaders often have to choose between maintaining their aging it systems or investing in new products and services modernize infrastructure and applications with google cloud explores these challenges and offers solutions to overcome them by using cloud technology
+part of the cloud digital leader learning path this aims to help individuals grow in their role and build the future of their business
 
 introduction
 introduction explore the goals and preview each section
@@ -60,6 +63,6 @@ section of the focus on application modernization and the business value of appl
 introduction the benefits of modern cloud application development rehosting legacy applications in the cloud application programming interfaces apis apigee api management hybrid and multicloud
 
 
-the closes with a of the main points covered in each section and next steps to continue
+the closes with a of the main points covered in each section and next steps to continue learning
 </DOC>
 

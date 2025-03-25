@@ -1,18 +1,33 @@
 <DOC>
 introduction to environmental science
-to understand current environmental problems we need to consider physical biological chemical processes that are often the basis of those problems this will give you the necessary to address the environmental issues we are facing today by examining scientific principles and the application of those principles to natural systems this surveys some of the many environmental science topics at an introductory level ultimately considering the sustainability of human activities on the planetenvironmental impacts on earth come from the number of people the amount and types of resources that they use by applying scientific principles and considering realworld examples we will examinethe field of environmental science and how to think like an environmental scientistthe human population and the ways in which changes in the population affect the environmentagriculture soils and the environmental implications of eating meat vegetables local organic sustainable industrial and other types of foodnonrenewable fossil fuels with a focus on coal petroleum natural gas and the benefits consequences of using eachrenewable fuels such as wind and solar and identify that even renewable green energy sources have impacts as well as benefitsbiodiversity and global change which are the integrating units of environmental scienceapplied projectthe three courses comprising the introduction to environmental science utilize lectures case studies from various sites in and around dartmouth interviews with experts both prompted and open discussions and one graded quiz per
+to understand current environmental problems we need to consider physical biological chemical processes that are often the basis of those problems this will give you the necessary to address the environmental issues we are facing today by examining scientific principles and the application of those principles to natural systems this surveys some of the many environmental science topics at an introductory level ultimately considering the sustainability of human activities on the planet
+environmental impacts on earth come from the number of people the amount and types of resources that they use by applying scientific principles and considering realworld examples examine
+the field of environmental science and how to think like an environmental scientist
+the human population and the ways in which changes in the population affect the environment
+agriculture soils and the environmental implications of eating meat vegetables local organic sustainable industrial and other types of food
+nonrenewable fossil fuels with a focus on coal petroleum natural gas and the benefits consequences of using each
+renewable fuels such as wind and solar and identify that even renewable green energy sources have impacts as as benefits
+biodiversity and global change which are the integrating units of environmental science
+
+the three courses comprising the introduction to environmental science utilize lectures
+case studies from various sites in and around dartmouth
+interviews with experts
+
+both prompted and open discussions
+and one graded quiz per
 </DOC>
 
 <DOC>
 environmental science
-the introduction to environmental science explores the field of environmental science and encourages participants to understand how environmental scientists think it addresses some important questions such as what is the difference between environmental science and environmental studies how do both differ from environmentalism why is energy so important in environmental science what do you mean by biodiversity also explore what global cycles are and how they impact our lives you must be aware that the human impact on biodiversity and global change are two of the most important discussion points in environmental science have you ever wondered how we are affecting global change and biodiversity how can we reconcile human population growth resource demands and sustainability the effects of global change on humans and natural ecosystems and additional factors in evaluating personal environmental impact will also be discussed
+the introduction to environmental science explores the field of environmental science and encourages participants to understand how environmental scientists think it addresses some important questions such as
+what is the difference between environmental science and environmental studies how do both differ from environmentalism why is energy so important in environmental science what do you mean by biodiversity also explore what global cycles are and how they impact our lives you must be aware that the human impact on biodiversity and global change are two of the most important discussion points in environmental science have you ever wondered how we are affecting global change and biodiversity how can we reconcile human population growth resource demands and sustainability the effects of global change on humans and natural ecosystems and additional factors in evaluating personal environmental impact will also be discussed
 
 basics of environmental science
 this explores the importance of environmental science the water pollution problems and how cycling of matter takes place
 environmental science definitions and terms rock snot matter and energy
 
 biodiversity systems and feedback
-this gives an overview of the three different levels of biodiversity genetic species ecosystem and explores concepts such as system system analysis mrt and positive and negative feedback loop
+this gives an of the three different levels of biodiversity genetic species ecosystem and explores concepts such as system system analysis mrt and positive and negative feedback loop
 biodiversity systems and feebacks hydrologic cycle
 
 global cycles
@@ -26,7 +41,8 @@ global change basics greenhouse gases
 
 <DOC>
 population food and soil
-this explores the populationenvironment relationship about the human population and the ways in which changes in the population affect the environment agriculture soils and the environmental implications of eating meat vegetables local organic sustainable industrial and other types of food are discussed toowe explore questions such as how many people live on earth right now what is the carrying capacity of earth what is the relationship between the number of people where they live the resources they consume and their environmental impact what types of agriculture are used right now what is the difference between organic and conventional agriculture why would you want to dig a soil pit a conversation with phil connors an australian environmental scientist will explore the topic of human population and sustainability also listen to the conversations with danielle allen an organic farmer and justin richardson a soil scientist
+this explores the populationenvironment relationship about the human population and the ways in which changes in the population affect the environment agriculture soils and the environmental implications of eating meat vegetables local organic sustainable industrial and other types of food are discussed too
+we explore questions such as how many people live on earth right now what is the carrying capacity of earth what is the relationship between the number of people where they live the resources they consume and their environmental impact what types of agriculture are used right now what is the difference between organic and conventional agriculture why would you want to dig a soil pit a conversation with phil connors an australian environmental scientist will explore the topic of human population and sustainability also listen to the conversations with danielle allen an organic farmer and justin richardson a soil scientist
 
 population and the world
 this explores the global population trends how and why population changes and concepts related to population numbers including growth rate doubling time crude birth and date rates etc
@@ -47,9 +63,10 @@ the soil resource a soil profile a conversation with danielle allen food and soi
 
 <DOC>
 energy and environment
-this deals with both renewable and nonrenewable energy by applying scientific principles and considering realworld examples examine nonrenewable fossil fuels with a focus on coal petroleum and natural gas and the benefits and consequences of using each renewable fuels such as wind and solar and identify that even renewable green energy sources have impacts as well as benefits biodiversity and global change which are the integrating units of environmental science additionally explore answers to the following questions how do we evaluate coal oil and natural gas from an environmental science perspective what regulates energy conversions and losses in humanbuilt systems how much energy flows through your fingertips how do we evaluate hydro solar wind and biomass from an environmental science perspective how can we increase efficiency and conservation you also take a tour of the dartmouth powerplant and listen to a conversation with dartmouth sustainability director rosi kerr furthermore take a field trip to a pv tracker solar system visit a straw bale house and have a conversation about waste vegetable oil as an energy source in india
+this deals with both renewable and nonrenewable energy by applying scientific principles and considering realworld examples examine
+nonrenewable fossil fuels with a focus on coal petroleum and natural gas and the benefits and consequences of using each renewable fuels such as wind and solar and identify that even renewable green energy sources have impacts as as benefits biodiversity and global change which are the integrating units of environmental science additionally explore answers to the following questions how do we evaluate coal oil and natural gas from an environmental science perspective what regulates energy conversions and losses in humanbuilt systems how much energy flows through your fingertips how do we evaluate hydro solar wind and biomass from an environmental science perspective how can we increase efficiency and conservation you also take a tour of the dartmouth powerplant and listen to a conversation with dartmouth sustainability director rosi kerr furthermore take a field trip to a pv tracker solar system visit a straw bale house and have a conversation about waste vegetable oil as an energy source in india
 
-an overview of nonrenewable energy
+an of nonrenewable energy
 this explores some concepts related to energy such as its forms conservation with a special stress on nonrenewable energy
 the dartmouth powerplant energy concepts
 

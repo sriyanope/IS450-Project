@@ -1,11 +1,15 @@
 <DOC>
 human anatomy and medical terminology fundamentals
-build your knowledge of the human body and take the first steps toward working in a medical or healthcare setting this provides immersive interactive content to teach the anatomical structure bodily systems and medical language of the human formimportant this is not designed to prepare students for national certification enrollees will gain the foundationalfundamental knowledge on subject matter relevant to the profession however to gain industry certification a more comprehensive must be completed through enrollment via approvedeligible schools such as medcertsapplied projectmedcerts highly immersive courses use various unique elearning components designed to keep students engaged stimulated and entertained throughout training we are planning to add increased and will have more details coming soon
+build your knowledge of the human body and take the first steps toward working in a medical or healthcare setting this provides immersive interactive content to teach the anatomical structure bodily systems and medical language of the human form
+important this is not designed to prepare students for national certification enrollees will gain the foundationalfundamental knowledge on subject matter relevant to the profession however to gain industry certification a more comprehensive must be completed through enrollment via approvedeligible schools such as medcerts
+
+medcerts highly immersive courses use various unique elearning components designed to keep students engaged stimulated and entertained throughout training we are planning to add increased project and will have more details coming soon
 </DOC>
 
 <DOC>
 the heart blood and lungs
-on the heart blood and lungs about the wonderful diversity of the cardiovascular immune and respiratory systems and the medical language that is used to describe these systems throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussedthis will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include cardiovascular system blood and immune system and respiratory system
+on the heart blood and lungs about the wonderful diversity of the cardiovascular immune and respiratory systems and the medical language that is used to describe these systems throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussed
+this will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include cardiovascular system blood and immune system and respiratory system
 
 
 reading plugins
@@ -22,7 +26,8 @@ introduction and objectives the upper respiratory tract the lower respiratory tr
 
 <DOC>
 medical terminology anatomy and physiology fundamentals
-introduction to medical terminology and the human body about the medical language that is used to describe the human body throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussedthis will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include introduction to medical terminology introduction to anatomy physiology and pathology cells the foundation of life and the human body
+introduction to medical terminology and the human body about the medical language that is used to describe the human body throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussed
+this will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include introduction to medical terminology introduction to anatomy physiology and pathology cells the foundation of life and the human body
 
 
 reading plugins
@@ -43,7 +48,8 @@ introduction and objectives organs and organ systems homeostasis and survival su
 
 <DOC>
 the skin bones and muscles
-on the skin bones and muscles about the wonderful diversity of the integumentary skeletal and muscular systems and the medical language that is used to describe these systems throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussedthis will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include integumentary system skeletal system and muscular system
+on the skin bones and muscles about the wonderful diversity of the integumentary skeletal and muscular systems and the medical language that is used to describe these systems throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussed
+this will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include integumentary system skeletal system and muscular system
 
 
 reading plugins
@@ -60,7 +66,8 @@ introduction and objectives anatomy and physiology of muscles metabolism of musc
 
 <DOC>
 digestion micturition and reproduction
-on digestion micturition and reproduction about the wonderful diversity of the digestive urinary and reproductive systems and the medical language that is used to describe these systems throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussedthis will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include digestive system urinary system and reproductive system
+on digestion micturition and reproduction about the wonderful diversity of the digestive urinary and reproductive systems and the medical language that is used to describe these systems throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussed
+this will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include digestive system urinary system and reproductive system
 
 
 reading plugins
@@ -77,7 +84,8 @@ introduction and objectives anatomy and physiology of reproduction the male repr
 
 <DOC>
 the human bodys communication systems
-on the human bodys communication systems about the wonderful diversity of the nervous and endocrine systems and the medical language that is used to describe these systems throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussedthis will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include nervous system special senses and endocrine system
+on the human bodys communication systems about the wonderful diversity of the nervous and endocrine systems and the medical language that is used to describe these systems throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussed
+this will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include nervous system special senses and endocrine system
 
 
 reading plugins

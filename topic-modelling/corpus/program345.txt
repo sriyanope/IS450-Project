@@ -1,11 +1,12 @@
 <DOC>
 strategic management and innovation
-this explores the evolving world of business strategy focusing on the increasingly important roles of design user and innovation in shaping competitive advantage about concepts such as goal setting value creation global integration and diversification and critique classic theories and frameworks in the context of new business realities in the final capstone create and defend a holistic business strategy in response to a realistic case study prompt
+this explores the evolving world of business strategy focusing on the increasingly important roles of design user and innovation in shaping competitive advantage about concepts such as goal setting value creation global integration and diversification and critique classic theories and frameworks in the context of new business realities in the final capstone project create and defend a holistic business strategy in response to a realistic case study prompt
 </DOC>
 
 <DOC>
 strategy implementation
-even a thoroughly developed business strategy may fail if you dont pay enough attention to its implementation this rings particularly true with strategies based on innovation or implemented in complex or fastchanging environmentsin the th century successful implementation leveraged stability and typically proceeded through hierarchy and control today the key is to stay vibrant and able to quickly respond to trends in competition and technology while not losing sight of the strategic objective well build a toolbox of techniques to execute todays business strategies to help them succeed after completing this be able to create objectives and goals to guide strategy implementation identify organizational structures that fit particular strategies understand how to leverage company culture in implementation describe how to communicate the strategy so that the organization gets it detect and mitigate risks to implementation
+even a thoroughly developed business strategy may fail if you dont pay enough attention to its implementation this rings particularly true with strategies based on innovation or implemented in complex or fastchanging environments
+in the th century successful implementation leveraged stability and typically proceeded through hierarchy and control today the key is to stay vibrant and able to quickly respond to trends in competition and technology while not losing sight of the strategic objective build a toolbox of techniques to execute todays business strategies to help them succeed after completing this be able to create objectives and goals to guide strategy implementation identify organizational structures that fit particular strategies understand how to leverage company culture in implementation describe how to communicate the strategy so that the organization gets it detect and mitigate risks to implementation
 
 intro translating strategy into goals and metrics
 we set the scene in strategy implementation and take a birdseye view of the we then dive into formulating actionable goals based on the strategy good practices in creating metrics and setting objectives and about two specific tools for deriving actionable measurable goals from a strategy
@@ -17,7 +18,7 @@ intro lesson intro mechanistic and organic structures relationship of structure 
 
 communicating the strategy within the organization
 getting communication right is crucial for successful implementation we find out how to communicate the strategy vertically and how to facilitate collaboration and upward communication in the organization
-intro lesson intro what to communicate how to communicate strategic consensus lesson intro horizontal communication collaboration and selforganizing teams lesson intro tools for upward communication making the organization comfortable with sharing bad news organizational
+intro lesson intro what to communicate how to communicate strategic consensus lesson intro horizontal communication collaboration and selforganizing teams lesson intro tools for upward communication making the organization comfortable with sharing bad news organizational learning
 
 managing resistance and other implementation risks
 strategy implementation is rarely an exercise in certainty new strategies may cause concerns or resistance in the organization or be vulnerable to other risks
@@ -34,10 +35,11 @@ intro lesson intro organizational power and its sources using power in implement
 
 <DOC>
 strategy formulation
-the purpose of this is to present analyze and discuss the different facets of business strategy formulation emphasizing that strategy can be seen as a unified theme that provides coherence and direction to the actions and decisions of a firm we will cover a variety of business strategy topics concerned with firm positioning in the context of different markets industries and locationsat the end of the be able to identify why a strong strategy is essential for the future business success formulate a business strategy that suits the needs and visions of your organization explain why managers too often formulate suboptimal strategies extrapolate measures to optimize current business strategies workload hours per
+the purpose of this is to present analyze and discuss the different facets of business strategy formulation emphasizing that strategy can be seen as a unified theme that provides coherence and direction to the actions and decisions of a firm cover a variety of business strategy topics concerned with firm positioning in the context of different markets industries and locations
+at the end of the be able to identify why a strong strategy is essential for the future business success formulate a business strategy that suits the needs and visions of your organization explain why managers too often formulate suboptimal strategies extrapolate measures to optimize current business strategies workload hours per
 
 introducing strategy formulation
-in the first of this we will examine and discuss the foundations of strategy formulation emphasizing key concepts such as competitive advantage value creation planned vs emerging strategy and strategic fit
+in the first of this examine and discuss the foundations of strategy formulation emphasizing key concepts such as competitive advantage value creation planned vs emerging strategy and strategic fit
 introduction defining business strategy competitive advantage
 
 industry analysis
@@ -45,7 +47,7 @@ building on the insights generated in the first session in the second we explore
 vestas and the wind turbine industry business environment competition from substitutes threat of entry rivalry between established competitors bargaining power of buyers bargaining power of suppliers
 
 resources and capabilities
-the purpose of this session is to understand the role of firm resources and capabilities in building and formulating a strong strategy in particular we will discuss concepts such as the value chain core capabilities heterogeneous resources and the vrio framework
+the purpose of this session is to understand the role of firm resources and capabilities in building and formulating a strong strategy in particular discuss concepts such as the value chain core capabilities heterogeneous resources and the vrio framework
 ecco and the production of shoes the relationship between resources and competitive advantage firm resources organizational capabilities sustaining competitive advantage through resources and capabilities
 
 global strategies and the multinational corporation
@@ -53,7 +55,7 @@ the and challenges of operating internationally are substantially different to t
 carlsberg in china defining the multinational enterprise motives for internationalization integrationresponsiveness approach to global strategies
 
 strategic decision making
-we will investigate the processes of strategic decision making and explore how this matters for firm performance we will discuss topics such as bounded rationality management politics and hidden costs
+investigate the processes of strategic decision making and explore how this matters for firm performance discuss topics such as bounded rationality management politics and hidden costs
 legos outsourcing journey homo economicus and bounded rationality cognitive limitations strategy as forecasting hidden costs
 
 formulating a strategy in a st century creative company
@@ -63,7 +65,11 @@ story of etypes etype business story of etypes part ii etypes dilemma
 
 <DOC>
 strategic management
-the world of business strategy is in transition what used to doesnt anymore not necessarily this prepares you to think strategically in an age when companies like apple google and microsoft have become more valuable in market cap terms than companies like exxon today business value and competitive advantage arise more often from consumer perceptions of what is cool than from physical assets or economies of scale the first of a threecourse tailored specifically for the age of creativity and innovation gear up for the challenges of strategy formulation and implementation in a st century business after taking the be able to explain why doing strategy is considered the high point of managerial activity mintzberg recognize and avoid the old tired ideas about strategy that are still out there so you can adopt fresher better ideas point out how doing strategy has changed because of advancing technology and globalization prepare for the capstone for the strategic management and innovation
+the world of business strategy is in transition what used to doesnt anymore not necessarily
+this prepares you to think strategically in an age when companies like apple google and microsoft have become more valuable in market cap terms than companies like exxon today business value and competitive advantage arise more often from consumer perceptions of what is cool than from physical assets or economies of scale the first of a threecourse tailored specifically for the age of creativity and innovation gear up for the challenges of strategy formulation and implementation in a st century business after taking the be able to explain why doing strategy is considered the high point of managerial activity mintzberg
+recognize and avoid the old tired ideas about strategy that are still out there so you can adopt fresher better ideas
+point out how doing strategy has changed because of advancing technology and globalization
+prepare for the capstone project for the strategic management and innovation
 
 a st century approach to business strategy
 a short intro to the
@@ -81,36 +87,36 @@ changing world changing strategies
 in the past several decades a lot has changed in the world many more people and nations china india russia etc have joined the global market economy the number of internet users has skyrocketed and continues dramatically upward shipping traffic between countries has multiplied and also continues to grow all this world change has changed the strategy situation of most companies in a big way it means for example that companies in advanced economies have to compete against rivals that have structural cost advantages because they operate in lower cost parts of the world this describes the shifted and shifting strategy landscape due to the advance of technology and the relentless march of globalization
 comparing and today how products services and now move easily around the globe how the competitive game shifts in a globalized world the worlds most sophisticated differentiation strategies aestheticsthe last frontier of sustainable advantage
 
-capstone intro strategy in a st century creative company
+capstone project intro strategy in a st century creative company
 an upandcoming and very ambitious design firm is unexpectedly invited to bid for a against more prominent competitors the job design the logo and other elements of the public identity of the national sports team winning will vault etypes to much greater prominence their will be displayed on tv and on tshirts and they believe they have what it takes to win but theres a problem the etypes designers who have always thought of themselves as design revolutionaries dont like the guidance theyre receiving from this somewhat conservative client in short the designers think what the client is asking for is boring its not the kind of they want to do or be known fornow or ever meanwhile more business oriented etypes managers and staff can hardly believe what theyre hearing from the designers dont they see the this is business and theres money to be made the designers should get over themselves and satisfy the customer right controversy grips etypes at stake what kind of company will they be going forward can they continue to be revolutionary and still satisfy their growth ambitions or is it time for them to grow up in order to appeal to a wider range of customers the battle is on for the soul of this company what will you recommend
 meet etypes a st century creative company etypes execs explaining how they think about their business a major controversy at stake the future and soul of the company etypes partners debating which design to present to td questions we ask you to consider
 </DOC>
 
 <DOC>
-strategic management capstone
-capstone we revisit the strategy controversy at etypes introduced in the first strategic management and further analysed in each of the subsequent courses strategy formulation and strategy implementation after revealing examining and analyzing what happened at etypes we turn to a new set of strategy cases that range in terms of company size geography and focus for your final we ask you to apply everything you have learned to analyze your choice of one of these four situations
+strategic management capstone project
+capstone project we revisit the strategy controversy at etypes introduced in the first strategic management and further analysed in each of the subsequent courses strategy formulation and strategy implementation after revealing examining and analyzing what happened at etypes we turn to a new set of strategy cases that range in terms of company size geography and focus for your final project we ask you to apply everything you have learned to analyze your choice of one of these four situations
 
-introduction to the capstone
-if youre taking this youve most likely completed the three earlier courses strategic management strategy formulation and strategy implementation find out what happened at etypes the case weve used throughout the to illustrate strategy concepts and also apply the concepts to an entirely new context get to choose among several cases for your final and this as we describe in greater detail in what follows
-introduction to the capstone the team denmark decision the context of the etypes decision sren skafte overgaard former ceo what happened in td case sren skafte overgaard former ceo aftermath a difficult time sren skafte overgaard former ceo strategy in a creative company sren skafte overgaard former ceo lessons from the etypes case
+introduction to the capstone project
+if youre taking this youve most likely completed the three earlier courses strategic management strategy formulation and strategy implementation find out what happened at etypes the case weve used throughout the to illustrate strategy concepts and also apply the concepts to an entirely new context get to choose among several cases for your final project and this as we describe in greater detail in what follows
+introduction to the capstone project the team denmark decision the context of the etypes decision sren skafte overgaard former ceo what happened in td case sren skafte overgaard former ceo aftermath a difficult time sren skafte overgaard former ceo strategy in a creative company sren skafte overgaard former ceo lessons from the etypes case
 
-capstone
-for your final we provide you with options four cases which you can read about and choose among these cases range from large to small companies across geographies and span manufacturing and service businesses consistent with our overall theme all these cases about companies that compete based on innovation for one of these only one create a concise recommendation of a strategy and implementation plan to do this well need to summon ideas appropriately from the earlier three courses in the
-the capstone what you need to do of the case of the case of the case of the case
+capstone project
+for your final project we provide you with options four cases which you can read about and choose among these cases range from large to small companies across geographies and span manufacturing and service businesses consistent with our overall theme all these cases about companies that compete based on innovation for one of these only one create a concise recommendation of a strategy and implementation plan to do this need to summon ideas appropriately from the earlier three courses in the
+the capstone project what you need to do of the case of the case of the case of the case
 
 milestone i formulating strategy
-heres a chance to share your and ideas regarding the strategic formulation part of your chosen this is an optional peer reviewed and it will not count towards the final grade but however serves as a great to better your before handing in the final piece
+heres a chance to share your and ideas regarding the strategic formulation part of your chosen project this is an optional peer reviewed and it will not count towards the final grade but however serves as a great to better your project before handing in the final piece
 
 milestone ii implementation strategy
-as in the previous you may share your and ideas on part of the capstone share and ideas from you related to areas within strategy implementation and get feedback from peers before handing in the final version of you remember this is optional and wont count points towards the however its serves as great to recieve feedback that can help to improve your final
+as in the previous you may share your and ideas on part of the capstone project share and ideas from you project related to areas within strategy implementation and get feedback from peers before handing in the final version of you project remember this is optional and wont count points towards the however its serves as great to recieve feedback that can help to improve your final project
 
 finish up
 use to finish up your prepare to hand it in look into the courses on strategic management strategy formulation and strategy implementation again to assure that you understand and apply concepts and theories correctly
 
-capstone final submission
+capstone project final submission
 final you are to hand in your final capstone for peerreveiw good luck
 
-optional hand in a second
-want gain more then feel free to hand in a second for peer review optional you have the of putting your new earned to another test same procedure as the the submission
+optional hand in a second project
+want gain more then feel free to hand in a second project for peer review optional you have the of putting your new earned to another test same procedure as the the project submission
 </DOC>
 

@@ -1,11 +1,14 @@
 <DOC>
 trading strategies in emerging markets
-this equips individual investors and money managers with the required to develop their own trading strategies and test them when you complete the be ready to apply eight readymade trading strategies based on rigorous academic research that have been shown to be also be able to design your own trading strategy back test it and measure its performanceapplied projectin the capstone the learners will be able to design a new trading strategy and evaluate it using the tools learned in the they will also be able to integrate it with the existing portfolio and also develop a plan to start a hedge fund
+this equips individual investors and money managers with the required to develop their own trading strategies and test them when you complete the be ready to apply eight readymade trading strategies based on rigorous academic research that have been shown to be also be able to design your own trading strategy back test it and measure its performance
+
+in the capstone project the learners will be able to design a new trading strategy and evaluate it using the tools learned in the they will also be able to integrate it with the existing portfolio and also develop a plan to start a hedge fund
 </DOC>
 
 <DOC>
 advanced trading algorithms
-this will provide back test results for all the strategies in developed and emerging markets the learner will also be taught scientific ways of back testing without succumbing to either look ahead or survival biasyou will various methods of building a robust back testing system for the strategies discussed in the previous be taught how to differentiate between mere data mining and results based on solid empirical or theoretical foundation next the ways and means of back testing the results and subjecting the back test results to stress tests after which the various ways in which transaction costs and other frictions could be incorporated in the back testing algorithm finally techniques for measuring a strategies performance and the concept of risk adjusted return use some of the famous measures for risk adjusted returns such as sharpe ratio treynors ratio and jensons alpha see how to pick an appropriate benchmark for a proposed fund
+this will provide back test results for all the strategies in developed and emerging markets the learner will also be taught scientific ways of back testing without succumbing to either look ahead or survival bias
+various methods of building a robust back testing system for the strategies discussed in the previous be taught how to differentiate between mere data mining and results based on solid empirical or theoretical foundation next the ways and means of back testing the results and subjecting the back test results to stress tests after which the various ways in which transaction costs and other frictions could be incorporated in the back testing algorithm finally techniques for measuring a strategies performance and the concept of risk adjusted return use some of the famous measures for risk adjusted returns such as sharpe ratio treynors ratio and jensons alpha see how to pick an appropriate benchmark for a proposed fund
 
 strategy accruals
 after completing this be able to understand the basics of accrual build a trading strategy based on accruals and test the strategy that you have built
@@ -25,8 +28,8 @@ g score back ground g score economic intuition g score strategy g score numerica
 </DOC>
 
 <DOC>
-design your own trading strategy culminating
-in the culminating develop new trading strategies evaluate them using the tools learned in the integrate them with the existing portfolio and also develop a plan to start a hedge fund
+design your own trading strategy culminating project
+in the culminating project develop new trading strategies evaluate them using the tools learned in the integrate them with the existing portfolio and also develop a plan to start a hedge fund
 
 learners introduction
 introduce yourself to the other learners you can exchange ideas and from one another
@@ -47,12 +50,13 @@ evaluate the strategy that you had designed for this purpose make use of various
 measuring portfolio or fund returns benchmarks for portfolio performance evaluation alternate performance measures
 
 grading rubric
-final use the grading rubric to evaluate the submitted by the other learners
+final use the grading rubric to evaluate the projects submitted by the other learners
 </DOC>
 
 <DOC>
 creating a portfolio
-this integrates all the from the first three courses and guides the learner about ways of building a portfolio of strategies and integrating the same into a hedge fund in the first part of the be taught ways of measuring the contribution of a strategy to a portfolio in terms of risk and return be able to appreciate the consequences of including a strategy to a new as well an existing portfolio next you are taught various ways of conducting the tilting analysis in order to determine the optimal weight to be placed on each strategy after this to develop techniques for minimizing overall portfolio risk also get a basic overview of the regulatory framework that is applicable to hedge funds know about different types of investors and the expectations of each type of investors
+this integrates all the learning from the first three courses and guides the learner about ways of building a portfolio of strategies and integrating the same into a hedge fund
+in the first part of the be taught ways of measuring the contribution of a strategy to a portfolio in terms of risk and return be able to appreciate the consequences of including a strategy to a new as an existing portfolio next you are taught various ways of conducting the tilting analysis in order to determine the optimal weight to be placed on each strategy after this to develop techniques for minimizing overall portfolio risk also get a basic of the regulatory framework that is applicable to hedge funds know about different types of investors and the expectations of each type of investors
 
 
 about the efficient market hypothesis and various market anomalies in the second half how to evaluate the performance of investments
@@ -73,7 +77,8 @@ strategies based on text mining benchmarking reporting financial instruments bac
 
 <DOC>
 trading algorithms
-this covers two of the seven trading strategies that in emerging markets the seven include strategies based on momentum momentum crashes price reversal persistence of earnings quality of earnings underlying business growth behavioral biases and textual analysis of business reports about the companyin the first part of the how to read an academic paper what parts to pay attention to and what parts to skim through will be discussed here for every strategy first be introduced to the original research and then how to implement the strategy the first strategy piotroski f score will be discussed in detail be taught how to calculate the f score and how to use this score in a strategy this is followed by the next strategy post earnings announcement drift pead
+this covers two of the seven trading strategies that in emerging markets the seven include strategies based on momentum momentum crashes price reversal persistence of earnings quality of earnings underlying business growth behavioral biases and textual analysis of business reports about the company
+in the first part of the how to read an academic paper what parts to pay attention to and what parts to skim through will be discussed here for every strategy first be introduced to the original research and then how to implement the strategy the first strategy piotroski f score will be discussed in detail be taught how to calculate the f score and how to use this score in a strategy this is followed by the next strategy post earnings announcement drift pead
 
 introduction to trading strategies and benchmarks
 after completing this be able to understand what market efficiency means be able to list different types of market efficiencies
@@ -94,7 +99,8 @@ piotroski fscore wrap up post earnings announcement drift pead a post earnings a
 
 <DOC>
 trading basics
-the purpose of this is to equip you with the knowledge required to comprehend the financial statements of a company and understand the various transactions that take place in the stock market so that you can replicate the strategies discovered by the extant academic literaturethe first part of the provides a brief introduction to financial statements and various common filings of firms how to obtain information regarding a companys performance from them and use the information to build trading strategies next you are taught basic asset pricing theories so that be able to calculate the expected returns of a stock or a portfolio finally be introduced to the actual functioning of asset markets type of players in the market different types of orders and the efficient ways and opportune time to execute them trading costs and ways of minimizing them the concept of liquidity etc this knowledge is required to develop efficient algorithm to execute various trading strategies
+the purpose of this is to equip you with the knowledge required to comprehend the financial statements of a company and understand the various transactions that take place in the stock market so that you can replicate the strategies discovered by the extant academic literature
+the first part of the provides a brief introduction to financial statements and various common filings of firms how to obtain information regarding a companys performance from them and use the information to build trading strategies next you are taught basic asset pricing theories so that be able to calculate the expected returns of a stock or a portfolio finally be introduced to the actual functioning of asset markets type of players in the market different types of orders and the efficient ways and opportune time to execute them trading costs and ways of minimizing them the concept of liquidity etc this knowledge is required to develop efficient algorithm to execute various trading strategies
 
 basics of financial statements
 this provides a brief introduction to financial statements and various common filings these are the most important sources for obtaining information regarding a companys performance most strategies are indeed based on financial statements after completing this be able to get the important details from the balance sheets

@@ -1,15 +1,33 @@
 <DOC>
 meta react native
-if you want to how to create apps for android and ios devices this is right for you this is taught by industryrecognized experts at meta crossplatform mobile developers build and write code for apps that are hosted on mobile devices powered by multiple operating systems they do everything from creating the app to debugging it after deployment they design interactive and attractive user interfaces uis to ensure the best possible enduser or customer this can be a stepping stone for building a successful as an ios or android developerin this essential crossplatform programming concepts and the tools needed to develop appswork with web technologies such as html css and javascriptmanage data across multiple mobile operating systems including ios and androidindemand to develop test and maintain crossplatform mobile apps using react and react nativegithub repositories for version control and content management systems cmsby the end put your new to by completing a realworld portfolio build a dynamic mobile app using a responsive design that you can showcase during a job interview plus get support in your job searchplease note that the launch date content and titles are subject to change applied projectthroughout the engage in a number of practical labbased exercises that offer to practice and implement what you are complete handson that you can showcase during job interviews and on relevant social networksat the end of each complete an to test your new there are various in which use a lab environment or a web application to perform tasks such asuse javascript and data from multiple sources to dynamically control a web appmanage a using version control in git and githubbuild apps using react routing hooks and data fetching at the end of the there will be a capstone where bring your new skillset together to create a mobile app
+if you want to how to create apps for android and ios devices this is right for you this is taught by industryrecognized experts at meta
+crossplatform mobile developers build and write code for apps that are hosted on mobile devices powered by multiple operating systems they do everything from creating the app to debugging it after deployment they design interactive and attractive user interfaces uis to ensure the best possible enduser or customer
+this can be a stepping stone for building a successful as an ios or android developer
+
+essential crossplatform programming concepts and the tools needed to develop apps
+with web technologies such as html css and javascript
+manage data across multiple mobile operating systems including ios and android
+indemand to develop test and maintain crossplatform mobile apps using react and react native
+github repositories for version control and content management systems cms
+by the end put your new to by completing a realworld portfolio project build a dynamic mobile app using a responsive design that you can showcase during a job interview plus get support in your job search
+please note that the launch date content and titles are subject to change
+
+throughout the engage in a number of practical labbased exercises that offer to practice and implement what you are learning complete handson projects that you can showcase during job interviews and on relevant social networks
+at the end of each complete an to test your new there are various in which use a lab environment or a web application to perform tasks such as
+use javascript and data from multiple sources to dynamically control a web app
+manage a project using version control in git and github
+build apps using react routing hooks and data fetching
+at the end of the there will be a capstone project where bring your new skillset together to create a mobile app
 </DOC>
 
 <DOC>
 principles of uxui design
-the fundamentals of user ux research and design become immersed in the ux process of identifying problems and iterating and testing designs to find appropriate solutions how to empathize with users through bestpractice research approaches and create common ux artifacts such as user personas and use ux insights to make appropriate design decisions by utilizing the user interface ui design process be able to create wireframes for features in figma and turn them into minimum viable product mvp style prototypes from your mockups also the core principles of design such as hierarchy and the use of grids by the end of this be able to design digital products that create value and solve a users problems in meaningful ways recognize what constitutes successful ux ui and evaluate existing interfaces for design consistency and quality identify best practice interaction design methods and evaluate and improve your own and others designs create share and test your ux ui designs following best practice guidelines this is a beginner for learners who would like to prepare themselves for a in ux ui development to succeed you do not need prior development only basic internet navigation and an eagerness to
+the fundamentals of user ux research and design become immersed in the ux process of identifying problems and iterating and testing designs to find appropriate solutions how to empathize with users through bestpractice research approaches and create common ux artifacts such as user personas and use ux insights to make appropriate design decisions
+by utilizing the user interface ui design process be able to create wireframes for features in figma and turn them into minimum viable product mvp style prototypes from your mockups also the core principles of design such as hierarchy and the use of grids by the end of this be able to design digital products that create value and solve a users problems in meaningful ways recognize what constitutes successful ux ui and evaluate existing interfaces for design consistency and quality identify best practice interaction design methods and evaluate and improve your own and others designs create share and test your ux ui designs following best practice guidelines this is a beginner for learners who would like to prepare themselves for a in ux ui development to succeed you do not need prior development only basic internet navigation and an eagerness to
 
 introduction to ux and ui design
 about what constitutes successful ui and evaluate existing interfaces for design consistency and quality
-introduction to the principles of ux and ui design a day in the life of a meta product designer introduction to ux and ui a day in the life of a meta product manager final overview what is ux ux goals quality components overview of the ux process what is ui getting started with figma who is your user empathy tools case study user research in the real world introduction to ux and ui
+introduction to the principles of ux and ui design a day in the life of a meta product designer introduction to ux and ui a day in the life of a meta product manager final project what is ux ux goals quality components of the ux process what is ui getting started with figma who is your user empathy tools case study user research in the real world introduction to ux and ui
 
 evaluating interactive design
 be able to understand best practice interaction design methods and evaluate and improve your own and others designs
@@ -33,7 +51,7 @@ programming with javascript
 javascript is the programming language that powers the modern web the basic concepts of web development with javascript with functions objects arrays variables data types the html dom and much more how to use javascript and discover interactive possibilities with modern javascript technologies finally about the practice of testing code and how to write a unit test using jest
 
 introduction to javascript
-you are introduced to javascript why javascript is so integral to software development and get an overview of how to write javascript code inside the browser furthermore about the most common operators as well as conditional statements and loops after completing this have completed the following objectives
+you are introduced to javascript why javascript is so integral to software development and get an of how to write javascript code inside the browser furthermore about the most common operators as as conditional statements and loops after completing this have completed the following learning objectives
 introduction to programming with javascript how is javascript used in the real world setting up vs code optional introduction to programming why javascript programming in javascript variables data types operators numbers strings booleans writing statements working with conditional statements looping constructs for loop while loop nested loops introduction to javascript
 
 the building blocks of a
@@ -49,13 +67,14 @@ here about nodejs and node package manager npm and explore how to install npm pa
 other javascript environments node npm what is testing types of testing introduction to jest writing tests with jest tdd testdriven development testing
 
 endofcourse graded assessment
-in the final synthesize the you gained from the to create code for the little lemon receipt maker after you complete the individual units be able to take the graded assessment also have to to reflect on the content and the path that lies ahead
+in the final synthesize the you gained from the to create code for the little lemon receipt maker after you complete the individual units be able to take the graded assessment also have to to reflect on the content and the learning path that lies ahead
 recap programming with javascript congratulations on completing the programming with javascript
 </DOC>
 
 <DOC>
 introduction to mobile development
-if you want to become a mobile developer this is a good place to start about the daytoday responsibilities of web and mobile developers and get a general understanding of the core and underlying technologies that power the internetyoull be introduced to core technologies like html and css and get to practice using them also discover the unique world of crossplatform mobile applications apps explore the various benefits of using a system like react native to build mobile apps and get an to practice the basics
+if you want to become a mobile developer this is a good place to start about the daytoday responsibilities of web and mobile developers and get a general understanding of the core and underlying technologies that power the internet
+be introduced to core technologies like html and css and get to practice using them also discover the unique world of crossplatform mobile applications apps explore the various benefits of using a system like react native to build mobile apps and get an to practice the basics
 
 mobile applications
 the basic principles of mobile app development using a crossplatform solution
@@ -76,24 +95,26 @@ recap introduction to mobile development congratulations you have completed intr
 
 <DOC>
 capstone react app
-this enables you to demonstrate multiple from this by solving an authentic realworld problem each includes a brief recap of and links to content that you have covered in previous courses the capstone will test your knowledge and understanding in mobile development using react native to complete this need react native during this be guided through the process of building an app combining all the and technologies youve learned throughout this to solve the problem at hand by the end of this be able to demonstrate the following set up a development environment for working on a react native set up a remote github repository to which you can commit local changes apply ux and ui principles to guide creation of a wireframe and prototype for your app develop screens for a react native app featuring various components and interactive elements design an onboarding process for welcoming new users to your app set up a navigation flow to enable users to move between screens in your app fetch data from a remote server and store it in a database and then render it in your app implement data filtering functionality to enable users to customize information evaluate the of your peers and provide informed and constructive feedback on completion of the capstone have a jobready portfolio that you can show to recruiters demonstrate during interviews and impress potential employers
+this enables you to demonstrate multiple from this by solving an authentic realworld problem each includes a brief recap of and links to content that you have covered in previous courses the capstone project will test your knowledge and understanding in mobile development using react native
+to complete this need react native during this be guided through the process of building an app combining all the and technologies youve learned throughout this to solve the problem at hand by the end of this be able to demonstrate the following set up a development environment for working on a react native project set up a remote github repository to which you can commit local project changes apply ux and ui principles to guide creation of a wireframe and prototype for your app develop screens for a react native app featuring various components and interactive elements design an onboarding process for welcoming new users to your app set up a navigation flow to enable users to move between screens in your app fetch data from a remote server and store it in a database and then render it in your app implement data filtering functionality to enable users to customize information evaluate the of your peers and provide informed and constructive feedback on completion of the capstone project have a jobready portfolio that you can show to recruiters demonstrate during interviews and impress potential employers
 
-starting the
+starting the project
 first review what you need to set up prior to developing a mobile application in react native and how to do it then plan the ux and ui by designing a wireframe before adding highfidelity visual elements
-introduction to the setting up the planning the ux and ui
+introduction to the setting up the project planning the ux and ui
 
-functionality
+project functionality
 set up the functionality of your app this calls for you to utilize various react native libraries and components to produce an onboarding flow navigation routes a customizable profile page and a foodordering interface
 onboarding flow food ordering user flow
 
-assessment
+project assessment
 be assessed on the knowledge that youve acquired and applied throughout the also have the option to what steps to take to submit an application for publication on the google play store or ios app store
-recap capstone play store submission process building and testing your app preparing your app for submission app store submission process building and testing your app preparing your app for submission congratulations you have completed the capstone
+recap capstone project play store submission process building and testing your app preparing your app for submission app store submission process building and testing your app preparing your app for submission congratulations you have completed the capstone project
 </DOC>
 
 <DOC>
 working with data
-this expands upon the knowledge you gained from the react native and will prepare you to make more informed decisions about how you access store retrieve and present data within your react native applicationsthe is designed to be completed over five weeks about data and databases in a more general sense and then proceed to become familiar with tools and practices for working with data specifically in react native by the end of this be able to explain what rest apis are and identify best practices for working with them make network calls to retrieve online content and handle responses from the server create databases and tables and use sql to store data in them in a structured relational way read and write data for a mobile application using asyncstorage read and write data for a mobile application using sqlite to complete this need react native additionally it always helps to have a cando attitude
+this expands upon the knowledge you gained from the react native and will prepare you to make more informed decisions about how you access store retrieve and present data within your react native applications
+the is designed to be completed over five weeks about data and databases in a more general sense and then proceed to become familiar with tools and practices for working with data specifically in react native by the end of this be able to explain what rest apis are and identify best practices for working with them make network calls to retrieve online content and handle responses from the server create databases and tables and use sql to store data in them in a structured relational way read and write data for a mobile application using asyncstorage read and write data for a mobile application using sqlite to complete this need react native additionally it always helps to have a cando attitude
 
 introduction to rest apis
 get to know about restful api development
@@ -104,25 +125,26 @@ practice applying asynchronous programming techniques to query rest apis and han
 contacting servers http protocol and asynchronous calls http protocol and promises in action what youve learnt about json fetching images interacting with rest apis in react native
 
 introduction to databases sql
-become familiar with what databases are and how they hold and structure data as well as how to use sql to retrieve and present data from databases in a meaningful way
+become familiar with what databases are and how they hold and structure data as as how to use sql to retrieve and present data from databases in a meaningful way
 what is a database how is data related what is structured query language sql usage sql syntax introduction create and drop database what are tables in databases numeric data types string data types default values create table statement alter table statement insert statement select statement updating data deleting data introduction to databases sql
 
 data in react native
 how to with asyncstorage and sqlite in react native
 what is asyncstorage working with asyncstorage connecting asyncstorage to state what is sqlite setting up exposqlite connecting sqlite to state data in react native
 
-assessment
+project assessment
 be assessed on the key covered in the
 recap working with data in react native wrap up
 </DOC>
 
 <DOC>
 react native
-react native is an opensource framework for building crossplatform applications apps using react and the platforms native capabilities move from the basics of react to a more advanced implementation using react native review a wide range of different react components and ways of styling them and get to practice using different mobile methods of interactivity with react nativesome of the basics include building a singlepage react native app and styling it using basic components building large lists and configuring user inputs within a react native app using the pressable component to build buttons and other clickable areas setting up an app with react navigation and moving between screens gain with the following tools and software react react native front end development languages html css and javascript jsx code editing programs such as expo and visual studio code this is for learners who would like to prepare themselves for a in mobile development to succeed need foundational knowledge of react basics internet navigation and an eagerness to code
+react native is an opensource framework for building crossplatform applications apps using react and the platforms native capabilities move from the basics of react to a more advanced implementation using react native review a wide range of different react components and ways of styling them and get to practice using different mobile methods of interactivity with react native
+some of the basics include building a singlepage react native app and styling it using basic components building large lists and configuring user inputs within a react native app using the pressable component to build buttons and other clickable areas setting up an app with react navigation and moving between screens gain with the following tools and software react react native front end development languages html css and javascript jsx code editing programs such as expo and visual studio code this is for learners who would like to prepare themselves for a in mobile development to succeed need foundational knowledge of react basics internet navigation and an eagerness to code
 
 introduction to react native
 the basic structure and use of react native is explored and demonstrated to build a single page react native app and style it using basic components such as view text and stylesheet
-introduction to the what is react native native crossplatform hybrid developer roles meet a crossplatform developer react native development environment overview react native with expo how is react native used in the real world react native code what is expo what are react native components building a component what are view and text components using the view and text components what is the scrollview component using the scrollview component styling components using stylesheet practical styling introduction to react native
+introduction to the what is react native native crossplatform hybrid developer roles meet a crossplatform developer react native development environment react native with expo how is react native used in the real world react native code what is expo what are react native components building a component what are view and text components using the view and text components what is the scrollview component using the scrollview component styling components using stylesheet practical styling introduction to react native
 
 lists and text input in react native
 about the core components of react native to build large and performant lists with the flatlist and sectionlist components then to configure user inputs via keyboard using the textinput component by the end of this gain the knowledge to build large lists and configure user inputs within your react native app
@@ -136,17 +158,18 @@ react navigation
 all about navigating between screens using react navigation different types of navigation such as stack tab and drawer navigation which are widely used in mobile apps also about the core features of react navigation by the end of this be able to setup your app with react navigation and move between screens
 what is react navigation setting up react navigation using the stacknavigator approaches to passing props to screen moving to a new screen moving between screens going back to previous screen configuring a header bar what is tab navigation tab navigation example customizing your tab navigator what is drawer navigation drawer navigation example react navigation
 
-final assessment
+final project assessment
 practice and reflect on the you learned
 recap react native solution walkthrough little lemon newsletter signup congratulations you have completed react native
 </DOC>
 
 <DOC>
 version control
-how modern software developers collaborate across the world without messing up each others code look at the different version control systems and how to create an effective software development workflow be introduced to some of the most commonly used linux commands that you can use to with files on your hard drive and create powerful workflows that will automate your saving you time and effort finally see how git can be used in software development to manage team files and create a repository that can manage code revisions
+how modern software developers collaborate across the world without messing up each others code look at the different version control systems and how to create an effective software development workflow be introduced to some of the most commonly used linux commands that you can use to with files on your hard drive and create powerful workflows that will automate your saving you time and effort
+finally see how git can be used in software development projects to manage team files and create a repository that can manage code revisions
 
 software collaboration
-about how modern software developers collaborate across the world without messing up each others code this involves using version control or subversion to bring order to the chaos of massive software that have the potential for mistakes and bugs look at the different version control systems and how to create an effective software development workflow
+about how modern software developers collaborate across the world without messing up each others code this involves using version control or subversion to bring order to the chaos of massive software projects that have the potential for mistakes and bugs look at the different version control systems and how to create an effective software development workflow
 introduction to the how do developers collaborate in the real world what is version control case study how meta engineers collaborate systems of version control and tools a history of revisions software collaboration
 
 command line
@@ -154,7 +177,7 @@ how to use the command line to execute commands in linux be introduced to some o
 the command line what are unix commands using bash on windows change directories and list contents creating and moving directories and files pipes redirection grep command line
 
 working with git
-this will help you to develop a strong conceptual understanding of the git technology and how it is used in software development to manage team files install git create a local repository create a commit create a remote repository and push commits to a remote repository
+this will help you to develop a strong conceptual understanding of the git technology and how it is used in software development projects to manage team files install git create a local repository create a commit create a remote repository and push commits to a remote repository
 what is git and github creating and cloning a repository how git works add and commit branches remote vs local push and pull example workflow head diff commands blame working with git
 
 graded assessment
@@ -164,18 +187,19 @@ recap version control congratulations you have completed version control
 
 <DOC>
 react basics
-react is a powerful javascript library that you can use to build user interfaces for web and mobile applications apps explore the fundamental concepts that underpin the react library and the basic required to build a simple fast and scalable appby the end of this be able to use reusable components to render views where data changes over time create more scalable and maintainable websites and apps use props to pass data between components create dynamic and interactive web pages and apps use forms to allow users to interact with the web page build an application in react gain with the following tools and software reactjs jsx react html css and javascript vscode be able to leverage the potential of this to develop new improve productivity act effectively with data and boost your this is a beginner for learners who would like to prepare themselves for a in mobile development to succeed you do not need prior development only basic internet navigation and an eagerness to get started with coding
+react is a powerful javascript library that you can use to build user interfaces for web and mobile applications apps explore the fundamental concepts that underpin the react library and the basic required to build a simple fast and scalable app
+by the end of this be able to use reusable components to render views where data changes over time create more scalable and maintainable websites and apps use props to pass data between components create dynamic and interactive web pages and apps use forms to allow users to interact with the web page build an application in react gain with the following tools and software reactjs jsx react html css and javascript vscode be able to leverage the potential of this to develop new improve productivity act effectively with data and boost your this is a beginner for learners who would like to prepare themselves for a in mobile development to succeed you do not need prior development only basic internet navigation and an eagerness to get started with coding
 
 react components
 explore the basic structure and use of the reactjs library how to produce single page web applications using react components and to use jsx to style them
-introduction to the react basics how is react used in the real world why react reactjs overview introduction to functional components creating react components the react structure importing components principles of components props using props in components introducing jsx practical styling embedded jsx expressions embedding in attributes
+introduction to the react basics how is react used in the real world why react reactjs introduction to functional components creating react components the react project structure importing components principles of components props using props in components introducing jsx practical styling embedded jsx expressions embedding in attributes
 
 data and state
 explore the concept and practical use of state and stagemanagement also gain knowledge on how to handle events and the ability to dynamically change content on a web page
 types of events common event handling syntax for handlers user events parentchild data flow children and data what are hooks what is state observing state managing state react state management stateful vs stateless
 
 navigation updating and assets in reactjs
-explore the basics of single and multipage navigation as well as the conditional rendering or changing of content in response to user status or choice
+explore the basics of single and multipage navigation as as the conditional rendering or changing of content in response to user status or choice
 basic types of navigation the navbar conditional rendering single view conditional updates what is an asset and where does it live using embedded assets audio and create an audio component navigation updating and assets in reactjs
 
 your first react app

@@ -1,65 +1,80 @@
 <DOC>
 advanced embedded linux development
-this courses can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineeringthis provides students with the fundamentals of embedded operating systems including a working understanding of how to configure and deploy a linux based embedded system students will gain expertise in software tools and development methods which can be used to create applications and build custom linux based embedded devicesapplied projectthis will focus heavily on designing concurrent software for embedded systems applications using the linux operating system at the end of this students will be able toconfigure build and deploy the linux kernel and root filesystem from sourcebuild their own embedded linux distribution using buildroot or yocto frameworksuse system programming concepts to develop application software for embedded devices including file io threading signals and time related posix apiswrite software for interthread and interprocess communication using sockets and signalsdebug concurrent software applications with command line gdb valgrind and other software tools for debug profile and tracingcreate a custom linux device driverunderstand linux driver related development topics including debugging techniques concurrency techniques timing memory allocationshowcase their knowledge in a final which demonstrates concepts on hardware
+this courses can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering
+this provides students with the fundamentals of embedded operating systems including a working understanding of how to configure and deploy a linux based embedded system students will gain expertise in software tools and development methods which can be used to create applications and build custom linux based embedded devices
+
+this will focus heavily on designing concurrent software for embedded systems applications using the linux operating system at the end of this students will be able to
+configure build and deploy the linux kernel and root filesystem from source
+build their own embedded linux distribution using buildroot or yocto frameworks
+use system programming concepts to develop application software for embedded devices including file io threading signals and time related posix apis
+write software for interthread and interprocess communication using sockets and signals
+debug concurrent software applications with command line gdb valgrind and other software tools for debug profile and tracing
+create a custom linux device driver
+understand linux driver related development topics including debugging techniques concurrency techniques timing memory allocation
+showcase their knowledge in a final project which demonstrates concepts on hardware
+
 </DOC>
 
 <DOC>
-linux kernel programming and introduction to yocto
-this provides an introduction to kernel driver development for the linux operating system the yocto build system is introduced which students use to build their own custom embedded linux system through programming assignmentslinux kernel programming and introduction to yocto can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering this builds on the and knowledge obtained in the linux system programming and introduction to buildroot which must be completed before starting this
+linux kernel programming and introduction to yocto project
+this provides an introduction to kernel driver development for the linux operating system the yocto build system is introduced which students use to build their own custom embedded linux system through programming
+linux kernel programming and introduction to yocto project can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering this builds on the and knowledge obtained in the linux system programming and introduction to buildroot which must be completed before starting this
 
 introduction to device drivers and yocto
-the basics of linux device drivers including how to build and run a linux device driver modify the socket application you developed in the previous and add threading also be introduced to the yocto and build a custom yocto image which includes your custom socket application developed in the previous
-introduction to device drivers device drivers overview introduction to kernel building and loading kernel kernel design basics introduction to yocto building a yocto image yoctobuildroot comparison part threading and linked lists part socket server threading demo part yocto environment bringup demo
+the basics of linux device drivers including how to build and run a linux device driver modify the socket application you developed in the previous and add threading also be introduced to the yocto project and build a custom yocto image which includes your custom socket application developed in the previous
+introduction to device drivers device drivers introduction to kernel building and loading kernel kernel design basics introduction to yocto building a yocto image yoctobuildroot comparison part threading and linked lists part socket server threading demo part yocto environment bringup demo
 
 linux character drivers and debugging
 about the different types of linux kernel drivers and the kernel support for character device drivers about fundamental driver data structures and functions for interacting with user space understand the basics of kernel debugging and how this differs from application debugging implement a unittested circular buffer which will be used in future finally build a yocto embedded device image with support for an out of tree kernel
-connecting to userspace device driver file operations device driver and userspace continued circular buffer implementation part demo circular buffer overview and demo kernel debugging part demo yocto and buildroot kernel driver builds
+connecting to userspace device driver file operations device driver and userspace continued circular buffer implementation part demo circular buffer and demo kernel debugging part demo yocto and buildroot kernel driver builds
 
 concurrency in the linux kernel
 the basics of concurrency in the linux kernel and how to use semaphore and mutex in your device driver to design for concurrent access the difference between atomic and non atomic context and strategies for locking in each context modify your socket application to interact with a custom character device based on your tested circular buffer implementation using the concurrency concepts discussed in the
-concurrency and race conditions kernel critical sections additional kernel locking options more fun with locking overview additional kernel debug faq demo char driver and multithreading concepts
+concurrency and race conditions kernel critical sections additional kernel locking options more fun with locking additional kernel debug faq demo char driver and multithreading concepts
 
 kernel sleeping and ioctl
 the purpose and use of the ioctl command for linux drivers and how the ioctl command is implemented in a driver the basics of sleeping and waking up in the linux kernel and how to handle blocking and nonblocking io modify your custom linux kernel driver and linux application to include ioctl support
-ioctl sleeping in the kernel kernel sleep continued poll and select overview demo advanced char driver operations
+ioctl sleeping in the kernel kernel sleep continued poll and select demo advanced char driver operations
 </DOC>
 
 <DOC>
-linux embedded system topics and
-this is used as the capstone in a three sequence including linux system programming and introduction to buildroot and linux kernel programming and introduction to yocto both of these courses must be completed before starting this coursethis builds on the content in the previous two prerequisite courses to develop a final of your choosing targeting linux device targeting hardware the final is delivered using concepts from agile scrum several pertinent recent and relevant embedded system development related topics are covered as a part of the curriculum which you may optionally choose to incorporate into your final linux embedded systems topics and can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering
+linux embedded system topics and projects
+this is used as the capstone in a three sequence including linux system programming and introduction to buildroot and linux kernel programming and introduction to yocto project both of these courses must be completed before starting this
+this builds on the content in the previous two prerequisite courses to develop a final project of your choosing targeting linux device targeting hardware the final project is delivered using concepts from agile scrum several pertinent recent and relevant embedded system development related topics are covered as a part of the curriculum which you may optionally choose to incorporate into your final project linux embedded systems topics and projects can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering
 
-final overview and agile scrum overview
-this will provide an overview of the requirements for your final as well as introduce agile scrum concepts we will use for the development well discuss some buildroot related hints related to supporting a physical hardware platform for those who plan to use buildroot in their final in addition well cover some topics which are relevant as we move to a physical hardware platform including bootloaders device trees and linux networking
-agile overview final overview buildroot additional hints bootloaders and device trees part bootloaders and device trees part linux networking overview
+final project and agile scrum
+this will provide an of the requirements for your final project as as introduce agile scrum concepts use for the project development discuss some buildroot related hints related to supporting a physical hardware platform for those who plan to use buildroot in their final project in addition cover some topics which are relevant as we move to a physical hardware platform including bootloaders device trees and linux networking
+agile final project buildroot additional hints bootloaders and device trees part bootloaders and device trees part linux networking
 
-final sprint device updates and embedded system topics
-complete the first iteration of your final implementation also about topics which could potentially be incorporated into your final or are otherwise relevant for modern embedded system including linux device update mqtt and iot read only root filesystems and application containers and docker for embedded
-final sprints linux device update part linux device update part linux device update part mqtt and iot platforms read only root filesystems application containers and docker for embedded
+final project sprint device updates and embedded system topics
+complete the first iteration of your final project implementation also about topics which could potentially be incorporated into your final project or are otherwise relevant for modern embedded system projects including linux device update mqtt and iot read only root filesystems and application containers and docker for embedded
+final project sprints linux device update part linux device update part linux device update part mqtt and iot platforms read only root filesystems application containers and docker for embedded
 
-final sprint development tips and strategies
-complete the second iteration of your final implementation also about topics which could potentially be incorporated into your final or are otherwise relevant for modern embedded system including git workflows c templates and stl and c dependency generation
+final project sprint development tips and strategies
+complete the second iteration of your final project implementation also about topics which could potentially be incorporated into your final project or are otherwise relevant for modern embedded system projects including git workflows c templates and stl and c dependency generation
 git workflows c templates and stl c dependency generation part gnu make c dependency generation part automake c dependency generation part cmake
 
-final sprint and demo software testing
-complete the third and final iteration of your final implementation also about software testing and software test strategies releavnt to embedded system development
+final project sprint and demo software testing
+complete the third and final iteration of your final project implementation also about software testing and software test strategies releavnt to embedded system development
 embedded test part concepts embedded test part automated testing embedded test part cicd embedded test part tdd and bdd
 </DOC>
 
 <DOC>
 linux system programming and introduction to buildroot
-this provides an overview of system programming for the linux operating system or software which is interfacing directly with the linux kernel and c library the basic components of a linux embedded system including kernel and root filesystem details are discussed the buildroot build system is introduced which students use to build their own custom embedded linux system through programming assignmentslinux system programming and introduction to buildroot can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering
+this provides an of system programming for the linux operating system or software which is interfacing directly with the linux kernel and c library the basic components of a linux embedded system including kernel and root filesystem details are discussed the buildroot build system is introduced which students use to build their own custom embedded linux system through programming
+linux system programming and introduction to buildroot can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering
 
 intro to linux system programming and toolchains
 about linux shell scripting and system programming concepts also understand the basics of an embedded linux toolchain and setup a crosscompiler
-linux overview linux command line advanced linux command line scripts overview introduction format licensing environment setup system programming linux filesystems processes and threads users and groups system programming and error handling embedded linux toolchain overview logging and syslog overview
+linux linux command line advanced linux command line scripts introduction format licensing environment setup system programming linux filesystems processes and threads users and groups system programming and error handling embedded linux toolchain logging and syslog
 
 file io process management basics of embeddd linux
 the basics of file io for linux understand the basics of process management process forking and linux daemons build your own linux kernel and root filesystem boot and run on qemu
-linux file io linux file io reading and writing files linux file io additional topics process management processes and daemons part system calls overview and demo linux kernel overview embedded linux and emulation overview building the linux kernel linux root filesystems part manual linux overview and demo
+linux file io linux file io reading and writing files linux file io additional topics process management processes and daemons part system calls and demo linux kernel embedded linux and emulation building the linux kernel linux root filesystems part manual linux and demo
 
 threads and multithreading introduction to buildroot
 the basics of threading and multi thread synchronization in linux system programming using posix also about the buildroot build system and build a qemu image using buildroot
-threads and multithreading synchronization part threading overview and demo introduction to buildroot buildroot builds buildroot tips buildroot tips part part buildroot demo signals overview signal management
+threads and multithreading synchronization part threading and demo introduction to buildroot buildroot builds buildroot tips buildroot tips part part buildroot demo signals signal management
 
 time and sockets
 the fundamentals of signal handling and time management in linux system programming the basic components of embedded linux debugging implement a socket server application and deploy on a qemu based embedded system using buildroot

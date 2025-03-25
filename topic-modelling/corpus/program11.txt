@@ -1,6 +1,10 @@
 <DOC>
 accelerated computer science fundamentals
-topics covered by this include basic objectoriented programming the analysis of asymptotic algorithmic run times and the implementation of basic data structures including arrays hash tables linked lists trees heaps and graphs as well as algorithms for traversals rebalancing and shortest paths this sequence is designed to help prospective applicants prepare for the flexible and affordable online master of computer science mcs and mcs in data scienceopens in a new tabapplied projectstudents will solve weekly challenge problems by implementing fragments of c code in a webbased interface each also features two longerformat coding where students will follow instructions to complete a c that performs tasks such as editing images efficiently manipulating data structures or solving a graph search problem
+topics covered by this include basic objectoriented programming the analysis of asymptotic algorithmic run times and the implementation of basic data structures including arrays hash tables linked lists trees heaps and graphs as as algorithms for traversals rebalancing and shortest paths
+this sequence is designed to help prospective applicants prepare for the flexible and affordable online master of computer science mcs and mcs in data scienceopens in a new tab
+
+
+students will solve weekly challenge problems by implementing fragments of c code in a webbased interface each also features two longerformat coding projects where students will follow instructions to complete a c that performs tasks such as editing images efficiently manipulating data structures or solving a graph search problem
 </DOC>
 
 <DOC>
@@ -30,7 +34,7 @@ this teaches learners how to write a in the c language including how to set up a
 
 orientation writing a c
 app item discussion prompt
-introduction to objectoriented data structures in c overview c introduction c classes cs standard library std
+introduction to objectoriented data structures in c c introduction c classes cs standard library std
 
 understanding the c memory model
 programming

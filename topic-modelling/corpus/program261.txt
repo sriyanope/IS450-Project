@@ -1,30 +1,32 @@
 <DOC>
 medical terminology
-this is intended for anybody that is interested in developing in medical language or preparing for further studies in the medical field learners will be able to identify common prefixes suffixes roots and abbreviations so they can recognize most medical terms used by medical professionals learners will also have an understanding of the structure of an electronic health record and extract vital information from it moreover learners will gain basic knowledge of the anatomy and diagnoses related to all main organ systems applied projectlearners will complete final assessments throughout the to test their in medical language through fun activities and reallife examples they are also given the option to present their in communicating within a medical setting
+this is intended for anybody that is interested in developing in medical language or preparing for further studies in the medical field learners will be able to identify common prefixes suffixes roots and abbreviations so they can recognize most medical terms used by medical professionals learners will also have an understanding of the structure of an electronic health record and extract vital information from it moreover learners will gain basic knowledge of the anatomy and diagnoses related to all main organ systems
+
+learners will complete final assessments throughout the to test their in medical language through fun activities and reallife examples they are also given the option to present their in communicating within a medical setting
 </DOC>
 
 <DOC>
 medical terminology i
-this will discuss the importance of medical language as well as introduce basic word parts and concepts applied in medical terminology we will also about common organization and terms seen in medical records before moving into systemspecific terms for the integumentary system skin musculoskeletal system muscles and bones and urinary kidneys
+this will discuss the importance of learning medical language as as introduce basic word parts and concepts applied in medical terminology also about common organization and terms seen in medical records before moving into systemspecific terms for the integumentary system skin musculoskeletal system muscles and bones and urinary kidneys
 
 welcome to medical terminology part
 introduction meet the professor and self introduction
 introduction meet your professor
 
 introduction to medical language and records
-greetings welcome to the introduction to medical language and records this is the foundational designed to set you up for success in the remainder of the we will begin by examining the purpose of medical language then we will explore common word parts and the guidelines for building and breaking down medical terms we will also explore health records and look at a common template used for all health records the soap note we will conclude with a list of abbreviations unique to this but frequently used in health records though the amount of memorization can be a bit overwhelming this information is crucial to your success in all future your investment early material will pay dividends for the remainder of the lets get started
+greetings welcome to the introduction to medical language and records this is the foundational designed to set you up for success in the remainder of the begin by examining the purpose of medical language then explore common word parts and the guidelines for building and breaking down medical terms also explore health records and look at a common template used for all health records the soap note conclude with a list of abbreviations unique to this but frequently used in health records though the amount of memorization can be a bit overwhelming this information is crucial to your success in all future your investment early material will pay dividends for the remainder of the lets get started
 why study medical terminology word parts putting it all together medical records and abbreviations
 
 integumentary system
-salutations welcome to the first of our body system the integumentary system this will introduce you to medical terms related to the skin following the soap note format we will look at common complaints tests diagnoses and treatments used in dermatology without further ado lets get comfortable with our own skin
+salutations welcome to the first of our body system the integumentary system this will introduce you to medical terms related to the skin following the soap note format look at common complaints tests diagnoses and treatments used in dermatology without further ado lets get comfortable with our own skin
 integumentary intro and word parts integumentary subjective terms integumentary objective terms integumentary assessment terms integumentary plan terms
 
 musculoskeletal system
-hello welcome to the musculoskeletal system this will introduce you to medical terms related to the muscles and bones following the soap note format we will look at common complaints tests diagnoses and treatments used in orthopedics as your musculoskeletal system says to your body lets get moving
+hello welcome to the musculoskeletal system this will introduce you to medical terms related to the muscles and bones following the soap note format look at common complaints tests diagnoses and treatments used in orthopedics as your musculoskeletal system says to your body lets get moving
 musculoskeletal introduction and word parts musculoskeletal subjective terms musculoskeletal objective terms musculoskeletal assessment terms musculoskeletal plan terms
 
 urinary system
-hi welcome to the urinary system this will introduce you to medical terms related to the kidneys and bladder following the soap note format we will look at common complaints tests diagnoses and treatments used in urology and proctology
+hi welcome to the urinary system this will introduce you to medical terms related to the kidneys and bladder following the soap note format look at common complaints tests diagnoses and treatments used in urology and proctology
 urinary intro and word parts urinary subjective and objective terms urinary assessment and plan terms
 
 final assessments and conclusion
@@ -39,49 +41,49 @@ welcome to medical terminology part
 this is the introduction to the that will cover the brain nerves senses digestion and reproduction
 
 nervous system
-welcome to the nervous system this will introduce you to medical terms related to the brain spinal cord and nerves following the soap note format we will look at common complaints tests diagnoses and treatments used in neurology psychology and psychiatry lets get started with medical terms for the nervous system buckle up
+welcome to the nervous system this will introduce you to medical terms related to the brain spinal cord and nerves following the soap note format look at common complaints tests diagnoses and treatments used in neurology psychology and psychiatry lets get started with medical terms for the nervous system buckle up
 nervous intro and word parts nervous subjective terms nervous objective terms nervous assessment terms nervous plan terms
 
 special senses
-welcome to the special senses this will introduce you to medical terms related to the special senses specifically the eye and ear following the soap note format we will look at common complaints tests diagnoses and treatments used in ophthalmology and otolaryngology now lets use those senses to watch and listen to medical terms pertaining to vision and hearing
+welcome to the special senses this will introduce you to medical terms related to the special senses specifically the eye and ear following the soap note format look at common complaints tests diagnoses and treatments used in ophthalmology and otolaryngology now lets use those senses to watch and listen to medical terms pertaining to vision and hearing
 sensory intro and word parts sensory subjective terms sensory objective terms sensory assessment terms sensory plan terms
 
 digestive system
-welcome to the digestive system this will introduce you to medical terms related to the mouth esophagus stomach intestines and accessory organs like the liver gallbladder and pancreas following the soap note format we will look at common complaints tests diagnoses and treatments used in gastroenterology i will let you digest the material bon appetite
+welcome to the digestive system this will introduce you to medical terms related to the mouth esophagus stomach intestines and accessory organs like the liver gallbladder and pancreas following the soap note format look at common complaints tests diagnoses and treatments used in gastroenterology i will let you digest the material bon appetite
 digestive intro and word parts digestive subjective terms digestive objective terms digestive assessment terms digestive plan terms
 
 reproductive system
-welcome to the final with new content the reproductive system this will introduce you to medical terms related to the male and female reproductive organs following the soap note format we will look at common complaints tests diagnoses and treatments used in andrology obstetrics and gynecology now lets see how well you can reproduce this contents on your upcoming assessments
+welcome to the final with new content the reproductive system this will introduce you to medical terms related to the male and female reproductive organs following the soap note format look at common complaints tests diagnoses and treatments used in andrology obstetrics and gynecology now lets see how you can reproduce this contents on your upcoming assessments
 male reproductive intro word parts and soap terms female reproductive intro and word parts female reproductive soap terms
 
 final assessment and conclusion
-well youve done it with this final we have finished the race landed the plane completed the before we celebrate these is still one more exam to do there should be no surprises beside your surprise at how much youve learned finish strong
+youve done it with this final we have finished the race landed the plane completed the before we celebrate these is still one more exam to do there should be no surprises beside your surprise at how much youve learned finish strong
 </DOC>
 
 <DOC>
 medical terminology ii
-this is the second of the medical terminology it builds on the basic concepts of medical terminology with the introduction of new roots terms and abbreviations specific to the endocrine system hormones the bodys transportation and defense systems cardiovascular blood and lymphatic will also be covered as well as the respiratory system lungs
+this is the second of the medical terminology it builds on the basic concepts of medical terminology with the introduction of new roots terms and abbreviations specific to the endocrine system hormones the bodys transportation and defense systems cardiovascular blood and lymphatic will also be covered as as the respiratory system lungs
 
 welcome to medical terminology part ii
 this is the introduction to the that will cover hormones blood the heart and the lungs
 
 endocrine system
-welcome to the endocrine system this will introduce you to medical terms related to glands and hormones following the soap note format we will look at common complaints tests diagnoses and treatments used in endocrinology i hope you enjoy about medical terms related to the endocrine system
+welcome to the endocrine system this will introduce you to medical terms related to glands and hormones following the soap note format look at common complaints tests diagnoses and treatments used in endocrinology i hope you enjoy learning about medical terms related to the endocrine system
 endocrine introduction and word parts endocrine subjective terms endocrine objective terms endocrine assessment terms endocrine plan terms
 
 blood and lymphatic systems
-welcome to the blood and lymphatic system this will introduce you to medical terms related to blood cells and immunity following the soap note format we will look at common complaints tests diagnoses and treatments used in hematology and immunology lets get started more specific terms about the blood and lymphatic systems enjoy
+welcome to the blood and lymphatic system this will introduce you to medical terms related to blood cells and immunity following the soap note format look at common complaints tests diagnoses and treatments used in hematology and immunology lets get started learning more specific terms about the blood and lymphatic systems enjoy
 blood and lymphatic introduction and word parts blood and lymphatic subjective terms blood and lymphatic objective terms blood and lymphatic assessment terms blood and lymphatic plan terms
 
 cardiovascular system
-welcome to perhaps the most wellknown system of the whole the cardiovascular system this will introduce you to medical terms related to the heart and blood vessels following the soap note format we will look at common complaints tests diagnoses and treatments used in cardiology so lets jump right into the cardiovascular system this has heart
+welcome to perhaps the most wellknown system of the whole the cardiovascular system this will introduce you to medical terms related to the heart and blood vessels following the soap note format look at common complaints tests diagnoses and treatments used in cardiology so lets jump right into the cardiovascular system this has heart
 cardiovascular intro and word parts cardiovascular subjective terms cardiovascular objective terms cardiovascular assessment terms cardiovascular plan terms
 
 respiratory system
-welcome to another wellknown system the respiratory system this will introduce you to medical terms related to the lungs following the soap note format we will look at common complaints tests diagnoses and treatments used in pulmonology have fun working your way through the respiratory system and keep breathing it will help
+welcome to another wellknown system the respiratory system this will introduce you to medical terms related to the lungs following the soap note format look at common complaints tests diagnoses and treatments used in pulmonology have fun working your way through the respiratory system and keep breathing it will help
 respiratory intro and word parts respiratory subjective terms respiratory objective terms respiratory assessment terms respiratory plan terms
 
 ii final assessments and conclusion
-congratulations on making to the final assessment of this the exam will focus on the new materials from this the endocrine system blood and lymphatic systems cardiovascular system and respiratory system however you still have to know all the basic rules roots prefixes and suffixes from the beginning of the since they apply to these systems as well a language is cumulative like that im confident youve got this so breathe and believe
+congratulations on making to the final assessment of this the exam will focus on the new materials from this the endocrine system blood and lymphatic systems cardiovascular system and respiratory system however you still have to know all the basic rules roots prefixes and suffixes from the beginning of the since they apply to these systems as learning a language is cumulative like that im confident youve got this so breathe and believe
 </DOC>
 

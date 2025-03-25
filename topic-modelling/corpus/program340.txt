@@ -1,6 +1,8 @@
 <DOC>
 spring framework
-this explains high level patterns used in microservice architectures and the motivation to move towards these architectures and away from monolithic development of applications students will how java interacts with databases in a modern framework using the very popular spring boot framework with microservices students wishing to develop java based web applications and restful micro services will be using the very popular spring mvc and spring boot frameworks with minimal configurationapplied projectstudents will build an extensive application iteratively in a succession of hands on labs labs will specifically target the eureka ribbon hystrix feign and zuul this is a very hands on series with a variety of labs to illustrate the key concepts
+this explains high level patterns used in microservice architectures and the motivation to move towards these architectures and away from monolithic development of applications students will how java interacts with databases in a modern framework using the very popular spring boot framework with microservices students wishing to develop java based web applications and restful micro services will be using the very popular spring mvc and spring boot frameworks with minimal configuration
+
+students will build an extensive application iteratively in a succession of hands on labs labs will specifically target the projects eureka ribbon hystrix feign and zuul this is a very hands on series with a variety of labs to illustrate the key concepts
 </DOC>
 
 <DOC>
@@ -21,10 +23,10 @@ el and spel lab solution walkthrough conditional beans lab solution walkthrough 
 </DOC>
 
 <DOC>
-spring cloud overview
-this explains some high level patterns used in microservice architectures and the motivation to move towards these architectures and away from monolithic development of applications it then goes on to implement these patterns using spring cloud netflix oss one of the most popular cloud implementations of microservices used today students will about service registration service discovery client side load balancing circuit breakers and gateway or edge services in a spring boot setting it will leverage spring cloud and netflix oss labs will specifically target the eureka ribbon hystrix feign and zuul
+spring cloud
+this explains some high level patterns used in microservice architectures and the motivation to move towards these architectures and away from monolithic development of applications it then goes on to implement these patterns using spring cloud netflix oss one of the most popular cloud implementations of microservices used today students will about service registration service discovery client side load balancing circuit breakers and gateway or edge services in a spring boot setting it will leverage spring cloud and netflix oss labs will specifically target the projects eureka ribbon hystrix feign and zuul
 
-spring cloud overview
+spring cloud
 take a look at the motivation for microservice architectures the major service patterns involved and the meaning of service discovery and orchestration
 introduction microservices spring clound lab setup service registries eureka and service registration lab walkthrough lab walkthrough
 
@@ -38,7 +40,7 @@ spring data repositories
 this is aimed at students wishing to how java interacts with databases in a modern framework the uses the very popular spring boot framework with micro services as a setting for our database interactions using java persistence framework jpa and spring data repositories to abstract away jpa students will then how to expose repositories as rest web services in their own right using hypermedia as the engine of application state or hateaos concepts spring aspect oriented programming aop will be covered to illustrate how cross cutting concerns like logging can be applied in a centralized non evasive manner to domain classes finally the covers the use of spring transaction managers and springs declarative configuration transaction model
 
 spring data repositories
-incorporate java persistence architecture jpa into spring applications abstract away the details of jpa through the spring data utilizing jpa repositories
+incorporate java persistence architecture jpa into spring applications abstract away the details of jpa through the spring data project utilizing jpa repositories
 introduction spring and jpa entitymanagers lab setup lab walkthrough lab walkthrough lab walkthrough jpa repositories spring data rest lab walkthrough rest and jpa relationships lab walkthrough projections lab walkthrough lab walkthrough lab walkthrough
 
 spring aop and transactions
@@ -52,7 +54,7 @@ this is a aimed at students wishing to develop java based web applications and r
 
 spring mvc springboot and restcontrollers
 understand the spring model view controller mvc architecture how spring boot abstracts the complexities of this architecture away through opinionated defaults subsequently implement quickly rest services that can take advantage of the spring framework dependency injection framework and built in http payload message converters
-introduction spring mvc spring boot lab walkthrough rest controllers lab walkthrough customizations lab walkthrough lab walkthrough configuration property classes lab walkthrough bean definitions in the application class
+introduction spring mvc spring boot project lab walkthrough rest controllers lab walkthrough customizations lab walkthrough lab walkthrough configuration property classes lab walkthrough bean definitions in the application class
 
 request parameters
 provide request parameters to spring restcontrollers and understand the key concept of content negotiation implement services that provide json or xml responses and services that receive json or xml payloads write java clients for services that use the spring resttemplate or use angular js to access your services

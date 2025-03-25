@@ -1,6 +1,8 @@
 <DOC>
 devops introduction to developer operations
-this is intended for those who want to take their beyond just coding developer operations devops refers to the tools and practices software developers use to automate and integrate software development dev and it operations ops how to template development environments with anisble automate common tasks with cicd manage containers in the cloud and track the performance of your applicationsapplied projectlearners a handson approach to all of the topics you get to see firsthand how these tools and concepts take you along the process of provisioning a specific development environment automation improving application performance and managing containers in the cloud learners also will use these to build like a calculator
+this is intended for those who want to take their beyond just coding developer operations devops refers to the tools and practices software developers use to automate and integrate software development dev and it operations ops how to template development environments with anisble automate common tasks with cicd manage containers in the cloud and track the performance of your applications
+
+learners a handson approach to all of the topics you get to see firsthand how these tools and concepts take you along the process of provisioning a specific development environment automation improving application performance and managing containers in the cloud learners also will use these to build projects like a calculator
 </DOC>
 
 <DOC>
@@ -19,7 +21,8 @@ welcome to of the performance monitoring for application developers these cover 
 
 <DOC>
 mastering ansible automation
-the essentials to quickly master automation with ansiblewhile this is designed for learners with limited coding it is helpful though not required to have familiarity with linux or unixlike operating systems the command line interface and the basics of shell scripting to allow for a truly handson selfpaced this is videofree contain short explanations with images and runnable code examples with suggested edits to explore code examples further building a deeper understanding by doing benefit from instant feedback from a variety of assessment items along the way gently progressing from quick understanding checks multiple choice fill in the blank and unscrambling code blocks to small approachable coding exercises that take minutes instead of hours the cover an introduction to ansible automations and connecting to webbased systems
+the essentials to quickly master automation with ansible
+while this is designed for learners with limited coding it is helpful though not required to have familiarity with linux or unixlike operating systems the command line interface and the basics of shell scripting to allow for a truly handson selfpaced learning this is videofree contain short explanations with images and runnable code examples with suggested edits to explore code examples further building a deeper understanding by doing benefit from instant feedback from a variety of assessment items along the way gently progressing from quick understanding checks multiple choice fill in the blank and unscrambling code blocks to small approachable coding exercises that take minutes instead of hours the cover an introduction to ansible automations and connecting to webbased systems
 
 introduction to ansible
 welcome to of the mastering ansible automation these cover the basics of ansible syntax and managing a host the ends with a handson graded exercises
@@ -33,7 +36,8 @@ welcome to of the mastering ansible automation these cover thirdparty ansible an
 
 <DOC>
 container creation and orchestration basics
-practice creating containers without installing anythingthis is designed for learners with no technical providing a solid foundation for container creation and orchestration learners will gain handson practice on an ubuntu system that can be easily transferred to other unixbased operating systems the cover the benefits and uses of kubernetes the creation and building of container images and the deployment of containers to allow for a truly handson selfpaced this is videofree contain short explanations with images and runnable examples with suggested edits to explore examples further building a deeper understanding by doing benefit from instant feedback from a variety of assessment items along the way gently progressing from quick understanding checks multiple choice fill in the blank and unscrambling code blocks to small approachable exercises that take minutes instead of hours
+practice creating containers without installing anything
+this is designed for learners with no technical providing a solid foundation for container creation and orchestration learners will gain handson practice on an ubuntu system that can be easily transferred to other unixbased operating systems the cover the benefits and uses of kubernetes the creation and building of container images and the deployment of containers to allow for a truly handson selfpaced learning this is videofree contain short explanations with images and runnable examples with suggested edits to explore examples further building a deeper understanding by doing benefit from instant feedback from a variety of assessment items along the way gently progressing from quick understanding checks multiple choice fill in the blank and unscrambling code blocks to small approachable exercises that take minutes instead of hours
 
 intro to containers
 app items
@@ -47,13 +51,14 @@ app items
 
 <DOC>
 introduction to terraform
-code and apply your first terraform configuration without installing anythingthis is designed for learners with limited knowledge of cloud computing providing a solid foundation of cloud infrastructure provisioning and management using terraform an opensource iaas infrastructure as a service tool the cover terraforms basic architecture and syntax managing resources and other related topics a review of aws ec instances is recommended to allow for a truly handson selfpaced this is videofree contain short explanations with images and runnable code examples building a deeper understanding by doing benefit from instant feedback from a variety of assessment items along the way gently progressing from quick understanding checks multiple choice fill in the blank and unscrambling code blocks to small approachable coding exercises that take minutes instead of hours
+code and apply your first terraform configuration without installing anything
+this is designed for learners with limited knowledge of cloud computing providing a solid foundation of cloud infrastructure provisioning and management using terraform an opensource iaas infrastructure as a service tool the cover terraforms basic architecture and syntax managing resources and other related topics a review of aws ec instances is recommended to allow for a truly handson selfpaced learning this is videofree contain short explanations with images and runnable code examples building a deeper understanding by doing benefit from instant feedback from a variety of assessment items along the way gently progressing from quick understanding checks multiple choice fill in the blank and unscrambling code blocks to small approachable coding exercises that take minutes instead of hours
 
 terraform states
 welcome to of the introduction to terraform these cover what is terraform its basic architecture different terraform constructs and the syntax they follow and explain terraform state in detail the ends with graded summative assessments
 
 managing terraform resources and dependencies
-welcome to of the introduction to terraform these are all about resources the most important element in the terraform language and explain how to provision and update resources as well as how to manage similar resources and dependencies the ends with graded summative assessments
+welcome to of the introduction to terraform these are all about resources the most important element in the terraform language and explain how to provision and update resources as as how to manage similar resources and dependencies the ends with graded summative assessments
 
 organizing terraform
 welcome to of the introduction to terraform these cover terraform and how to create them and how to manage sensitive data in terraform the ends with a handson lab and graded summative assessments
@@ -63,13 +68,13 @@ welcome to of the introduction to terraform these cover terraform and how to cre
 cicd for software developers
 this is designed as an intermediate introduction to cicd about the basics of automating processes and version control this uses github and need to have an account with them information is provided how to do this learners also use cicd to build test and check the quality of their code the ends with deployment secrets and a capstone
 
-cicd overview
+cicd
 this leads you from manual processes to automated workflows in software development focusing on the essential role of continuous integrationcontinuous deployment cicd through handson exercises to integrate cicd with version control systems particularly github offering a practical understanding of these vital practices for realworld application
 
 continuous integration
 this introduces you to continuous integration here how to automate processes such as building testing and quality control enhancing your development cycles efficiency setting up a cicd pipeline firsthand allowing instant feedback and keeping your code deploymentready
 
 continuous deployment
-final delve into code deployment and managing secrets your journey concludes with a capstone that involves constructing a calculator app putting cicd principles into practice this handson will help you understand how these concepts enhance software development ensuring seamless errorfree code delivery
+final delve into code deployment and managing secrets your journey concludes with a capstone project that involves constructing a calculator app putting cicd principles into practice this handson will help you understand how these concepts enhance software development ensuring seamless errorfree code delivery
 </DOC>
 

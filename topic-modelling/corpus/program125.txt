@@ -1,19 +1,30 @@
 <DOC>
 entrepreneurial finance strategy and innovation
-from entrepreneurs to executives this provides an for you to how to advance business innovation in your company and gain insights from leading faculty in the fuqua school of business at duke university in the first how to valuate entrepreneurial venturesincluding highgrowth startupsusing excel spreadsheet models also how to discern between the tradeoffs of different financing strategies loan investments venture capital angel investing and crowdfunding the second will teach you how to manage a startups financing strategy where how to build capitalization tables or cap tables in excel cap tables will help you explore different financing strategies for your startup company and determine which financing decisions are best for your entrepreneurial venture the third transitions to an analysis of blockchain technologies where how to identify to disrupt and innovate business models using blockchain as well as avoid poorly executed applications of blockchain to business the fourth will teach you how to use r programming to calculate the return of a stock portfolio as well as quantify the market risk of that portfoliothis is also an excellent for professionals interested in fuquas masters programs to get an inside look into fuquas faculty expertise and coursesapplied projectlearners will how to valuate entrepreneurial ventures build capitalization tables and explore different financing strategies for your startup company identify to disrupt and innovate business models using blockchain and use r programming to calculate the return of a stock portfolio
+from entrepreneurs to executives this provides an for you to how to advance business innovation in your company and gain insights from leading faculty in the fuqua school of business at duke university
+in the first how to valuate entrepreneurial venturesincluding highgrowth startupsusing excel spreadsheet models also how to discern between the tradeoffs of different financing strategies loan investments venture capital angel investing and crowdfunding
+the second will teach you how to manage a startups financing strategy where how to build capitalization tables or cap tables in excel cap tables will help you explore different financing strategies for your startup company and determine which financing decisions are best for your entrepreneurial venture
+the third transitions to an analysis of blockchain technologies where how to identify to disrupt and innovate business models using blockchain as as avoid poorly executed applications of blockchain to business
+the fourth will teach you how to use r programming to calculate the return of a stock portfolio as as quantify the market risk of that portfolio
+this is also an excellent for professionals interested in fuquas masters programs to get an inside look into fuquas faculty expertise and courses
+
+
+learners will how to valuate entrepreneurial ventures build capitalization tables and explore different financing strategies for your startup company identify to disrupt and innovate business models using blockchain and use r programming to calculate the return of a stock portfolio
 </DOC>
 
 <DOC>
 blockchain business models
-blockchain is an emerging and highly disruptive technology that is poorly understood what blockchain is and how it can create value by tokenization in cryptocurrencies and in many other practical applications the applications include stablecoins like facebooks libra and jp morgans jpmcoin machine to machine payments identity protection supply chain management walmart maersk ibm secure voting distributed exchanges decentralized finance property transfers central bank fiat crypto eg fedcoin and chinas digital renminbi dispensing prescription drugs private records intellectual property financial reporting and media and advertising to name a few the goals of the are to i provide an advanced understanding of the various blockchain technologies ii determine the specific business situations where blockchain technology can be deployed to solve important problems iii select the specific blockchain technology that has the best chance of success for a particular problem and iv detail the risks presented by this new technology
+blockchain is an emerging and highly disruptive technology that is poorly understood what blockchain is and how it can create value by tokenization in cryptocurrencies and in many other practical applications the applications include stablecoins like facebooks libra and jp morgans jpmcoin machine to machine payments identity protection supply chain management walmart maersk ibm secure voting distributed exchanges decentralized finance property transfers central bank fiat crypto eg fedcoin and chinas digital renminbi dispensing prescription drugs private records intellectual property financial reporting and media and advertising to name a few the goals of the are to i provide an advanced understanding of the various blockchain technologies
+ii determine the specific business situations where blockchain technology can be deployed to solve important problems
+iii select the specific blockchain technology that has the best chance of success for a particular problem
+and iv detail the risks presented by this new technology
 
-blockchain overview
+blockchain
 a helicopter tour of the essential concepts of blockchain each of which will be detailed later in the blockchain as a technology is defined in terms of the commonalities present in blockchain applications there is also an introduction to both current and future blockchain applications
-introduction blockchain overview types of blockchains uses of blockchains what blockchains can do targets for disruption applications blockchain ingredients contextualizing blockchain in tech key takeaways
+introduction blockchain types of blockchains uses of blockchains what blockchains can do targets for disruption applications blockchain ingredients contextualizing blockchain in tech key takeaways
 
 cryptographic hashing
 almost all blockchains use some sort of cryptographic hashing hashing is a one way function where any input of arbitrary size can be uniquely expressed as a string of characters any change in the input cause the hash to change hashing is a one way function it is easy to go from the input to the hash but extremely difficult to go the other way as such cryptographic hashing should not be confused with encryption where an encrypted message can be decoded
-properties of a hashing algorithm applications of hashes modular arithmetic xor sha overview sha scale of sha information loss in sha brute forcing a sha applications of sha
+properties of a hashing algorithm applications of hashes modular arithmetic xor sha sha scale of sha information loss in sha brute forcing a sha applications of sha
 
 blockchain encryption and signatures
 some basic knowledge of encryption techniques is essential for understanding blockchain technology this focuses on digital signature algorithms when a transaction is placed on a blockchain it is signed by the owner with the owners public information and the signature we can quickly determine if the signer is really the owner
@@ -21,14 +32,14 @@ monoalphabetic ciphers polyalphabetic ciphers symmetric digital signatures rsa e
 
 bitcoin and other blockchains
 bitcoin was the first cryptocurrency and the first large scale use of blockchain technology this explores how the bitcoin blockchain works we detail the mechanics of transactions and there is an introduction to the consensus mechanism called proof of this provides a foundation to look at other blockchain implementations we highlight the difference between bitcoin ethereum and other technologies like hyperledger
-the original blockchain hashing in the bitcoin blockchain mining crypto classifications the crypto vision ethereum overview ethereum under the hood the dao private blockchains
+the original blockchain hashing in the bitcoin blockchain mining crypto classifications the crypto vision ethereum ethereum under the hood the dao private blockchains
 
 using blockchain
-with a knowledge of the mechanics of blockchain technology students are now able to determine the usefulness of the technology in various different applications we focus on both the current applications as well as applications that are in process but not yet public
+with a knowledge of the mechanics of blockchain technology students are now able to determine the usefulness of the technology in various different applications we focus on both the current applications as as applications that are in process but not yet public
 addresses bitcoin transactions cryptotransactions in depth cryptotransaction mechanics layer machine to machine
 
 consensus
-there is no single blockchain technology and there are many ways to implement blockchain technology the choice of technology crucially depends on the application we study proof of proof of stake as well as some other mechanisms consensus is an active area of research in the blockchain space
+there is no single blockchain technology and there are many ways to implement blockchain technology the choice of technology crucially depends on the application we study proof of proof of stake as as some other mechanisms consensus is an active area of research in the blockchain space
 intro to consensus nodes proof of efficient hashing for proof of proof of stake byzantine fault tolerance other consensus algorithms
 
 value of cryptoapplications
@@ -37,12 +48,12 @@ money and crypto stablecoins crypto collateralized stablecoins noncollateralized
 
 the regulatory environment and the future of fintech
 given this is a new technology regulators need to both about the technology and develop guidelines the explores some key regulators in the us such as the sec and the cftc and the basic legal background that guides their regulatory framework we also explore the regulatory concept of the right touch if the regulations are too harsh then innovation is stifled and driven off shore if regulations are too lax then you invite a high level of fraud the ends with a general discussion of the future of fintech in particular decentralized finance
-introduction to regulation the role of the sec the role of the cftc irs and other agencies the transmission of money what is fintech what accounts for the growth in fintech what are the implications for business what are the implications for society fintech promise for the unbanked what fueled the growth of ai and machine
+introduction to regulation the role of the sec the role of the cftc irs and other agencies the transmission of money what is fintech what accounts for the growth in fintech what are the implications for business what are the implications for society fintech promise for the unbanked what fueled the growth of ai and machine learning
 </DOC>
 
 <DOC>
 financial risk management with r
-this teaches you how to calculate the return of a portfolio of securities as well as quantify the market risk of that portfolio an important for financial market analysts in banks hedge funds insurance companies and other financial services and investment firms using the r programming language with microsoft open r and rstudio use the two main tools for calculating the market risk of stock portfolios valueatrisk var and expected shortfall es need a beginnerlevel understanding of r programming to complete the of this
+this teaches you how to calculate the return of a portfolio of securities as as quantify the market risk of that portfolio an important for financial market analysts in banks hedge funds insurance companies and other financial services and investment firms using the r programming language with microsoft open r and rstudio use the two main tools for calculating the market risk of stock portfolios valueatrisk var and expected shortfall es need a beginnerlevel understanding of r programming to complete the of this
 
 introduction to r data retrieval and return calculation
 this goes over the use of r and rstudio retrieving data from different data sources fred at the federal reserve bank of st louis and yahoofinance and the calculation of returns
@@ -66,29 +77,30 @@ startup valuation methods
 how do different types of investors think about an investment what kind of securities and contracts do they offer how should a company decide what is a good deal this is designed to introduce you to the challenges and pitfalls of financing new enterprises the basic tools for valuating companies including using discounted cashflow analysis in excel and understanding how to apply this model to your entrepreneurial venture then how valuation works with different types of securities that investors use to finance startups from bank loans to venture capital to angel investing
 
 the basics of valuation
-the general framework for valuing companies prices as the discounted value of future cash flows we will focus on how to determine cash flows and how discounting works at the end of the lectures be able to understand the basics of how investors determine the value of a company
+the general framework for valuing companies prices as the discounted value of future cash flows focus on how to determine cash flows and how discounting works at the end of the lectures be able to understand the basics of how investors determine the value of a company
 introduction to valuation determining cash flows time value of money obtaining the discount rate comparables valuation
 
 building your first excel valuation model
-we will apply what you learned in the previous at the end of the have built your first financial model of a firm which you can change to apply to valuing a large firm or a small startup
+apply what you learned in the previous at the end of the have built your first financial model of a firm which you can change to apply to valuing a large firm or a small startup
 discounted cash flow valuation income statement revenues income statement other items income statement depreciation income statement complete the calcs income statement working capital income statement free cash flows assumption of future growth present value of cash flows market value of assets
 
 valuation of highgrowth startups
-we will consider how very high failure rates for startups affects what you learned in the previous the short answer is it doesnt as long as we understand what business plans and company forecasts really are
+consider how very high failure rates for startups affects what you learned in the previous the short answer is it doesnt as long as we understand what business plans and company forecasts really are
 recap discount rate adding probability of failure interpreting business plans adjusting discount rates
 
-venture capital overview
-we will review the main sources of capital that founders of startups turn to when they raise capital to launch their business
+venture capital
+review the main sources of capital that founders of startups turn to when they raise capital to launch their business
 introduction to financing options for entrepreneurial ventures understanding debt venture capital what is a vc investor vc funds how vcs value businesses the vc method term sheets option pool understanding antidilution
 
-angel investor overview
-we will conduct an indepth analysis of angel investors and the securities they use when they invest in earlystage startups
+angel investor
+conduct an indepth analysis of angel investors and the securities they use when they invest in earlystage startups
 angel investors angel securities angel term sheets capped conversion price conclusion
 </DOC>
 
 <DOC>
 financing for startup businesses
-this will teach you how to manage a startups financing strategy where how to build capitalization tables or cap tables in excel cap tables will help you explore different financing strategies for your startup company and determine which financing decisions are best for your entrepreneurial venture also about innovations in the digital space that allow new ways to finance entrepreneurial ventures these include different forms of crowdfunding and alternative credit scoring mechanisms based on webbased datathis concludes with a featuring cutting edge research from duke universitys fuqua school of business on the financial technology industry how financial technology companies are disrupting the credit scoring industry by developing new methods for credit scoring using consumers digital footprints in addition explore how financial technology platforms have introduced new experimental forms of financing such as crowdfunding
+this will teach you how to manage a startups financing strategy where how to build capitalization tables or cap tables in excel cap tables will help you explore different financing strategies for your startup company and determine which financing decisions are best for your entrepreneurial venture also about innovations in the digital space that allow new ways to finance entrepreneurial ventures these include different forms of crowdfunding and alternative credit scoring mechanisms based on webbased data
+this concludes with a featuring cutting edge research from duke universitys fuqua school of business on the financial technology industry how financial technology companies are disrupting the credit scoring industry by developing new methods for credit scoring using consumers digital footprints in addition explore how financial technology platforms have introduced new experimental forms of financing such as crowdfunding
 
 raising capital from venture investors
 this explores the securities that venture investors use when they invest in startups and how the dynamic nature of fundraising creates complex ownership structures

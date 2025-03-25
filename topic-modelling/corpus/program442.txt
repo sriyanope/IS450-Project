@@ -1,6 +1,16 @@
 <DOC>
 preparing for google cloud certification cloud devops engineer
-this provides the you need to advance your as a data engineer and provides training to support your preparation for the industryrecognized google cloud devops engineeropens in a new tab certification of google cloud certified users feel more confident in their cloud also have the to practice key job using google cloud to build software delivery pipelines deploy and monitor services and manage and from incidents to apply sre principles to a service techniques for monitoring troubleshooting and improving infrastructure and application performance among other thingsyour journey to google cloud certification complete the coursera site reliability engineering and devops review other recommended resources for the google cloud cloud devops engineer certification examopens in a new tab review the cloud devops engineer exam guide opens in a new tab take the cloud devops engineer practice examopens in a new tab registeropens in a new tab for the google cloud certification exam can be taken remotely or at a test centerapplied projectthis incorporates handson labs using our qwiklabs platformthese hands on components will let you apply the you in the lectures will incorporate topics such as google cloud platform products which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the
+this provides the you need to advance your as a data engineer and provides training to support your preparation for the industryrecognized google cloud devops engineeropens in a new tab certification of google cloud certified users feel more confident in their cloud
+also have the to practice key job using google cloud to build software delivery pipelines deploy and monitor services and manage and from incidents to apply sre principles to a service techniques for monitoring troubleshooting and improving infrastructure and application performance among other things
+your journey to google cloud certification
+complete the coursera site reliability engineering and devops
+review other recommended learning resources for the google cloud cloud devops engineer certification examopens in a new tab
+review the cloud devops engineer exam guide opens in a new tab
+take the cloud devops engineer practice examopens in a new tab
+registeropens in a new tab for the google cloud certification exam can be taken remotely or at a test center
+
+this incorporates handson labs using our qwiklabs platform
+these hands on components will let you apply the you in the lectures projects will incorporate topics such as google cloud platform products which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the
 </DOC>
 
 <DOC>
@@ -17,14 +27,14 @@ google cloud fundamentals core infrastructure
 google cloud fundamentals core infrastructure introduces important concepts and terminology for working with google cloud through and handson labs this presents and compares many of google clouds computing and storage services along with important resource and policy management tools
 
 introduction
-this section welcomes learners to the google cloud fundamentals core infrastructure and provides an overview of the structure and goals
+this section welcomes learners to the google cloud fundamentals core infrastructure and provides an of the structure and goals
 
 introducing google cloud
 this section identifies some of the key benefits of using google cloud its here that we introduce the components of the google network infrastructure and explore the differences between infrastructure as a service iaas and platform as a service paas
-cloud computing overview iaas and paas the google cloud network environmental impact security open source ecosystems pricing and billing
+cloud computing iaas and paas the google cloud network environmental impact security open source ecosystems pricing and billing
 
 resources and access in the cloud
-this section explores how resources get organized with and how access to those resources gets shared with the right part of a workforce through a tool called identity and access management iam its also section that we identify different ways to interact with google cloud
+this section explores how resources get organized with projects and how access to those resources gets shared with the right part of a workforce through a tool called identity and access management iam its also section that we identify different ways to interact with google cloud
 google cloud resource hierarchy identity and access management iam service accounts cloud identity interacting with google cloud coursera getting started with google cloud platform and qwiklabs
 
 virtual machines and networks in the cloud
@@ -40,19 +50,20 @@ this section of the explores containers and how they can be managed with kuberne
 introduction to containers kubernetes google kubernetes engine
 
 applications in the cloud
-the focus of this section of the is developing applications in the cloud its here that well explore cloud run and cloud functions
+the focus of this section of the is developing applications in the cloud its here that explore cloud run and cloud functions
 cloud run development in the cloud
 
 prompt engineering
-this section looks at generative ai tools how they well explore how to combine google cloud knowledge with prompt engineering to improve gemini responses
+this section looks at generative ai tools how they explore how to combine google cloud knowledge with prompt engineering to improve gemini responses
 
 
-final section we review what was presented and discuss the next steps to continue your cloud journey
+final section we review what was presented and discuss the next steps to continue your cloud learning journey
 </DOC>
 
 <DOC>
 getting started with google kubernetes engine
-welcome to the getting started with google kubernetes engine if youre interested in kubernetes a software layer that sits between your applications and your hardware infrastructure then youre in the right place google kubernetes engine brings you kubernetes as a managed service on google cloud the goal of this is to introduce the basics of google kubernetes engine or gke as its commonly referred to and how to get applications containerized and running in google cloud the starts with a basic introduction to google cloud and is then followed by an overview of containers and kubernetes kubernetes architecture and kubernetes operations
+welcome to the getting started with google kubernetes engine if youre interested in kubernetes a software layer that sits between your applications and your hardware infrastructure then youre in the right place google kubernetes engine brings you kubernetes as a managed service on google cloud
+the goal of this is to introduce the basics of google kubernetes engine or gke as its commonly referred to and how to get applications containerized and running in google cloud the starts with a basic introduction to google cloud and is then followed by an of containers and kubernetes kubernetes architecture and kubernetes operations
 
 introduction
 the introduction explains the goals and previews each section
@@ -79,33 +90,34 @@ the recaps the major concepts learners were introduced to during the
 
 <DOC>
 logging and monitoring in google cloud
-this teaches participants techniques for monitoring and improving infrastructure and application performance in google cloudusing a combination of presentations demos handson labs and realworld case studies attendees gain with fullstack monitoring realtime log management and analysis debugging code in production tracing application performance bottlenecks and profiling cpu and memory usage
+this teaches participants techniques for monitoring and improving infrastructure and application performance in google cloud
+using a combination of presentations demos handson labs and realworld case studies attendees gain with fullstack monitoring realtime log management and analysis debugging code in production tracing application performance bottlenecks and profiling cpu and memory usage
 
 introduction
-welcome to logging and monitoring in google cloud we will cover the prerequisites audience and the objectives
+welcome to logging and monitoring in google cloud cover the prerequisites audience and the objectives
 
 introduction to google cloud observability
-we will take some time to do a highlevel overview of the various products which comprise google clouds logging monitoring and observability suite
-overview need for google cloud observability cloud monitoring cloud logging error reporting application performance management tools
+take some time to do a highlevel of the various products which comprise google clouds logging monitoring and observability suite
+need for google cloud observability cloud monitoring cloud logging error reporting application performance management tools
 
 monitoring critical systems
-monitoring is all about keeping track of exactly whats happening with the resources weve spun up inside of googles cloud well take a look at options and best practices as they relate to monitoring architectures well differentiate the core cloud iam roles needed to decide who can do what as it relates to monitoring just like architecture this is another crucial early step we will examine some of the google created default dashboards and see how to use them appropriately we will create charts and use them to build custom dashboards to show resource consumption and application load and finally we will define uptime checks to track liveliness and latency
-overview monitoring overview cloud monitoring achitecture patterns monitoring multiple data model and dashboards query metrics uptime checks getting started with google cloud platform and qwiklabs
+monitoring is all about keeping track of exactly whats happening with the resources weve spun up inside of googles cloud take a look at options and best practices as they relate to monitoring project architectures differentiate the core cloud iam roles needed to decide who can do what as it relates to monitoring just like architecture this is another crucial early step examine some of the google created default dashboards and see how to use them appropriately create charts and use them to build custom dashboards to show resource consumption and application load and finally define uptime checks to track liveliness and latency
+monitoring cloud monitoring achitecture patterns monitoring multiple projects data model and dashboards query metrics uptime checks getting started with google cloud platform and qwiklabs
 
 alerting policies
 alerting gives timely awareness to problems in your cloud applications so you can resolve the problems quickly how to develop alerting strategies define alerting policies add notification channels identify types of alerts and common uses for each construct and alert on resource groups and manage alerting policies programmatically
-overview sli slo and sla developing an alerting strategy creating alerts service monitoring
+sli slo and sla developing an alerting strategy creating alerts service monitoring
 
 advanced logging and analysis
-we will examine some of google clouds advanced logging and analysis capabilities specifically to identify and choose among resource tagging approaches define log sinks create monitoring metrics based on log entries link application errors to logging and other operation tools using error reporting and export logs to bigquery for long term storage and sql based analysis
-overview cloud logging overview and architecture log types and collection storing routing and exporting the logs query and view logs using logbased metrics log analytics
+examine some of google clouds advanced logging and analysis capabilities specifically to identify and choose among resource tagging approaches define log sinks create monitoring metrics based on log entries link application errors to logging and other operation tools using error reporting and export logs to bigquery for long term storage and sql based analysis
+cloud logging and architecture log types and collection storing routing and exporting the logs query and view logs using logbased metrics log analytics
 
 working with audit logs
-we will examine how to use cloud audit logs how to use cloud audit logs to answer the question who did what and when we will also cover best practices for audit logging
-overview cloud audit logs data access audit logs audit logs entry format best practices
+examine how to use cloud audit logs how to use cloud audit logs to answer the question who did what and when also cover best practices for audit logging
+cloud audit logs data access audit logs audit logs entry format best practices
 
 
-we will summarize the topics covered couse
+summarize the topics covered couse
 </DOC>
 
 <DOC>
@@ -113,26 +125,26 @@ developing a google sre culture
 in many it organizations incentives are not aligned between developers who strive for agility and operators who focus on stability site reliability engineering or sre is how google aligns incentives between development and operations and does missioncritical production support adoption of sre cultural and technical practices can help improve collaboration between the business and it this introduces key practices of google sre and the important role it and business leaders play in the success of sre organizational adoption
 
 welcome to developing a google sre culture
-this provides a overview why this is beneficial for it and business leaders who want to embrace sre culture and what topics each covers
+this provides a why this is beneficial for it and business leaders who want to embrace sre culture and what topics each covers
 
 devops sre and why they exist
 this explains the components of devops philosophy why site reliability engineering came to exist and who in an organization can and should practice sre
 introduction devops and sre
 
 slos with consequences
-this covers the value of sre to an organization as well as the technical and cultural fundamentals related to reducing organizational silos and accepting failure as normal topics include the sre technical practices of blameless postmortems servicelevel objectives slos and error budgets and the sre cultural practices of blamelessness psychological safety unified vision collaboration and communication and knowledge sharing
+this covers the value of sre to an organization as as the technical and cultural fundamentals related to reducing organizational silos and accepting failure as normal topics include the sre technical practices of blameless postmortems servicelevel objectives slos and error budgets and the sre cultural practices of blamelessness psychological safety unified vision collaboration and communication and knowledge sharing
 introduction sre value postmortems blamelessness and psych safety slos and error budgets share vision and knowledge
 
 make tomorrow better than today
-continuous gradual testing as well as automation are very important in sre culture this covers the sre technical concepts of continuous integration continuous delivery and canarying as they relate to the devops pillar of implementing gradual change about the concepts of toil and automation and the idea of automating this years job away also about sre cultural practices of design thinking prototyping and how you can support your teams through change
+continuous gradual testing as as automation are very important in sre culture this covers the sre technical concepts of continuous integration continuous delivery and canarying as they relate to the devops pillar of implementing gradual change about the concepts of toil and automation and the idea of automating this years job away also about sre cultural practices of design thinking prototyping and how you can support your teams through change
 introduction continuous integration continuous delivery and canarying design thinking and prototyping toil psychology of change
 
 regulate workload
-about sre practices around measuring everything specifically reliability and toil and the concept of monitoring well also cover the cultural fundamentals of goalsetting transparency and datadriven decision making
+about sre practices around measuring everything specifically reliability and toil and the concept of monitoring also cover the cultural fundamentals of goalsetting transparency and datadriven decision making
 introduction toil and reliability goal setting
 
 apply sre in your organization
-we will talk about ways you can assess and understand your organizations maturity and readiness for adopting sre principles practices and culture well also discuss the types of to look for in hiring new sres and how to upskill your current workforce lastly well give you advice on how to start thinking about setting up an sre org and the additional support our google cloud services teams can provide your organization as you continue on your journey to sre
+talk about ways you can assess and understand your organizations maturity and readiness for adopting sre principles practices and culture also discuss the types of to look for in hiring new sres and how to upskill your current workforce lastly give you advice on how to start thinking about setting up an sre org and the additional support our google cloud services teams can provide your organization as you continue on your journey to sre
 introduction organizational maturity and training sre teams getting started
 
 final assessment

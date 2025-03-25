@@ -1,14 +1,16 @@
 <DOC>
 applied data science with python
-the courses university of michigan introduce learners to data science through the python programming language this skillsbased is intended for learners who have a basic python or programming background and want to apply statistical machine information visualization text analysis and social network analysis techniques through popular python toolkits such as pandas matplotlib scikitlearn nltk and networkx to gain insight into their dataintroduction to data science in python applied plotting charting data representation in python and applied machine in python should be taken in order and prior to any other in the after completing those courses and can be taken in any order all are required to earn a
+the courses university of michigan introduce learners to data science through the python programming language this skillsbased is intended for learners who have a basic python or programming background and want to apply statistical machine learning information visualization text analysis and social network analysis techniques through popular python toolkits such as pandas matplotlib scikitlearn nltk and networkx to gain insight into their data
+introduction to data science in python applied plotting charting data representation in python and applied machine learning in python should be taken in order and prior to any other in the after completing those courses and can be taken in any order all are required to earn a
 </DOC>
 
 <DOC>
 applied social network analysis in python
-this will introduce the learner to network analysis through tutorials using the networkx library the begins with an understanding of what network analysis is and motivations for why we might model phenomena as networks the second introduces the concept of connectivity and network robustness the third will explore ways of measuring the importance or centrality of a node in a network the final will explore the evolution of networks over time and cover models of network generation and the link prediction problem this should be taken after introduction to data science in python applied plotting charting data representation in python and applied machine in python
+this will introduce the learner to network analysis through tutorials using the networkx library the begins with an understanding of what network analysis is and motivations for why we might model phenomena as networks the second introduces the concept of connectivity and network robustness the third will explore ways of measuring the importance or centrality of a node in a network the final will explore the evolution of networks over time and cover models of network generation and the link prediction problem
+this should be taken after introduction to data science in python applied plotting charting data representation in python and applied machine learning in python
 
 why study networks and basics on networkx
-one introduces you to different types of networks in the real world and why we study them about the basic elements of networks as well as different types of networks also how to represent and manipulate networked data using the networkx library the will give you an to use networkx to analyze a networked dataset of employees in a small company
+one introduces you to different types of networks in the real world and why we study them about the basic elements of networks as as different types of networks also how to represent and manipulate networked data using the networkx library the will give you an to use networkx to analyze a networked dataset of employees in a small company
 networks definition and why we study them network definition and vocabulary node and edge attributes bipartite graphs ta demonstration loading graphs in networkx
 
 network connectivity
@@ -26,10 +28,11 @@ preferential attachment model small world networks link prediction
 
 <DOC>
 applied plotting charting data representation in python
-this will introduce the learner to information visualization basics with a focus on reporting and charting using the matplotlib library the will start with a design and information literacy perspective touching on what makes a good and bad visualization and what statistical measures translate into in terms of visualizations the second will focus on the technology used to make visualizations in python matplotlib and introduce users to best practices when creating basic charts and how to realize design decisions in the framework the third will be a tutorial of functionality available in matplotlib and demonstrate a variety of basic statistical charts helping learners to identify when a particular method is good for a particular problem the will end with a discussion of other forms of structuring and visualizing data this should be taken after introduction to data science in python and before the remainder of the applied data science with python courses applied machine in python applied text mining in python and applied social network analysis in python
+this will introduce the learner to information visualization basics with a focus on reporting and charting using the matplotlib library the will start with a design and information literacy perspective touching on what makes a good and bad visualization and what statistical measures translate into in terms of visualizations the second will focus on the technology used to make visualizations in python matplotlib and introduce users to best practices when creating basic charts and how to realize design decisions in the framework the third will be a tutorial of functionality available in matplotlib and demonstrate a variety of basic statistical charts helping learners to identify when a particular method is good for a particular problem the will end with a discussion of other forms of structuring and visualizing data
+this should be taken after introduction to data science in python and before the remainder of the applied data science with python courses applied machine learning in python applied text mining in python and applied social network analysis in python
 
 principles of information visualization
-get an introduction to principles of information visualization we will be introduced to tools for thinking about design and graphical heuristics for thinking about creating effective visualizations all of the information on grading prerequisites and expectations are on the syllabus which is included
+get an introduction to principles of information visualization be introduced to tools for thinking about design and graphical heuristics for thinking about creating effective visualizations all of the information on grading prerequisites and expectations are on the syllabus which is included
 introduction updates about the professor christopher brooks tools for thinking about design alberto cairo graphical heuristics dataink ratio edward tufte graphical heuristics chart junk edward tufte graphical heuristics lie factor and spark lines edward tufte the truthful art alberto cairo
 
 basic charting
@@ -47,7 +50,8 @@ plotting with pandas seaborn mapping and geographic investigation becoming an in
 
 <DOC>
 introduction to data science in python
-this will introduce the learner to the basics of the python programming environment including fundamental python programming techniques such as lambdas reading and manipulating csv files and the numpy library the will introduce data manipulation and cleaning techniques using the popular python pandas data science library and introduce the abstraction of the series and dataframe as the central data structures for data analysis along with tutorials on how to use functions such as groupby merge and pivot tables effectively by the end of this students will be able to take tabular data clean it manipulate it and run basic inferential statistical analyses this should be taken before any of the other applied data science with python courses applied plotting charting data representation in python applied machine in python applied text mining in python applied social network analysis in python
+this will introduce the learner to the basics of the python programming environment including fundamental python programming techniques such as lambdas reading and manipulating csv files and the numpy library the will introduce data manipulation and cleaning techniques using the popular python pandas data science library and introduce the abstraction of the series and dataframe as the central data structures for data analysis along with tutorials on how to use functions such as groupby merge and pivot tables effectively by the end of this students will be able to take tabular data clean it manipulate it and run basic inferential statistical analyses
+this should be taken before any of the other applied data science with python courses applied plotting charting data representation in python applied machine learning in python applied text mining in python applied social network analysis in python
 
 fundamentals of data manipulation with python
 get an introduction to the field of data science review common python functionality and features which data scientists use and be introduced to the coursera jupyter notebook for the lectures all of the information on grading prerequisites and expectations are on the syllabus and you can find more information about the jupyter notebooks on our resources page
@@ -58,7 +62,7 @@ of the the fundamentals of one of the most important toolkits python has for dat
 introduction to pandas the series data structure querying a series dataframe data structure dataframe indexing and loading querying a dataframe indexing dataframes missing values example manipulating dataframe
 
 more data processing with pandas
-deepen your understanding of the python pandas library by how to merge dataframes generate tables group data into logical pieces and manipulate dates well also refresh your understanding of scales of data and discuss issues with creating metrics for analysis the ends with a more significant programming
+deepen your understanding of the python pandas library by learning how to merge dataframes generate tables group data into logical pieces and manipulate dates also refresh your understanding of scales of data and discuss issues with creating metrics for analysis the ends with a more significant programming
 merging dataframes pandas idioms group by scales pivot table datetime functionality
 
 answering questions with messy data
@@ -67,29 +71,31 @@ basic statistical testing other forms of structured data
 </DOC>
 
 <DOC>
-applied machine in python
-this will introduce the learner to applied machine focusing more on the techniques and methods than on the statistics behind these methods the will start with a discussion of how machine is different than descriptive statistics and introduce the scikit toolkit through a tutorial the issue of dimensionality of data will be discussed and the task of clustering data as well as evaluating those clusters will be tackled supervised approaches for creating predictive models will be described and learners will be able to apply the scikit predictive modelling methods while understanding process issues related to data generalizability eg cross validation overfitting the will end with a look at more advanced techniques such as building ensembles and practical limitations of predictive models by the end of this students will be able to identify the difference between a supervised classification and unsupervised clustering technique identify which technique they need to apply for a particular dataset and need engineer features to meet that need and write python code to carry out an analysis this should be taken after introduction to data science in python and applied plotting charting data representation in python and before applied text mining in python and applied social analysis in python
+applied machine learning in python
+this will introduce the learner to applied machine learning focusing more on the techniques and methods than on the statistics behind these methods the will start with a discussion of how machine learning is different than descriptive statistics and introduce the scikit toolkit through a tutorial the issue of dimensionality of data will be discussed and the task of clustering data as as evaluating those clusters will be tackled supervised approaches for creating predictive models will be described and learners will be able to apply the scikit predictive modelling methods while understanding process issues related to data generalizability eg cross validation overfitting the will end with a look at more advanced techniques such as building ensembles and practical limitations of predictive models by the end of this students will be able to identify the difference between a supervised classification and unsupervised clustering technique identify which technique they need to apply for a particular dataset and need engineer features to meet that need and write python code to carry out an analysis
+this should be taken after introduction to data science in python and applied plotting charting data representation in python and before applied text mining in python and applied social analysis in python
 
-fundamentals of machine intro to scikit
-this introduces basic machine concepts tasks and workflow using an example classification problem based on the knearest neighbors method and implemented using the scikitlearn library
-introduction whats new key concepts in machine python tools for machine an example machine problem examining the data knearest neighbors classification
+fundamentals of machine learning intro to scikit
+this introduces basic machine learning concepts tasks and workflow using an example classification problem based on the knearest neighbors method and implemented using the scikitlearn library
+introduction whats new key concepts in machine learning python tools for machine learning an example machine learning problem examining the data knearest neighbors classification
 
-supervised machine part
-this delves into a wider variety of supervised methods for both classification and regression about the connection between model complexity and generalization performance the importance of proper feature scaling and how to control model complexity by applying techniques like regularization to avoid overfitting in addition to knearest neighbors covers linear regression leastsquares ridge lasso and polynomial regression logistic regression support vector machines the use of crossvalidation for model evaluation and decision trees
-introduction to supervised machine overfitting and underfitting supervised datasets knearest neighbors classification and regression linear regression leastsquares linear regression ridge lasso and polynomial regression logistic regression linear classifiers support vector machines multiclass classification kernelized support vector machines crossvalidation decision trees onehot encoding optional
+supervised machine learning part
+this delves into a wider variety of supervised learning methods for both classification and regression learning about the connection between model complexity and generalization performance the importance of proper feature scaling and how to control model complexity by applying techniques like regularization to avoid overfitting in addition to knearest neighbors covers linear regression leastsquares ridge lasso and polynomial regression logistic regression support vector machines the use of crossvalidation for model evaluation and decision trees
+introduction to supervised machine learning overfitting and underfitting supervised learning datasets knearest neighbors classification and regression linear regression leastsquares linear regression ridge lasso and polynomial regression logistic regression linear classifiers support vector machines multiclass classification kernelized support vector machines crossvalidation decision trees onehot encoding optional
 
 evaluation
-this covers evaluation and model selection methods that you can use to help understand and optimize the performance of your machine models
+this covers evaluation and model selection methods that you can use to help understand and optimize the performance of your machine learning models
 model evaluation selection confusion matrices basic evaluation metrics classifier decision functions precisionrecall and roc curves multiclass evaluation regression evaluation model selection optimizing classifiers for different evaluation metrics model calibration optional
 
-supervised machine part
-this covers more advanced supervised methods that include ensembles of trees random forests gradient boosted trees and neural networks with an optional on deep also about the critical problem of data leakage in machine and how to detect and avoid it
-naive bayes classifiers random forests gradient boosted decision trees neural networks deep optional data leakage introduction dimensionality reduction and manifold clustering conclusion
+supervised machine learning part
+this covers more advanced supervised learning methods that include ensembles of trees random forests gradient boosted trees and neural networks with an optional on deep learning also about the critical problem of data leakage in machine learning and how to detect and avoid it
+naive bayes classifiers random forests gradient boosted decision trees neural networks deep learning optional data leakage introduction dimensionality reduction and manifold learning clustering conclusion
 </DOC>
 
 <DOC>
 applied text mining in python
-this will introduce the learner to text mining and text manipulation basics the begins with an understanding of how text is handled by python the structure of text both to the machine and to humans and an overview of the nltk framework for manipulating text the second focuses on common manipulation needs including regular expressions searching for text cleaning text and preparing text for use by machine processes the third will apply basic natural language processing methods to text and demonstrate how text classification is accomplished the final will explore more advanced methods for detecting the topics in documents and grouping them by similarity topic modelling this should be taken after introduction to data science in python applied plotting charting data representation in python and applied machine in python
+this will introduce the learner to text mining and text manipulation basics the begins with an understanding of how text is handled by python the structure of text both to the machine and to humans and an of the nltk framework for manipulating text the second focuses on common manipulation needs including regular expressions searching for text cleaning text and preparing text for use by machine learning processes the third will apply basic natural language processing methods to text and demonstrate how text classification is accomplished the final will explore more advanced methods for detecting the topics in documents and grouping them by similarity topic modelling
+this should be taken after introduction to data science in python applied plotting charting data representation in python and applied machine learning in python
 
 working with text in python
 programming discussion prompt ungraded labs
@@ -101,7 +107,7 @@ basic natural language processing basic nlp tasks with nltk advanced nlp tasks w
 
 classification of text
 programming ungraded lab
-text classification identifying features from text naive bayes classifiers naive bayes variations support vector machines text classifiers in python demonstration case study sentiment analysis
+text classification identifying features from text naive bayes classifiers naive bayes variations support vector machines learning text classifiers in python demonstration case study sentiment analysis
 
 topic modeling
 programming

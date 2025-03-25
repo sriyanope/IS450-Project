@@ -1,17 +1,23 @@
 <DOC>
 palo alto networks cybersecurity
-the palo alto networks cybersecurity prepares students for entry level careers in cybersecurity with an emphasis on the fundamentals of networking network security cloud security and security operations related to palo alto networks technology and the cybersecurity industry as a whole the cybersecurity courses including access to additional resources can be used to prepare for the palo alto networks certified cybersecurity entrylevel technician pccet examination available through pearson vue applied projectthe revolves around the palo alto networks certified cybersecurity entrylevel technician pccet exam completing the cybersecurity track including all assessments help you compete for the examination available through pearson vue after successfully completing all four courses students are qualified to visit this site to further prepare for the pccet and other palo alto networks certifications httpswwwpaloaltonetworkscomserviceseducationcertificationopens in a new tab
+the palo alto networks cybersecurity prepares students for entry level careers in cybersecurity with an emphasis on learning the fundamentals of networking network security cloud security and security operations related to palo alto networks technology and the cybersecurity industry as a whole
+the cybersecurity courses including access to additional resources can be used to prepare for the palo alto networks certified cybersecurity entrylevel technician pccet examination available through pearson vue
+
+the project revolves around the palo alto networks certified cybersecurity entrylevel technician pccet exam completing the cybersecurity track including all assessments help you compete for the examination available through pearson vue after successfully completing all four courses students are qualified to visit this site to further prepare for the pccet and other palo alto networks certifications httpswwwpaloaltonetworkscomserviceseducationcertificationopens in a new tab
+
+
+
 </DOC>
 
 <DOC>
 palo alto networks cloud security fundamentals
-cloud security fundamentals basic principles associated with securing the cloud and saasbased applications through secure access service edge architecture and identify concepts required to recognize and potentially mitigate attacks against traditional and hybrid datacenters as well as mission critical infrastructure the also demonstrates how to initially setup and configure containers on a docker bridge network and test the container security through the use of vulnerability scans and reports
+cloud security fundamentals basic principles associated with securing the cloud and saasbased applications through secure access service edge architecture and identify concepts required to recognize and potentially mitigate attacks against traditional and hybrid datacenters as as mission critical infrastructure the also demonstrates how to initially setup and configure containers on a docker bridge network and test the container security through the use of vulnerability scans and reports
 
 cloud security fundamentals information
-in the cloud security fundamentals students will basic principles associated with securing the cloud and saasbased applications through secure access service edge architecture and identify concepts required to recognize and potentially mitigate attacks against traditional and hybrid datacenters as well as mission critical infrastructure students will also how to initially setup and configure containers on a docker bridge network and test the container security through the use of vulnerability scans and reports
+in the cloud security fundamentals students will basic principles associated with securing the cloud and saasbased applications through secure access service edge architecture and identify concepts required to recognize and potentially mitigate attacks against traditional and hybrid datacenters as as mission critical infrastructure students will also how to initially setup and configure containers on a docker bridge network and test the container security through the use of vulnerability scans and reports
 
 cloud security fundamentals cloud computing models
-the cloud computing models activities help you analyze different public private and hybrid cloud service and deployment models and also the shared responsibility model students evaluate virtual machine and network services that are utilized for cloud content deliveries and focus directly on employing next generation firewall technologies ngfw to protect data and prevent exploits
+the cloud computing models learning activities help you analyze different public private and hybrid cloud service and deployment models and also the shared responsibility model students evaluate virtual machine and network services that are utilized for cloud content deliveries and focus directly on employing next generation firewall technologies ngfw to protect data and prevent exploits
 cloud computing security and network virtualization
 
 cloud security fundamentals cloud native technologies
@@ -31,16 +37,17 @@ discussion prompt
 
 <DOC>
 palo alto networks cybersecurity foundation
-palo alto networks cybersecurity foundationcourse students will fundamental principles associated with the current cybersecurity landscape and identify concepts required to recognize and potentially mitigate attacks against enterprise networks as well as mission critical infrastructure students will also how to initially setup and configure security zones authentication and policies on a next generation firewall objectives upon completion of this students will be able to upon completion of this students will be able to perform the following discover modern computing trends and application threat vectors configure a network interface and test for connectivity identify cloud computing and softwareasaservice saas application challenges explore recent cyberattacks and their impact on business review attacker profiles motivations and the cyberattack lifecycle recognize highprofile cybersecurity attacks and advanced persistent threats identify malware types vulnerabilities exploits spamming and phishing attacks configure and test a malware analysis security profile describe how bots and botnets are used to attack enterprise networks explore zero trust design principles architecture capabilities and implementation review perimeter network security strategies policies models and trust boundaries setup and configure inside outside and dmz security zones on a ngfw create and test an authentication policy on a next generation firewall review capabilities of the security operating platform and components explore how to secure the enterprise with ngfw and traps endpoint protection discover how to secure the cloud with prisma access saas and cloud examine how to secure the future with cortex data lake and xdr apply twofactor authentication on the next generation firewall ngfw configure the ngfw to allow only trusted applications
+palo alto networks cybersecurity foundation
+students will fundamental principles associated with the current cybersecurity landscape and identify concepts required to recognize and potentially mitigate attacks against enterprise networks as as mission critical infrastructure students will also how to initially setup and configure security zones authentication and policies on a next generation firewall learning objectives upon completion of this students will be able to upon completion of this students will be able to perform the following discover modern computing trends and application threat vectors configure a network interface and test for connectivity identify cloud computing and softwareasaservice saas application challenges explore recent cyberattacks and their impact on business review attacker profiles motivations and the cyberattack lifecycle recognize highprofile cybersecurity attacks and advanced persistent threats identify malware types vulnerabilities exploits spamming and phishing attacks configure and test a malware analysis security profile describe how bots and botnets are used to attack enterprise networks explore zero trust design principles architecture capabilities and implementation review perimeter network security strategies policies models and trust boundaries setup and configure inside outside and dmz security zones on a ngfw create and test an authentication policy on a next generation firewall review capabilities of the security operating platform and components explore how to secure the enterprise with ngfw and traps endpoint protection discover how to secure the cloud with prisma access saas and cloud examine how to secure the future with cortex data lake and xdr apply twofactor authentication on the next generation firewall ngfw configure the ngfw to allow only trusted applications
 
 cybersecurity foundation information
-in the cybersecurity foundation students will fundamental principles associated with the current cybersecurity landscape and identify concepts required to recognize and potentially mitigate attacks against enterprise networks as well as mission critical infrastructure students will also how to initially setup and configure security zones authentication and policies on a next generation firewall
+in the cybersecurity foundation students will fundamental principles associated with the current cybersecurity landscape and identify concepts required to recognize and potentially mitigate attacks against enterprise networks as as mission critical infrastructure students will also how to initially setup and configure security zones authentication and policies on a next generation firewall
 
 cybersecurity foundation cyberlandscape
 examine the modern computing trends associated with cloud technologies including software as a service saas also focus on identifying the job that will be utilized for cloud services security and compliance
 
 cybersecurity foundation cyberthreats
-cyberthreats analyzes how attackers exploit vulnerabilities and promote attacks through the cyberattack lifecycle students to identify highprofile cybersecurity attacks and advanced persistent threats as well as localized wifi attacks
+cyberthreats analyzes how attackers exploit vulnerabilities and promote attacks through the cyberattack lifecycle students to identify highprofile cybersecurity attacks and advanced persistent threats as as localized wifi attacks
 cybersecurity threats social engineering unit future of cryptocurrency mining unit cryptomining attacks unit the shift to cryptomining
 
 cybersecurity foundation attack types and techniques
@@ -72,8 +79,8 @@ security operations framework soc advanced endpoint protection
 discussion prompts
 
 security operations framework secure the future with cortex
-security the future with cortex presents palo alto networks cortex as an xdr extended detection and response security solution the also examines how data lake collection technologies integrate with machine and artificial intelligence threat assessments
-cortex overview cortex xsoar mobile app cortex and secops
+security the future with cortex presents palo alto networks cortex as an xdr extended detection and response security solution the also examines how data lake collection technologies integrate with machine learning and artificial intelligence threat assessments
+cortex cortex xsoar mobile app cortex and secops
 </DOC>
 
 <DOC>
@@ -84,7 +91,7 @@ network security fundamentals information
 this provides the student with an understanding of the fundamental tenants of network security and covers the general concepts involved in maintaining a secure network computing environment upon successful completion of this students will be able to examine describe general network security fundamentals and implement basic network security configuration techniques
 
 network security fundamentals the connected globe
-the connected globe examines network infrastructures including device identity management and device configurations employed across a wide range of networks from local area wireless to the internet
+the connected globe learning examines network infrastructures including device identity management and device configurations employed across a wide range of networks from local area wireless to the internet
 broadcast and collision domains internet of things hubs switches and routers how routers layer routing part
 
 network security fundamentals physical logical and virtual addressing

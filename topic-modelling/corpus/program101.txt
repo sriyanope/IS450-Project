@@ -1,15 +1,20 @@
 <DOC>
 decentralized finance defi the future of finance
-defi and the future of finance is a four defi or decentralized finance is a new technology whereby users interact as peers with algorithms or smart contracts rather than through traditional intermediaries such as banks brokerages or insurance companies the technology has the potential to transform finance as we know it it solves key problems in traditional finance such as lack of inclusion inefficiency opacity centralized control and lack of interoperability the first defi infrastructure focuses on the historical evolution of decentralized finance as well as the problems that defi solves the second defi primitives deals with mechanics supply and ownership and loans and swaps the third defi deep dive explores the leading protocols including makerdao compound aave uniswap and dydx the fourth defi risks and analyzes the key risks including smart contract risk governance risk scaling as well as regulatory issues the final part of the sketches a vision of finance in the future including the winners and the losers
+defi and the future of finance is a four learning defi or decentralized finance is a new technology whereby users interact as peers with algorithms or smart contracts rather than through traditional intermediaries such as banks brokerages or insurance companies the technology has the potential to transform finance as we know it it solves key problems in traditional finance such as lack of inclusion inefficiency opacity centralized control and lack of interoperability
+the first defi infrastructure focuses on the historical evolution of decentralized finance as as the problems that defi solves
+the second defi primitives deals with mechanics supply and ownership and loans and swaps
+the third defi deep dive explores the leading protocols including makerdao compound aave uniswap and dydx
+the fourth defi risks and analyzes the key risks including smart contract risk governance risk scaling as as regulatory issues the final part of the sketches a vision of finance in the future including the winners and the losers
 </DOC>
 
 <DOC>
 decentralized finance defi infrastructure
-decentralized finance the future of finance is a set of four courses taught by campbell r harvey professor of finance at the fuqua school of business duke university and a research associate of the national bureau of economic research that focus on decentralized finance defi first we begin by exploring the origins of defi and take a broad historical view from the earliest barter economies such as the first peertopeer exchanges of bartering to present day the also looks at historical examples of money having value even though it is not officially backed we then focus on the key infrastructure components blockchain cryptocurrency smart contracts oracles stablecoins and decentralized applications or dapps this includes discussion of the mechanics of the ethereum and bitcoin blockchains including cryptographic hashing next we focus on the specific problems that defi is designed to solve inefficiency costly slow and insecure today limited access billion are unbanked opacity we need to trust regulators to monitor banks and the regulators have mixed records centralized control financial system is oligopolistic imposing higher fees than we would have in a competitive market and lack of interoperability it is difficult to move funds from one financial institution to another today the closes by exploring many of the myths about the crypto space
+decentralized finance the future of finance is a set of four courses taught by campbell r harvey professor of finance at the fuqua school of business duke university and a research associate of the national bureau of economic research that focus on decentralized finance defi first we begin by exploring the origins of defi and take a broad historical view from the earliest barter economies such as the first peertopeer exchanges of bartering to present day the also looks at historical examples of money having value even though it is not officially backed
+we then focus on the key infrastructure components blockchain cryptocurrency smart contracts oracles stablecoins and decentralized applications or dapps this includes discussion of the mechanics of the ethereum and bitcoin blockchains including cryptographic hashing next we focus on the specific problems that defi is designed to solve inefficiency costly slow and insecure today limited access billion are unbanked opacity we need to trust regulators to monitor banks and the regulators have mixed records centralized control financial system is oligopolistic imposing higher fees than we would have in a competitive market and lack of interoperability it is difficult to move funds from one financial institution to another today the closes by exploring many of the myths about the crypto space
 
 the history of decentralized finance
 this provides a historical perspective of exchange beginning with early barter specie currency backed by eg gold fiat currency and electronic transfers the introduces some of the key problems that have arisen with the current system it closes with the introduction to satoshi nakamotos famous paper which introduced cryptocurrency
-about this evolution can money have intangible value brief overview of cefi problems early cedefi crypto origins
+about this evolution can money have intangible value brief of cefi problems early cedefi crypto origins
 
 defi foundations
 this introduces the key foundations for defi starting with the mechanics of blockchain including cryptographic hashing the then explores the innovation of smart contracting a key ingredient for defi there is also a discussion of the differences between the first cryptos and stablecoins
@@ -26,18 +31,18 @@ misunderstandings conclusion
 
 <DOC>
 decentralized finance defi primitives
-defi and the future of finance is a set of four courses that focus on decentralized finance the second is called defi primitives it is recommended that you take the first defi infrastructure before this we talk about transaction mechanics and introduce both fungible and nonfungible tokens or nfts the explores the important issue of custody holding private keys the then explores supply adjustment which includes the minting and burning of tokens the mechanics of bonding curves are introduced the then explores the role of direct as well as indirect incentives in the defi system we then analyze swaps or decentralized exchange we begin by contrasting dex with centralized exchange eg coinbase or binance the details the mechanics of automated market makers and provides a number of detailed examples there is a discussion of impermanent loss as well as legal frontrunning we end the by exploring both collateralized and flash loans
+defi and the future of finance is a set of four courses that focus on decentralized finance the second is called defi primitives it is recommended that you take the first defi infrastructure before this we talk about transaction mechanics and introduce both fungible and nonfungible tokens or nfts the explores the important issue of custody holding private keys the then explores supply adjustment which includes the minting and burning of tokens the mechanics of bonding curves are introduced the then explores the role of direct as as indirect incentives in the defi system we then analyze swaps or decentralized exchange we begin by contrasting dex with centralized exchange eg coinbase or binance the details the mechanics of automated market makers and provides a number of detailed examples there is a discussion of impermanent loss as as legal frontrunning we end the by exploring both collateralized and flash loans
 
 mechanics
 the first explores some key primitives such as how ethereum transactions occur including the differences between externally owned accounts and contract accounts we then explore fungible and nonfungible nft tokens and miner extractable value
 transaction mechanics fungible tokens nonfungible tokens
 
 supply and ownership
-the second focuses on supply adjustment minting and burning the atomic nature of transactions in ethereum as well as incentives the concept of a keeper in the ethereum ecosystem is introduced
+the second focuses on supply adjustment minting and burning the atomic nature of transactions in ethereum as as incentives the concept of a keeper in the ethereum ecosystem is introduced
 custody supply adjustment incentives
 
 loans and swaps
-the third introduces decentralized exchange and explores in considerable detail automated market makers the also introduces the idea of collateralized loans as well as uncollateralized flash loans
+the third introduces decentralized exchange and explores in considerable detail automated market makers the also introduces the idea of collateralized loans as as uncollateralized flash loans
 centralized exchange decentralized exchange automated market makers collateralized loans flash loans
 
 joining the world of defi
@@ -47,7 +52,15 @@ metamask wallet hashes and keys addresses signatures and transaction mechanics c
 
 <DOC>
 decentralized finance defi and risks
-defi and the future of finance is a set of four courses that focus on decentralized finance the final is called defi and risks it is essential that you complete the first three courses i defi infrastructure ii defi primitives and iii defi deep dive before beginning the fourth the starts with the premise that an analysis of any new technology must clearly gauge the risks and challenges given that defi is only a few years old there are plenty of risks the begins with the most obvious risk smart contract risk smart contracts are foundational for defi the code of these contracts is public opening a clear attack vector for hackers that is in traditional finance hackers need to break into a system to get access to the code and data in defi everything is open sourcethere are many other risks studied including governance risk oracle risk scaling risk decentralized exchange or dex risk custodial risk environmental risk and regulatory risk
+defi and the future of finance is a set of four courses that focus on decentralized finance the final is called defi and risks it is essential that you complete the first three courses i defi infrastructure
+ii defi primitives
+and iii defi deep dive before beginning the fourth the starts with the premise that an analysis of any new technology must clearly gauge the risks and challenges given that defi is only a few years old there are plenty of risks the begins with the most obvious risk smart contract risk smart contracts are foundational for defi the code of these contracts is public opening a clear attack vector for hackers that is in traditional finance hackers need to break into a system to get access to the code and data in defi everything is open sourcethere are many other risks studied including governance risk
+oracle risk
+scaling risk
+decentralized exchange or dex risk
+custodial risk
+environmental risk
+and regulatory risk
 
 smart contract risk
 the first model explores both logic errors and economic exploits that characterize smart contract risk we then focus on some specific exploits including the yearnfinance exploit that utilized a massive flash loan
@@ -72,14 +85,14 @@ investing in defi a view of the future
 
 <DOC>
 decentralized finance defi deep dive
-defi and the future of finance is a set of four courses that focus on decentralized finance the third is called defi deep dive it is essential that you do the first two courses i defi infrastructure and ii defi primitives before doing this it is the longest of the four courses and focuses on some of the leading protocols in the defi space we will look at credit and lending and feature makerdao compound and aave decentralized exchange with an analysis of how protocols like uniswap and balancer works derivatives featuring yield protocol dydx and synthetix and tokenization with an analysis of set protocol as well as wrapped bitcoin for many of these leading protocols we include detailed examples of how the mechanics for example we show how to use a dydx flash swap to execute an arbitrage transaction take advantage of different prices on different exchanges for the same asset
+defi and the future of finance is a set of four courses that focus on decentralized finance the third is called defi deep dive it is essential that you do the first two courses i defi infrastructure and ii defi primitives before doing this it is the longest of the four courses and focuses on some of the leading protocols in the defi space look at credit and lending and feature makerdao compound and aave decentralized exchange with an analysis of how protocols like uniswap and balancer works derivatives featuring yield protocol dydx and synthetix and tokenization with an analysis of set protocol as as wrapped bitcoin for many of these leading protocols we include detailed examples of how the mechanics for example we show how to use a dydx flash swap to execute an arbitrage transaction take advantage of different prices on different exchanges for the same asset
 
 credit and lending
 we begin one with the mechanics of makerdao stablecoin called dai and introduce the idea of collateralized debt obligations the also includes a detailed examination of both compound and aave
 introduction liquidation governance what is compound supply and borrow rates ctokens compound governance what is aave stable loans and credit delegation
 
 decentralized exchange
-the second explores the mechanics of uniswap v and v a generalization of the two asset automated market maker introduced by balancer is also studied the ends with a discussion of rehypothecation as well as total locked value
+the second explores the mechanics of uniswap v and v a generalization of the two asset automated market maker introduced by balancer is also studied the ends with a discussion of rehypothecation as as total locked value
 what is uniswap impermanent loss flash swaps governance and uniswap balancer rehypothecation
 
 derivatives

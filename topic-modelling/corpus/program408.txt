@@ -1,11 +1,23 @@
 <DOC>
 google advanced data analytics
-get training designed by google and take the next step in your with advanced data analytics there are over open jobs in advanced data analytics with a median salary of in the us advanced data professionals are responsible for collecting analyzing and interpreting extremely large amounts of data these jobs require manipulating large data sets and using advanced analytics including machine predictive modeling and experimental design this builds on your data analytics and to take your to the next level its designed for graduates of the google data analytics certificateopens in a new tab or people with equivalent data analytics expand your knowledge with practical handson featuring jupyter notebook python and tableauafter seven courses be prepared for jobs like senior data analyst junior data scientist data science analyst and more at under hours a the can be completed in less than six months upon completion you can apply for jobs with google and over us employers including deloitte target and verizon of graduates report a positive eg new job promo or raise within six months of completionlightcast us job postings jan dec based on graduate survey united states applied projectthis includes over hours of instruction and hundreds of practicebased assessments which will help you simulate realworld advanced data analytics scenarios that are critical for success in the workplace the content is highly interactive and exclusively developed by google employees with decades of in advanced data analytics and data science through a mix of assessments and handson labs get introduced to advanced data analytics tools and platforms and key technical required for an advanced roleplatforms and tools include jupyter notebook python tableauin addition to expert training and handson complete a capstone that you can share with potential employers to showcase your new set concrete that top employers are hiring for right now
+get training designed by google and take the next step in your with advanced data analytics there are over open jobs in advanced data analytics with a median salary of in the us
+advanced data professionals are responsible for collecting analyzing and interpreting extremely large amounts of data these jobs require manipulating large data sets and using advanced analytics including machine learning predictive modeling and experimental design
+this builds on your data analytics and to take your to the next level its designed for graduates of the google data analytics certificateopens in a new tab or people with equivalent data analytics expand your knowledge with practical handson projects featuring jupyter notebook python and tableau
+after seven courses be prepared for jobs like senior data analyst junior data scientist data science analyst and more at under hours a the can be completed in less than six months upon completion you can apply for jobs with google and over us employers including deloitte target and verizon
+of graduates report a positive eg new job promo or raise within six months of completion
+lightcast us job postings jan dec
+based on graduate survey united states
+
+
+this includes over hours of instruction and hundreds of practicebased assessments which will help you simulate realworld advanced data analytics scenarios that are critical for success in the workplace the content is highly interactive and exclusively developed by google employees with decades of in advanced data analytics and data science through a mix of assessments and handson labs get introduced to advanced data analytics tools and platforms and key technical required for an advanced role
+platforms and tools include jupyter notebook python tableau
+in addition to expert training and handson projects complete a capstone project that you can share with potential employers to showcase your new set concrete that top employers are hiring for right now
 </DOC>
 
 <DOC>
 get started with python
-this is the second of seven courses in the google advanced data analytics the python programming language is a powerful tool for data analysis the basic concepts of python programming and how data professionals use python on the job explore concepts such as objectoriented programming variables data types functions conditional statements loops and data structures google employees who currently in the field will guide you through this by providing handson activities that simulate relevant tasks sharing examples from their daytoday and helping you enhance your data analytics to prepare for your learners who complete the seven courses will have the needed to apply for data science and advanced data analytics jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this define what a programming language is and why python is used by data scientists create python scripts to display data and perform operations control the flow of programs using conditions and functions utilize different types of loops when performing repeated operations identify data types such as integers floats strings and booleans manipulate data structures such as lists tuples dictionaries and sets import and use python libraries such as numpy and pandas
+this is the second of seven courses in the google advanced data analytics the python programming language is a powerful tool for data analysis the basic concepts of python programming and how data professionals use python on the job explore concepts such as objectoriented programming variables data types functions conditional statements loops and data structures
+google employees who currently in the field will guide you through this by providing handson activities that simulate relevant tasks sharing examples from their daytoday and helping you enhance your data analytics to prepare for your learners who complete the seven courses will have the needed to apply for data science and advanced data analytics jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this define what a programming language is and why python is used by data scientists create python scripts to display data and perform operations control the flow of programs using conditions and functions utilize different types of loops when performing repeated operations identify data types such as integers floats strings and booleans manipulate data structures such as lists tuples dictionaries and sets import and use python libraries such as numpy and pandas
 
 hello python
 begin by exploring the basics of python programming and why python is such a powerful tool for data analysis about jupyter notebooks an interactive environment for coding and data investigate how to use variables and data types to store and organize your data and begin practicing important coding
@@ -13,7 +25,7 @@ introduction to adrian my path to a data welcome to introduction to python disco
 
 functions and conditional statements
 next discover how to call functions to perform useful actions on your data also how to write conditional statements to tell the computer how to make decisions based on your instructions and practice writing clean code that can be easily understood and reused by other data professionals
-welcome to lateefat tips to address challenges when to code define functions and returning values write clean code use comments to scaffold your code make comparisons using operators use if elif else statements to make decisions wrapup
+welcome to lateefat tips to address challenges when learning to code define functions and returning values write clean code use comments to scaffold your code make comparisons using operators use if elif else statements to make decisions wrapup
 
 loops and strings
 here how to use iterative statements or loops to automate repetitive tasks also how to manipulate strings using slicing indexing and formatting
@@ -23,21 +35,22 @@ data structures in python
 now explore fundamental data structures such as lists tuples dictionaries sets and arrays lastly about two of the most widely used and important python tools for advanced data analysis numpy and pandas
 welcome to introduction to lists modify the contents of a list introduction to tuples more with loops lists and tuples introduction to dictionaries dictionary methods introduction to sets the power of packages introduction to numpy basic array operations introduction to pandas pandas basics boolean masking grouping and aggregation merging and joining data wrapup
 
-endofcourse
-put everything you have learned about python so far into practice with an endofcourse select a business problem from a list of options and use the given data to solve the problem this is an to demonstrate your and build a portfolio you can use to showcase your to potential employers
-welcome to introduction to your endofcourse portfolio endofcourse wrapup and tips for ongoing success wrapup
+endofcourse project
+put everything you have learned about python so far into practice with an endofcourse project select a business problem from a list of options and use the given data to solve the problem this project is an to demonstrate your and build a portfolio you can use to showcase your to potential employers
+welcome to introduction to your endofcourse portfolio project endofcourse project wrapup and tips for ongoing success wrapup
 </DOC>
 
 <DOC>
 foundations of data science
-this is the first of seven courses in the google advanced data analytics which will help develop the needed to apply for more advanced data roles such as an entrylevel data scientist or advancedlevel data analyst data professionals analyze data to help businesses make better decisions to do this they use powerful techniques like data storytelling statistics and machine begin your journey by exploring the role of data professionals in the workplace also about the workflow pace plan analyze construct execute and how it can help you organize data google employees who currently in the field will guide you through this by providing handson activities that simulate relevant tasks sharing examples from their daytoday and helping you enhance your data analytics to prepare for your learners who complete the seven courses will have the needed to apply for data science and advanced data analytics jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this describe the functions of data analytics and data science within an organization identify tools used by data professionals explore the value of databased roles in organizations investigate for a data explain a data workflow develop effective communication
+this is the first of seven courses in the google advanced data analytics which will help develop the needed to apply for more advanced data roles such as an entrylevel data scientist or advancedlevel data analyst data professionals analyze data to help businesses make better decisions to do this they use powerful techniques like data storytelling statistics and machine learning begin your learning journey by exploring the role of data professionals in the workplace also about the project workflow pace plan analyze construct execute and how it can help you organize data projects
+google employees who currently in the field will guide you through this by providing handson activities that simulate relevant tasks sharing examples from their daytoday and helping you enhance your data analytics to prepare for your learners who complete the seven courses will have the needed to apply for data science and advanced data analytics jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this describe the functions of data analytics and data science within an organization identify tools used by data professionals explore the value of databased roles in organizations investigate for a data explain a data project workflow develop effective communication
 
 introduction to data science concepts
 begin with an introduction to the google advanced data analytics then explore the history of data science and ways that data science helps solve problems today
 welcome to the google advanced data analytics introduction to welcome to explore your data toolbox wrapup loisan navigate your data with curiosity prepare for your first assessment
 
 the impact of data today
-now that youre more familiar with the history of data science youre ready to explore todays data space more about how data professionals manage and analyze their data as well as how datadriven insights can help organizations
+now that youre more familiar with the history of data science youre ready to explore todays data space more about how data professionals manage and analyze their data as as how datadriven insights can help organizations
 welcome to adrian create a datadriven business solution datadriven careers drive modern business leverage data analysis in nonprofits the top needed for a data important ethical considerations for data professionals the data space wrapup
 
 your as a data
@@ -45,25 +58,26 @@ identify the data professionals use to analyze data also explore how data profes
 welcome to cassie a lifelong love of data the future of data careers tiffany advice for job seekers build a online presence strengthen relationships prepare for your job search daisy highlight both technical and people wrapup
 
 data applications and workflow
-about the pace plan analyze construct execute workflow and how to organize a data also how to communicate effectively with teammates and stakeholders
+about the pace plan analyze construct execute project workflow and how to organize a data project also how to communicate effectively with teammates and stakeholders
 welcome to hautahi importance of communication in a data science introduction to pace key elements of communication communication drives pace connect pace with upcoming themes wrapup
 
-endofcourse
-complete an endofcourse gaining an to apply your new data and knowledge from to a workplace scenario and practice solving a business problem
-the value of a portfolio introduction to your endofcourse portfolio endofcourse wrapup and tips for ongoing success wrapup
+endofcourse project
+complete an endofcourse project gaining an to apply your new data and knowledge from to a workplace scenario and practice solving a business problem
+the value of a portfolio introduction to your endofcourse portfolio project endofcourse project wrapup and tips for ongoing success wrapup
 </DOC>
 
 <DOC>
 google advanced data analytics capstone
-youre almost there this is the seventh and final of the google advanced data analytics you have the to complete an optional capstone that includes key concepts from each of the six preceding courses during this capstone use your new and knowledge to develop datadriven insights for a specific business problemgoogle employees who currently in the field will guide you through this by providing handson activities that simulate relevant tasks sharing examples from their daytoday and helping you enhance your data analytics to prepare for your learners who complete the seven courses will have the needed to apply for data science and advanced data analytics jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this create andor update your resume create andor update your portfolio develop a data frame compose data visualizations use statistics to analyze and interpret data build interpret and evaluate regression models utilize machine techniques in python
+youre almost there this is the seventh and final of the google advanced data analytics you have the to complete an optional capstone project that includes key concepts from each of the six preceding courses during this capstone project use your new and knowledge to develop datadriven insights for a specific business problem
+google employees who currently in the field will guide you through this by providing handson activities that simulate relevant tasks sharing examples from their daytoday and helping you enhance your data analytics to prepare for your learners who complete the seven courses will have the needed to apply for data science and advanced data analytics jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this create andor update your resume create andor update your portfolio develop a data frame compose data visualizations use statistics to analyze and interpret data build interpret and evaluate regression models utilize machine learning techniques in python
 
-capstone
-to start be provided with an overview of the optional capstone and how it differs from the endofcourse also receive helpful suggestions for successfully completing the capstone finally how to incorporate your completed capstone into your portfolio
-introduction to what to expect in the capstone myles driving impact with ai in the workplace boost your data analytics with ai clean and prepare data with help from ai organize data and build formulas using ai use ai to help you ask more effective questions create engaging data visualizations with ai introducing google ai essentials capstone wrapup and tips for ongoing success
+capstone project
+to start be provided with an of the optional capstone project and how it differs from the endofcourse projects also receive helpful suggestions for successfully completing the capstone project finally how to incorporate your completed capstone project into your portfolio
+introduction to what to expect in the capstone project myles driving impact with ai in the workplace boost your data analytics with ai clean and prepare data with help from ai organize data and build formulas using ai use ai to help you ask more effective questions create engaging data visualizations with ai introducing google ai essentials capstone project wrapup and tips for ongoing success
 
 datafocused resources
 review datafocused resources designed to help you effectively navigate the job market also get useful tips for polishing your resume and preparing for interviews
-the data hiring process incorporate in your data analytics portfolio refine your resume daniel create a compelling resume prepare for interviews eva data careers can start anywhere why an online presence is important tips for enhancing your online presence create a compelling resume make your resume unique
+the data hiring process incorporate project in your data analytics portfolio refine your resume daniel create a compelling resume prepare for interviews eva data careers can start anywhere why an online presence is important tips for enhancing your online presence create a compelling resume make your resume unique
 
 put your advanced data analytics to
 complete the final tasks necessary to earn your google advanced data analytics badge congratulations
@@ -72,7 +86,8 @@ congratulations on completing the google advanced data analytics exploring
 
 <DOC>
 the power of statistics
-this is the fourth of seven courses in the google advanced data analytics discover how data professionals use statistics to analyze data and gain important insights explore key concepts such as descriptive and inferential statistics probability sampling confidence intervals and hypothesis testing also how to use python for statistical analysis and practice communicating your findings like a data google employees who currently in the field will guide you through this by providing handson activities that simulate relevant tasks sharing examples from their daytoday and helping you enhance your data analytics to prepare for your learners who complete the seven courses will have the needed to apply for data science and advanced data analytics jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this describe the use of statistics in data science use descriptive statistics to summarize and explore data calculate probability using basic rules model data with probability distributions describe the applications of different sampling methods calculate sampling distributions construct and interpret confidence intervals conduct hypothesis tests
+this is the fourth of seven courses in the google advanced data analytics discover how data professionals use statistics to analyze data and gain important insights explore key concepts such as descriptive and inferential statistics probability sampling confidence intervals and hypothesis testing also how to use python for statistical analysis and practice communicating your findings like a data
+google employees who currently in the field will guide you through this by providing handson activities that simulate relevant tasks sharing examples from their daytoday and helping you enhance your data analytics to prepare for your learners who complete the seven courses will have the needed to apply for data science and advanced data analytics jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this describe the use of statistics in data science use descriptive statistics to summarize and explore data calculate probability using basic rules model data with probability distributions describe the applications of different sampling methods calculate sampling distributions construct and interpret confidence intervals conduct hypothesis tests
 
 introduction to statistics
 explore the role of statistics in data science and identify the difference between descriptive and inferential statistics how descriptive statistics can help you quickly summarize a dataset and measure the center spread and relative position of data
@@ -92,16 +107,17 @@ welcome to introduction to confidence intervals interpret confidence intervals c
 
 introduction to hypothesis testing
 hypothesis testing helps data professionals determine if the results of a test or experiment are statistically significant or due to chance about the basic steps for any hypothesis test and how hypothesis testing can help you draw meaningful conclusions about data
-welcome to elea keep in the everchanging data space introduction to hypothesis testing onesample test for means twosample tests means twosample tests proportions use python to conduct a hypothesis test wrapup
+welcome to elea keep learning in the everchanging data space introduction to hypothesis testing onesample test for means twosample tests means twosample tests proportions use python to conduct a hypothesis test wrapup
 
-endofcourse
-endofcourse use statistical methods such as hypothesis testing to analyze a workplace scenario dataset
-welcome to sean showcase your talents to potential employers introduction to your endofcourse portfolio endofcourse wrapup and tips for ongoing success wrapup
+endofcourse project
+endofcourse project use statistical methods such as hypothesis testing to analyze a workplace scenario dataset
+welcome to sean showcase your talents to potential employers introduction to your endofcourse portfolio project endofcourse project wrapup and tips for ongoing success wrapup
 </DOC>
 
 <DOC>
 go beyond the numbers translate data into insights
-this is the third of seven courses in the google advanced data analytics how to find the story within data and tell that story in a compelling way discover how data professionals use storytelling to better understand their data and communicate key insights to teammates and stakeholders also practice exploratory data analysis and how to create effective data visualizations google employees who currently in the field will guide you through this by providing handson activities that simulate relevant tasks sharing examples from their daytoday and helping you build your data analytics to prepare for your learners who complete the seven courses will have the needed to apply for data science and advanced data analytics jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this use python tools to examine raw data structure and format select relevant python libraries to clean raw data demonstrate how to transform categorical data into numerical data with python utilize input validation to validate a dataset with python identify techniques for creating accessible data visualizations with tableau determine decisions about missing data and outliers structure and organize data by manipulating date strings
+this is the third of seven courses in the google advanced data analytics how to find the story within data and tell that story in a compelling way discover how data professionals use storytelling to better understand their data and communicate key insights to teammates and stakeholders also practice exploratory data analysis and how to create effective data visualizations
+google employees who currently in the field will guide you through this by providing handson activities that simulate relevant tasks sharing examples from their daytoday and helping you build your data analytics to prepare for your learners who complete the seven courses will have the needed to apply for data science and advanced data analytics jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this use python tools to examine raw data structure and format select relevant python libraries to clean raw data demonstrate how to transform categorical data into numerical data with python utilize input validation to validate a dataset with python identify techniques for creating accessible data visualizations with tableau determine decisions about missing data and outliers structure and organize data by manipulating date strings
 
 find and share stories using data
 how to find the stories within data and share them with your audience about the methods and benefits of data cleaning and how it can help you discover those stories also go over the steps of the eda process and how eda can help you quickly understand data finally explore different ways to visualize data to communicate key insights
@@ -119,14 +135,15 @@ data visualizations and presentations
 practice creating and presenting data stories in an ethical accessible and way also explore advanced data visualization techniques in tableau
 welcome to the visualization life cycle with tableau part with tableau part drew explore the possibilities of data craft compelling stories with tableau present like a pro with tableau wrapup
 
-endofcourse
-endofcourse practice using python to perform eda on a workplace scenario dataset then use python and tableau to visualize the data
-welcome to introduction to your endofcourse portfolio endofcourse wrapup and tips for ongoing success wrapup
+endofcourse project
+endofcourse project practice using python to perform eda on a workplace scenario dataset then use python and tableau to visualize the data
+welcome to introduction to your endofcourse portfolio project endofcourse project wrapup and tips for ongoing success wrapup
 </DOC>
 
 <DOC>
 regression analysis simplify complex data relationships
-this is the fifth of seven courses in the google advanced data analytics data professionals use regression analysis to discover the relationships between different variables in a dataset and identify key factors that affect business performance practice modeling variable relationships about different methods of data modeling and how to use them to approach business problems also explore methods such as linear regression analysis of variance anova and logistic regression google employees who currently in the field will guide you through this by providing handson activities that simulate relevant tasks sharing examples from their daytoday and helping you enhance your data analytics to prepare for your learners who complete the seven courses will have the needed to apply for data science and advanced data analytics jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this explore the use of predictive models to describe variable relationships with an emphasis on correlation determine how multiple regression builds upon simple linear regression at every step of the modeling process run and interpret oneway and twoway anova tests construct different types of logistic regressions including binomial multinomial ordinal and poisson loglinear regression models
+this is the fifth of seven courses in the google advanced data analytics data professionals use regression analysis to discover the relationships between different variables in a dataset and identify key factors that affect business performance practice modeling variable relationships about different methods of data modeling and how to use them to approach business problems also explore methods such as linear regression analysis of variance anova and logistic regression
+google employees who currently in the field will guide you through this by providing handson activities that simulate relevant tasks sharing examples from their daytoday and helping you enhance your data analytics to prepare for your learners who complete the seven courses will have the needed to apply for data science and advanced data analytics jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this explore the use of predictive models to describe variable relationships with an emphasis on correlation determine how multiple regression builds upon simple linear regression at every step of the modeling process run and interpret oneway and twoway anova tests construct different types of logistic regressions including binomial multinomial ordinal and poisson loglinear regression models
 
 introduction to complex data relationships
 begin by exploring the main steps for building regression models from identifying your assumptions to interpreting your results next explore the two main types of regression linear and logistic how data professionals use linear and logistic regression to approach different kinds of business problems
@@ -137,44 +154,45 @@ explore how to use models to describe complex data relationships focus on relati
 welcome to jerrod the incredible value of mentorship ordinary least squares estimation make linear regression assumptions explore linear regression with python evaluate uncertainty in regression analysis model evaluation metrics interpret and present linear regression results wrapup
 
 multiple linear regression
-after simple regression move on to a more complex regression model multiple linear regression consider how multiple regression builds on simple linear regression at every step of the modeling process also get a preview of some key topics in machine selection overfitting and the biasvariance tradeoff
+after simple regression move on to a more complex regression model multiple linear regression consider how multiple regression builds on simple linear regression at every step of the modeling process also get a preview of some key topics in machine learning selection overfitting and the biasvariance tradeoff
 welcome to introduction to multiple regression represent categorical variables make assumptions with multiple linear regressions interpret multiple regression coefficients interpret multiple regression results with python the problem with overfitting top variable selection methods regularization lasso ridge and elastic net regression wrapup
 
 advanced hypothesis testing
-build on your prior knowledge of hypothesis testing to explore two more statistical tests chisquared and analysis of variance anova how data professionals use these tests to analyze different types of data finally conduct two kinds of chisquared tests as well as oneway and twoway anova tests
+build on your prior knowledge of hypothesis testing to explore two more statistical tests chisquared and analysis of variance anova how data professionals use these tests to analyze different types of data finally conduct two kinds of chisquared tests as as oneway and twoway anova tests
 welcome to hypothesis testing with chisquared introduction to the analysis of variance explore oneway vs twoway anova tests with python anova post hoc tests with python ignacio discovery at every stage of your ancova analysis of covariance more dependent variables manova and mancova wrapup
 
 logistic regression
 investigate binomial logistic regression a type of regression analysis that classifies data into two categories how to build a binomial logistic regression model and how data professionals use this type of model to gain insights from their data
 welcome to find the best logistic regression model for your data construct a logistic regression model with python evaluate a binomial logistic regression model key metrics to assess logistic regression results interpret the results of a logistic regression answer questions with regression models wrapup
 
-endofcourse
-complete an endofcourse by building a regression model to analyze a workplace scenario dataset
-welcome to leah strategies for sharing models and modeling techniques introduction to your endofcourse portfolio endofcourse wrapup and tips for ongoing success wrapup
+endofcourse project
+complete an endofcourse project by building a regression model to analyze a workplace scenario dataset
+welcome to leah strategies for sharing models and modeling techniques introduction to your endofcourse portfolio project endofcourse project wrapup and tips for ongoing success wrapup
 </DOC>
 
 <DOC>
-the nuts and bolts of machine
-this is the sixth of seven courses in the google advanced data analytics about machine which uses algorithms and statistics to teach computer systems to discover patterns in data data professionals use machine to help analyze large amounts of data solve complex problems and make accurate predictions focus on the two main types of machine supervised and unsupervised how to apply different machine models to business problems and become familiar with specific models such as naive bayes decision tree random forest and more google employees who currently in the field will guide you through this by providing handson activities that simulate relevant tasks sharing examples from their daytoday and helping you enhance your data analytics to prepare for your learners who complete the seven courses will have the needed to apply for data science and advanced data analytics jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this apply feature engineering techniques using python construct a naive bayes model describe how unsupervised differs from supervised code a kmeans algorithm in python evaluate and optimize the results of kmeans model explore decision tree models how they and their advantages over other types of supervised machine characterize bagging in machine specifically for random forest models distinguish boosting in machine specifically for xgboost models explain tuning model parameters and how they affect performance and evaluation metrics
+the nuts and bolts of machine learning
+this is the sixth of seven courses in the google advanced data analytics about machine learning which uses algorithms and statistics to teach computer systems to discover patterns in data data professionals use machine learning to help analyze large amounts of data solve complex problems and make accurate predictions focus on the two main types of machine learning supervised and unsupervised how to apply different machine learning models to business problems and become familiar with specific models such as naive bayes decision tree random forest and more
+google employees who currently in the field will guide you through this by providing handson activities that simulate relevant tasks sharing examples from their daytoday and helping you enhance your data analytics to prepare for your learners who complete the seven courses will have the needed to apply for data science and advanced data analytics jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this apply feature engineering techniques using python construct a naive bayes model describe how unsupervised learning differs from supervised learning code a kmeans algorithm in python evaluate and optimize the results of kmeans model explore decision tree models how they and their advantages over other types of supervised machine learning characterize bagging in machine learning specifically for random forest models distinguish boosting in machine learning specifically for xgboost models explain tuning model parameters and how they affect performance and evaluation metrics
 
-the different types of machine
-start by exploring the basic concepts of machine and the role of machine in data science then review the four main types of machine supervised unsupervised reinforcement and deep
-introduction to susheela delight people with data welcome to the main types of machine determine when features are infinite categorical features and classification models guide user interest with recommendation systems equity and fairness in machine build ethical models python for machine different types of python ides more about python packages resources to answer programming questions your machine team samantha connect to the data community wrapup
+the different types of machine learning
+start by exploring the basic concepts of machine learning and the role of machine learning in data science then review the four main types of machine learning supervised unsupervised reinforcement and deep learning
+introduction to susheela delight people with data welcome to the main types of machine learning determine when features are infinite categorical features and classification models guide user interest with recommendation systems equity and fairness in machine learning build ethical models python for machine learning different types of python ides more about python packages resources to answer programming questions your machine learning team samantha connect to the data community wrapup
 
 workflow for building complex models
-how data professionals use a structured workflow for machine identify the main steps of the workflow and the importance of each step in the overall process then how to apply specific machine models to business problems
-welcome to pace in machine plan for a machine ganesh overcome challenges and from your mistakes analyze data for a machine model introduction to feature engineering solve issues that come with imbalanced datasets feature engineering and class balancing introduction to naive bayes construct a naive bayes model with python key evaluation metrics for classification models wrapup
+how data professionals use a structured workflow for machine learning identify the main steps of the workflow and the importance of each step in the overall process then how to apply specific machine learning models to business problems
+welcome to pace in machine learning plan for a machine learning project ganesh overcome challenges and from your mistakes analyze data for a machine learning model introduction to feature engineering solve issues that come with imbalanced datasets feature engineering and class balancing introduction to naive bayes construct a naive bayes model with python key evaluation metrics for classification models wrapup
 
-unsupervised techniques
-more about one of the major types of machine unsupervised begin by exploring the difference between supervised and unsupervised techniques and the benefits and uses of each approach then how to apply two unsupervised machine models clustering and kmeans
+unsupervised learning techniques
+more about one of the major types of machine learning unsupervised learning begin by exploring the difference between supervised and unsupervised techniques and the benefits and uses of each approach then how to apply two unsupervised machine learning models clustering and kmeans
 welcome to introduction to kmeans use kmeans for color compression with python key metrics for representing kmeans clustering inertia and silhouette coefficient metrics apply inertia and silhouette score with python wrapup
 
 treebased modeling
-next focus on supervised how to test and validate the performance of supervised machine models such as decision tree random forest and gradient boosting
+next focus on supervised learning how to test and validate the performance of supervised machine learning models such as decision tree random forest and gradient boosting
 welcome to treebased modeling build a decision tree with python tune a decision tree verify performance using validation tune and validate decision trees with python bootstrap aggregation explore a random forest tuning a random forest build and crossvalidate a random forest model with python build and validate a random forest model using a validation data set introduction to boosting adaboost gradient boosting machines tune a gbm model build an xgboost model with python wrapup
 
-endofcourse
-complete the final endofcourse by applying different machine models to a workplace scenario dataset
-welcome to uri impress interviewers with your unique solutions introduction to your endofcourse portfolio endofcourse wrapup and tips for ongoing success wrapup
+endofcourse project
+complete the final endofcourse project by applying different machine learning models to a workplace scenario dataset
+welcome to uri impress interviewers with your unique solutions introduction to your endofcourse portfolio project endofcourse project wrapup and tips for ongoing success wrapup
 </DOC>
 

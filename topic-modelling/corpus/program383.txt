@@ -1,11 +1,16 @@
 <DOC>
 privacy fundamentals
-the privacy fundamentals introduces students to fundamental privacy concepts frameworks and lawsthis provides students with a foundational knowledge of important information privacy concepts and topics and introduces students to several privacyrelated frameworks guidance and standards used globally applied projectthere are no for this students will have an to validate their knowledge gained throughout each of the courses with practice and graded assessments at the end of each and for each practice and graded assessments are used to validate and demonstrate
+the privacy fundamentals introduces students to fundamental privacy concepts frameworks and laws
+this provides students with a foundational knowledge of important information privacy concepts and topics and introduces students to several privacyrelated frameworks guidance and standards used globally
+
+
+
+there are no projects for this students will have an to validate their knowledge gained throughout each of the courses with practice and graded assessments at the end of each and for each practice and graded assessments are used to validate and demonstrate learning
 </DOC>
 
 <DOC>
 introduction to privacy part
-this will explore how to create a privacy including the dangers challenges and methods we will also explore concepts like privacy governance privacy frameworks and discuss existing legal standards and frameworks that can be utilized to build your privacy
+this will explore how to create a privacy including the dangers challenges and methods also explore concepts like privacy governance privacy frameworks and discuss existing legal standards and frameworks that can be utilized to build your privacy
 
 developing a privacy
 
@@ -26,7 +31,7 @@ where is safe and why international transfers justifying transfers international
 
 <DOC>
 introduction to privacy part
-part of the privacy fundamentals will cover data assessments documentation and privacy rights we will also explore different training methods including competency based training
+part of the privacy fundamentals will cover data assessments documentation and privacy rights also explore different training methods including competency based training
 
 data assessments
 
@@ -47,7 +52,7 @@ training approach training and awareness methods
 
 <DOC>
 fundamental privacy acts and laws
-path we will explore the us federal government branch and information privacy we will also cover us healthcare privacy related laws and privacy compliance including hipaa hitech gina and more
+path explore the us federal government branch and information privacy also cover us healthcare privacy related laws and privacy compliance including hipaa hitech gina and more
 
 the us federal government branch and information privacy
 
@@ -64,7 +69,7 @@ introduction to several global data protection and information privacy laws eu g
 
 <DOC>
 introduction to privacy part
-part of the privacy fundamentals explores information security and data protection and how to manage a security breach we will also take a look at continual improvement which includes understanding performance exploring metrics different audit methodologies and more
+part of the privacy fundamentals explores information security and data protection and how to manage a security breach also take a look at continual improvement which includes understanding performance exploring metrics different audit methodologies and more
 
 information security and protection of data
 
@@ -72,7 +77,7 @@ appropriate security security breaches and notifications iso standards
 
 managing a security breach
 
-incident detection incident assessment incident response from incidents
+incident detection incident assessment incident response learning from incidents
 
 continual improvement
 

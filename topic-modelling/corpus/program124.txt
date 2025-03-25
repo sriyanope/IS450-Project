@@ -1,92 +1,100 @@
 <DOC>
-engineering management
-todays environment is highly competitive continuously changingopens in a new tab and difficult to manage employees rarely reach positions of leadership without managing one or more or a segment early in their brought to you by the rice center of engineering leadership and team behind the engineering management masters programopens in a new tab the goal of this is to give you the tools to more effectively and successfully manage to give you a solid foundation of knowledge and confidence that sets you apart and gives you a competitive edge as you move toward leadership positionsthis management for engineering professionals is designed as an introduction to management it is targeted for engineers who are interested in improving their management in a new leadership positionopens in a new tab or in advance of their first leadership position as part of the prepare key execution plan documents based on available templates applied projectas part of the learners will review an engineering case study and prepare a charter a stakeholder engagement matrix statement of breakdown structure schedule estimate risk matrix and cause and effect diagram based on the facts of the case the learners will also be asked to calculate progress based on the earned value method
+engineering project management
+todays environment is highly competitive continuously changingopens in a new tab and difficult to manage employees rarely reach positions of leadership without managing one or more projects or a project segment early in their
+brought to you by the rice center of engineering leadership and team behind the engineering management masters programopens in a new tab the goal of this is to give you the tools to more effectively and successfully manage projects
+to give you a solid foundation of knowledge and confidence that sets you apart and gives you a competitive edge as you move toward leadership positions
+this project management for engineering professionals is designed as an introduction to project management it is targeted for engineers who are interested in improving their project management in a new leadership positionopens in a new tab or in advance of their first leadership position as part of the prepare key project execution plan documents based on available templates
+
+as part of the learners will review an engineering case study and prepare a project charter a stakeholder engagement matrix statement of breakdown structure project schedule project estimate project risk matrix and project cause and effect diagram based on the facts of the case the learners will also be asked to calculate project progress based on the earned value method
 </DOC>
 
 <DOC>
-engineering management scope time and cost management
-scope time and cost management are at the heart of successful management this will give you the tools to develop a scope schedule and budget and then status them to predict performance throughout the about change management and techniques to implement it by the end of this be able to create a requirements document create a scope statement identify ways to control the scope of the decompose the and develop packages create a breakdown structure develop a critical path schedule review types of cost estimates and identify whether they are top down or bottom up review budgets contingencies and reserves calculate planned and earned values to compare with actual cost perform a cost and schedule analysis each prepare a key deliverable for the plan based on a provided case study these deliverables include scope statement breakdown structure wbs and wbs dictionary critical path schedule sequence diagram bar chart schedule gantt chart cost estimate status using an earned value calculation all of this will position you to set up a plan to control your next or your next whether this is as the manager or as an area leader rice center for engineering leadership is a registered education provider through the management institute pmi learners who complete this on the track will be awarded hours of profession development units these are recognized by pmi for continuing education or can be applied toward the hours of education required for the management pmp certification pmi and pmp are registered marks of the management institute inc
+engineering project management scope time and cost management
+scope time and cost management are at the heart of successful project management this will give you the tools to develop a project scope schedule and budget and then status them to predict project performance throughout the about change management and techniques to implement it
+by the end of this be able to create a requirements document create a project scope statement identify ways to control the scope of the project decompose the and develop packages create a breakdown structure develop a critical path schedule review types of cost estimates and identify whether they are top down or bottom up review budgets contingencies and reserves calculate planned and earned values to compare with actual cost perform a cost and schedule analysis each prepare a key deliverable for the project plan based on a provided case study these deliverables include project scope statement project breakdown structure wbs and wbs dictionary critical path schedule sequence diagram bar chart schedule gantt chart project cost estimate project status using an earned value calculation all of this will position you to set up a plan to control your next or your next project whether this is as the project manager or as an area leader rice center for engineering leadership is a registered education provider through the project management institute pmi learners who complete this on the track will be awarded hours of profession development units these are recognized by pmi for continuing education or can be applied toward the hours of education required for the project management pmp certification pmi and pmp are registered marks of the project management institute inc
 
 introduction
 
 meet the professors introduction to
 
-scope management
+project scope management
 quizzes peer review discussion prompts
-introduction and objectives scope development part scope development part requirements development scope control process kaz and tom weekly conclusion overview
+introduction and objectives scope development part scope development part requirements development scope control process kaz and tom weekly conclusion
 
-schedule management
+project schedule management
 peer review discussion prompt
-introduction and objectives what is a wbs packages steps for creating a wbs case wbs kaz and toms weekly conclusions overview
+introduction and objectives what is a wbs packages steps for creating a wbs case wbs kaz and toms weekly conclusions
 
-time management
+project time management
 quizzes peer review discussion prompt
-introduction and objectives time management critical path method overview types of diagrams activity on node example finding critical path forward pass diagram backward pass diagram total slack free slack things that can go wrong strategies for dealing tools and conclusion kaz and tom weekly conclusion overview
+introduction and objectives time management critical path method types of diagrams activity on node example finding critical path forward pass diagram backward pass diagram total slack free slack things that can go wrong strategies for dealing tools and conclusion kaz and tom weekly conclusion
 
 cost estimation
 quizzes peer review discussion prompt
-introduction and objectives preparing an estimate estimate bases type of estimates cost baseline kaz and tom weekly conclusion overview
+introduction and objectives preparing an estimate estimate bases type of estimates cost baseline kaz and tom weekly conclusion
 
 earned value management
 quizzes peer review discussion prompt
-introduction and objectives monitoring our calculating earned value calculating earned value creating a forecast kaz and tom weekly overview overview
+introduction and objectives monitoring our project calculating earned value calculating earned value creating a forecast kaz and tom weekly
 
 final exam
 quiz
 </DOC>
 
 <DOC>
-engineering management initiating and planning
-the goal of the is to give you the tools to initiate a plan manage both stakeholders and relationships organize their team develop a charter and build a business case for a by the end of this be able to perform a assessment using information from previous and lessons learned identify key deliverables based on business requirements while managing customer expectations perform a stakeholder analysis and create a management plan analyze and develop a organization create a charter explain the business case for a and calculate net present value inform stakeholders of the charter and ensure all parties know the deliverables and expectations as part of the prepare organization charts create a stakeholder register and write a charter based on an engineering in a provided case study the stakeholder register will outline the key parties to the their concerns and how manage their expectations your charter will provide the key guidance your team needs to understand the scope requirements and purpose for the all of this will position you for initiating and planning your first andor understanding how you can maximize your contributions on your next team rice center for engineering leadership is a registered education provider through the management institute pmi learners who complete this on the track will be awarded hours of profession development units these are recognized by pmi for continuing education or can be applied toward the hours of education required for the management pmp certification pmi and pmp are registered marks of the management institute inc
+engineering project management initiating and planning
+the goal of the is to give you the tools to initiate a project plan manage both stakeholders and relationships organize their team develop a project charter and build a business case for a project
+by the end of this be able to perform a project assessment using information from previous projects and lessons learned identify key deliverables based on business requirements while managing customer expectations perform a stakeholder analysis and create a management plan analyze and develop a project organization create a project charter explain the business case for a project and calculate net present value inform stakeholders of the charter and ensure all parties know the deliverables and expectations as part of the prepare organization charts create a stakeholder register and write a project charter based on an engineering project in a provided case study the stakeholder register will outline the key parties to the project their concerns and how manage their expectations your project charter will provide the key guidance your team needs to understand the scope requirements and purpose for the project all of this will position you for initiating and planning your first project andor understanding how you can maximize your contributions on your next project team rice center for engineering leadership is a registered education provider through the project management institute pmi learners who complete this on the track will be awarded hours of profession development units these are recognized by pmi for continuing education or can be applied toward the hours of education required for the project management pmp certification pmi and pmp are registered marks of the project management institute inc
 
 introduction
-during this meet the instructors review outline and discuss grading and the requirements in addition we will review a preselected case that will be used throughout the and discuss grading
+during this meet the instructors review outline and discuss grading and the requirements in addition review a preselected case that will be used throughout the and discuss grading
 meet the professors introduction to
 
-management overview
-what is a management manager and where do you start
-introduction and objectives introduction to management key elements of management and portfolio management ethics ethics process kaz and tom weekly conclusion
+project management
+what is a project project management project manager and where do you start
+introduction and objectives introduction to project management key elements of project management and portfolio management ethics ethics process kaz and tom weekly conclusion
 
-organizations
-you have become the manager of a now you have to organize your team
-introduction and objectives organizations introduction organizations matrix organizations projectoriented how to select an organization management processes pm as a leader kaz and tom weekly conclusion case introduction and overview organization chart
+project organizations
+you have become the manager of a project now you have to organize your team
+introduction and objectives project organizations introduction project organizations matrix project organizations projectoriented how to select an organization project management processes pm as a leader kaz and tom weekly conclusion case introduction and project organization chart
 
-communications and stakeholder management
-who do you need to consider while organizing your and how will they communicate
-intro and objectives defining stakeholders identifying stakeholders stakeholder management plan managing stakeholder engagement monitoring stakeholder engagement kaz and tom weekly conclusion stakeholder register
+project communications and stakeholder management
+who do you need to consider while organizing your project and how will they communicate
+intro and objectives defining stakeholders identifying stakeholders stakeholder management plan managing stakeholder engagement monitoring stakeholder engagement kaz and tom weekly conclusion project stakeholder register
 
-integration management
+project integration management
 peer review discussion prompt
-introduction and objectives developing a charter the charter itself management plan manage and control kaz and tom weekly conclusion charter
+introduction and objectives developing a project charter the project charter itself project management plan manage and control kaz and tom weekly conclusion project charter
 
 case study and deliverables
-review the case study apply lessons learned about management and submit a plan after you submit the plan peer review the plans of three classmates
+review the case study apply lessons learned about project management and submit a project plan after you submit the plan peer review the plans of three classmates
 peer review conclusion
 </DOC>
 
 <DOC>
-engineering management risk quality teams and procurement
-many managers focus only on the scope schedule and budget however a successful requires that you manage risk control the quality of the deliverables engage and manage people and procure goods and services this will focus on these key support functions that make the difference between a highly successful and an average one during the prepare a qualitative risk analysis and evaluate the cost of quality for a provided case studyby the end of this be able to identify positive and negative risks develop risk strategies perform a qualitative risk analysis identify cost contingencies and reserves develop a quality plan identify quality standards utilize cause and effect tools create a prioritization matrix develop a team management plan that includes team development identifying team members and clarifies roles and responsibilities develop a procurement plan that includes contracts and incentives all of this will position you to understand the more intangible aspects of management to drive better overall performance rice center for engineering leadership is a registered education provider through the management institute pmi learners who complete this on the track will be awarded hours of profession development units these are recognized by pmi for continuing education or can be applied toward the hours of education required for the management pmp certification pmi and pmp are registered marks of the management institute inc
+engineering project management risk quality teams and procurement
+many project managers focus only on the scope schedule and budget however a successful project requires that you manage risk control the quality of the deliverables engage and manage people and procure goods and services this will focus on these key support functions that make the difference between a highly successful project and an average one during the prepare a qualitative risk analysis and evaluate the cost of quality for a provided case study
+by the end of this be able to identify positive and negative risks develop risk strategies perform a qualitative risk analysis identify cost contingencies and reserves develop a quality plan identify quality standards utilize cause and effect tools create a prioritization matrix develop a team management plan that includes team development identifying team members and clarifies roles and responsibilities develop a procurement plan that includes contracts and incentives all of this will position you to understand the more intangible aspects of project management to drive better overall performance rice center for engineering leadership is a registered education provider through the project management institute pmi learners who complete this on the track will be awarded hours of profession development units these are recognized by pmi for continuing education or can be applied toward the hours of education required for the project management pmp certification pmi and pmp are registered marks of the project management institute inc
 
 introduction
 
 meet the professors introduction to
 
-risk management
+project risk management
 peer review discussion prompts
-introduction and objectives risk management processes identifying risks developing a risk management plan analyze and prioritize risks develop risk responses kaz and tom weekly conclusion overview
+introduction and objectives risk management processes identifying risks developing a risk management plan analyze and prioritize risks develop risk responses kaz and tom weekly conclusion
 
 quality assurance plan
 peer review discussion prompt
-introduction and objectives what is quality management quality management plan cost of quality tools for assessing quality control quality kaz and tom weekly conclusion overview
+introduction and objectives what is quality management quality management plan cost of quality tools for assessing quality control quality kaz and tom weekly conclusion
 
 human resources management
 reading discussion prompt
-introduction and objectives resource management plan resource management estimate activity resources acquire resources develop team manage team control resources kaz and tom weekly conclusion
+introduction and objectives project resource management plan resource management estimate activity resources acquire resources develop team manage team control resources kaz and tom weekly conclusion
 
-procurement management
+project procurement management
 reading discussion prompt
-introduction and objectives procurement management procurement plan contract types executing procurement kaz and tom weekly conclusion
+introduction and objectives project procurement management project procurement plan contract types executing procurement kaz and tom weekly conclusion
 
 final exam
 

@@ -1,0 +1,59 @@
+<DOC>
+java testing
+this is intended for students interested to java testing mocking improving their java code developing testfirst java artifacts and building quality enterprise applications there are four courses in the each takes two weeks and about hours of study time each
+
+students will utilize handson labs to experiment and then create their own coding and testing with available stepbystep to help them along the way robust activities and class discussions help students build and retain knowledge through the courses
+</DOC>
+
+<DOC>
+parameterized and dynamic testing in junit
+about how to test vast amounts of functionality using parameterized tests repeated tests and dynamic tests without having to write verbose test scripts
+
+parameterized testing
+create reuseable tests that cbna be used for bulf data driven testing through the use of parameterized tests
+instructor introduction parameterized testing lab walkthrough argument sources more argument sources repeated tests lab walkthrough part lab walkthrough part lab walkthrough part
+
+dynamic tests
+this will look at junit dynamic test capabilities using junit factory methods for generating tests rather than static test methods
+dynamic testing lab walkthrough
+</DOC>
+
+<DOC>
+of junit testing
+this is a basic introduction to junit covering the essential techniques for testing java code
+
+testing with junit
+this will introduce the student to the benefits of unit testing and the basics of creating and running junit tests
+welcome what is junit junit how to test with junit junit methods running tests lab instructions lab walkthrough
+
+more junit features
+the student will about how to enhance their unit tests use data driven testing techniques such as parameterized tests
+display name group assertions parameterized tests lab instructions lab walkthrough lab walkthrough lab walkthrough
+</DOC>
+
+<DOC>
+java testing an introduction to tdd
+test driven development tdd is an industry accepted technique to build enterprise applications and enhance quality this will introduce a test first approach for the development of java artifacts and explain the benefits of adopting such a technique
+
+a test first approach
+using a test first approach to development
+instructor introduction tdd with junit tdd tdd benefits lab lab walkthrough
+
+core principles of tdd
+this will explain the key principals of test driven development tdd
+tdd best practices tdd practices cont tdd metaphors lab walkthrough
+</DOC>
+
+<DOC>
+mocking with junit
+this gives a foundational knowledge in mocking what is mocking why mock and how to mock are all questions that will be answered
+
+mocking objects
+this is an introduction to mocking objects and why you would want to use mocks
+instructor introduction mock testing how to use mock objects putting it all together best practices lab walkthrough
+
+using a mock object controller
+reading ungraded lab plugin
+mock object controller lab walkthrough conclusion
+</DOC>
+

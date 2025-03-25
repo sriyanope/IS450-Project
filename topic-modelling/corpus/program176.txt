@@ -1,136 +1,103 @@
 <DOC>
-habilidades gerenciales
-este programa especializado est dirigido a personas que trabajen en instituciones pblicas yo privadas que ocupan un puesto en mandos medios o superiores que deseen mejorar notablemente su desempeo directivo tambin es para cualquier persona que desea desarrollar su potencial y prepararse para ocupar puestos en niveles gerencialesapplied projectel programa especializado en habilidades gerenciales te permitir desarrollar competencias integrales para desempear un puesto de mando de cualquier nivel y tipo de organizacin est dividido en seis mdulos didcticos diseados con vdeos ejercicios y actividades que de una manera sencilla y clara te describen los elementos estructurales de la funcin directiva haciendo nfasis en los aspectos esenciales y tcnicos de cada uno de los temas al final del programa habrs entendido mucho mejor tu rol directivo en tu empresa y la importancia de tu contribucin la que concretars a lo largo del programa en un proceso de desarrollo personal e institucional
+vital for data science
+vital for data science introduces students to several areas that every data scientist should be familiar with each of the topics is a field in itself this provides a taste of each of these areas which will allow the student to determine if any of these areas is something they want to explore further students will about different applications of data science and how to apply the steps in a data science process to real life data they will be introduced to the ethical questions every data scientist should be aware of when doing an analysis the field of cybersecurity makes the data scientist aware of how to protect their data from loss
+this can be taken for academic credit as part of cu boulders master of science in data science msds degree offered on the coursera platform the msds is an interdisciplinary degree that brings together faculty from cu boulders departments of applied mathematics computer science information science and others with performancebased admissions and no application process the msds is ideal for individuals with a broad range of undergraduate education andor in computer science information science mathematics and statistics more about the msds at httpswwwcourseraorgdegreesmasterofsciencedatascienceboulderopens in a new tabhttpswwwcourseraorgdegreesmasterofsciencedatascienceboulderopens in a new tab
+logo image by jj yingopens in a new tab on unsplashopens in a new tab
+
+projects will encourage students to engage in ethical discussions hone networking address cybersecurity threats and explore the world of data science these projects will help students develop an understanding of the field and gain that will help them be successful
 </DOC>
 
 <DOC>
-administracin para obtener resultados
-la planeacin estratgica es una metodologa de gran impacto que ha demostrado su eficacia en las mejores empresas del mundo en este curso revisaremos los principios bsicos de la estrategia organizacional que permiten definir objetivos y tcticas para delimitar indicadores y lneas de accin que generen y mantengan la calidad y productividad en todas la reas de una empresa
+cybersecurity for data science
+this aims to help anyone interested in data science understand the cybersecurity risks and the toolstechniques that can be used to mitigate those risks cover the distinctions between confidentiality integrity and availability introduce learners to relevant cybersecurity tools and techniques including cryptographic tools software resources and policies that will be essential to data science explore key tools and techniques for authentication and access control so producers curators and users of data can help ensure the security and privacy of the data
+this can be taken for academic credit as part of cu boulders master of science in data science msds degree offered on the coursera platform the msds is an interdisciplinary degree that brings together faculty from cu boulders departments of applied mathematics computer science information science and others with performancebased admissions and no application process the msds is ideal for individuals with a broad range of undergraduate education andor in computer science information science mathematics and statistics more about the msds at httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder
 
-principios de la estrategia organizacional
-el mdulo describe cada uno de los pasos que intervienen en el procesos de planeacin estratgica que a continuacin se enlistan estrategia organizacional misin visin diagnstico foda de la organizacin diseo de objetivos y estrategias indicadores de resultados
-bienvenida principios de la estrategia organizacional
+basic cybersecurity concepts and principles
+the basics of cybersecurity and the cia triad
+introduction introduce the cia triad and cybersecurity basics linkedin and twitter for professionals join linkedin cybersecurity group and post
 
-establecimiento de objetivos y diseo de estrategias
-en este mdulo logrars identificar la importancia de los objetivos estratgicos en la obtencin de los resultados organizacionales la metodologa pertinente para su diseo as como la elaboracin de estrategias que permitan su alcance
+your cyber story and your public data profile
+explore your cyber story and examine your pubic data profile
+digital reputation and cyberstory google yourself passwords and cybersecuirty basic cryptography and encryption
 
-establecimiento y alineacin de indicadores
-a lo largo de este mdulo identificars la importancia de disear indicadores cuantificables para medir y dar un seguimiento objetivo a tus acciones de planeacin estratgica encontrars ejemplos que te servirn de modelo para el diseo de los indicadores de tu empresa
+wifi iot hacking data breaches and social engineering
+this explores the world of hacking iot and social engineering
+hacking white hat grey hat and black hat hackers iot social engineering
 
-como mantener la calidad y la mejora continua en la empresa
-con este mdulo cerramos el curso administracin para obtener resultados enfocndonos en la importancia de que la empresa mantenga un nivel competitivo que garantice su supervivencia en un mercado cada vez ms exigente para lo cual partimos de emplear instrumentos orientados a satisfacer lasa necesidades del principal accionista de la empresa el cliente para hacerlo describimos los conceptos de los procesos de calidad y mejora continua para que ests en condiciones de generar una cultura de calidad y competitividad en tu empresa
+the ethics of cyber security
+this session students will leverage social media to connect with cybersecurity experts and explore the ethics around cybersecurity and data
+facial recognition and big brother getting yourself out there on linkedin and twitter
+
+cybersecurity expert interview
+connect with a cybersecurity expert interview the contact submit the text audio or of the interview and reflect on the and knowledge gained
+cybersecurity interview questions cybersecurity interview guidance cybersecurity interview reflection
 </DOC>
 
 <DOC>
-gestin del talento humano
-el curso aborda la organizacin desde una perspectiva sistmica en donde todos los elementos interactan para lograr un resultado productivo se enfatiza la importancia de habilidades gerenciales para lograr estos propsitos realizars ejercicios para potencializar tus niveles de inteligencia emocional y comunicacin asertiva implicando a tus colaboradores en el desarrollo de estas habilidades sto con el fin de generar climas laborales en donde la confianza motivacin y respeto sean actitudes cotidianas
+data science as a field
+this provides a general introduction to the field of data science it has been designed for aspiring data scientists content experts who with data scientists or anyone interested in learning about what data science is and what its used for weekly topics include an of the needed to be a data scientist
+the process and pitfalls involved in data science
+and the practice of data science in the and academic world this is part of cu boulders masters of science in data science and was collaboratively designed by both academics and industry professionals to provide learners with an insiders perspective on this exciting evolving and increasingly vital discipline
+data science as a field can be taken for academic credit as part of cu boulders master of science in data science msds degree offered on the coursera platform the msds is an interdisciplinary degree that brings together faculty from cu boulders departments of applied mathematics computer science information science and others with performancebased admissions and no application process the msds is ideal for individuals with a broad range of undergraduate education andor in computer science information science mathematics and statistics more about the msds at httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder
 
-comportamiento humano en las organizaciones
-este mdulo te dar informacin sobre la forma en como interactan los personas en las organizaciones y de la importancia para el directivo que tiene identificar como los elementos organizacionales influyen en la conducta humana y generan instituciones exitosas o no
-introduccin comportamiento humano en las organizaciones
+introduction to data science the past present and future of a new discipline
+talk about the past present and future of data science the growth of data science has been fueled by the growth of the internet social media and online shopping as as by the rapid increases in data storage capabilities watch several short and participate in discussions about the future of data science
+data science as a field introduction where does data science come from the current state of the field where is data science going
 
-dinmica de los grupos laborales
-es fundamental para el directivo el manejo de los elementos que interactan en la dinmica de los grupos laborales para obtener sinerga positiva en nuestra organizacin este mdulo nos proporcionar estas herramientas que facilitarn nuestro desempeo gerencial
+data science in industry government and academia
+watch and have a reading on some applications of data science in industry and academia hear from data scientists in different fields to find out how they use data science
+introduction to data science in business industry and the world brian brown rinaldo maldera natalie jackson vilja hulden robin burke seth spielman katharina kann dan larremore
 
-inteligencia emocional
-actualmente algunas organizaciones han comprendido la importancia que tiene aprovechar la expresin de los sentimientos del ser humano en este tema profundizaremos en como desarrollar estas competencias para generar un desempeo directivo ms integral
+data science process and pitfalls
+about the importance of reproducibility and how to achieve it the steps in a data analysis process and about the possible pitfalls in data science watch demonstrating the various steps in the data science process and try out these processes for yourself on a different dataset
+importance and process of reproducibility knit to pdf intro to r markdown of steps in the data science process importing data tidying and transforming data visualizing data analyzing data modeling data bias sources intro to data ethics with bobby schnabel
 
-comunicacin asertiva
-la claridad en la comunicacin del directivo es fundamental para guiar a su organizacin a alcanzar sus objetivos la asertividad es un instrumento que nos permitir mejorar nuestra comunicacin con el equipo respetando y aprovechando las cualidades de cada persona por lo que al concluir el curso estars en posibilidades de tener una autoestima sana y un clima laboral productivo y cordial
+communicating your results
+about important ways of communicating your results discuss the important things to know about presentations and reports also about the importance of networking and try it out
+dos and donts for good reports and presentations cu boulders ms in data science where to go from here
 </DOC>
 
 <DOC>
-orden y manejo del tiempo
-en este curso realizars varios ejercicios para diagnosticar y desarrollar destrezas para el manejo efectivo de tu tiempo al clasificar prioridades y necesidades de la empresapor otra parte desarrollars habilidades para fortalecer una actitud de orden y respeto por las normas y procedimientos de trabajo valorando la importancia de contar con un clima organizado en donde todo el equipo se siente cmodo y sabe dnde encontrar los materiales relacionados con el trabajo del rea
+ethical issues in data science
+computing applications involving large amounts of data the domain of data science impact the lives of most people in the us and the world these impacts include recommendations made to us by internetbased systems information that is available about us online techniques that are used for security and surveillance data that is used in health care and many more in many cases they are affected by techniques in artificial intelligence and machine learning
+this examines some of the ethical issues related to data science with the fundamental objective of making data science professionals aware of and sensitive to ethical considerations that may arise in their careers it does this through a combination of discussion of ethical frameworks examination of a variety of data science applications that lead to ethical considerations reading current media and scholarly articles and drawing upon the perspectives and of fellow students and computing professionals ethical issues in data science can be taken for academic credit as part of cu boulders master of science in data science msds degree offered on the coursera platform the msds is an interdisciplinary degree that brings together faculty from cu boulders departments of applied mathematics computer science information science and others with performancebased admissions and no application process the msds is ideal for individuals with a broad range of undergraduate education andor in computer science information science mathematics and statistics
 
-importancia del orden en el rea de trabajo
-en este curso tendrs la oportunidad de conocer el proceso administrativo que nos permite incorporar en nuestra actuacin un sistema estructurado para lograr nuestros objetivos personales y empresariales y medir su resultados
-bienvenida importancia del orden en el rea de trabajo
+ethical foundations
+this begins with an introduction to the including motivation for the topic the goals what topics the will cover and what is expected of the students it then reviews the three ethical frameworks that are most commonly applied to ethical discussions in data science and computing kantianismdeontology virtue ethics and utilitarianism case studies are used to illustrate the application and properties of these frameworks
+introduction to ethical issues in data science part introduction to ethical issues in data science part ethical foundations i ethical foundations ii review and reflect
 
-un lugar para cada cosa y cada cosa en su lugar fayol
-en este tema realizaremos un anlisis de catorce principios que permiten a todo tipo de organizacin funcionar con claridad orden y un clima laboral de equipo y bienestar para la empresa
+internet privacy and security
+this begins with some background about the internet which is the foundation for most of the topics that we study it then discusses the two most basic ethical issues in using the internet privacy and security in the context of data science it goes through a number of real case studies and examples for each to illustrate the diversity of issues
+internet background and implications for privacy and security privacy part privacy part security causes and types of breaches part security causes and types of breaches part
 
-mtodo para lograr el orden en todas las reas de la organizacin
-a travs de este modulo comprenders la importancia de mantener un orden en tu rea de trabajo aplicando el mtodo de las s obteniendo as un impacto directo en la organizacin y orden de materiales equipos de trabajo y limpieza
+ethics
+this provides insight into the ethical issues in the data science profession and workplace as opposed to technical topics in data science it starts with discussion of two highly relevant codes of ethics from societies in statistics and in computing it then looks at a variety of recent workplace ethics issues in tech companies a key part of this is interviewing a data science about ethical issues they have encountered in their
+society codes of ethics contemporary ethical issues from tech companies part contemporary ethical issues from tech companies part sharing of data science computing professionals
 
-importancia del tiempo del directivo y su equipo
-en este curso reflexionaremos sobre la relevancia que tiene el aprovechamiento y la administracin efectiva del tiempo ya que en muchas ocasiones no somos conscientes de que el tiempo es vida y dejamos que esta se nos vaya
+algorithmic bias
+algorithmic bias may be the topic that people associate most with ethical issues in data science this begins by providing some general background on algorithmic bias and considering varying views on the pros and cons of algorithmic vs human decision making it then reviews an illustrative set of examples of algorithmic bias related to gender and race which is a particularly important class of instances of algorithmic bias the final part of the discusses what is perhaps the single most prominent and discussed instance of algorithmic decision making and bias facial recognition
+perspectives on algorithmic bias part perspectives on algorithmic bias part algorithmic bias related to gender and race part algorithmic bias related to gender and race part facial recognition part facial recognition part
 
-diagnstico personal y organizacional de administracin del tiempo
-en este curso utilizars la matriz de la administracin del tiempo para realizar tu diagnostico personal y organizacional de la efectividad con la que manejas este recurso
-
-tcnicas efectivas para la administracin del tiempo
-aplicars la tcnica gtd getting things done de david allen en la planeacin de una semana de trabajo para identificar su efectividad y de esta manera lo apliques con seguridad en tu vida y en tu trabajo
-tcnicas efectivas para la administracin del tiempo parte tcnicas efectivas para la administracin del tiempo parte
+medical applications and implications
+data science is applied to a wide variety of important application areas each with their own ethical issues this focuses on an application area that is both particularly important and leads to a rich set of ethical issues medical applications this includes looking at current issues involved with health databases and the uses of artificial intelligence in healthcare and more futuristic issues gene editing and neurological interventions the concludes with a crucial topic that every data science profession should consider the implications of the fields of data science and computing on the future of human
+data science in health care part data science in health care part gene editing and neurological interventions part gene editing and neurological interventions part the future of part the future of part
 </DOC>
 
 <DOC>
-autoridad direccin y liderazgo
-en este curso identificars las principales responsabilidades y actividades que realiza un directivo en cualquier nivel de mando revisars ejemplos que reflejan la importancia del ejercicio del liderazgo resaltando el valor del manejo adecuado de la comunicacin toma de decisiones motivacin delegacin supervisin y coordinacin del equipo de trabajo por otra parte reconocers los diferentes estilos de liderazgo y como stos deben ser utilizados dependiendo de las particularidades de cada situacin
+fundamentals of data visualization
+data is everywhere charts graphs and other types of information visualizations help people to make sense of this data this explores the design development and evaluation of such information visualizations by combining aspects of design computer graphics hci and data science gain handson with creating visualizations using exploratory tools and architecting data narratives topics include usercentered design webbased visualization data cognition and perception and design evaluation
+this can be taken for academic credit as part of cu boulders ms in data science or ms in computer science degrees offered on the coursera platform these fully accredited graduate degrees offer targeted courses short sessions and payasyougo tuition admission is based on performance in three preliminary courses not academic history cu degrees on coursera are ideal for recent graduates or working professionals
 
-habilidades gerenciales para un liderazgo efectivo
-en este mdulo apreciaremos la importancia de ser un lder profesional y comentaremos brevemente el programa especializado en habilidades gerenciales que hoy inicias
+basics of design
+the foundations of visualization design walk through the key components of a visualization how we effectively represent data using channels like color size and position and some ground rules for honest and effective visualization also gain preliminary exposure to altair a python library for rapidly generating interactive visualizations each will also include either two or one reading and one notebook activity
+why visualization a grammar of graphics introduction to altair hands on with altair part hands on with altair part mapping basics mapping tips color rules of thumb introduction to interaction interactions part interactions part
 
-la funcin directiva
-en este mdulo reconocers la importancia de la funcin directiva en las organizaciones sta es parte fundamental de la administracin de una institucin pblica o privada cualquiera que sea su misin o giro
+user needs
+how to choose the right visualization for a given scenario how to reason about the different kinds of questions people ask with visualization and how to align your design with that task the will cover basics of task analysis methods for task elicitation and foundational knowledge of visual perception for design each will also include two external or one reading and one notebook activity
+visualization tasks task elicitation basic design methods design studies perception preattention attention search uncertainty ethical questions
 
-ejercicio de la autoridad y naturaleza del poder
-en este mdulo discriminars entre los lderes que actan con un inters individualista para tener poder y dominar a los miembros de una organizacin y aquellos directivos que basan su desempeo en patrones ms democrticos buscando que las organizaciones cumplan con los objetivos sociales para los que fueron construidas
-
-elementos y medios de la direccin
-en el presente mdulo se describen los factores intrnsecos elementos a la funcin directiva stos definen claramente las competencias que un directivo tiene que reunir las competencias son autoridad comunicacin decisin y coordinacin asimismo se describen los medios a travs de los cuales la funcin directiva se realiza para el logro de los objetivos delegacin motivacin y supervisin
-elementos de la direccin parte elementos de la direccin parte medios de la direccin actividad complementaria
-
-importancia de la eleccin del estilo de liderazgo
-este mdulo presenta la definicin y anlisis del concepto de liderazgo as como los cuatro estilos de liderazgo con base en el modelo de liderazgo situacional despus de revisar la informacin logrars identificar tu estilo de liderazgo predominante
-
-perfil del lder efectivo
-este mdulo revisa el inventario de las competencias necesarias para desempear un liderazgo efectivo en situaciones especficas en cualquier organizacin en este mdulo identificars los componentes del perfil del directivo conocimientos habilidades y actitudes
-
-programa personal de desarrollo directivo
-finalizaremos nuestro curso con la integracin de tu proyecto de cambio personal para desarrollar tus habilidades como lder profesional que incluir los plazos que tu mismo te propongas para realizarlo
-</DOC>
-
-<DOC>
-solucin de problemas y toma de decisiones
-este curso ofrecido por la unam te presenta tcnicas que permiten entender las ventajas del pensamiento divergente creativo como una habilidad fundamental en la solucin de problemas revisa tambin la metodologa para manejar estilos participativos en la toma de decisiones asegurando la efectividad de las mismas y la aceptacin por parte del personal al ser tomado en cuenta
-
-concepto de problema
-en muchas ocasiones el directivo no alcanza a definir correctamente una situacin problemtica y confunde los elementos de la misma en este inicio del curso definiremos las caractersticas de un problema y a travs de un ejercicio desarrollaremos habilidades para lograr soluciones exitosas aplicando algunos de los principios del dr norman r f maier
-introduccin concepto del problema
-
-mtodo de exploracin de problemas
-al finalizar este mdulo habrs aplicado el mtodo de exploracin de problemas que te ser muy til para ubicar los obstculos que te impiden llegar a tus metas laborales y personales
-
-principios de solucin de problemas y direccin del pensamiento
-este mdulo te permitir aplicar algunos de los principios de direccin del pensamiento que aport el dr maier los cuales te ayudarn a manejar este proceso de una manera ms creativa sin las ideas habituales que no pueden ser evitadas cuando tratamos de solucionar un problema pero que s podemos relegar para buscar soluciones ms innovadoras
-
-el rea de libertad del directivo para la toma de decisiones td
-la definicin de los problemas a superar que un directivo tiene en sus manos es muy importante para evitar dar soluciones que no se apeguen a la realidad o que estn fuera de su nivel de autoridad esto le permitir canalizar sus esfuerzos y los de su equipo al resolver problemas reales y en su tramo de control
-
-procesos mentales en la td
-en este mdulo tendrs oportunidad de dejar de aplicar mtodos habituales para solucionar problemas como el de ensayo y error que adems pocas veces da resultado y adquirirs habilidad para analizar los problemas buscando todas las alternativas posibles antes de tomar la decisin
-
-elementos para involucrar al personal en la toma de decisiones
-en muchas ocasiones los directivos prefieren tomar las decisiones por s mismos sin hacer participar a su grupo y esto se debe a que carecen de habilidad para conducir sesiones para resolver problemas con sus equipos en este mdulo nos enfocaremos a que domines algunos principios para plantear en forma adecuada un problema a tus colaboradores
-
-aceptacin y calidad elementos bsicos para alcanzar una decisin efectiva e integral
-lo interesante del enfoque del dr maier para solucionar problemas es que nos da informacin sobre aspectos conductuales que siempre estn presentes en una junta de trabajo como la actitud y la frustracin y nos explica la importancia que tiene el escuchar activamente a nuestro grupo y lograr que nuevamente el equipo colabore en una forma creativa y armnica en la solucin de los problemas propiciar este clima con el grupo nos permitir alcanzar decisiones integrales en las que logremos obtener ms ventajas y menos desventajas
-</DOC>
-
-<DOC>
-habilidades gerenciales proyecto final
-en este curso desarrollars un plan estratgico que te permitir identificar desarrollar y alinear la misin visin valores y objetivos estratgicos de tu funcin directiva con los de la empresa en la que laboras del mismo modo disears las estrategias e indicadores para lograrlo de manera realista y eficiente
-
-misin visin y valores
-en este curso desarrollars un plan estratgico que te permitir identificar desarrollar y alinear la misin visin valores y objetivos estratgicos de tu funcin directiva con los de la empresa en la que laboras del mismo modo disears las estrategias e indicadores para lograrlo de manera realista y eficiente
-bienvenida comportamiento humano en las organizaciones elementos de la direccin parte un lugar para cada cosa y cada cosa en su lugar
-
-anlisis foda
-continuaremos con nuestro plan estratgico y en esta semana haremos nuestro anlisis foda que nos permitir identificar los aspectos positivos e identificar las reas de vulnerabilidad de nuestra situacin interna y externa de nuestro rol gerencial
-
-diseo de objetivos estratgicos
-esta semana concluiremos nuestro plan estratgico y reflexionars sobre el nivel de tu desarrollo que haz alcanzado como directivo en un instrumento denominado inventario de competencias
-establecimiento de objetivos y diseo de estrategias establecimiento y alineacin de indicadores proyecto final despedida
+evaluation
+how to assess the effectiveness of your visualization both qualitative and quantitative approaches for evaluating visualizations as as how to isolate key elements for assessment and iteration the will cover basics of insightbased evaluation interview studies and experimental design and analysis each will also include two external or one reading and one notebook activity
+evaluation defining insight qualitative evaluation experimental evaluation part experimental evaluation part evaluation tradeoffs
 </DOC>
 

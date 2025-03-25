@@ -1,27 +1,31 @@
 <DOC>
 battery technologies
-this is about building an indepth understanding of batteries in electric vehicles scenarios the courses comprise topics such as batteries and their types applications architecture cell chemistries battery charging its modes standards battery management systems cell balancing wire harness and battery connectors applied projectthis will include a lab in learners will select a topic from one of the five courses and prepare a lab report on developments in technology current research potential environmental impacts etc reports will be peer reviewed and submitted in five of five
+this is about building an indepth understanding of batteries in electric vehicles scenarios the courses comprise topics such as batteries and their types applications architecture cell chemistries battery charging its modes standards battery management systems cell balancing wire harness and battery connectors
+
+this will include a lab project in learners will select a topic from one of the five courses and prepare a lab report on developments in technology current research potential environmental impacts etc reports will be peer reviewed and submitted in five of five
 </DOC>
 
 <DOC>
 primary and secondary batteries
-primary and secondary batteries this will focus on fundamentals and basic operating principles of batteries battery electrode active materials performance and life cycle evaluation commercialization outlook of smart energy systems
+primary and secondary batteries this will focus on fundamentals and basic operating principles of batteries
+battery electrode active materials performance and life cycle evaluation
+commercialization outlook of smart energy systems
 
 introduction
 
 introduction introduction
 
 introduction to battery types
-provides the basic definition of electrochemical aspects of batteries the major objective is to clearly understand the anode and cathode reactions in both the primary and secondary batteries this also provides details for the cell voltage and capacity values for anode and cathode materials in addition the objective is also to bring out the difference between primary and secondary batteries
+provides the basic definition of electrochemical aspects of batteries the major objective is to clearly understand the anode and cathode reactions in both the primary and secondary batteries this also provides details for learning the cell voltage and capacity values for anode and cathode materials in addition the objective is also to bring out the difference between primary and secondary batteries
 chapter defining batteries and cell components chapter operating principles chapter primary and secondary batteries chapter electrochemical equivalents chapter solving problems calculating currents chapter theoretical and practical energy chapter moores law chapter review of battery systems
 
 electrochemical fundamental principles
-provides the fundamental principles of batteries the major objective is to about the standard reduction potentials electrochemical equivalent of electrode materials at standard conditions as well as any operating conditions through nernst equation this also provides details for various operating factors influencing battery performance cycle life and calendar lives
+provides the fundamental principles of batteries the major objective is to about the standard reduction potentials electrochemical equivalent of electrode materials at standard conditions as as any operating conditions through nernst equation this also provides details for various operating factors influencing battery performance cycle life and calendar lives
 chapter electrochemical principles chapter cell potential chapter solving problems calculating cell potential chapter nernst equation chapter cell voltage variation chapter solving problems calculating cell voltage chapter defining crate and battery life chapter factors affecting battery lifespan environmental and temperature chapter factors affecting battery lifespan depth of discharge chapter factors affecting battery lifespan charge voltage chapter factors affecting battery lifespan soc chapter factors affecting battery lifespan crate chapter selection of battery
 
 application and market for batteries
 provides the application areas and markets for both the primary and secondary batteries the major objective is to the importance of batteries in portable stationary and automotive application areas in addition the objective is also to bring out the major criteria for selecting batteries for any specific application
-chapter application and market overview chapter major battery applications chapter market share of various batteries chapter energy storage grid scale chapter committing to ev future chapter battery pricing chapter goals of battery standards chapter performance and safety standards chapter national standards chapter battery pack standards chapter battery labels and sizes
+chapter application and market chapter major battery applications chapter market share of various batteries chapter energy storage grid scale chapter committing to ev future chapter battery pricing chapter goals of battery standards chapter performance and safety standards chapter national standards chapter battery pack standards chapter battery labels and sizes
 </DOC>
 
 <DOC>
@@ -45,12 +49,12 @@ chapter manufacturing and sales chapter battery applications chapter lithiumion 
 
 second life and recycling of ev batteries
 placeholder for
-chapter sales forecast and life cycle chapter recycling and second life chapter assessing retired batteries chapter lithium ion batteries first and second life chapter overview of secondlife batteries chapter recycling process for ev batteries chapter benefits and hurdles of ev battery recycling chapter recycling companies and processes
+chapter sales forecast and life cycle chapter recycling and second life chapter assessing retired batteries chapter lithium ion batteries first and second life chapter of secondlife batteries chapter recycling process for ev batteries chapter benefits and hurdles of ev battery recycling chapter recycling companies and processes
 </DOC>
 
 <DOC>
 zn and ni based batteries
-zn and ni based batteries this focuses on identifying active materials chemistry and manufacturing processes as they relate to zn as well as ni batteries battery selection and sizing for various applications
+zn and ni based batteries this focuses on identifying active materials chemistry and manufacturing processes as they relate to zn as as ni batteries battery selection and sizing for various applications
 
 introduction
 
@@ -61,11 +65,11 @@ chapter types of battery cells chapter battery cell materials anode and cathode 
 
 nibased batteries
 provides the characteristics of nicd and nimh batteries the major objective is to about the ni cd and mh electrode active materials electrochemical characteristics reactions in both the primary and secondary batteries in addition the objective is also to bring out the unique design aspects for making the nicd and nimh batteries sealed
-introduction chapter nicd batteries chapter materials and characteristics of nicd batteries chapter profiles and construction of nicd batteries chapter advantages and limitations of nicd batteries chapter nimh batteries overview chapter profiles and materials of nimh batteries chapter solving problems chapter characteristics of nimh batteries chapter advantages and disadvantages of nimh batteries
+introduction chapter nicd batteries chapter materials and characteristics of nicd batteries chapter profiles and construction of nicd batteries chapter advantages and limitations of nicd batteries chapter nimh batteries chapter profiles and materials of nimh batteries chapter solving problems chapter characteristics of nimh batteries chapter advantages and disadvantages of nimh batteries
 
 pbacid batteries
-provides the operation characteristics of lead acid batteries along with state of charge estimation the major objective is to about the pb anode and pbo cathode reactions as well as lead acid battery performance in addition the objective is also to bring out the unique design features of sealed lead acid batteries for various applications
-introduction chapter leadacid batteries chapter advantages and disadvantages of lead acid cells chapter battery comparisons chapter lead acid market overview chapter pbacid battery electrodes chapter electrode reactions and states of charge soc chapter internal resistance and discharge chapter sealed pbacid batteries chapter pbacid battery life cycle chapter major applications of leadacid batteries
+provides the operation characteristics of lead acid batteries along with state of charge estimation the major objective is to about the pb anode and pbo cathode reactions as as lead acid battery performance in addition the objective is also to bring out the unique design features of sealed lead acid batteries for various applications
+introduction chapter leadacid batteries chapter advantages and disadvantages of lead acid cells chapter battery comparisons chapter lead acid market chapter pbacid battery electrodes chapter electrode reactions and states of charge soc chapter internal resistance and discharge chapter sealed pbacid batteries chapter pbacid battery life cycle chapter major applications of leadacid batteries
 </DOC>
 
 <DOC>
@@ -77,11 +81,11 @@ introduction
 
 comparison of batteries
 provides the basic operating principles of electric vehicle batteries namely pbacid nimh and liion the major objective is to about the comparison related to performance durability and safety of these batteries in the electric vehicle applications this also highlights the suitability and requirements of the pbacid nimh and liion batteries for the electric vehicle applications
-introduction chapter comparison of batteries overview chapter leadacid batteries chapter nimh batteries chapter liion batteries chapter comparison of nmc and lfp batteries chapter part comparison of nmc and lfp batteries chapter widescale lfp adoption chapter comparison of nmc sla and lfp chapter benefit of solidstate batteries
+introduction chapter comparison of batteries chapter leadacid batteries chapter nimh batteries chapter liion batteries chapter comparison of nmc and lfp batteries chapter part comparison of nmc and lfp batteries chapter widescale lfp adoption chapter comparison of nmc sla and lfp chapter benefit of solidstate batteries
 
 ev battery manufacturing
 provides the basic concepts of electric vehicle batteries manufacturing the major objective is to about the advanced manufacturing of ev batteries with optimized cost of quality using sustainable functional and nonfunctional materials this also provides manufacturing aspects of cylindrical pouch and prismatic cells and packs for electric vehicle applications
-introduction to battery manufacturing chapter overview ev battery manufacturing chapter components of liion batteries chapter ev batteries circular economy chapter manufacturing process chapter mixing chapter coating and drying chapter calendaring chapter slitting chapter electrode making chapter cell assembly chapter cell assembly packaging chapter cell finishing chapter production and manufacturing
+introduction to battery manufacturing chapter ev battery manufacturing chapter components of liion batteries chapter ev batteries circular economy chapter manufacturing process chapter mixing chapter coating and drying chapter calendaring chapter slitting chapter electrode making chapter cell assembly chapter cell assembly packaging chapter cell finishing chapter production and manufacturing
 
 ev battery packaging
 provides the basic principles of packaging for optimizing the functional materials through cylindrical pouch and prismatic configurations the major objective is to about various packaging designs for improving performance cycle life and safety of the batteries in the electric vehicle applications this also provides details on the demand and supply of batteries for evs
@@ -97,7 +101,7 @@ introduction
 
 introduction to lithiumbased batteries
 provides the operation principles of li primary batteries along with electrolyte in gaseous liquid and solid forms the major objective is to about electrode active materials for liso lisocl lisocl lifes limno lii batteries and their performance in addition the objective is also to bring out the design features of lii batteries for cardiac pacemakers
-chapter introduction to lithium batteries chapter review of equivalents chapter cell potential and applications chapter classification of lithium batteries chapter lithium primary cells chapter lithium primary cells chapter lifes construction and performance chapter limno configuration and performance chapter battery comparison chapter lii overview and performance chapter lithium primary cells
+chapter introduction to lithium batteries chapter review of equivalents chapter cell potential and applications chapter classification of lithium batteries chapter lithium primary cells chapter lithium primary cells chapter lifes construction and performance chapter limno configuration and performance chapter battery comparison chapter lii and performance chapter lithium primary cells
 
 liion batteries
 provides the history of secondary liion batteries along with comparison of performance safety and cycle life with other batteries the major objective is to about various anode and various cathode active materials along with the comparison of the batteries related to energy density power density cycle life charging rates etc in addition the objective is also to highlight portable stationary and transportation applications

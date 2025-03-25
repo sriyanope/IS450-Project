@@ -1,28 +1,34 @@
 <DOC>
 robotic process automation rpa
-the robotic process automation rpa offers comprehensive knowledge and professionallevel focused on developing and deploying software robots it starts with the basic concepts of robotic process automation it builds on these concepts and introduces key rpa design and development strategies and methodologies specifically in the context of uipath products a student undergoing the shall develop the competence to design and develop automation solutions for business processes this also prepares you for uipath certified uirpa exam applied projectthe practice exercises of the consists of exercises mapped to the theory portion each exercise will help the student practice and apply the learned in the theory section at the end of the is an industrylevel capstone which will help the students to assimilate the knowledge and learnt and build an endtoend automation solution for a business process
+the robotic process automation rpa offers comprehensive knowledge and professionallevel focused on developing and deploying software robots it starts with the basic concepts of robotic process automation it builds on these concepts and introduces key rpa design and development strategies and methodologies specifically in the context of uipath products a student undergoing the shall develop the competence to design and develop automation solutions for business processes this also prepares you for uipath certified uirpa exam
+
+
+the practice exercises of the consists of exercises mapped to the theory portion each exercise will help the student practice and apply the learned in the theory section at the end of the is an industrylevel capstone project which will help the students to assimilate the knowledge and learnt and build an endtoend automation solution for a business process
+
 </DOC>
 
 <DOC>
-uipath orchestrator and capstone
-uipath orchestrator and capstone will provide knowledge about orchestrator and its capabilities further the extends through understanding the orchestrator user interface contexts of orchestrator and assets and queues in orchestratorthe capstone will help you integrate and apply the knowledge gained from completing the rpa while working on the apply critical thinking to solve challenging automation problems and develop to build robust automation
+uipath orchestrator and capstone projects
+uipath orchestrator and capstone projects will provide knowledge about orchestrator and its capabilities further the learning extends through understanding the orchestrator user interface contexts of orchestrator and assets and queues in orchestrator
+the capstone projects will help you integrate and apply the knowledge gained from completing the rpa while working on the projects apply critical thinking to solve challenging automation problems and develop to build robust automation
 
-orchestrator overview
+orchestrator
 this introduces orchestrator and its capabilities
-welcome introduction to orchestrator orchestrator capabilities demonstrationconnecting a robot to cloud orchestrator demonstrationconnecting a robot to onpremise orchestrator demonstrationpublishing a to cloud orchestrator demonstrationpublishing a to onpremise orchestrator
+welcome introduction to orchestrator orchestrator capabilities demonstrationconnecting a robot to cloud orchestrator demonstrationconnecting a robot to onpremise orchestrator demonstrationpublishing a project to cloud orchestrator demonstrationpublishing a project to onpremise orchestrator
 
 functionalities of orchestrator
 this explains orchestrator user interface contexts of orchestrator and introduces assets and queues in orchestrator
 user interface of cloud orchestrator user interface of onpremise orchestrator demonstrationcreating assets in cloud orchestrator demonstrationcreating assets in onpremise orchestrator demonstrationusing queues in cloud orchestrator demonstrationusing queues in onpremise orchestrator
 
-capstone
-this comprises capstone
-introduction to capstone capstone invoice entry capstone stock price trend comparison
+capstone project
+this comprises capstone projects
+introduction to capstone projects capstone project invoice entry capstone project stock price trend comparison
 </DOC>
 
 <DOC>
 ui automation and selectors
-the ui automation and selectors provides a deep understanding of the different methods used while interacting with the user interface of different applications like excel word crm websites while building automation it introduces the recording feature and the different recordings available in studio to record user actions and generate workflows it will also provide knowledge about selectors and how they are beneficial while building automation the has multiple practice exercises that will help strengthen your knowledge and understand the creation of workflows in studio
+the ui automation and selectors provides a deep understanding of the different methods used while interacting with the user interface of different applications like excel word crm websites while building automation projects
+it introduces the recording feature and the different recordings available in studio to record user actions and generate workflows it will also provide knowledge about selectors and how they are beneficial while building automation projects the has multiple practice exercises that will help strengthen your knowledge and understand the creation of workflows in studio
 
 ui interactions
 this gives an introduction of ui interactions and their types
@@ -41,34 +47,35 @@ this explains the recording feature and the different types of recording in stud
 recording in studio types of recorders recording wizard
 
 selectors
-this explains selectors anchors and their types it also provides an overview of ui explorer and selector editor
+this explains selectors anchors and their types it also provides an of ui explorer and selector editor
 introduction to selectors demonstrationselectors types of selectors selector editor and its properties dynamic selectors demonstrationdebugging selectors using ui explorer introduction to ui explorer introduction to anchors and their properties demonstrationanchors finetuning selectors
 </DOC>
 
 <DOC>
 rpa basics and introduction to uipath
-the rpa basics and introduction to uipath provides knowledge on robotic process automation basic concepts it also introduces you to the uipath platform and its core components the provides a detailed explanation of uipath studio user interface and its features by the end of the be able to build your first automation in uipath studio
+the rpa basics and introduction to uipath provides knowledge on robotic process automation basic concepts it also introduces you to the uipath platform and its core components the provides a detailed explanation of uipath studio user interface and its features by the end of the be able to build your first automation project in uipath studio
 
-rpa overview
-this gives an overview of robotic process automation rpa it also describes its benefits along with the industries and business processes bestsuited for it
-welcome introduction to automation story of introduction to robotic process automation benefits of rpa overview of industries bestsuited for rpa business units bestsuited for rpa attributes of a process bestsuited for rpa
+rpa
+this gives an of robotic process automation rpa it also describes its benefits along with the industries and business processes bestsuited for it
+welcome introduction to automation story of introduction to robotic process automation benefits of rpa of industries bestsuited for rpa business units bestsuited for rpa attributes of a process bestsuited for rpa
 
-uipath overview
-this provides an overview of uipath and its products
+uipath
+this provides an of uipath and its products
 about uipath uipath platform uipath platforms core components introduction to robots types of robots
 
-studio overview
+studio
 this provides detailed information about uipath studio
 introduction to studio introduction to orchestrator demonstrationuipath studio installation demonstration studio user interface
 
 features of studio
 this explains the features of uipath studio
-activities packages demonstrationinstalling activity packages demonstration installing browser extensions demonstration reusing automation library about version control automation debugging demonstrationdebug panel demonstrationhello world automation
+activities packages demonstrationinstalling activity packages demonstration installing browser extensions demonstration reusing automation library about version control automation debugging demonstrationdebug panel demonstrationhello world automation project
 </DOC>
 
 <DOC>
 data manipulation in rpa
-the data manipulation in rpa will provide knowledge about variables arguments and data manipulation it will also introduce you to variables and arguments their types and their application in automation in the later part of the about data manipulation in studio also about the different methods and operations performed on different data types and their usage in automation building on each concept there will be demonstration that will explain these operations and methods the has multiple practice exercises that will help strengthen your knowledge and understand the creation of workflows in studio
+the data manipulation in rpa will provide knowledge about variables arguments and data manipulation it will also introduce you to variables and arguments their types and their application in automation projects
+in the later part of the about data manipulation in studio also about the different methods and operations performed on different data types and their usage in automation projects building on each concept there will be demonstration that will explain these operations and methods the has multiple practice exercises that will help strengthen your knowledge and understand the creation of workflows in studio
 
 introduction to variables
 this introduces variables and their types in uipath also about the scope of a variable inside a workflow
@@ -93,7 +100,8 @@ introduction to collection variables introduction to lists demonstrationworking 
 
 <DOC>
 automation techniques in rpa
-the automation techniques in rpa will provide knowledge about extraction and its techniques screen scraping data scraping and pdf extractionin the later part of the gain knowledge about workbook excel and email automation in studio also about activities for workbooks and excel automation along with email protocols and related activities building on each concept there will be demonstration that will explain these operations and methods the has multiple practice exercises which will help in strengthening your knowledge and understand the creation of workflows in studio
+the automation techniques in rpa will provide knowledge about extraction and its techniques screen scraping data scraping and pdf extraction
+in the later part of the gain knowledge about workbook excel and email automation in studio also about activities for workbooks and excel automation along with email protocols and related activities building on each concept there will be demonstration that will explain these operations and methods the has multiple practice exercises which will help in strengthening your knowledge and understand the creation of workflows in studio
 
 extraction and its techniques
 this helps in understanding extraction screen scraping and its methods data scraping and pdf extraction
@@ -106,10 +114,11 @@ workbook and excel automation manipulating workbooks demonstrationworkbook autom
 
 <DOC>
 control flow in rpa
-the control flow in rpa provides a deep understanding of the automation flow control flow is a concept that refers to the order in which actions are executed and control flows in an automation with the help of sequences decision making loops and flowcharts this also focuses on the error handling mechanism which is vital for an automation projectthe has multiple practice exercises which will help in strengthening your knowledge and understanding of workflows in studio
+the control flow in rpa provides a deep understanding of the automation flow control flow is a concept that refers to the order in which actions are executed and control flows in an automation project with the help of sequences decision making loops and flowcharts this also focuses on the error handling mechanism which is vital for an automation project
+the has multiple practice exercises which will help in strengthening your knowledge and understanding of workflows in studio
 
 sequences and control flow
-this gives an overview of sequences and control flow in studio
+this gives an of sequences and control flow in studio
 welcome introduction to sequences control flow and its types
 
 decision control

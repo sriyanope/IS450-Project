@@ -1,6 +1,22 @@
 <DOC>
 developing applications with google cloud
-you the fundamentals of application development on google cloud through a combination of presentations and handson labs participants best practices for designing cloud applications the use of service orchestration and choreography to coordinate microservices and how to use cloud functions to develop singlepurpose functions that process events within your cloud infrastructurethis class is intended for application developers architects and cloud engineers who want to build new cloud applications or redesign existing applications to run on google cloudthis teaches participants the following skillsunderstand how to choose the appropriate data storage option for application use casesuse authentication and authorization to secure an applicationdescribe use cases for the different google cloud compute options for running applicationsdescribe the benefits and challenges of microservicebased architecturesdescribe the advantages of eventdriven applicationsidentify the strengths of orchestration and choreographyuse workflows eventarc cloud tasks and cloud scheduler to coordinate a microservices application on google cloudrecognize the benefits of and use cases for cloud functions in modern application developmentunderstand how to build test and deploy cloud functionssecure and connect cloud functions to resources and cloud databasesuse best practices with cloud functionsapplied projectthis incorporates handson labs using our qwiklabs platformthese hands on components will let you apply the you in the lectures will incorporate topics such as google cloud products which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the
+you the fundamentals of application development on google cloud through a combination of presentations and handson labs participants best practices for designing cloud applications the use of service orchestration and choreography to coordinate microservices and how to use cloud functions to develop singlepurpose functions that process events within your cloud infrastructure
+this class is intended for application developers architects and cloud engineers who want to build new cloud applications or redesign existing applications to run on google cloud
+this teaches participants the following
+understand how to choose the appropriate data storage option for application use cases
+use authentication and authorization to secure an application
+describe use cases for the different google cloud compute options for running applications
+describe the benefits and challenges of microservicebased architectures
+describe the advantages of eventdriven applications
+identify the strengths of orchestration and choreography
+use workflows eventarc cloud tasks and cloud scheduler to coordinate a microservices application on google cloud
+recognize the benefits of and use cases for cloud functions in modern application development
+understand how to build test and deploy cloud functions
+secure and connect cloud functions to resources and cloud databases
+use best practices with cloud functions
+
+this incorporates handson labs using our qwiklabs platform
+these hands on components will let you apply the you in the lectures projects will incorporate topics such as google cloud products which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the
 </DOC>
 
 <DOC>
@@ -16,31 +32,31 @@ best practices for cloud application development best practices for cloud applic
 
 getting started with google cloud development
 this introduces the different google cloud tools that use to develop your applications
-overview cloud apis and the google cloud sdk the google cloud cli cloud client libraries cloud shell and cloud code
+cloud apis and the google cloud sdk the google cloud cli cloud client libraries cloud shell and cloud code
 
 data storage options
 this compares the data storage and database services provided by google cloud
-overview cloud storage and databases bigquery memorystore and product comparisons lab overview coursera getting started with google cloud platform and qwiklabs
+cloud storage and databases bigquery memorystore and product comparisons lab coursera getting started with google cloud platform and qwiklabs
 
 handling authentication and authorization
 this explains how authentication and authorization are added to your cloud applications
-overview authorization with cloud iam authenticating to google apis and service accounts choosing an authentication method other authenticationauthorization methods using secret manager
+authorization with cloud iam authenticating to google apis and service accounts choosing an authentication method other authenticationauthorization methods using secret manager
 
 adding intelligence to your application
-this discusses how pretrained machine apis and generative ai can improve your cloud applications
-overview using pretrained machine models intro to generative ai lab overview
+this discusses how pretrained machine learning apis and generative ai can improve your cloud applications
+using pretrained machine learning models intro to generative ai lab
 
 deploying applications
 this discusses how to build and deploy applications on google cloud
-overview continuous integration and delivery containers and building application images
+continuous integration and delivery containers and building application images
 
 compute options for your application
 this discusses the compute options available for running your applications in google cloud
-overview compute engine google kubernetes engine cloud run cloud run functions comparisons
+compute engine google kubernetes engine cloud run cloud run functions comparisons
 
 monitoring and performance tuning
 this discusses the application use cases of the services in google cloud observability
-overview google cloud observability logging and metrics error reporting managing performance lab overview
+google cloud observability logging and metrics error reporting managing performance lab
 </DOC>
 
 <DOC>
@@ -52,15 +68,15 @@ welcome to service orchestration and choreography on google cloud this introduce
 
 introduction to microservices
 this introduces you to microservices and discusses the benefits and challenges of using a microservices architecture for your applications
-overview what are microservices benefits of microservices architectures challenges of microservices architectures
+what are microservices benefits of microservices architectures challenges of microservices architectures
 
 eventdriven applications
 this introduces events and eventdriven applications and discusses the benefits of choosing an eventdriven architecture for your microservices applications
-overview eventdriven architecture benefits of eventdriven applications
+eventdriven architecture benefits of eventdriven applications
 
 choreography and orchestration
 this introduces two effective patterns for interservice communication choreography and orchestration eventarc uses the choreography pattern which allows independent services to perform tasks when events are received workflows uses orchestration and acts as a central orchestrator of the interactions between the services you how workflows eventarc cloud tasks and cloud scheduler can be used to build powerful microservices applications on google cloud
-overview coordinating microservices choreography in google cloud orchestration in google cloud should i use choreography or orchestration cloud tasks cloud scheduler getting started with google cloud and qwiklabs lab intro building eventdriven orchestration on google cloud
+coordinating microservices choreography in google cloud orchestration in google cloud should i use choreography or orchestration cloud tasks cloud scheduler getting started with google cloud and qwiklabs lab intro building eventdriven orchestration on google cloud
 </DOC>
 
 <DOC>

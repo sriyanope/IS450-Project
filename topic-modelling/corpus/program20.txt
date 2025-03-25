@@ -1,11 +1,14 @@
 <DOC>
 algorithms for battery management systems
-the major functions that must be performed by a battery management system how lithiumion battery cells and how to model their behaviors mathematically and how to write algorithms computer methods to estimate stateofcharge stateofhealth remaining energy and available power and how to balance cells in a battery pack applied projectlearners will start with supplied code templates in the octavematlab language to build their own code to simulate lithiumion battery cells and packs and to estimate battery cell stateofcharge stateofhealth capacity and resistance remaining energy and available power
+the major functions that must be performed by a battery management system how lithiumion battery cells and how to model their behaviors mathematically and how to write algorithms computer methods to estimate stateofcharge stateofhealth remaining energy and available power and how to balance cells in a battery pack
+
+learners will start with supplied code templates in the octavematlab language to build their own code to simulate lithiumion battery cells and packs and to estimate battery cell stateofcharge stateofhealth capacity and resistance remaining energy and available power
 </DOC>
 
 <DOC>
 battery stateofhealth soh estimation
-this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degreein this how to implement different stateofhealth estimation methods and to evaluate their relative merits by the end of the be able to identify the primary degradation mechanisms that occur in lithiumion cells and understand how they execute provided octavematlab script to estimate total capacity using wls wtls and awtls methods and labtest data and to evaluate results compute confidence intervals on totalcapacity estimates compute estimates of a cells equivalentseries resistance using labtest data specify the tradeoffs between joint and dual estimation of state and parameters and steps that must be taken to ensure robust estimates honors
+this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degree
+how to implement different stateofhealth estimation methods and to evaluate their relative merits by the end of the be able to identify the primary degradation mechanisms that occur in lithiumion cells and understand how they execute provided octavematlab script to estimate total capacity using wls wtls and awtls methods and labtest data and to evaluate results compute confidence intervals on totalcapacity estimates compute estimates of a cells equivalentseries resistance using labtest data specify the tradeoffs between joint and dual estimation of state and parameters and steps that must be taken to ensure robust estimates honors
 
 how does lithiumion cell health degrade
 as battery cells age their total capacities generally decrease and their resistances generally increase why this happens about the specific physical and chemical mechanisms that cause degradation to lithiumion battery cells also why it is relatively simple to estimate and track changes to resistance but why it is difficult to track changes to total capacity accurately
@@ -16,27 +19,28 @@ total capacity is often estimated using ordinaryleastsquares ols methods that th
 whats wrong with using ordinary least squares to estimate total capacity how to find the ordinaryleastsquares solution as a benchmark making the ordinaryleastsquares solution computationally efficient setting up weighted totalleastsquares solution finding the solution to a weighted totalleastsquares problem confidence intervals on leastsquares solutions of totalleastsquares batterycell capacity estimation what next
 
 simplified totalleastsquares batterycell capacity estimates
-unfortunately the weighted tls solution you learned in is not well suited for efficient computation on an embedded system like a bms as an intermediate step toward finding an efficient weighted tls method first a proportionally weighted tls method then how to generalize this to an approximate weighted tls awtls method which gives good estimates and is feasible to implement on a bms
+unfortunately the weighted tls solution you learned in is not suited for efficient computation on an embedded system like a bms as an intermediate step toward finding an efficient weighted tls method first a proportionally weighted tls method then how to generalize this to an approximate weighted tls awtls method which gives good estimates and is feasible to implement on a bms
 simplifying the totalleastsquares solution for cases having proportional uncertainties making simplified solution computationally efficient defining geometry for approximate full solution to weighted total least squares finding appropriate cost function for approximate full solution to wtls problem finding solution to the awtls problem adding fading memory of simplified totalleastsquares batterycell capacity estimates what next
 
 how to write code for the different totalcapacity estimators
-so far this you have learned a number of methods for estimating total capacity how to implement those methods in octave code also explore different simulation scenarios to benchmark how well each method works in comparison with the others the scenarios are representative of hybridelectricvehicle hev and batteryelectricvehicle bev applications but the principles learned can be extrapolated to other similar application domains
+so far this you have learned a number of methods for estimating total capacity how to implement those methods in octave code also explore different simulation scenarios to benchmark how each method works in comparison with the others the scenarios are representative of hybridelectricvehicle hev and batteryelectricvehicle bev applications but the principles learned can be extrapolated to other similar application domains
 introducing octave code to estimate cell total capacity demonstrating octave code for hev scenario demonstrating octave code for hev scenarios demonstrating octave code for bev scenario demonstrating octave code for bev scenarios of how to write code for the different totalcapacity estimators what next
 
 a kalmanfilter approach to total capacity estimation
 in the third of the you learned how to use extended kalman filters ekfs and sigmapoint kalman filters spkfs to estimate the state of a battery cell honors how to extend those concepts to apply ekf and spkf to estimating the parameters of a batterycell model if the state is known and also how to simultaneously estimate both the state and parameters of a cell model
 deriving spkf method for parameter estimation deriving ekf method for parameter estimation how to estimate states and parameters at the same time defining the steps for ekf and spfk joint and dual estimation addressing issues of robustness and speed of a kalmanfilter approach to total capacity estimation what next
 
-capstone
-you have learned several different totalcapacity estimation methods some of these methods better than others in general but any method is only as good as the data you give it explore a different way to determine the x and y data you use as input to the totalcapacity estimation methods
+capstone project
+you have learned several different totalcapacity estimation methods some of these methods better than others in general but any method is only as good as the data you give it project explore a different way to determine the x and y data you use as input to the totalcapacity estimation methods
 </DOC>
 
 <DOC>
 battery stateofcharge soc estimation
-this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degreein this how to implement different stateofcharge estimation methods and to evaluate their relative merits by the end of the be able to implement simple voltagebased and currentbased stateofcharge estimators and understand their limitations explain the purpose of each step in the sequentialprobabilisticinference solution execute provided octavematlab script for a linear kalman filter and evaluate results execute provided octavematlab script for stateofcharge estimation using an extended kalman filter on labtest data and evaluate results execute provided octavematlab script for stateofcharge estimation using a sigmapoint kalman filter on labtest data and evaluate results implement method to detect and discard faulty voltagesensor measurements
+this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degree
+how to implement different stateofcharge estimation methods and to evaluate their relative merits by the end of the be able to implement simple voltagebased and currentbased stateofcharge estimators and understand their limitations explain the purpose of each step in the sequentialprobabilisticinference solution execute provided octavematlab script for a linear kalman filter and evaluate results execute provided octavematlab script for stateofcharge estimation using an extended kalman filter on labtest data and evaluate results execute provided octavematlab script for stateofcharge estimation using a sigmapoint kalman filter on labtest data and evaluate results implement method to detect and discard faulty voltagesensor measurements
 
 the importance of a good soc estimator
-some rigorous definitions needed when discussing soc estimation and some simple but poor methods to estimate soc as background to some better methods we will review concepts from probability theory that are needed to be able to deal with the impact of uncertain noises on a systems internal state and measurements made by a bms
+some rigorous definitions needed when discussing soc estimation and some simple but poor methods to estimate soc as background to learning some better methods review concepts from probability theory that are needed to be able to deal with the impact of uncertain noises on a systems internal state and measurements made by a bms
 welcome to the what is the importance of a good soc estimator how do we define soc carefully what are some approaches to estimating battery cell soc understanding uncertainty via mean and covariance understanding joint uncertainty of two unknown quantities understanding timevarying uncertain quantities of the importance of a good soc estimator and next steps
 
 introducing the linear kalman filter as a state estimator
@@ -59,13 +63,14 @@ improving computational efficiency using the bardelta method
 kalman filtering requires that noises have zero mean what do we do if the currentsensor has a dc bias error as is often the case how can we implement kalmanfilter type soc estimators in a computationally efficient way for a battery pack comprising many cells how to compensate for currentsensor bias error and how to implement the bardelta method for computational efficiency also about desktop validation as an approach for initial testing and tuning of bms algorithms
 why do we need to be clever when estimating soc for battery packs developing a bar filter using an ecm developing the delta filters using an ecm introducing desktop validation as a method for predicting performance of improving computational efficiency using the bardelta method and next steps
 
-capstone
+capstone project
 you have already learned that kalman filters must be tuned by adjusting their processnoise sensornoise and initial stateestimate covariance matrices in order to give acceptable performance over a wide range of operating scenarios this final will give you some handtuning both an ekf and spkf for soc estimation
 </DOC>
 
 <DOC>
 equivalent circuit cell model simulation
-this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degreein this the purpose of each component in an equivalentcircuit model of a lithiumion battery cell how to determine their parameter values from labtest data and how to use them to simulate cell behaviors under different load profiles by the end of the be able to state the purpose for each component in an equivalentcircuit model compute approximate parameter values for a circuit model using data from a simple lab test determine coulombic efficiency of a cell from labtest data use provided octavematlab script to compute opencircuitvoltage relationship for a cell from labtest data use provided octavematlab script to compute optimized values for dynamic parameters in model simulate an electric vehicle to yield estimates of range and to specify drivetrain components simulate battery packs to understand and predict behaviors when there is celltocell variation in parameter values
+this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degree
+the purpose of each component in an equivalentcircuit model of a lithiumion battery cell how to determine their parameter values from labtest data and how to use them to simulate cell behaviors under different load profiles by the end of the be able to state the purpose for each component in an equivalentcircuit model compute approximate parameter values for a circuit model using data from a simple lab test determine coulombic efficiency of a cell from labtest data use provided octavematlab script to compute opencircuitvoltage relationship for a cell from labtest data use provided octavematlab script to compute optimized values for dynamic parameters in model simulate an electric vehicle to yield estimates of range and to specify drivetrain components simulate battery packs to understand and predict behaviors when there is celltocell variation in parameter values
 
 defining an equivalentcircuit model of a liion cell
 how to derive the equations of an equivalentcircuit model of a lithiumion battery cell
@@ -80,20 +85,21 @@ how to determine the parameter values of the dynamic part of an equivalentcircui
 what cell tests are needed to determine dynamicmodel parameters how are cell data used to find dynamicmodel parameter values introducing octave code to determine dynamic part of an ecm introducing octave toolbox to use ecm understanding octave code to simulate an ecm understanding octave code to look up model parameter value understanding octave code to compute ocv some example results from using the octave esc toolbox of identifying parameters of dynamic model and next steps
 
 simulating battery packs in different configurations
-how to generalize the capability of simulating the voltage response of a single battery cell to a profile of input current versus time to being able to simulate constantvoltage and constantpower control of a battery cell as well as different configurations of cells built into battery packs
+how to generalize the capability of simulating the voltage response of a single battery cell to a profile of input current versus time to being able to simulate constantvoltage and constantpower control of a battery cell as as different configurations of cells built into battery packs
 how do i use the ecm to simulate constant voltage how do i use the ecm to simulate constant power how do i simulate battery packs introducing octave code to simulate pcms introducing octave code to simulate scms of simulating battery packs in different configurations and next steps
 
 cosimulating battery and electricvehicle load
 honors how to cosimulate a battery pack and an electricvehicle load this ability aids in sizing vehicle components and the batterypack
 introduction to the problem modeling ideal vehicle dynamics adding practical limits to model of vehicle dynamics calculating electricvehicle range introducing octave code to set up ev simulation introducing octave code to conduct ev simulation of cosimulating battery and electric vehicle load and next steps
 
-capstone
+capstone project
 final for the modify three sample octave programs to create functions that can simulate temperaturedependent cells battery packs built from pcms and battery packs built from scms
 </DOC>
 
 <DOC>
 introduction to batterymanagement systems
-this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degreethis will provide you with a firm foundation in lithiumion cell terminology and function and in batterymanagementsystem requirements as needed by the remainder of the after completing this be able to list the major functions provided by a batterymanagement system and state their purpose match battery terminology to a list of definitions identify the major components of a lithiumion cell and their purpose understand how a batterymanagement system measures current temperature and isolation and how it controls contactors identify electronic components that can provide protection and specify a minimum set of protections needed compute stored energy in a battery pack list the manufacturing steps of different types of lithiumion cells and possible failure modes
+this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degree
+this will provide you with a firm foundation in lithiumion cell terminology and function and in batterymanagementsystem requirements as needed by the remainder of the after completing this be able to list the major functions provided by a batterymanagement system and state their purpose match battery terminology to a list of definitions identify the major components of a lithiumion cell and their purpose understand how a batterymanagement system measures current temperature and isolation and how it controls contactors identify electronic components that can provide protection and specify a minimum set of protections needed compute stored energy in a battery pack list the manufacturing steps of different types of lithiumion cells and possible failure modes
 
 battery boot camp
 some important terminology used to describe battery cells and will the principles of operation of standard electrochemical battery cells
@@ -118,14 +124,15 @@ how are a lithiumion cells electrodes fabricated how is a lithiumion cell assemb
 
 <DOC>
 battery pack balancing and power estimation
-this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degreein this how to design balancing systems and to compute remaining energy and available power for a battery pack by the end of the be able to evaluate different design choices for cell balancing and articulate their relative merits design component values for a simple passive balancing circuit use provided octavematlab simulation tools to evaluate how quickly a battery pack must be balanced compute remaining energy and available power using a simple cell model use provided octavematlab script to compute available power using a comprehensive equivalentcircuit cell model
+this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degree
+how to design balancing systems and to compute remaining energy and available power for a battery pack by the end of the be able to evaluate different design choices for cell balancing and articulate their relative merits design component values for a simple passive balancing circuit use provided octavematlab simulation tools to evaluate how quickly a battery pack must be balanced compute remaining energy and available power using a simple cell model use provided octavematlab script to compute available power using a comprehensive equivalentcircuit cell model
 
 passive balancing methods for battery packs
 in previous courses you learned how to write algorithms to satisfy the estimation requirements of a battery management system now how to write algorithms for two primary control tasks balancing and powerlimits computations why battery packs naturally become unbalanced some balancing strategies and how passive circuits can be used to balance battery packs
 welcome to the introduction to batterypack balancing how do battery packs become imbalanced what are the criteria for specifying a balancing setpoint for a battery pack what are the criteria for specifying when to balance a battery pack what kinds of circuits can be used for passively balancing a battery pack of passive balancing methods for battery packs what next
 
 active balancing methods for battery packs
-passive balancing can be effective but wastes energy active balancing methods attempt to conserve energy and have other advantages as well about activebalancing circuitry and methods and will how to write octave code to determine how quickly a battery pack can become out of balance this is useful for determining the dominant factors leading to imbalance and for estimating how quickly the pack must be balanced to maintain it in proper operational condition
+passive balancing can be effective but wastes energy active balancing methods attempt to conserve energy and have other advantages as about activebalancing circuitry and methods and will how to write octave code to determine how quickly a battery pack can become out of balance this is useful for determining the dominant factors leading to imbalance and for estimating how quickly the pack must be balanced to maintain it in proper operational condition
 how to balance actively using capacitorbased circuits how to balance actively using transformerbased circuits how to balance actively using a shared active bus using simulation to show how quickly we must balance a battery pack introducing octave code to simulate balancing the main loop of active balancing methods for battery packs what next
 
 how to find available battery power using a simplified cell model
@@ -140,7 +147,7 @@ future batterymanagementsystem algorithms
 presentday bms algorithms primarily use equivalentcircuit models as a basis for estimating stateofcharge stateofhealth power limits and so forth these models are not able to describe directly the physical processes internal to the cell but it is exactly these processes that are precursors to cell degradation and failure quickly introduces some concepts that might motivate future bms algorithms that use physicsbased models instead
 what bms algorithm needs remain physicsbased idealcell models singleparticle reducedorder models d physicsbased reducedorder models models of degradation mechanisms optimized controls using physicsbased models
 
-capstone
-this capstone explores the design of resistor value for a switchedresistor passive balancing system as well as enhancing a powerlimits method based on the hppc approach
+capstone project
+this capstone project explores the design of resistor value for a switchedresistor passive balancing system as as enhancing a powerlimits method based on the hppc approach
 </DOC>
 

@@ -1,32 +1,34 @@
 <DOC>
 fundamentals of computing
-this covers much of the material that firstyear computer science students take at rice university brought to you by the worldclass facultyopens in a new tab who teach our mastersopens in a new tab and phd programs students sophisticated programming in python from the ground up and apply these in building more than fun the concludes with a capstone exam that allows the students to demonstrate the range of knowledge that they have acquired in the
+this covers much of the material that firstyear computer science students take at rice university brought to you by the worldclass facultyopens in a new tab who teach our mastersopens in a new tab and phd programs students sophisticated programming in python from the ground up and apply these in building more than fun projects the concludes with a capstone exam that allows the students to demonstrate the range of knowledge that they have acquired in the
 </DOC>
 
 <DOC>
 principles of computing part
-this twopart introduces the basic mathematical and programming principles that underlie much of computer science understanding these principles is crucial to the process of creating efficient and wellstructured solutions for computational problems to get handson working with these concepts we will use the python programming language the main focus of the class will be weekly miniprojects that build upon the mathematical and programming principles that are taught in the class to keep the class fun and engaging many of the will involve working with strategybased gamesin part of this the programming portion of the class will focus on concepts such as recursion assertions and invariants the mathematical portion of the class will focus on searching sorting and recursive data structures upon completing this have a solid foundation in the principles of computation and programming this will prepare you for the next in the which will begin to introduce a structured approach to developing and analyzing algorithms developing such algorithmic thinking will be critical to writing large scale software and solving real world computational problems
+this twopart introduces the basic mathematical and programming principles that underlie much of computer science understanding these principles is crucial to the process of creating efficient and wellstructured solutions for computational problems to get handson working with these concepts use the python programming language the main focus of the class will be weekly miniprojects that build upon the mathematical and programming principles that are taught in the class to keep the class fun and engaging many of the projects will involve working with strategybased games
+in part of this the programming portion of the class will focus on concepts such as recursion assertions and invariants the mathematical portion of the class will focus on searching sorting and recursive data structures upon completing this have a solid foundation in the principles of computation and programming this will prepare you for the next in the which will begin to introduce a structured approach to developing and analyzing algorithms developing such algorithmic thinking will be critical to writing large scale software and solving real world computational problems
 
 searching and data structures
-we will explain the importance of searching we will also explore various data structures and about inheritance
+explain the importance of searching also explore various data structures and about inheritance
 introduction the importance of searching generators stacks and queues inheritance grid class grid search miniproject codeskulptor optional from our previous class saving in codeskulptor optional from our previous class beyond codeskulptor optional from our previous class
 
 recursion
-we will explain the importance of recursion
+explain the importance of recursion
 the importance of recursion recursion binary search visualizing recursion recurrences reading files miniproject
 
 trees
-we will explain the importance of trees we will also explore how to set up game trees so that we can efficiently search them
+explain the importance of trees also explore how to set up game trees so that we can efficiently search them
 the importance of trees lambda trees illustration of trees minimax miniproject
 
 modeling assertions and invariants
-we will explain the importance of modeling we will also explore how to use assertions and invariants to ensure that our models are always consistent and correct
+explain the importance of modeling also explore how to use assertions and invariants to ensure that our models are always consistent and correct
 the importance of modeling assertions invariants modeling software development miniproject what is algorithmic thinking
 </DOC>
 
 <DOC>
 an introduction to interactive programming in python part
-this twopart is designed to help students with very little or no computing background the basics of building simple interactive applications our language of choice python is an easyto highlevel computer language that is used in many of the computational courses offered on coursera to make python easy we have developed a new browserbased programming environment that makes developing interactive applications in python simple these applications will involve windows whose contents are graphical and respond to buttons the keyboard and the mousein part of this we will introduce the basic elements of programming such as expressions conditionals and functions and then use these elements to create simple interactive applications such as a digital stopwatch part of this class will culminate in building a version of the classic arcade game pong
+this twopart is designed to help students with very little or no computing background the basics of building simple interactive applications our language of choice python is an easyto highlevel computer language that is used in many of the computational courses offered on coursera to make learning python easy we have developed a new browserbased programming environment that makes developing interactive applications in python simple these applications will involve windows whose contents are graphical and respond to buttons the keyboard and the mouse
+in part of this introduce the basic elements of programming such as expressions conditionals and functions and then use these elements to create simple interactive applications such as a digital stopwatch part of this class will culminate in building a version of the classic arcade game pong
 
 statements expressions variables
 understand the structure of this class explore python as a calculator
@@ -51,51 +53,54 @@ lists keyboard input motion collisions and reflections velocity control visualiz
 
 <DOC>
 principles of computing part
-this twopart builds upon the programming that you learned in our introduction to interactive programming in python we will augment those with both important programming practices and critical mathematical problem solving these underlie larger scale computational problem solving and programming the main focus of the class will be programming weekly miniprojects in python that build upon the mathematical and programming principles that are taught in the class to keep the class fun and engaging many of the will involve working with strategybased gamesin part of this the programming aspect of the class will focus on coding standards and testing the mathematical portion of the class will focus on probability combinatorics and counting with an eye towards practical applications of these concepts in computer science recommended background students should be comfortable writing small line programs in python using constructs such as lists dictionaries and classes and also have a highschool math background that includes algebra and precalculus
+this twopart builds upon the programming that you learned in our introduction to interactive programming in python augment those with both important programming practices and critical mathematical problem solving these underlie larger scale computational problem solving and programming the main focus of the class will be programming weekly miniprojects in python that build upon the mathematical and programming principles that are taught in the class to keep the class fun and engaging many of the projects will involve working with strategybased games
+in part of this the programming aspect of the class will focus on coding standards and testing the mathematical portion of the class will focus on probability combinatorics and counting with an eye towards practical applications of these concepts in computer science recommended background students should be comfortable writing small line programs in python using constructs such as lists dictionaries and classes and also have a highschool math background that includes algebra and precalculus
 
 required python knowledge coding standards and machine grading
-we will introduce you to the structure and standards of the principles of computing courses
+introduce you to the structure and standards of the principles of computing courses
 principles of computing introduction required python knowledge coding style and standards python machine grading miniproject codeskulptor saving in codeskulptor beyond codeskulptor optional
 
 testing plotting and grids
-we will explain the importance of testing we will also to solve problems with grids
+explain the importance of testing also to solve problems with grids
 the importance of testing testing plotting grids miniproject
 
 probability randomness and objectsreferences
-this we will how to use probability and randomness to solve problems
+this how to use probability and randomness to solve problems
 the importance of probability basics of probability expected value monte carlo methods objects and references miniproject
 
 combinatorics generators and debugging
-we will how to use combinatorics to solve problems
+how to use combinatorics to solve problems
 the importance of combinatorics enumeration permutations and combinations combinatorics and password breaking debugging miniproject
 
 counting growth of functions higherorder functions
-we will explain the importance of counting in solving complex problems
+explain the importance of counting in solving complex problems
 the importance of counting counting and sums functions finding the max higherorder functions plotting statement counts miniproject
 </DOC>
 
 <DOC>
 algorithmic thinking part
-experienced computer scientists analyze and solve computational problems at a level of abstraction that is beyond that of any particular programming language this twopart class is designed to train students in the mathematical concepts and process of algorithmic thinking allowing them to build simpler more efficient solutions to computational problemsin part of this we will study advanced algorithmic techniques such as divideandconquer and dynamic programming as the central part of the students will implement several algorithms in python that incorporate these techniques and then use these algorithms to analyze two large realworld data sets the main focus of these tasks is to understand interaction between the algorithms and the structure of the data sets being analyzed by these algorithms once students have completed this class they will have both the mathematical and programming to analyze design and solutions to a wide range of computational problems while this class will use python as its vehicle of choice to practice algorithmic thinking the concepts that class transcend any particular programming language
+experienced computer scientists analyze and solve computational problems at a level of abstraction that is beyond that of any particular programming language this twopart class is designed to train students in the mathematical concepts and process of algorithmic thinking allowing them to build simpler more efficient solutions to computational problems
+in part of this study advanced algorithmic techniques such as divideandconquer and dynamic programming as the central part of the students will implement several algorithms in python that incorporate these techniques and then use these algorithms to analyze two large realworld data sets the main focus of these tasks is to understand interaction between the algorithms and the structure of the data sets being analyzed by these algorithms once students have completed this class they will have both the mathematical and programming to analyze design and solutions to a wide range of computational problems while this class will use python as its vehicle of choice to practice algorithmic thinking the concepts that class transcend any particular programming language
 
 core materials
 sorting searching bigo notation the master theorem
 what is algorithmic thinking the sorting problem a simple quadratic algorithm illustrating mergesort the recurrence for mergesort the master theorem and mergesort efficiency linear vs binary search efficiency of binary search class structure from part coding styles and standards poc testing and machine grading poc plotting data poc peer assessment we want a shrubbery iipp
 
-and application
+project and application
 closest pairs of points clustering of points comparison of clustering algorithms
 
 core materials
 dynamic programming running time of dp algorithms local and global sequence alignment
 the rna secondary structure problem a dynamic programming algorithm illustrating the dp algorithm running time of the dp algorithm dp vs recursive implementation global pairwise sequence alignment local pairwise sequence alignment
 
-and application
+project and application
 computation of sequence alignments applications to genomics and text comparison
 </DOC>
 
 <DOC>
 an introduction to interactive programming in python part
-this twopart is designed to help students with very little or no computing background the basics of building simple interactive applications our language of choice python is an easyto highlevel computer language that is used in many of the computational courses offered on coursera to make python easy we have developed a new browserbased programming environment that makes developing interactive applications in python simple these applications will involve windows whose contents are graphical and respond to buttons the keyboard and the mousein part of this we will introduce more elements of programming such as list dictionaries and loops and then use these elements to create games such as blackjack part of this class will culminate in building a version of the classic arcade game asteroids upon completing this be able to write small but interesting python programs the next in the will begin to introduce a more principled approach to writing programs and solving computational problems that will allow you to write larger and more complex programs
+this twopart is designed to help students with very little or no computing background the basics of building simple interactive applications our language of choice python is an easyto highlevel computer language that is used in many of the computational courses offered on coursera to make learning python easy we have developed a new browserbased programming environment that makes developing interactive applications in python simple these applications will involve windows whose contents are graphical and respond to buttons the keyboard and the mouse
+in part of this introduce more elements of programming such as list dictionaries and loops and then use these elements to create games such as blackjack part of this class will culminate in building a version of the classic arcade game asteroids upon completing this be able to write small but interesting python programs the next in the will begin to introduce a more principled approach to writing programs and solving computational problems that will allow you to write larger and more complex programs
 
 mouse input list methods dictionaries
 read mouse input about list methods and dictionaries draw images
@@ -116,29 +121,31 @@ sets collisions for sprites sprite animation programming tips miniproject beyond
 
 <DOC>
 algorithmic thinking part
-experienced computer scientists analyze and solve computational problems at a level of abstraction that is beyond that of any particular programming language this twopart builds on the principles that you learned in our principles of computing and is designed to train students in the mathematical concepts and process of algorithmic thinking allowing them to build simpler more efficient solutions to realworld computational problemsin part of this we will study the notion of algorithmic efficiency and consider its application to several problems from graph theory as the central part of the students will implement several important graph algorithms in python and then use these algorithms to analyze two large realworld data sets the main focus of these tasks is to understand interaction between the algorithms and the structure of the data sets being analyzed by these algorithms recommended background students should be comfortable writing intermediate size line programs in python and have a basic understanding of searching sorting and recursion students should also have a solid math background that includes algebra precalculus and a familiarity with the math concepts covered in principles of computing
+experienced computer scientists analyze and solve computational problems at a level of abstraction that is beyond that of any particular programming language this twopart builds on the principles that you learned in our principles of computing and is designed to train students in the mathematical concepts and process of algorithmic thinking allowing them to build simpler more efficient solutions to realworld computational problems
+in part of this study the notion of algorithmic efficiency and consider its application to several problems from graph theory as the central part of the students will implement several important graph algorithms in python and then use these algorithms to analyze two large realworld data sets the main focus of these tasks is to understand interaction between the algorithms and the structure of the data sets being analyzed by these algorithms recommended background students should be comfortable writing intermediate size line programs in python and have a basic understanding of searching sorting and recursion students should also have a solid math background that includes algebra precalculus and a familiarity with the math concepts covered in principles of computing
 
 core materials
 what is algorithmic thinking class structure graphs bruteforce algorithms
 what is algorithmic thinking class structure pseudocode the smallworld problem graphs and representation paths and distances brute force what is algorithm efficiency measuring efficiency efficiency of brute force distance number of steps of brute force distance coding styles and standards poc machine grading poc plotting data poc peer assessment we want a shrubbery iipp
 
-and application
+project and application
 graph representations plotting analysis of citation graphs
 
 core materials
 asymptotic analysis big o notation pseudocode breadthfirst search
 orders of growth asymptotics illustrating big o illustrating bfs queues and boundary cases pseudocode bfs running time loose analysis bfs running time tighter analysis bfsbased distance distribution
 
-and application
+project and application
 connected components graph resilience and analysis of computer networks
 </DOC>
 
 <DOC>
 the fundamentals of computing capstone exam
-while most specializations on coursera conclude with a projectbased students in the fundamentals of computing have completed more than during the first six courses of the given that much of the material in these courses is reused from session to session our goal capstone class is to provide a conclusion to the that allows each student an to demonstrate their individual mastery of the material in the specializationwith this objective in mind the focus capstone class will be an exam whose questions are updated periodically this approach is designed to help insure that each student is solving the exam problems on hisher own without outside help for students that have done their own we do not anticipate that the exam will be particularly hard however those students who have relied too heavily on outside help in previous classes may have a difficult time we believe that this approach will increase the value of the for this
+while most specializations on coursera conclude with a projectbased students in the fundamentals of computing have completed more than projects during the first six courses of the given that much of the material in these courses is reused from session to session our goal capstone class is to provide a conclusion to the that allows each student an to demonstrate their individual mastery of the material in the
+with this objective in mind the focus capstone class will be an exam whose questions are updated periodically this approach is designed to help insure that each student is solving the exam problems on hisher own without outside help for students that have done their own we do not anticipate that the exam will be particularly hard however those students who have relied too heavily on outside help in previous classes may have a difficult time we believe that this approach will increase the value of the for this
 
 fundamentals of computing capstone exam
 complete a question exam to demonstrate your mastery of the material in the
-class overview class wrap up
+class class wrap up
 </DOC>
 

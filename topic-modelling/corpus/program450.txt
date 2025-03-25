@@ -1,13 +1,17 @@
 <DOC>
 sas visual business analytics
-using sas visual analytics to access and manipulate data analyze data with a variety of interactive reports and graphics and design and share dashboards to visualize your data sas visual analytics is a useful in a variety of careers including business analyst researcher statistician or data scientist the macquarie business school at macquarie university is proud to partner with global analytics leader sas in offering sas certificationopens in a new tab as part of their global mba the global mba sas partnership includes the for professionals certified through the sas certified specialist visual business analystopens in a new tab to gain credit when studying for macquarie universitys global mba through the generate insights unit find out more about the benefits of the partnership hereopens in a new tabapplied projectthrough the sas visual business analytics you get access to handson that are built into the of each examples of include visual analytics methodology designing reports with sas visual analytics review restructuring data for forecasting review and using parameters to create advanced reports review
+using sas visual analytics to access and manipulate data analyze data with a variety of interactive reports and graphics and design and share dashboards to visualize your data sas visual analytics is a useful in a variety of careers including business analyst researcher statistician or data scientist
+the macquarie business school at macquarie university is proud to partner with global analytics leader sas in offering sas certificationopens in a new tab as part of their global mba the global mba sas partnership includes the for professionals certified through the sas certified specialist visual business analystopens in a new tab to gain credit when studying for macquarie universitys global mba through the generate insights unit find out more about the benefits of the partnership hereopens in a new tab
+
+
+through the sas visual business analytics you get access to handson projects that are built into the of each examples of projects include visual analytics methodology designing reports with sas visual analytics review restructuring data for forecasting review and using parameters to create advanced reports review
 </DOC>
 
 <DOC>
 data analysis and reporting in sas visual analytics
 you how to use sas visual analytics on sas viya to modify data for analysis perform data discovery and analysis and create interactive reports
 
-overview
+
 you about the business scenario that follow for this and where the files are located in the virtual lab
 
 analyzing data using sas visual analytics
@@ -23,7 +27,7 @@ introduction to designing reports business scenario visual analytics methodology
 performing network path and text analyses in sas visual analytics
 you about the data structure needed for network path and text analytics and how to create network analysis path analysis and text analytics in sas visual analytics
 
-overview
+
 you about the business scenario that follow for this and where the files are located in the virtual lab
 
 performing network analysis
@@ -43,11 +47,11 @@ introduction to text analysis business scenario analytics text topics text topic
 getting started with sas visual analytics
 you more about sas visual analytics and the sas viya platform how to access and investigate data in sas visual analytics and how to prepare data for analysis using sas data studio
 
-overview
-you about the scope and structure of the courses
-meet the instructor overview taking courses
 
-overview and logistics
+you about the scope and structure of the courses
+meet the instructor taking courses
+
+and logistics
 you about the business scenario that follow for this and where the files are located in the virtual lab
 
 getting started with sas visual analytics
@@ -63,7 +67,7 @@ introduction to preparing data business scenario visual analytics methodology ac
 using data for geographic mapping and forecasting in sas visual analytics
 you about the data structure needed for geographic mapping and forecasting how to use sas data studio to restructure data for analysis and how to create geo maps and forecasts in sas visual analytics
 
-overview and introduction to advanced topics
+and introduction to advanced topics
 you about the business scenario that follow for this and where the files are located in the virtual lab
 
 automated explanation
@@ -83,7 +87,7 @@ introduction to restructuring data for forecasting business scenario forecasting
 creating advanced reports with sas visual analytics
 you how to create advanced data items filters and parameters in sas visual analytics
 
-overview
+
 you about the business scenario that follow for this and where the files are located in the virtual lab
 
 creating advanced data items

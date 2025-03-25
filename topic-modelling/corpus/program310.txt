@@ -1,6 +1,8 @@
 <DOC>
 python for cybersecurity
-python is one of the most popular and widelyused programming languages in the world due to its high usability and large collection of libraries this path provides an applicationdriven introduction to using python for cybersecurity python can help to automate tasks across the cyberattack life cycle for both cyber attackers and defenders this demonstrates some of these applications and how python can be used to make cybersecurity professionals more efficient and effective applied projectlearners will acquire the technical needs to develop custom python scripts to automate cybersecurity tasks the challenges involve developing or modifying python code to address cybersecurity use cases drawn from mitre attck and shield
+python is one of the most popular and widelyused programming languages in the world due to its high usability and large collection of libraries this learning path provides an applicationdriven introduction to using python for cybersecurity python can help to automate tasks across the cyberattack life cycle for both cyber attackers and defenders this demonstrates some of these applications and how python can be used to make cybersecurity professionals more efficient and effective
+
+learners will acquire the technical needs to develop custom python scripts to automate cybersecurity tasks the challenges project involve developing or modifying python code to address cybersecurity use cases drawn from mitre attck and shield
 </DOC>
 
 <DOC>
@@ -81,7 +83,7 @@ mitre attck defense evasion introduction to impair defenses impair avs introduct
 
 <DOC>
 introduction to python for cybersecurity
-this it the first part of the python for cybersecurity learners will get an introduction and overview of the format and objectives
+this it the first part of the python for cybersecurity learners will get an introduction and of the format and learning objectives
 
 introduction to python for cybersecurity
 reading

@@ -7,11 +7,12 @@ def preprocess_text(text):
         text = text.lower()
         text = re.sub(r'[^a-z\s]', '', text)
         text = re.sub(r'[^a-z\s\'-]', '', text)
-        stop_words = ["course", "program", "learn", "learning", "outcome", "outcomes",
+        stop_words = ["course", "program", "learn", "outcome", "outcomes", "work",
                     "description", "skill", "skills", "module", "modules", "specialization", "specialisation",
-                    "summary", "certificate", "certificates", "professional", "career", "opportunity", "opportunities", "project", "projects", "work",
+                    "summary", "certificate", "certificates", "professional", "career", "opportunity", "opportunities",
                     "experience", "experiences", "videos", "video", "readings", "assignment", "applied learning project",
-                    "in this", "you will", "this week", "week", "youll", "assignments"]
+                    "in this", "you will", "this week", "week", "youll", "assignments", "meet your instructor", "overview",
+                    "we will", "well"]
         pattern = r'\b(?:' + '|'.join(stop_words) + r')\b'
         text = re.sub(pattern, '', text)
         return re.sub(r'\s+', ' ', text).strip()
@@ -33,8 +34,11 @@ try:
             with open(corpus_file, 'w', encoding='utf-8') as f:
                 # Program information
                 prog_title = preprocess_text(program['prog_title'])
-                prog_desc = preprocess_text(program['prog_description'])
-                f.write(f"<DOC>\n{prog_title}\n{prog_desc}\n</DOC>\n\n")
+                prog_desc = ""
+                raw_desc =  program['prog_description'].split(";")
+                for desc in raw_desc:
+                    prog_desc += preprocess_text(desc) + "\n"
+                f.write(f"<DOC>\n{prog_title}\n{prog_desc}</DOC>\n\n")
                 
                 # Get courses for this program
                 program_courses = course_df[course_df['program_id'] == program_id]
@@ -44,8 +48,11 @@ try:
                     course_url = course['url']
                     num_modules = int(course['num_modules'])
                     course_title = preprocess_text(course['course_title'])
-                    course_desc = preprocess_text(course['course_description'])
-                    f.write(f"<DOC>\n{course_title}\n{course_desc}\n")
+                    course_desc = ""
+                    raw_desc = course['course_description'].split(";")
+                    for desc in raw_desc:
+                        course_desc += preprocess_text(desc) + "\n"
+                    f.write(f"<DOC>\n{course_title}\n{course_desc}")
                     
                     # Get modules for this course
                     course_modules = grouped_module_df.loc[course_url]

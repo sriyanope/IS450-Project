@@ -1,6 +1,9 @@
 <DOC>
 algorithms
-algorithms are the heart of computer science and the subject has countless practical applications as well as intellectual depth this is an introduction to algorithms for learners with at least a little programming the is rigorous but emphasizes the big picture and conceptual understanding over lowlevel implementation and mathematical details after completing this be wellpositioned to ace your technical interviews and speak fluently about algorithms with other programmers and computer scientistsabout the instructor tim roughgarden has been a professor in the computer science department at stanford university since he has taught and published extensively on the subject of algorithms and their applicationsapplied projectlearners will practice and master the fundamentals of algorithms through several types of assessments every there is a multiple choice quiz to test your understanding of the most important concepts there are also weekly programming where you implement one of the algorithms covered in lecture in a programming language of your choosing each concludes with a multiplechoice final exam
+algorithms are the heart of computer science and the subject has countless practical applications as as intellectual depth this is an introduction to algorithms for learners with at least a little programming the is rigorous but emphasizes the big picture and conceptual understanding over lowlevel implementation and mathematical details after completing this be wellpositioned to ace your technical interviews and speak fluently about algorithms with other programmers and computer scientists
+about the instructor tim roughgarden has been a professor in the computer science department at stanford university since he has taught and published extensively on the subject of algorithms and their applications
+
+learners will practice and master the fundamentals of algorithms through several types of assessments every there is a multiple choice quiz to test your understanding of the most important concepts there are also weekly programming where you implement one of the algorithms covered in lecture in a programming language of your choosing each concludes with a multiplechoice final exam
 </DOC>
 
 <DOC>
@@ -9,7 +12,7 @@ the primary topics part of the are data structures heaps balanced search trees h
 
 
 breadthfirst and depthfirst search computing strong components applications
-graph search overview breadthfirst search bfs the basics bfs and shortest paths bfs and undirected connectivity depthfirst search dfs the basics topological sort computing strong components the algorithm computing strong components the analysis structure of the web optional
+graph search breadthfirst search bfs the basics bfs and shortest paths bfs and undirected connectivity depthfirst search dfs the basics topological sort computing strong components the algorithm computing strong components the analysis structure of the web optional
 
 
 dijkstras shortestpath algorithm
@@ -17,7 +20,7 @@ dijkstras shortestpath algorithm dijkstras algorithm examples correctness of dij
 
 
 heaps balanced binary search trees
-data structures overview heaps operations and applications heaps implementation details advanced optional balanced search trees operations and applications binary search tree basics part i binary search tree basics part ii redblack trees rotations advanced optional insertion in a redblack tree advanced
+data structures heaps operations and applications heaps implementation details advanced optional balanced search trees operations and applications binary search tree basics part i binary search tree basics part ii redblack trees rotations advanced optional insertion in a redblack tree advanced
 
 
 hashing bloom filters
@@ -38,7 +41,7 @@ on log n algorithm for counting inversions i on log n algorithm for counting inv
 
 
 the quicksort algorithm and its analysis probability review
-quicksort overview partitioning around a pivot correctness of quicksort review optional choosing a good pivot analysis i a decomposition principle analysis ii the key insight analysis iii final calculations probability review i probability review ii
+quicksort partitioning around a pivot correctness of quicksort review optional choosing a good pivot analysis i a decomposition principle analysis ii the key insight analysis iii final calculations probability review i probability review ii
 
 
 lineartime selection graphs cuts and the contraction algorithm

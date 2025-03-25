@@ -1,40 +1,58 @@
 <DOC>
-deep
-the deep is a foundational that will help you understand the capabilities challenges and consequences of deep and prepare you to participate in the development of leadingedge ai technology build and train neural network architectures such as convolutional neural networks recurrent neural networks lstms transformers and how to make them better with strategies such as dropout batchnorm xavierhe initialization and more get ready to master theoretical concepts and their industry applications using python and tensorflow and tackle realworld cases such as speech recognition music synthesis chatbots machine translation natural language processing and moreai is transforming many industries the deep provides a pathway for you to take the definitive step in the world of ai by helping you gain the knowledge and to level up your along the way also get advice from deep experts from industry and academiaapplied projectby the end be able to build and train deep neural networks implement vectorized neural networks identify architecture parameters and apply dl to your applications use best practices to train and develop test sets and analyze biasvariance for building dl applications use standard nn techniques apply optimization algorithms and implement a neural network in tensorflow use strategies for reducing errors in ml systems understand complex ml settings and apply endtoend transfer and multitask build a convolutional neural network apply it to visual detection and recognition tasks use neural style transfer to generate art and apply these algorithms to image and other dd data build and train recurrent neural networks and its variants grus lstms apply rnns to characterlevel language modeling with nlp and word embeddings and use huggingface tokenizers and transformers to perform named entity recognition and question answering
+deep learning
+the deep learning is a foundational that will help you understand the capabilities challenges and consequences of deep learning and prepare you to participate in the development of leadingedge ai technology
+build and train neural network architectures such as convolutional neural networks recurrent neural networks lstms transformers and how to make them better with strategies such as dropout batchnorm xavierhe initialization and more get ready to master theoretical concepts and their industry applications using python and tensorflow and tackle realworld cases such as speech recognition music synthesis chatbots machine translation natural language processing and more
+ai is transforming many industries the deep learning provides a pathway for you to take the definitive step in the world of ai by helping you gain the knowledge and to level up your along the way also get advice from deep learning experts from industry and academia
+
+by the end be able to
+build and train deep neural networks implement vectorized neural networks identify architecture parameters and apply dl to your applications
+use best practices to train and develop test sets and analyze biasvariance for building dl applications use standard nn techniques apply optimization algorithms and implement a neural network in tensorflow
+use strategies for reducing errors in ml systems understand complex ml settings and apply endtoend transfer and multitask learning
+build a convolutional neural network apply it to visual detection and recognition tasks use neural style transfer to generate art and apply these algorithms to image and other dd data
+build and train recurrent neural networks and its variants grus lstms apply rnns to characterlevel language modeling with nlp and word embeddings and use huggingface tokenizers and transformers to perform named entity recognition and question answering
 </DOC>
 
 <DOC>
-neural networks and deep
-in the first of the deep study the foundational concept of neural networks and deep by the end be familiar with the significant technological trends driving the rise of deep build train and apply fully connected deep neural networks implement efficient vectorized neural networks identify key parameters in a neural networks architecture and apply deep to your own applications the deep is our foundational that will help you understand the capabilities challenges and consequences of deep and prepare you to participate in the development of leadingedge ai technology it provides a pathway for you to gain the knowledge and to apply machine to your level up your technical and take the definitive step in the world of ai
+neural networks and deep learning
+in the first of the deep learning study the foundational concept of neural networks and deep learning
+by the end be familiar with the significant technological trends driving the rise of deep learning
+build train and apply fully connected deep neural networks
+implement efficient vectorized neural networks
+identify key parameters in a neural networks architecture
+and apply deep learning to your own applications the deep learning is our foundational that will help you understand the capabilities challenges and consequences of deep learning and prepare you to participate in the development of leadingedge ai technology it provides a pathway for you to gain the knowledge and to apply machine learning to your level up your technical and take the definitive step in the world of ai
 
-introduction to deep
-analyze the major trends driving the rise of deep and give examples of where and how it is applied today
-welcome what is a neural network supervised with neural networks why is deep taking off about this geoffrey hinton interview
+introduction to deep learning
+analyze the major trends driving the rise of deep learning and give examples of where and how it is applied today
+welcome what is a neural network supervised learning with neural networks why is deep learning taking off about this geoffrey hinton interview
 
 neural networks basics
-set up a machine problem with a neural network mindset and use vectorization to speed up your models
+set up a machine learning problem with a neural network mindset and use vectorization to speed up your models
 binary classification logistic regression logistic regression cost function gradient descent derivatives more derivative examples computation graph derivatives with a computation graph logistic regression gradient descent gradient descent on m examples vectorization more vectorization examples vectorizing logistic regression vectorizing logistic regressions gradient output broadcasting in python a note on pythonnumpy vectors quick tour of jupyteripython notebooks explanation of logistic regression cost function optional pieter abbeel interview
 
 shallow neural networks
 build a neural network with one hidden layer using forward propagation and backpropagation
-neural networks overview neural network representation computing a neural networks output vectorizing across multiple examples explanation for vectorized implementation activation functions why do you need nonlinear activation functions derivatives of activation functions gradient descent for neural networks backpropagation intuition optional random initialization ian goodfellow interview
+neural networks neural network representation computing a neural networks output vectorizing across multiple examples explanation for vectorized implementation activation functions why do you need nonlinear activation functions derivatives of activation functions gradient descent for neural networks backpropagation intuition optional random initialization ian goodfellow interview
 
 deep neural networks
-analyze the key computations underlying deep then use them to build and train deep neural networks for computer vision tasks
+analyze the key computations underlying deep learning then use them to build and train deep neural networks for computer vision tasks
 deep llayer neural network forward propagation in a deep network getting your matrix dimensions right why deep representations building blocks of deep neural networks forward and backward propagation parameters vs hyperparameters what does this have to do with the brain
 </DOC>
 
 <DOC>
 sequence models
-in the fifth of the deep become familiar with sequence models and their exciting applications such as speech recognition music synthesis chatbots machine translation natural language processing nlp and more by the end be able to build and train recurrent neural networks rnns and commonlyused variants such as grus and lstms apply rnns to characterlevel language modeling gain with natural language processing and word embeddings and use huggingface tokenizers and transformer models to solve different nlp tasks such as ner and question answering the deep is a foundational that will help you understand the capabilities challenges and consequences of deep and prepare you to participate in the development of leadingedge ai technology it provides a pathway for you to take the definitive step in the world of ai by helping you gain the knowledge and to level up your
+in the fifth of the deep learning become familiar with sequence models and their exciting applications such as speech recognition music synthesis chatbots machine translation natural language processing nlp and more
+by the end be able to build and train recurrent neural networks rnns and commonlyused variants such as grus and lstms
+apply rnns to characterlevel language modeling
+gain with natural language processing and word embeddings
+and use huggingface tokenizers and transformer models to solve different nlp tasks such as ner and question answering the deep learning is a foundational that will help you understand the capabilities challenges and consequences of deep learning and prepare you to participate in the development of leadingedge ai technology it provides a pathway for you to take the definitive step in the world of ai by helping you gain the knowledge and to level up your
 
 recurrent neural networks
-discover recurrent neural networks a type of model that performs extremely well on temporal data and several of its variants including lstms grus and bidirectional rnns
+discover recurrent neural networks a type of model that performs extremely on temporal data and several of its variants including lstms grus and bidirectional rnns
 why sequence models notation recurrent neural network model backpropagation through time different types of rnns language model and sequence generation sampling novel sequences vanishing gradients with rnns gated recurrent unit gru long short term memory lstm bidirectional rnn deep rnns
 
 natural language processing word embeddings
-natural language processing with deep is a powerful combination using word vector representations and embedding layers train recurrent neural networks with outstanding performance across a wide variety of applications including sentiment analysis named entity recognition and neural machine translation
-word representation using word embeddings properties of word embeddings embedding matrix word embeddings wordvec negative sampling glove word vectors sentiment classification debiasing word embeddings
+natural language processing with deep learning is a powerful combination using word vector representations and embedding layers train recurrent neural networks with outstanding performance across a wide variety of applications including sentiment analysis named entity recognition and neural machine translation
+word representation using word embeddings properties of word embeddings embedding matrix learning word embeddings wordvec negative sampling glove word vectors sentiment classification debiasing word embeddings
 
 sequence models attention mechanism
 augment your sequence models using an attention mechanism an algorithm that helps your model decide where to focus its attention given a sequence of inputs then explore speech recognition and how to deal with audio data
@@ -47,32 +65,39 @@ transformer network intuition selfattention multihead attention transformer netw
 
 <DOC>
 improving deep neural networks hyperparameter tuning regularization and optimization
-in the second of the deep open the deep black box to understand the processes that drive performance and generate good results systematically by the end the best practices to train and develop test sets and analyze biasvariance for building deep applications be able to use standard neural network techniques such as initialization l and dropout regularization hyperparameter tuning batch normalization and gradient checking implement and apply a variety of optimization algorithms such as minibatch gradient descent momentum rmsprop and adam and check for their convergence and implement a neural network in tensorflow the deep is our foundational that will help you understand the capabilities challenges and consequences of deep and prepare you to participate in the development of leadingedge ai technology it provides a pathway for you to gain the knowledge and to apply machine to your level up your technical and take the definitive step in the world of ai
+in the second of the deep learning open the deep learning black box to understand the processes that drive performance and generate good results systematically
+by the end the best practices to train and develop test sets and analyze biasvariance for building deep learning applications
+be able to use standard neural network techniques such as initialization l and dropout regularization hyperparameter tuning batch normalization and gradient checking
+implement and apply a variety of optimization algorithms such as minibatch gradient descent momentum rmsprop and adam and check for their convergence
+and implement a neural network in tensorflow the deep learning is our foundational that will help you understand the capabilities challenges and consequences of deep learning and prepare you to participate in the development of leadingedge ai technology it provides a pathway for you to gain the knowledge and to apply machine learning to your level up your technical and take the definitive step in the world of ai
 
-practical aspects of deep
+practical aspects of deep learning
 discover and experiment with a variety of different initialization methods apply l regularization and dropout to avoid model overfitting then apply gradient checking to identify errors in a fraud detection model
-train dev test sets bias variance basic recipe for machine regularization why regularization reduces overfitting dropout regularization understanding dropout other regularization methods normalizing inputs vanishing exploding gradients weight initialization for deep networks numerical approximation of gradients gradient checking gradient checking implementation notes yoshua bengio interview
+train dev test sets bias variance basic recipe for machine learning regularization why regularization reduces overfitting dropout regularization understanding dropout other regularization methods normalizing inputs vanishing exploding gradients weight initialization for deep networks numerical approximation of gradients gradient checking gradient checking implementation notes yoshua bengio interview
 
 optimization algorithms
-develop your deep toolbox by adding more advanced optimizations random minibatching and rate decay scheduling to speed up your models
-minibatch gradient descent understanding minibatch gradient descent exponentially weighted averages understanding exponentially weighted averages bias correction in exponentially weighted averages gradient descent with momentum rmsprop adam optimization algorithm rate decay the problem of local optima yuanqing lin interview
+develop your deep learning toolbox by adding more advanced optimizations random minibatching and learning rate decay scheduling to speed up your models
+minibatch gradient descent understanding minibatch gradient descent exponentially weighted averages understanding exponentially weighted averages bias correction in exponentially weighted averages gradient descent with momentum rmsprop adam optimization algorithm learning rate decay the problem of local optima yuanqing lin interview
 
 hyperparameter tuning batch normalization and programming frameworks
-explore tensorflow a deep framework that allows you to build neural networks quickly and easily then train a neural network on a tensorflow dataset
-tuning process using an appropriate scale to pick hyperparameters hyperparameters tuning in practice pandas vs caviar normalizing activations in a network fitting batch norm into a neural network why does batch norm batch norm at test time softmax regression training a softmax classifier deep frameworks tensorflow
+explore tensorflow a deep learning framework that allows you to build neural networks quickly and easily then train a neural network on a tensorflow dataset
+tuning process using an appropriate scale to pick hyperparameters hyperparameters tuning in practice pandas vs caviar normalizing activations in a network fitting batch norm into a neural network why does batch norm batch norm at test time softmax regression training a softmax classifier deep learning frameworks tensorflow
 </DOC>
 
 <DOC>
 convolutional neural networks
-in the fourth of the deep understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving face recognition reading radiology images and moreby the end be able to build a convolutional neural network including recent variations such as residual networks apply convolutional networks to visual detection and recognition tasks and use neural style transfer to generate art and apply these algorithms to a variety of image and other d or d data the deep is our foundational that will help you understand the capabilities challenges and consequences of deep and prepare you to participate in the development of leadingedge ai technology it provides a pathway for you to gain the knowledge and to apply machine to your level up your technical and take the definitive step in the world of ai
+in the fourth of the deep learning understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving face recognition reading radiology images and more
+by the end be able to build a convolutional neural network including recent variations such as residual networks
+apply convolutional networks to visual detection and recognition tasks
+and use neural style transfer to generate art and apply these algorithms to a variety of image and other d or d data the deep learning is our foundational that will help you understand the capabilities challenges and consequences of deep learning and prepare you to participate in the development of leadingedge ai technology it provides a pathway for you to gain the knowledge and to apply machine learning to your level up your technical and take the definitive step in the world of ai
 
 foundations of convolutional neural networks
 implement the foundational layers of cnns pooling convolutions and stack them properly in a deep network to solve multiclass image classification problems
 computer vision edge detection example more edge detection padding strided convolutions convolutions over volume one layer of a convolutional network simple convolutional network example pooling layers cnn example why convolutions yann lecun interview
 
 deep convolutional models case studies
-discover some powerful practical tricks and methods used in deep cnns straight from the research papers then apply transfer to your own deep cnn
-why look at case studies classic networks resnets why resnets networks in networks and x convolutions inception network motivation inception network mobilenet mobilenet architecture efficientnet using opensource implementation transfer data augmentation state of computer vision
+discover some powerful practical tricks and methods used in deep cnns straight from the research papers then apply transfer learning to your own deep cnn
+why look at case studies classic networks resnets why resnets networks in networks and x convolutions inception network motivation inception network mobilenet mobilenet architecture efficientnet using opensource implementation transfer learning data augmentation state of computer vision
 
 object detection
 apply your new knowledge of cnns to one of the hottest and most challenging fields in computer vision object detection
@@ -80,19 +105,23 @@ object localization landmark detection object detection convolutional implementa
 
 special applications face recognition neural style transfer
 explore how cnns can be applied to multiple fields including art generation and face recognition then implement your own algorithm to generate art and recognize faces
-what is face recognition one shot siamese network triplet loss face verification and binary classification what is neural style transfer what are deep convnets cost function content cost function style cost function d and d generalizations
+what is face recognition one shot learning siamese network triplet loss face verification and binary classification what is neural style transfer what are deep convnets learning cost function content cost function style cost function d and d generalizations
 </DOC>
 
 <DOC>
-structuring machine
-in the third of the deep how to build a successful machine and get to practice decisionmaking as a machine leader by the end be able to diagnose errors in a machine system prioritize strategies for reducing errors understand complex ml settings such as mismatched trainingtest sets and comparing to andor surpassing humanlevel performance and apply endtoend transfer and multitask this is also a standalone for learners who have basic machine knowledge this draws on andrew ngs building and shipping many deep products if you aspire to become a technical leader who can set the direction for an ai team this provides the industry that you might otherwise get only after years of ml the deep is our foundational that will help you understand the capabilities challenges and consequences of deep and prepare you to participate in the development of leadingedge ai technology it provides a pathway for you to gain the knowledge and to apply machine to your level up your technical and take the definitive step in the world of ai
+structuring machine learning projects
+in the third of the deep learning how to build a successful machine learning project and get to practice decisionmaking as a machine learning project leader
+by the end be able to diagnose errors in a machine learning system
+prioritize strategies for reducing errors
+understand complex ml settings such as mismatched trainingtest sets and comparing to andor surpassing humanlevel performance
+and apply endtoend learning transfer learning and multitask learning this is also a standalone for learners who have basic machine learning knowledge this draws on andrew ngs building and shipping many deep learning products if you aspire to become a technical leader who can set the direction for an ai team this provides the industry that you might otherwise get only after years of ml the deep learning is our foundational that will help you understand the capabilities challenges and consequences of deep learning and prepare you to participate in the development of leadingedge ai technology it provides a pathway for you to gain the knowledge and to apply machine learning to your level up your technical and take the definitive step in the world of ai
 
 ml strategy
 streamline and optimize your ml production workflow by implementing strategic guidelines for goalsetting and applying humanlevel performance to help define key priorities
 why ml strategy orthogonalization single number evaluation metric satisficing and optimizing metric traindevtest distributions size of the dev and test sets when to change devtest sets and metrics why humanlevel performance avoidable bias understanding humanlevel performance surpassing humanlevel performance improving your model performance andrej karpathy interview
 
 ml strategy
-develop timesaving error analysis procedures to evaluate the most worthwhile options to pursue and gain intuition for how to split your data and when to use multitask transfer and endtoend deep
-carrying out error analysis cleaning up incorrectly labeled data build your first system quickly then iterate training and testing on different distributions bias and variance with mismatched data distributions addressing data mismatch transfer multitask what is endtoend deep whether to use endtoend deep ruslan salakhutdinov interview
+develop timesaving error analysis procedures to evaluate the most worthwhile options to pursue and gain intuition for how to split your data and when to use multitask transfer and endtoend deep learning
+carrying out error analysis cleaning up incorrectly labeled data build your first system quickly then iterate training and testing on different distributions bias and variance with mismatched data distributions addressing data mismatch transfer learning multitask learning what is endtoend deep learning whether to use endtoend deep learning ruslan salakhutdinov interview
 </DOC>
 

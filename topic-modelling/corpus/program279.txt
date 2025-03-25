@@ -1,6 +1,10 @@
 <DOC>
 neuroscience and neuroimaging
-this combines the strength of different neuroscience courses into a cohesive taught by johns hopkins university it begins with fundamental neuroscience concepts for neuroimaging neuroimaging methods are used with increasing frequency in clinical practice and basic research starting with the neuroanatomy of the brain it then moves into principles of neuroimaging including experimental design in neuroimaging functional connectivity mri diffusion tensor imaging and spectroscopy imagingthe then continues with two courses that focus on functional magnetic resonance imaging one of the most widely used techniques for investigating the living functioning human brain as people perform tasks and mental states and a convergence point for multidisciplinary to conclude the moves into implementation of neurohacking using the r programming language with the associated packages to perform data manipulation processing and analysis of neuroimaging data using publicly available structural mriapplied projectlearners will go from fmri data design structure and acquisition to using the r programming language httpscranrprojectorg and its associated package to perform manipulation processing and analysis of neuroimaging data specifically how to readwrite images of the brain in nifti format visualize and explore these images perform inhomogeneity correction brain extraction and image registration within a subject and to a template
+this combines the strength of different neuroscience courses into a cohesive learning taught by johns hopkins university it begins with fundamental neuroscience concepts for neuroimaging neuroimaging methods are used with increasing frequency in clinical practice and basic research starting with the neuroanatomy of the brain it then moves into principles of neuroimaging including experimental design in neuroimaging functional connectivity mri diffusion tensor imaging and spectroscopy imaging
+the then continues with two courses that focus on functional magnetic resonance imaging one of the most widely used techniques for investigating the living functioning human brain as people perform tasks and mental states and a convergence point for multidisciplinary
+to conclude the moves into implementation of neurohacking using the r programming language with the associated packages to perform data manipulation processing and analysis of neuroimaging data using publicly available structural mri
+
+learners will go from fmri data design structure and acquisition to using the r programming language httpscranrprojectorg and its associated package to perform manipulation processing and analysis of neuroimaging data specifically how to readwrite images of the brain in nifti format visualize and explore these images perform inhomogeneity correction brain extraction and image registration within a subject and to a template
 </DOC>
 
 <DOC>
@@ -8,25 +12,25 @@ principles of fmri
 functional magnetic resonance imaging fmri is the most widely used technique for investigating the living functioning human brain as people perform tasks and mental states it is a convergence point for multidisciplinary from many disciplines psychologists statisticians physicists computer scientists neuroscientists medical researchers behavioral scientists engineers public health researchers biologists and others are coming together to advance our understanding of the human mind and brain this covers the analysis of functional magnetic resonance imaging fmri data it is a continuation of the principles of fmri part
 
 
-we will discuss psychological and behavioral inference as well as advanced experimental design
+discuss psychological and behavioral inference as as advanced experimental design
 a crises in neuroscience and psychology problems and solutions b crises in neuroscience and psychology problems and solutions a pitfalls and biases in interpretation circularity reverse inference voodoo and beyond b pitfalls and biases in interpretation circularity reverse inference voodoo and beyond meta analysis using metaanalysis to improve inference optimizing acquisition for your study goals restingstate fmri
 
 
-we will continue with advanced experimental design and also discuss advanced glm modeling
+continue with advanced experimental design and also discuss advanced glm modeling
 a advanced experimental design i fundamentals of design efficiency b advanced experimental design i fundamentals of design efficiency advanced experimental design ii efficiency in fmri advanced experimental design iii optimizing experimental designs with genetic algorithms model building parametric modulators basis sets ii smooth fir htw basis sets at nd level a multicolinearity and diagnostics b multicolinearity and diagnostics robust regression a practical group analysis procedures and checks b practical group analysis procedures and checks
 
 
-we will focus on brain connectivity
+focus on brain connectivity
 brain connectivity different types functional connectivity multivariate decomposition methods dynamic connectivity network analysis i graph theory effective connectivity mediation moderation and structural models b mediation moderation and structural models
 
 
-we will focus on multivoxel pattern analysis
+focus on multivoxel pattern analysis
 directed graphs dcm directed graphs granger causality principles of causal inference multivoxel pattern analysis a neuroscientific perspective b multivoxel pattern analysis a neuroscientific perspective mvpa intro performing mvpa i performing mvpa ii mvpapm example nps expand social and physical pain b mvpapm example nps expand social and physical pain
 </DOC>
 
 <DOC>
 fundamental neuroscience for neuroimaging
-neuroimaging methods are used with increasing frequency in clinical practice and basic research designed for students and professionals this will introduce the basic principles of neuroimaging methods as applied to human subjects research and introduce the neuroscience concepts and terminology necessary for a basic understanding of neuroimaging applications topics include the history of neuroimaging an introduction to neuroimaging physics and image formation as well as an overview of different neuroimaging applications including functional mri diffusion tensor imaging magnetic resonance spectroscopy perfusion imaging and positron emission tomography imaging each will be reviewed in the context of their specific methods source of signal goals and limitations the will also introduce basic neuroscience concepts necessary to understand the implementation of neuroimaging methods including structural and functional human neuroanatomy cognitive domains and experimental design
+neuroimaging methods are used with increasing frequency in clinical practice and basic research designed for students and professionals this will introduce the basic principles of neuroimaging methods as applied to human subjects research and introduce the neuroscience concepts and terminology necessary for a basic understanding of neuroimaging applications topics include the history of neuroimaging an introduction to neuroimaging physics and image formation as as an of different neuroimaging applications including functional mri diffusion tensor imaging magnetic resonance spectroscopy perfusion imaging and positron emission tomography imaging each will be reviewed in the context of their specific methods source of signal goals and limitations the will also introduce basic neuroscience concepts necessary to understand the implementation of neuroimaging methods including structural and functional human neuroanatomy cognitive domains and experimental design
 
 structural neuroanatomy of the human brain
 will introduce basic terminology in neuroscience and structural neuroanatomy of the human brain
@@ -47,39 +51,40 @@ experimental design functional connectivity mri studies diffusion tensor imaging
 
 <DOC>
 introduction to neurohacking in r
-neurohacking describes how to use the r programming language httpscranrprojectorg and its associated package to perform manipulation processing and analysis of neuroimaging data we focus on publiclyavailable structural magnetic resonance imaging mri we discuss concepts such as inhomogeneity correction image registration and image visualizationby the end of this be able to readwrite images of the brain in the nifti neuroimaging informatics technology initiative format visualize and explore these images perform inhomogeneity correction brain extraction and image registration within a subject and to a template
+neurohacking describes how to use the r programming language httpscranrprojectorg and its associated package to perform manipulation processing and analysis of neuroimaging data we focus on publiclyavailable structural magnetic resonance imaging mri we discuss concepts such as inhomogeneity correction image registration and image visualization
+by the end of this be able to readwrite images of the brain in the nifti neuroimaging informatics technology initiative format visualize and explore these images perform inhomogeneity correction brain extraction and image registration within a subject and to a template
 
 introduction
 reading
 meet the team introduction structural mri and r
 
 neuroimaging formats and visualization
-section we will discuss different formats that brain images come in as well as some of the commonly done magnetic resonance imaging mri scans
+section discuss different formats that brain images come in as as some of the commonly done magnetic resonance imaging mri scans
 data structures and operations the nifti format basic visualization basic visualization basic data manipulation transformations and smoothing basic mri contrasts
 
 image processing
-section we will discuss the steps done to process brain mri data we will discuss inhomogeneity correction brain extraction or skull stripping and various image registration techniques
-preprocessing an overview registration fslr system requirements bias field correction using fslr brain extraction using fslr image registration using fslr installing antsr basic data manipulation with antsr preprocessing with antsr
+section discuss the steps done to process brain mri data discuss inhomogeneity correction brain extraction or skull stripping and various image registration techniques
+preprocessing an registration fslr system requirements bias field correction using fslr brain extraction using fslr image registration using fslr installing antsr basic data manipulation with antsr preprocessing with antsr
 
 extended image processing
-section we will discuss the different types of registration and how one would go through processing a multisequence mri scan as well as wrapper functions that make the process much easier we also cover interactive exploration of brain image data and tissuelevel whitegray matter and cerebrospinal fluid csf segmentation from a tweighted image
+section discuss the different types of registration and how one would go through processing a multisequence mri scan as as wrapper functions that make the process much easier we also cover interactive exploration of brain image data and tissuelevel whitegray matter and cerebrospinal fluid csf segmentation from a tweighted image
 advanced brain image processing coregistration using fslr coregistration using antsr wrapper functions for processing pipelines acrossvisit coregistration of t images rigid registration to a template affine registration of t to template nonlinear registration of t to template getting roi anatomic information from nonlinear registration tissuelevel segmentation papayar interactively viewing images in r
 </DOC>
 
 <DOC>
 principles of fmri
-functional magnetic resonance imaging fmri is the most widely used technique for investigating the living functioning human brain as people perform tasks and mental states it is a convergence point for multidisciplinary from many disciplines psychologists statisticians physicists computer scientists neuroscientists medical researchers behavioral scientists engineers public health researchers biologists and others are coming together to advance our understanding of the human mind and brain this covers the design acquisition and analysis of functional magnetic resonance imaging fmri data including psychological inference mr physics k space experimental design preprocessing of fmri data as well as generalized linear models glms a book related to the class can be found here httpsleanpubcomprinciplesoffmri
+functional magnetic resonance imaging fmri is the most widely used technique for investigating the living functioning human brain as people perform tasks and mental states it is a convergence point for multidisciplinary from many disciplines psychologists statisticians physicists computer scientists neuroscientists medical researchers behavioral scientists engineers public health researchers biologists and others are coming together to advance our understanding of the human mind and brain this covers the design acquisition and analysis of functional magnetic resonance imaging fmri data including psychological inference mr physics k space experimental design preprocessing of fmri data as as generalized linear models glms a book related to the class can be found here httpsleanpubcomprinciplesoffmri
 
 
-we will introduce fmri and talk about data acquisition and reconstruction
+introduce fmri and talk about data acquisition and reconstruction
 introduction and ground rules goals of fmri analysis fmri data structure psychological inference part psychological inference part basic understanding of mr physics forming an image k space
 
 
-we will discuss the fmri signal experimental design and preprocessing
+discuss the fmri signal experimental design and preprocessing
 signal noise and bold physiology fmri artifacts and types of noise spatial and temporal resolution of bold part spatial and temporal resolution of bold part experimental design kinds of designs part kinds of designs part preprocessing of fmri data preprocessing continued
 
 
-we will discuss the general linear model glm
+discuss the general linear model glm
 general linear model applying glm to fmri data details of building glm models linear basis sets filtering nuisance covariates glm estimation noise models ar models inference contrasts and ttests
 
 

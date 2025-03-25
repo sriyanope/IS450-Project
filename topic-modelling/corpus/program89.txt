@@ -1,11 +1,23 @@
 <DOC>
-data engineering big data and machine on gcp
-of google cloud certified users feel more confident in their cloud this provides the you need to advance your and provides training to support your preparation for the industryrecognized google cloud data engineeropens in a new tab certificationheres what you have to do complete the coursera data engineering review other recommended resources for the google cloud data engineer certificationopens in a new tab exam review the data engineer exam guideopens in a new tab complete data engineer opens in a new tabsample questions registeropens in a new tab for the google cloud certification exam remotely or at a test centerapplied projectthis incorporates handson labs using qwiklabs platformthese hands on components will let you apply the you incorporate google cloud products used within qwiklabs gain practical handson with the concepts explained throughout the modulesapplied this incorporates handson labs using our qwiklabs platformthese hands on components will let you apply the you in the lectures will incorporate topics such as bigquery which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the
+data engineering big data and machine learning on gcp
+of google cloud certified users feel more confident in their cloud this provides the you need to advance your and provides training to support your preparation for the industryrecognized google cloud data engineeropens in a new tab certification
+heres what you have to do
+complete the coursera data engineering
+review other recommended resources for the google cloud data engineer certificationopens in a new tab exam
+review the data engineer exam guideopens in a new tab
+complete data engineer opens in a new tabsample questions
+registeropens in a new tab for the google cloud certification exam remotely or at a test center
+
+this incorporates handson labs using qwiklabs platformthese hands on components will let you apply the you projects incorporate google cloud products used within qwiklabs gain practical handson with the concepts explained throughout the
+
+this incorporates handson labs using our qwiklabs platform
+these hands on components will let you apply the you in the lectures projects will incorporate topics such as bigquery which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the
 </DOC>
 
 <DOC>
 modernizing data lakes and data warehouses with google cloud
-the two key components of any data pipeline are data lakes and warehouses this highlights usecases for each type of storage and dives into the available data lake and warehouse solutions on google cloud in technical detail also this describes the role of a data engineer the benefits of a successful data pipeline to business operations and examines why data engineering should be done in a cloud environmentthis is the first of the data engineering on google cloud series after completing this enroll in the building batch data pipelines on google cloud
+the two key components of any data pipeline are data lakes and warehouses this highlights usecases for each type of storage and dives into the available data lake and warehouse solutions on google cloud in technical detail also this describes the role of a data engineer the benefits of a successful data pipeline to business operations and examines why data engineering should be done in a cloud environment
+this is the first of the data engineering on google cloud series after completing this enroll in the building batch data pipelines on google cloud
 
 introduction
 this introduces the data engineering on google cloud source series and this modernizing data lakes and data warehouses with google cloud
@@ -24,12 +36,12 @@ we talk about bigquery as a data warehousing option on google cloud
 introduction the modern data warehouse introduction to bigquery demo querying tb of data in seconds get started with bigquery load data into bigquery lab intro loading data into bigquery explore schemas demo exploring schemas schema design nested and repeated fields demo nested and repeated fields design the optimal schema for bigquery lab intro working with json and array data in bigquery optimize with partitioning and clustering lab intro partitioned tables in bigquery review
 
 
-a of the key points
+a of the key learning points
 </DOC>
 
 <DOC>
-smart analytics machine and ai on google cloud
-incorporating machine into data pipelines increases the ability to extract insights from data this covers ways machine can be included in data pipelines on google cloud for little to no customization this covers automl for more tailored machine capabilities this introduces notebooks and bigquery machine bigquery ml also this covers how to productionalize machine solutions by using vertex ai
+smart analytics machine learning and ai on google cloud
+incorporating machine learning into data pipelines increases the ability to extract insights from data this covers ways machine learning can be included in data pipelines on google cloud for little to no customization this covers automl for more tailored machine learning capabilities this introduces notebooks and bigquery machine learning bigquery ml also this covers how to productionalize machine learning solutions by using vertex ai
 
 introduction
 we introduce the and agenda

@@ -1,11 +1,25 @@
 <DOC>
 meta database engineer
-want to get started in the world of database engineering this is taught by industryrecognized experts at meta the key required to create manage and manipulate databases as well as industrystandard programming languages and software such as sql python and django used for supporting outstanding websites and apps like facebook instagram and morein this learncore techniques and methods to structure and manage databases advanced techniques to write database driven applications and advanced data modeling concepts mysql database management system dbms and data creation querying and manipulationhow to code and use python syntaxhow to prepare for technical interviews for database engineer rolesany thirdparty trademarks and other intellectual property including logos and icons referenced in the remain the property of their respective owners unless specifically identified as such courseras use of thirdparty intellectual property does not indicate any relationship sponsorship or endorsement between coursera and the owners of these trademarks or other intellectual propertyapplied projectyoull complete a series of in which demonstrate your proficiency in different aspects of database engineering demonstrate your with database normalization by structuring your own relational database by defining relationships between entities and developing relational schema this is followed by a stored procedure in which demonstrate your competency in sql automation by writing a stored procedure to solve real world problems after developing your in python create a python application to administer a mysql database and its interactions with clients in the next you are required to apply data modeling to a realworld by enacting advanced data modeling concepts such as automation storage and optimization finally be tasked with creating a mysql database solution for an app by drawing on the knowledge and that they have gained throughout the
+want to get started in the world of database engineering this is taught by industryrecognized experts at meta the key required to create manage and manipulate databases as as industrystandard programming languages and software such as sql python and django used for supporting outstanding websites and apps like facebook instagram and more
+
+core techniques and methods to structure and manage databases
+advanced techniques to write database driven applications and advanced data modeling concepts
+mysql database management system dbms and data creation querying and manipulation
+how to code and use python syntax
+how to prepare for technical interviews for database engineer roles
+any thirdparty trademarks and other intellectual property including logos and icons referenced in the learning remain the property of their respective owners unless specifically identified as such courseras use of thirdparty intellectual property does not indicate any relationship sponsorship or endorsement between coursera and the owners of these trademarks or other intellectual property
+
+complete a series of projects in which demonstrate your proficiency in different aspects of database engineering
+demonstrate your with database normalization by structuring your own relational database by defining relationships between entities and developing relational schema
+this is followed by a stored procedure project in which demonstrate your competency in sql automation by writing a stored procedure to solve real world problems after developing your in python create a python application to administer a mysql database and its interactions with clients
+in the next project you are required to apply data modeling to a realworld project by enacting advanced data modeling concepts such as automation storage and optimization
+finally be tasked with creating a mysql database solution for an app by drawing on the knowledge and that they have gained throughout the
 </DOC>
 
 <DOC>
 database clients
-explore how to write database driven applications in python by creating various types of clients that connect to mysql databases using python code and pythonrelated mysql features and tools by the end of this be able to utilize python code to create populate and manipulate mysql databases and tables access advanced functionality in mysql using custom built python clients develop working familiarity with advanced topics in mysql apply the principles of advanced mysql topics to problem solving using python develop a working knowledge of the methods by which a mysql database connects to the web via a django api create a useful python application capable of administration of a mysql database gain with the following tools and software python code pythonrelated mysql features and tools django rest framework meta api to take this you must have completed the previous advanced mysql topics you must also be eager to continue your journey with coding
+explore how to write database driven applications in python by creating various types of clients that connect to mysql databases using python code and pythonrelated mysql features and tools
+by the end of this be able to utilize python code to create populate and manipulate mysql databases and tables access advanced functionality in mysql using custom built python clients develop working familiarity with advanced topics in mysql apply the principles of advanced mysql topics to problem solving using python develop a working knowledge of the methods by which a mysql database connects to the web via a django api create a useful python application capable of administration of a mysql database gain with the following tools and software python code pythonrelated mysql features and tools django rest framework meta api to take this you must have completed the previous advanced mysql topics you must also be eager to continue your journey with coding
 
 interacting with a mysql database using python
 to use python code to create populate and manipulate mysql databases and tables
@@ -26,32 +40,34 @@ recap database clients wrap up
 
 <DOC>
 introduction to databases
-be introduced to databases and explore the modern ways in which they are used to distinguish between different types of database management systems then practice basic creation and data selection with the use of structured query language sql commands by the end of this be able to demonstrate a working knowledge of the concepts and principles that underpin how databases identify and explain the different types of core technology and management systems used in databases identify and interpret basic sql statements and commands manipulate records in a database with the use of sql statements and commands outline alternatives to sql and plan and design a simple relational database system also gain with the following fundamental concepts in database basic mysql syntax and commands database management systems mysql software relational databases
+be introduced to databases and explore the modern ways in which they are used to distinguish between different types of database management systems then practice basic creation and data selection with the use of structured query language sql commands
+by the end of this be able to demonstrate a working knowledge of the concepts and principles that underpin how databases identify and explain the different types of core technology and management systems used in databases identify and interpret basic sql statements and commands manipulate records in a database with the use of sql statements and commands outline alternatives to sql and plan and design a simple relational database system also gain with the following fundamental concepts in database basic mysql syntax and commands database management systems mysql software relational databases
 
 introduction to databases
 receive an introduction to the and explore possible roles that you could follow as a database engineer also review some tips on how to take this successfully and discuss what it is that you hope to as part of your introduction about the basics of databases and data and how they then receive an introduction to sql or standard query language the coding syntax used to interact with databases finally explore the basic structure of databases and discover the different types of keys they use
 introduction to the introduction to databases a day in the life of a database engineer what is a database how is data related alternative types of databases what is structured query language sql usage advantages of sql sql syntax introduction what are tables in databases types of keys in a database table introduction to databases
 
 create read update and delete crud operations
-explore crud or create read update and delete operations begin with an exploration of sql data types and how to differentiate between numeric data string data and default values also embark upon several exercises in which how to utilize these different data types within your database then move on to how to create and read data within a database discover how to create databases and tables and populate them with data using sql statements lastly explore the sql statements used for updating and deleting data in a database and to demonstrate your ability with crud operations complete exercises that will task you with creating and managing data
+explore crud or create read update and delete operations begin with an exploration of sql data types and how to differentiate between numeric data string data and default values also embark upon several exercises in which how to utilize these different data types within your database projects then move on to how to create and read data within a database discover how to create databases and tables and populate them with data using sql statements lastly explore the sql statements used for updating and deleting data in a database and to demonstrate your ability with crud operations complete exercises that will task you with creating and managing data
 numeric data types string data types default values create and drop database create table statement alter table statement insert statement select statement insert into select statement updating data deleting data create read update and delete crud operations
 
 sql operators and sorting and filtering data
-explore sql operators and how to sort and filter data begin this with a lesson on sql operators as part of this first lesson explore the syntax and process steps used to deploy sql arithmetic and comparison operators within a database next discover how to sort and filter data using clauses the clauses that about include the order by clause where clause and select distinct clause in each lesson item receive an overview of how each clause is used to sort and filter data in a database also view demonstrations of these clauses and then receive an to try them for yourself
+explore sql operators and how to sort and filter data begin this with a lesson on sql operators as part of this first lesson explore the syntax and process steps used to deploy sql arithmetic and comparison operators within a database next discover how to sort and filter data using clauses the clauses that about include the order by clause where clause and select distinct clause in each lesson item receive an of how each clause is used to sort and filter data in a database also view demonstrations of these clauses and then receive an to try them for yourself
 sql arithmetic operators operators in use sql comparison operators order by clause where clause select distinct clause sql operators and sorting and filtering data
 
 database design
-about database design in the first lesson receive an overview of how to design a database schema as part of this overview about basic database design concepts like schema and find out about different types of schemas the next lesson focuses on relational database design lesson explore how to establish relationships between tables in a database using keys also about the different types of keys that are used in relational database design such as primary keys and foreign keys
+about database design in the first lesson receive an of how to design a database schema as part of this about basic database design concepts like schema and find out about different types of schemas the next lesson focuses on relational database design lesson explore how to establish relationships between tables in a database using keys also about the different types of keys that are used in relational database design such as primary keys and foreign keys
 database schema schema in use types of database schema table relationships primary key foreign key finding entitites what is database normalization first normal form nf second normal form nf third normal form nf database design
 
 graded assessment
-have an to recap what you learned and identify your strengths as well as target topics that you would like to revisit
+have an to recap what you learned and identify your strengths as as target topics that you would like to revisit
 recap introduction to databases congratulations you have completed introduction to databases
 </DOC>
 
 <DOC>
 coding interview preparation
-the final will help prepare you for the unique aspects of a coding job interview with approaches to problemsolving and computer science foundations needed to land the job ultimately gain strategic insights and tips for successful interviewing by the end of this have knowledge of appropriate communication during a coding interview successful interviewing strategies using pseudocode the fundamentals of computer science the capabilities of data structures and how to implement them how to review data structures in the context of coding interviews the concept of algorithms and common approaches to working with them how to visualize an algorithm combining new and previously learned coding patterns to solve problems ideally you should have completed all the courses
+the final will help prepare you for the unique aspects of a coding job interview with approaches to problemsolving and computer science foundations needed to land the job ultimately gain strategic insights and tips for successful interviewing
+by the end of this have knowledge of appropriate communication during a coding interview successful interviewing strategies using pseudocode the fundamentals of computer science the capabilities of data structures and how to implement them how to review data structures in the context of coding interviews the concept of algorithms and common approaches to working with them how to visualize an algorithm combining new and previously learned coding patterns to solve problems ideally you should have completed all the courses
 
 introduction to the coding interview
 introductory about a coding interview what it could consist of and the types of coding interviews you might encounter about how to prepare for a coding interview focusing on communication and working with pseudocode also get an introduction to computer science including the fundamental concepts of binary big o notation and time and space complexity
@@ -65,14 +81,15 @@ introduction to algorithms
 about algorithms cover common approaches to sorting and searching with algorithms also explore the time and space complexity aspects of both sorting and searching then more about working with algorithms demonstrating how to visualize and problem solve with algorithmic approaches such as divide and conquer greedy algorithms and dynamic programming
 sorting algorithms searching algorithms divide and conquer recursion dynamic programming greedy algorithms introduction to algorithms
 
-final
+final project
 be assessed on the key concepts and topics covered in the
 recap wrap up
 </DOC>
 
 <DOC>
 database structures and management with mysql
-develop a working knowledge of the mysql database management system dbms gain dbms such as data creation querying and manipulation gain further with sql statements clauses and data types by the end of this be able to utilize the mysql dbms to build and modify relational databases with sql add records to a mysql database perform intricate queries on database records with filters and groupings create simple joins and unions within a database create relationships between tables using primary and foreign keys demonstrate the ability to complete a database normalization gain with the following tools and software mysql dbms joins and unions sql statements clauses and data types primary and foreign keys database normalization
+develop a working knowledge of the mysql database management system dbms gain dbms such as data creation querying and manipulation gain further with sql statements clauses and data types
+by the end of this be able to utilize the mysql dbms to build and modify relational databases with sql add records to a mysql database perform intricate queries on database records with filters and groupings create simple joins and unions within a database create relationships between tables using primary and foreign keys demonstrate the ability to complete a database normalization project gain with the following tools and software mysql dbms joins and unions sql statements clauses and data types primary and foreign keys database normalization
 
 intro to mysql
 to use the mysql dbms to build modify and query relational databases with sql
@@ -87,13 +104,14 @@ third explore different types of functions and how to with mysql stored procedur
 numeric functions string functions date functions comparison functions control flow functions stored procedures in mysql functions and mysql stored procedures
 
 graded assessment
-have an to recap what you learned and identify your strengths as well as target topics that you would like to revisit
+have an to recap what you learned and identify your strengths as as target topics that you would like to revisit
 recap wrap up
 </DOC>
 
 <DOC>
 programming in python
-be introduced to foundational programming with basic python syntax how to use code to solve problems dive deep into the python ecosystem and popular libraries and tools for python also get handson with objects classes and methods in python and utilize variables data types control flow and loops functions and data structures how to recognize and handle errors and write unit tests for your python code and practice testdriven development by the end of this be able to prepare your computer system for python programming show understanding of python syntax and how to control the flow of code demonstrate knowledge of how to handle errors and exceptions explain objectoriented programming and the major concepts associated with it explain the importance of testing in python and when to apply particular methods this is a beginner for learners who would like to prepare themselves for a in backend development or database engineering to succeed you do not need prior web development only basic internet navigation and an eagerness to get started with coding
+be introduced to foundational programming with basic python syntax how to use code to solve problems dive deep into the python ecosystem and popular libraries and tools for python
+also get handson with objects classes and methods in python and utilize variables data types control flow and loops functions and data structures how to recognize and handle errors and write unit tests for your python code and practice testdriven development by the end of this be able to prepare your computer system for python programming show understanding of python syntax and how to control the flow of code demonstrate knowledge of how to handle errors and exceptions explain objectoriented programming and the major concepts associated with it explain the importance of testing in python and when to apply particular methods this is a beginner for learners who would like to prepare themselves for a in backend development or database engineering to succeed you do not need prior web development only basic internet navigation and an eagerness to get started with coding
 
 getting started with python
 get started with the python programming language and associated foundational concepts
@@ -109,7 +127,7 @@ what is procedural programming algorithms algorithmic complexity what is functio
 
 packages libraries and tools
 supercharge your coding environment with popular libraries and tools for python also about the different types of testing and how to write a test
-what is a in python accessing the import statement writing import statements namespacing and scoping reload function popular packages numpy pandas matplotlib etc data analysis packages machine deep and ai pytorch tensorflow python web frameworks what is testing types of testing test automation packages writing tests with pytest testdriven development tdd applying tdd packages libraries and tools
+what is a in python accessing the import statement writing import statements namespacing and scoping reload function popular packages numpy pandas matplotlib etc data analysis packages machine learning deep learning and ai pytorch tensorflow python web frameworks what is testing types of testing test automation packages writing tests with pytest testdriven development tdd applying tdd packages libraries and tools
 
 endofcourse graded assessment
 practice and reflect on the you learned
@@ -118,28 +136,30 @@ recap programming in python congratulations you have completed programming in py
 
 <DOC>
 advanced data modeling
-develop a working knowledge and familiarity with advanced database concepts such as usage modeling automation storage optimization and administration to take this you must have completed the previous database courses you must also be eager to continue your journey with coding the create so that anyone regardless of education background or can highquality to land a highgrowth careerno degree or required to get started by the end of this be able to deploy basic data modeling and navigate modern storage options for a data warehouse apply planning and execution of etl style database engineering by building upon existing mysql develop a working knowledge of the different aspects of managing a database including administration of database operations and concerns alongside processes and solutions for monitoring reporting and debugging demonstrate data modeling within a realworld environment gain with the following tools and software workbench data modeling software syntaxes used to interact with a data warehouse extract transform and loading etl techniques and methods mysql data warehouse administration data warehouse monitoring and reporting tools database debugging and testing tools data modeling tools
+develop a working knowledge and familiarity with advanced database concepts such as usage modeling automation storage optimization and administration
+to take this you must have completed the previous database courses you must also be eager to continue your journey with coding the create so that anyone regardless of education background or can highquality to land a highgrowth careerno degree or required to get started by the end of this be able to deploy basic data modeling and navigate modern storage options for a data warehouse apply planning and execution of etl style database engineering by building upon existing mysql develop a working knowledge of the different aspects of managing a database including administration of database operations and concerns alongside processes and solutions for monitoring reporting and debugging demonstrate data modeling within a realworld project environment gain with the following tools and software workbench data modeling software syntaxes used to interact with a data warehouse extract transform and loading etl techniques and methods mysql data warehouse administration data warehouse monitoring and reporting tools database debugging and testing tools data modeling tools
 
 data modeling and management
 get to grips with fundamental data modeling concepts with a particular focus on a systematic database modeling process then to use mysql workbench to visually design model generate and manage databases
-introduction to advanced data modeling how is data modeling used at meta overview of data modeling types of data models recap normalization of relational database models introduction to mysql workbench data management in mysql workbench database modeling in mysql workbench data modeling and management
+introduction to advanced data modeling how is data modeling used at meta of data modeling types of data models recap normalization of relational database models introduction to mysql workbench data management in mysql workbench database modeling in mysql workbench data modeling and management
 
 data warehousing
 about the role of data warehouses in database analytics the characteristics of a data warehouse and data warehouse architecture develop familiarity with the dimensional data modeling approach for data warehousing
-overview of data warehousing data warehouse architecture case study real world data fundamentals of dimensional data modeling dimensional data modeling in practice data warehousing
+of data warehousing data warehouse architecture case study real world data project fundamentals of dimensional data modeling dimensional data modeling in practice data warehousing
 
 advanced data analytics
 explore the role of advanced data analytics tools and evaluate how theyre used to evaluate business performance
-overview of data analytics data mining versus machine overview of data visualization using advanced analytic tools for data analysis data import and data preparation in tableau data filtering and visualization in tableau create an interactive dashboard advanced data analytics
+of data analytics data mining versus machine learning of data visualization using advanced analytic tools for data analysis data import and data preparation in tableau data filtering and visualization in tableau create an interactive dashboard advanced data analytics
 
 model and analyze data
-apply data modeling to a real world
+apply data modeling to a real world project
 recap for advanced data modeling congratulations you have completed advanced data modeling
 </DOC>
 
 <DOC>
 advanced mysql topics
-begin to push beyond simple sql statements in mysql to an advanced level in database engineeringby the end of this be able to use control statements and variables in different contexts in mysql develop user defined functions and procedures optimize mysql database queries demonstrate a working knowledge of common table expressions and the json data type understand how and when to use triggers and events utilize subqueries joins views and transactions to perform data analysis and use database optimization techniques such as mysql transactions gain with the following advanced mysql database mysql user defined functions advanced mysql stored procedures mysql optimization techniques including indexes transactions cte and json mysql triggers and events database analytics in mysql advanced sql queries for data analysis with joins views and subqueries through this develop new improve your productivity to act effectively with data and boost your prospects to be successful you should have already completed the previous database structures and management with mysql or have prior with the taught in that
+begin to push beyond simple sql statements in mysql to an advanced level in database engineering
+by the end of this be able to use control statements and variables in different contexts in mysql develop user defined functions and procedures optimize mysql database queries demonstrate a working knowledge of common table expressions and the json data type understand how and when to use triggers and events utilize subqueries joins views and transactions to perform data analysis and use database optimization techniques such as mysql transactions gain with the following advanced mysql database mysql user defined functions advanced mysql stored procedures mysql optimization techniques including indexes transactions cte and json mysql triggers and events database analytics in mysql advanced sql queries for data analysis with joins views and subqueries through this develop new improve your productivity to act effectively with data and boost your prospects to be successful you should have already completed the previous database structures and management with mysql or have prior with the taught in that
 
 functions and triggers
 how to develop user defined functions and more complex stored procedures in mysql also practice invoking a stored procedure or function automatically in response to an event such as insert update or delete that occurs in the associated table
@@ -147,23 +167,24 @@ introduction to advanced mysql topics functions and stored procedures in mysql v
 
 database optimization
 the core rules and guidelines for database optimization and practice advanced database administration tasks that will optimize your database
-overview of database optimization optimizing database select statements optimizing database select statements in practice indexes in mysql mysql transaction mysql common table expression cte mysql prepared statement mysql json database optimization
+of database optimization optimizing database select statements optimizing database select statements in practice indexes in mysql mysql transaction mysql common table expression cte mysql prepared statement mysql json database optimization
 
 mysql for data analytics
 how to use mysql with advanced data analytics tools and discover how to perform data analysis using advanced mysql queries
-overview of database analytics using mysql for data analysis data analysis in mysql using sql queries emulating the full outer join in mysql extracting data from multiple tables with joins mysql for data analytics
+of database analytics using mysql for data analysis data analysis in mysql using sql queries emulating the full outer join in mysql extracting data from multiple tables with joins mysql for data analytics
 
-final
+final project
 practice your sql automation by writing a stored procedure to solve real world problems
 recap advanced mysql wrap up
 </DOC>
 
 <DOC>
 version control
-how modern software developers collaborate across the world without messing up each others code look at the different version control systems and how to create an effective software development workflow be introduced to some of the most commonly used linux commands that you can use to with files on your hard drive and create powerful workflows that will automate your saving you time and effort finally see how git can be used in software development to manage team files and create a repository that can manage code revisions
+how modern software developers collaborate across the world without messing up each others code look at the different version control systems and how to create an effective software development workflow be introduced to some of the most commonly used linux commands that you can use to with files on your hard drive and create powerful workflows that will automate your saving you time and effort
+finally see how git can be used in software development projects to manage team files and create a repository that can manage code revisions
 
 software collaboration
-about how modern software developers collaborate across the world without messing up each others code this involves using version control or subversion to bring order to the chaos of massive software that have the potential for mistakes and bugs look at the different version control systems and how to create an effective software development workflow
+about how modern software developers collaborate across the world without messing up each others code this involves using version control or subversion to bring order to the chaos of massive software projects that have the potential for mistakes and bugs look at the different version control systems and how to create an effective software development workflow
 introduction to the how do developers collaborate in the real world what is version control case study how meta engineers collaborate systems of version control and tools a history of revisions software collaboration
 
 command line
@@ -171,7 +192,7 @@ how to use the command line to execute commands in linux be introduced to some o
 the command line what are unix commands using bash on windows change directories and list contents creating and moving directories and files pipes redirection grep command line
 
 working with git
-this will help you to develop a strong conceptual understanding of the git technology and how it is used in software development to manage team files install git create a local repository create a commit create a remote repository and push commits to a remote repository
+this will help you to develop a strong conceptual understanding of the git technology and how it is used in software development projects to manage team files install git create a local repository create a commit create a remote repository and push commits to a remote repository
 what is git and github creating and cloning a repository how git works add and commit branches remote vs local push and pull example workflow head diff commands blame working with git
 
 graded assessment
@@ -181,11 +202,12 @@ recap version control congratulations you have completed version control
 
 <DOC>
 database engineer capstone
-complete a capstone in which create a database and client for little lemon restaurantto complete this need database engineering the capstone enables you to demonstrate multiple from the by solving an authentic realworld problem each includes a brief recap of and links to content that you have covered in previous courses demonstrate your new skillset by designing and composing a database solution combining all the and technologies youve learned throughout this to solve the problem at hand by the end of this have proven your ability to set up a database add sales reports create a table booking system with data analytics and visualization and create a database client also demonstrate your ability with the following tools and software git mysql workbench tableau and python
+complete a capstone project in which create a database and client for little lemon restaurant
+to complete this need database engineering the capstone project enables you to demonstrate multiple from the by solving an authentic realworld problem each includes a brief recap of and links to content that you have covered in previous courses demonstrate your new skillset by designing and composing a database solution combining all the and technologies youve learned throughout this to solve the problem at hand by the end of this have proven your ability to set up a database project add sales reports create a table booking system with data analytics and visualization and create a database client also demonstrate your ability with the following tools and software git mysql workbench tableau and python
 
-info
+project info
 this provides practical hands on with using mysql set up a mysql instance server in mysql workbench then create an er diagram data model and implement it in mysql
-introduction to the overview and set up
+introduction to the project and set up
 
 database queries procedures and prepared statements
 use sql to create virtual tables stored procedures and prepared statements for little lemon restaurant
@@ -195,8 +217,8 @@ clients and visualization
 visualize the sales data of a restaurant and implement a database client in python
 data analytics and visualization creating a database client
 
-assessment
-complete a peer review of the little lemon database and reflect on what you have learned
-recap for capstone congratulations you have completed the capstone
+project assessment
+complete a peer review of the little lemon database project and reflect on what you have learned
+recap for capstone project congratulations you have completed the capstone project
 </DOC>
 

@@ -1,14 +1,17 @@
 <DOC>
 songwriting writing arranging and producing music
-this will provide aspiring and established songwriters with the strategies and practices to develop hit songs the awardwinning berklee songwriting faculty have selected four comprehensive courses each one devoted to a different song element to help you get the most out of your musical ideas starting with the lyrics and music how to generate thoughtprovoking ways to express the emotions you wish to portray from there develop your song into a balanced musical arrangement with complete accompaniment the final will take you through the process of producing your own demos using ableton live one of the most exciting digital audio workstations daw on the market today applied projectthroughout this engage in various activities to help you make thoughtful decisions about your music from using effective rhyming schemes to constructing evocative melodies and harmonies refine your musical ideas into a polished song demo
+this will provide aspiring and established songwriters with the strategies and practices to develop hit songs the awardwinning berklee songwriting faculty have selected four comprehensive courses each one devoted to a different song element to help you get the most out of your musical ideas starting with the lyrics and music how to generate thoughtprovoking ways to express the emotions you wish to portray from there develop your song into a balanced musical arrangement with complete accompaniment the final project will take you through the process of producing your own demos using ableton live one of the most exciting digital audio workstations daw on the market today
+
+throughout this engage in various activities to help you make thoughtful decisions about your music from using effective rhyming schemes to constructing evocative melodies and harmonies refine your musical ideas into a polished song demo
 </DOC>
 
 <DOC>
 songwriting writing the lyrics
-theres a songwriter lurking somewhere inside you peeking around corners wondering if its safe to come out now it is this is an invitation to let your inner songwriter step into the sunlight all it takes is a simple yes and be climbing that windy hill marveling at the viewif you havent written any or many songs this will show you an efficient effective process for tailoring songs to express your ideas and emotions if you have look at your process differently taking control of aspects of the process you may have not noticed the will start by examining the tools available to you all revolving around the essential concept of prosody to use your tools to enhance your messageto compositionally at the same time youre developing your ideas be working both lyrically and musically though musically its not necessary that you either read music or play an instrument if you play great and be encouraged to play and record your musical responses to the if you dont play the offers you a number of musical loops to with all have to do is sing your melodies over the loops will ask you to post something for peer reviewsometimes lyric lines or sections sometimes melodies sometimes both none of it has to be polished the is about writing not performing most important have a lot of fun
+theres a songwriter lurking somewhere inside you peeking around corners wondering if its safe to come out now it is this is an invitation to let your inner songwriter step into the sunlight all it takes is a simple yes and be climbing that windy hill marveling at the view
+if you havent written any or many songs this will show you an efficient effective process for tailoring songs to express your ideas and emotions if you have look at your process differently taking control of aspects of the process you may have not noticed the will start by examining the tools available to you all revolving around the essential concept of prosody to use your tools to enhance your messageto compositionally at the same time youre developing your ideas be working both lyrically and musically though musically its not necessary that you either read music or play an instrument if you play great and be encouraged to play and record your musical responses to the if you dont play the offers you a number of musical loops to with all have to do is sing your melodies over the loops will ask you to post something for peer reviewsometimes lyric lines or sections sometimes melodies sometimes both none of it has to be polished the is about writing not performing most important have a lot of fun
 
 welcome to songwriting writing the lyrics
-welcome to the here we will cover all the details about the and what need to know to get the most out of your
+welcome to the here cover all the details about the and what need to know to get the most out of your
 
 the journey of the song
 by the end of this lesson see how to develop your song idea so it creates an interesting journey from start to finish understand your options developing the point of view of your song and will be introduced to the songwriters six best friends
@@ -29,69 +32,72 @@ multisyllable words onesyllable words stressed vs unstressed syllables rhythm de
 
 <DOC>
 arranging for songwriters
-youve created a song you wrote the lyrics decided on the melody and maybe even recorded a simple demo now what if you have a basic knowledge of how to use a digital audio workstation daw and are passionate about being a songwriter this will help you take your song from a simple recording on your phone to a fully arranged song ready for the recording studioyou will be from two berklee college of music songwriting professors bonnie hayes and sarah brindell they will show you how to arrange original songs in a digital audio workstation tools to heighten the emotional response of your listeners and broaden your understanding of instrumentation and how to add sounds to your song without distracting the listener from the most important aspect the vocalist
+youve created a song you wrote the lyrics decided on the melody and maybe even recorded a simple demo now what if you have a basic knowledge of how to use a digital audio workstation daw and are passionate about being a songwriter this will help you take your song from a simple recording on your phone to a fully arranged song ready for the recording studio
+be learning from two berklee college of music songwriting professors bonnie hayes and sarah brindell they will show you how to arrange original songs in a digital audio workstation tools to heighten the emotional response of your listeners and broaden your understanding of instrumentation and how to add sounds to your song without distracting the listener from the most important aspect the vocalist
 
 welcome to arranging for songwriters
-welcome to the here we will cover all the details about the and what need to know to get the most out of your
+welcome to the here cover all the details about the and what need to know to get the most out of your
 
 new ways of listening
-first lesson well how to arrange our songs horizontally meaning the order and length of song sections and vertically meaning the frequency range and volume of the various instruments in your song well also consider how to create and support emotional meaning through our writing and instrumentation well review processes for working on arrangements how to listen to arrangements critically and discuss how arrangements change in live performances vs recording sessions by the end of the lesson be able to create a horizontal arrangement for an original song
+first lesson how to arrange our songs horizontally meaning the order and length of song sections and vertically meaning the frequency range and volume of the various instruments in your song also consider how to create and support emotional meaning through our writing and instrumentation review processes for working on arrangements how to listen to arrangements critically and discuss how arrangements change in live performances vs recording sessions by the end of the lesson be able to create a horizontal arrangement for an original song
 arranging for recording vs arranging for live performances deciding whats right for the tune
 
 laying the foundation
-second lesson start to lay the foundations for your song we will discuss how to find the right key and tempo for your song and look at a few popular arrangement styles by the end of the lesson be able to create a basic track of your original song
+second lesson start to lay the foundations for your song discuss how to find the right key and tempo for your song and look at a few popular arrangement styles by the end of the lesson be able to create a basic track of your original song
 developing a feel for your song finding the right key vocals and rhythm
 
 finding the groove
-in lesson well focus on how to determine the right groove for your song well discuss how the bass works with the drums to support the rhythmic structure of a song as well as creating a foundation for the songs harmony by the end of this lesson be able to create the perfect groove for your original song
+in lesson focus on how to determine the right groove for your song discuss how the bass works with the drums to support the rhythmic structure of a song as as creating a foundation for the songs harmony by the end of this lesson be able to create the perfect groove for your original song
 what is groove the low end bass
 
 instrumentation and vocals
-final lesson we will look at how to build the rest of the track around your song now that we have the foundation of the groove with the drums and bass well take a look at how we can add other instruments to the mix most importantly we will discuss how to incorporate these additions without taking focus away from the vocal part by the end of this lesson have completed a full demo of your original song
+final lesson look at how to build the rest of the track around your song now that we have the foundation of the groove with the drums and bass take a look at how we can add other instruments to the mix most importantly discuss how to incorporate these additions without taking focus away from the vocal part by the end of this lesson have completed a full demo of your original song
 using synthesizers in your arrangements strings horn arrangements the primacy of the lead vocal wrapup
 </DOC>
 
 <DOC>
 introduction to ableton live
-in the past digital audio workstations daws were programs used only by audio engineers with a highly specific knowledge base on machines inaccessible to most people but over the past years daws and the act of recording music have evolved from being a luxury of the few to being available to the masses ableton live is one such application used by an extremely broad range of music creators ableton live not only facilitates the of engineers producers and writers in home and mobile studio settings but it is also a powerful platform for musicians on stage in the dj booth and elsewherein this ableton certified training center developed by berklee online explore some of lives most powerful and useful functionality midi programming audio recording warping and processing looping editing mixing performing file management and troubleshooting meant to be a springboard for those who are new to ableton live andor daws in general this threeweek will provide you with a strong knowledge base for using live to take your musical ideas from conception to final recording the breaks down the many barriers of entry into music technology and encourages all those who wish to create fearlessly note if you do not own ableton live you can download the free fully featured ableton live trial the trial version will allow you to save and export your for days if you use the trial version do not download it until the is scheduled to begin
+in the past digital audio workstations daws were programs used only by audio engineers with a highly specific knowledge base on machines inaccessible to most people but over the past years daws and the act of recording music have evolved from being a luxury of the few to being available to the masses ableton live is one such application used by an extremely broad range of music creators ableton live not only facilitates the of engineers producers and writers in home and mobile studio settings but it is also a powerful platform for musicians on stage in the dj booth and elsewhere
+ableton certified training center developed by berklee online explore some of lives most powerful and useful functionality midi programming audio recording warping and processing looping editing mixing performing file management and troubleshooting meant to be a springboard for those who are new to ableton live andor daws in general this threeweek will provide you with a strong knowledge base for using live to take your musical ideas from conception to final recording the breaks down the many barriers of entry into music technology and encourages all those who wish to create fearlessly note if you do not own ableton live you can download the free fully featured ableton live trial the trial version will allow you to save and export your for days if you use the trial version do not download it until the is scheduled to begin
 
 welcome to introduction to ableton live
-welcome to the here we will cover all the details about the and what need to know to get the most out of your
+welcome to the here cover all the details about the and what need to know to get the most out of your
 
 getting our hands dirty
-lesson im going to demonstrate how to get set up in live whether you have an audio interface or just your computer well also look at saving and submitting your sessions devices midi drums and midi synths
-what in lesson overview of ableton interface setting up hardware and software overview of nonlinear functionality midi sequencing audio clips clip properties session view and arrangement view quick tips creating and exporting an arrangement troubleshooting
+lesson im going to demonstrate how to get set up in live whether you have an audio interface or just your computer also look at saving and submitting your sessions devices midi drums and midi synths
+what in lesson of ableton interface setting up hardware and software of nonlinear functionality midi sequencing audio clips clip properties session view and arrangement view quick tips creating and exporting an arrangement troubleshooting
 
 polishing the sound
-lesson well be moving from midi to audio and implementing effects which will give your sessions even more personality and depth well also be diving into audio warping which is one of abletons most powerful functionalities and is the cornerstone of remixing
+lesson be moving from midi to audio and implementing effects which will give your sessions even more personality and depth also be diving into audio warping which is one of abletons most powerful functionalities and is the cornerstone of remixing
 what in lesson recording audio warping and stretching sampling audio and midi file management quick tips
 
 the endless possibilities
 final lesson were going to dive into some more advanced production techniques the very basics of mixing and ill get into some valuable information regarding file management and troubleshooting hopefully with this new information be able to tie together a lot of what weve learned in the past two weeks and bring your music to the next level
-what in lesson audio effects serial vs parallel midi effects max for live devices mixing automation midi mapping quick tips final overview wrapup
+what in lesson audio effects serial vs parallel midi effects max for live devices mixing automation midi mapping quick tips final project wrapup
 </DOC>
 
 <DOC>
 songwriting writing the music
-if your notebook is full of unused lyrics and youre struggling to find inspiration for the music this is for you whether you are an experienced songwriter looking for new ideas or a beginning songwriter to read music this will lead you to a rich source of songwriting possibilities led by award winning songwriter and berklee college of music professor scarlet keys to construct strong expressive melodies that your audience will remember as well as experiment with new chords to break out of any harmonic rut whether you are new to writing music or are looking for new ideas to change up your songs this class will teach you how to make deliberate choices with your harmonies and melodies to best emulate the emotions you want your audience to feel start by discovering common chord progression and tying specific emotions to each chords in a scale then practice changing the harmonic and melodic rhythm of a song to better highlight important lyrics finally to create melodic hooks and simple techniques to help you generate new melodic ideas
+if your notebook is full of unused lyrics and youre struggling to find inspiration for the music this is for you whether you are an experienced songwriter looking for new ideas or a beginning songwriter learning to read music this will lead you to a rich source of songwriting possibilities
+led by award winning songwriter and berklee college of music professor scarlet keys to construct strong expressive melodies that your audience will remember as as experiment with new chords to break out of any harmonic rut whether you are new to writing music or are looking for new ideas to change up your songs this class will teach you how to make deliberate choices with your harmonies and melodies to best emulate the emotions you want your audience to feel start by discovering common chord progression and tying specific emotions to each chords in a scale then practice changing the harmonic and melodic rhythm of a song to better highlight important lyrics finally to create melodic hooks and simple techniques to help you generate new melodic ideas
 
 welcome to songwriting writing the music
-welcome to the here we will cover all the details about the and what need to know to get the most out of your
+welcome to the here cover all the details about the and what need to know to get the most out of your
 
 choosing emotive chords
-first lesson we will begin working with diatonic chords in a chosen key and how to borrow nondiatonic chords to create evocative harmonies for your songs we will look at several popular chord progressions and begin experimenting with choosing the perfect chords to help you tell your lyrical story
+first lesson begin working with diatonic chords in a chosen key and learning how to borrow nondiatonic chords to create evocative harmonies for your songs look at several popular chord progressions and begin experimenting with choosing the perfect chords to help you tell your lyrical story
 what in lesson diatonic chords in a major key how to choose the perfect storytelling chords common chord progressions nondiatonic chords in major keys chords that break your soul diatonic chords in a minor key minor key chord progressions
 
 creating contrast with harmonic rhythm
-lesson we will expand our knowledge of harmony to include th chords and added tensions we will use these new chords to create more interesting harmonies for our lyrics and melodies we will also practice changing the harmonic rhythm in our songs to better support our melodies and lyrics finally we will use harmonic rhythm to show contrast between our song sections
+lesson expand our knowledge of harmony to include th chords and added tensions use these new chords to create more interesting harmonies for our lyrics and melodies also practice changing the harmonic rhythm in our songs to better support our melodies and lyrics finally use harmonic rhythm to show contrast between our song sections
 what in lesson adding tensions to major key progressions adding tensions to minor key progressions harmonic rhythm create contrast with harmonic rhythm highlighting lyrics with harmonic rhythm
 
 developing interesting melodies
-lesson we will begin to create better melodies for our lyrics we will start by about different types and shapes of melodic lines we will then practice creating melodic hooks and using stable and unstable tones in our melodies we will also the importance of using melodic contrast between song sections
+lesson begin to create better melodies for our lyrics start by learning about different types and shapes of melodic lines then practice creating melodic hooks and using stable and unstable tones in our melodies also the importance of using melodic contrast between song sections
 what in lesson four melody types developing melodic hooks using stable and unstable tones contrasting song sections with melody developing melody
 
 telling a story with the music
-final lesson we will begin to put everything together to help our lyrics tell their story we will discover how to highlight our melodies by using chord tones and nonchord tones from our harmonies we will also focus on setting our lyrics to the melody and harmony in a way that highlights the meaning we want to convey to the audience finally we will practice creating melodies in minor keys
+final lesson begin to put everything together to help our lyrics tell their story discover how to highlight our melodies by using chord tones and nonchord tones from our harmonies also focus on setting our lyrics to the melody and harmony in a way that highlights the meaning we want to convey to the audience finally practice creating melodies in minor keys
 what in lesson melodic rhythm contrast setting your lyrics storytelling with melodic contour creating melodies in a minor key finding a harmony to highlight your melody wrapup
 </DOC>
 

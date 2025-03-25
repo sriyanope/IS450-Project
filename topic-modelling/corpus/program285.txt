@@ -1,18 +1,23 @@
 <DOC>
 oracle sql databases
-this is intended for beginners to how to become proficient writing oracle sql code to create modify and edit oracle sql databasesyou will the oracle database foundations explore the platform try your hand at the basics and become proficient at building and modifying databasesapplied projectlearners will test their knowledge in quizzes practice writing code using simulations and create and modify their own databases in labsby the end of this be proficient at building and modifying databases with oracle sql
+this is intended for beginners to how to become proficient writing oracle sql code to create modify and edit oracle sql databases
+the oracle database foundations explore the platform try your hand at the basics and become proficient at building and modifying databases
+
+learners will test their knowledge in quizzes practice writing code using simulations and create and modify their own databases in labs
+by the end of this be proficient at building and modifying databases with oracle sql
 </DOC>
 
 <DOC>
 oracle sql basics
-this oracle sql basics is the third in the oracle it is designed to help you the key elements of the structured query language specific to oracle we recommend that you have completed the first two courses oracle database foundations and oracle database platform prior to beginning this one
+this oracle sql basics is the third in the oracle it is designed to help you the key elements of the structured query language specific to oracle
+we recommend that you have completed the first two courses oracle database foundations and oracle database platform prior to beginning this one
 
 table design
-well first talk about the topics well address then well explore how to create a simple table and look at ways to modify the existing table
+first talk about the topics address then explore how to create a simple table and look at ways to modify the existing table
 welcome and introduction introduction to table design walkthrough creating a simple table walkthrough altering an existing table schema walkthrough modifying a column and execute ddl script
 
 structured query language sql
-well explore the structured query language sql we will look at the anatomy of an sql statement explore inserting data into a table modifying existing data and look at the delete statement
+explore the structured query language sql look at the anatomy of an sql statement explore inserting data into a table modifying existing data and look at the delete statement
 the anatomy of an sql statement insert statement example walkthrough using an insert statement update statement example walkthrough using an update statement the delete statement
 
 index design
@@ -25,14 +30,15 @@ exercise write some basic sql code to build a table then modify it
 
 <DOC>
 oracle database platform
-this is designed to help you how to navigate the oracle database environment both gui and commandline tools will be introduced to allow you to with the oracle databaseit is recommended that you complete the first oracle database foundations before continuing to this second
+this is designed to help you how to navigate the oracle database environment both gui and commandline tools will be introduced to allow you to with the oracle database
+it is recommended that you complete the first oracle database foundations before continuing to this second
 
 introduction
-this introduces the we will discuss the topics well explore view the objectives and a little about the oracle database platform and history
+this introduces the discuss the topics explore view the objectives and a little about the oracle database platform and history
 oracle database platform introduction oracle database platform goals
 
 navigating the oracle database
-we will take a look of what large datasets may consist of explore the path and purpose of a database define the database roles and delve into oracles database admin tools
+take a look of what large datasets may consist of explore the path and purpose of a database define the database roles and delve into oracles database admin tools
 large datasets database path purpose database roles oracle database admin tools oracle net architecture
 
 using sql developer
@@ -42,38 +48,40 @@ gui tools sql developer sql developer oracle connections sql developer indexes p
 
 <DOC>
 oracle database foundations
-this is designed to help beginners the foundational knowledge invaluable towards their journey to becoming proficient with the oracle database environment there are four courses this is the first please be sure to take the courses in the order they are presented
+this is designed to help beginners the foundational knowledge invaluable towards their journey to becoming proficient with the oracle database environment
+there are four courses this is the first please be sure to take the courses in the order they are presented
 
 introduction
-welcome to the introduction to oracle sql this is the first of four and will introduce you to database foundations first lets take a look at the overview
+welcome to the introduction to oracle sql this is the first of four and will introduce you to database foundations first lets take a look at the
 
 introduction to databases
-well discuss database engines categories
+discuss database engines categories
 what in what is a database engine widely used databases oracle the premier multimodel database engine database categories part database categories part
 
 building a database structure
-we will explore how to build architecturally sound database structures
+explore how to build architecturally sound database structures
 what in building a database from scratch part building a database from scratch part building a database from scratch part database design initial conversation database design goals designing tables within a database part designing tables within a database part next steps after completing database design part next steps after completing database design part next steps after completing database design part
 
 relational database management systems rdbms oracle database storage
-well introduce relational database management systems and oracle database storage
-what in relational database management system rdbms part relational database management system rdbms part database schema part database schema part database architecture part database architecture part oracle storage architecture part oracle storage architecture part oracle storage architecture part database instance overview database instance background processes
+introduce relational database management systems and oracle database storage
+what in relational database management system rdbms part relational database management system rdbms part database schema part database schema part database architecture part database architecture part oracle storage architecture part oracle storage architecture part oracle storage architecture part database instance database instance background processes
 
 designing a database for a specific purpose
-we will discuss designing your ideal database for a specific purpose
+discuss designing your ideal database for a specific purpose
 what in schema design transactions simplified transactions acid properties transactions base properties
 </DOC>
 
 <DOC>
 oracle sql proficiency
-this is designed to help you continue about oracle sql and database management we will look more closely at the create alter and update commands explore database relationships and demonstrate how to use database views and sql functionsit is recommended that you complete the first three courses of this prior to this one
+this is designed to help you continue learning about oracle sql and database management look more closely at the create alter and update commands explore database relationships and demonstrate how to use database views and sql functions
+it is recommended that you complete the first three courses of this prior to this one
 
 review sql
-well take a look at the three sql command categories and review the insert update and delete commands as well as the select statement
+take a look at the three sql command categories and review the insert update and delete commands as as the select statement
 sql command categories select statement insert command update command delete command ddl statements demonstration
 
 create and alter commands
-we are going to take a closer look at the create alter and update commands as well as demonstrate many ways they can be used
+we are going to take a closer look at the create alter and update commands as as demonstrate many ways they can be used
 create alter ddl demo part of create alter ddl demo part of alter ddl command explained part of alter ddl command explained part of alter ddl command demonstration update dml command demonstration
 
 database relationships
@@ -81,7 +89,7 @@ we are going to explore the relationships between tables and how they are linked
 database relationships defined table relationships demonstration part of table relationships demonstration part of
 
 views and functions
-well explore database views their benefits and how they are used well also take a look at sql functions
+explore database views their benefits and how they are used also take a look at sql functions
 views defined views demonstrated views benefits functions defined functions demonstration
 </DOC>
 

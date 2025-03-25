@@ -1,6 +1,11 @@
 <DOC>
 psychological research
-this is primarily aimed at first and secondyear undergraduates interested in psychology data analysis ethics in research and quantitative research methods along with high school students and professionals with similar interestslearners will develop knowledge about the fundamentals of research design for quantitative studies in psychology analysis of data from quantitative studies in psychology and ethical standards for conducting psychological research activities focus on applications of this knowledge to realword scenarios and on critical thinking about problems faced by researchers in the pastapplied projectover the duration of the the user will be presented with formative assessments to assess their knowledge on concepts that have just been covered at the end of every there are summative assessments which are tracked and graded to assess your overall understanding finally at the end of the you are presented with an overall level assessment
+this is primarily aimed at first and secondyear undergraduates interested in psychology data analysis ethics in research and quantitative research methods along with high school students and professionals with similar interests
+learners will develop knowledge about the fundamentals of research design for quantitative studies in psychology analysis of data from quantitative studies in psychology and ethical standards for conducting psychological research learning activities focus on applications of this knowledge to realword scenarios and on critical thinking about problems faced by researchers in the past
+
+over the duration of the the user will be presented with formative assessments to assess their knowledge on concepts that have just been covered at the end of every there are summative assessments which are tracked and graded to assess your overall understanding finally at the end of the you are presented with an overall level assessment
+
+
 </DOC>
 
 <DOC>
@@ -8,7 +13,7 @@ ethics of psychological research
 this is primarily aimed at first and secondyear undergraduates interested in psychology ethics in research methods and quantitative research methods along with high school students and professionals with similar interests
 
 with psyclearn essentials
-this introduces you to your psyclearn essentials find out whats included and how to navigate the and lessons also valuable study tips for successful
+this introduces you to your psyclearn essentials find out whats included and how to navigate the and lessons also valuable study tips for successful learning
 </DOC>
 
 <DOC>
@@ -16,7 +21,7 @@ statistics in psychological research
 this is primarily aimed at first and secondyear undergraduates interested in psychology statistics data analysis and research methods along with high school students and professionals with similar interests
 
 with psyclearn essentials
-this introduces you to your psyclearn essentials find out whats included and how to navigate the and lessons also valuable study tips for successful
+this introduces you to your psyclearn essentials find out whats included and how to navigate the and lessons also valuable study tips for successful learning
 
 introduction to statistics for psychological research
 this will begin by introducing the basic concepts of how to describe and visualize data the fundamentals of using statistics to make inferences and the logic of null hypothesis testing various types of hypothesis tests will be introduced along with criteria for selecting which is appropriate for different study conditions as an extension of null hypothesis significance tests about how to interpret effect sizes and confidence intervals along with statistical power before being introduced to alternatives to null hypothesis significance testing
@@ -35,7 +40,7 @@ section of the we consider the role of null hypothesis significance testing in p
 what are p values effect size confidence intervals more complete reporting of results statistical power determining statistical power bayesian inference estimation methods metaanalysis modeling
 
 conclusion
-review the main ideas from the previous organized by objectives los
+review the main ideas from the previous organized by learning objectives los
 
 assessment
 
@@ -49,7 +54,7 @@ methods for quantitative research in psychology
 this is primarily aimed at first and secondyear undergraduates interested in psychology data analysis and quantitative research methods along with high school students and professionals with similar interests
 
 with psyclearn essentials
-this introduces you to your psyclearn essentials find out whats included and how to navigate the and lessons also valuable study tips for successful
+this introduces you to your psyclearn essentials find out whats included and how to navigate the and lessons also valuable study tips for successful learning
 
 introduction to methods for quantitative research in psychology
 

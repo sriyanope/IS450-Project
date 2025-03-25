@@ -1,22 +1,34 @@
 <DOC>
 managerial economics and business analysis
-in the exceedingly fastpaced business world growing business demands a clear grasp of how a firm obtains a competitive advantage in its operations how the business cycle and monetary policies impact the firms ability to maximize shareholders wealth and how to obtain and efficiently use data to develop actionable business strategies the managerial economics and business analytics is targeted towards aspiring managers senior managers and business executives who wish to have a wellrounded knowledge of firmlevel and countrylevel economics modern financial institutions and central bank policies and statistical data analysis and business decisionmakingthe courses will focus on microeconomics macroeconomics monetary policy statistical analysis and business decisionmaking topics covered includeanalysis of the allocation of scarce resources and consumer and producer decisionmakingmodeling the impact of external shocks on markets and government response to such market changesassess how changes in fiscal and government policies may influence the macroeconomic financial and business environmentextract and act upon relevant information from financial and economic news make inferences about the population using appropriate sampling methods and statisticsuse predictive modeling and interpret the meaning of the results in a managerial settingapplied projecta central premise of these courses is that applying targeted subjectmatter expertise is crucial in order to understand the economics of business decisions both at the micro level and at a macro level so that economic and financial data can be used to implement ideal business strategies each subject area will be followed by a projectbased application and analysis exercise
+in the exceedingly fastpaced business world growing business demands a clear grasp of how a firm obtains a competitive advantage in its operations how the business cycle and monetary policies impact the firms ability to maximize shareholders wealth and how to obtain and efficiently use data to develop actionable business strategies the managerial economics and business analytics is targeted towards aspiring managers senior managers and business executives who wish to have a wellrounded knowledge of firmlevel and countrylevel economics modern financial institutions and central bank policies and statistical data analysis and business decisionmaking
+the courses will focus on microeconomics macroeconomics monetary policy statistical analysis and business decisionmaking topics covered include
+analysis of the allocation of scarce resources and consumer and producer decisionmaking
+modeling the impact of external shocks on markets and government response to such market changes
+assess how changes in fiscal and government policies may influence the macroeconomic financial and business environment
+extract and act upon relevant information from financial and economic news
+make inferences about the population using appropriate sampling methods and statistics
+use predictive modeling and interpret the meaning of the results in a managerial setting
+
+
+a central premise of these courses is that applying targeted subjectmatter expertise is crucial in order to understand the economics of business decisions both at the micro level and at a macro level so that economic and financial data can be used to implement ideal business strategies each subject area will be followed by a projectbased application and analysis exercise
+
 </DOC>
 
 <DOC>
 inferential and predictive statistics for business
-this provides an analytical framework to help you evaluate key problems in a structured fashion and will equip you with tools to better manage the uncertainties that pervade and complicate business processes to this end the aims to cover statistical ideas that apply to managers by discussing two basic themes first is recognizing and describing variations present in everything around us and then modeling and making decisions in the presence of these variations the fundamental concepts studied will reappear in many other classes and business settings our focus will be on interpreting the meaning of the results in a business and managerial settingwhile be introduced to some of the science of what is being taught the focus will be on applying the methodologies this will be accomplished through use of excel and using data sets from many different disciplines allowing you to see the use of statistics in very diverse settings the will focus not only on explaining these concepts but also understanding the meaning of the results obtained be able to test for beliefs about a population compare differences between populations use linear regression model for prediction use excel for statistical analysis this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
+this provides an analytical framework to help you evaluate key problems in a structured fashion and will equip you with tools to better manage the uncertainties that pervade and complicate business processes to this end the aims to cover statistical ideas that apply to managers by discussing two basic themes first is recognizing and describing variations present in everything around us and then modeling and making decisions in the presence of these variations the fundamental concepts studied will reappear in many other classes and business settings our focus will be on interpreting the meaning of the results in a business and managerial setting
+while be introduced to some of the science of what is being taught the focus will be on applying the methodologies this will be accomplished through use of excel and using data sets from many different disciplines allowing you to see the use of statistics in very diverse settings the will focus not only on explaining these concepts but also understanding the meaning of the results obtained be able to test for beliefs about a population compare differences between populations use linear regression model for prediction use excel for statistical analysis this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
 
 orientation
-in the orientation become familiar with the your classmates and our environment the orientation will also help you obtain the technical required for the
+in the orientation become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
 welcome to inferential and predictive statistics for business on your terms excel data analysis toolpak
 
 hypothesis testing
-watch any infomercial and you hear many outrageous promises use this cream and your skin will look firmer use this supplement and lose pounds in the first days are they telling you the truth are they all lying the only way to know the answer to any of these questions is to scientifically test the claim being made that is what we call hypothesis testing and what we will
+watch any infomercial and you hear many outrageous promises use this cream and your skin will look firmer use this supplement and lose pounds in the first days are they telling you the truth are they all lying the only way to know the answer to any of these questions is to scientifically test the claim being made that is what we call hypothesis testing and what
 formulating the hypothesis analyzing the result twotail test for mean twotail test for mean in excel onetail test for mean lefttail test for mean in excel righttail test for mean in excel testing the proportion lefttail test for proportion in excel righttail test for proportion in excel twotail test for proportion in excel
 
 statistical inference based on two samples
-does the medicine a person is taking to treat his condition really better than a sugar pill is the new chipenabled credit card more secure than the magnetic card how do you know whether the claims being made about anything being better than or faster than a competitor are true we will to make this comparison
+does the medicine a person is taking to treat his condition really better than a sugar pill is the new chipenabled credit card more secure than the magnetic card how do you know whether the claims being made about anything being better than or faster than a competitor are true to make this comparison
 testing for no difference in means testing for no difference in means in excel twotail mean test for two samples and calculating the confidence interval in excel onetail test of the means onetail test of the means in excel testing for a specific value in means paired tests paired test in excel test of proportions onetail test of proportions for two samples in excel twotail test of proportions for two samples in excel
 
 simple linear regression
@@ -24,45 +36,46 @@ does your job involve a lot of sitting if so you are at higher risk of coronary 
 an introduction least square methods least square method in excel assessing the regression model testing the significance in excel using the model simple linear regression excel output analysis model assumptions and limitations residual analysis in excel
 
 multiple linear regression
-you are trying to predict next months sales numbers you know that dozens maybe even hundreds of things like the weather competitors promotions rumors etc can impact the number you talk to five people and each one has an idea about what makes the biggest impact and the only thing they offer is trust me do you wish there was a better way of doing this rather than relying on blind faith well there is we can use multiple regression to sort through this mess and bring the focus to factors that really do matter
+you are trying to predict next months sales numbers you know that dozens maybe even hundreds of things like the weather competitors promotions rumors etc can impact the number you talk to five people and each one has an idea about what makes the biggest impact and the only thing they offer is trust me do you wish there was a better way of doing this rather than relying on blind faith there is we can use multiple regression to sort through this mess and bring the focus to factors that really do matter
 model introduction developing multiple regression model in excel multiple regression excel output analysis qualitative data two categories dummy variable in excel two categories qualitative data many categories dummy variable in excel many categories
 </DOC>
 
 <DOC>
 banking and financial institutions
-the purpose of this is to provide you with a basic understanding of the connections between money the financial system and the broader macroeconomy we will examine the economics of modern financial institutions eg banks including how they are organized the products and financial services they offer the risks they take why and how they are regulated and how this has changed over time we will develop a conceptual framework that will allow us to assess how recent financial regulations as well as innovations in finance eg securitization fintech cryptocurrencies may influence the macroeconomic financial and business environment
+the purpose of this is to provide you with a basic understanding of the connections between money the financial system and the broader macroeconomy examine the economics of modern financial institutions eg banks including how they are organized the products and financial services they offer the risks they take why and how they are regulated and how this has changed over time develop a conceptual framework that will allow us to assess how recent financial regulations as as innovations in finance eg securitization fintech cryptocurrencies may influence the macroeconomic financial and business environment
 
 orientation
-become familiar with the your classmates and our environment the orientation will also help you obtain the technical required for the
+become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
 about the and your instructor on your terms
 
 money and finance
-this will provide a broad overview of money the financial system and how this all connects with real economic activity
-overview money and its functions the payments system money and inflation what does the financial system do financial markets versus financial institutions banks versus nonbanks overview of nonbanks financial development and economic activity
+this will provide a broad of money the financial system and how this all connects with real economic activity
+money and its functions the payments system money and inflation what does the financial system do financial markets versus financial institutions banks versus nonbanks of nonbanks financial development and economic activity
 
 modern banking
 we are going to zoom in on the business model of modern banks
-overview early banking in the united states bank holding companies deregulation and modern banking bank types and borrowing bank lending changes in the lending process how are investment banks organized investment banking activities balance sheet off balance sheet income statement
+early banking in the united states bank holding companies deregulation and modern banking bank types and borrowing bank lending changes in the lending process how are investment banks organized investment banking activities balance sheet off balance sheet income statement
 
 risk and return
 we are going to focus on the sources of profit at modern banks and the various risks surrounding these profits
-overview bank equity capital measuring bank performance overview of risk credit risk interest rate risk liquidity risk market risk operational risks
+bank equity capital measuring bank performance of risk credit risk interest rate risk liquidity risk market risk operational risks
 
 regulation
 we are going to study why the government regulates banks and what this regulation looks like in practice
-overview goals of financial regulation the government safety net case study interventions in bank regulation the supervisory process stress testing too big to fail defining shadow banking case study money market mutual funds
+goals of financial regulation the government safety net case study interventions in bank regulation the supervisory process stress testing too big to fail defining shadow banking case study money market mutual funds
 </DOC>
 
 <DOC>
 firm level economics consumer and producer behavior
-all goods and services are subject to scarcity at some level which requires that society develop some allocation mechanism to determine who gets what over recorded history these allocation rules were usually command based meaning that the king or the emperor would decide in contemporary times most countries have turned to marketbased allocation systems in markets prices act as rationing devices encouraging or discouraging production and encouraging or discouraging consumption to find an equilibrium allocation of resources to understand this process businesses construct demand curves to capture consumer behavior and consider supply curves to capture producer behavior the resulting equilibrium price rations the scarce commodityyou will be able to describe consumer behavior as captured by the demand curve and producer behavior as captured by the supply curve define equilibrium and explain the impact of taxes and price controls on market equilibrium explain elasticity of demand describe cost theory and how firms optimize given the constraints of their own costs and an exogenously given price this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
+all goods and services are subject to scarcity at some level which requires that society develop some allocation mechanism to determine who gets what over recorded history these allocation rules were usually command based meaning that the king or the emperor would decide in contemporary times most countries have turned to marketbased allocation systems in markets prices act as rationing devices encouraging or discouraging production and encouraging or discouraging consumption to find an equilibrium allocation of resources to understand this process businesses construct demand curves to capture consumer behavior and consider supply curves to capture producer behavior the resulting equilibrium price rations the scarce commodity
+be able to describe consumer behavior as captured by the demand curve and producer behavior as captured by the supply curve define equilibrium and explain the impact of taxes and price controls on market equilibrium explain elasticity of demand describe cost theory and how firms optimize given the constraints of their own costs and an exogenously given price this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
 
 orientation
-become familiar with the your classmates and our environment the orientation will also help you obtain the technical required for the
+become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
 welcome to firm level economics consumer and producer behavior on your terms
 
 scarcity allocation and markets
-the fundamental problem of scarcity challenges us to think about an allocation mechanism to determine what is produced and who consumes it we will discuss scarcity and allocation mechanisms we will focus on markets and prices as the solution to this resource allocation problem
+the fundamental problem of scarcity challenges us to think about an allocation mechanism to determine what is produced and who consumes it discuss scarcity and allocation mechanisms focus on markets and prices as the solution to this resource allocation problem
 scarcity and its implications costs demand curves more on the demand curve movements along vs shifts in the demand curve constructing the supply curve movements to new equilibrium
 
 government intervention in markets
@@ -70,11 +83,11 @@ markets are frequent targets of governments this will introduce government polic
 setting dairy prices government intervention direct price controls price floors direct price controls price ceilings the price you pay at the pump excise taxes the incidence of taxation higher tuition yet more college applications responsiveness of quantity demanded and elasticity elasticity along a linear demand
 
 firms production and costs
-this will introduce cost theory firms are interested in producing profits which are the residuals when costs are subtracted from revenue earlier constructed demand curves they give us an idea of how many units of product we can sell at different prices this would be firm revenue we will to understand inputs production and costs
+this will introduce cost theory firms are interested in producing profits which are the residuals when costs are subtracted from revenue earlier constructed demand curves they give us an idea of how many units of product we can sell at different prices this would be firm revenue to understand inputs production and costs
 an economists production function types of firms behavior rule behavior rule part law of diminishing marginal returns cost curves derive short run total cost family of curves derive short run average cost family of curves derive short run average cost family of curves part derive short run average cost family of curves part the definition of marginal cost derive shape of the marginal cost curve part derive shape of the marginal cost curve part derive shape of the marginal cost curve part
 
 firm behavior
-the firm goal of profit maximization requires an understanding of costs and revenues we will see how a firm optimally responds to a given market price by finding the profit maximizing output the level of profits at this maximum profit point will help determine short run equilibrium
+the firm goal of profit maximization requires an understanding of costs and revenues see how a firm optimally responds to a given market price by finding the profit maximizing output the level of profits at this maximum profit point will help determine short run equilibrium
 firm optimization behavior firm optimization behavior part maximizing profit maximizing profit graphically part maximizing profit graphically part showing points on a graph part showing points on a graph part profits after total cost changes short run shutdown decisions graphing shutdown conditions
 </DOC>
 
@@ -83,35 +96,36 @@ central banks and monetary policy
 the purpose of this is to provide you with an understanding of central bank policies and how such policies affect financial markets and the economy the main aim of this is to provide you with insights about the macroeconomic relationships between interest rates inflation and unemployment that allow you to assess central bank actions and appreciate how this action will affect the economy the ability to extract relevant information from financial market and economic data about the macroeconomic environment and central bank actions is an important that will be useful for your decisionmarking in your and your personal financial choices
 
 orientation
-become familiar with the your classmates and our environment the orientation will also help you obtain the technical required for the
+become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
 
 interest rates
-we will study interest rates and financial instruments
-overview the market for federal funds the repo market shortterm interest rates nominal and real interest rates treasury securities and the riskfree rate term structure of interest rates money market mutual funds securitization
+study interest rates and financial instruments
+the market for federal funds the repo market shortterm interest rates nominal and real interest rates treasury securities and the riskfree rate term structure of interest rates money market mutual funds securitization
 
 monetary policy
-we will study the federal reserve system its functions and its monetary policy tools
-overview history and structure of the federal reserve purpose and functions of the federal reserve money supply and monetary policy the federal reserves balance sheet open market operations the discount window forward guidance largescale asset purchases monetary policy with abundant bank reserves
+study the federal reserve system its functions and its monetary policy tools
+history and structure of the federal reserve purpose and functions of the federal reserve money supply and monetary policy the federal reserves balance sheet open market operations the discount window forward guidance largescale asset purchases monetary policy with abundant bank reserves
 
 economic impacts of monetary policy
-we will study the link between output inflation and unemployment and how monetary policy affects these macroeconomic variables
-overview understanding economic growth and unemployment connecting unemployment and inflation monetary policy rules how do changes in monetary policy affect the economy monetary policy transmission through banks monetary policy transmission through businesses and households limits of monetary policy supply shocks limits of monetary policy jobless recoveries and risk taking incentives
+study the link between output inflation and unemployment and how monetary policy affects these macroeconomic variables
+understanding economic growth and unemployment connecting unemployment and inflation monetary policy rules how do changes in monetary policy affect the economy monetary policy transmission through banks monetary policy transmission through businesses and households limits of monetary policy supply shocks limits of monetary policy jobless recoveries and risk taking incentives
 
 financial crises
-we will study financial crises and policy responses to these crises
-overview bank runs and the panic of the great depression common features of financial crises auto loans during the financial crisis the fed as lender of last resort fiscal responses to financial crises on your terms
+study financial crises and policy responses to these crises
+bank runs and the panic of the great depression common features of financial crises auto loans during the financial crisis the fed as lender of last resort fiscal responses to financial crises on your terms
 </DOC>
 
 <DOC>
 exploring and producing data for business decision making
-this provides an analytical framework to help you evaluate key problems in a structured fashion and will equip you with tools to better manage the uncertainties that pervade and complicate business processes specifically you will how to summarize data and concepts of frequency normal distribution statistical studies sampling and confidence intervalswhile be introduced to some of the science of what is being taught the focus will be on applying the methodologies this will be accomplished through the use of excel and data sets from different disciplines allowing you to see the use of statistics in a range of settings the will focus not only on explaining these concepts but also understanding and interpreting the results obtained be able to summarize large data sets in graphical tabular and numerical forms understand the significance of proper sampling and why one can rely on sample information understand why normal distribution can be used in a wide range of settings use sample information to make inferences about the population with a certain level of confidence about the accuracy of the estimations use excel for statistical analysis this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
+this provides an analytical framework to help you evaluate key problems in a structured fashion and will equip you with tools to better manage the uncertainties that pervade and complicate business processes specifically you will how to summarize data and concepts of frequency normal distribution statistical studies sampling and confidence intervals
+while be introduced to some of the science of what is being taught the focus will be on applying the methodologies this will be accomplished through the use of excel and data sets from different disciplines allowing you to see the use of statistics in a range of settings the will focus not only on explaining these concepts but also understanding and interpreting the results obtained be able to summarize large data sets in graphical tabular and numerical forms understand the significance of proper sampling and why one can rely on sample information understand why normal distribution can be used in a wide range of settings use sample information to make inferences about the population with a certain level of confidence about the accuracy of the estimations use excel for statistical analysis this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
 
 orientation
-become familiar with the your classmates and our environment the orientation will also help you obtain the technical required for the
+become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
 welcome to exploring and producing data for business decision making on your terms excel data analysis toolpak
 
 introduction and summarizing data
-data is all around you but what is the data telling you the first step in making better decisions and taking action is to get a good understanding of information you have gathered we will about some of the tools in statistics that help us achieve this
+data is all around you but what is the data telling you the first step in making better decisions and taking action is to get a good understanding of information you have gathered about some of the tools in statistics that help us achieve this
 basic terminology summarizing data frequency tables frequency tables in excel quantitative data frequency tables in excel qualitative data presenting frequency tables as a bar graph in excel summarizing data histograms histograms in excel summarizing data pie charts pie charts in excel summarizing data scatter plots scatter plots in excel
 
 descriptive statistics and probability distributions
@@ -119,7 +133,7 @@ we all have heard the phrase that a picture is worth a thousand words but you ce
 measures of central tendencies mean and median in excel measures of dispersion standard deviation in excel percentiles and zscore zscore in excel discrete and continuous random variables expected value in excel normal distribution normal distribution in excel standard normal distribution in excel less than in excel greater than in excel between values in excel finding z for a given probability inv in excel standard normal distribution table
 
 sampling and central limit theorem
-you are charged with analyzing a market segment for your company you and your team have figured out what variables you need to understand you also have an idea what factors might be influencing these variables of interest now you are ready to do your analysis but wait where is the data how do you begin to get the data we will review the means by which you can begin to produce data the concepts of sampling and central limit theorem and will help you understand how to produce good sample data and why sample data will
+you are charged with analyzing a market segment for your company you and your team have figured out what variables you need to understand you also have an idea what factors might be influencing these variables of interest now you are ready to do your analysis but wait where is the data how do you begin to get the data review the means by which you can begin to produce data the concepts of sampling and central limit theorem and will help you understand how to produce good sample data and why sample data will
 producing data sampling sampling function in excel central limit theorem and sampling means animating the central limit theorem sampling distribution and empirical rule in excel central limit theorem sampling proportion
 
 inference
@@ -129,26 +143,27 @@ confidence interval basics confidence interval for means confidence interval for
 
 <DOC>
 firm level economics markets and allocations
-in markets prices act as rationing devices encouraging or discouraging production and consumption to find an equilibrium to construct demand curves to capture consumer behavior and supply curves to capture producer behavior the resulting equilibrium price rations the scarce commodity additionally the examines the ways in which markets are subject government intervention and the impacts of these interventionsyou will be able to explain how different market structures result in different resource allocations model the impact of external shocks to a particular market structure and demonstrate the new equilibrium price and quantity after the impact of this external shock has played out evaluate the efficiency of an equilibrium explain when and why the government might intervene with regulatory authority or antitrust litigation to lessen inefficiencies in some markets describe how information problems can cause inefficient understand externalities and consider optimal government response to these market failures this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
+in markets prices act as rationing devices encouraging or discouraging production and consumption to find an equilibrium to construct demand curves to capture consumer behavior and supply curves to capture producer behavior the resulting equilibrium price rations the scarce commodity additionally the examines the ways in which markets are subject government intervention and the impacts of these interventions
+be able to explain how different market structures result in different resource allocations model the impact of external shocks to a particular market structure and demonstrate the new equilibrium price and quantity after the impact of this external shock has played out evaluate the efficiency of an equilibrium explain when and why the government might intervene with regulatory authority or antitrust litigation to lessen inefficiencies in some markets describe how information problems can cause inefficient understand externalities and consider optimal government response to these market failures this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
 
 orientation
-become familiar with the your classmates and our environment the orientation will also help you obtain the technical required for the
+become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
 welcome to firm level economics markets and allocations on your terms
 
 perfect competition
-this introduces the concept of a perfectly competitive market it is a benchmark construction but it accurately models many markets in our economy we will understand equilibrium in both the short run and the long run we will understand how to analyze shocks to these equilibria
+this introduces the concept of a perfectly competitive market it is a benchmark construction but it accurately models many markets in our economy understand equilibrium in both the short run and the long run understand how to analyze shocks to these equilibria
 markets and allocations part markets and allocations part market structure part market structure part market structure part perfect competition in reality as told by an economist firm supply curve in a perfectly competitive industry part firm supply curve in a perfectly competitive industry part build short run equilibrium framework long run equilibrium part long run equilibrium part external shock and movement to new equilibrium
 
 monopoly markets and efficiency
-analysts can predict equilibrium with some degree of certainty we want to construct a measure of efficiency that will allow us to evaluate the attractiveness of these equilibrium market after using this metric to consider the efficiency of the competitive market we will introduce a different market structure monopoly and use our efficiency metric to evaluate the equilibrium resource allocation under monopoly
+analysts can predict equilibrium with some degree of certainty we want to construct a measure of efficiency that will allow us to evaluate the attractiveness of these equilibrium market after using this metric to consider the efficiency of the competitive market introduce a different market structure monopoly and use our efficiency metric to evaluate the equilibrium resource allocation under monopoly
 consumer surplus part consumer surplus part producer surplus the benevolent dictator part the benevolent dictator part monopoly equilibrium part monopoly equilibrium part marginal revenue curve in monopoly social costs of monopoly governments intervene in monopoly
 
 oligopoly and game theory
-perfectly competitive markets have many sellers monopoly has one seller but much economic activity takes place in markets with just a handful of very large producers these are called oligopoly markets we will look at collusive arrangements among a small number of rivals and then will use simple game theoretic techniques to model equilibrium
+perfectly competitive markets have many sellers monopoly has one seller but much economic activity takes place in markets with just a handful of very large producers these are called oligopoly markets look at collusive arrangements among a small number of rivals and then will use simple game theoretic techniques to model equilibrium
 introducing oligopoly part introducing oligopoly part collusion part collusion part collusion part efficiency social costs and antitrust enforcement part efficiency social costs and antitrust enforcement part simple game theory computer chess part computer chess part the prisoners dilemma part the prisoners dilemma part the prisoners dilemma part the nash equilibrium to a noncooperative game part the nash equilibrium to a noncooperative game part
 
 market failures
-sometimes even markets that appear to be capable of great efficiency in resource allocation such as the perfectly competitive market can fall short of efficiency economists call this market failure we will consider information issues and the impact on efficiency we will also introduce externalities spillovers such as pollution and model these impacts
+sometimes even markets that appear to be capable of great efficiency in resource allocation such as the perfectly competitive market can fall short of efficiency economists call this market failure consider information issues and the impact on efficiency also introduce externalities spillovers such as pollution and model these impacts
 the winners curse part the winners curse part information asymmetries adverse selection unraveling insurance markets positive and negative externalities part positive and negative externalities part measure the gains from positive externality measure the costs caused by negative externality part measure the costs caused by negative externality part
 </DOC>
 

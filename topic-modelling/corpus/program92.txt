@@ -1,6 +1,6 @@
 <DOC>
 data science
-this covers the concepts and tools need throughout the entire data science pipeline from asking the right kinds of questions to making inferences and publishing results in the final capstone apply the learned by building a data product using realworld data at completion students will have a portfolio demonstrating their mastery of the material
+this covers the concepts and tools need throughout the entire data science pipeline from asking the right kinds of questions to making inferences and publishing results in the final capstone project apply the learned by building a data product using realworld data at completion students will have a portfolio demonstrating their mastery of the material
 </DOC>
 
 <DOC>
@@ -9,7 +9,7 @@ how to in r and how to use r for effective data analysis how to install and conf
 
 background getting started and nuts bolts
 covers the basics to get you started up with r the background materials lesson contains information about mechanics and some on installing r the cover the history of r and s go over the basic data types in r and describe the functions for reading and writing data i recommend that you watch the in the listed order but watching the out of order isnt going to ruin the story
-installing r on a mac installing r on windows installing r studio mac writing code setting your working directory windows writing code setting your working directory mac introduction overview and history of r getting help r console input and evaluation data types r objects and attributes data types vectors and lists data types matrices data types factors data types missing values data types data frames data types names attribute data types reading tabular data reading large tables textual data formats connections interfaces to the outside world subsetting basics subsetting lists subsetting matrices subsetting partial matching subsetting removing missing values vectorized operations introduction to swirl
+installing r on a mac installing r on windows installing r studio mac writing code setting your working directory windows writing code setting your working directory mac introduction and history of r getting help r console input and evaluation data types r objects and attributes data types vectors and lists data types matrices data types factors data types missing values data types data frames data types names attribute data types reading tabular data reading large tables textual data formats connections interfaces to the outside world subsetting basics subsetting lists subsetting matrices subsetting partial matching subsetting removing missing values vectorized operations introduction to swirl
 
 programming with r
 welcome to of r programming we take the gloves off and the lectures cover key topics like control structures and functions we also introduce the first programming for the which is due at the end of the
@@ -34,7 +34,7 @@ introduction what is reproducible research about reproducible research concepts 
 
 markdown knitr
 we cover some of the core tools for developing reproducible documents we cover the literate programming tool knitr and show how to integrate it with markdown to publish reproducible web documents we also introduce the first peer assessment which will require you to write up a reproducible data analysis using knitr
-coding standards in r markdown r markdown r markdown demonstration knitr part knitr part knitr part knitr part introduction to
+coding standards in r markdown r markdown r markdown demonstration knitr part knitr part knitr part knitr part introduction to project
 
 reproducible research checklist evidencebased data analysis
 covers what one could call a basic check list for ensuring that a data analysis is reproducible while its not absolutely sufficient to follow the check list it provides a necessary minimum standard that would be applicable to almost any area of analysis
@@ -46,8 +46,8 @@ caching computations case study air pollution case study high throughput biology
 </DOC>
 
 <DOC>
-practical machine
-one of the most common tasks performed by data scientists and data analysts are prediction and machine this will cover the basic components of building and applying prediction functions with an emphasis on practical applications the will provide basic grounding in concepts such as training and tests sets overfitting and error rates the will also introduce a range of model based and algorithmic machine methods including regression classification trees naive bayes and random forests the will cover the complete process of building prediction functions including data collection feature creation algorithms and evaluation
+practical machine learning
+one of the most common tasks performed by data scientists and data analysts are prediction and machine learning this will cover the basic components of building and applying prediction functions with an emphasis on practical applications the will provide basic grounding in concepts such as training and tests sets overfitting and error rates the will also introduce a range of model based and algorithmic machine learning methods including regression classification trees naive bayes and random forests the will cover the complete process of building prediction functions including data collection feature creation algorithms and evaluation
 
 prediction errors and cross validation
 will cover prediction relative importance of steps errors and cross validation
@@ -58,29 +58,29 @@ will introduce the caret package tools for creating features and preprocessing
 caret package data slicing training options plotting predictors basic preprocessing covariate creation preprocessing with principal components analysis predicting with regression predicting with regression multiple covariates
 
 predicting with trees random forests model based predictions
-we introduce a number of machine algorithms you can use to complete your
+we introduce a number of machine learning algorithms you can use to complete your project
 predicting with trees bagging random forests boosting model based prediction
 
 regularized regression and combining predictors
-we will cover regularized regression and combining predictors
+cover regularized regression and combining predictors
 regularized regression combining predictors forecasting unsupervised prediction
 </DOC>
 
 <DOC>
 the data scientists toolbox
-get an introduction to the main tools and ideas in the data scientists toolbox the gives an overview of the data questions and tools that data analysts and data scientists with there are two components to this the first is a conceptual introduction to the ideas behind turning data into actionable knowledge the second is a practical introduction to the tools that will be used in the like version control markdown git github r and rstudio
+get an introduction to the main tools and ideas in the data scientists toolbox the gives an of the data questions and tools that data analysts and data scientists with there are two components to this the first is a conceptual introduction to the ideas behind turning data into actionable knowledge the second is a practical introduction to the tools that will be used in the like version control markdown git github r and rstudio
 
 data science fundamentals
-well introduce and define data science and data itself well also go over some of the resources that data scientists use to get help when theyre stuck
+introduce and define data science and data itself also go over some of the resources that data scientists use to get help when theyre stuck
 why automated what is data science what is data getting help the data science process
 
 r and rstudio
-well help you get up and running with both r and rstudio along the way some basics about both and why data scientists use them
-installing r installing r studio rstudio tour r packages in r
+help you get up and running with both r and rstudio along the way some basics about both and why data scientists use them
+installing r installing r studio rstudio tour r packages projects in r
 
 version control and github
-during this about version control and why its so important to data scientists also how to use git and github to manage version control in data science
-version control github and git linking github and r studio under version control
+during this about version control and why its so important to data scientists also how to use git and github to manage version control in data science projects
+version control github and git linking github and r studio projects under version control
 
 r markdown scientific thinking and big data
 during this final to use r markdown and get an introduction to three concepts that are incredibly important to every successful data scientist asking good questions experimental design and big data
@@ -89,32 +89,32 @@ r markdown types of data science questions experimental design big data
 
 <DOC>
 regression models
-linear models as their name implies relates an to a set of predictors of interest using linear assumptions regression models a subset of linear models are the most important statistical analysis tool in a data scientists toolkit this covers regression analysis least squares and inference using regression models special cases of the regression model anova and ancova will be covered as well analysis of residuals and variability will be investigated the will cover modern thinking on model selection and novel uses of regression models including scatterplot smoothing
+linear models as their name implies relates an to a set of predictors of interest using linear assumptions regression models a subset of linear models are the most important statistical analysis tool in a data scientists toolkit this covers regression analysis least squares and inference using regression models special cases of the regression model anova and ancova will be covered as analysis of residuals and variability will be investigated the will cover modern thinking on model selection and novel uses of regression models including scatterplot smoothing
 
 least squares and linear regression
 we focus on least squares and linear regression
 introduction to regression introduction basic least squares technical details skip if youd like introductory data example notation and background linear least squares linear least squares coding example technical details skip if youd like regression to the mean
 
 linear regression multivariable regression
-we will through the remainder of linear regression and then turn to the first part of multivariable regression
+through the remainder of linear regression and then turn to the first part of multivariable regression
 statistical linear regression models interpreting coefficients linear regression for prediction residuals residuals coding example residual variance inference in regression coding example prediction really really quick intro to knitr
 
 multivariable regression residuals diagnostics
-well build on last weeks introduction to multivariable regression with some examples and then cover residuals diagnostics variance inflation and model comparison
+build on last weeks introduction to multivariable regression with some examples and then cover residuals diagnostics variance inflation and model comparison
 multivariable regression part i multivariable regression part ii multivariable regression continued multivariable regression examples part i multivariable regression examples part ii multivariable regression examples part iii multivariable regression examples part iv adjustment examples residuals and diagnostics part i residuals and diagnostics part ii residuals and diagnostics part iii model selection part i model selection part ii model selection part iii
 
 logistic regression and poisson regression
-we will on generalized linear models including binary and poisson regression
+on generalized linear models including binary and poisson regression
 glms logistic regression part i logistic regression part ii logistic regression part iii poisson regression part i poisson regression part ii hodgepodge
 </DOC>
 
 <DOC>
 data science capstone
-the capstone class will allow students to create a usablepublic data product that can be used to show your to potential employers will be drawn from realworld problems and will be conducted with industry government and academic partners
+the capstone project class will allow students to create a usablepublic data product that can be used to show your to potential employers projects will be drawn from realworld problems and will be conducted with industry government and academic partners
 
-overview understanding the problem and getting the data
-we introduce the so you can get a clear grip on the problem at hand and begin working with the dataset
-welcome to the capstone welcome from swiftkey you are a data scientist now introduction to task understanding the problem introduction to task getting and cleaning the data regular expressions part optional regular expressions part optional
+understanding the problem and getting the data
+we introduce the project so you can get a clear grip on the problem at hand and begin working with the dataset
+welcome to the capstone project welcome from swiftkey you are a data scientist now introduction to task understanding the problem introduction to task getting and cleaning the data regular expressions part optional regular expressions part optional
 
 exploratory data analysis and modeling
 we move on to the next tasks exploratory data analysis and modeling also submit your milestone report and review submissions from your classmates
@@ -127,36 +127,36 @@ creative exploration
 this weeks goal is to improve the predictive accuracy while reducing computational runtime and model complexity
 
 data product
-on developing the first component of your final your data product
+on developing the first component of your final project your data product
 
 slide deck
-on developing the second component of your final a slide deck to accompany your data product
+on developing the second component of your final project a slide deck to accompany your data product
 
-final submission and evaluation
-submit your final and review the of your classmates
+final project submission and evaluation
+submit your final project and review the of your classmates
 </DOC>
 
 <DOC>
 developing data products
 a data product is the production output from a statistical analysis data products automate complex analysis tasks or use technology to expand the utility of a data informed model algorithm or inference this covers the basics of creating data products using shiny r packages and interactive graphics the will focus on the statistical fundamentals of creating a data product that can be used to tell a story about data to a mass audience
 
-overview
-overview well go over some information and resources to help you get started and succeed in the
+
+go over some information and resources to help you get started and succeed in the
 
 shiny googlevis and plotly
 now we can turn to the first substantive lessons how to develop basic applications and interactive graphics in shiny compose interactive html graphics with googlevis and prepare data visualizations with plotly
 shiny shiny shiny shiny shiny shiny shiny shiny shiny shiny shiny shiny gadgets shiny gadgets shiny gadgets googlevis googlevis plotly plotly plotly plotly plotly plotly plotly plotly
 
 r markdown and leaflet
-during this well how to create r markdown files and embed r code in an rmd well also explore leaflet and use it to create interactive annotated maps
+during this how to create r markdown files and embed r code in an rmd also explore leaflet and use it to create interactive annotated maps
 r markdown r markdown r markdown r markdown r markdown r markdown leaflet leaflet leaflet leaflet leaflet leaflet
 
 r packages
-well dive into the world of creating r packages and practice developing an r markdown presentation that includes a data visualization built using plotly
+dive into the world of creating r packages and practice developing an r markdown presentation that includes a data visualization built using plotly
 r packages part r packages part building r packages demo r classes and methods part r classes and methods part
 
-swirl and
-is all about the producing a shiny application and reproducible pitch
+swirl and project
+is all about the project producing a shiny application and reproducible pitch
 swirl swirl swirl
 </DOC>
 
@@ -177,7 +177,7 @@ welcome to of getting and cleaning data the lectures will focus on organizing me
 subsetting and sorting summarizing data creating new variables reshaping data managing data frames with dplyr introduction managing data frames with dplyr basic tools merging data
 
 
-welcome to of getting and cleaning data we finish up with lectures on text and date manipulation in r final we will also focus on peer grading of
+welcome to of getting and cleaning data we finish up with lectures on text and date manipulation in r final also focus on peer grading of projects
 editing text variables regular expressions i regular expressions ii working with dates data resources
 </DOC>
 
@@ -186,7 +186,7 @@ statistical inference
 statistical inference is the process of drawing conclusions about populations or scientific truths from data there are many modes of performing inference including statistical modeling data oriented strategies and explicit use of designs and randomization in analyses furthermore there are broad theories frequentists bayesian likelihood design based and numerous complexities missing data observed and unobserved confounding biases for performing inference a practitioner can often be left in a debilitating maze of techniques philosophies and nuance this presents the fundamentals of inference in a practical approach for getting things done after taking this students will understand the broad directions of statistical inference and use this information for making informed choices in analyzing data
 
 probability expected values
-well focus on the fundamentals including probability random variables expectations and more
+focus on the fundamentals including probability random variables expectations and more
 introductory introduction to probability probability mass functions probability density functions conditional probability bayes rule independence expected values expected values simple examples expected values for pdfs
 
 variability distribution asymptotics
@@ -194,17 +194,17 @@ were going to tackle variability distributions limits and confidence intervals
 introduction to variability variance simulation examples standard error of the mean variance data example binomial distrubtion normal distribution poisson asymptotics and lln asymptotics and the clt asymptotics and confidence intervals
 
 intervals testing pvalues
-we will be taking a look at intervals testing and pvalues lesson
-t confidence intervals t confidence intervals example independent group t intervals a note on unequal variance hypothesis testing example of choosing a rejection region t tests two group testing pvalues pvalue further examples just enough knitr to do the
+be taking a look at intervals testing and pvalues lesson
+t confidence intervals t confidence intervals example independent group t intervals a note on unequal variance hypothesis testing example of choosing a rejection region t tests two group testing pvalues pvalue further examples just enough knitr to do the project
 
 power bootstrapping permutation tests
-we will begin looking into power bootstrapping and permutation tests
+begin looking into power bootstrapping and permutation tests
 power calculating power notes on power t test power multiple comparisons bootstrapping bootstrapping example notes on the bootstrap permutation tests
 </DOC>
 
 <DOC>
 exploratory data analysis
-this covers the essential exploratory techniques for summarizing data these techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models exploratory techniques are also important for eliminating or sharpening potential hypotheses about the world that can be addressed by the data we will cover in detail the plotting systems in r as well as some of the basic principles of constructing data graphics we will also cover some of the common multivariate statistical techniques used to visualize highdimensional data
+this covers the essential exploratory techniques for summarizing data these techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models exploratory techniques are also important for eliminating or sharpening potential hypotheses about the world that can be addressed by the data cover in detail the plotting systems in r as as some of the basic principles of constructing data graphics also cover some of the common multivariate statistical techniques used to visualize highdimensional data
 
 
 covers the basics of analytic graphics and the base plotting system in r weve also included some background material to help you install r if you havent done so already
@@ -219,7 +219,7 @@ welcome to of exploratory data analysis covers some of the workhorse statistical
 hierarchical clustering part hierarchical clustering part hierarchical clustering part kmeans clustering part kmeans clustering part dimension reduction part dimension reduction part dimension reduction part working with color in r plots part working with color in r plots part working with color in r plots part working with color in r plots part
 
 
-well look at two case studies in exploratory data analysis the first involves the use of cluster analysis techniques and the second is a more involved analysis of some air pollution data how one goes about doing eda is often personal but im providing these to give you a sense of how you might proceed with a specific type of dataset
+look at two case studies in exploratory data analysis the first involves the use of cluster analysis techniques and the second is a more involved analysis of some air pollution data how one goes about doing eda is often personal but im providing these to give you a sense of how you might proceed with a specific type of dataset
 clustering case study air pollution case study
 </DOC>
 

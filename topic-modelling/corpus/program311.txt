@@ -1,46 +1,46 @@
 <DOC>
 python for everybody
-this builds on the success of the python for everybody and will introduce fundamental programming concepts including data structures networked application interfaces and databases using the python programming language in the capstone use the technologies learned throughout the to design and create your own applications for data retrieval processing and visualization
+this builds on the success of the python for everybody and will introduce fundamental programming concepts including data structures networked application interfaces and databases using the python programming language in the capstone project use the technologies learned throughout the to design and create your own applications for data retrieval processing and visualization
 </DOC>
 
 <DOC>
 capstone retrieving processing and visualizing data with python
-in the capstone students will build a series of applications to retrieve process and visualize data using python the will involve all the elements of the in the first part of the capstone students will do some visualizations to become familiar with the technologies in use and then will pursue their own to visualize some other data that they have or can find chapters and from the book python for everybody will serve as the backbone for the capstone this covers python
+in the capstone students will build a series of applications to retrieve process and visualize data using python the projects will involve all the elements of the in the first part of the capstone students will do some visualizations to become familiar with the technologies in use and then will pursue their own project to visualize some other data that they have or can find chapters and from the book python for everybody will serve as the backbone for the capstone this covers python
 
 welcome to the capstone
-congratulations to everyone for making it this far before you begin please view the introduction and read the capstone overview the resources section contains additional coursewide material that you may want to refer to in future weeks
+congratulations to everyone for making it this far before you begin please view the introduction and read the capstone the resources section contains additional coursewide material that you may want to refer to in future weeks
 introduction welcome to the class unicode characters and strings office hours in den haag netherlands interview john resig and pam fox khan academy
 
 building a search engine
-we will download and run a simple version of the google pagerank algorithm and practice spidering some content the is peergraded and the first of three optional honors in the this a continuation of the material covered in of the and is based on chapter of the textbook
-page rank overview worked example page rank spidering chapter worked example page rank computation chapter worked example page rank visualization chapter office hours detroit michigan interview anil jain image processing
+download and run a simple version of the google pagerank algorithm and practice spidering some content the is peergraded and the first of three optional honors in the this a continuation of the material covered in of the and is based on chapter of the textbook
+page rank worked example page rank spidering chapter worked example page rank computation chapter worked example page rank visualization chapter office hours detroit michigan interview anil jain image processing
 
-exploring data sources
-the optional capstone is your to select process and visualize the data of your choice and receive feedback from your peers the is not graded and can be as simple or complex as you like this weeks is to identify a data source and make a short discussion forum post describing the data source and outlining some possible analysis that could be done with it not be required to use the data source presented here for your actual analysis
+exploring data sources project
+the optional capstone project is your to select process and visualize the data of your choice and receive feedback from your peers the project is not graded and can be as simple or complex as you like this weeks is to identify a data source and make a short discussion forum post describing the data source and outlining some possible analysis that could be done with it not be required to use the data source presented here for your actual analysis
 dr chucks new kitten sakaiger interview bruce schneier the security mindset
 
 spidering and modeling email data
-in our second optional honors we will retrieve and process email data from the sakai open source lectures will walk you through the process of retrieving cleaning up and modeling the data
+in our second optional honors retrieve and process email data from the sakai open source project lectures will walk you through the process of retrieving cleaning up and modeling the data
 gmane introduction worked example gmane mail retrieval chapter worked example gmane mail model chapter office hours baltimore md interview bruce schneier building cryptographic systems
 
-accessing new data sources
+accessing new data sources project
 the task for is to make a discussion thread post that reflects the progress you have made to date in retrieving and cleaning up your data source so can perform your analysis feedback from other students is encouraged to help you refine the process
 
 visualizing email data
-in the final optional honors we will do two visualizations of the email data you have retrieved and processed a word cloud to visualize the frequency distribution and a timeline to show how the data is changing over time
+in the final optional honors do two visualizations of the email data you have retrieved and processed a word cloud to visualize the frequency distribution and a timeline to show how the data is changing over time
 worked example gmane mail visualization chapter office hours montreal canada interview nathaniel borenstein the father of mime
 
-visualizing new data sources
-discuss the analysis of your data to the class while many of the will result in a visualization of the data any other results of analyzing the data are equally valued so use whatever form of analysis and display is most appropriate to the data set you have selected
+visualizing new data sources project
+discuss the analysis of your data to the class while many of the projects will result in a visualization of the data any other results of analyzing the data are equally valued so use whatever form of analysis and display is most appropriate to the data set you have selected
 office hours dr chucks office ann arbor michigan steve jobs next and the internet
 </DOC>
 
 <DOC>
 using python to access web data
-this will show how one can treat the internet as a source of data we will scrape parse and read web data as well as access data using web apis we will with html xml and json data formats in python this will cover chapters of the textbook python for everybody to succeed you should be familiar with the material covered in chapters of the textbook and the first two courses these topics include variables and expressions conditional execution loops branching and tryexcept functions python data structures strings lists dictionaries and tuples and manipulating files this covers python
+this will show how one can treat the internet as a source of data scrape parse and read web data as as access data using web apis with html xml and json data formats in python this will cover chapters of the textbook python for everybody to succeed you should be familiar with the material covered in chapters of the textbook and the first two courses these topics include variables and expressions conditional execution loops branching and tryexcept functions python data structures strings lists dictionaries and tuples and manipulating files this covers python
 
 getting started
-section install python and a text editor in previous classes in the this was an optional but class it is the first requirement to get started from this point forward we will stop using the browserbased python grading environment because the browserbased python environment skulpt is not capable of running the more complex programs we will be developing class
+section install python and a text editor in previous classes in the this was an optional but class it is the first requirement to get started from this point forward stop using the browserbased python grading environment because the browserbased python environment skulpt is not capable of running the more complex programs be developing class
 welcome to the welcome to python guido van rossum windows installing python and writing a windows taking screen shots macintosh using python and writing a macintosh taking screen shots
 
 regular expressions chapter
@@ -69,8 +69,8 @@ programming for everybody getting started with python
 this aims to teach everyone the basics of programming computers using python we cover the basics of how one constructs a from a series of simple instructions in python the has no prerequisites and avoids all but the simplest mathematics anyone with moderate computer should be able to master the materials this will cover chapters of the textbook python for everybody once a student completes this they will be ready to take more advanced programming courses this covers python
 
 chapter one why we
-these are the coursewide materials as well as the first part of chapter one where we explore what it means to write programs we finished chapter one and had the quiz and first in the third of the class throughout the you may want to come back and look at these materials this section should not take you an entire
-welcome to class dr chuck welcome to python guido van rossum why hardware overview python as a language fun the textbook authors meet pycon face to face office hours bengaluru india
+these are the coursewide materials as as the first part of chapter one where we explore what it means to write programs we finished chapter one and had the quiz and first in the third of the class throughout the you may want to come back and look at these materials this section should not take you an entire
+welcome to class dr chuck welcome to python guido van rossum why hardware python as a language fun the textbook authors meet pycon face to face office hours bengaluru india
 
 installing python
 set things up so you can write python programs not all activities are required for this class so please read the using python class material for details
@@ -89,7 +89,7 @@ section we move from sequential code that simply runs one line of code after ano
 conditional statements more conditional statements worked exercise interview massimo banzi the arduino office hours seoul korea
 
 chapter four functions
-this is a relatively short chapter we will about what functions are and how we can use them the programs in the first chapters of the book are not large enough to require us to develop functions but as the book moves into more and more complex programs functions will be an essential way for us to make sense of our code
+this is a relatively short chapter about what functions are and how we can use them the programs in the first chapters of the book are not large enough to require us to develop functions but as the book moves into more and more complex programs functions will be an essential way for us to make sense of our code
 using functions building functions interview guido van rossum the early years of python office hours manila philippines
 
 chapter five loops and iteration
@@ -99,7 +99,7 @@ loops and iteration definite loops finding the largest value loop idioms worked 
 
 <DOC>
 python data structures
-this will introduce the core data structures of the python programming language we will move past the basics of procedural programming and explore how we can use the python builtin data structures such as lists dictionaries and tuples to perform increasingly complex data analysis this will cover chapters of the textbook python for everybody this covers python
+this will introduce the core data structures of the python programming language move past the basics of procedural programming and explore how we can use the python builtin data structures such as lists dictionaries and tuples to perform increasingly complex data analysis this will cover chapters of the textbook python for everybody this covers python
 
 chapter six strings
 class we pick up where we left off in the previous class starting in chapter of the textbook and covering strings and moving into data structures the second of this class is dedicated to getting python installed if you want to actually run the applications on your desktop or laptop if you choose not to install python you can just skip to the third and get a head start
@@ -114,7 +114,7 @@ up to now we have been working with data that is read from the user or data in c
 files processing files demonstration worked exercise bonus office hours barcelona bonus gordon bell building blocks of computing
 
 chapter eight lists
-as we want to solve more complex problems in python we need more powerful variables up to now we have been using simple variables to store numbers or strings where we have a single value in a variable starting with lists we will store many values in a single variable using an indexing scheme to store organize and retrieve different values from within a single variable we call these multivalued variables collections or data structures
+as we want to solve more complex problems in python we need more powerful variables up to now we have been using simple variables to store numbers or strings where we have a single value in a variable starting with lists store many values in a single variable using an indexing scheme to store organize and retrieve different values from within a single variable we call these multivalued variables collections or data structures
 lists manipulating lists lists and strings fun python lists in paris worked exercise lists bonus office hours chicago bonus rasmus lerdorf inventing the php language
 
 chapter nine dictionaries
@@ -132,7 +132,7 @@ graduation ceremony drchuck wrap upwhats next
 
 <DOC>
 using databases with python
-this will introduce students to the basics of the structured query language sql as well as basic database design for storing data as part of a multistep data gathering analysis and processing effort the will use sqlite as its database we will also build web crawlers and multistep data gathering and visualization processes we will use the djs library to do basic data visualization this will cover chapters of the book python for everybody to succeed you should be familiar with the material covered in chapters of the textbook and the first three courses this covers python
+this will introduce students to the basics of the structured query language sql as as basic database design for storing data as part of a multistep data gathering analysis and processing effort the will use sqlite as its database also build web crawlers and multistep data gathering and visualization processes use the djs library to do basic data visualization this will cover chapters of the book python for everybody to succeed you should be familiar with the material covered in chapters of the textbook and the first three courses this covers python
 
 object oriented python
 to start this class out we cover the basics of object oriented python we wont be writing our own objects but since many of the things we use like beautifulsoup strings dictionaries database connections all use object oriented oo patterns we should at least understand some of its patterns and terminology

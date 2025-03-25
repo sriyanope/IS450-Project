@@ -1,74 +1,91 @@
 <DOC>
 software development lifecycle
-this is designed for people who are new to software engineering its also for those who have already developed software but wish to gain a deeper understanding of the underlying context and theory of software development practicesat the end of this we expect learners to be able to build highquality and secure software using sdlc methodologies such as agile lean and traditionalwaterfall analyze a software development teams sdlc methodology and make recommendations for improvements compare and contrast software development methodologies with respect to environmental organizational and product constraintsapplied projectto cement the theoretical concept into solid learners will be given multiple fictional case studies where learners will be asked to make decisions like what methodology will you choose what practicesprocesses will you use and why these will help learners apply the concepts into practice in agile learners will be asked to create a story map for a given situation and make a case for agile methodologyin lean learners will be asked to create a value stream map and use design thinking to a ficticious case studyall of the will be peer reviewed
+this is designed for people who are new to software engineering its also for those who have already developed software but wish to gain a deeper understanding of the underlying context and theory of software development practices
+at the end of this we expect learners to be able to
+build highquality and secure software using sdlc methodologies such as agile lean and traditionalwaterfall
+analyze a software development teams sdlc methodology and make recommendations for improvements
+compare and contrast software development methodologies with respect to environmental organizational and product constraints
+
+
+
+to cement the theoretical concept into solid learning learners will be given multiple fictional case studies where learners will be asked to make decisions like what methodology will you choose what practicesprocesses will you use and why these projects will help learners apply the concepts into practice
+in agile learners will be asked to create a story map for a given situation and make a case for agile methodology
+in lean learners will be asked to create a value stream map and use design thinking to a ficticious case study
+all of the projects will be peer reviewed
+
+
 </DOC>
 
 <DOC>
 software development processes and methodologies
-software is quickly becoming integral part of human life as we see more and more automation and technical advancements just like we expect car to all the time and cant afford to break or reboot unexpectedly software industry needs to continue to better way to build software if it were to become integral part of human lifein this get an overview of how software teams what processes they use what are some of the industry standard methodologies what are pros and cons of each enough to have meaningful conversation around software development processes after completing this a learner will be able to apply core software engineering practices at conceptual level for a given problem compare and contrast traditional agile and lean development methodologies at high level these include waterfall rational unified process v model incremental spiral models and overview of agile mindset propose a methodology best suited for a given situation
+software is quickly becoming integral part of human life as we see more and more automation and technical advancements just like we expect car to all the time and cant afford to break or reboot unexpectedly software industry needs to continue to better way to build software if it were to become integral part of human life
+get an of how software teams what processes they use what are some of the industry standard methodologies what are pros and cons of each enough to have meaningful conversation around software development processes after completing this a learner will be able to apply core software engineering practices at conceptual level for a given problem compare and contrast traditional agile and lean development methodologies at high level these include waterfall rational unified process v model incremental spiral models and of agile mindset propose a methodology best suited for a given situation
 
 software development processes part
-and next one we will about various software development processes at a high level to understand what is involved in each of these processes we will cover requirements and architecture
+and next one about various software development processes at a high level to understand what is involved in each of these processes cover requirements and architecture
 why take this motivation and intro what software development looks like why do we need requirements requirements vs specification nonfunctional requirements wrspm wrspm model realworld example software architecture definition software architecture models software architecture process
 
 software development processes part
-we will about processes that are used to implement the software verify and validate the software deploy the software and maintain the software
+about processes that are used to implement the software verify and validate the software deploy the software and maintain the software
 software design introduction software design modularity software design coupling software design cohesion implementation deployment deployment rollback deployment cutover strategies software testing introduction software testing definitions software testing strategies software testing perspectives
 
 software development models traditional models
-we will about various traditional models like waterfall rup incremental and spiral models
+about various traditional models like waterfall rup incremental and spiral models
 software development models waterfall model vmodel sashimi model incremental models unified process and its variants spiral model phase gates stage gates applying software development models
 
 software development models agile and lean
-we will about agile and modern techniques of software development we will also about techniques that helps you faster about your market your users and your product
+about agile and modern techniques of software development also about techniques that helps you faster about your market your users and your product
 why agile agile manifesto and principles agile frameworks scrum kanban agile and lean lean startup model selection when to use which model what next
 </DOC>
 
 <DOC>
 lean software development
-while scrum and xp were transforming the software development industry there were another set of ideas derived from lean manufacturing and six sigma that started to influence software development methods these ideas around lean software development forms the foundation of number of agile methods we will explore lean concepts and cover some of the common lean methods and techniques like kanban value stream mapping etc we will also techniques like lean startup and design thinking that can help team about user and market needs much faster and cheaper as part of this also apply the knowledge gained to fictional case studies these will help you gain to confidently apply these techniques in real world at the end of the be able to apply lean techniques methods to software development also be able to apply methods to about your users and market needs much faster and cheaper
+while scrum and xp were transforming the software development industry there were another set of ideas derived from lean manufacturing and six sigma that started to influence software development methods these ideas around lean software development forms the foundation of number of agile methods
+explore lean concepts and cover some of the common lean methods and techniques like kanban value stream mapping etc also techniques like lean startup and design thinking that can help team about user and market needs much faster and cheaper as part of this also apply the knowledge gained to fictional case studies these projects will help you gain to confidently apply these techniques in real world at the end of the be able to apply lean techniques methods to software development also be able to apply methods to about your users and market needs much faster and cheaper
 
 lean fundamentals
-we will first about core lean principles from manufacturing after that we will how you can apply these lean principles in software development finally we will about lean principles of software development in depth at the end of this build the foundational knowledge around lean concepts
-welcome and intro what do we mean by lean lean for software development amplify create knowledge defer commitments build quality in deliver fast optimize the whole
+first about core lean principles from manufacturing after that how you can apply these lean principles in software development finally about lean principles of software development in depth at the end of this build the foundational knowledge around lean concepts
+welcome and intro what do we mean by lean lean for software development amplify learning create knowledge defer commitments build quality in deliver fast optimize the whole
 
 kanban value steam mapping and kaizen
-we will about kanban and other lean practices like value stream mapping kaizen etc gain the ability to participate effectively in using these tools and practices
+about kanban and other lean practices like value stream mapping kaizen etc gain the ability to participate effectively in using these tools and practices
 kanban for software development value stream mapping
 
 lean startup
-lesson we will techniques like lean startup and design thinking that can help your team about user and market needs much faster
-lean startup principles lean startup validated and buildmeasurelearn innovation accounting
+lesson techniques like lean startup and design thinking that can help your team about user and market needs much faster
+lean startup principles lean startup validated learning and buildmeasurelearn innovation accounting
 
 design thinking
-we will about a technique called startup with design thinking these techniques help the team about user needs also get an to apply this technique on a fictional case study at the end of this be able to uncover user needs using lean startup with design thinking
+about a technique called startup with design thinking these techniques help the team about user needs also get an to apply this technique on a fictional case study at the end of this be able to uncover user needs using lean startup with design thinking
 design thinking lean startup with design thinking identifying and classifying assumptions prototype and test
 </DOC>
 
 <DOC>
 agile software development
-software industry is going crazy on agile methods it is rapidly becoming the choice for software development where requirements are unpredictable or is expected to change over time this will help you gain knowledge on what is agile why agile is better suited for these situations we will also cover some of the most common agile frameworks like scrum and xp in depth prerequisite you need basic knowledge of software development process and software development methodologies after completing this be able to demonstrate the ability to participate effectively in agile practicesprocess for software development explain the purpose behind common agile practices ability to apply agile principles and values to a given situation ability to identify and address most common problems encountered in adopting agile methods also be given to apply what you be given fictional case studies where after studying the case study have to exercise some of the practices techniques etc that team members of an agile team members are expected to know
+software industry is going crazy on agile methods it is rapidly becoming the choice for software development where requirements are unpredictable or is expected to change over time this will help you gain knowledge on what is agile why agile is better suited for these situations also cover some of the most common agile frameworks like scrum and xp in depth
+prerequisite you need basic knowledge of software development process and software development methodologies after completing this be able to demonstrate the ability to participate effectively in agile practicesprocess for software development explain the purpose behind common agile practices ability to apply agile principles and values to a given situation ability to identify and address most common problems encountered in adopting agile methods project also be given to apply what you be given fictional case studies where after studying the case study have to exercise some of the practices techniques etc that team members of an agile team members are expected to know
 
 agile fundamentals
-we will about agile mindset the core behind many agile methods how agile methods are different than traditional methods and when to use agile methods we will about how to apply agile mindset and finally review different frameworks available to implement agile
-welcome and intro what software development looks like intro to software development models why agile agile manifesto principles benefits and challenges of agile agile when to use and when not to applying an agile mindset to a agile frameworks
+about agile mindset the core behind many agile methods how agile methods are different than traditional methods and when to use agile methods about how to apply agile mindset and finally review different frameworks available to implement agile
+welcome and intro what software development looks like intro to software development models why agile agile manifesto principles benefits and challenges of agile agile when to use and when not to applying an agile mindset to a project agile frameworks
 
 requirements and planning
-we will about user stories and agile estimation and planning techniques
+about user stories and agile estimation and planning techniques
 gathering requirements the agile way user stories the currency of agile development characteristics of good user stories generating user stories agile estimation and planning estimation styles and process velocity release planning release tracking
 
 scrum
-we will about scrum which is one of the most popular agile framework we will about scrum practices and the purpose behind these practices
-scrum overview sprint planning sprint tracking sprint execution and daily standups sprint review sprint retrospective
+about scrum which is one of the most popular agile framework about scrum practices and the purpose behind these practices
+scrum sprint planning sprint tracking sprint execution and daily standups sprint review sprint retrospective
 
 xp and wrapup
-we will compare scrum to xp and about some of the engineering practices from xp
-xp overview xp values xp practices part xp practices part xp process model
+compare scrum to xp and about some of the engineering practices from xp
+xp xp values xp practices part xp practices part xp process model
 </DOC>
 
 <DOC>
 engineering practices for building quality software
-agile embraces change which means that team should be able to effectively make changes to the system as team learns about users and market to be good at effectively making changes to the system teams need to have engineering rigor and excellence else embracing change becomes very painful and expensive about engineering practices and processes that agile and traditional teams use to make sure the team is prepared for change in additional also about practices techniques and processes that can help team build high quality software also how to calculate a variety of quantitative metrics related to software quality this is an intermediate intended for learners with a background in software development to succeed in the you should have developing in modern programming languages eg java c python javascript an understanding of software development lifecycle models familiarity with uml diagrams class and sequence diagrams and a desire to better understand quality aspects of software development beyond correctness at the end of this be able to comfortably and effectively participate in various techniques and processes for building secure and high quality software
+agile embraces change which means that team should be able to effectively make changes to the system as team learns about users and market to be good at effectively making changes to the system teams need to have engineering rigor and excellence else embracing change becomes very painful and expensive
+about engineering practices and processes that agile and traditional teams use to make sure the team is prepared for change in additional also about practices techniques and processes that can help team build high quality software also how to calculate a variety of quantitative metrics related to software quality this is an intermediate intended for learners with a background in software development to succeed in the you should have developing in modern programming languages eg java c python javascript an understanding of software development lifecycle models familiarity with uml diagrams class and sequence diagrams and a desire to better understand quality aspects of software development beyond correctness at the end of this be able to comfortably and effectively participate in various techniques and processes for building secure and high quality software
 
 introduction to quality software
 be introduced to the concept of quality as it relates to software
@@ -86,7 +103,7 @@ explore a variety of quality aspects of the implementation stage of the lifecycl
 code style code style examples debugging static analysis commenting version control systems build process
 
 quality in testing and deployment
-learners will discover quality in the final lifecycle stages testing and deployment learners will first be instructed on the importance of test planning understand what it means to evaluate tests and identify the benefits of testfirst process then a variety of resources will give learners understanding into continuous pipeline tools allowing the learner to evaluate their potential benefits and drawbacks for their own
+learners will discover quality in the final lifecycle stages testing and deployment learners will first be instructed on the importance of test planning understand what it means to evaluate tests and identify the benefits of testfirst process then a variety of resources will give learners understanding into continuous pipeline tools allowing the learner to evaluate their potential benefits and drawbacks for their own projects
 test selection test adequacy testdriven development continuous integration continuous delivery continuous deployment
 </DOC>
 

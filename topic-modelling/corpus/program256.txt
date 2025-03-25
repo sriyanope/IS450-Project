@@ -1,6 +1,18 @@
 <DOC>
 marketing with tiktok
-this is for anyone asking is tiktok right for my business in the first getting started with tiktok be introduced to the tiktok platform including whos on it and what theyre creating then in the second tiktok for business how businesses use tiktok how they tailor content to the platform and how they find an audience in the final advertising and ecommerce on tiktok how to create a marketing strategy for tiktok how to create advertising campaigns how to promote and sell products via organic and ecommerce channels like shopify and how to use analytics to inform future marketing strategies throughout the have the chance to create your own as well as engage with what other businesses are doing by studying various tiktok accounts in order to get inspiration and insight for your own future interactions with tiktokby the end of this be able to create fun and engaging tiktok videosunderstand how tiktok fits into your businesss marketing strategyarticulate how a number of different businesses use tiktokcreate original content using hashtags trends filters and morebuild and maintain a brand presence on tiktokcreate a content calendarutilize tiktok ads manager to create and execute a campaignset up ecommerce integration into your tiktok accountanalyze data from your efforts to inform your future content strategyapplied projectlearners will practice creating advertisements on tiktok through guided simulations these simulations recreate the tiktok advertising platform and allow learners to engage with the platform in a practice environment before creating ads with their own accounts
+this is for anyone asking is tiktok right for my business in the first getting started with tiktok be introduced to the tiktok platform including whos on it and what theyre creating then in the second tiktok for business how businesses use tiktok how they tailor content to the platform and how they find an audience in the final advertising and ecommerce on tiktok how to create a marketing strategy for tiktok how to create advertising campaigns how to promote and sell products via organic and ecommerce channels like shopify and how to use analytics to inform future marketing strategies throughout the have the chance to create your own as as engage with what other businesses are doing by studying various tiktok accounts in order to get inspiration and insight for your own future interactions with tiktok
+by the end of this be able to
+create fun and engaging tiktok
+understand how tiktok fits into your businesss marketing strategy
+articulate how a number of different businesses use tiktok
+create original content using hashtags trends filters and more
+build and maintain a brand presence on tiktok
+create a content calendar
+utilize tiktok ads manager to create and execute a campaign
+set up ecommerce integration into your tiktok account
+analyze data from your efforts to inform your future content strategy
+
+learners will practice creating advertisements on tiktok through guided simulations these simulations recreate the tiktok advertising platform and allow learners to engage with the platform in a practice environment before creating ads with their own accounts
 </DOC>
 
 <DOC>
@@ -9,11 +21,11 @@ this is the second in the marketing with tiktok dive into why and how businesses
 
 tiktok business basics
 you explore how businesses use tiktok to engage audiences and enhance brand visibility to develop a targeted marketing strategy and content calendar create resonant content and adapt to trends to maintain relevance
-introduction introduction instructor introduction overview tiktok for business how businesses use tiktok business content on tiktok advertising and ecommerce overview sponsored content and partnering with influencers value of a business tiktok account how to create a business account conclusion tiktok for business
+introduction introduction instructor introduction tiktok for business how businesses use tiktok business content on tiktok advertising and ecommerce sponsored content and partnering with influencers value of a business tiktok account how to create a business account conclusion tiktok for business
 
 creating and maintaining a presence on tiktok
 you explore how to establish and maintain a business presence on tiktok create a marketing strategy tailor a content calendar and produce engaging content that resonates with users additionally to adapt to tiktoks evolving trends to keep your brand relevant and connected
-overview creating and maintaining a presence on tiktok creating a tiktok marketing strategy building your brand brand voice and style introduction to business content on tiktok create unique content for your tiktok business account tiktok creative center how to use hashtags and trends creating a content calendar tips for creating a tiktok content calendar monitor and evaluate the performance of your intro to audience engagement increase engagement use your insights with influencers to grow your audience use advertising to reach your goals conclusion creating and maintaining a presence on tiktok
+creating and maintaining a presence on tiktok creating a tiktok marketing strategy building your brand brand voice and style introduction to business content on tiktok create unique content for your tiktok business account tiktok creative center how to use hashtags and trends creating a content calendar tips for creating a tiktok content calendar monitor and evaluate the performance of your intro to audience engagement increase engagement use your insights with influencers to grow your audience use advertising to reach your goals conclusion creating and maintaining a presence on tiktok
 </DOC>
 
 <DOC>
@@ -26,19 +38,20 @@ intro advertising and ecommerce on tiktok advertising on tiktok different advert
 
 measure and optimize
 discussion prompt
-the importance of measuring overview of tiktok analytics how to interpret tiktok analytics how to use analytics to evaluate success and inform future strategy conclusion
+the importance of measuring of tiktok analytics how to interpret tiktok analytics how to use analytics to evaluate success and inform future strategy conclusion
 </DOC>
 
 <DOC>
 getting started with tiktok
-be introduced to tiktok an exciting social media platform that will open up new marketing for your business this focuses on tiktok basics the history of tiktok the key user demographics and the apps unique features gain an understanding of how users interact with the app and the benefits of adding tiktok to your social media strategy set up a personal account and the best strategies for creating compelling content with which other users will want to interact even create your first by the end of this be able to describe the key features and user demographics of tiktok discuss how users interact with tiktok engage with the tiktok community create an engaging with tiktoks editing tools regardless of your current social media this will lay the foundation for success in using tiktok
+be introduced to tiktok an exciting social media platform that will open up new marketing for your business
+this focuses on tiktok basics the history of tiktok the key user demographics and the apps unique features gain an understanding of how users interact with the app and the benefits of adding tiktok to your social media strategy set up a personal account and the best strategies for creating compelling content with which other users will want to interact even create your first by the end of this be able to describe the key features and user demographics of tiktok discuss how users interact with tiktok engage with the tiktok community create an engaging with tiktoks editing tools regardless of your current social media this will lay the foundation for success in using tiktok
 
 introduction to tiktok
 about the tiktok app and discover some of the platforms unique features create your own tiktok account and explore tiktoks unique features also discover how tiktok uses a distinctive algorithm and how it works
-introduction introduction instructor introduction overview introduction to tiktok a brief history of tiktok introduction to tiktok tiktok app explore tiktok understand the algorithm benefits of tiktok create a tiktok account conclusion introduction to tiktok
+introduction introduction instructor introduction introduction to tiktok a brief history of tiktok introduction to tiktok tiktok app explore tiktok understand the algorithm benefits of tiktok create a tiktok account conclusion introduction to tiktok
 
 engaging with the tiktok community
 explore the tiktok app and more about how users interact on the platform examine tiktok demographics and determine the impact tiktok has on popular culture
-overview understanding the tiktok community tiktok users how do people use tiktok interacting with followers and the tiktok community engagement options the importance of music on tiktok what makes a great tiktok how to create your first exploring tool options audio features behind the scenes conclusion engaging with the tiktok community
+understanding the tiktok community tiktok users how do people use tiktok interacting with followers and the tiktok community engagement options the importance of music on tiktok what makes a great tiktok how to create your first exploring tool options audio features behind the scenes conclusion engaging with the tiktok community
 </DOC>
 

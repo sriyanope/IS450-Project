@@ -1,14 +1,24 @@
 <DOC>
 from data to insights with google cloud
-want to know how to query and process petabytes of data in seconds curious about data analysis that scales automatically as your data grows welcome to the data insights coursethis fourcourse accelerated online teaches participants how to derive insights through data analysis and visualization using the google cloud platform the courses feature interactive scenarios and handson labs where participants explore mine load visualize and extract insights from diverse google bigquery datasets the courses also cover data loading querying schema modeling optimizing performance query pricing and data visualizationthis is intended for the following participants data analysts business analysts business intelligence professionals cloud data engineers who will be partnering with data analysts to build scalable data solutions on google cloud platformto get the most out of this we recommend participants have some proficiency with ansi sql by enrolling you agree to the qwiklabs terms of service as set out in the faq and located at httpsqwiklabscomtermsofserviceopens in a new tab applied projectthis incorporates handson labs using our qwiklabs platformthese hands on components will let you apply the you in the lectures will incorporate topics such as google cloud platform products which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the
+want to know how to query and process petabytes of data in seconds curious about data analysis that scales automatically as your data grows welcome to the data insights
+this fourcourse accelerated online teaches participants how to derive insights through data analysis and visualization using the google cloud platform the courses feature interactive scenarios and handson labs where participants explore mine load visualize and extract insights from diverse google bigquery datasets the courses also cover data loading querying schema modeling optimizing performance query pricing and data visualization
+this is intended for the following participants
+data analysts business analysts business intelligence professionals
+cloud data engineers who will be partnering with data analysts to build scalable data solutions on google cloud platform
+to get the most out of this we recommend participants have some proficiency with ansi sql
+by enrolling you agree to the qwiklabs terms of service as set out in the faq and located at httpsqwiklabscomtermsofserviceopens in a new tab
+
+this incorporates handson labs using our qwiklabs platform
+these hands on components will let you apply the you in the lectures projects will incorporate topics such as google cloud platform products which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the
 </DOC>
 
 <DOC>
 creating new bigquery datasets and visualizing insights
-this is the second in the data to insights series here we will cover how to ingest new external datasets into bigquery and visualize them with looker studio we will also cover intermediate sql concepts like multitable joins and unions which will allow you to analyze data across multiple data sources note even if you have a background in sql there are bigquery specifics like handling query cache and table wildcards that may be new to you after completing this enroll in the achieving advanced insights with bigquery
+this is the second in the data to insights series here cover how to ingest new external datasets into bigquery and visualize them with looker studio also cover intermediate sql concepts like multitable joins and unions which will allow you to analyze data across multiple data sources
+note even if you have a background in sql there are bigquery specifics like handling query cache and table wildcards that may be new to you after completing this enroll in the achieving advanced insights with bigquery
 
 introduction
-overview of what
+of what
 introduction recap of google analytics ecommerce dataset
 
 storing and exporting data
@@ -25,24 +35,25 @@ introducing joins and unions use table wildcards for easy merges linking data ac
 
 data visualization
 create dashboards and visualizations with looker studio
-overview of data visualization principles comparing good and bad visualizations dimensions measures and reports introducing looker studio lab intro explore and create reports with looker studio
+of data visualization principles comparing good and bad visualizations dimensions measures and reports introducing looker studio lab intro explore and create reports with looker studio
 
 
-of the ley points
+of the ley learning points
 </DOC>
 
 <DOC>
 exploring and preparing your data with bigquery
-we see what the common challenges faced by data analysts are and how to solve them with the big data tools on google cloud pick up some sql along the way and become very familiar with using bigquery and dataprep to analyze and transform your datasetsthis is the first of the from data to insights with google cloud series after completing this enroll in the creating new bigquery datasets and visualizing insights
+we see what the common challenges faced by data analysts are and how to solve them with the big data tools on google cloud pick up some sql along the way and become very familiar with using bigquery and dataprep to analyze and transform your datasets
+this is the first of the from data to insights with google cloud series after completing this enroll in the creating new bigquery datasets and visualizing insights
 
 welcome to from data to insights with google cloud exploring and preparing your data
 the courses content and technologies that are part of this data analyst series
 
 introduction to data on google cloud
 understand the core principles behind google cloud and how to leverage them for big data analysis
-analytics challenges faced by data analysts big data onpremises versus in the cloud realworld use cases google cloud basics
+analytics challenges faced by data analysts big data onpremises versus in the cloud realworld use cases google cloud project basics
 
-big data tools overview
+big data tools
 what are the key big data tools on google cloud that use to analyze prepare and visualize data
 data analyst tasks and challenges and google cloud data tools fundamental bigquery features walkthrough data architecture diagram google cloud tools for analysts data scientists and data engineers coursera getting started with google cloud platform and qwiklabs
 
@@ -59,22 +70,22 @@ understand the importance of creating high quality datasets and the tools that w
 principles of dataset integrity dataset shape and skew clean and transform data using sql clean and transform data using a new ui introducing dataprep components of data fusion building a pipeline exploring data using wrangler
 
 
-of the key points
+of the key learning points
 </DOC>
 
 <DOC>
-applying machine to your data with google cloud
-we define what machine is and how it can benefit your business see a few demos of ml in action and key ml terms like instances features and labels in the interactive labs practice invoking the pretrained ml apis available as well as build your own machine models using just sql with bigquery ml
+applying machine learning to your data with google cloud
+we define what machine learning is and how it can benefit your business see a few demos of ml in action and key ml terms like instances features and labels in the interactive labs practice invoking the pretrained ml apis available as as build your own machine learning models using just sql with bigquery ml
 
 introduction
-overview of what
+of what
 
-introduction to machine
-we define what machine is and how it can benefit your business see a few demos of ml in action and key ml terms like instances features and labels
-introduction to machine demo google photos what is deep ml applications for business ml terms instances features labels the spectrum of ml tools
+introduction to machine learning
+we define what machine learning is and how it can benefit your business see a few demos of ml in action and key ml terms like instances features and labels
+introduction to machine learning demo google photos what is deep learning ml applications for business ml terms instances features labels the spectrum of ml tools
 
 pretrained ml apis
-we will dive into prebuilt and pretrained ml models that we can access like image recognition and sentiment analysis within cloud datalab
+dive into prebuilt and pretrained ml models that we can access like image recognition and sentiment analysis within cloud datalab
 pretrained ml models demo cloud translate and vision apis demo natural language processing api getting started with google cloud platform and qwiklabs
 
 creating ml datasets in bigquery
@@ -82,22 +93,23 @@ understand how to create ml datasets with bigquery
 what makes a dataset good for ml choosing good features exploring and preprocessing data other tools for creating data pipelines knowing the unknowable creating repeatable dataset splits
 
 creating ml models in bigquery
-how to create machine models directly inside of bigquery the new syntax and through the phases of building evaluating and testing an ml model
-introducing bigquery machine phases of model building lab intro predicting visitor return purchases with bigquery
+how to create machine learning models directly inside of bigquery the new syntax and through the phases of building evaluating and testing an ml model
+introducing bigquery machine learning phases of model building lab intro predicting visitor return purchases with bigquery
 
 end of recap
-youve made it to the end lets review the lessons learned in the and what resources are available for continued
+youve made it to the end lets review the lessons learned in the and what resources are available for continued learning
 </DOC>
 
 <DOC>
 achieving advanced insights with bigquery
-the third series is achieving advanced insights with bigquery here we will build on your growing knowledge of sql as we dive into advanced functions and how to break apart a complex query into manageable steps we will cover the internal architecture of bigquery columnbased sharded storage and advanced sql topics like nested and repeated fields through the use of arrays and structs lastly we will dive into optimizing your queries for performance and how you can secure your data through authorized views after completing this enroll in the applying machine to your data with google cloud
+the third series is achieving advanced insights with bigquery here build on your growing knowledge of sql as we dive into advanced functions and how to break apart a complex query into manageable steps
+cover the internal architecture of bigquery columnbased sharded storage and advanced sql topics like nested and repeated fields through the use of arrays and structs lastly dive into optimizing your queries for performance and how you can secure your data through authorized views after completing this enroll in the applying machine learning to your data with google cloud
 
 introduction
-overview of what
+of what
 
 advanced functions and clauses
-deepen your knowledge of sql on bigquery by about more advanced functions like statistical approximations analytical window queries userdefined functions and with clauses
+deepen your knowledge of sql on bigquery by learning about more advanced functions like statistical approximations analytical window queries userdefined functions and with clauses
 advanced functions statistical analytic userdefined analytic functions with clause and rank bigquery userdefined functions udfs subquery and cte design lab intro deriving insights from advanced sql functions getting started with google cloud platform and qwiklabs
 
 schema design and nested data structures
@@ -115,6 +127,6 @@ data access
 securing and sharing your bigquery datasets is critical for any organization what google cloud and bigquery tools are available to you to permission control and share your data
 
 
-of the ley points
+of the ley learning points
 </DOC>
 

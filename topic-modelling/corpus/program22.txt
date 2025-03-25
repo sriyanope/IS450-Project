@@ -1,11 +1,24 @@
 <DOC>
 anatomy
-explore human anatomy using a systems approach and a vast library of multimedia materials so you may understand the features of different organ systems in relation to the human bodys form and functionthis covers the following organ systems integumentary system musculoskeletal system cardiovascular system respiratory system urinary system nervous system gastrointestinal system reproductive system endocrine systemthis takes advantage of a highly visual multimedia library of accurate anatomical models and materials to help you better understand the topics
+explore human anatomy using a systems approach and a vast library of multimedia materials so you may understand the features of different organ systems in relation to the human bodys form and function
+this covers the following organ systems
+integumentary system
+musculoskeletal system
+cardiovascular system
+respiratory system
+urinary system
+nervous system
+gastrointestinal system
+reproductive system
+endocrine system
+this takes advantage of a highly visual multimedia library of accurate anatomical models and materials to help you better understand the topics
+
 </DOC>
 
 <DOC>
 anatomy human neuroanatomy
-anatomy part of the anatomy be introduced to the central and peripheral nervous systems about basic neuroanatomy sensory pathways motor pathways and the autonomic nervous systemthe includes illustrated lecture and quizzes to help you expand and test your knowledge of the nervous system by the end of this have a better understanding of how the entire body influences and is influenced by the nervous system
+anatomy part of the anatomy be introduced to the central and peripheral nervous systems about basic neuroanatomy sensory pathways motor pathways and the autonomic nervous system
+the includes illustrated lecture and quizzes to help you expand and test your knowledge of the nervous system by the end of this have a better understanding of how the entire body influences and is influenced by the nervous system
 
 gross anatomy of the nervous system
 discussion prompts
@@ -55,7 +68,8 @@ introduction to the endocrine system part introduction to the endocrine system p
 
 <DOC>
 anatomy musculoskeletal and integumentary systems
-anatomy part of the anatomy how the components of the integumentary system help protect our body epidermis dermis hair nails and glands and how the musculoskeletal system bones joints and skeletal muscles protects and allows the body to moveyou will engage with fascinating lectures and anatomical visual materials illustrations and cadaveric images to about these properties and functions
+anatomy part of the anatomy how the components of the integumentary system help protect our body epidermis dermis hair nails and glands and how the musculoskeletal system bones joints and skeletal muscles protects and allows the body to move
+engage with fascinating lectures and anatomical visual materials illustrations and cadaveric images to about these properties and functions
 
 skeletal system
 discussion prompts
@@ -76,7 +90,8 @@ introduction to the integumentary system functions of the integumentary system e
 
 <DOC>
 anatomy cardiovascular respiratory and urinary systems
-anatomy part of the anatomy explore the interactive relationships of the cardiovascular respiratory and urinary systems and the roles they play in your bodythis is a primer for the cardiovascular respiratory and urinary systems in which students the pertinent details of the structures and functions through a combination of lectures labeling activities and quizzes
+anatomy part of the anatomy explore the interactive relationships of the cardiovascular respiratory and urinary systems and the roles they play in your body
+this is a primer for the cardiovascular respiratory and urinary systems in which students the pertinent details of the structures and functions through a combination of lectures labeling activities and quizzes
 
 cardiovascular anatomy i
 discussion prompts

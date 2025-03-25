@@ -1,34 +1,51 @@
 <DOC>
 certnexus certified data science practitioner
-the field of data science has topped the linked in emerging jobs list for the last years with a projected growth of annually and the world economic forum lists data analytics and scientists as the top emerging job for data can reveal insights and inform businessby guiding decisions and influencing daytoday operations this will teach learners how to analyze understand manipulate and present data within an effective and repeatable process framework and will enable you to bring value to the business by putting data science concepts into practice this is designed for business professionals that want to how to more effectively extract insights from their and leverage that insight in addressing business issues thereby bringing greater value to the business the typical student will have several years of with computing technology including some aptitude in computer programmingcertified data science practitioner cdsp will prepare learners for the certnexus cdsp certification exam to complete your journey to the cdsp certificationcomplete the coursera certified data science practitioner certificatereview the current version of the cdsp exam blueprint available at certnexusopens in a new tabpurchase your cdsp exam voucher at the certnexus storeopens in a new tab registeropens in a new tab for your cdsp examapplied projectat the conclusion of each learners will have the to complete a which can be added to their portfolio of include address a business issue with data science extract transform and load datadata analysistraining a machine modelpresenting a data science
+the field of data science has topped the linked in emerging jobs list for the last years with a projected growth of annually and the world economic forum lists data analytics and scientists as the top emerging job for
+data can reveal insights and inform businessby guiding decisions and influencing daytoday operations this will teach learners how to analyze understand manipulate and present data within an effective and repeatable process framework and will enable you to bring value to the business by putting data science concepts into practice
+this is designed for business professionals that want to how to more effectively extract insights from their and leverage that insight in addressing business issues thereby bringing greater value to the business the typical student will have several years of with computing technology including some aptitude in computer programming
+certified data science practitioner cdsp will prepare learners for the certnexus cdsp certification exam
+to complete your journey to the cdsp certification
+complete the coursera certified data science practitioner
+review the current version of the cdsp exam blueprint available at certnexusopens in a new tab
+purchase your cdsp exam voucher at the certnexus storeopens in a new tab
+registeropens in a new tab for your cdsp exam
+
+at the conclusion of each learners will have the to complete a project which can be added to their portfolio of projects include
+address a business issue with data science
+extract transform and load data
+data analysis
+training a machine learning model
+presenting a data science project
 </DOC>
 
 <DOC>
-finalize a data science
-this is designed for business professionals that want to how to gather results from previous stages of the data science and present them to stakeholders learners will communicate the results of a model to stakeholders be shown how to build a basic web app to demonstrate machine models and implement and test pipelines that automate the model training tuning and deployment processes the typical student will have completed previous courses in the cdsp and have several years of with computing technology including some aptitude in computer programming
+finalize a data science project
+this is designed for business professionals that want to how to gather results from previous stages of the data science project and present them to stakeholders learners will communicate the results of a model to stakeholders be shown how to build a basic web app to demonstrate machine learning models and implement and test pipelines that automate the model training tuning and deployment processes
+the typical student will have completed previous courses in the cdsp and have several years of with computing technology including some aptitude in computer programming
 
 communicate results to stakeholders
-in the previous courses you put your data through the extract transform and load etl process conducted an analysis of the data and developed statistical models from the data that cover the three major disciplines of machine classification regression and clustering but youre not done yet now its time to gather your results and present them to stakeholders after all you undertook the data science to achieve business goals so you need to demonstrate that you were actually successful in doing so first report your findings to the stakeholders
-intro finalize a data science audience and insights factors that drive present model results visuals and dashboards cumulative gains charts and lift charts
+in the previous courses you put your data through the extract transform and load etl process conducted an analysis of the data and developed statistical models from the data that cover the three major disciplines of machine learning classification regression and clustering but youre not done yet now its time to gather your results and present them to stakeholders after all you undertook the data science project to achieve business goals so you need to demonstrate that you were actually successful in doing so first report your findings to the projects stakeholders
+intro finalize a data science project audience and insights factors that drive present model results visuals and dashboards cumulative gains charts and lift charts
 
 demonstrate models in a web app
 one way to create a robust and interesting presentation is to show off your results in a web app focus on some of the major technologies that go into creating a web app that you might want to use in a demonstration
 web app html css and javascript web frameworks flask and django demonstrating models in a web app part of demonstrating models in a web app part of demonstrating models in a web app part of
 
 implement and test production pipelines
-much of what youve done throughout the data science can be automated in some way the goal is to spend less time performing some of the more repetitive tasks and more time on tasks that require your own judgment this is where pipeline automation comes into play
-put a model into production data pipelines model drift docker and kubernetes amazon sagemaker and azure machine monitor models in production
+much of what youve done throughout the data science project can be automated in some way the goal is to spend less time performing some of the more repetitive tasks and more time on tasks that require your own judgment this is where pipeline automation comes into play
+put a model into production data pipelines model drift docker and kubernetes amazon sagemaker and azure machine learning monitor models in production
 
 apply what youve learned
-on a in which apply your knowledge of the material to practical scenarios
+on a project in which apply your knowledge of the material to practical scenarios
 </DOC>
 
 <DOC>
 analyze data
-this is designed for business professionals that want to how to analyze data to gain insight use statistical analysis methods to explore the underlying distribution of data use visualizations such as histograms scatter plots and maps to analyze data and preprocess data to produce a dataset ready for trainingthe typical student will have several years of with computing technology including some aptitude in computer programming
+this is designed for business professionals that want to how to analyze data to gain insight use statistical analysis methods to explore the underlying distribution of data use visualizations such as histograms scatter plots and maps to analyze data and preprocess data to produce a dataset ready for training
+the typical student will have several years of with computing technology including some aptitude in computer programming
 
 examine data
-in the previous you conducted extract transform and load etl to ensure your data was ready for the next phase of the data science process analysis in some cases an analysis of the data may be the actual final goal of the or it may be an important intermediary step on the road to machine in either case analyzing your data using various techniques will help you obtain useful insights into that data and what it represents itll also give you a better understanding of how the data needs to undergo more processing to prepare it for machine begin your analysis efforts by exploring the nature of your dataset and the relationships it contains
+in the previous you conducted extract transform and load etl to ensure your data was ready for the next phase of the data science process analysis in some cases an analysis of the data may be the actual final goal of the project or it may be an important intermediary step on the road to machine learning in either case analyzing your data using various techniques will help you obtain useful insights into that data and what it represents itll also give you a better understanding of how the data needs to undergo more processing to prepare it for machine learning begin your analysis efforts by exploring the nature of your dataset and the relationships it contains
 intro analyze data exploratory data analysis dataset content and format analysis of feature types target features feature relevance representative data and sampling techniques imbalanced datasets errors outliers and noise correlations
 
 explore the underlying distribution of data
@@ -40,56 +57,59 @@ look at your data from a visual perspective in order to reveal insights that raw
 visualizations histograms box plots and violin plots scatter plots line plots and area plots bar charts geographical maps and heatmaps plots in combination bar chart grid plots in combination pair plot
 
 preprocess data
-your analysis efforts will most likely prompt you to transform your data further especially in preparation for machine topic do just that
+your analysis efforts will most likely prompt you to transform your data further especially in preparation for machine learning topic do just that
 data preprocessing missing values feature scaling feature engineering data encoding continuous variable discretization bin determination feature splitting dimensionality reduction
 
 apply what youve learned
-on a in which apply your knowledge of the material to a practical scenario
+on a project in which apply your knowledge of the material to a practical scenario
 </DOC>
 
 <DOC>
 address business issues with data science
-this is designed for business professionals that want to how to determine if a business issue is appropriate for a data science and apply the data science processthe typical student will have in a business setting and a highlevel understanding of fundamental data science concepts including but not limited to types of data data science roles the overall data science lifecycle and the benefits and challenges of data science
+this is designed for business professionals that want to how to determine if a business issue is appropriate for a data science project and apply the data science process
+the typical student will have in a business setting and a highlevel understanding of fundamental data science concepts including but not limited to types of data data science roles the overall data science lifecycle and the benefits and challenges of data science
 
-initiate a data science
-before you dive into the technical details of data science you need to understand how data science fits within a larger business context on the job be applying your to achieve one or more business goals so its important to keep those goals in mind all throughout the first begin developing a data science that can achieve these goals
-cdsp introduction intro address business issues with data science data science design thinking scope specification and objectives timeline and deliverables stakeholders stakeholder requirements poc and mvp data privacy and security data access and governance
+initiate a data science project
+before you dive into the technical details of data science you need to understand how data science fits within a larger business context on the job be applying your to achieve one or more business goals so its important to keep those goals in mind all throughout the project first begin developing a data science project that can achieve these goals
+cdsp introduction intro address business issues with data science data science design thinking project scope project specification and objectives project timeline and deliverables project stakeholders stakeholder requirements poc and mvp data privacy and security data access and governance
 
 formulate a data science problem
-now that you have a greater understanding of the goals and design principles you can start thinking about how to approach the using the power of data science contextualize your as a potential solution to a datadriven problem
-the data science process the data science skillset problem formulation common data science issues modeling data data science modes randomness and uncertainty
+now that you have a greater understanding of the projects goals and design principles you can start thinking about how to approach the project using the power of data science contextualize your as a potential solution to a datadriven problem
+the data science process the data science skillset problem formulation common data science issues modeling data data science learning modes randomness and uncertainty
 
 apply what youve learned
-on a in which apply your knowledge of the material to practical scenarios
+on a project in which apply your knowledge of the material to practical scenarios
 </DOC>
 
 <DOC>
-train machine models
-this is designed for business professionals that wish to identify basic concepts that make up machine test model hypothesis using a design of experiments and train tune and evaluate models using algorithms that solve classification regression and forecasting and clustering problemsto be successful a learner should have a background in computing technology including some aptitude in computer programming
+train machine learning models
+this is designed for business professionals that wish to identify basic concepts that make up machine learning test model hypothesis using a design of experiments and train tune and evaluate models using algorithms that solve classification regression and forecasting and clustering problems
+to be successful a learner should have a background in computing technology including some aptitude in computer programming
 
-prepare to train a machine model
-in the previous courses in the cdsp your data underwent a great deal of preparation its time to start looking at developing machine models these models will be instrumental in achieving your business objectives because they can intelligently estimate much about the world but before you start building these models you need to have a firm grasp on what goes into machine and what it means to use machine to test a hypothesis
-intro train machine models machine machine algorithms algorithm selection iterative tuning bias and variance model generalization the biasvariance tradeoff holdout method parameters hypothesis and doe hypothesis testing ab tests pvalue confidence interval
+prepare to train a machine learning model
+in the previous courses in the cdsp your data underwent a great deal of preparation its time to start looking at developing machine learning models these models will be instrumental in achieving your business objectives because they can intelligently estimate much about the world but before you start building these models you need to have a firm grasp on what goes into machine learning and what it means to use machine learning to test a hypothesis
+intro train machine learning models machine learning machine learning algorithms algorithm selection iterative tuning bias and variance model generalization the biasvariance tradeoff holdout method parameters hypothesis and doe hypothesis testing ab tests pvalue confidence interval
 
 develop classification models
-the first type of machine task build models for is classification classification has many applications across many different fields so its a good starting point train classification models tune those models and then evaluate them as part of a process of iterative improvement
-logistic regression multinomial logistic regression knearest neighbor knn supportvector machines svms nave bayes decision tree customer retention example tree pruning ensemble and random forests gradient boosting hyperparameter optimization evaluation metrics classification model performance confusion matrix accuracy precision recall and specificity precisionrecall tradeoff and f score receiver operating characteristic roc curve curve
+the first type of machine learning task build models for is classification classification has many applications across many different fields so its a good starting point train classification models tune those models and then evaluate them as part of a process of iterative improvement
+logistic regression multinomial logistic regression knearest neighbor knn supportvector machines svms nave bayes decision tree customer retention example tree pruning ensemble learning and random forests gradient boosting hyperparameter optimization evaluation metrics classification model performance confusion matrix accuracy precision recall and specificity precisionrecall tradeoff and f score receiver operating characteristic roc curve learning curve
 
 develop regression models
-the next major machine task undertake is regression whereas classification is about placing things in categories regression is about estimating numbers as with the previous train tune and then evaluate models that perform regression
-linear regression linear regression in machine matrices in linear regression normal equation regression using decision trees and ensemble models forecasting autoregressive integrated moving average arima cost function regularization gradient descent gridrandomized search for regression mean squared error mse and mean absolute error mae coefficient of determination
+the next major machine learning task undertake is regression whereas classification is about placing things in categories regression is about estimating numbers as with the previous train tune and then evaluate models that perform regression
+linear regression linear regression in machine learning matrices in linear regression normal equation regression using decision trees and ensemble models forecasting autoregressive integrated moving average arima cost function regularization gradient descent gridrandomized search for regression mean squared error mse and mean absolute error mae coefficient of determination
 
 develop clustering models
-youve built supervised models using both classification and regression but now its time to with unsupervised where labeled data is not readily available implement unsupervised in the form of clustering models which can group observations that share common traits just like before develop these models as a process of training tuning and evaluation
+youve built supervised learning models using both classification and regression but now its time to with unsupervised learning where labeled data is not readily available implement unsupervised learning in the form of clustering models which can group observations that share common traits just like before develop these models as a process of training tuning and evaluation
 kmeans clustering hierarchical clustering latent class analysis clustering hyperparameters and tuning evaluation metrics for clustering elbow point cluster sum of squares silhouette analysis when to stop hierarchical clustering
 
 apply what youve learned
-you have developed models for classification regression and clustering apply what you have learned working within a practical scenario using a jupyter notebook perform machine tasks you are given the choice of three notebooks each of which leverages a different type of algorithm
+you have developed models for classification regression and clustering apply what you have learned working within a practical scenario using a jupyter notebook perform machine learning tasks you are given the choice of three notebooks each of which leverages a different type of algorithm
 </DOC>
 
 <DOC>
 extract transform and load data
-this is designed for business and data seeking to the first technical phase of the data science process known as extract transform and load or etl learners will be taught how to collect data from multiple sources so it is available to be transformed and cleaned and then will dive into collected data sets to prepare and clean data so that it can later be loaded into its ultimate destination in the conclusion of the learners will load data into its ultimate destination so that it can be analyzed and modeled the typical student will have working with data and aptitude with computer programming
+this is designed for business and data seeking to the first technical phase of the data science process known as extract transform and load or etl
+learners will be taught how to collect data from multiple sources so it is available to be transformed and cleaned and then will dive into collected data sets to prepare and clean data so that it can later be loaded into its ultimate destination in the conclusion of the learners will load data into its ultimate destination so that it can be analyzed and modeled the typical student will have working with data and aptitude with computer programming
 
 extract data
 the first truly handson technical phase of the data science process is actually a combination of related tasks known as extract transform and load etl this is where you the data science practitioner start to mold and shape the data so that it can be as useful as possible for the later steps in the data science process go through each etl task in order starting with e extract
@@ -100,10 +120,10 @@ the next step in the etl process is transformation spend this next adjusting you
 data preparation and cleaning types of data and data operations continuous vs discrete variables data parsing data irregularities correction of data formats and date conversion deduplication word embedding image data representation
 
 load data
-the last step in the etl process is loading take the data you transformed and put it into a destination format and location where it will be ready for you to on as the progresses
+the last step in the etl process is loading take the data you transformed and put it into a destination format and location where it will be ready for you to on as the project progresses
 data loading considerations data loading databases data loading dataframes data loading text files etl endpoints data loading visualization tools
 
 apply what youve learned
-on a in which apply your knowledge of the material to a practical scenario
+on a project in which apply your knowledge of the material to a practical scenario
 </DOC>
 

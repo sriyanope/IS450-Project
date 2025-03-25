@@ -1,15 +1,26 @@
 <DOC>
 akamai customer consulting and support
-prepare for a in services or customer support indemand consulting and technical like sql linux and python to be jobready in months or less with no prior required to get startedyou will the latest including internet technology fundamentals networking operating systems and problem solving gain practical through a variety of that showcase your knowledge and skillscareers in services and customer support show promising growth prospects for the near future according to the bls the demand for professionals role is projected to grow by percent from to with a median salary of this growth rate exceeds the average predicted across most industries highlighting the increasing need for solutions engineers to meet evolving technological demandsupon successful completion of the emerge with a diverse portfolio of showcasing your practical expertise additionally receive a from akamai recognized by employers worldwide validating your readiness for entrylevel network operations positionsapplied projectthis has a strong emphasis on applied and includes a series of handson that give you practical with applicability to real jobsprojects completebuild forms for collecting user data and authenticating users on the websiteformat a multipage website with graphics and audiocreate queries to analyze customer and security dataidentity troubleshoot and resolve complex network problems
+prepare for a in services or customer support indemand consulting and technical like sql linux and python to be jobready in months or less with no prior required to get started
+the latest including internet technology fundamentals networking operating systems and problem solving gain practical through a variety of projects that showcase your knowledge and
+careers in services and customer support show promising growth prospects for the near future according to the bls the demand for professionals role is projected to grow by percent from to with a median salary of this growth rate exceeds the average predicted across most industries highlighting the increasing need for solutions engineers to meet evolving technological demands
+upon successful completion of the emerge with a diverse portfolio of projects showcasing your practical expertise additionally receive a from akamai recognized by employers worldwide validating your readiness for entrylevel network operations positions
+
+this has a strong emphasis on applied learning and includes a series of handson projects that give you practical with applicability to real jobs
+projects complete
+build forms for collecting user data and authenticating users on the website
+format a multipage website with graphics and audio
+create queries to analyze customer and security data
+identity troubleshoot and resolve complex network problems
 </DOC>
 
 <DOC>
 introduction to web applications
-in introduction to web applications about hypertext markup language html the fundamental language of the web gain foundational knowledge of the ground rules for creating compliant html tags and to create engaging web pagesupon completing this be able to embed images and audio in web pages structure information tables across web pages create hyperlinks using both text and images use css to creatively format web pages changing colors and adding elements like borders dropshadows and external style sheets throughout this handson labs will guide you in creating a multipage website with a consistent theme encompassing tables forms and animated elements at the end of this complete a capstone allowing you to showcase the knowledge and you learned throughout the
+in introduction to web applications about hypertext markup language html the fundamental language of the web gain foundational knowledge of the ground rules for creating compliant html tags and to create engaging web pages
+upon completing this be able to embed images and audio in web pages structure information tables across web pages create hyperlinks using both text and images use css to creatively format web pages changing colors and adding elements like borders dropshadows and external style sheets throughout this handson labs will guide you in creating a multipage website with a consistent theme encompassing tables forms and animated elements at the end of this complete a capstone project allowing you to showcase the knowledge and you learned throughout the
 
 authoring content in html
 about markup languages in general and html in particular which tools are appropriate for creating html code after that about some of the elements that must be present on an html page and some elements used for organizing html pages in the last lesson be introduced to elements that can control how text looks on the screen
-introduction to the ata track overview of ata track advice for completing the ata web apps syllabus web communication elements beginning an html page page elements controlling text lists html attributes quotation marks authoring content in html review
+introduction to the ata track of ata track advice for completing the ata web apps syllabus web communication elements beginning an html page page elements controlling text lists html attributes quotation marks authoring content in html review
 
 embedding and linking content
 how to embed content in html web pages and create hyperlinks also how to create and format tables image maps and forms
@@ -41,11 +52,12 @@ capstone introduction capstone instructions
 
 <DOC>
 managing relational databases
-in managing relational databases about their structure design and use of primary and foreign key fields equipping you with foundational knowledge upon completing this be able to master the use of structured query language sql and use it to analyze database structures create and manage databases tables and records conduct data analysis using basic sql queries conditional statements and logical comparison control output data using sql create complex queries using joins and subqueries throughout this handson labs will provide practical in working with sql and manipulating databases at the end of this complete a capstone allowing you to showcase the knowledge and you learned throughout the
+in managing relational databases about their structure design and use of primary and foreign key fields equipping you with foundational knowledge
+upon completing this be able to master the use of structured query language sql and use it to analyze database structures create and manage databases tables and records conduct data analysis using basic sql queries conditional statements and logical comparison control output data using sql create complex queries using joins and subqueries throughout this handson labs will provide practical in working with sql and manipulating databases at the end of this complete a capstone project allowing you to showcase the knowledge and you learned throughout the
 
 database fundamentals
 about the concepts behind databases and relational database explore the structure of a relational database and sql the language used to manage relational databases then master the to create queries using the select statement including conditional queries logical operations comparison and arithmetic operators finally explore more complex criteria that can be used to search for ranges and with pattern matching
-introduction to the ata track overview of ata track advice for completing the ata databases syllabus databases tables and keys relationships structured query language sql finding the database structure queries conditional queries database fundamentals review
+introduction to the ata track of ata track advice for completing the ata databases syllabus databases tables and keys relationships structured query language sql finding the database structure queries conditional queries database fundamentals review
 
 multiple conditions and complex criteria
 how to create queries with multiple criteria using the key words and and or also to create queries using more complex criteria involving comparison and arithmetic operators searching for ranges of values handling null values and finally incorporating pattern matching and regular expressions
@@ -74,14 +86,15 @@ capstone introduction capstone instructions
 
 <DOC>
 introduction to it security
-in introduction to it security develop a comprehensive understanding of security management about risk assessment and management concepts analyze quantitative and qualitative risk and familiarize yourself with various types of security controlsupon completing this be able to understand the security management process harden endpoint devices including mobile and iot devices manage incident responses effectively and plan for business continuity implement network security including firewalls idsips wireless security remote access and cloud computing throughout this handson labs will enable you to apply security concepts to realworld scenarios these range from practicing the application of security to networks hacking simulations to forensic simulations at the end of this complete a capstone allowing you to showcase the knowledge and you learned throughout the
+in introduction to it security develop a comprehensive understanding of security management about risk assessment and management concepts analyze quantitative and qualitative risk and familiarize yourself with various types of security controls
+upon completing this be able to understand the security management process harden endpoint devices including mobile and iot devices manage incident responses effectively and plan for business continuity implement network security including firewalls idsips wireless security remote access and cloud computing throughout this handson labs will enable you to apply security concepts to realworld scenarios these range from practicing the application of security to networks hacking simulations to forensic simulations at the end of this complete a capstone project allowing you to showcase the knowledge and you learned throughout the
 
 security fundamentals
 explore the information security cycle including the concepts of security risk and the security management process then leqarn about physical security including the different control types and physical security controls from each type and addressing environmental exposures
-introduction to the ata overview of ata track advice for completing the ata security syllabus security risk security management process physical security physical security controls environmental exposures security fundamentals review
+introduction to the ata of ata track advice for completing the ata security syllabus security risk security management process physical security physical security controls environmental exposures security fundamentals review
 
 authentication and account management
-explore authentication in depth including about authentication factors multifactor and singlefactor authentication and strong passwords about account management including multiple and shared accounts single signon and access control
+explore authentication in depth including learning about authentication factors multifactor and singlefactor authentication and strong passwords about account management including multiple and shared accounts single signon and access control
 authentication authentication factors strong passwords multiple and shared accounts account management single signon access control authentication and account management review
 
 device security
@@ -90,7 +103,7 @@ hardening endpoints patch management application control mobile devices location
 
 encryption
 the basics of cryptography including the difference between symmetric and asymmetric encryption and some of the algorithms about hashes and digital and understand the fundamentals of a public key infrastructure
-cryptography overview symmetric encryption asymmetric encryption hashes digital digital signatures https example public key infrastructure life cycle key escrow cryptography fundamentals review
+cryptography symmetric encryption asymmetric encryption hashes digital digital signatures https example public key infrastructure life cycle key escrow cryptography fundamentals review
 
 network security
 review network components and about defense in depth including firewalls and intrusion detectionprevention systems about extending the network perimeter including wireless networks cloud services and remote access
@@ -108,24 +121,25 @@ managing security incidents
 about how to manage security incidents including prevention techniques gain an understanding of incident response forensics business continuity redundancy the disaster recovery process raid and backups
 
 capstone
-students will demonstrate mastery of the material by creating and uploading a capstone
+students will demonstrate mastery of the material by creating and uploading a capstone project
 capstone introduction capstone instructions powerpoint tutorial
 </DOC>
 
 <DOC>
 networking fundamentals
-in the networking fundamentals the basic principles of network theory and terminology this includes understanding network components node functions different types of networks and network modelsupon completing this be able to understand network theory terminology and models implement the osi model and tcpip including encapsulation and network protocols master the use of networking hardware like switches and routers troubleshoot wired and wireless networks using tools like packet sniffers in addition with software that simulates sophisticated networks helping you gain practical handson at the end of the complete a capstone demonstrating your comprehensive understanding of the material
+in the networking fundamentals the basic principles of network theory and terminology this includes understanding network components node functions different types of networks and network models
+upon completing this be able to understand network theory terminology and models implement the osi model and tcpip including encapsulation and network protocols master the use of networking hardware like switches and routers troubleshoot wired and wireless networks using tools like packet sniffers in addition with software that simulates sophisticated networks helping you gain practical handson at the end of the complete a capstone project demonstrating your comprehensive understanding of the material
 
 network theory
 this provides the student with an to understand some of the most basic vocabulary used in networking students will about the categories of networks and the standard network models
-introduction to the ata overview of ata track advice for completing the ata syllabus definition of networking networking components network theory review
+introduction to the ata of ata track advice for completing the ata syllabus definition of networking networking components network theory review
 
 protocol models
 students will about the osi model and the tcpip model which describe how protocols
 how the osi model works part how the osi model works part how the osi model works part protocol models review
 
 network transmissions and hardware
-students will about data transmission methods after about the most common media access methods they will explore common network connectivity devices finally students will about wireless networks
+students will about data transmission methods after learning about the most common media access methods they will explore common network connectivity devices finally students will about wireless networks
 introduction to ethernet csmacd csmaca network transmissions and hardware review wireless review
 
 internet protocols
@@ -134,7 +148,7 @@ rules of tcpip subnet masks basic anding local or remote part local or remote pa
 
 tcpip services
 students will about the dhcp and dns services that support tcpip they will also explore some basic troubleshooting commands
-static and dynamic addressing the dhcp lease process centralized dhcp dhcp server settings dhcp reservations host names fully qualified domain names hosts file dns overview dns name resolution part dns name resolution part dns servers dns records part dns records part split dns ping tracerttraceroutepathping tcpip services review
+static and dynamic addressing the dhcp lease process centralized dhcp dhcp server settings dhcp reservations host names fully qualified domain names hosts file dns dns name resolution part dns name resolution part dns servers dns records part dns records part split dns ping tracerttraceroutepathping tcpip services review
 
 network security
 students will about defense in depth they will explore controls for securing networks and controls for detecting network intrusions
@@ -148,17 +162,18 @@ network management troubleshooting
 students will the concepts of network management they will study troubleshooting methodology and review strategies for troubleshooting various types of issues
 
 capstone
-the student will upload a capstone that demonstrates mastery of the material
+the student will upload a capstone project that demonstrates mastery of the material
 captsone introduction capstone instructions
 </DOC>
 
 <DOC>
 operating systems fundamentals
-the operating systems fundamentals provides a comprehensive introduction to linux and equips you with a foundation widely used opensource operating system about various linux distributions and the concept of copyleft gaining valuable knowledge on different system configurationsupon completing this be able to understand and use shell commands to extract basic system information and seek help from the operating system mange linux file systems manage disks and directories with absolute and relative paths and organize backup and restore files effectively with text files from the shell and employ expressions to search files and directories apply security principles to set permissions and ownership mange jobs processes the boot process and also system settings including selinux in addition acquire handson on how to build your own linux machine using virtualization which they will use for all the lab given throughout the complete a capstone showcasing the you have learned throughout the
+the operating systems fundamentals provides a comprehensive introduction to linux and equips you with a foundation widely used opensource operating system about various linux distributions and the concept of copyleft gaining valuable knowledge on different system configurations
+upon completing this be able to understand and use shell commands to extract basic system information and seek help from the operating system mange linux file systems manage disks and directories with absolute and relative paths and organize backup and restore files effectively with text files from the shell and employ expressions to search files and directories apply security principles to set permissions and ownership mange jobs processes the boot process and also system settings including selinux in addition acquire handson on how to build your own linux machine using virtualization which they will use for all the lab given throughout the complete a capstone project showcasing the you have learned throughout the
 
 performing basic linux tasks
 students will basic information about the history of computers and linux then students will explore simple shell commands and about virtualization
-introduction to the ata track overview of ata track advice for completing the ata syllabus the linux environment shell syntax getting basic information getting help virtualization installing virtualbox walkthrough installing ubuntu walkthrough using basic shell commands walkthrough performing basic linux tasks review
+introduction to the ata track of ata track advice for completing the ata syllabus the linux environment shell syntax getting basic information getting help virtualization installing virtualbox walkthrough installing ubuntu walkthrough using basic shell commands walkthrough performing basic linux tasks review
 
 managing the file system in linux
 students will the structure of the linux file system including understanding directories paths and naming conventions they will also to search and backup content
@@ -169,11 +184,11 @@ students will how to manage text files from the shell they will master the cat c
 the vim command the cat command diff vimdiff and wc aspell tr and redirecting output ls with wildcards using grep with expressions to find numbers using grep with expressions to find letters using grep with expressions to find special characters cut command sort command textutil commands creating text files using vim walkthrough editing text files in command mode walkthrough searching text files walkthrough applying textutil commands to modify the output walkthrough working with text files review
 
 user and group accounts
-students will about the default user and group accounts and how to create new users and groups as well as manage passwords students will about user profiles and using the skeleton directory to set up a template for new profiles
+students will about the default user and group accounts and how to create new users and groups as as manage passwords students will about user profiles and using the skeleton directory to set up a template for new profiles
 creating user accounts modifying user accounts deleting user accounts passwords groups user profiles the skeleton directory creating user and group accounts walkthrough configuring user profiles walkthrough configuring a new user account walkthrough managing group accounts walkthrough user and group accounts review
 
 managing linux permissions and ownership
-students will about linux permissions and ownership students will explore the default file and directory permissions as well as how to change them they will also master the basics of access control lists and flags
+students will about linux permissions and ownership students will explore the default file and directory permissions as as how to change them they will also master the basics of access control lists and flags
 permissions effective permissions chmod command default file and directory permissions chown command special permissions chattr and lsattr commands modifying file and directory permissions walkthrough modifying file and directory ownership walkthrough setting user access to files walkthrough managing linux permissions and ownership review
 
 managing jobs and processes
@@ -189,17 +204,18 @@ students will about system initialization system logs centralized logging and lo
 configuring system log settings walkthrough configuring rsyslogd as a central log server walkthrough managing system services review
 
 capstone
-students will demonstrate mastery of the material by creating and uploading a capstone
+students will demonstrate mastery of the material by creating and uploading a capstone project
 capstone introduction capstone instructions
 </DOC>
 
 <DOC>
 python scripting fundamentals
-in python scripting fundamentals develop a comprehensive understanding of python starting with the programming process its history and the fundamentals of writing python code gain foundational knowledge of python syntax variables data types and functionsupon completing this be able to understand the programming process and the history of python navigate complex variable types like lists tuples sets ranges and dictionaries write code to process sequences manage web form data efficiently throughout this gain handson by developing four applications from scratch an age calculator a word guessing game a lemonade stand game and a textbased adventure game at the end of this complete a capstone allowing you to showcase your ability to apply your python proficiently
+in python scripting fundamentals develop a comprehensive understanding of python starting with the programming process its history and the fundamentals of writing python code gain foundational knowledge of python syntax variables data types and functions
+upon completing this be able to understand the programming process and the history of python navigate complex variable types like lists tuples sets ranges and dictionaries write code to process sequences manage web form data efficiently throughout this gain handson by developing four applications from scratch an age calculator a word guessing game a lemonade stand game and a textbased adventure game at the end of this complete a capstone project allowing you to showcase your ability to apply your python proficiently
 
 exploring programming concepts
 explore programming concepts and begin to about the python language explore foundational concepts about using functions variables and understanding python data types
-introduction to the ata track overview of ata track advice for completing the ata programming syllabus programs and languages the programming process python functions variables data types arithmetic operators exploring programming concepts review
+introduction to the ata track of ata track advice for completing the ata programming syllabus programs and languages the programming process python functions variables data types arithmetic operators exploring programming concepts review
 
 developing a simple application
 about conditional statements loops and testing user input then about complex variable structures including lists tuples sets ranges and dictionaries

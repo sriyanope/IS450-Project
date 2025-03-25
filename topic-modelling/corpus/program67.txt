@@ -1,6 +1,8 @@
 <DOC>
 cloudnative development with openshift and kubernetes
-this is intended for application developers system administrators and architects seeking to develop their understanding of container technology threecourse explore a range of foundational concepts from various use cases for containerized technology to understanding the differences between kubernetes and red hat openshift to how to scale deployed applicationsapplied projectthese courses include detailed handson exercises stepbystep guides which teach a range of concepts from the foundation concepts of containerized applications to deploying containerized applications to kubernetes and openshift after completing this you should have a foundational understanding of how to develop deploy scale and troubleshoot containerized applications to kubernetes and openshift
+this is intended for application developers system administrators and architects seeking to develop their understanding of container technology threecourse explore a range of foundational concepts from various use cases for containerized technology to understanding the differences between kubernetes and red hat openshift to learning how to scale deployed applications
+
+these courses include detailed handson exercises stepbystep guides which teach a range of concepts from the foundation concepts of containerized applications to deploying containerized applications to kubernetes and openshift after completing this you should have a foundational understanding of how to develop deploy scale and troubleshoot containerized applications to kubernetes and openshift
 </DOC>
 
 <DOC>

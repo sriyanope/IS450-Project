@@ -1,6 +1,6 @@
 <DOC>
 programming with google go
-this introduces the go programming language from google and provides learners with an overview of gos special features upon completing the threecourse sequence learners will have gained the knowledge and needed to create concise efficient and clean applications using go
+this introduces the go programming language from google and provides learners with an of gos special features upon completing the threecourse sequence learners will have gained the knowledge and needed to create concise efficient and clean applications using go
 </DOC>
 
 <DOC>
@@ -15,19 +15,19 @@ the basics of go an open source programming language originally developed by a t
 
 getting started with go
 this first gets you started with go about the advantages of using go and begin exploring the languages features midway through the take a break from theory and install the go programming environment on your computer at the end of the write a simple that displays hello world on your screen
-overview m why should i go advantages of go m objects m concurrency m installing go m workspaces packages m go tool m variables m variable initialization
+m why should i go advantages of go m objects m concurrency m installing go m workspaces packages m go tool m variables m variable initialization
 
 basic data types
 now that youve set up your programming environment and written a test youre ready to dive into data types this introduces data types in go and gives you practice writing routines that manipulate different kinds of data objects including floatingpoint numbers and strings
-overview m pointers m variable scope m deallocating memory m garbage collection m comments printing integers m ints floats strings m string packages m constants m control flow m control flow scan
+m pointers m variable scope m deallocating memory m garbage collection m comments printing integers m ints floats strings m string packages m constants m control flow m control flow scan
 
 composite data types
 at this point were ready to move into more complex data types including arrays slices maps and structs as in the previous have a chance to practice writing code that makes use of these data types
-overview m arrays m slices m variable slices m hash tables m maps m structs
+m arrays m slices m variable slices m hash tables m maps m structs
 
 protocols and formats
 this final of the introduces the use of remote function calls rfcs and javascript object notation json in go how to access and manipulate data from external files and have an to write several routines using go that exercise this functionality
-overview m rfcs m json m file access ioutil m file access os
+m rfcs m json m file access ioutil m file access os
 </DOC>
 
 <DOC>
@@ -53,14 +53,14 @@ mv mv mv
 
 <DOC>
 functions methods and interfaces in go
-continue your exploration of the go programming language as you about functions methods and interfaces topics include the implementation of functions function types objectorientation in go methods and class instantiation as with the first series have an to create your own go applications so you can practice what youre
+continue your exploration of the go programming language as you about functions methods and interfaces topics include the implementation of functions function types objectorientation in go methods and class instantiation as with the first series have an to create your own go applications so you can practice what youre learning
 
 functions and organization
-continue your exploration of the go programming language as you about functions methods and interfaces topics include the implementation of functions function types objectorientation in go methods and class instantiation as with the first series have an to create your own go applications so you can practice what youre the first introduces the concept of functions and shows you how to use them to manipulate data programmatically once again the treatment of the topic begins at a fairly rudimentary level to ensure everyone is starting from the same point in terms of basic concepts
+continue your exploration of the go programming language as you about functions methods and interfaces topics include the implementation of functions function types objectorientation in go methods and class instantiation as with the first series have an to create your own go applications so you can practice what youre learning the first introduces the concept of functions and shows you how to use them to manipulate data programmatically once again the treatment of the topic begins at a fairly rudimentary level to ensure everyone is starting from the same point in terms of basic concepts
 m why use functions m function parameters and return values m call by value reference m passing arrays and slices m wellwritten functions m guidelines for functions m function guidelines
 
 function types
-this second continues to explore the use of functions in go continue about the capabilities and features of functions and write a routine that solves a practical physics problem
+this second continues to explore the use of functions in go continue learning about the capabilities and features of functions and write a routine that solves a practical physics problem
 m firstclass values m returning functions m variadic and deferred
 
 object orientation in go

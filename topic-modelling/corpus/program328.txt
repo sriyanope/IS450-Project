@@ -1,11 +1,14 @@
 <DOC>
 six sigma black belt
-learners developed and furthered their understanding of the six sigma dmaic process this also explored the intersection between six sigma and lean as well as developed enhanced understanding of the dmaic process beyond the confines of green belt instruction by also including content in organizational planning and development team management and design for six sigma applied projectthroughout the learners are tasked with the completion of portions of a capstone type peer reviewed grounded in the dmaic process and implemented such that the deliverables align with the content presented in the quizzes are also offered to reinforce and cement understanding of the content
+learners developed and furthered their understanding of the six sigma dmaic process this also explored the intersection between six sigma and lean as as developed enhanced understanding of the dmaic process beyond the confines of green belt instruction by also including content in organizational planning and development team management and design for six sigma
+
+throughout the learners are tasked with the completion of portions of a capstone type peer reviewed project grounded in the dmaic process and implemented such that the deliverables align with the content presented in the quizzes are also offered to reinforce and cement understanding of the content
 </DOC>
 
 <DOC>
 organization planning and development for the black belt
-this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in organization planning and developmentprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+this is designed for professionals interested in learning the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in organization planning and development
+professionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed project completion regiment
 
 fundamentals of lean and six sigma
 reading
@@ -13,7 +16,7 @@ the six sigma approach to performance improvement the origins of lean and six si
 
 leadership
 
-what is a a leader planning and deploying a six sigma
+what is a a leader planning and deploying a six sigma project
 
 strategic planning
 
@@ -21,7 +24,7 @@ risk and risk analysis the feasibility study swot analysis other strategic plann
 
 common financial measures
 
-the role of financial metrics the characteristics of meaningful metrics common metrics cost of quality identifying savings
+the role of financial metrics the characteristics of meaningful metrics common metrics cost of quality identifying project savings
 
 change management
 
@@ -37,7 +40,8 @@ summative quiz
 
 <DOC>
 the measure phase for the black belt
-this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in the measure phase of six sigmaprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+this is designed for professionals interested in learning the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in the measure phase of six sigma
+professionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed project completion regiment
 
 process characteristics
 reading
@@ -73,7 +77,8 @@ peer review
 
 <DOC>
 team management for the black belt
-this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in team managementprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+this is designed for professionals interested in learning the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in team management
+professionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed project completion regiment
 
 team formation
 reading
@@ -81,11 +86,11 @@ team structure team roles and responsibilities stages of team development
 
 team facilitation
 
-ensuring productive teams ensuring creative teams ensuring effective team meetings
+ensuring productive project teams ensuring creative project teams ensuring effective team meetings
 
 team training
 
-team training needs communication for teams conflict management for teams
+team training needs communication for project teams conflict management for project teams
 
 summative quiz
 
@@ -93,7 +98,8 @@ summative quiz
 
 <DOC>
 the improve phase for the black belt
-this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in the improve phase of six sigmaprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+this is designed for professionals interested in learning the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in the improve phase of six sigma
+professionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed project completion regiment
 
 doe terminology
 reading
@@ -117,7 +123,8 @@ peer review
 
 <DOC>
 the control phase for the black belt
-this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in the control phase of six sigmaprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+this is designed for professionals interested in learning the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in the control phase of six sigma
+professionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed project completion regiment
 
 spc foundations
 reading
@@ -145,7 +152,8 @@ peer review
 
 <DOC>
 the analyze phase for the black belt
-this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in the analyze phase of six sigmaprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+this is designed for professionals interested in learning the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in the analyze phase of six sigma
+professionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed project completion regiment
 
 measuring and modeling relationships between variables
 reading
@@ -173,19 +181,20 @@ peer review
 
 <DOC>
 the define phase for the black belt
-this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in the define phase of six sigmaprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+this is designed for professionals interested in learning the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in the define phase of six sigma
+professionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed project completion regiment
 
 voice of the customer
 reading
 defining the customer customer data collection data collection methods critical customer requirements analyzing customer data
 
-business case and charter
+business case and project charter
 
-the elements of the charter charter dynamics
+the elements of the project charter project charter dynamics
 
-management tools
+project management tools
 
-reviews management tools documentation
+project reviews project management tools project documentation
 
 analytical tools
 
@@ -197,7 +206,8 @@ peer review
 
 <DOC>
 dfss for the black belt
-this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in design for six sigmaprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+this is designed for professionals interested in learning the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in design for six sigma
+professionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed project completion regiment
 
 common dfss methodologies
 reading

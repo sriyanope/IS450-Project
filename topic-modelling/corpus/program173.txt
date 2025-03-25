@@ -1,11 +1,14 @@
 <DOC>
 global procurement and sourcing
-we will start with a proven model for strategic sourcing then move on to the very important topic of supplier management in supplier management how to select and evaluate suppliers implement appropriate contracts and how to mitigate risks in supply market analysis and understand various tools and techniques to evaluate supply markets lastly the will cover the very important topic of negotiation outside reading will be provided to reinforce your knowledge in addition case studies will be used to bring these to life and assessment will be used to test your overall knowledgeapplied projectin addition to the and podcast learners will use their learned knowledge and newly acquired to solveanswer questions for real life cases these cases are required and will be assessed by a peer group the last case in the negotiation the student has an additional option to answer not only as a buyer but as a seller that will bring more of a real life negotiation
+start with a proven model for strategic sourcing then move on to the very important topic of supplier management in supplier management how to select and evaluate suppliers implement appropriate contracts and how to mitigate risks in supply market analysis and understand various tools and techniques to evaluate supply markets lastly the will cover the very important topic of negotiation outside reading will be provided to reinforce your knowledge in addition case studies will be used to bring these learning to life and assessment will be used to test your overall knowledge
+
+in addition to the and podcast learners will use their learned knowledge and newly acquired to solveanswer questions for real life cases these cases are required and will be assessed by a peer group the last case in the negotiation the student has an additional option to answer not only as a buyer but as a seller that will bring more of a real life negotiation
 </DOC>
 
 <DOC>
 supplier management
-this will cover supplier selection and evaluation contract management quality risk management and ethicsone of the important decisions that a procurement makes is selecting the right supplierwe will cover how to evaluate suppliers using a very simple evaluation tool to select the right suppliers in contract management we will expose you to six different types of contracts that a procurement can consider for the contract we will highlight risk management strategies that will mitigate risks for your firm lastly we will cover the very important topic of procurement ethicswhat to do and not to do in ethically dealing with suppliers in addition to the there are reading materials and two cases to support your learnings both cases will be assessed via a peer group
+this will cover supplier selection and evaluation contract management quality risk management and ethics
+one of the important decisions that a procurement makes is selecting the right supplierwe will cover how to evaluate suppliers using a very simple evaluation tool to select the right suppliers in contract management expose you to six different types of contracts that a procurement can consider for the contract highlight risk management strategies that will mitigate risks for your firm lastly cover the very important topic of procurement ethicswhat to do and not to do in ethically dealing with suppliers in addition to the there are reading materials and two cases to support your learnings both cases will be assessed via a peer group
 
 welcome supplier selection and managementpart
 reading
@@ -29,7 +32,8 @@ peer review
 
 <DOC>
 strategic procurement and sourcing conclusions
-this will be the final in the global procurement and sourcing we will covering three things first there will be a final set of of articles that are looking at the future of strategic procurement and sourcing while many of the articles differ in their point of view all the authors focus on the continued important of procurement in the business world today second we will do a complete wrapup and key takeaways for all of the courses this will be an excellent review of what you learned and will be helpful in the final assessment of the lastly there will be a required final assessment consisting of multiple choice
+this will be the final in the global procurement and sourcing
+covering three things first there will be a final set of of articles that are looking at the future of strategic procurement and sourcing while many of the articles differ in their point of view all the authors focus on the continued important of procurement in the business world today second do a complete wrapup and key takeaways for all of the courses this will be an excellent review of what you learned and will be helpful in the final assessment of the lastly there will be a required final assessment consisting of multiple choice
 
 welcome and final reading assignmentsa strategic perspective
 
@@ -41,7 +45,8 @@ wrapup final assessment
 
 <DOC>
 procurement negotiation
-this will teach you the necessary negotiation to be successful we will be covering the overall negotiation process how to establish objectives egmost desirable option mdo least acceptable alternative laa best alternative to a negotiated agreement batna what type and how to gather facts and collect information the importance of developing a plan your negotiation style how to use recognize and counter various tactics understand the difference between positions vs interest and need and wants and lastly what you need to do after the negotiation is complete this will be supported by a personal style survey a podcast and a required mock negotiation with a peer group assessment
+this will teach you the necessary negotiation to be successful
+be covering the overall negotiation process how to establish objectives egmost desirable option mdo least acceptable alternative laa best alternative to a negotiated agreement batna what type and how to gather facts and collect information the importance of developing a plan your negotiation style how to use recognize and counter various tactics understand the difference between positions vs interest and need and wants and lastly what you need to do after the negotiation is complete this will be supported by a personal style survey a podcast and a required mock negotiation with a peer group assessment
 
 welcome negotiation process
 reading
@@ -59,7 +64,8 @@ peer reviews
 
 <DOC>
 procurement sourcing introduction
-after a warm welcome to the global procurement and sourcing i will provide a brief introduction to the and its courses covering the following instructor biography who should take this flow of the following the introduction the student will get the to about some of the current challenges facing procurement and sourcing professionals today through reading ten current articles ranging from what is procurement to how to collaborate with suppliers these articlesknowledge will be a foundation for later courses on how to use tools processes and improve to address many of these there will be a brief assessment truefalse of your knowledge gained from these articles
+after a warm welcome to the global procurement and sourcing i will provide a brief introduction to the and its courses covering the following
+instructor biography who should take this flow of the following the introduction the student will get the to about some of the current challenges facing procurement and sourcing professionals today through reading ten current articles ranging from what is procurement to how to collaborate with suppliers these articlesknowledge will be a foundation for later courses on how to use tools processes and improve to address many of these there will be a brief assessment truefalse of your knowledge gained from these articles
 
 welcome introduction
 reading
@@ -71,7 +77,8 @@ ten good articles to read
 
 <DOC>
 strategic sourcing
-this will provide a detailed overview of a strategic sourcing process step process profile the category develop a category sourcing strategy generate supplier profile choose competitive selection or supplier development select suppliers and negotiate implement continuous improvementsupplier relationship managementthis learnings will be supported a a required case with peer review
+this will provide a detailed of a strategic sourcing process step process profile the category develop a category sourcing strategy generate supplier profile choose competitive selection or supplier development select suppliers and negotiate implement continuous improvementsupplier relationship management
+this learnings will be supported a a required case with peer review
 
 welcome strategic sourcingpart
 
@@ -86,7 +93,8 @@ peer review
 
 <DOC>
 supply market analysis
-some tools to evaluate supply markets from a strategic level eg macro pestle to tactical level eg industry supply market segmentation five forces supply chain mapping to operational level supplier informational sources swot financial analysisa total of seven proven tools will be provided all of these tools will help you develop the right strategies reduce risks and make the right supplier decisions required reading supplemental and a required case with a peer group assessment will help you increase your learnings
+some tools to evaluate supply markets from a strategic level eg macro pestle to tactical level eg industry supply market segmentation five forces supply chain mapping to operational level supplier informational sources swot financial analysis
+a total of seven proven tools will be provided all of these tools will help you develop the right strategies reduce risks and make the right supplier decisions required reading supplemental and a required case with a peer group assessment will help you increase your learnings
 
 welcome macro level
 reading
@@ -101,7 +109,8 @@ peer review
 
 <DOC>
 procurement basics
-this includes basic information on procurement importance of the procurement organization and its role in the organization cost vs value processes such as the use of rfq rfp rfx differences between direct and indirect procurement and stakeholder managementthe will supported by and a required case that will be assessed by a peer review in addition a practice assessment multiple choice is available to the student this should be helpful as there is a final assessment multiple choice at the end of the in that is required to obtain the certification
+this includes basic information on procurement importance of the procurement organization and its role in the organization cost vs value processes such as the use of rfq rfp rfx differences between direct and indirect procurement and stakeholder management
+the will supported by and a required case that will be assessed by a peer review in addition a practice assessment multiple choice is available to the student this should be helpful as there is a final assessment multiple choice at the end of the in that is required to obtain the certification
 
 welcome procurement definitions
 

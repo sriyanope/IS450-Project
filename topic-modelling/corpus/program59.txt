@@ -1,46 +1,53 @@
 <DOC>
 cancer biology
-the healthcare system is a rapidly evolving field with new research leading to advancements in medicine developed at johns hopkins university and led by topranked hopkins faculty and cancer experts this on cancer biology focuses on the basics of cancer biology how cancer metastasis occurs and specifically screening guidelines for prostate cancer the most common cancer in american men this starts with an introduction to the biology of cancer introduces the molecular biology of cancer and the biologic hallmarks of cancer the also describes the risk factors for the major cancers worldwide including lung cancer breast cancer colon cancer prostate cancer liver cancer and stomach cancer experts at johns hopkins university explain how cancer is staged the major ways cancer is found by imaging and how the major cancers are treated the takes a deeper dive in understanding cancer metastasis explaining how cancer spreads or metastasizes this will describe the major theories of metastasis and then describe the biology behind the steps in metastasis the also describes the major organs targeted by metastasis and describes how metastases harm the patient lastly it focuses on understanding prostate cancer providing you with the tools to examine the incidence of prostate cancer including risk factors stages and treatments at each stageapplied projectlearners will be able to identify the major types of cancer worldwide describe how genes contribute to the risk and growth of cancer and describe the ten cellular hallmarks of cancer learners will also describe uncontrolled cell division as well as mutation neoangiogenesis and their roles in tumor formation from this learners will be introduced to prostate cancer and be able to list the risk factors specifically examine how prostate cancer is found diagnosed staged and treated
+the healthcare system is a rapidly evolving field with new research leading to advancements in medicine developed at johns hopkins university and led by topranked hopkins faculty and cancer experts this on cancer biology focuses on the basics of cancer biology how cancer metastasis occurs and specifically screening guidelines for prostate cancer the most common cancer in american men
+this starts with an introduction to the biology of cancer introduces the molecular biology of cancer and the biologic hallmarks of cancer the also describes the risk factors for the major cancers worldwide including lung cancer breast cancer colon cancer prostate cancer liver cancer and stomach cancer experts at johns hopkins university explain how cancer is staged the major ways cancer is found by imaging and how the major cancers are treated
+the takes a deeper dive in understanding cancer metastasis explaining how cancer spreads or metastasizes this will describe the major theories of metastasis and then describe the biology behind the steps in metastasis the also describes the major organs targeted by metastasis and describes how metastases harm the patient lastly it focuses on understanding prostate cancer providing you with the tools to examine the incidence of prostate cancer including risk factors stages and treatments at each stage
+
+learners will be able to identify the major types of cancer worldwide describe how genes contribute to the risk and growth of cancer and describe the ten cellular hallmarks of cancer learners will also describe uncontrolled cell division as as mutation neoangiogenesis and their roles in tumor formation from this learners will be introduced to prostate cancer and be able to list the risk factors specifically examine how prostate cancer is found diagnosed staged and treated
+
 </DOC>
 
 <DOC>
 introduction to the biology of cancer
-over people in the united states and over million people worldwide are dying every year from cancer as people live longer the incidence of cancer is rising worldwide and the disease is expected to strike over million people annually by this open is designed for people who would like to develop an understanding of cancer and how it is prevented diagnosed and treatedthe introduces the molecular biology of cancer oncogenes and tumor suppressor genes as well as the biologic hallmarks of cancer the also describes the risk factors for the major cancers worldwide including lung cancer breast cancer colon cancer prostate cancer liver cancer and stomach cancer we explain how cancer is staged the major ways cancer is found by imaging and how the major cancers are treated in addition to the core materials this includes two honors lessons devoted to cancers of the liver and prostate upon successful completion of this be able to identify the major types of cancer worldwide lecture describe how genes contribute to the risk and growth of cancer lecture list and describe the ten cellular hallmarks of cancer lecture define metastasis and identify the major steps in the metastatic process lecture describe the role of imaging in the screening diagnosis staging and treatments of cancer lecture explain how cancer is treated lecture we hope that this gives you a basic understanding of cancer biology and treatment the is not designed for patients seeking treatment guidance but it can help you understand how cancer develops and provides a framework for understanding cancer diagnosis and treatment
+over people in the united states and over million people worldwide are dying every year from cancer as people live longer the incidence of cancer is rising worldwide and the disease is expected to strike over million people annually by this open is designed for people who would like to develop an understanding of cancer and how it is prevented diagnosed and treated
+the introduces the molecular biology of cancer oncogenes and tumor suppressor genes as as the biologic hallmarks of cancer the also describes the risk factors for the major cancers worldwide including lung cancer breast cancer colon cancer prostate cancer liver cancer and stomach cancer we explain how cancer is staged the major ways cancer is found by imaging and how the major cancers are treated in addition to the core materials this includes two honors lessons devoted to cancers of the liver and prostate upon successful completion of this be able to identify the major types of cancer worldwide lecture describe how genes contribute to the risk and growth of cancer lecture list and describe the ten cellular hallmarks of cancer lecture define metastasis and identify the major steps in the metastatic process lecture describe the role of imaging in the screening diagnosis staging and treatments of cancer lecture explain how cancer is treated lecture we hope that this gives you a basic understanding of cancer biology and treatment the is not designed for patients seeking treatment guidance but it can help you understand how cancer develops and provides a framework for understanding cancer diagnosis and treatment
 
 incidence and etiology of cancer
-first well get a highlevel introduction to the basics of cancer biology as well as incidence and common types of cancer
-welcome to the incidence and etiology overview incidence and etiology of cancer cancer incidence the common cancers
+first get a highlevel introduction to the basics of cancer biology as as incidence and common types of cancer
+welcome to the incidence and etiology incidence and etiology of cancer cancer incidence the common cancers
 
 genetics of cancer
-now well turn our attention to the genetics of cancer variation and mutation twohit hypothesis and genomic instability
-genetics overview basic introduction to genetics genetic variation and mutation twohit hypothesis and genomic instability
+now turn our attention to the genetics of cancer variation and mutation twohit hypothesis and genomic instability
+genetics basic introduction to genetics genetic variation and mutation twohit hypothesis and genomic instability
 
 ten cellular hallmarks of cancer
 all cancers share ten cellular hallmarks to identify these hallmarks in order to distinguish a normal cell from a cancerous cell
-cellular hallmarks overview the human cell and hallmarks of cancer the human cell and cellular hallmarks cancer cellular hallmarks of cancer preparing the cancer cell to move and metastasize
+cellular hallmarks the human cell and hallmarks of cancer the human cell and cellular hallmarks cancer cellular hallmarks of cancer preparing the cancer cell to move and metastasize
 
 metastasis the real killer
-the lethal agent of cancer is metastasis well take a good look at this deadly event tnm staging the metastatic process and an ecological paradigm
-metastasis overview introduction to metastasis tnm staging the metastatic process an ecological paradigm why do cancer cells metastasize from the primary tumor
+the lethal agent of cancer is metastasis take a good look at this deadly event tnm staging the metastatic process and an ecological paradigm
+metastasis introduction to metastasis tnm staging the metastatic process an ecological paradigm why do cancer cells metastasize from the primary tumor
 
 imaging in oncology
-well examine imaging as a tool for diagnosis staging and treatment of cancer
-imaging overview introduction to imaging types of imaging imaging in clinical oncology theory of oligometastasis and how treatment is supported by imaging
+examine imaging as a tool for diagnosis staging and treatment of cancer
+imaging introduction to imaging types of imaging imaging in clinical oncology theory of oligometastasis and how treatment is supported by imaging
 
 treatment
-final well examine the variety of treatment options available to doctors and patients as well as the features of clinical trials and how they are used to improve the treatment arsenal
-treatment overview types of treatment types of treatments for individual cancers clinical trials wrapup liver cancer overview incidence risk factors screening staging for liver cancer treatment of liver cancer
+final examine the variety of treatment options available to doctors and patients as as the features of clinical trials and how they are used to improve the treatment arsenal
+treatment types of treatment types of treatments for individual cancers clinical trials wrapup liver cancer incidence risk factors screening staging for liver cancer treatment of liver cancer
 </DOC>
 
 <DOC>
 understanding prostate cancer
-welcome to understanding prostate cancer my name is ken pienta professor of urology and oncology at the johns hopkins school of medicine i have been studying prostate cancer and treating patients with prostate cancer for over yearsover men worldwide and men in the united states are diagnosed with prostate cancer every year three hundred thousand men worldwide and men in the us are dying from prostate cancer every year as people live longer the incidence of prostate cancer is rising worldwide and prostate cancer continues to be a major health problem thanks to years of dedication and commitment to research weve made enormous advances in the treatment of prostate cancer but there is still a lot of to be done understanding prostate cancer i will provide an introduction to the biology of prostate cancer as well as how it is identified and treated at various stages of the disease ive put together this in order to introduce you to the essentials of prostate cancer by the time you finish this be able to define risk factors for prostate cancer understand current prostate cancer screening guidelines understand prostate cancer staging understand treatments for localized prostate cancer understand treatments for advanced prostate cancer understand treatments to alleviate the symptoms caused by prostate cancer this understanding prostate cancer should be helpful to anyone who wants to develop a deeper understanding of prostate cancer biology and treatment it should be useful to students who are interested in a deeper understanding of the science of cancer it should also be helpful to health care providers data managers and educators who wish to develop a better understanding of prostate cancer and how it affects individuals the is not designed for patients seeking treatment guidance for those of you who might be thinking about a in cancer research or patient care i hope this will inspire you to pursue that path the is divided into five organized to facilitate im glad that you decided to join this i hope that develop a basic understanding of prostate cancer i hope that it will help you in whatever field you if you are a student i hope that what you here will help you begin a in cancer biology research and contribute to the worldwide effort to save lives
+welcome to understanding prostate cancer my name is ken pienta professor of urology and oncology at the johns hopkins school of medicine i have been studying prostate cancer and treating patients with prostate cancer for over years
+over men worldwide and men in the united states are diagnosed with prostate cancer every year three hundred thousand men worldwide and men in the us are dying from prostate cancer every year as people live longer the incidence of prostate cancer is rising worldwide and prostate cancer continues to be a major health problem thanks to years of dedication and commitment to research weve made enormous advances in the treatment of prostate cancer but there is still a lot of to be done understanding prostate cancer i will provide an introduction to the biology of prostate cancer as as how it is identified and treated at various stages of the disease ive put together this in order to introduce you to the essentials of prostate cancer by the time you finish this be able to define risk factors for prostate cancer understand current prostate cancer screening guidelines understand prostate cancer staging understand treatments for localized prostate cancer understand treatments for advanced prostate cancer understand treatments to alleviate the symptoms caused by prostate cancer this understanding prostate cancer should be helpful to anyone who wants to develop a deeper understanding of prostate cancer biology and treatment it should be useful to students who are interested in a deeper understanding of the science of cancer it should also be helpful to health care providers data managers and educators who wish to develop a better understanding of prostate cancer and how it affects individuals the is not designed for patients seeking treatment guidance for those of you who might be thinking about a in cancer research or patient care i hope this will inspire you to pursue that path the is divided into five organized to facilitate learning im glad that you decided to join this i hope that develop a basic understanding of prostate cancer i hope that it will help you in whatever field you if you are a student i hope that what you here will help you begin a in cancer biology research and contribute to the worldwide effort to save lives
 
 welcome to understanding prostate cancer
 welcome to understanding prostate cancer
 
 biology incidence and risk factors for prostate cancer
-be able to about the biology incidents and risk factors of prostate cancer as well as prostate cancer screening
+be able to about the biology incidents and risk factors of prostate cancer as as prostate cancer screening
 introduction to biology incidence and risk factors for prostate cancer biology incidence risk factors screening prostate cancer risk factors prostate cancer screening
 
 how prostate cancer is found diagnosed and staged
@@ -62,30 +69,31 @@ introduction to other supportive treatments that help improve quality of life ot
 
 <DOC>
 understanding cancer metastasis
-over people in the united states and over million people worldwide are dying from cancer every year as people live longer the incidence of cancer is rising worldwide and the disease is expected to strike over million people annually by everyone has been or will be touched by cancer in some way during their lifetime thanks to years of dedication and commitment to research weve made enormous advances in the prevention and treatment of cancer but there is still a lot of to be done physicians and scientists at the johns hopkins school of medicine explain how cancer spreads or metastasizes well describe the major theories of metastasis and then describe the biology behind the steps in metastasis the also describes the major organs targeted by metastasis and describes how metastases harm the patient
+over people in the united states and over million people worldwide are dying from cancer every year as people live longer the incidence of cancer is rising worldwide and the disease is expected to strike over million people annually by
+everyone has been or will be touched by cancer in some way during their lifetime thanks to years of dedication and commitment to research weve made enormous advances in the prevention and treatment of cancer but there is still a lot of to be done physicians and scientists at the johns hopkins school of medicine explain how cancer spreads or metastasizes describe the major theories of metastasis and then describe the biology behind the steps in metastasis the also describes the major organs targeted by metastasis and describes how metastases harm the patient
 
-history and overview of metastasis
-first well concentrate on the history and overview of metastasis and give you a flavor of how cancer is defined as well as some of the history surrounding how we began to understand metastasis
-introduction to understanding cancer metastasis introduction to history and overview of metastasis history and overview of metastasis history of metastasis theory introduction to the sequential steps of metastasis
+history and of metastasis
+first concentrate on the history and of metastasis and give you a flavor of how cancer is defined as as some of the history surrounding how we began to understand metastasis
+introduction to understanding cancer metastasis introduction to history and of metastasis history and of metastasis history of metastasis theory introduction to the sequential steps of metastasis
 
 primary tumor growth and neoangiogenesis
-well focus on uncontrolled cell division which is a defining property of cancer as well as mutation and neoangiogenesis and their roles in tumor formation well also take a look at a primary tumor microenvironment and its component cell types
+focus on uncontrolled cell division which is a defining property of cancer as as mutation and neoangiogenesis and their roles in tumor formation also take a look at a primary tumor microenvironment and its component cell types
 introduction to primary tumor growth and neoangiogenesis tumor formation uncontrolled cell division the role of mutations in primary tumor formation and evolution neoangiogenesis new blood vessel formation in cancer the primary tumor microenvironment what else affects primary tumor growth
 
 emt invasion intravasation
-during this well turn our attention to the next steps after the initial primary tumor formation epithelial to mesenchymal transition of cancer cells and local tumor invasion and intravasation into blood or lymph vessels
+during this turn our attention to the next steps after the initial primary tumor formation epithelial to mesenchymal transition of cancer cells and local tumor invasion and intravasation into blood or lymph vessels
 introduction to emt invasion intravasation epithelialmesenchymal transition invasion and intravision local tumor invasion intravasation
 
 survival in the circulation and extravasation
-well now take a close look at cancer survival within the circulation the role of the circulatory system in metastasis the genetic determinants of metastatic potential signalling mechanisms chemokines the dock and lock hypothesis and extravasation
+now take a close look at cancer survival within the circulation the role of the circulatory system in metastasis the genetic determinants of metastatic potential signalling mechanisms chemokines the dock and lock hypothesis and extravasation
 introduction to survival in the circulation and extravasation glossary of terms the circulation how cancer cells survive while in circulation becoming a circulating tumor cell ctc and evading immune detection homing to a new site in the body and extravasation
 
 dormancy and secondary tumor growth
-well focus on dormancy and secondary tumor growth and how they contribute to the lethality of cancer
+focus on dormancy and secondary tumor growth and how they contribute to the lethality of cancer
 introduction to dormancy and secondary tumor growth metastatic homing evidence for cancer dormancy cancer dormancy defined properties of dormant cancer cells secondary outgrowth
 
 morbidity and mortality associated with metastasis
-in the previous weve looked closely at the sequential steps of metastasis and some of the biology of how metastasis occurs now well turn our attention to morbidity and mortality or in other words how cancer hurts and kills people
+in the previous weve looked closely at the sequential steps of metastasis and some of the biology of how metastasis occurs now turn our attention to morbidity and mortality or in other words how cancer hurts and kills people
 introduction to morbidity and mortality distribution of metastasis where do cancers spread cancer syndromes congratulations
 </DOC>
 

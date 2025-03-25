@@ -1,6 +1,9 @@
 <DOC>
 data science foundations using r
-this covers foundational data science tools and techniques including getting cleaning and exploring data programming in r and conducting reproducible research learners who complete this will be prepared to take the data science statistics and machine learningopens in a new tab in which they build a data product using realworld datathe five courses are the very same courses that make up the first half of the data science this is presented for learners who want to start and complete the foundational part of the curriculum first before moving onto the more advanced topics in data science statistics and machine learningapplied projectin taking the data science foundations using r learners will complete a at the ending of each include installing tools programming in r cleaning data performing analyses as well as peer review
+this covers foundational data science tools and techniques including getting cleaning and exploring data programming in r and conducting reproducible research learners who complete this will be prepared to take the data science statistics and machine learningopens in a new tab in which they build a data product using realworld data
+the five courses are the very same courses that make up the first half of the data science this is presented for learners who want to start and complete the foundational part of the curriculum first before moving onto the more advanced topics in data science statistics and machine learning
+
+in taking the data science foundations using r learners will complete a project at the ending of each projects include installing tools programming in r cleaning data performing analyses as as peer review
 </DOC>
 
 <DOC>
@@ -9,7 +12,7 @@ how to in r and how to use r for effective data analysis how to install and conf
 
 background getting started and nuts bolts
 covers the basics to get you started up with r the background materials lesson contains information about mechanics and some on installing r the cover the history of r and s go over the basic data types in r and describe the functions for reading and writing data i recommend that you watch the in the listed order but watching the out of order isnt going to ruin the story
-installing r on a mac installing r on windows installing r studio mac writing code setting your working directory windows writing code setting your working directory mac introduction overview and history of r getting help r console input and evaluation data types r objects and attributes data types vectors and lists data types matrices data types factors data types missing values data types data frames data types names attribute data types reading tabular data reading large tables textual data formats connections interfaces to the outside world subsetting basics subsetting lists subsetting matrices subsetting partial matching subsetting removing missing values vectorized operations introduction to swirl
+installing r on a mac installing r on windows installing r studio mac writing code setting your working directory windows writing code setting your working directory mac introduction and history of r getting help r console input and evaluation data types r objects and attributes data types vectors and lists data types matrices data types factors data types missing values data types data frames data types names attribute data types reading tabular data reading large tables textual data formats connections interfaces to the outside world subsetting basics subsetting lists subsetting matrices subsetting partial matching subsetting removing missing values vectorized operations introduction to swirl
 
 programming with r
 welcome to of r programming we take the gloves off and the lectures cover key topics like control structures and functions we also introduce the first programming for the which is due at the end of the
@@ -34,7 +37,7 @@ introduction what is reproducible research about reproducible research concepts 
 
 markdown knitr
 we cover some of the core tools for developing reproducible documents we cover the literate programming tool knitr and show how to integrate it with markdown to publish reproducible web documents we also introduce the first peer assessment which will require you to write up a reproducible data analysis using knitr
-coding standards in r markdown r markdown r markdown demonstration knitr part knitr part knitr part knitr part introduction to
+coding standards in r markdown r markdown r markdown demonstration knitr part knitr part knitr part knitr part introduction to project
 
 reproducible research checklist evidencebased data analysis
 covers what one could call a basic check list for ensuring that a data analysis is reproducible while its not absolutely sufficient to follow the check list it provides a necessary minimum standard that would be applicable to almost any area of analysis
@@ -47,19 +50,19 @@ caching computations case study air pollution case study high throughput biology
 
 <DOC>
 the data scientists toolbox
-get an introduction to the main tools and ideas in the data scientists toolbox the gives an overview of the data questions and tools that data analysts and data scientists with there are two components to this the first is a conceptual introduction to the ideas behind turning data into actionable knowledge the second is a practical introduction to the tools that will be used in the like version control markdown git github r and rstudio
+get an introduction to the main tools and ideas in the data scientists toolbox the gives an of the data questions and tools that data analysts and data scientists with there are two components to this the first is a conceptual introduction to the ideas behind turning data into actionable knowledge the second is a practical introduction to the tools that will be used in the like version control markdown git github r and rstudio
 
 data science fundamentals
-well introduce and define data science and data itself well also go over some of the resources that data scientists use to get help when theyre stuck
+introduce and define data science and data itself also go over some of the resources that data scientists use to get help when theyre stuck
 why automated what is data science what is data getting help the data science process
 
 r and rstudio
-well help you get up and running with both r and rstudio along the way some basics about both and why data scientists use them
-installing r installing r studio rstudio tour r packages in r
+help you get up and running with both r and rstudio along the way some basics about both and why data scientists use them
+installing r installing r studio rstudio tour r packages projects in r
 
 version control and github
-during this about version control and why its so important to data scientists also how to use git and github to manage version control in data science
-version control github and git linking github and r studio under version control
+during this about version control and why its so important to data scientists also how to use git and github to manage version control in data science projects
+version control github and git linking github and r studio projects under version control
 
 r markdown scientific thinking and big data
 during this final to use r markdown and get an introduction to three concepts that are incredibly important to every successful data scientist asking good questions experimental design and big data
@@ -83,13 +86,13 @@ welcome to of getting and cleaning data the lectures will focus on organizing me
 subsetting and sorting summarizing data creating new variables reshaping data managing data frames with dplyr introduction managing data frames with dplyr basic tools merging data
 
 
-welcome to of getting and cleaning data we finish up with lectures on text and date manipulation in r final we will also focus on peer grading of
+welcome to of getting and cleaning data we finish up with lectures on text and date manipulation in r final also focus on peer grading of projects
 editing text variables regular expressions i regular expressions ii working with dates data resources
 </DOC>
 
 <DOC>
 exploratory data analysis
-this covers the essential exploratory techniques for summarizing data these techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models exploratory techniques are also important for eliminating or sharpening potential hypotheses about the world that can be addressed by the data we will cover in detail the plotting systems in r as well as some of the basic principles of constructing data graphics we will also cover some of the common multivariate statistical techniques used to visualize highdimensional data
+this covers the essential exploratory techniques for summarizing data these techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models exploratory techniques are also important for eliminating or sharpening potential hypotheses about the world that can be addressed by the data cover in detail the plotting systems in r as as some of the basic principles of constructing data graphics also cover some of the common multivariate statistical techniques used to visualize highdimensional data
 
 
 covers the basics of analytic graphics and the base plotting system in r weve also included some background material to help you install r if you havent done so already
@@ -104,7 +107,7 @@ welcome to of exploratory data analysis covers some of the workhorse statistical
 hierarchical clustering part hierarchical clustering part hierarchical clustering part kmeans clustering part kmeans clustering part dimension reduction part dimension reduction part dimension reduction part working with color in r plots part working with color in r plots part working with color in r plots part working with color in r plots part
 
 
-well look at two case studies in exploratory data analysis the first involves the use of cluster analysis techniques and the second is a more involved analysis of some air pollution data how one goes about doing eda is often personal but im providing these to give you a sense of how you might proceed with a specific type of dataset
+look at two case studies in exploratory data analysis the first involves the use of cluster analysis techniques and the second is a more involved analysis of some air pollution data how one goes about doing eda is often personal but im providing these to give you a sense of how you might proceed with a specific type of dataset
 clustering case study air pollution case study
 </DOC>
 

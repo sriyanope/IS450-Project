@@ -1,6 +1,9 @@
 <DOC>
 creating business value with data and looker
-this series of courses introduces data in the cloud and looker to someone who would like to become a looker developer it includes the background on how data is managed in the cloud and how it can be used to create value for an organization then the you need as a looker developer to use the looker modeling language lookml to empower your organization to conduct selfserve data exploration analysis and visualization applied projectcourse includes handson labs with looker to build in both data analysis and visualization in the first lab learners with dimensions measures filters and pivots to query select and visualize data in looker using explores in the second lab learners use table calculations and offsets to instantaneously create new metrics from data using explores includes handson labs focused on building lookml to curate data for business users in the first lab learners practice creating dimensions and measures in lookml and about the different data types that lookml supports in the second lab learners create and persist derived tables in lookml to create new tables that do not yet exist in the underlying database
+this series of courses introduces data in the cloud and looker to someone who would like to become a looker developer it includes the background on how data is managed in the cloud and how it can be used to create value for an organization then the you need as a looker developer to use the looker modeling language lookml to empower your organization to conduct selfserve data exploration analysis and visualization
+
+includes handson labs with looker to build in both data analysis and visualization in the first lab learners with dimensions measures filters and pivots to query select and visualize data in looker using explores in the second lab learners use table calculations and offsets to instantaneously create new metrics from data using explores
+includes handson labs focused on building lookml to curate data for business users in the first lab learners practice creating dimensions and measures in lookml and about the different data types that lookml supports in the second lab learners create and persist derived tables in lookml to create new tables that do not yet exist in the underlying database
 </DOC>
 
 <DOC>
@@ -8,7 +11,7 @@ analyzing and visualizing data in looker
 you how to do the kind of data exploration and analysis in looker that would formerly be done primarily by sql developers or analysts upon completion of this be able to leverage lookers modern analytics platform to find and explore relevant content in your organizations looker instance ask questions of your data create new metrics as needed and build and share visualizations and dashboards to facilitate datadriven decision making
 
 the looker platform
-this provides an overview of the looker user interface and its key components for data explorers
+this provides an of the looker user interface and its key components for data explorers
 what is looker looker user interface organizing content with folders
 
 data analysis building blocks
@@ -34,7 +37,8 @@ sharing and scheduling looks sharing and scheduling dashboards tilelevel dashboa
 
 <DOC>
 exploring data transformation with google cloud
-cloud technology can bring great value to an organization and combining the power of cloud technology with data has the potential to unlock even more value and create new customer experiencesexploring data transformation with google cloud explores the value data can bring to an organization and ways google cloud can make data useful and accessible part of the cloud digital leader path this aims to help individuals grow in their role and build the future of their business
+cloud technology can bring great value to an organization and combining the power of cloud technology with data has the potential to unlock even more value and create new customer
+exploring data transformation with google cloud explores the value data can bring to an organization and ways google cloud can make data useful and accessible part of the cloud digital leader learning path this aims to help individuals grow in their role and build the future of their business
 
 introduction
 introduction explore the goals and preview each section
@@ -52,7 +56,7 @@ section of the examine how smart analytics business intelligence tools and strea
 introduction business intelligence and insights using looker streaming analytics pubsub and dataflow
 
 
-the closes with a of the key points covered in each section and next steps to continue
+the closes with a of the key points covered in each section and next steps to continue learning
 </DOC>
 
 <DOC>
@@ -60,19 +64,19 @@ developing data models with lookml
 this empowers you to develop scalable performant lookml looker modeling language models that provide your business users with the standardized readytouse data that they need to answer their questions upon completing this be able to start building and maintaining lookml models to curate and manage data in your organizations looker instance
 
 introducing looker and lookml
-this provides an overview of looker and the looker integrated development environment ide for lookml developers
-looker and lookml the looker user interface the looker ide lookml version control example git workflow in looker how looker writes sql
+this provides an of looker and the looker integrated development environment ide for lookml developers
+looker and lookml the looker user interface the looker ide lookml project version control example git workflow in looker how looker writes sql
 
 data modeling using lookml
 this reviews how to model new dimensions and measures using lookml the also explores the use of dashboards to combine key queries and visualizations into a one page executive view
-anatomy of a lookml modeling dimensions example creating dimensions using lookml modeling measures example modeling measures using lookml dimension measure modeling logic getting started with google cloud platform and qwiklabs lookml dashboards
+anatomy of a lookml project modeling dimensions example creating dimensions using lookml modeling measures example modeling measures using lookml dimension measure modeling logic getting started with google cloud platform and qwiklabs lookml dashboards
 
 modeling explores for your users
-this provides a deeper dive into the model files of lookml for developers to start designing and building custom explores for business users
+this provides a deeper dive into the model files of lookml projects for developers to start designing and building custom explores for business users
 modeling new explores using lookml to filter explores understanding symmetric aggregation
 
 working with derived tables
-this explains how to use derived tables in looker to create new custom tables that do not yet exist in the underlying database this also provides an overview of how caching works in looker and how developers can use datagroups to manage caching policies
+this explains how to use derived tables in looker to create new custom tables that do not yet exist in the underlying database this also provides an of how caching works in looker and how developers can use datagroups to manage caching policies
 introducing derived tables types of derived tables using sql derived tables using native derived tables native derived table parameters using persistent derived tables caching and datagroups implementing datagroups in looker
 </DOC>
 

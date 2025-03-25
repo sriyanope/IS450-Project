@@ -1,80 +1,89 @@
 <DOC>
 ai product management
-organizations in every industry are accelerating their use of artificial intelligence and machine to create innovative new products and systems this requires professionals across a range of functions not just strictly within the data science and data engineering teams to understand when and how ai can be applied to speak the language of data and analytics and to be capable of working in crossfunctional teams on machine projectsthis provides a foundational understanding of how machine works and when and how it can be applied to solve problems learners will build in applying the data science process and industry best practices to lead machine and develop competency in designing humancentered ai products which ensure privacy and ethical standards the courses focus on the intuition behind these technologies with no programming required and merge theory with practical information including best practices from industry professionals and aspiring professionals from a diverse range of industries and functions including product managers and product owners engineering team leaders executives analysts and others will find this valuable applied projectlearners will implement three throughout the of this in complete a handson where create a machine model to solve a simple problem no coding necessary and assess your models performance in identify and frame a problem of interest design a machine system which can help solve it and begin the development of a plan in perform a basic user design exercise for your mlbased solution and analyze the relevant ethical and privacy considerations of the
+organizations in every industry are accelerating their use of artificial intelligence and machine learning to create innovative new products and systems this requires professionals across a range of functions not just strictly within the data science and data engineering teams to understand when and how ai can be applied to speak the language of data and analytics and to be capable of working in crossfunctional teams on machine learning projects
+this provides a foundational understanding of how machine learning works and when and how it can be applied to solve problems learners will build in applying the data science process and industry best practices to lead machine learning projects and develop competency in designing humancentered ai products which ensure privacy and ethical standards the courses focus on the intuition behind these technologies with no programming required and merge theory with practical information including best practices from industry professionals and aspiring professionals from a diverse range of industries and functions including product managers and product owners engineering team leaders executives analysts and others will find this valuable
+
+learners will implement three projects throughout the of this
+in complete a handson project where create a machine learning model to solve a simple problem no coding necessary and assess your models performance
+in identify and frame a problem of interest design a machine learning system which can help solve it and begin the development of a project plan
+in perform a basic user design exercise for your mlbased solution and analyze the relevant ethical and privacy considerations of the project
 </DOC>
 
 <DOC>
-machine foundations for product managers
-first of the ai product management offered by duke universitys pratt school of engineering build a foundational understanding of what machine is how it works and when and why it is applied to successfully manage an ai team or product and collaboratively with data scientists software engineers and customers you need to understand the basics of machine technology this provides a noncoding introduction to machine with focus on the process of developing models ml model evaluation and interpretation and the intuition behind common ml and deep algorithms the will conclude with a handson in which have a chance to train and optimize a machine model on a simple realworld problemat the conclusion of this you should be able to explain how machine works and the types of machine describe the challenges of modeling and strategies to overcome them identify the primary algorithms used for common ml tasks and their use cases explain deep and its strengths and challenges relative to other forms of machine implement best practices in evaluating and interpreting ml models
+machine learning foundations for product managers
+first of the ai product management offered by duke universitys pratt school of engineering build a foundational understanding of what machine learning is how it works and when and why it is applied to successfully manage an ai team or product and collaboratively with data scientists software engineers and customers you need to understand the basics of machine learning technology this provides a noncoding introduction to machine learning with focus on the process of developing models ml model evaluation and interpretation and the intuition behind common ml and deep learning algorithms the will conclude with a handson project in which have a chance to train and optimize a machine learning model on a simple realworld problem
+at the conclusion of this you should be able to explain how machine learning works and the types of machine learning describe the challenges of modeling and strategies to overcome them identify the primary algorithms used for common ml tasks and their use cases explain deep learning and its strengths and challenges relative to other forms of machine learning implement best practices in evaluating and interpreting ml models
 
-what is machine
-we will be introduced to what machine is and does we will build the necessary vocabulary for working with data and models and develop an understanding of the different types of machine we will conclude with a critical discussion of what machine can do well and cannot or should not do
-overview instructor introduction overiew introduction objectives introduction to machine data terminology what is a model types of machine what ml can and cannot do wrapup
+what is machine learning
+be introduced to what machine learning is and does build the necessary vocabulary for working with data and models and develop an understanding of the different types of machine learning conclude with a critical discussion of what machine learning can do and cannot or should not do
+instructor introduction overiew introduction objectives introduction to machine learning data terminology what is a model types of machine learning what ml can and cannot do wrapup
 
 the modeling process
-we will discuss the key steps in the process of building machine models we will about the sources of model complexity and how complexity impacts a models performance we will wrap up with a discussion of strategies for comparing different models to select the optimal model for production
+discuss the key steps in the process of building machine learning models about the sources of model complexity and how complexity impacts a models performance wrap up with a discussion of strategies for comparing different models to select the optimal model for production
 introduction and objectives building a model feature selection algorithm selection biasvariance tradeoff test and validation sets cross validation wrapup
 
 evaluating interpreting models
-we will how to define appropriate and output metrics for ai we will then discuss key metrics for evaluating regression and classification models and how to select one for use we will wrap up with a discussion of common sources of error in machine and how to troubleshoot poor performance
+how to define appropriate and output metrics for ai projects then discuss key metrics for evaluating regression and classification models and how to select one for use wrap up with a discussion of common sources of error in machine learning projects and how to troubleshoot poor performance
 introduction and objectives vs outputs model output metrics regression error metrics classification error metrics confusion matrix classification error metrics roc and pr curves troubleshooting model performance wrapup
 
 linear models
-we will explore the use of linear models for regression and classification we will begin with introducing linear regression and continue with a discussion on how to make linear regression better through regularization we will then switch to classification and introduce the logistic regression model for both binary and multiclass classification problems
+explore the use of linear models for regression and classification begin with introducing linear regression and continue with a discussion on how to make linear regression better through regularization then switch to classification and introduce the logistic regression model for both binary and multiclass classification problems
 introduction and objectives linear regression regularization logistic regression softmax regression wrapup
 
 trees ensemble models and clustering
-we will begin this model with a discussion of tree models and their value in modeling compex nonlinear problems we will then introduce the method of creating ensemble models and their benefits we will wrap this up by switching gears to unsupervised and discussing clustering and the popular kmeans clustering approach
+begin this model with a discussion of tree models and their value in modeling compex nonlinear problems then introduce the method of creating ensemble models and their benefits wrap this up by switching gears to unsupervised learning and discussing clustering and the popular kmeans clustering approach
 introduction and objectives tree models ensemble models random forest clustering kmeans clustering wrapup
 
-deep
-our final will focus on a hot area of machine called deep or the use of multilayer neural networks we will develop an understanding of the intuition and key mathematical principles behind how neural networks we will then discuss common applications of deep in computer vision and natural language processing we will wrap up the with our where have an to apply the modeling process and best practices you have learned to create your own machine model
-introduction and objectives introduction to deep artificial neurons from neurons to neural networks training neural networks computer vision natural language processing wrapup wrapup
+deep learning project
+our final will focus on a hot area of machine learning called deep learning or the use of multilayer neural networks develop an understanding of the intuition and key mathematical principles behind how neural networks then discuss common applications of deep learning in computer vision and natural language processing wrap up the with our project where have an to apply the modeling process and best practices you have learned to create your own machine learning model
+introduction and objectives introduction to deep learning artificial neurons from neurons to neural networks training neural networks computer vision natural language processing wrapup wrapup
 </DOC>
 
 <DOC>
 human factors in ai
-this third and final of the ai product management by duke universitys pratt school of engineering focuses on the critical human factors in developing aibased products the begins with an introduction to humancentered design and the unique elements of user design for ai products participants will then about the role of data privacy in ai systems the challenges of designing ethical ai and approaches to identify sources of bias and mitigate fairness issues the concludes with a comparison of human intelligence and artificial intelligence and a discussion of the ways that ai can be used to both automate as well as assist human decisionmakingat the conclusion of this you should be able to identify and mitigate privacy and ethical risks in ai apply humancentered design practices to design successful ai product build ai systems that augment human intelligence and inspire model trust in users
+this third and final of the ai product management by duke universitys pratt school of engineering focuses on the critical human factors in developing aibased products the begins with an introduction to humancentered design and the unique elements of user design for ai products participants will then about the role of data privacy in ai systems the challenges of designing ethical ai and approaches to identify sources of bias and mitigate fairness issues the concludes with a comparison of human intelligence and artificial intelligence and a discussion of the ways that ai can be used to both automate as as assist human decisionmaking
+at the conclusion of this you should be able to identify and mitigate privacy and ethical risks in ai projects apply humancentered design practices to design successful ai product build ai systems that augment human intelligence and inspire model trust in users
 
 design of ai product
-we will discuss approaches and tools to perform humancentered design which is critical to designing successful ai products we will then walk through the key challenges involved in the user design of ai products and how to resolve them
-overview instructor introduction overiew introduction and objectives design thinking task analysis ai user design considerations user inputs transparency communicating uncertainty feedback loops wrapup
+discuss approaches and tools to perform humancentered design which is critical to designing successful ai products then walk through the key challenges involved in the user design of ai products and how to resolve them
+instructor introduction overiew introduction and objectives design thinking task analysis ai user design considerations user inputs transparency communicating uncertainty feedback loops wrapup
 
 data privacy and ai
-we will focus on data privacy as it relates to ai products we will first cover best practices in ensuring user privacy and the relevant us and international privacy laws to be aware of we will then discuss how ai creates unique challenges in ensuring privacy and some of the methods and tools which can be employed to protect the privacy of user data
+focus on data privacy as it relates to ai products first cover best practices in ensuring user privacy and the relevant us and international privacy laws to be aware of then discuss how ai creates unique challenges in ensuring privacy and some of the methods and tools which can be employed to protect the privacy of user data
 introduction and objectives introduction to data privacy fair information practices fips us privacy regulation eu general data protection regulation gdpr privacy challenges in ai protecting privacy in ai wrapup
 
 ethics in ai
-we will discuss the three main goals of ethical ai fairness accountability and transparency we will identify common sources of bias in modeling and discuss approaches to detecting and mitigating bias including organizational process and technical components
+discuss the three main goals of ethical ai fairness accountability and transparency identify common sources of bias in modeling projects and discuss approaches to detecting and mitigating bias including organizational process and technical components
 introduction and objectives fair accountable transparent ai types sources of bias mitigating potential ethical risks detecting resolving fairness issues wrapup
 
 human and societal considerations
-we will begin with differentiating between human intelligence and artificial intelligence and then examine ways that they can compliment each other we will conclude the by about approaches to encourage adoption and inspire trust among users in your model
+begin with differentiating between human intelligence and artificial intelligence and then examine ways that they can compliment each other conclude the by learning about approaches to encourage adoption and inspire trust among users in your model
 introduction and objectives ai and human intelligence automation vs augmentation inspiring model trust change management wrapup wrapup
 </DOC>
 
 <DOC>
-managing machine
-this second of the ai product management by duke universitys pratt school of engineering focuses on the practical aspects of managing machine the walks through the keys steps of a ml from how to identify good for ml through data collection model building deployment and monitoring and maintenance of production systems participants will about the data science process and how to apply the process to organize ml efforts as well as the key considerations and decisions in designing ml systemsat the conclusion of this you should be able to identify to apply ml to solve problems for users apply the data science process to organize ml evaluate the key technology decisions to make in ml system design lead ml from ideation through production using best practices
+managing machine learning projects
+this second of the ai product management by duke universitys pratt school of engineering focuses on the practical aspects of managing machine learning projects the walks through the keys steps of a ml project from how to identify good for ml through data collection model building deployment and monitoring and maintenance of production systems participants will about the data science process and how to apply the process to organize ml efforts as as the key considerations and decisions in designing ml systems
+at the conclusion of this you should be able to identify to apply ml to solve problems for users apply the data science process to organize ml projects evaluate the key technology decisions to make in ml system design lead ml projects from ideation through production using best practices
 
-identifying for machine
-we will discuss how to identify problems worth solving how to determine whether ml is a good fit as part of the solution and how to validate solution concepts we will also why heuristics are useful in modeling and the advantages and disadvantages of ml relative to heuristics
-overview instructor introduction overiew introduction objectives identifying validating product ideas benefits of ml in products ml vs heuristics wrapup
+identifying for machine learning
+discuss how to identify problems worth solving how to determine whether ml is a good fit as part of the solution and how to validate solution concepts also why heuristics are useful in modeling projects and the advantages and disadvantages of ml relative to heuristics
+instructor introduction overiew introduction objectives identifying validating product ideas benefits of ml in products ml vs heuristics wrapup
 
-organizing ml
-we will focus on the crispdm data science process and how it can be used to organize ml we will begin by understanding what is unique about ml relative to normal software and then discuss approaches to manage the inherent risks of ml we will also walk through the key roles on a ml team and how to organize
-introduction and objectives ml vs software crispdm data science process crispdm case study team organization organizing the measuring performance wrapup
+organizing ml projects
+focus on the crispdm data science process and how it can be used to organize ml projects begin by understanding what is unique about ml project relative to normal software projects and then discuss approaches to manage the inherent risks of ml projects also walk through the key roles on a ml project team and how to organize
+introduction and objectives ml projects vs software projects crispdm data science process crispdm case study team organization organizing the project measuring performance wrapup
 
 data considerations
-we will explore the key datarelated issues that arise in ml data is the foundation of successful machine and gathering data of sufficient quantity and quality with the right set of attributes is the key to a successful we will discuss the key considerations in sourcing data cleaning data and developing and selecting a feature set to use in modeling the will conclude with a discussion on best practices to ensure reproducibility of your data pipeline
+explore the key datarelated issues that arise in ml projects data is the foundation of successful machine learning and gathering data of sufficient quantity and quality with the right set of attributes is the key to a successful project discuss the key considerations in sourcing data cleaning data and developing and selecting a feature set to use in modeling the will conclude with a discussion on best practices to ensure reproducibility of your data pipeline
 introduction and objectives data needs data collection data governence access data cleaning preparing data for modeling reproducibility versioning wrapup
 
 ml system design technology selection
-we will discuss the key decisions to make in designing ml systems such as cloud vs edge and online vs batch and compare the benefits of each type of system we will then discuss the primary technology decisions to make in a ml and introduce the common tools and technologies used to build ml models
-introduction and objectives ml system design considerations cloud vs edge online inference ml on big data ml technology selection common ml tools wrapup
+discuss the key decisions to make in designing ml systems such as cloud vs edge and online vs batch and compare the benefits of each type of system then discuss the primary technology decisions to make in a ml project and introduce the common tools and technologies used to build ml models
+introduction and objectives ml system design considerations cloud vs edge online learning inference ml on big data ml technology selection common ml tools wrapup
 
 model lifecycle management
-the final in the focuses on identifying and mitigating the key issues which ml models once they are in production we will discuss how to set up a robust ml system monitoring capability and define a model maintenance plan to maintain high performance of a production model we will conclude with a discussion on the importance of versioning in ml systems to facilitate continued rapid iteration even after deployment
+the final in the focuses on identifying and mitigating the key issues which ml models once they are in production discuss how to set up a robust ml system monitoring capability and define a model maintenance plan to maintain high performance of a production model conclude with a discussion on the importance of versioning in ml systems to facilitate continued rapid iteration even after deployment
 introduction and objectives ml system failures ml system monitoring model maintenance model versioning organizational considerations wrapup wrapup
 </DOC>
 

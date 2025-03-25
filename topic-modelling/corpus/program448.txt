@@ -1,42 +1,45 @@
 <DOC>
 sas advanced programmer
-when you complete this have in sas programming using sas and will be able to process data using structured query language in the sas environment use the sas macro facility to design write and debug dynamic macro programs and use advanced data step techniques and procedures to manipulate data these prepare you for the sas advanced programming certification exam applied projecttwo are included as honors lessons each will demonstrate your comprehensive knowledge of the learned sas programming in the first you use sql to analyze to analyze passenger claims at united states airports in the second you use the sas macro language to automate reporting and analysis of analysis of supplier sales
+when you complete this have in sas programming using sas and will be able to process data using structured query language in the sas environment use the sas macro facility to design write and debug dynamic macro programs and use advanced data step techniques and procedures to manipulate data these prepare you for the sas advanced programming certification exam
+
+two projects are included as honors lessons each project will demonstrate your comprehensive knowledge of the learned sas programming in the first project you use sql to analyze to analyze passenger claims at united states airports in the second project you use the sas macro language to automate reporting and analysis of analysis of supplier sales
 </DOC>
 
 <DOC>
 structured query language sql using sas
-descriptionin this you about structured query language sql and how it can be used in sas programs to create reports and query your data by the end of this a learner will be able to query and subset data summarize and present data combine tables using joins and set operators create and modify tables and views create datadriven macro variables using a query access dbms data with sasaccess technology
 
-overview and data setup
-you get an overview of what you and you set up the software and data you use for activities and practices in the
+you about structured query language sql and how it can be used in sas programs to create reports and query your data by the end of this a learner will be able to query and subset data summarize and present data combine tables using joins and set operators create and modify tables and views create datadriven macro variables using a query access dbms data with sasaccess technology
+
+and data setup
+you get an of what you and you set up the software and data you use for activities and practices in the
 
 essentials
 you about the structured query language sql and begin exploring data using the sql procedure in sas
-overview what is sql what is proc sql proc sql syntax exploring tables demo exploring the customer table sql options comparing sql and the data step
+what is sql what is proc sql proc sql syntax exploring tables demo exploring the customer table sql options comparing sql and the data step
 
 proc sql fundamentals
 you the fundamentals of sql by using the select from where group by having and order by clauses you generate simple queries group and summarize data create and manage tables and retrieve information about your sas session using dictionary tables
-overview filtering rows using the where clause special where operators missing values additional special where operators sorting the output with the order by clause ordering columns by position enhancing reports demo creating simple reports creating a new column subsetting calculated values assigning values conditionally with the case expression demo assigning values conditionally eliminating duplicate rows with the distinct keyword summarizing data demo using functions to analyze a table summarizing data using the count function grouping data demo analyzing groups of data summarizing date and time data counting rows using a boolean expression demo summarizing data using a boolean expression creating tables creating tables from a query creating table structures inserting rows into tables dropping tables in proc sql scenario dictionary tables demo using dictionary tables
+filtering rows using the where clause special where operators missing values additional special where operators sorting the output with the order by clause ordering columns by position enhancing reports demo creating simple reports creating a new column subsetting calculated values assigning values conditionally with the case expression demo assigning values conditionally eliminating duplicate rows with the distinct keyword summarizing data demo using functions to analyze a table summarizing data using the count function grouping data demo analyzing groups of data summarizing date and time data counting rows using a boolean expression demo summarizing data using a boolean expression creating tables creating tables from a query creating table structures inserting rows into tables dropping tables in proc sql scenario dictionary tables demo using dictionary tables
 
 sql joins
 you about joining data horizontally from multiple tables using the cartesian product you how to perform inner outer and complex joins
-overview joining tables types of joins joining two tables with an inner join demo performing an inner join with proc sql alternative sql inner join syntax using table aliases matching rows with a natural join selecting data from more than two tables demo performing an inner join with four tables handling missing values creating nonequijoins sql outer joins performing left and right outer joins joining two tables with a full join demo performing a full join with proc sql identifying nonmatching rows using reflexive joins demo performing a reflexive join using functions to join tables using functions to join when column types are different converting column values with functions
+joining tables types of joins joining two tables with an inner join demo performing an inner join with proc sql alternative sql inner join syntax using table aliases matching rows with a natural join selecting data from more than two tables demo performing an inner join with four tables handling missing values creating nonequijoins sql outer joins performing left and right outer joins joining two tables with a full join demo performing a full join with proc sql identifying nonmatching rows using reflexive joins demo performing a reflexive join using functions to join tables using functions to join when column types are different converting column values with functions
 
 subqueries
 you about using subqueries or a query within a query you begin by using a subquery in the where or having clause to dynamically subset your data then you use a query in the from clause inline view to act as a virtual table finally you use a subquery in the select clause to perform dynamic calculations
-overview what is a subquery using a subquery in the where clause demo using a subquery that returns a single value using a subquery in the having clause subquery that returns multiple values demo using a subquery that returns multiple values using the any keyword using correlated subqueries using temporary tables what is an inline view demo using an inline view creating a view making a view portable using a subquery in the select clause remerging statistics in proc sql demo remerging statistics controlling remerging remerging group by statistics
+what is a subquery using a subquery in the where clause demo using a subquery that returns a single value using a subquery in the having clause subquery that returns multiple values demo using a subquery that returns multiple values using the any keyword using correlated subqueries using temporary tables what is an inline view demo using an inline view creating a view making a view portable using a subquery in the select clause remerging statistics in proc sql demo remerging statistics controlling remerging remerging group by statistics
 
 set operators
-you to concatenate tables vertically using the intersect except union and outer union set operators you the difference between the set operators as well as how to use modifiers to adjust the default behavior
-overview combining data using set operators what are set operators using set operators using the intersect operator using the except operator using the union operator demo using the union operator to find all unique rows default behavior of the union operator combining set operators using the outer union operator demo using the outer union operator to combine tables
+you to concatenate tables vertically using the intersect except union and outer union set operators you the difference between the set operators as as how to use modifiers to adjust the default behavior
+combining data using set operators what are set operators using set operators using the intersect operator using the except operator using the union operator demo using the union operator to find all unique rows default behavior of the union operator combining set operators using the outer union operator demo using the outer union operator to combine tables
 
 using and creating macro variables in sql
 you about creating and utilizing userdefined macro variables to dynamically write programs that are easily maintained in addition you to create datadriven macro variables using the sql procedure and how to apply the newly created macro variables to your
-overview creating userdefined macro variables creating datadriven macro variables demo using a proc sql datadriven macro variable creating multiple macro variables concatenating values into one macro variable demo using proc sql to concatenate multiple values into one macro variable
+creating userdefined macro variables creating datadriven macro variables demo using a proc sql datadriven macro variable creating multiple macro variables concatenating values into one macro variable demo using proc sql to concatenate multiple values into one macro variable
 
 accessing dbms data with sasaccess
 you about sasaccess technology to retrieve data from third party database management systems dbms you about accessing data from a dbms through the sql passthrough facility which allows you to use the specific dbms implementation of sql and the sasaccess libname statement which translates sas sql to native dbms sql finally you about the fedsql procedure to use vendor neutral sql to push as much processing into the dbms as possible
-overview defining sasaccess technology connection options overview of the sql passthrough facility steps for using the sql passthrough facility demo using an sql passthrough query sql passthrough facility considerations overview of the sasaccess libname statement demo using the sasaccess libname statement sasaccess libname considerations what is proc fedsql comparing proc sql to proc fedsql proc fedsql syntax examining the submitted sql code fedsql and sas viya
+defining sasaccess technology connection options of the sql passthrough facility steps for using the sql passthrough facility demo using an sql passthrough query sql passthrough facility considerations of the sasaccess libname statement demo using the sasaccess libname statement sasaccess libname considerations what is proc fedsql comparing proc sql to proc fedsql proc fedsql syntax examining the submitted sql code fedsql and sas viya
 
 case study honors and certification practice exam
 case study you solve a realworld business problem by applying concepts that you learned
@@ -44,11 +47,12 @@ case study you solve a realworld business problem by applying concepts that you 
 
 <DOC>
 sas macro language
-you advanced techniques within the data step and procedures to manipulate datacourse objectives per by the end of this a learner will be able to perform text substitution in sas code use macro variables and macro functions automate and customize the production of sas code conditionally or iteratively construct sas code write selfmodifying datadriven programs
+you advanced techniques within the data step and procedures to manipulate data
+learning objectives per by the end of this a learner will be able to perform text substitution in sas code use macro variables and macro functions automate and customize the production of sas code conditionally or iteratively construct sas code write selfmodifying datadriven programs
 
 introduction
-get an overview of this and set up your practice files then explore macro programming and what the macro facility will enable you to do and why it can make your job as a sas programmer easier
-overview introduction benefits of using sas macro efficiency of macrobased applications developing macro applications
+get an of this and set up your practice files then explore macro programming and what the macro facility will enable you to do and why it can make your job as a sas programmer easier
+introduction benefits of using sas macro efficiency of macrobased applications developing macro applications
 
 sas macro facility
 you how sas processes code behind the scenes this is important because mastering the sas macro facility is only possible if you understand how macro language elements impact this processing you also how to create and use macro variables to dynamically modify text in a
@@ -72,26 +76,27 @@ case study you solve a realworld business problem by applying concepts that you 
 
 <DOC>
 advanced sas programming techniques
-you advanced techniques within the data step and procedures to manipulate databy the end of this a learner will be able to use additional functions lag findcfindw and countcountccountw perform pattern matching using prx functions process repetitive code rotate data and perform table lookups using arrays perform table lookups and sort data using hash and hash iterator objects create numeric templates using the format procedure create custom functions using the fcmp procedure
+you advanced techniques within the data step and procedures to manipulate data
+by the end of this a learner will be able to use additional functions lag findcfindw and countcountccountw perform pattern matching using prx functions process repetitive code rotate data and perform table lookups using arrays perform table lookups and sort data using hash and hash iterator objects create numeric templates using the format procedure create custom functions using the fcmp procedure
 
-overview review and data setup
+review and data setup
 set up software and data for this then review the concepts of sas data step processing and how to process data sets
 welcome to the practicing in the data step processing processing a data set demo reviewing data step syntax and processing
 
 using advanced functions
 use advanced functions to compare data between multiple rows in a sas table find and count substrings within a column and clean and standardize data also explore call routines perl regular expressions and how to use advanced functions to modify and analyze storm weather and population data
-overview using functions in sas using the lag function demo retrieving previous values with the lag function calculating a moving average best practice for calculating a moving average using count functions using find functions demo counting and finding words with character functions what are perl regular expressions what are metacharacters prxparse and prxmatch functions demo validating data with the prxmatch function prxchange function capture buffers demo standardizing data with the prxchange function
+using functions in sas using the lag function demo retrieving previous values with the lag function calculating a moving average best practice for calculating a moving average using count functions using find functions demo counting and finding words with character functions what are perl regular expressions what are metacharacters prxparse and prxmatch functions demo validating data with the prxmatch function prxchange function capture buffers demo standardizing data with the prxchange function
 
 defining and processing arrays
 how to use arrays to simplify your code use arrays to process repetitive code rotate data and perform table lookups
-overview processing repetitive code using an array referencing an array in a do loop unknown number of array elements creating numeric columns with an array specifying lower and upper bounds demo processing onedimensional arrays part rotating data specifying initial values for array elements creating character columns with an array demo processing onedimensional arrays part twodimensional arrays performing a table lookup demo processing twodimensional arrays part specifying initial values for twodimensional array elements loading a twodimensional array from a table demo processing twodimensional arrays part
+processing repetitive code using an array referencing an array in a do loop unknown number of array elements creating numeric columns with an array specifying lower and upper bounds demo processing onedimensional arrays part rotating data specifying initial values for array elements creating character columns with an array demo processing onedimensional arrays part twodimensional arrays performing a table lookup demo processing twodimensional arrays part specifying initial values for twodimensional array elements loading a twodimensional array from a table demo processing twodimensional arrays part
 
 defining and processing hash objects
 how to declare a hash object instantiate or create an instance of the object and initialize its lookup keys and data use the hash object to store and retrieve data create an output table from the data in the hash object and create a hash iterator object to process the data in a particular order
-overview performing a table lookup example what is a hash object hash object process example declaring a hash object using hash object methods demo declaring and defining a hash object performing a table lookup example find method key arguments demo performing a table lookup with the find method adding data to a hash object saving a hash object demo creating a table with the add and output methods unique and duplicate key components what is a hash iterator object creating the hash object and hash iterator object hash iterator object methods demo reading data in forward and reverse direction
+performing a table lookup example what is a hash object hash object process example declaring a hash object using hash object methods demo declaring and defining a hash object performing a table lookup example find method key arguments demo performing a table lookup with the find method adding data to a hash object saving a hash object demo creating a table with the add and output methods unique and duplicate key components what is a hash iterator object creating the hash object and hash iterator object hash iterator object methods demo reading data in forward and reverse direction
 
 using utility procedures
 how to use proc formats picture statement to create a custom template to display large numbers dates and times also use proc fcmp the function compiler procedure to create custom functions and call routines
-overview creating custom formats custom date and datetime formats demo specifying a template for datetime values custom numeric formats custom large number format demo specifying a template for large numbers creating and using a custom function demo creating functions containing one argument passing and returning values demo creating functions containing multiple arguments creating a custom call routine
+creating custom formats custom date and datetime formats demo specifying a template for datetime values custom numeric formats custom large number format demo specifying a template for large numbers creating and using a custom function demo creating functions containing one argument passing and returning values demo creating functions containing multiple arguments creating a custom call routine
 </DOC>
 

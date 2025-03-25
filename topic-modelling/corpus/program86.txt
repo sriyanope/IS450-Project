@@ -1,29 +1,32 @@
 <DOC>
 data analysis with r
-to analyze and visualize data in r and create reproducible data analysis reports demonstrate a conceptual understanding of the unified nature of statistical inference perform frequentist and bayesian statistical inference and modeling to understand natural phenomena and make databased decisions communicate statistical results correctly effectively and in context without relying on statistical jargon critique databased claims and evaluated databased decisions and wrangle and visualize data with r packages for data analysis applied projectyou will produce a portfolio of data analysis from the that demonstrates mastery of statistical data analysis from exploratory analysis to inference to modeling suitable for applying for statistical analysis or data scientist positions
+to analyze and visualize data in r and create reproducible data analysis reports demonstrate a conceptual understanding of the unified nature of statistical inference perform frequentist and bayesian statistical inference and modeling to understand natural phenomena and make databased decisions communicate statistical results correctly effectively and in context without relying on statistical jargon critique databased claims and evaluated databased decisions and wrangle and visualize data with r packages for data analysis
+
+
+produce a portfolio of data analysis projects from the that demonstrates mastery of statistical data analysis from exploratory analysis to inference to modeling suitable for applying for statistical analysis or data scientist positions
 </DOC>
 
 <DOC>
 inferential statistics
-this covers commonly used statistical inference methods for numerical and categorical data how to set up and perform hypothesis tests interpret pvalues and report the results of your analysis in a way that is interpretable for clients or the public using numerous data examples to report estimates of quantities in a way that expresses the uncertainty of the quantity of interest be guided through installing and using r and rstudio free statistical software and will use this software for lab exercises and a final the introduces practical tools for performing data analysis and explores the fundamental concepts necessary to interpret and report results for both categorical and numerical data
+this covers commonly used statistical inference methods for numerical and categorical data how to set up and perform hypothesis tests interpret pvalues and report the results of your analysis in a way that is interpretable for clients or the public using numerous data examples to report estimates of quantities in a way that expresses the uncertainty of the quantity of interest be guided through installing and using r and rstudio free statistical software and will use this software for lab exercises and a final project the introduces practical tools for performing data analysis and explores the fundamental concepts necessary to interpret and report results for both categorical and numerical data
 
 about the and the
 this short introduces basics about coursera specializations and courses in general this statistics with r and this inferential statistics please take several minutes to browse them through thanks for joining us
 
 central limit theorem and confidence interval
-welcome to inferential statistics we will discuss foundations for inference check out the objectives start watching the and finally on the quiz and the labs of in addition to that introduce new concepts also see a few that walk you through application examples related to the weeks topics in the first we will introduce central limit theorem clt and confidence interval
+welcome to inferential statistics discuss foundations for inference check out the learning objectives start watching the and finally on the quiz and the labs of in addition to that introduce new concepts also see a few that walk you through application examples related to the weeks topics in the first introduce central limit theorem clt and confidence interval
 introduction sampling variability and clt clt for the mean examples confidence interval for a mean accuracy vs precision required sample size for me ci for the mean examples
 
 inference and significance
-welcome to two we will discuss formal hypothesis testing and relate testing procedures back to estimation via confidence intervals these topics will be introduced within the context of working with a population mean however we will also give you a brief peek at whats to come in the next two weeks by discussing how the methods were can be extended to other estimators we will also discuss crucial considerations like decision errors and statistical vs practical significance the labs for will illustrate concepts of sampling distributions and confidence levels
+welcome to two discuss formal hypothesis testing and relate testing procedures back to estimation via confidence intervals these topics will be introduced within the context of working with a population mean however also give you a brief peek at whats to come in the next two weeks by discussing how the methods were learning can be extended to other estimators also discuss crucial considerations like decision errors and statistical vs practical significance the labs for will illustrate concepts of sampling distributions and confidence levels
 another introduction to inference hypothesis testing for a mean ht for the mean examples inference for other estimators decision errors significance vs confidence level statistical vs practical significance
 
 inference for comparing means
-welcome to three of the we will introduce the tdistribution and comparing means as well as a simulation based method for creating a confidence interval bootstrapping if you have questions or discussions please use this weeks forum to askdiscuss with peers
+welcome to three of the introduce the tdistribution and comparing means as as a simulation based method for creating a confidence interval bootstrapping if you have questions or discussions please use this weeks forum to askdiscuss with peers
 introduction tdistribution inference for a mean inference for comparing two independent means inference for comparing two paired means power comparing more than two means anova conditions for anova multiple comparisons bootstrapping
 
 inference for proportions
-welcome to four of our unit well discuss inference for categorical data we use methods introduced to answer questions like what proportion of the american public approves of the job of the supreme court is doing also use the data set provided to complete and report on a data analysis question please read the instructions to complete this selfassessment
+welcome to four of our unit discuss inference for categorical data we use methods introduced to answer questions like what proportion of the american public approves of the job of the supreme court is doing also use the data set provided to complete and report on a data analysis question please read the project instructions to complete this selfassessment
 introduction sampling variability and clt for proportions confidence interval for a proportion hypothesis test for a proportion estimating the difference between two proportions hypothesis test for comparing two proportions small sample proportions examples comparing two small sample proportions chisquare gof test the chisquare independence test
 </DOC>
 
@@ -35,48 +38,48 @@ about linear regression and modeling
 this short introduces basics about coursera specializations and courses in general this statistics with r and this linear regression and modeling please take several minutes to browse them through thanks for joining us
 
 linear regression
-well introduce linear regression many of you may be familiar with regression from reading the news where graphs with straight lines are overlaid on scatterplots linear models can be used for prediction or to evaluate whether there is a linear relationship between two numerical variables
+introduce linear regression many of you may be familiar with regression from reading the news where graphs with straight lines are overlaid on scatterplots linear models can be used for prediction or to evaluate whether there is a linear relationship between two numerical variables
 introduction correlation residuals least squares line prediction and extrapolation conditions for linear regression r squared regression with categorical explanatory variables
 
 more about linear regression
-welcome to we will look at outliers inference in linear regression and variability partitioning please use to strengthen your understanding on linear regression dont forget to post your questions concerns and suggestions in the discussion forum
+welcome to look at outliers inference in linear regression and variability partitioning please use to strengthen your understanding on linear regression dont forget to post your questions concerns and suggestions in the discussion forum
 outliers in regression inference for linear regression variability partitioning
 
 multiple regression
-well explore multiple regression which allows us to model numerical response variables using multiple predictors numerical and categorical we will also cover inference for multiple linear regression model selection and model diagnostics there is also a final included use the data set provided to complete and report on a data analysis question please read the instructions to complete this selfassessment
+explore multiple regression which allows us to model numerical response variables using multiple predictors numerical and categorical also cover inference for multiple linear regression model selection and model diagnostics there is also a final project included use the data set provided to complete and report on a data analysis question please read the project instructions to complete this selfassessment
 introduction multiple predictors adjusted r squared collinearity and parsimony inference for mlr model selection diagnostics for mlr
 </DOC>
 
 <DOC>
 introduction to probability and data with r
-this introduces you to sampling and exploring data as well as basic probability theory and bayes rule examine various types of sampling methods and discuss how such methods can impact the scope of inference a variety of exploratory data analysis techniques will be covered including numeric statistics and basic data visualization be guided through installing and using r and rstudio free statistical software and will use this software for lab exercises and a final the concepts and techniques will serve as building blocks for the inference and modeling courses in the
+this introduces you to sampling and exploring data as as basic probability theory and bayes rule examine various types of sampling methods and discuss how such methods can impact the scope of inference a variety of exploratory data analysis techniques will be covered including numeric statistics and basic data visualization be guided through installing and using r and rstudio free statistical software and will use this software for lab exercises and a final project the concepts and techniques will serve as building blocks for the inference and modeling courses in the
 
 about introduction to probability and data
-this introduces you to sampling and exploring data as well as basic probability theory examine various types of sampling methods and discuss how such methods can impact the utility of a data analysis the concepts will serve as building blocks for our later courseseach lesson comes with a set of objectives that will be covered in a series of short supplementary and practice problems will also be suggested from openintro statistics rd edition httpsleanpubcomopenintrostatistics a free online introductory statistics textbook that i coauthored there will be weekly quizzes designed to assess your and mastery of the material covered that in the in addition each will also feature a lab in which use r to apply what you are to real data there will also be a data analysis designed to enable you to answer research questions of your own choosing since this is a coursera you are welcome to participate as much or as little as youd like though i hope that begin by participating fully one of the most rewarding aspects of a coursera is participation in forum discussions about the materials please take advantage of other students feedback and insight and contribute your own perspective where you see fit to do so you can also check out the resource page httpswwwcourseraorglearnprobabilityintroresourcescrmc listing useful resources for this thank you for joining the introduction to probability and data community say hello in the discussion forums we are looking forward to your participation in the
+this introduces you to sampling and exploring data as as basic probability theory examine various types of sampling methods and discuss how such methods can impact the utility of a data analysis the concepts will serve as building blocks for our later courseseach lesson comes with a set of learning objectives that will be covered in a series of short supplementary and practice problems will also be suggested from openintro statistics rd edition httpsleanpubcomopenintrostatistics a free online introductory statistics textbook that i coauthored there will be weekly quizzes designed to assess your learning and mastery of the material covered that in the in addition each will also feature a lab in which use r to apply what you are learning to real data there will also be a data analysis project designed to enable you to answer research questions of your own choosing since this is a coursera you are welcome to participate as much or as little as youd like though i hope that begin by participating fully one of the most rewarding aspects of a coursera is participation in forum discussions about the materials please take advantage of other students feedback and insight and contribute your own perspective where you see fit to do so you can also check out the resource page httpswwwcourseraorglearnprobabilityintroresourcescrmc listing useful resources for this thank you for joining the introduction to probability and data community say hello in the discussion forums we are looking forward to your participation in the
 
 introduction to data
-welcome to introduction to probability and data i hope you are just as excited about this as i am in the next five weeks we will about designing studies explore data via numerical summaries and visualizations and about rules of probability and commonly used probability distributions if you have any questions feel free to post them on this forum httpswwwcourseraorglearnprobabilityintromodulerqaldiscussionssortlastactivityatdescpage and discuss with your peers to get started view the objectives httpswwwcourseraorglearnprobabilityintrosupplementrooeylessonlearningobjectives of lesson
+welcome to introduction to probability and data i hope you are just as excited about this as i am in the next five weeks about designing studies explore data via numerical summaries and visualizations and about rules of probability and commonly used probability distributions if you have any questions feel free to post them on this forum httpswwwcourseraorglearnprobabilityintromodulerqaldiscussionssortlastactivityatdescpage and discuss with your peers to get started view the learning objectives httpswwwcourseraorglearnprobabilityintrosupplementrooeylessonlearningobjectives of lesson
 introduction data basics observational studies experiments sampling and sources of bias experimental design spotlight random sample
 
-introduction to data
+introduction to data project
 to complete this use r and rstudio installed on your local computer or through rstudio cloud
 
 exploratory data analysis and introduction to inference
-welcome to of introduction to probability and data hope you enjoyed materials from we will delve into numerical and categorical data in more depth and introduce inference
+welcome to of introduction to probability and data hope you enjoyed materials from delve into numerical and categorical data in more depth and introduce inference
 visualizing numerical data measures of center measures of spread robust statistics transforming data exploring categorical variables introduction to inference
 
-exploratory data analysis and introduction to inference
+exploratory data analysis and introduction to inference project
 to complete this use r and rstudio installed on your local computer or through rstudio cloud
 
 introduction to probability
-welcome to of introduction to probability and data last we explored numerical and categorical data we will discuss probability conditional probability the bayes theorem and provide a light introduction to bayesian inference thank you for your enthusiasm and participation and have a great im looking forward to working with you on the rest of this
+welcome to of introduction to probability and data last we explored numerical and categorical data discuss probability conditional probability the bayes theorem and provide a light introduction to bayesian inference thank you for your enthusiasm and participation and have a great im looking forward to working with you on the rest of this
 introduction disjoint events general addition rule independence probability examples spotlight disjoint vs independent conditional probability probability trees bayesian inference examples of bayesian inference
 
-introduction to probability
+introduction to probability project
 to complete this use r and rstudio installed on your local computer or through rstudio cloud
 
 probability distributions
-great so far welcome to the last content of introduction to probability and data we will introduce two probability distributions the normal and the binomial distributions in particular as usual you can evaluate your knowledge weeks quiz there will be no labs for please dont hesitate to post any questions discussions and related topics on this weeks forum httpswwwcourseraorglearnprobabilityintromodulevdvngdiscussionssortlastactivityatdescpage also be asked to complete an initial data analysis with a realworld data set the is designed to help you discover and explore research questions of your own using real data and statistical methods we class please read the instructions to complete this selfassessment
+great so far welcome to the last content of introduction to probability and data introduce two probability distributions the normal and the binomial distributions in particular as usual you can evaluate your knowledge weeks quiz there will be no labs for please dont hesitate to post any questions discussions and related topics on this weeks forum httpswwwcourseraorglearnprobabilityintromodulevdvngdiscussionssortlastactivityatdescpage also be asked to complete an initial data analysis project with a realworld data set the project is designed to help you discover and explore research questions of your own using real data and statistical methods we class please read the project instructions to complete this selfassessment
 normal distribution evaluating the normal distribution working with the normal distribution binomial distribution normal approximation to binomial working with the binomial distribution
 </DOC>
 

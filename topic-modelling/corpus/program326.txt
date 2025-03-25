@@ -1,30 +1,35 @@
 <DOC>
 security in google cloud
-through recorded lectures demonstrations and handson labs participants explore and deploy the components of a secure google cloud solution including cloud identity the gcp resource manager cloud iam google virtual private cloud firewalls google cloud load balancing cloud cdn cloud storage access control technologies security command center stackdriver security keys customersupplied encryption keys the google data loss prevention api and cloud armor participants mitigations for attacks at many points in a google cloudbased infrastructure including distributed denialofservice attacks phishing attacks and threats involving content classification and use by enrolling you agree to the qwiklabs terms of service as set out in the faq and located at httpsqwiklabscomtermsofserviceopens in a new tab applied projectthis incorporates handson labs using our qwiklabs platformthese hands on components will let you apply the you in the lectures will incorporate topics such as google cloud products which are used and configured within qwiklabs you can expect to gain practical handson with many of the concepts explained throughout the
+through recorded lectures demonstrations and handson labs participants explore and deploy the components of a secure google cloud solution including cloud identity the gcp resource manager cloud iam google virtual private cloud firewalls google cloud load balancing cloud cdn cloud storage access control technologies security command center stackdriver security keys customersupplied encryption keys the google data loss prevention api and cloud armor participants mitigations for attacks at many points in a google cloudbased infrastructure including distributed denialofservice attacks phishing attacks and threats involving content classification and use
+by enrolling you agree to the qwiklabs terms of service as set out in the faq and located at httpsqwiklabscomtermsofserviceopens in a new tab
+
+this incorporates handson labs using our qwiklabs platform
+these hands on components will let you apply the you in the lectures projects will incorporate topics such as google cloud products which are used and configured within qwiklabs you can expect to gain practical handson with many of the concepts explained throughout the
 </DOC>
 
 <DOC>
 managing security in google cloud
-this selfpaced training gives participants broad study of security controls and techniques on google cloud through recorded lectures demonstrations and handson labs participants explore and deploy the components of a secure google cloud solution including cloud identity resource manager cloud iam virtual private cloud firewalls cloud load balancing cloud peering cloud interconnect and vpc service controlsthis is the first of the security in google cloud series after completing this enroll in the security best practices in google cloud
+this selfpaced training gives participants broad study of security controls and techniques on google cloud through recorded lectures demonstrations and handson labs participants explore and deploy the components of a secure google cloud solution including cloud identity resource manager cloud iam virtual private cloud firewalls cloud load balancing cloud peering cloud interconnect and vpc service controls
+this is the first of the security in google cloud series after completing this enroll in the security best practices in google cloud
 
 welcome to managing security in google cloud
-welcome to managing security in google cloud the first of security in google cloud this gives you an overview of security controls and techniques on google cloud through lectures demonstrations and handson labs explore and deploy the components of a secure google cloud solution
+welcome to managing security in google cloud the first of security in google cloud this gives you an of security controls and techniques on google cloud through lectures demonstrations and handson labs explore and deploy the components of a secure google cloud solution
 
 foundations of google cloud security
-securing systems is a hot topic and should be a priority for everyone today and as see it is definitely a priority here at google we will introduce you to google clouds approach to security we will also discuss the shared security responsibility model which is a collaborative effort between google and its users next we will outline several threats that are mitigated for you when your systems are run on googles infrastructure in google cloud and finally we will end with a section on access transparency
-overview google clouds approach to security vpc network security and monitoring the shared security responsibility model threats mitigated by google and google cloud access transparency review
+securing systems is a hot topic and should be a priority for everyone today and as see it is definitely a priority here at google introduce you to google clouds approach to security also discuss the shared security responsibility model which is a collaborative effort between google and its users next outline several threats that are mitigated for you when your systems are run on googles infrastructure in google cloud and finally end with a section on access transparency
+google clouds approach to security vpc network security and monitoring the shared security responsibility model threats mitigated by google and google cloud access transparency review
 
 securing access to google cloud
-we will discuss cloud identity a service which makes it easy to manage cloud users devices and apps from one console we will also discuss a few related features to help reduce the operational overhead of managing google cloud users such as the google cloud directory sync and single signon we will end with some authentication best practices
-overview cloud identity google cloud directory sync managed microsoft ad google authentication versus samlbased sso identity platform authentication best practices demo intro defining users with cloud identity console lab demo defining users with cloud identity console review
+discuss cloud identity a service which makes it easy to manage cloud users devices and apps from one console also discuss a few related features to help reduce the operational overhead of managing google cloud users such as the google cloud directory sync and single signon end with some authentication best practices
+cloud identity google cloud directory sync managed microsoft ad google authentication versus samlbased sso identity platform authentication best practices demo intro defining users with cloud identity console lab demo defining users with cloud identity console review
 
 identity and access management iam
-identity and access management iam lets administrators authorize who can take action on specific resources giving you full control and visibility to manage your cloud resources centrally more specifically we will cover the resource manager which enables you to centrally manage folders and organizations iam roles and policies including custom roles and iam best practices including separation of duties and the principle of least privilege
-overview resource manager iam roles service accounts workload identity federation iam organization policies policy intelligence iam best practices lab intro configuring iam getting started with google cloud and qwiklabs review
+identity and access management iam lets administrators authorize who can take action on specific resources giving you full control and visibility to manage your cloud resources centrally more specifically cover the resource manager which enables you to centrally manage projects folders and organizations iam roles and policies including custom roles and iam best practices including separation of duties and the principle of least privilege
+resource manager iam roles service accounts workload identity federation iam organization policies policy intelligence iam best practices lab intro configuring iam getting started with google cloud and qwiklabs review
 
 configuring virtual private cloud for isolation and security
-managed networking on google cloud utilizes a virtual private cloud or vpc we will discuss vpc related security concepts including vpc firewalls load balancing ssl policies network interconnect peering options vpc network best practices and vpc flow logs also have the to practice what youve learned by completing the labs exercises configuring vpc firewalls and configuring and using vpc flow logs in cloud logging
-overview vpc firewall rules vpc firewall defaults vpc firewall best practices lab intro configuring vpc firewalls load balancing and ssl policies vpc peering connecting to google cloud cloud interconnect vpc service controls demo vpc service controls private google api access access context manager vpc flow logs lab intro configuring and using vpc flow logs in cloud logging cloud ids lab intro getting started with cloud ids review
+managed networking on google cloud utilizes a virtual private cloud or vpc discuss vpc related security concepts including vpc firewalls load balancing ssl policies network interconnect peering options vpc network best practices and vpc flow logs also have the to practice what youve learned by completing the labs exercises configuring vpc firewalls and configuring and using vpc flow logs in cloud logging
+vpc firewall rules vpc firewall defaults vpc firewall best practices lab intro configuring vpc firewalls load balancing and ssl policies vpc peering connecting to google cloud cloud interconnect vpc service controls demo vpc service controls private google api access access context manager vpc flow logs lab intro configuring and using vpc flow logs in cloud logging cloud ids lab intro getting started with cloud ids review
 </DOC>
 
 <DOC>
@@ -32,14 +37,14 @@ google cloud fundamentals core infrastructure
 google cloud fundamentals core infrastructure introduces important concepts and terminology for working with google cloud through and handson labs this presents and compares many of google clouds computing and storage services along with important resource and policy management tools
 
 introduction
-this section welcomes learners to the google cloud fundamentals core infrastructure and provides an overview of the structure and goals
+this section welcomes learners to the google cloud fundamentals core infrastructure and provides an of the structure and goals
 
 introducing google cloud
 this section identifies some of the key benefits of using google cloud its here that we introduce the components of the google network infrastructure and explore the differences between infrastructure as a service iaas and platform as a service paas
-cloud computing overview iaas and paas the google cloud network environmental impact security open source ecosystems pricing and billing
+cloud computing iaas and paas the google cloud network environmental impact security open source ecosystems pricing and billing
 
 resources and access in the cloud
-this section explores how resources get organized with and how access to those resources gets shared with the right part of a workforce through a tool called identity and access management iam its also section that we identify different ways to interact with google cloud
+this section explores how resources get organized with projects and how access to those resources gets shared with the right part of a workforce through a tool called identity and access management iam its also section that we identify different ways to interact with google cloud
 google cloud resource hierarchy identity and access management iam service accounts cloud identity interacting with google cloud coursera getting started with google cloud platform and qwiklabs
 
 virtual machines and networks in the cloud
@@ -55,14 +60,14 @@ this section of the explores containers and how they can be managed with kuberne
 introduction to containers kubernetes google kubernetes engine
 
 applications in the cloud
-the focus of this section of the is developing applications in the cloud its here that well explore cloud run and cloud functions
+the focus of this section of the is developing applications in the cloud its here that explore cloud run and cloud functions
 cloud run development in the cloud
 
 prompt engineering
-this section looks at generative ai tools how they well explore how to combine google cloud knowledge with prompt engineering to improve gemini responses
+this section looks at generative ai tools how they explore how to combine google cloud knowledge with prompt engineering to improve gemini responses
 
 
-final section we review what was presented and discuss the next steps to continue your cloud journey
+final section we review what was presented and discuss the next steps to continue your cloud learning journey
 </DOC>
 
 <DOC>
@@ -70,23 +75,23 @@ security best practices in google cloud
 this selfpaced training gives participants broad study of security controls and techniques on google cloud through recorded lectures demonstrations and handson labs participants explore and deploy the components of a secure google cloud solution including cloud storage access control technologies security keys customersupplied encryption keys api access controls scoping shielded vms encryption and signed urls it also covers securing kubernetes environments
 
 welcome to security best practices in google cloud
-welcome to security best practices in google cloud we will build upon the foundations laid during the earlier series managing security in google cloud section expect to more about how to implement security best practices to lower the risk of malicious attacks against your systems software and data
+welcome to security best practices in google cloud build upon the foundations laid during the earlier series managing security in google cloud section expect to more about how to implement security best practices to lower the risk of malicious attacks against your systems software and data
 
 securing compute engine techniques and best practices
-we will start with a discussion of service accounts iam roles and api scopes as they apply to compute engine we will also discuss managing vm logins and how to use organization policies to set constraints that apply to all resources in your organizations hierarchy next we will review compute engine best practices to give you some tips for securing compute enginelastly we will cover encrypting persistent disks with customersupplied encryption keys
-overview service accounts iam roles and api scopes lab intro configuring using and auditing vm service accounts and scopes getting started with google cloud and qwiklabs connecting to virtual machines connecting to vms without external ips os login organization policy controls shielded vms confidential vms authority service what authority service provides compute engine best practices review
+start with a discussion of service accounts iam roles and api scopes as they apply to compute engine also discuss managing vm logins and how to use organization policies to set constraints that apply to all resources in your organizations hierarchy next review compute engine best practices to give you some tips for securing compute enginelastly cover encrypting persistent disks with customersupplied encryption keys
+service accounts iam roles and api scopes lab intro configuring using and auditing vm service accounts and scopes getting started with google cloud and qwiklabs connecting to virtual machines connecting to vms without external ips os login organization policy controls shielded vms confidential vms authority service what authority service provides compute engine best practices review
 
 securing cloud data techniques and best practices
-we discuss controlling iam permissions and access control lists on cloud storage buckets auditing cloud data including finding and remediating data that has been set to publicly accessible how to use signed cloud storage urls and signed policy documents and encrypting data at rest in addition bigquery iam roles and authorized views will be covered to demonstrate managing access to datasets and tables the will conclude with an overview of storage best practices
-overview cloud storage iam permissions and acls auditing cloud data signed urls and policy documents encrypting with cmek and csek lab intro using customersupplied encryption keys with cloud storage lab intro using customermanaged encryption keys with cloud storage and cloud kms cloud hsm demo using and verifying keys in cloud hsm bigquery iam roles and authorized views lab intro creating a bigquery authorized view storage best practices review
+we discuss controlling iam permissions and access control lists on cloud storage buckets auditing cloud data including finding and remediating data that has been set to publicly accessible how to use signed cloud storage urls and signed policy documents and encrypting data at rest in addition bigquery iam roles and authorized views will be covered to demonstrate managing access to datasets and tables the will conclude with an of storage best practices
+cloud storage iam permissions and acls auditing cloud data signed urls and policy documents encrypting with cmek and csek lab intro using customersupplied encryption keys with cloud storage lab intro using customermanaged encryption keys with cloud storage and cloud kms cloud hsm demo using and verifying keys in cloud hsm bigquery iam roles and authorized views lab intro creating a bigquery authorized view storage best practices review
 
 application security techniques and best practices
-we will discuss application security techniques and best practices we will see how web security scanner can be used to identify vulnerabilities in your applications and dive into the subject of identity and oauth phishing lastly how identityaware proxy or iap can be used to control access to your cloud applications
-overview types of application security vulnerabilities web security scanner lab intro identify application vulnerabilities with security command center threat identity and oauth phishing identityaware proxy iap lab intro securing compute engine applications with beyondcorp enterprise secret manager lab intro configuring and using credentials with secret manager review
+discuss application security techniques and best practices see how web security scanner can be used to identify vulnerabilities in your applications and dive into the subject of identity and oauth phishing lastly how identityaware proxy or iap can be used to control access to your cloud applications
+types of application security vulnerabilities web security scanner lab intro identify application vulnerabilities with security command center threat identity and oauth phishing identityaware proxy iap lab intro securing compute engine applications with beyondcorp enterprise secret manager lab intro configuring and using credentials with secret manager review
 
 securing google kubernetes engine techniques and best practices
 protecting workloads in google kubernetes engine involves many layers of the stack including the contents of your container image the container runtime the cluster network and access to the cluster api server how to securely set up your authentication and authorization how to harden your clusters secure your workloads and monitor everything to make sure it stays in good health
-overview introduction to kubernetesgke authentication and authorization hardening your clusters securing your workloads monitoring and logging review
+introduction to kubernetesgke authentication and authorization hardening your clusters securing your workloads monitoring and logging review
 </DOC>
 
 <DOC>
@@ -94,18 +99,18 @@ mitigating security vulnerabilities on google cloud
 selfpaced training participants mitigations for attacks at many points in a google cloudbased infrastructure including distributed denialofservice attacks phishing attacks and threats involving content classification and use they also about the security command center cloud logging and audit logging and using forseti to view overall compliance with your organizations security policies
 
 welcome to mitigating security vulnerabilities on google cloud
-welcome to mitigating security vulnerabilities on google cloud we will build upon the foundations laid during the earlier courses series section expect to more about security tools available to you when using google cloud and how to use them to lower the risk of malicious attacks against your systems software and data
+welcome to mitigating security vulnerabilities on google cloud build upon the foundations laid during the earlier courses series section expect to more about security tools available to you when using google cloud and how to use them to lower the risk of malicious attacks against your systems software and data
 
 protecting against distributed denial of service attacks ddos
-distributed denial of service attacks are a major concern today and can have a huge impact on businesses if the business is not adequately prepared we will begin with a quick discussion on how ddos attacks and then review some ddos mitigation techniques that are provided by google cloud we will finish up with a review of complementary partner products and a lab where get a chance to see some ddos mitigations in action
-overview how ddos attacks ddos mitigation and prevention on google cloud using google cloud armor types of complementary partner products lab intro configuring traffic blocklisting with google cloud armor getting started with google cloud and qwiklabs review
+distributed denial of service attacks are a major concern today and can have a huge impact on businesses if the business is not adequately prepared begin with a quick discussion on how ddos attacks and then review some ddos mitigation techniques that are provided by google cloud finish up with a review of complementary partner products and a lab where get a chance to see some ddos mitigations in action
+how ddos attacks ddos mitigation and prevention on google cloud using google cloud armor types of complementary partner products lab intro configuring traffic blocklisting with google cloud armor getting started with google cloud and qwiklabs review
 
 contentrelated vulnerabilities techniques and best practices
-we will discuss threats to your content first we review the threat of ransomware and some of the mitigations you can utilize in google cloud to help protect your systems from it then we will move to a discussion of threats related to data misuse and privacy violations and discuss a few mitigation strategies that can be utilized to protect applications and systems
-overview threat ransomware ransomware mitigations threats data misuse privacy violations sensitive content contentrelated mitigation lab intro redacting sensitive data with the dlp api review
+discuss threats to your content first we review the threat of ransomware and some of the mitigations you can utilize in google cloud to help protect your systems from it then move to a discussion of threats related to data misuse and privacy violations and discuss a few mitigation strategies that can be utilized to protect applications and systems
+threat ransomware ransomware mitigations threats data misuse privacy violations sensitive content contentrelated mitigation lab intro redacting sensitive data with the dlp api review
 
 monitoring logging auditing and scanning
-collecting processing aggregating and displaying realtime quantitative data is helpful in supplying raw input into business analytics and in facilitating analysis of security breaches google cloud provides many services and features to help with this and that is what this is all aboutin this we will investigate cloud monitoring and cloud logging cloud audit logs and then discuss how to leverage forseti security to systematically monitor your google cloud resources
-overview security command center tiers and pricing demo using security command center cloud monitoring and cloud logging lab intro configuring and using cloud logging and cloud monitoring cloud audit logs lab intro configuring and viewing cloud audit logs cloud security automation review
+collecting processing aggregating and displaying realtime quantitative data is helpful in supplying raw input into business analytics and in facilitating analysis of security breaches google cloud provides many services and features to help with this and that is what this is all aboutin this investigate cloud monitoring and cloud logging cloud audit logs and then discuss how to leverage forseti security to systematically monitor your google cloud resources
+security command center tiers and pricing demo using security command center cloud monitoring and cloud logging lab intro configuring and using cloud logging and cloud monitoring cloud audit logs lab intro configuring and viewing cloud audit logs cloud security automation review
 </DOC>
 

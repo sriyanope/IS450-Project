@@ -1,11 +1,19 @@
 <DOC>
 ibm zos mainframe practitioner
-this is intended to provide the foundational required to launch a in the enterprise platform that powers over of worldwide transactions companies around the world are searching for these to run their critical system workloads series of courses the learner will be introduced to various operating systems mainframe applications and get realtime handson on an ibm z server the acquired on completion of this allows the learner to pursue a as a mainframe application developer system programmer system administrator or a dba practitioner there are three courses please be sure to complete all three in order to maximise your time and effortcourse introduction to enterprise computing getting started on mainframe with zos commands and panels basic system programming on ibm z on successful completion of this the learners will be eligible to claim the ibm zos mainframe practitioner badge more information can be found here opens in a new tabapplied projectthis is intended to kickoff your in the enterprise platform that powers over of world wide transactions learners will build complete foundational in ibm z hardware and software especially around zos and system administration this includes handson labs on a real ibm z server no simulations giving the learner real world
+this is intended to provide the foundational required to launch a in the enterprise platform that powers over of worldwide transactions companies around the world are searching for these to run their critical system workloads series of courses the learner will be introduced to various operating systems mainframe applications and get realtime handson on an ibm z server the acquired on completion of this allows the learner to pursue a as a mainframe application developer system programmer system administrator or a dba practitioner
+there are three courses please be sure to complete all three in order to maximise your time and effort
+introduction to enterprise computing
+getting started on mainframe with zos commands and panels
+basic system programming on ibm z
+on successful completion of this the learners will be eligible to claim the ibm zos mainframe practitioner badge more information can be found here opens in a new tab
+
+this is intended to kickoff your in the enterprise platform that powers over of world wide transactions learners will build complete foundational in ibm z hardware and software especially around zos and system administration this includes handson labs on a real ibm z server no simulations giving the learner real world
 </DOC>
 
 <DOC>
 introduction to enterprise computing
-large scale enterprise computing powers all major transactions and the mainframe is responsible for of all credit card transactions and enables of all fortune companies mainframes are fundamental on how we do business and ibm z is the only production mainframe sold today virtually everyone depends on it this is your introduction to the hardware operating systems security and features that make this possibleon successful completion of this learners are eligible to earn their introduction to enterprise computing badge more information can be found here httpswwwyouracclaimcomorgibmbadgeintroductiontoenterprisecomputing
+large scale enterprise computing powers all major transactions and the mainframe is responsible for of all credit card transactions and enables of all fortune companies mainframes are fundamental on how we do business and ibm z is the only production mainframe sold today virtually everyone depends on it this is your introduction to the hardware operating systems security and features that make this possible
+on successful completion of this learners are eligible to earn their introduction to enterprise computing badge more information can be found here httpswwwyouracclaimcomorgibmbadgeintroductiontoenterprisecomputing
 
 introduction to the mainframe environment
 reading
@@ -22,7 +30,8 @@ zos security security addendum transaction level security crypto express key man
 
 <DOC>
 getting started on mainframe with zos commands and panels
-getting started with the ibm mainframe with zos commands and panels is a mostly handson in an ibm mainframe zos environment a total of seven labs will provide live access to an ibm z server the labs are designed to teach you the fundamental practical to navigate and in a zos environment this includes the use of ispfpdf dialogs and tsoe commands on successful completion of this the learners are eligible to claim the getting started on mainframe with zos commands and panels badge more information can be found here httpswwwyouracclaimcomorgibmbadgegettingstartedonmainframewithzoscommandsandpanels
+getting started with the ibm mainframe with zos commands and panels is a mostly handson in an ibm mainframe zos environment a total of seven labs will provide live access to an ibm z server the labs are designed to teach you the fundamental practical to navigate and in a zos environment this includes the use of ispfpdf dialogs and tsoe commands
+on successful completion of this the learners are eligible to claim the getting started on mainframe with zos commands and panels badge more information can be found here httpswwwyouracclaimcomorgibmbadgegettingstartedonmainframewithzoscommandsandpanels
 
 introduction to commands and panels
 plugins
@@ -39,7 +48,8 @@ tso commands part tso commands part exercise introduction
 
 <DOC>
 basic system programming on ibm z
-the foundational knowledge for the position of an ibm zos system programmer and system administrator begins with this third and final in the three track this provides handson labs to everyday zos tasks with jcl jes ishell and hfs and zosmf topics covered include vsam zos system libraries the language environment generation data groups raim db unix system services and uss file systemon successful completion of this the learners are eligible to claim the basic system programming on ibm z badge more information can be found here httpswwwyouracclaimcomorgibmbadgebasicsystemprogrammingonibmz
+the foundational knowledge for the position of an ibm zos system programmer and system administrator begins with this third and final in the three track this provides handson labs to everyday zos tasks with jcl jes ishell and hfs and zosmf topics covered include vsam zos system libraries the language environment generation data groups raim db unix system services and uss file system
+on successful completion of this the learners are eligible to claim the basic system programming on ibm z badge more information can be found here httpswwwyouracclaimcomorgibmbadgebasicsystemprogrammingonibmz
 
 introduction to jes and jcl
 plugins

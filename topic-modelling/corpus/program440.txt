@@ -1,6 +1,12 @@
 <DOC>
 preparing for google cloud certification cloud architect
-google cloud cloud architect certification was ranked on global knowledges list of toppaying certifications in opens in a new tab enroll now to preparethis provides the you need to advance your in cloud architecture and provides a pathway to earn the industryrecognized google cloud cloud architect certification deploy solution elements including infrastructure components such as networks systems and applications services and gain real world through handson qwiklabs that you can share with potential employersyoull also have the to practice key job including case analysis identifying technical watchpoints and developing proposed solutions test your basic abilities with activity tracking challenge labs for learners looking to get certified this will provide sample questions similar to those on the exam including solutions and practice exam quizzes that simulate the examtaking experienceupon successful completion of this earn a of completion to share with your network and potential employers if youd like to earn your google cloud certification need to register for and pass the certification exam please note that this helps equip you with the you need to take the certification exam but the certification and certification fee is not included in the cost of this training programapplied projectthis incorporates handson labs using our qwiklabs platformthese hands on components will let you apply the you in the lectures will incorporate topics such as google cloud platform products which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the
+google cloud cloud architect certification was ranked on global knowledges list of toppaying certifications in opens in a new tab enroll now to prepare
+this provides the you need to advance your in cloud architecture and provides a pathway to earn the industryrecognized google cloud cloud architect certification deploy solution elements including infrastructure components such as networks systems and applications services and gain real world through handson qwiklabs projects that you can share with potential employers
+also have the to practice key job including case analysis identifying technical watchpoints and developing proposed solutions test your basic abilities with activity tracking challenge labs for learners looking to get certified this will provide sample questions similar to those on the exam including solutions and practice exam quizzes that simulate the examtaking
+upon successful completion of this earn a of completion to share with your network and potential employers if youd like to earn your google cloud certification need to register for and pass the certification exam please note that this helps equip you with the you need to take the certification exam but the certification and certification fee is not included in the cost of this training
+
+this incorporates handson labs using our qwiklabs platform
+these hands on components will let you apply the you in the lectures projects will incorporate topics such as google cloud platform products which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the
 </DOC>
 
 <DOC>
@@ -14,22 +20,22 @@ introduction activity intro defining your case study activity review defining yo
 
 <DOC>
 essential google cloud infrastructure foundation
-this accelerated ondemand introduces participants to the comprehensive and flexible infrastructure and platform services provided by google cloud with a focus on compute engine through a combination of lectures demos and handson labs participants explore and deploy solution elements including infrastructure components such as networks virtual machines and applications services how to use the google cloud through the console and cloud shell also about the role of a cloud architect approaches to infrastructure design and virtual networking configuration with virtual private cloud vpc networks subnetworks ip addresses routes and firewall rules
+this accelerated ondemand introduces participants to the comprehensive and flexible infrastructure and platform services provided by google cloud with a focus on compute engine through a combination of lectures demos and handson labs participants explore and deploy solution elements including infrastructure components such as networks virtual machines and applications services how to use the google cloud through the console and cloud shell also about the role of a cloud architect approaches to infrastructure design and virtual networking configuration with virtual private cloud vpc projects networks subnetworks ip addresses routes and firewall rules
 
 introduction
 introduction to the
 
 interacting with google cloud
-overview of google cloud
-overview using google cloud lab intro working with the google cloud console and cloud shell getting started with google cloud platform and qwiklabs lab review working with the google cloud console and cloud shell lab intro infrastructure preview lab review infrastructure preview demo review
+of google cloud
+using google cloud lab intro working with the google cloud console and cloud shell getting started with google cloud platform and qwiklabs lab review working with the google cloud console and cloud shell lab intro infrastructure preview lab review infrastructure preview demo projects review
 
 virtual networks
 create vpc networks and other networking objects
-overview virtual private cloud networks and subnetworks demo expand a subnet ip addresses demo internal and external ip mapping ip addresses routes and firewall rules pricing lab intro vpc networking lab review vpc networking common network designs lab intro implement private google access and cloud nat lab review implement private google access and cloud nat review
+virtual private cloud projects networks and subnetworks demo expand a subnet ip addresses demo internal and external ip mapping ip addresses routes and firewall rules pricing lab intro vpc networking lab review vpc networking common network designs lab intro implement private google access and cloud nat lab review implement private google access and cloud nat review
 
 virtual machines
 create virtual machines using compute engine
-overview compute engine demo create a vm vm access and lifecycle lab intro creating virtual machines lab review creating virtual machines compute options compute pricing special compute configurations images disk options common compute engine actions lab intro working with virtual machines lab review working with virtual machines review review
+compute engine demo create a vm vm access and lifecycle lab intro creating virtual machines lab review creating virtual machines compute options compute pricing special compute configurations images disk options common compute engine actions lab intro working with virtual machines lab review working with virtual machines review review
 </DOC>
 
 <DOC>
@@ -41,19 +47,19 @@ we introduce the architecting with google compute engine series this series is d
 
 interconnecting networks
 connect your infrastructure to google cloud
-overview cloud vpn lab intro configuring google cloud ha vpn coursera getting started with google cloud and qwiklabs cloud interconnect and peering cloud interconnect peering choosing a connection shared vpc and vpc peering review
+cloud vpn lab intro configuring google cloud ha vpn coursera getting started with google cloud and qwiklabs cloud interconnect and peering cloud interconnect peering choosing a connection shared vpc and vpc peering review
 
 load balancing and autoscaling
 configure load balancers and autoscaling for vm instances
-overview managed instance groups autoscaling and health checks overview of https load balancing example http load balancer https load balancing lab intro configuring an http load balancer with autoscaling lab review configuring an http load balancer with autoscaling cloud cdn ssl proxy load balancing tcp proxy load balancing network load balancing internal load balancing lab intro configuring an internal load balancer lab review configuring an internal load balancer choosing a load balancer review
+managed instance groups autoscaling and health checks of https load balancing example http load balancer https load balancing lab intro configuring an http load balancer with autoscaling lab review configuring an http load balancer with autoscaling cloud cdn ssl proxy load balancing tcp proxy load balancing network load balancing internal load balancing lab intro configuring an internal load balancer lab review configuring an internal load balancer choosing a load balancer review
 
 infrastructure automation
 automate the deployment of google cloud infrastructure services
-overview terraform lab intro automating the deployment of infrastructure using terraform lab review automating the deployment of networks using terraform google cloud marketplace demo launch infrastructure solutions on google cloud marketplace review
+terraform lab intro automating the deployment of infrastructure using terraform lab review automating the deployment of networks using terraform google cloud marketplace demo launch infrastructure solutions on google cloud marketplace review
 
 managed services
 leverage managed services in google cloud
-overview bigquery dataflow dataprep dataproc demo dataproc review series review
+bigquery dataflow dataprep dataproc demo dataproc review series review
 </DOC>
 
 <DOC>
@@ -65,19 +71,19 @@ we introduce the architecting with google compute engine series this series is d
 
 identity and access management iam
 administer identity and access management for resources
-overview identity and access management organization roles demo custom roles members service accounts organization restrictions iam best practices lab intro exploring iam getting started with google cloud platform and qwiklabs lab review exploring iam review
+identity and access management organization roles demo custom roles members service accounts organization restrictions iam best practices lab intro exploring iam getting started with google cloud platform and qwiklabs lab review exploring iam review
 
 storage and database services
 implement data storage services in google cloud
-overview cloud storage cloud storage features choosing a storage class filestore lab intro cloud storage lab review cloud storage cloud sql lab intro cloud sql lab review cloud sql cloud spanner alloydb firestore cloud bigtable memorystore review
+cloud storage cloud storage features choosing a storage class filestore lab intro cloud storage lab review cloud storage cloud sql lab intro cloud sql lab review cloud sql cloud spanner alloydb firestore cloud bigtable memorystore review
 
 resource management
 manage and examine billing of google cloud resources
-overview resource manager quotas labels billing demo billing administration lab intro examining billing data with bigquery lab review examining billing data with bigquery review
+resource manager quotas labels billing demo billing administration lab intro examining billing data with bigquery lab review examining billing data with bigquery review
 
 resource monitoring
 monitor resources using google clouds operations suite
-overview google clouds operations suite overview monitoring lab intro resource monitoring lab review resource monitoring logging error reporting tracing profiling partner integrations review review
+google clouds operations suite monitoring lab intro resource monitoring lab review resource monitoring logging error reporting tracing profiling partner integrations review review
 
 resources
 pdf links to all
@@ -88,14 +94,14 @@ google cloud fundamentals core infrastructure
 google cloud fundamentals core infrastructure introduces important concepts and terminology for working with google cloud through and handson labs this presents and compares many of google clouds computing and storage services along with important resource and policy management tools
 
 introduction
-this section welcomes learners to the google cloud fundamentals core infrastructure and provides an overview of the structure and goals
+this section welcomes learners to the google cloud fundamentals core infrastructure and provides an of the structure and goals
 
 introducing google cloud
 this section identifies some of the key benefits of using google cloud its here that we introduce the components of the google network infrastructure and explore the differences between infrastructure as a service iaas and platform as a service paas
-cloud computing overview iaas and paas the google cloud network environmental impact security open source ecosystems pricing and billing
+cloud computing iaas and paas the google cloud network environmental impact security open source ecosystems pricing and billing
 
 resources and access in the cloud
-this section explores how resources get organized with and how access to those resources gets shared with the right part of a workforce through a tool called identity and access management iam its also section that we identify different ways to interact with google cloud
+this section explores how resources get organized with projects and how access to those resources gets shared with the right part of a workforce through a tool called identity and access management iam its also section that we identify different ways to interact with google cloud
 google cloud resource hierarchy identity and access management iam service accounts cloud identity interacting with google cloud coursera getting started with google cloud platform and qwiklabs
 
 virtual machines and networks in the cloud
@@ -111,14 +117,14 @@ this section of the explores containers and how they can be managed with kuberne
 introduction to containers kubernetes google kubernetes engine
 
 applications in the cloud
-the focus of this section of the is developing applications in the cloud its here that well explore cloud run and cloud functions
+the focus of this section of the is developing applications in the cloud its here that explore cloud run and cloud functions
 cloud run development in the cloud
 
 prompt engineering
-this section looks at generative ai tools how they well explore how to combine google cloud knowledge with prompt engineering to improve gemini responses
+this section looks at generative ai tools how they explore how to combine google cloud knowledge with prompt engineering to improve gemini responses
 
 
-final section we review what was presented and discuss the next steps to continue your cloud journey
+final section we review what was presented and discuss the next steps to continue your cloud learning journey
 </DOC>
 
 <DOC>
@@ -127,30 +133,30 @@ this helps learners create a study plan for the pca cloud architect certificatio
 
 introduction to cloud architect certification
 welcome to preparing for the cloud architect journey
-overview introduction to the cloud architect role certification value and benefits certification process creating your study plan
+introduction to the cloud architect role certification value and benefits certification process creating your study plan
 
 designing and planning a cloud solution architecture
 defining initial technical and business design considerations for cymbals migration to a cloud solution
-overview designing cymbal directs cloud architecture introduction diagnostic questions for diagnostic questions practice demo your study plan
+designing cymbal directs cloud architecture introduction diagnostic questions for diagnostic questions practice demo your study plan
 
 managing and provisioning a solution infrastructure
 provisioning and deploying the cloud solution per cymbals requirements
-overview provisioning a cloud solution to meet cymbal directs requirements introduction diagnostic questions for your study plan
+provisioning a cloud solution to meet cymbal directs requirements introduction diagnostic questions for your study plan
 
 designing for security and compliance
 identifying the security and compliance considerations pertinent to cymbals cloud solution
-overview designing for security and compliance with cymbal directs cloud solution introduction diagnostic questions for your study plan
+designing for security and compliance with cymbal directs cloud solution introduction diagnostic questions for your study plan
 
 analyzing and optimizing technical and business processes
 analyze costs kpis etc and identify for optimization
-overview optimizing cymbal directs technical and business processes and procedures for the cloud introduction diagnostic questions for your study plan
+optimizing cymbal directs technical and business processes and procedures for the cloud introduction diagnostic questions for your study plan
 
 managing implementation and ensuring solution and operations reliability
 how the pca helps establish best practices for cymbals solution deployment and ongoing operations
-overview implementation operations and reliability at cymbal direct introduction diagnostic questions for your study plan
+implementation operations and reliability at cymbal direct introduction diagnostic questions for your study plan
 
 case study preparation and your next steps
 finish creating your study plan
-overview analyzing a case study dresswin understand overarching goals identify and itemize objectives categorize and prioritize objectives analyze and determine preliminary options refine options identify solution weekly study goals
+analyzing a case study dresswin understand overarching goals identify and itemize objectives categorize and prioritize objectives analyze and determine preliminary options refine options identify solution weekly study goals
 </DOC>
 

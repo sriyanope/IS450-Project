@@ -1,6 +1,10 @@
 <DOC>
 mastering software development in r
-r is a programming language and a free software environment for statistical computing and graphics widely used by data analysts data scientists and statisticians this covers r software development for building data science tools as the field of data science evolves it has become clear that software development are essential for producing and scaling useful data science results and products this will give you rigorous training in the r language including the for handling complex data building r packages and developing custom data visualizations be introduced to indispensable r libraries for data manipulation like tidyverse and data visualization and graphics like ggplot modern software development practices to build tools that are highly reusable modular and suitable for use in a teambased environment or a community of developers this is designed to serve both data analysts who may want to gain more familiarity with handson fundamental software for their everyday as well as data mining experts and data scientists who may want to use r to scale their developing and programming and further their careers as data science expertsapplied projectin each of the courses learners will deploy their newly acquired advanced r language to manipulate complex datasets write powerful functions create a new r package and develop new visualization tools for building custom data graphics these will result in a portfolio of r code that can be reused and built upon for deployment in the real world
+r is a programming language and a free software environment for statistical computing and graphics widely used by data analysts data scientists and statisticians this covers r software development for building data science tools as the field of data science evolves it has become clear that software development are essential for producing and scaling useful data science results and products
+this will give you rigorous training in the r language including the for handling complex data building r packages and developing custom data visualizations be introduced to indispensable r libraries for data manipulation like tidyverse and data visualization and graphics like ggplot modern software development practices to build tools that are highly reusable modular and suitable for use in a teambased environment or a community of developers
+this is designed to serve both data analysts who may want to gain more familiarity with handson fundamental software for their everyday as as data mining experts and data scientists who may want to use r to scale their developing and programming and further their careers as data science experts
+
+in each of the courses learners will deploy their newly acquired advanced r language to manipulate complex datasets write powerful functions create a new r package and develop new visualization tools for building custom data graphics these projects will result in a portfolio of r code that can be reused and built upon for deployment in the real world
 </DOC>
 
 <DOC>
@@ -43,7 +47,7 @@ text processing regular expression physical memory lesson choices
 choice get credit while using swirl choice get credit by providing a code from swirl
 
 large datasets
-final how to overcome the challenges of working with large datasets both in memory and out as well as how to diagnose problems and find help
+final how to overcome the challenges of working with large datasets both in memory and out as as how to diagnose problems and find help
 </DOC>
 
 <DOC>
@@ -51,13 +55,13 @@ building data visualization tools
 the data science revolution has produced reams of new data from a wide variety of new sources these new datasets are being used to answer new questions in way never before conceived visualization remains one of the most powerful ways draw conclusions from data but the influx of new data types requires the development of new visualization techniques and building blocks this provides you with the for creating those new visualization building blocks we focus on the ggplot framework and describe how to use and extend the system to suit the specific needs of your organization or team upon completing this learners will be able to build the tools needed to visualize a wide variety of data types and will have the fundamentals needed to address new data types as they come about
 
 welcome to building data visualization tools
-before we get started well take a quick overview of the
+before we get started take a quick of the
 
 plotting with ggplot
-now well dive into creating and customizing ggplot plots
+now dive into creating and customizing ggplot plots
 
 mapping and interactive plots
-mapping is a critical part of many data visualizations during this well teach you how to create simple and dynamic maps with ggplot and ggmap how to overlay data and how to create chloropleth maps of us counties
+mapping is a critical part of many data visualizations during this teach you how to create simple and dynamic maps with ggplot and ggmap how to overlay data and how to create chloropleth maps of us counties
 
 the grid package
 the grid package in r implements the primitive graphical functions that underly the ggplot plotting system how to with grid to build graphics
@@ -71,7 +75,7 @@ mastering software development in r capstone
 r programming capstone
 
 obtain and clean the data
-the overall goal of the capstone is to integrate the you have developed over the courses and to build a software package that can be used to with the noaa significant earthquakes dataset
+the overall goal of the capstone project is to integrate the you have developed over the courses and to build a software package that can be used to with the noaa significant earthquakes dataset
 
 building geoms
 show us when earthquakes occurred in different countries their magnitude and their toll on human life
@@ -80,7 +84,7 @@ building a leaflet map
 show and annotate the earthquake epicenters
 
 documentation and packaging
-documentation is one of the most important and most commonly overlooked steps when writing software but youre not going to let that happen in your
+documentation is one of the most important and most commonly overlooked steps when writing software but youre not going to let that happen in your project
 
 deployment
 the moment of truth its time to push your package to github
@@ -112,6 +116,6 @@ debugging and profiling
 debugging tools are useful for analyzing your code when it exhibits unexpected behavior we go through the various debugging tools in r and how they can be used to identify problems in code profiling tools allow you to see where your code spends its time and to optimize your code for maximum efficiency
 
 objectoriented programming
-object oriented programming allows you to define custom data types or classes and a set of functions for handling that data type in a way that you define r has a three different methods for implementing object oriented programming and we will cover them section
+object oriented programming allows you to define custom data types or classes and a set of functions for handling that data type in a way that you define r has a three different methods for implementing object oriented programming and cover them section
 </DOC>
 

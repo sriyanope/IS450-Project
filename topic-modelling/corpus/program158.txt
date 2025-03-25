@@ -1,47 +1,52 @@
 <DOC>
 functional programming in scala
-this provides a handson introduction to functional programming using the widespread programming language scala it begins from the basic building blocks of the functional paradigm first showing how to use these blocks to solve small problems before building up to combining these concepts to architect larger functional programs see how the functional paradigm facilitates parallel and distributed programming and through a series of hands on examples and programming how to analyze data sets small to large from parallel programming on multicore architectures to distributed programming on a cluster using apache spark a final capstone will allow you to apply the you learned by building a large dataintensive application using realworld dataapplied projectlearners will build small to medium size scala applications by applying knowledge and including functional programming parallel programming manipulation of large data sets higherorder functions propertybased testing functional reactive programming
+this provides a handson introduction to functional programming using the widespread programming language scala it begins from the basic building blocks of the functional paradigm first showing how to use these blocks to solve small problems before building up to combining these concepts to architect larger functional programs see how the functional paradigm facilitates parallel and distributed programming and through a series of hands on examples and programming how to analyze data sets small to large
+from parallel programming on multicore architectures to distributed programming on a cluster using apache spark a final capstone project will allow you to apply the you learned by building a large dataintensive application using realworld data
+
+learners will build small to medium size scala applications by applying knowledge and including functional programming parallel programming manipulation of large data sets higherorder functions propertybased testing functional reactive programming
 </DOC>
 
 <DOC>
 functional design in scala
-how to apply the functional programming style in the design of larger scala applications get to know important new functional programming concepts from lazy evaluation to structuring your libraries using monads well on larger and more involved examples from state space exploration to random testing to discrete circuit simulators also some best practices on how to write good scala code in the real world finally how to leverage the ability of the compiler to infer values from typesseveral parts of this deal with the question how functional programming interacts with mutable state we will explore the consequences of combining functions and state we will also look at purely functional alternatives to mutable state using infinite data structures or functional reactive programming recommended background you should have at least one year programming proficiency with java or c is ideal but with other languages such as cc python javascript or ruby is also sufficient you should have some familiarity with using the command line this is intended to be taken after functional programming principles in scala httpswwwcourseraorglearnprogfun
+how to apply the functional programming style in the design of larger scala applications get to know important new functional programming concepts from lazy evaluation to structuring your libraries using monads on larger and more involved examples from state space exploration to random testing to discrete circuit simulators also some best practices on how to write good scala code in the real world finally how to leverage the ability of the compiler to infer values from types
+several parts of this deal with the question how functional programming interacts with mutable state explore the consequences of combining functions and state also look at purely functional alternatives to mutable state using infinite data structures or functional reactive programming recommended background you should have at least one year programming proficiency with java or c is ideal but with other languages such as cc python javascript or ruby is also sufficient you should have some familiarity with using the command line this is intended to be taken after functional programming principles in scala httpswwwcourseraorglearnprogfun
 
 for expressions and monads
-well start by revisiting some concepts that we have learned from principles of functional programming in scala collections pattern matching and functions well then touch on forcomprehensions a powerful way in scala to traverse a list process it and return a new list well see how to do queries with forcomprehensions as well as how the forcomprehension is desugared into calls to higherorder functions by the scala compiler finally well discuss what monads are and how to verify that the monad laws are satisfied for a number of examples
+start by revisiting some concepts that we have learned from principles of functional programming in scala collections pattern matching and functions then touch on forcomprehensions a powerful way in scala to traverse a list process it and return a new list see how to do queries with forcomprehensions as as how the forcomprehension is desugared into calls to higherorder functions by the scala compiler finally discuss what monads are and how to verify that the monad laws are satisfied for a number of examples
 introduction introduction recap functions and pattern matching lecture queries with for lecture translation of for lecture functional random generators lecture monads lecture exceptional monads
 
 lazy evaluation
-well revisit performance issues caused by combinatorial search and well discover an important concept in functional programming that can address these issues laziness well also a little bit about proofs on trees in particular well see how to extend structural induction to trees
+revisit performance issues caused by combinatorial search and discover an important concept in functional programming that can address these issues laziness also a little bit about proofs on trees in particular see how to extend structural induction to trees
 intrduction lecture structural induction on trees lecture lazy lists lecture lazy evaluation lecture computing with infinite sequences lecture case study the water pouring problem
 
 typedirected programming
-well how to make the compiler write programs for us well see how the compiler can summon fragments based on their type and how this mechanism can be used to implement a new form of polymorphism type classes
+how to make the compiler write programs for us see how the compiler can summon fragments based on their type and how this mechanism can be used to implement a new form of polymorphism type classes
 introduction lecture contextual abstractions lecture using clauses and given instances lecture type classes lecture abstract algebra and type classes lecture context passing lecture implicit function types
 
 functions and state
-well about state and sideeffects through a rich example well programming patterns for managing state in larger programs well also about forloops and whileloops in scala
+about state and sideeffects through a rich example programming patterns for managing state in larger programs also about forloops and whileloops in scala
 introduction lecture functions and state lecture identity and change lecture loops lecture extended example discrete event simulation
 
 timely effects
-well a number of important programming patterns via examples starting with the observer pattern and then going on to functional reactive programming
+a number of important programming patterns via examples starting with the observer pattern and then going on to functional reactive programming
 introduction lecture imperative event handling the observer pattern lecture functional reactive programming lecture a simple frp implementation conclusion conclusion
 </DOC>
 
 <DOC>
 parallel programming
-with every smartphone and computer now boasting multiple processors the use of functional ideas to facilitate parallel programming is becoming increasingly widespread the fundamentals of parallel programming from task parallelism to data parallelism in particular see how many familiar ideas from functional programming map perfectly to to the data parallel paradigm well start the nuts and bolts how to effectively parallelize familiar collections operations and well build up to parallel collections a productionready data parallel collections library available in the scala standard library throughout well apply these concepts through several handson examples that analyze realworld data such as popular algorithms like kmeans clusteringlearning by the end of this be able to reason about task and data parallel programs express common algorithms in a functional style and solve them in parallel competently microbenchmark parallel code write programs that effectively use parallel collections to achieve performance recommended background you should have at least one year programming proficiency with java or c is ideal but with other languages such as cc python javascript or ruby is also sufficient you should have some familiarity using the command line this is intended to be taken after functional design in scala httpswwwcourseraorglearnprogfun
+with every smartphone and computer now boasting multiple processors the use of functional ideas to facilitate parallel programming is becoming increasingly widespread the fundamentals of parallel programming from task parallelism to data parallelism in particular see how many familiar ideas from functional programming map perfectly to to the data parallel paradigm start the nuts and bolts how to effectively parallelize familiar collections operations and build up to parallel collections a productionready data parallel collections library available in the scala standard library throughout apply these concepts through several handson examples that analyze realworld data such as popular algorithms like kmeans clustering
+learning by the end of this be able to reason about task and data parallel programs express common algorithms in a functional style and solve them in parallel competently microbenchmark parallel code write programs that effectively use parallel collections to achieve performance recommended background you should have at least one year programming proficiency with java or c is ideal but with other languages such as cc python javascript or ruby is also sufficient you should have some familiarity using the command line this is intended to be taken after functional design in scala httpswwwcourseraorglearnprogfun
 
 parallel programming
-we motivate parallel programming and introduce the basic constructs for building parallel programs on jvm and scala examples such as array norm and monte carlo computations illustrate these concepts we show how to estimate and depth of parallel programs as well as how to benchmark the implementations
-overview introduction to parallel computing parallelism on the jvm i parallelism on the jvm ii running computations in parallel monte carlo method to estimate pi firstclass tasks how fast are parallel programs benchmarking parallel programs
+we motivate parallel programming and introduce the basic constructs for building parallel programs on jvm and scala examples such as array norm and monte carlo computations illustrate these concepts we show how to estimate and depth of parallel programs as as how to benchmark the implementations
+introduction to parallel computing parallelism on the jvm i parallelism on the jvm ii running computations in parallel monte carlo method to estimate pi firstclass tasks how fast are parallel programs benchmarking parallel programs
 
 basic task parallel algorithms
 we continue with examples of parallel algorithms by presenting a parallel merge sort we then explain how operations such as map reduce and scan can be computed in parallel we present associativity as the key condition enabling parallel implementation of reduce and scan
 parallel sorting data operations and parallel mapping parallel fold reduce operation associativity i associativity ii parallel scan prefix sum operation
 
 dataparallelism
-we show how data parallel operations enable the development of elegant dataparallel code in scala we give an overview of the parallel collections hierarchy including the traits of splitters and combiners that complement iterators and builders from the sequential case
+we show how data parallel operations enable the development of elegant dataparallel code in scala we give an of the parallel collections hierarchy including the traits of splitters and combiners that complement iterators and builders from the sequential case
 dataparallel programming dataparallel operations i dataparallel operations ii scala parallel collections splitters and combiners
 
 data structures for parallel computing
@@ -51,43 +56,46 @@ implementing combiners parallel twophase construction conctree data structure am
 
 <DOC>
 big data analysis with scala and spark
-manipulating big data distributed over a cluster using functional concepts is rampant in industry and is arguably one of the first widespread industrial uses of functional ideas this is evidenced by the popularity of mapreduce and hadoop and most recently apache spark a fast inmemory distributed collections framework written in scala well see how the data parallel paradigm can be extended to the distributed case using spark throughout well cover sparks programming model in detail being careful to understand how and when it differs from familiar programming models like sharedmemory parallel collections or sequential scala collections through handson examples in spark and scala well when important issues related to distribution like latency and network communication should be considered and how they can be addressed effectively for improved performancelearning by the end of this be able to read data from persistent storage and load it into apache spark manipulate data with spark and scala express algorithms for data analysis in a functional style recognize how to avoid shuffles and recomputation in spark recommended background you should have at least one year programming proficiency with java or c is ideal but with other languages such as cc python javascript or ruby is also sufficient you should have some familiarity using the command line this is intended to be taken after parallel programming httpswwwcourseraorglearnparprog
+manipulating big data distributed over a cluster using functional concepts is rampant in industry and is arguably one of the first widespread industrial uses of functional ideas this is evidenced by the popularity of mapreduce and hadoop and most recently apache spark a fast inmemory distributed collections framework written in scala see how the data parallel paradigm can be extended to the distributed case using spark throughout cover sparks programming model in detail being careful to understand how and when it differs from familiar programming models like sharedmemory parallel collections or sequential scala collections through handson examples in spark and scala when important issues related to distribution like latency and network communication should be considered and how they can be addressed effectively for improved performance
+learning by the end of this be able to read data from persistent storage and load it into apache spark manipulate data with spark and scala express algorithms for data analysis in a functional style recognize how to avoid shuffles and recomputation in spark recommended background you should have at least one year programming proficiency with java or c is ideal but with other languages such as cc python javascript or ruby is also sufficient you should have some familiarity using the command line this is intended to be taken after parallel programming httpswwwcourseraorglearnparprog
 
 getting started spark basics
-get up and running with scala on your computer complete an example to familiarize yourself with our unique way of submitting well bridge the gap between data parallelism in the shared memory scenario learned in the parallel programming prerequisite and the distributed scenario well look at important concerns that arise in distributed systems like latency and failure well go on to cover the basics of spark a functionallyoriented framework for big data processing in scala well end the first by exercising what we learned about spark by immediately getting our hands dirty analyzing a realworld data set
+get up and running with scala on your computer complete an example to familiarize yourself with our unique way of submitting bridge the gap between data parallelism in the shared memory scenario learned in the parallel programming prerequisite and the distributed scenario look at important concerns that arise in distributed systems like latency and failure go on to cover the basics of spark a functionallyoriented framework for big data processing in scala end the first by exercising what we learned about spark by immediately getting our hands dirty analyzing a realworld data set
 introduction logistics what dataparallel to distributed dataparallel latency rdds sparks distributed collection rdds transformation and actions evaluation in spark unlike scala collections cluster topology matters
 
 reduction operations distributed keyvalue pairs
-well look at a special kind of rdd called pair rdds with this specialized kind of rdd in hand well cover essential operations on large data sets such as reductions and joins
+look at a special kind of rdd called pair rdds with this specialized kind of rdd in hand cover essential operations on large data sets such as reductions and joins
 reduction operations pair rdds transformations and actions on pair rdds joins
 
 partitioning and shuffling
-well look at some of the performance implications of using operations like joins is it possible to get the same result without having to pay for the overhead of moving data over the network well answer this question by delving into how we can partition our data to achieve better data locality in turn optimizing some of our spark jobs
+look at some of the performance implications of using operations like joins is it possible to get the same result without having to pay for the overhead of moving data over the network answer this question by delving into how we can partition our data to achieve better data locality in turn optimizing some of our spark jobs
 shuffling what it is and why its important partitioning optimizing with partitioners wide vs narrow dependencies
 
 structured data sql dataframes and datasets
-with our newfound understanding of the cost of data movement in a spark job and some optimizing jobs for data locality last well focus on how we can more easily achieve similar optimizations can structured data help us well look at spark sql and its powerful optimizer which uses structure to apply impressive optimizations well move on to cover dataframes and datasets which give us a way to mix rdds with the powerful automatic optimizations behind spark sql
+with our newfound understanding of the cost of data movement in a spark job and some optimizing jobs for data locality last focus on how we can more easily achieve similar optimizations can structured data help us look at spark sql and its powerful optimizer which uses structure to apply impressive optimizations move on to cover dataframes and datasets which give us a way to mix rdds with the powerful automatic optimizations behind spark sql
 structured vs unstructured data spark sql dataframes dataframes datasets
 </DOC>
 
 <DOC>
 functional programming principles in scala
-functional programming is becoming increasingly widespread in industry this trend is driven by the adoption of scala as the main programming language for many applications scala fuses functional and objectoriented programming in a practical package it interoperates seamlessly with both java and javascript scala is the implementation language of many important frameworks including apache spark kafka and akka it provides the core infrastructure for sites such as twitter netflix zalando and also courserain this discover the elements of the functional programming style and how to apply them usefully in your daily programming tasks such as modeling business domains or implementing business logic also develop a solid foundation for reasoning about functional programs by touching upon proofs of invariants and the tracing of execution symbolically the is handson most units introduce short programs that serve as illustrations of important concepts and invite you to play with them modifying and improving them the is complemented by a series of programming as homework recommended background you should have at least one year of programming proficiency with java or c is ideal but with other languages such as cc python javascript or ruby is also sufficient you should have some background in mathematics eg algebra logic proof by induction last you should have some familiarity with using the command line
+functional programming is becoming increasingly widespread in industry this trend is driven by the adoption of scala as the main programming language for many applications scala fuses functional and objectoriented programming in a practical package it interoperates seamlessly with both java and javascript scala is the implementation language of many important frameworks including apache spark kafka and akka it provides the core infrastructure for sites such as twitter netflix zalando and also coursera
+discover the elements of the functional programming style and how to apply them usefully in your daily programming tasks such as modeling business domains or implementing business logic also develop a solid foundation for reasoning about functional programs by touching upon proofs of invariants and the tracing of execution symbolically the is handson
+most units introduce short programs that serve as illustrations of important concepts and invite you to play with them modifying and improving them the is complemented by a series of programming projects as homework recommended background you should have at least one year of programming proficiency with java or c is ideal but with other languages such as cc python javascript or ruby is also sufficient you should have some background in mathematics eg algebra logic proof by induction last you should have some familiarity with using the command line
 
 getting started functions evaluation
-get up and running with scala on your computer complete an example to familiarize yourself with our unique way of submitting well the difference between functional imperative programming we step through the basics of scala covering expressions evaluation conditionals functions and recursion
+get up and running with scala on your computer complete an example to familiarize yourself with our unique way of submitting the difference between functional imperative programming we step through the basics of scala covering expressions evaluation conditionals functions and recursion
 introduction lecture programming paradigms lecture elements of programming lecture evaluation strategies and termination lecture conditionals and value definitions lecture example square roots with newtons method lecture blocks and lexical scope lecture tail recursion
 
 higher order functions
-well about functions as firstclass values and higher order functions well also about scalas syntax and how its formally defined finally well about methods classes and data abstraction through the design of a data structure for rational numbers
+about functions as firstclass values and higher order functions also about scalas syntax and how its formally defined finally about methods classes and data abstraction through the design of a data structure for rational numbers
 introduction lecture higherorder functions lecture currying lecture example finding fixed points lecture scala syntax lecture functions and data lecture more fun with rationals evaluations and operators
 
 data and abstraction
-well cover traits and well how to organize classes into hierarchies well cover the hierarchy of standard scala types and see how to organize classes and traits into packages finally well touch upon the different sorts of polymorphism in scala
+cover traits and how to organize classes into hierarchies cover the hierarchy of standard scala types and see how to organize classes and traits into packages finally touch upon the different sorts of polymorphism in scala
 introduction lecture class hierarchies lecture how classes are organized lecture polymorphism lecture objects everywhere lecture functions as objects
 
 types and pattern matching
-well about the relationship between functions and objects in scala functions are objects well zoom in on scalas type system covering subtyping and generics and moving on to more advanced aspects of scalas type system like variance finally well cover scalas most widely used data structure lists and one of scalas most powerful tools pattern matching
+about the relationship between functions and objects in scala functions are objects zoom in on scalas type system covering subtyping and generics and moving on to more advanced aspects of scalas type system like variance finally cover scalas most widely used data structure lists and one of scalas most powerful tools pattern matching
 introduction lecture decomposition lecture pattern matching lecture lists lecture enums lecture subtyping and generics lecture variance
 
 lists
@@ -95,17 +103,20 @@ we dive into lists the most commonlyused data structure in scala
 introduction lecture a closer look at lists lecture tuples and generic methods lecture higherorder list functions lecture reduction of lists lecture reasoning about lists
 
 collections
-after a deepdive into lists well explore other data structures vectors maps ranges arrays and more well dive into scalas powerful and flexible forcomprehensions for querying data
+after a deepdive into lists explore other data structures vectors maps ranges arrays and more dive into scalas powerful and flexible forcomprehensions for querying data
 introduction lecture other collections lecture combinatorial search and forexpressions lecture combinatorial search example lecture maps lecture putting the pieces together conclusion
 </DOC>
 
 <DOC>
 functional programming in scala capstone
-in the final capstone apply the you learned by building a large dataintensive application using realworld datayou will implement a complete application processing several gigabytes of data this application will show interactive visualizations of the evolution of temperatures over time all over the world the development of such an application will involve transforming data provided by weather stations into meaningful information like for instance the average temperature of each point of the globe over the last ten years then making images from this information by using spatial and linear interpolation techniques finally implementing how the user interface will react to users actions
+in the final capstone project apply the you learned by building a large dataintensive application using realworld data
+implement a complete application processing several gigabytes of data this application will show interactive visualizations of the evolution of temperatures over time all over the world the development of such an application will involve transforming data provided by weather stations into meaningful information like for instance the average temperature of each point of the globe over the last ten years
+then making images from this information by using spatial and linear interpolation techniques
+finally implementing how the user interface will react to users actions
 
-overview
-get an overview of the and all the information to get started transform data provided by weather stations into meaningful information
-overview setup
+project
+get an of the project and all the information to get started transform data provided by weather stations into meaningful information
+project project setup
 
 raw data display
 transform temperature data into images using various interpolation techniques

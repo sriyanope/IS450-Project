@@ -5,21 +5,22 @@ develop knowledge and in the interconnected spheres of business and marketing th
 
 <DOC>
 fundamentals of marketing strategy
-the fundamentals of marketing strategy is very interactive and designed to offer learners the to share ideas and engage in discussions with their fellow students throughout this learners will be given the to explore key and relevant marketing models and concepts in the formulation of effective marketing strategy learners will also engage in research as well as the application of key models and concepts to gain further insights into the implementation of an effective marketing strategy in a competitive business environment at the end of this learners will gain a deeper understanding of the nature of a rather dynamic marketing environment and will have developed new to enable them to conduct audits of the macro and micromarketing environments for an organisation and most importantly be able to design and implement an effective marketing strategy
+the fundamentals of marketing strategy is very interactive and designed to offer learners the to share ideas and engage in discussions with their fellow students throughout this learners will be given the to explore key and relevant marketing models and concepts in the formulation of effective marketing strategy learners will also engage in research as as the application of key models and concepts to gain further insights into the implementation of an effective marketing strategy in a competitive business environment at the end of this learners will gain a deeper understanding of the nature of a rather dynamic marketing environment and will have developed new to enable them to conduct audits of the macro and micromarketing environments for an organisation and most importantly be able to design and implement an effective marketing strategy
 
 the marketing environment audit
-focuses on the marketing environment in particular we will examine its nature and scope including the different elements of the micro and macroenvironments that affect the way businesses operate in order to survive in a dynamic context while simultaneously meeting organisational objectives we will also explore the role of marketers in the marketing strategy development process as well as the challenges faced
+focuses on the marketing environment in particular examine its nature and scope including the different elements of the micro and macroenvironments that affect the way businesses operate in order to survive in a dynamic context while simultaneously meeting organisational objectives also explore the role of marketers in the marketing strategy development process as as the challenges faced
 
 conducting audits of the macro and micromarketing environments for an organisation
-analysing the micro and macroenvironments in which a business operates is an important part of a successful marketing strategy consequently the focus of is the micro and macroenvironments including the conceptual tools used to assess them we will also explore the role played by businesses in the macroenvironment
+analysing the micro and macroenvironments in which a business operates is an important part of a successful marketing strategy consequently the focus of is the micro and macroenvironments including the conceptual tools used to assess them also explore the role played by businesses in the macroenvironment
 
 implementation of an effective marketing strategy
-we will look at the segmentation targeting and positioning stp marketing model which is one of the most frequently applied models in practice stp focuses on commercial effectiveness enabling a business to select the most viable marketing segments before developing a marketing mix and product positioning strategy for them the stp model is useful when creating marketing communications plans since it helps marketers to prioritise propositions and then to develop and deliver personalised and relevant messages to engage with different audiences importantly the stp model helps marketers to evaluate the potential and commercial attractiveness of each segment
+look at the segmentation targeting and positioning stp marketing model which is one of the most frequently applied models in practice stp focuses on commercial effectiveness enabling a business to select the most viable marketing segments before developing a marketing mix and product positioning strategy for them the stp model is useful when creating marketing communications plans since it helps marketers to prioritise propositions and then to develop and deliver personalised and relevant messages to engage with different audiences importantly the stp model helps marketers to evaluate the potential and commercial attractiveness of each segment
 </DOC>
 
 <DOC>
 consumption marketing and culture
-what does it mean to be a consumer in a consumer society mooc we think about marketing in terms of what marketing does rather than how we do it its not just a case of how we buy the products that are sold to us but how we are affected by those products and the services that we encounter this prepares students for a more analytical understanding in the role that marketing activities play in shaping our consumer cultures and lives rather than pose the question of how we can sell more stuff to consumers this asks what does it mean to be regarded as a consumer moment of history
+what does it mean to be a consumer in a consumer society mooc we think about marketing in terms of what marketing does rather than how we do it its not just a case of how we buy the products that are sold to us but how we are affected by those products and the services that we encounter
+this prepares students for a more analytical understanding in the role that marketing activities play in shaping our consumer cultures and lives rather than pose the question of how we can sell more stuff to consumers this asks what does it mean to be regarded as a consumer moment of history
 
 markets ideology and gender
 includes gender ideology and governmentality
@@ -36,10 +37,11 @@ audio interview environment mooc
 
 <DOC>
 operations systems excellence
-the sole task of organisations is to either deliver customers the services that they require or design manufacture and deliver products that customers are after how do firms and organisations manage the very tasks that they carry out how can operations themselves give excellence to organisations to enable them to be competitive operations management is concerned with the design planning and control of operating systems for the provision of goods and services this will provide an introduction not only into the development of operational systems but more importantly into the how operating methods can help achieve corporate excellence
+the sole task of organisations is to either deliver customers the services that they require or design manufacture and deliver products that customers are after how do firms and organisations manage the very tasks that they carry out how can operations themselves give excellence to organisations to enable them to be competitive
+operations management is concerned with the design planning and control of operating systems for the provision of goods and services this will provide an introduction not only into the development of operational systems but more importantly into the how operating methods can help achieve corporate excellence
 
 what is operations excellence
-we will explore and define the meaning of operations management using case studies and introduce some simple tools to help us identify the fundamental types of operations
+explore and define the meaning of operations management using case studies and introduce some simple tools to help us identify the fundamental types of operations
 om in context volume and variety
 
 operations strategy for excellence
@@ -52,14 +54,15 @@ this topic examines the focus of operations on the need to think in terms of pro
 
 <DOC>
 fundamentals of international business
-studying international business is essential for everyone who wants to be a wellrounded modern individual understanding the main features of the international business environment mechanisms of crossborder business activities and motivations to engage in these activities will help you to make sense of contemporary business context and navigate yourself in our complex worldthis mooc provides essential knowledge about international business its key actors and recent trends it combines relevant theoretical frameworks with contemporary business cases and practitioneroriented materials students will be able to familiarise themselves with such concepts as globalization internationalisation multinationals and institutions and see how they relate to each other as well as draw implications to current business practices
+studying international business is essential for everyone who wants to be a wellrounded modern individual understanding the main features of the international business environment mechanisms of crossborder business activities and motivations to engage in these activities will help you to make sense of contemporary business context and navigate yourself in our complex world
+this mooc provides essential knowledge about international business its key actors and recent trends it combines relevant theoretical frameworks with contemporary business cases and practitioneroriented learning materials students will be able to familiarise themselves with such concepts as globalization internationalisation multinationals and institutions and see how they relate to each other as as draw implications to current business practices
 
 globalisation
-introduces the subject of international business the key terms that we will use throughout this mooc and the topics that will be discussed each it also provides an overview of one of the main concepts in international business globalisation
+introduces the subject of international business the key terms that use throughout this mooc and the topics that will be discussed each it also provides an of one of the main concepts in international business globalisation
 welcome to the fundamentals of international business mooc introduction to international business key topics and terms audio international business mariyas story what do we mean by globalisation
 
 internationalisation process
-discusses how and why firms internationalise we will look at one of the main manifestations of globalisation foreign direct investment fdi and compare it with other methods of internationalisation
+discusses how and why firms internationalise look at one of the main manifestations of globalisation foreign direct investment fdi and compare it with other methods of internationalisation
 internationalisation what is it how do firms internationalise
 
 institutions

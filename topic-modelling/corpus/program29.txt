@@ -1,11 +1,18 @@
 <DOC>
 architecting with google kubernetes engine
-the architecting with google kubernetes engine will teach you how to implement solutions using google kubernetes engine or gke including building scheduling load balancing and monitoring workloads as well as providing for discovery of services managing rolebased access control and security and providing persistent storage to these applications applied projectthis incorporates handson labs using our qwiklabs platformthese hands on components will let you apply the you in the lectures will incorporate topics such as google cloud platform products which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the
+the architecting with google kubernetes engine will teach you how to implement solutions using google kubernetes engine or gke including building scheduling load balancing and monitoring workloads as as providing for discovery of services managing rolebased access control and security and providing persistent storage to these applications
+
+
+this incorporates handson labs using our qwiklabs platform
+these hands on components will let you apply the you in the lectures projects will incorporate topics such as google cloud platform products which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the
 </DOC>
 
 <DOC>
 architecting with google kubernetes engine production
-about kubernetes and google kubernetes engine gke security logging and monitoring and using google cloud managed storage and database services from within gkethis is the second of the architecting with google kubernetes engine series after completing this enroll in the reliable google cloud infrastructure design and process or the hybrid cloud infrastructure foundations with anthos
+about kubernetes and google kubernetes engine gke security
+logging and monitoring
+and using google cloud managed storage and database services from within gke
+this is the second of the architecting with google kubernetes engine series after completing this enroll in the reliable google cloud infrastructure design and process or the hybrid cloud infrastructure foundations with anthos
 
 production introduction
 introduction explore the goals and preview each section
@@ -19,7 +26,7 @@ section of the how to monitor and log your kubernetes applications using google 
 introduction google cloud observability cloud logging cloud monitoring inspecting logs with the kubectl command inspecting logs with cloud logging and logging agents
 
 using google cloud managed storage services with google kubernetes engine
-section of the explore the storage and database options available for your kubernetes applications on google cloud compare managed and selfmanaged storage about cloud storage for kubernetes and get an overview of google clouds managed database services then how to securely connect to cloud sql from your gke clusters and gain handson integrating cloud sql with google kubernetes engine
+section of the explore the storage and database options available for your kubernetes applications on google cloud compare managed and selfmanaged storage about cloud storage for kubernetes and get an of google clouds managed database services then how to securely connect to cloud sql from your gke clusters and gain handson integrating cloud sql with google kubernetes engine
 introduction using google cloud services using cloud storage using google cloud databases using cloud sql and sql auth proxy comparing storage options
 
 using cicd with google kubernetes engine
@@ -32,7 +39,8 @@ the closes with a of the key points covered in each section
 
 <DOC>
 getting started with google kubernetes engine
-welcome to the getting started with google kubernetes engine if youre interested in kubernetes a software layer that sits between your applications and your hardware infrastructure then youre in the right place google kubernetes engine brings you kubernetes as a managed service on google cloud the goal of this is to introduce the basics of google kubernetes engine or gke as its commonly referred to and how to get applications containerized and running in google cloud the starts with a basic introduction to google cloud and is then followed by an overview of containers and kubernetes kubernetes architecture and kubernetes operations
+welcome to the getting started with google kubernetes engine if youre interested in kubernetes a software layer that sits between your applications and your hardware infrastructure then youre in the right place google kubernetes engine brings you kubernetes as a managed service on google cloud
+the goal of this is to introduce the basics of google kubernetes engine or gke as its commonly referred to and how to get applications containerized and running in google cloud the starts with a basic introduction to google cloud and is then followed by an of containers and kubernetes kubernetes architecture and kubernetes operations
 
 introduction
 the introduction explains the goals and previews each section
@@ -59,7 +67,8 @@ the recaps the major concepts learners were introduced to during the
 
 <DOC>
 architecting with google kubernetes engine workloads
-in architecting with google kubernetes engine workloads embark on a comprehensive journey into cloudnative application development throughout the explore kubernetes operations deployment management gke networking and persistent storage this is the first of the architecting with google kubernetes engine series after completing this enroll in the architecting with google kubernetes engine production
+in architecting with google kubernetes engine workloads embark on a comprehensive journey into cloudnative application development throughout the learning explore kubernetes operations deployment management gke networking and persistent storage
+this is the first of the architecting with google kubernetes engine series after completing this enroll in the architecting with google kubernetes engine production
 
 workloads introduction
 introduction explore the goals and preview each section
