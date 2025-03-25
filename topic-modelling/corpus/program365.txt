@@ -1,0 +1,115 @@
+<DOC>
+trading strategies in emerging markets
+this equips individual investors and money managers with the required to develop their own trading strategies and test them when you complete the be ready to apply eight readymade trading strategies based on rigorous academic research that have been shown to be also be able to design your own trading strategy back test it and measure its performanceapplied projectin the capstone the learners will be able to design a new trading strategy and evaluate it using the tools learned in the they will also be able to integrate it with the existing portfolio and also develop a plan to start a hedge fund
+</DOC>
+
+<DOC>
+advanced trading algorithms
+this will provide back test results for all the strategies in developed and emerging markets the learner will also be taught scientific ways of back testing without succumbing to either look ahead or survival biasyou will various methods of building a robust back testing system for the strategies discussed in the previous be taught how to differentiate between mere data mining and results based on solid empirical or theoretical foundation next the ways and means of back testing the results and subjecting the back test results to stress tests after which the various ways in which transaction costs and other frictions could be incorporated in the back testing algorithm finally techniques for measuring a strategies performance and the concept of risk adjusted return use some of the famous measures for risk adjusted returns such as sharpe ratio treynors ratio and jensons alpha see how to pick an appropriate benchmark for a proposed fund
+
+strategy accruals
+after completing this be able to understand the basics of accrual build a trading strategy based on accruals and test the strategy that you have built
+accruals introduction accruals calculation accruals ratios accruals strategy
+
+strategy betting against beta
+after completing this be able to understand the basics of beat build a trading strategy based on beta and test the strategy that you have built
+betting against beta introduction betting against beta capm betting against beta strategy
+
+strategy momentum momentum crashes
+after completing this be able to understand the basics of momentum build a trading strategy based on momentum momentum crashes and test the strategies that you have built
+momentum introduction momentum lookback period momentum strategy momentum returns momentum crashes introduction momentum crashes options primer momentum crashes options primer momentum crashes abstract momentum crashes strategy
+
+strategy g score
+after completing this be able to understand the meaning of g score build a trading strategy based on g score and test the strategy that you have built
+g score back ground g score economic intuition g score strategy g score numerical example g score closure closure
+</DOC>
+
+<DOC>
+design your own trading strategy culminating
+in the culminating develop new trading strategies evaluate them using the tools learned in the integrate them with the existing portfolio and also develop a plan to start a hedge fund
+
+learners introduction
+introduce yourself to the other learners you can exchange ideas and from one another
+
+strategy
+go through the paper based on pairs trading strategy and understand the details of the strategy completely also identify the sector and related sector on which you want to base your strategy
+how to read an academic paper a how to read an academic paper b how to read an academic paper c how to read an academic paper abstract
+
+data collection
+gather the data required to design the strategy pick a pair in the chosen sector and one more pair in the related sector to implement the strategy
+
+strategy rules
+formulate the rules required to trade the strategy and execute the strategy
+piotroski fscore implementation a piotroski fscore implementation b piotroski fscore wrap up
+
+strategy evaluation
+evaluate the strategy that you had designed for this purpose make use of various performance measures discussed in the
+measuring portfolio or fund returns benchmarks for portfolio performance evaluation alternate performance measures
+
+grading rubric
+final use the grading rubric to evaluate the submitted by the other learners
+</DOC>
+
+<DOC>
+creating a portfolio
+this integrates all the from the first three courses and guides the learner about ways of building a portfolio of strategies and integrating the same into a hedge fund in the first part of the be taught ways of measuring the contribution of a strategy to a portfolio in terms of risk and return be able to appreciate the consequences of including a strategy to a new as well an existing portfolio next you are taught various ways of conducting the tilting analysis in order to determine the optimal weight to be placed on each strategy after this to develop techniques for minimizing overall portfolio risk also get a basic overview of the regulatory framework that is applicable to hedge funds know about different types of investors and the expectations of each type of investors
+
+
+about the efficient market hypothesis and various market anomalies in the second half how to evaluate the performance of investments
+market efficiency types of market efficiency anomalies performance measurement performance measurement market timing performance measurement
+
+
+how to perform style analysis and performance attribution also some facts about the mutual fund performance and timing measurement in the second half of the how to calculate the expected returns and risk the ends with an understanding of the utility theory
+timing measurement style analysis performance attribution mutual fund performance expected returns and risk utility theory investment choices and portfolios capital allocation risky portfolios
+
+
+the importance of diversification in your portfolio about the efficient frontier and how to draw it also study the investment set with more than one risky asset and a risk free asset finally see how to optimally allocate between a risky and a risk free asset also get a brief idea about the market portfolio and capital market line
+diversification and efficient frontier two fund separation diversification revisited investment set with two risky assets and a riskfree asset investment set with three risky assets and a riskfree asset the optimal allocation between risky and riskfree assets the market portfolio and the capital market line
+
+
+the basics of trading strategies based on text mining and the importance of a benchmark to evaluate the performance of your portfolio also see how to backtest your trading strategy finally the importance of reporting and compliance in trading
+strategies based on text mining benchmarking reporting financial instruments backtesting how to backtest conclusion
+</DOC>
+
+<DOC>
+trading algorithms
+this covers two of the seven trading strategies that in emerging markets the seven include strategies based on momentum momentum crashes price reversal persistence of earnings quality of earnings underlying business growth behavioral biases and textual analysis of business reports about the companyin the first part of the how to read an academic paper what parts to pay attention to and what parts to skim through will be discussed here for every strategy first be introduced to the original research and then how to implement the strategy the first strategy piotroski f score will be discussed in detail be taught how to calculate the f score and how to use this score in a strategy this is followed by the next strategy post earnings announcement drift pead
+
+introduction to trading strategies and benchmarks
+after completing this be able to understand what market efficiency means be able to list different types of market efficiencies
+disclaimer introduction to trading strategies
+
+how to read an academic paper
+after completing this be able to read and understand an academic paper know what are the important parts of a paper and how to build a trading strategy based on them
+how to read an academic paper a how to read an academic paper b how to read an academic paper c how to read an academic paper abstract
+
+trading strategy f score
+after completing this understand the piotroski f score strategy and the economic intuition behind it you also be able to implement the trading strategy
+piotroski fscore strategy a piotroski fscore strategy b piotroski fscore strategy c piotroski fscore implementation a piotroski fscore implementation b
+
+trading strategy pead
+a strategy based on post earnings announcement drift and will be able to implement it
+piotroski fscore wrap up post earnings announcement drift pead a post earnings announcement drift pead b wrap up
+</DOC>
+
+<DOC>
+trading basics
+the purpose of this is to equip you with the knowledge required to comprehend the financial statements of a company and understand the various transactions that take place in the stock market so that you can replicate the strategies discovered by the extant academic literaturethe first part of the provides a brief introduction to financial statements and various common filings of firms how to obtain information regarding a companys performance from them and use the information to build trading strategies next you are taught basic asset pricing theories so that be able to calculate the expected returns of a stock or a portfolio finally be introduced to the actual functioning of asset markets type of players in the market different types of orders and the efficient ways and opportune time to execute them trading costs and ways of minimizing them the concept of liquidity etc this knowledge is required to develop efficient algorithm to execute various trading strategies
+
+basics of financial statements
+this provides a brief introduction to financial statements and various common filings these are the most important sources for obtaining information regarding a companys performance most strategies are indeed based on financial statements after completing this be able to get the important details from the balance sheets
+introduction introduction to accounting the balance sheet assets liabilities shareholders equity income statement expenses expenses statement of cash flows cash flows from operations cash flows from investments and financing
+
+financial statement analysis
+the purpose of this is to equip you with the required to identify accounting information required for building trading strategies after completing this be able to calculate the key financial ratios
+financial statement analysis profitability ratios activity ratios solvency and liquidity ratios dupont identity
+
+asset pricing theories
+before you start trading you should first be able to calculate the expected return from a stock the expected return comes from various asset pricing models such as capital asset pricing model capm arbitrage pricing theory apt and famafrench three factor model the purpose of this is to equip you with the required to calculate the expected returns of a stock or a portfolio after completing this be able to calculate the expected returns of a stock
+expected returns and risk diversification capm capm beta multifactor models apt arbitrage arbitragefree price risk factors
+
+basics of market microstructure
+this will provide a detailed introduction to the actual functioning of asset markets the will cover essential details such as type of players in the market different type of orders and the efficient ways and opportune time to execute them trading costs and ways of minimizing them the concept of liquidity etc this is required to develop efficient algorithm to execute various trading strategies after completing this have a clear idea of different types of orders and which orders to use when
+market and limit orders limit order book more limit order book limit price placement stoploss orders shortselling other order instructions liquidity transaction costs implicit transaction costs implementation shortfall
+</DOC>
+

@@ -1,0 +1,128 @@
+<DOC>
+advanced machine on google cloud
+this focuses on advanced machine topics using google cloud platform where get handson optimizing deploying and scaling production ml models of various types in handson labs this picks up where machine on gcp left off and teaches you how to build scalable accurate and productionready models for structured data image data timeseries and natural language text it ends with a on building recommendation systems topics introduced in earlier courses are referenced in later courses so it is recommended that you take the courses in exactly this orderapplied projectthis incorporates handson labs using our qwiklabs platformthese hands on components will let you apply the you in the lectures will incorporate topics such as google cloud platform products which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the by enrolling you agree to the qwiklabs terms of service as set out in the faq and located at httpsqwiklabscomtermsofserviceopens in a new tab
+</DOC>
+
+<DOC>
+natural language processing on google cloud
+this introduces the products and solutions to solve nlp problems on google cloud additionally it explores the processes techniques and tools to develop an nlp with neural networks by using vertex ai and tensorflow recognize the nlp products and the solutions on google cloud create an endtoend nlp workflow by using automl with vertex ai build different nlp models including dnn rnn lstm and gru by using tensorflow recognize advanced nlp models such as encoderdecoder attention mechanism transformers and bert understand transfer and apply pretrained models to solve nlp problems prerequisites basic sql familiarity with python and tensorflow
+
+introduction
+this addresses the reasons to nlp from google and provides an overview of the structure and goals
+meet the author introduction
+
+nlp on google cloud
+this introduces the nlp architecture on google cloud it explores the nlp history the nlp apis such as the dialogflow api and the nlp solutions such as contact center ai and document ai
+introduction what is nlp nlp history nlp architecture nlp apis nlp solutions getting started with google cloud platform and qwiklabs lab introduction exploring the dialogflow api
+
+nlp with vertex ai
+this explores automl and custom training which are the two options to develop an nlp with vertex ai additionally the introduces an endtoend nlp workflow and provides a handson lab to apply the workflow to solve a task of text classification with automl
+introduction nlp options vertex ai nlp with automl nlp with custom training nlp endtoend workflow
+
+text representatation
+this describes the process to prepare text data in nlp and introduces the major categories of text representation techniques
+introduction tokenization onehot encoding and bagofwords word embeddings wordvec transfer and reusable embeddings lab introduction reusable embeddings
+
+nlp models
+this describes different nlp models including ann dnn rnn lstm and gru it also introduces the benefits and disadvantages of each model
+introduction ann tensorflow dnn rnn lstm gru lab introduction text classification with keras
+
+advanced nlp models
+this introduces the stateoftheart technologies and models in nlp encoderdecoder attention mechanism transformers bert and large language models
+introduction encoderdecoder architecture attention mechanism transformer bert large language models lab introduction text translation using encoderdecoder architecture
+
+
+this reviews the topics covered in the and provides additional resources for further
+</DOC>
+
+<DOC>
+recommendation systems on google cloud
+you apply your knowledge of classification models and embeddings to build a ml pipeline that functions as a recommendation enginethis is the fifth and final of the advanced machine on google cloud series
+
+welcome to recommendation systems on google cloud
+this previews the topics covered in the
+
+recommendation systems overview
+this defines what recommendation systems are reviews the different types of recommendation systems and discusses common problems that arise when developing recommendation systems
+introduction types of recommendation systems contentbased or collaborative recommendation system pitfalls discussion
+
+contentbased recommendation systems
+this demonstrates how to build a recommendation system using characteristics of the users and items and how to use qwiklabs to complete each of your labs using google cloud
+contentbased recommendation systems similarity measures building a user vector making recommendations using a user vector making recommendations for many users lab intro create a contentbased recommendation system getting started with google cloud and qwiklabs using neural networks for contentbased recommendation systems
+
+collaborative filtering recommendations systems
+this shows how the data of the interactions between users and items from many different users can be combined to improve the quality of predictions
+types of user feedback data embedding users and items factorization approaches the als algorithm preparing input data for als creating sparse tensors for efficient wals input instantiating a wals estimator from input to estimator instantiating a wal estimator decoding tfrecords instantiating a wals estimator recovering keys instantiating a wals estimator training and prediction lab intro collaborative filtering with google analytics data issues with collaborative filtering cold starts
+
+neural networks for recommendation systems
+this shows how various recommendation systems can be combined as part of a hybrid approach
+hybrid recommendation systems lab intro designing a hybrid recommendation system lab intro designing a hybrid collaborative filtering recommendation system lab intro designing a hybrid knowledgebased recommendation system lab intro building a neural network hybrid recommendation system contextaware recommendation systems contextaware algorithms contextual postfiltering modeling using contextaware algorithms youtube recommendation system case study overview youtube recommendation system case study candidate generation youtube recommendation system case study ranking
+
+reinforcement
+this presents the goals of reinforcement and shows where reinforcement fits in machine
+introduction to introduction to reinforcement the reinforcement framework and workflow modelbased and modelfree reinforcement valuebased reinforcement policybased reinforcement contextual bandits applications of reinforcement lab intro lab review
+
+
+this reviews the topics explored
+
+</DOC>
+
+<DOC>
+production machine systems
+we dive into the components and best practices of building highperforming ml systems in production environments we cover some of the most common considerations behind building these systems eg static training dynamic training static inference dynamic inference distributed tensorflow and tpus this is devoted to exploring the characteristics that make for a good ml system beyond its ability to make good predictions
+
+introduction to advanced machine on google cloud
+this previews the topics covered in the and how to use qwiklabs to complete each of your labs using google cloud
+advanced machine on google cloud welcome
+
+architecting production ml systems
+this explores what else a production ml system needs to do and how to meet those needs you review how to make important highlevel design decisions around training and model serving need to make in order to get the right performance profile for your model
+architecting ml systems data extraction analysis and preparation model training evaluation and validation trained model prediction service and performance monitoring training design decisions serving design decisions designing from scratch using vertex ai lab introduction structured data prediction getting started with google cloud and qwiklabs
+
+designing adaptable ml systems
+you how to recognize the ways that our model is dependent on our data make costconscious engineering decisions know when to roll back our models to earlier versions debug the causes of observed model behavior and implement a pipeline that is immune to one type of dependency
+introduction adapting to data changing distributions lab adapting to data right and wrong decisions system failure concept drift actions to mitigate concept drift tensorflow data validation components of tensorflow data validation lab introduction introduction to tensorflow data validation lab introduction advanced visualizations with tensorflow data validation mitigating trainingserving skew through design diagnosing a production model
+
+designing highperformance ml systems
+you identify performance considerations for machine models machine models are not all identical for some models you focus on improving io performance and on others you focus on squeezing out more computational speed
+introduction training predictions why distributed training is needed distributed training architectures tensorflow distributed training strategies mirrored strategy multiworker mirrored strategy tpu strategy parameter server strategy lab introduction distributed training with keras training on large datasets with tfdata api lab introduction tpuspeed data pipelines inference
+
+building hybrid ml systems
+understand the tools and systems available and when to leverage hybrid machine models
+introduction machine on hybrid cloud kubeflow lab introduction kubeflow pipelines with ai platform tensorflow lite optimizing tensorflow for mobile
+
+
+this reviews what you learned
+</DOC>
+
+<DOC>
+computer vision fundamentals with google cloud
+this describes different types of computer vision use cases and then highlights different machine strategies for solving these use cases the strategies vary from experimenting with prebuilt ml models through prebuilt ml apis and automl vision to building custom image classifiers using linear models deep neural network dnn models or convolutional neural network cnn models the shows how to improve a models accuracy with augmentation feature extraction and finetuning hyperparameters while trying to avoid overfitting the data the also looks at practical issues that arise for example when one doesnt have enough data and how to incorporate the latest research findings into different models learners will get handson practice building and optimizing their own image classification models on a variety of public datasets in the labs they will on
+
+introduction
+introduction
+
+introduction to computer vision and prebuilt ml models for image classification
+introduction to computer vision and prebuilt ml models for image classification
+what is computer vision different type of computer vision problems computer vision use cases vision api prebuilt ml models lab introduction detecting labels faces and landmarks in images with the cloud vision api getting started with google cloud platform and qwiklabs lab introduction lab extracting text from the images using the google cloud vision api
+
+vertex ai and automl vision on vertex ai
+about vertex ai and automl vision on vertex ai
+what is vertex ai and why does a unified platform matter introduction to automl vision on vertex ai how does vertex ai help with the ml workflow part how does vertex ai help with the ml workflow part which vision product is right for you lab introduction identifying damaged car parts with vertex ai for automl vision users
+
+custom training with linear neural network and deep neural network models
+about custom training with linear neural network and deep neural network models
+introduction introduction to linear models reading the data implementing linear models for image classification lab introduction classifying images with a linear model neural networks and deep neural networks for image classification lab introduction classifying images with a nn and dnn model deep neural networks with dropout and batch normalization lab introduction classifying images using dropout and batchnorm layer
+
+convolutional neural networks
+about convolutional neural networks
+introduction convolutional neural networks understanding convolutions cnn model parameters working with pooling layers implementing cnns on vertex ai by using a prebuilt tf container lab introduction classifying images with prebuilt tf container on vertex ai
+
+dealing with image data
+about dealing with image data
+introduction preprocessing the image data model parameters and the data scarcity problem data augmentation lab introduction classifying images using data augmentation transfer lab introduction classifying images with transfer
+
+
+
+</DOC>
+

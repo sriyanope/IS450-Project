@@ -1,0 +1,124 @@
+<DOC>
+java programming and software engineering fundamentals
+take your first step towards a in software development with this introduction to javaone of the most indemand programming languages and the foundation of the android operating system designed for beginners this will teach you core programming concepts and equip you to write programs to solve complex problems in addition gain the foundational a software engineer needs to solve realworld problems from designing algorithms to testing and debugging your programsapplied projectcentered around this will help you create a portfolio of to demonstrate your new programming in the capstone create a recommender engine similar to those used by netflix or amazon additional in your portfolio will includean interactive webpage that applies filters to images an analysis of csv data files an encryption and a predictive text generator
+</DOC>
+
+<DOC>
+java programming solving problems with software
+to code in java and improve your programming and problemsolving to design algorithms as well as develop and debug programs using custom opensource classes write programs that access and transform images websites and other types of data at the end of the build a that determines the popularity of different baby names in the us over time by analyzing comma separated value csv files after completing this be able to edit compile and run a java use conditionals and loops in a java use java api documentation in writing programs debug a java using the scientific method write a java method to solve a specific problem develop a set of test cases as part of developing a create a class with multiple methods that together to solve a problem and use divideandconquer design techniques for a that uses multiple methods
+
+introduction to the
+welcome to java programming solving problems with software we are excited that you are starting our to how to write programs in java one of the most popular programming languages in the world introductory get to meet the instructor team from duke university and have an overview of the have fun
+introduction to the resources to help you succeed tips for programming using forums how to ask for help effectively object oriented programming with java
+
+fundamental java syntax and semantics
+to write and run your first java programs including one that prints hello in various countries languages and another where analyze the perimeters and other information of shapes to accomplish these tasks the basics of java syntax and how to design stepwise solutions with programs by the end of this be able to download and run bluej the java programming environment for this access the documentation for the java libraries specially designed for this edit compile and run a java construct methods variables if else statements and for each loops in java and use iterables like directoryresource to run a that iterates over multiples lines in a document or webpage or multiple files in a directory
+why use java using bluej to in java shapes collections of points why semantics motivation to read code variables mathematical operators functions conditionals classes new methods types for each loops solving programming a seven step approach seven steps in action developing an algorithm seven steps in action testing the algorithm seven steps in action translating to code
+
+strings in java
+this begins with a short presentation from raluca gordn an assistant professor in duke universitys center for genomic and computational biology about an important problem genomics scientists encounter regularly how to identify genes in a strand of dna to tackle this problem need to understand strings series of characters such as letters digits punctuation etc after about java methods that with strings be able to find genes within a dna string as well as tackle other string related problems such as finding all of the links in a web page by the end of this be able to use important methods for the java string class use conditionals for loops and while loops appropriately in a java find patterns in the data represented by strings to help develop the algorithm for your understand the importance of designing programs that keep different data processing steps separate use the storageresource iterable for this to store some data for further processing and rely on java documentation to better understand how to use different java packages and classes
+what is a string understanding strings developing an algorithm positions in strings translating into code java math introduction conceptual understanding while loops while loop syntax and semantics coding while loops three stop codons coding three stop codons part i coding three stop codons part ii logical and or coding and or finding multiple genes translating to code separation of concerns storageresource class coding storageresource class
+
+csv files and basic statistics in java
+a common format for storing tabular data any data organized into columns and rows is in comma separated values csv files how to analyze and manipulate data from multiple csv data files using a powerful opensource software package apache commons csv using this library will empower you to solve problems that could prove too complex to solve with a spreadsheet by the end of this be able to use the opensource apache commons csv package in your own java programs access data from one or many csv files using java convert strings into numbers understand how to use null in java programs when you want to represent nothing devise an algorithm and implement in java to answer questions about csv data and analyze csv data across multiple csv files for example find maximums minimums averages and other simple statistical results
+csv data comma separated values using csv libraries which countries export developing an algorithm which countries export translating into code csvexport hottest day in a year comma separated values converting strings to numbers maximum temperature developing an algorithm java for nothingnull when you dont have an object maximum temperature translating into code maximum temperature testing code maximum temperature from multiple datasets maximum temperature refactored csvmax
+
+miniproject baby names
+this wraps up the with a mini that ties together the different practices and libraries you have gained across the using data on the popularity of different baby names in the united states from the past several decades be able to compare different names popularity over time while the data we have collected for this is from the united states we welcome you to share data from other countries in the discussion forums good luck with the mini
+baby names miniproject overview baby names miniproject data overview baby names miniproject total births batch grayscale converting many files grayscale algorithm seven step approach image iterable in bluej grayscale batch processing grayscale saving images with new names batch grayscale converting many files
+</DOC>
+
+<DOC>
+java programming arrays lists and structured data
+build on the software engineering you learned in java programming solving problems with software by new data structures use these data structures to build more complex programs that use javas objectoriented features at the end of the write an encryption and a to break your encryption algorithmafter completing this be able to read and write data fromto files solve problems involving data files perform quantitative analyses of data eg finding maximums minimums averages store and manipulate data in an array or arraylist combine multiple classes to solve larger problems use iterables and collections including maps in java
+
+welcome
+welcome to java programming arrays lists and structured data we are excited that you are starting our to how to write programs in java one of the most popular programming languages in the world introductory hear an overview of this and be introduced to the supporting resources available
+
+cryptography keeping information secret
+about the basics of cryptography the science of keeping information private and secure about simpler cryptographic systems which were used from the roman empire through the early s how to implement these ciphers as well as how to break them to solve these problems more with processing strings but also about arraysa way to store an indexable sequence of elements be able to combine strings using concatenation build strings within a java using stringbuilder use arrays to store and manipulate collections of data refactor your programs for improved organization using objectoriented principles and practice effective algorithm design
+a brief history of cryptography introduction creating and manipulating strings counting loops character class developing an algorithm translating into code testing and debugging introduction arrays random numbers and arrays counting with arrays developing an algorithm introduction rewriting with encapsulation fields visibility constructors
+
+gladlibs stories from templates
+after completing this be able to a word frequency counter to analyze any input text file to select and substitute words from a list into a document template using both arraylist and hashmap to create new lists to use in templates to recognize brittle code and to improve code with flexible objectoriented design gain these in the framework of developing a randomly generated story that we call gladlibs you may discover that bald lions change peoples lives or that fluffy dinosaurs get things done in a jiffy we hope you have fun developing your java
+introduction highlevel design concepts arraylist arraylist for unique words arraylist advantages and issues introduction brittle code adding new labels hashmap hashmap for unique words hashmap for flexible design
+
+web server logs from logs to visits
+about how web server logs store information about visitors to a website and write programs to access information like user ip address date and time of access and more using java programs you write be able to read information from a web server log to count the number of unique visitors to your website and to count the number of times each visitor uses your website
+introduction understanding log files logentry class with tostring parsing log files introduction developing an algorithm translating to code equality introduction developing an algorithm translating to code hashmap for unique ips
+
+miniproject vigenre cipher
+develop a to break the vigenre cipher a more complex version of the caesar cipher improve your in three stages first decrypting messages where you know the language and key length then adding the capability to handle messages with unknown key length then extending the to handle messages in a range of possible languages through this be able to effectively use hashset and hashmap to expand an algorithm from solving a simpler problem to handle broader more complex problems and to design and modify code involving a more complex collection of classes methods and data
+introduction known language and key length unknown key length unknown language
+</DOC>
+
+<DOC>
+java programming principles of software design
+solve real world problems with java using multiple classes how to create programming solutions that scale using java interfaces recognize that software engineering is more than writing code it also involves logical thinking and design by the end of this have written a that analyzes and sorts earthquake data and developed a predictive text generatorafter completing this be able to use sorting appropriately in solving problems develop classes that implement the comparable interface use timing data to analyze empirical performance break problems into multiple classes each with their own methods determine if a class from the java api can be used in solving a particular problem implement programming solutions using multiple approaches and recognize tradeoffs use objectoriented concepts including interfaces and abstract classes when developing programs appropriately hide implementation decisions so they are not visible in public methods and recognize the limitations of algorithms and java programs in solving problems recognize standard java classes and idioms including exceptionhandling static methods javanet and javaio packages
+
+welcome to the
+welcome to java programming principles of software design we are excited that you are starting our to how to write programs in java one of the most popular programming languages in the world introductory hear an overview of this and be introduced to the supporting resources available
+
+earthquakes programming and interfaces
+we will introduce a data set containing details about earthquakes around the world how to pull this data into a search through the data and filter the data based on desired criteria by the end of this be able to write programs that include multiple classes and arraylists of class types find the maximum value in an arraylist use a filter interface to search through data implement interfaces with method signatures and combine several filters together
+introduction relationships between classes licensing and apis coding a magnitude filter coding the closest quakes introduction interfaces to avoid duplication interfaces in more depth matchall
+
+earthquakes sorting algorithms
+continue using real earthquake data to explore several sorting algorithms how to implement a selection sort and a bubble sort then be introduced to a java method collectionssort which sorts with much greater efficiency by the end of this be able to implement several sorting algorithms from scratch use efficient preexisting sorting classes modify a classs compareto method to choose the criteria by which objects of that type are ordered and write classes that implement the comparator interface to create interchangeable sorting criteria
+introduction developing an algorithm translating to code in place efficiency introduction comparable ordering quakes by magnitude comparator comparator for distance from a location
+
+ngrams predictive text
+explore some of the underlying concepts of predictive text the first lesson will introduce random character generation and then how to train the character selection based on an input text the second lesson will extend this concept to complete words by the end of this be able to base random text generation on the frequency of characters in a training text collect a set of characters that occur in a text after randomly chosen initial characters to create a semirandom text extend the predictive text generation to use whole words and implement your own equals method to compare complex data types
+introduction orderzero orderone finding follow set implementing ordertwo testing and debugging interfaces and abstract classes introduction orderone concepts orderone helper functions wordgram class wordgram class implementation equals and hashcode methods equals method implementation
+
+java tools and libraries for everyone
+as you reach the end of this series you may wish to extend your java to tools beyond those provided here this will cover some of the java basic information that is needed to without bluej or the eduduke library after completing this be able to write a main method to start a java in any programming environment use the static keyword to modify fields find alternative editors to use with java use exceptions to debug your and make it more robust and reference java libraries that are necessary to read files without the eduduke library
+miscellaneous java main method static editors introduction understanding exceptions handling exceptions declaring exceptions throwing exceptions reading files with javanio hello around the world with eclipse
+</DOC>
+
+<DOC>
+java programming build a recommendation system
+ever wonder how netflix decides what movies to recommend for you or how amazon recommends books we can get a feel for how it works by building a simplified recommender of our ownin this capstone show off your problem solving and java programming by creating recommender systems with data for movies including ratings but the principles involved can easily be adapted to books restaurants and more write a to answer questions about the data including which items should be recommended to a user based on their ratings of several movies given input files on users ratings and movie titles be able to read in and parse data into lists and maps calculate average ratings calculate how similar a given rater is to another user based on ratings and recommend movies to a given user based on ratings display recommended movies for a given user on a webpage
+
+introducing the recommender
+start out the capstone by taking a look at the features of a recommender engine then choose how to read in and organize user ratings and movie data in your the programming exercise will provide a check on your progress before moving on to the next step
+introduction and motivation reading and storing data
+
+simple recommendations
+your second step in building a recommender will focus on making simple recommendations based on the average ratings that a movie receives also make sure that each recommended movie has a least a minimal number of user ratings before including it in your recommendations throughout this step you are encouraged you use your knowledge of the seven step process to design useful algorithms and successful programs to solve the challenges face
+
+interfaces filters database
+in your third step be encouraged to use interfaces to rewrite your existing code making it more flexible and more efficient also add filters to select a desired subset of movies that you want to recommend such as all movies under two hours long or all movies made in also make your recommendation engine more efficient as you practice software design principles such as refactoring
+
+weighted averages
+in your fourth step complete your recommendation engine by finding users in the database that have similar ratings and weighting their input to provide a more personal recommendation for the users of your once you complete this step you could request ratings of movies from those you know run your and give them recommendations tailored to their own interests and tastes
+
+farewell
+congratulations on completing your recommender programming as we conclude this capstone our instructors have a few parting words as you embark in future and in computer science
+</DOC>
+
+<DOC>
+programming foundations with javascript html and css
+foundational programming concepts eg functions for loops conditional statements and how to solve problems like a programmer in addition basic web development as you build web pages using html css javascript by the end of the will create a web page where others can upload their images and apply image filters that you createafter completing this be able to think critically about how to solve a problem using programming write javascript programs using functions for loops and conditional statements use html to construct a web page with paragraphs divs images links and lists add styles to a web page with css ids and classes and make a web page interactive with javascript commands like alert onclick onchange adding input features like an image canvas button and slider
+
+welcome
+welcome be introduced to this courses approach to teaching the basics of programming from building web pages to writing programs with javascript to making web pages interactive
+overview a students perspective on programming resources to help you succeed tips for programming using forums how to ask for help effectively
+
+designing a web page with html and css
+the basics of html and css to design a web page over the of the build your first web page
+using codepen what is html metadata and sectioning elements formatting text and nesting tags adding images and links images and storage lists and tables how css is used to design web pages css basics colors and names in css
+
+algorithms and programming concepts
+
+introduction everything is a number how is that a number developing an algorithm a seven step approach to solving programming problems variables methods functions types dukelearntoprogram environment for loops conditional execution translating to code thinking critically about your finding bugs in code
+
+javascript for web pages
+
+introduction buttons with divs changing pages interactively using html canvas inputs and events upload and display an image convert image to grayscale moving to codepen
+
+miniproject image filters on the web
+
+introduction steganography part i steganography part ii steganography part iii steganography coding example
+</DOC>
+

@@ -1,0 +1,155 @@
+<DOC>
+patient safety
+preventable patient harms including medical errors and healthcareassociated complications are a global public health threat moreover patients frequently do not receive treatments and interventions known to improve their these shortcomings typically result not from individual clinicians mistakes but from systemic problems communication breakdowns poor teamwork and poorly designed care processes to name a fewthe patient safety quality leadership covers the concepts and methodologies used in process improvement within healthcare successful participants will develop a systems view of safety and quality challenges and will strategies for improving culture enhancing teamwork managing change and measuring success they will also lead all aspects of a patient safety andor quality improvement applying the methods described over the seven courses in the applied projectlearners will use realworld strategies tools and techniques to resolve various patient safety and quality issues based on authentic scenarios that occur in medical and clinical settings they will also be required to leverage crossdisciplinary concepts to successfully address patient safety concerns
+</DOC>
+
+<DOC>
+designing for sustainment keeping improvement on track patient safety iv
+keeping patient safety and quality improvement on track on time and on budget is critical to ensuring their success students will be introduced and given the to apply a series of tools to guide and manage patient safety and quality initiatives these include tools for defining what success looks like developing a change management plan and conducting a premortem to identify risks for failure this will also provide tools for engaging stakeholders to ensure key players are invested in your success
+
+what does success look like
+learners will develop an understanding of what sustainment is and why it is important the potential risks to sustainment the importance of planning for sustainment from inception types of measures used in quality improvement and the attributes of each how strategies for improvement were developed in two successful largescale quality improvement initiatives learners will become familiar with the issues impacting sustainment and how they may be successfully addressed across the life span of a quality improvement
+what does success look like failure to sustain trip plus planning ahead what measures examples of successfully sustained
+
+conducting a premortem
+learners will develop an understanding of what the premortem exercise is and how it can be used to improve planning surface threats to success and sustainment develop interventions to mitigate risk of failure create an action plan to maximize the application of premortem results and maintain awareness of threats to success across the lifespan learners will also develop familiarity with facilitation bestpractices the premortem exercise can be a powerful tool to identify and mitigate risks for failure
+conducting a premortem facilitating a premortem applying results of a premortem revisiting the premortem premortem demo exercise
+
+change management
+learners will develop an understanding of what is meant by change management reasons for change initiative failure change as a process frameworks and processes for change the differences between technical and adaptive and the role of each in a change effort leadership necessary for addressing adaptive change identifying and engaging change effort stakeholders managing conflict developing a communication strategy for a change effort applying a systems approach to change efforts
+change management introduction frameworks processes of change adaptive vs technical change adaptive leadership stakeholder analysis managing conflict during change communication as a change strategy methods of changing behavior
+
+planning for engagement using the es model
+learners will develop an understanding of the role of engagement in sustainability and spread addressing barriers to engagement potential areas of failure in sustaining change effort gains the es of embedding and enduring and their role in sustainment frameworks for sustaining change efforts a realworld example of successful sustainment of a quality improvement initiative
+sustainability and spread key implementation concepts endureembed a model for sustainability a practical example of sustainment expand expand new or topic ideas steps is engagement enhancing engagement address barriers to engagement
+</DOC>
+
+<DOC>
+taking safety and quality improvement to the next level patient safety vii
+culminating in the patient safety and quality improvement apply the you have acquired across the previous six courses to address a realistic patient safety issue confronting mercy grace a bed urban hospital that is part of a larger hospital system based on the scenario provided assess the situation and through the problem using a variety of tools and strategies have the to identify defects root causes and potential mitigation strategies create a implementation plan for addressing the issue in the form of an a identify risks of failure and design a change management plan identify means of converting the from local to systemwide and identify quality and safety measurements that will be used in evaluating the success of the implementation
+
+deepening our understanding of a patient safety defect
+be introduced to a patient safety issue that will provide the basis for all of the complete capstone after reviewing the incident review content from the second in the regarding the use of the from defects tool and complete a first draft of a similar from defects template please note that each of the assessments in the first four weeks of this are optional this gives you the to develop first drafts of all of the documents submit for your capstone and receive valuable feedback on the you have completed in the last of this resubmit final versions of the documents you have completed throughout the this final package of documents will comprise your entire grade for this capstone
+introduction interview with the patient and his wife interview with the nurse interview with the attending physician interview with the resident introduction to the from defects tool
+
+problemsolving and proposing interventions
+build upon what you learned in the previous by continuing your investigation of patient falls and clarifying your goals review content from previous courses in the that discussed problem identification scoping your building an a and specifying performance measures then initiate a first draft of an a and complete a first draft of a whys table
+introduction so what is your problem key metric building your a scope specifying performance measure and common data sources for measurement
+
+implementation and stakeholder engagement
+begin the process of implementation and stakeholder engagement for your proposed interventions begin by reviewing content from previous courses on translating evidence into practice the es model and implementation as well as several on these topics at the end of the have the to complete and receive feedback on a first draft of your premortem and e table
+introduction trip implementation
+
+embedding and expanding the
+your focus will turn to embedding and expanding your across additional units review content on change management sustainability and the process of embedding and expanding your interventions finally expand your from to create a first draft of a full formal a
+introduction change management introduction more es endure embed a model for sustainability two more es expand
+
+conclusion
+final you have the to review and reflect upon the documents you completed in the first four of the after revising and finalizing these documents you should submit all of them as your final submission for this
+</DOC>
+
+<DOC>
+patient safety and quality improvement developing a systems view patient safety i
+be able develop a systems view for patient safety and quality improvement in healthcare by then end of this be able to describe a minimum of four key events in the history of patient safety and quality improvement define the key characteristics of high reliability organizations and explain the benefits of having strategies for both proactive and reactive systems thinking
+
+the history of patient safety and quality improvement
+review the history of patient safety and quality improvement in healthcare start with defining the scope of the problem of preventable harm in healthcare which leads into the history of the that has been done to date that has helped to define measure and improve preventable harm you review three landmark reports to ensure you have a deep understanding of this at the end of this be able to identify a minimum of four key events in the history of patient safety an quality improvement describe the key characteristics of each of the three landmark patient safety publications and summarize the impact of preventable harm on patients communities and society
+the scope of the problem history of quality improvement and patient safety history of quality improvement and patient safety present mitigable or preventable harm crimean war to err is human building a safer health system crossing the quality chasm a new health system for the st century free from harm accelerating patient safety improvement fifteen years after to err is human
+
+definitions in patient safety and quality improvement an overview
+be reviewing several key terms and tools that are used in patient safety and quality improvement this will allow you to begin to develop the common language used among patient safety and quality improvement experts and practitioners by the end of this be able to differentiate between the terms harm hazard error and risk within a patient safety and quality improvement framework describe how quality and safety overlap and how they are different and differentiate between root cause analysis and a failure mode and effects analysis
+definitions and intersection of quality and safety harm sentinel event error hazard risk root cause analysis rca failure mode and effects analysis fmea quality safety culture
+
+high reliability organizing and why it matters
+the fundamental principles of high reliability organizing at the end of this lesson also be able to describe the sociocultural characteristics of high reliability organizations hros compare and contrast healthcare with high reliability organizations and identify three improvement tools for high reliability organizing
+overview of high reliability a model for understanding high reliability analyzing healthcare as a high reliability organization high reliability organization sociocultural norms five principles for high reliability and mindful organizing high reliability organization behaviors and habits patient safety tools of mindful organizing
+
+applying a systems lens to healthcare
+the basics of systems thinking and then apply these to a healthcare setting at the end of this be able to explain the basic components of a system differentiate first order problem solving and second order problem solving explain the benefits of having strategies for both proactive and reactive systems thinking
+definition of a system definition of systems thinking reductionistic thinking vs holistic thinking swiss cheese model first order and second order problem solving whose problem is it oncology infusion clinic case study proactive and reactive systems thinking strategies conclusions
+</DOC>
+
+<DOC>
+setting the stage for success an eye on safety culture and teamwork patient safety ii
+safety culture is a facet of organizational culture that captures attitudes beliefs perceptions and values about safety a culture of safety is essential in high reliability organizations and is a critical mechanism for the delivery of safe and highquality care it requires a strong commitment from leadership and staff a safe culture is promoted through the use of identifying and reporting patient safety hazards accountability and transparency involvement with patients and families and effective teamwork
+
+patient safety culture and just culture
+learners will develop an understanding of what safety culture is and why it matters how safety culture influences how culture is assessed and how strategies for improvement can be developed learners will become familiar with the just culture model and how it is used when appropriating blame and accountability for human error at risk behaviors and reckless behaviors
+introduction to patient safety culture defining safety culture the influence of safety culture on patient and provider measuring culture just culture application of just culture
+
+patient safety quality and the patient
+the patient encompasses a range of interactions patients have with the healthcare system understanding patients expectations and from their is key to designing safer care delivery systems and providing patient and familycentered care
+definitions satisfaction engagement patient and family centered care how do we measure the patient patient and family centered care and engagement patient and family advisory council definition and roles engaging the heart of the caregiver using improvement science to create a positive sustainable patient
+
+event reporting and second victims
+patient safety event reports are a critical data source for identifying and mitigating harm in high reliability organizations yet many healthcare organizations do not take full advantage of this data at the conclusion of this learners will understand how event reports should be used to design safer care systems and how organizations can provide support to staff involved in medical errors
+how to submit an event report journey of an event report event reporting and high reliability using event reports to improve safety and culture reporting culture using event reports to design safer systems part i using event reports to design safer systems part ii a sample event review meeting introduction to the from defects tool disclosure of medical errors second victims peer support making a difference for second victims
+
+strengthening safety culture through teamwork
+research shows that many errors can be attributed to breakdowns in teamwork and communication participants will how safety culture can be strengthened though teamwork and communication participants will critical in the prevention and mitigation of medical errors
+becoming an expert team teamwork and the science of safety team training communication leadership briefings and debriefings measuring teamwork for improvement crossunit collaboration
+</DOC>
+
+<DOC>
+planning a patient safety or quality improvement patient safety iii
+this provides students with a set of tools and methodologies to plan and initiate a problem solving or quality improvement the first presents methods for selecting scoping and structuring a before it is even initiated it also introduces the classifications of implementation and discovery the second describes the a problem solving methodology and the tool itself further in that same the student is shown tools to identify problems in flow defects and waste and to discover causes brainstorm and prioritize interventions shows a methodology within the implementation class these methods are designed to overcome emotional and organizational barriers to translating evidencebased interventions into practice the fourth and last looks at one more way to approach improvement in the discovery class these tools are specifically for new outofthebox design thinking
+
+selection strategy and tools you can use
+see the process for defining scoping selecting and prioritizing improvement initiatives further necessary team characteristics and organizational support structures
+selecting a focus for your improvement effort the must matter scope so what is your problem key metric goal setting final validation
+
+a thinking
+be introduced to the process and format of a problem solving the key components of an a for to define and start an improvement to maximize your chances of success additionally a set of tools will be covered that are commonly used in the actual improvement which will identify underlying process issues and their root causes
+what is a problem solving building your a purpose and methodology of identifying waste structured brainstorming fault tree analysis process mapping value stream mapping vsm improving physical flow in processes use of cascading a for systemwide improvement
+
+translating research into practice
+this explains the translating research into practice trip model it is a methodology to facilitate the adoption and use of evidencebased therapies this model itself uses a collaborative knowledge translation model for wider sharing of knowledge into practice
+translating evidence into practice summarizing the evidence identifying local barriers the four es lessons learned getting the science right cusp as adaptive
+
+design thinking
+we will cover a process called design thinking it is a humancentered design approach that fosters outof thebox thinking to create innovative solutions the process builds the design iteratively in a highly collaborative team approach the five steps of design thinking will be covered define ideate protype and test
+introduction to design thinking phase gaining insight advantages of and application theory and application of define ideate phase application of brainstorming prototyping phase test phase iteration phase design thinking wrap up
+</DOC>
+
+<DOC>
+measuring the success of a patient safety or quality improvement patient safety vi
+how will you know if your patient safety and quality is meeting its objectives peter drucker once said what gets measured gets managed students will why measurement is critical to quality improvement equally important they will which data sources provide the most meaningful information and tools for how and where to locate them finally students will how to interpret data from their patient safety and quality to guide and modify them during implementation to maximize their chances of making a difference for patients
+
+performance measurement in patient safety and quality
+learners will develop an understanding of what is performance measurement in healthcare what constitutes a good performance measure and basic frameworks that have been used for categorizing measures learners will become familiar with some of the wellknown entities involved in performance measurement in healthcare and key challenges in the field
+performance measurement in patient safety and quality donabedians model performance measurement domains specifying a performance measure and common data source for measurement a global example of performance measurement in healthcare the international consortium for health measurement names to know and properties of a good measure challenges with performance measurement copy of performance measurement in patient safety and quality
+
+public reporting of performance measures
+learners will gain knowledge of the primary audiences for publicly reported performance measure sand some of the key measures that are currently reported learners will be exposed to some of the key websites that publicly report performance data and hear from a health system leader about some of the benefits and challenges of having a hospitals quality and safety performance publicly available
+history objectives key examples evidence of impact maximizing the benefits hospital readmissions hcahps hospital mortality hais hospital compare interview with renee demski exploring the leapfrog group exploring my nhs
+
+interpreting data and telling datas story
+learners will develop an understanding of the different tools that are available to analyze data used in quality and safety improvement and how the data can be visualized for different audiencestwo case studies will be shared to demonstrate how these data analysis and visualization tools can be used in a reallife setting
+introduction analysis methods overview analysis methods inferential tools analysis methods case study visualization case study on visualization
+
+from data to action and iteration
+learners will be exposed to how mixedmethods research which includes integrating qualitative and quantitative data together can be used successfully in quality improvement projectslearners will also become familiar with how data and measures are used to evaluate the success of a quality improvement two case studies will be shared to demonstrate how these concepts have been used in reallife quality improvement
+a mixed methods approach use of quantitative qualitative data in qi case study improving family engagement in fcr using data measures to evaluate the success of an improvement case study improving medication reconciliation on hospital admission
+</DOC>
+
+<DOC>
+implementing a patient safety or quality improvement patient safety v
+now that youve carefully planned your patient safety and quality improvement the real can begin this will introduce students to the unique challenges encountered when implementing maintaining and expanding a patient safety and quality initiative students will to apply lessons learned from the e model and trip into developing specific aims for their qi additionally students will develop a plan to address the adaptive and technical challenges in their including whether their initiative needs to be submitted to an institutional review board irb finally students will develop plans to grow their local qi into a systemwide
+
+case story practice policy public reporting patient engagement from the venous thromboembolism vte example
+learners will understand the patient safety risk of venous thromboembolism in our patient populations and its impact on patient learners will see what can be done to protect patients from this almost entirely preventable harm event including assessing surveillance bias stakeholder engagement and nursing education to improve quality of care to reduce vte risk the learner will also be able to develop a plan to identify the best evidence to support their when competing national organizations have competing recommendations
+importance of vte surveillance bias what is preventable harm decision support for qi targeted provider feedback missed doses of vte prophylaxis stakeholder engagement nurse education as a pathway to improve can patient education improve care and importance of teamwork and mentoring in qi closing thoughts on the science of qi
+
+case story risks and rights
+we will review the historical perspective of human subjects research and quality improvement research the learner will become familiar with the history of the irb in large scale quality improvement initiatives and identify what should be submitted to the irb before beginning a quality improvement or patient safety further the learner will become familiar with what can and cant be shared outside the organization without the risk management office providing consent
+historical perspective on human subjects research quality improvement research irb perspective part quality improvement research irb perspective part case study michigan keystone case study risk and rights part case study risk and rights part
+
+case story technical meets adaptive
+we will introduce you to a quality improvement that we implemented in two adult intensive care units to reduce central line associated blood stream infections the learner will develop an understanding of using the translating evidence into practice model into action in developing a technical component to improve patient safety learners will become familiar with the comprehensive unit based safety cusp and the adaptive used to implement the quality improvement initiative and change management methods that help achieve success
+background line insertion maintenance evidence introduction to adaptive what adaptive needs to succeed part what adaptive needs to succeed part what adaptive needs to succeed part comprehensive unitbased safety results
+
+case story building momentum
+we will introduce you to a quality improvement that was built following successful implementation of the central line associated blood stream infection developed and implemented at johns hopkins the learner will see that building momentum from a previous success is possible using proven quality improvement bundles and the results of the adaptive using the comprehensive unitbased safety to improve unit based culture the learner will understand the rigorous preparation and tool development needed to support clinicians when you move a to another venue they will develop an understanding of the collaborative approach that includes onboarding or immersion into the content allowing preparation time and providing both content and coaching call that support the teams implementing the initiative learners will see how to utilize the cusp to meet adaptive challenges learners will also see the toolkit that was developed including the documents necessary to provide support for front line clinicians that we believed necessary for a successful quality improvement and patient safety
+building momentum building capacity for patient safety quality implementation line insertion technical insertionrelated prevention maintenance focused meeting adaptive challenges cusp implementation part meeting adaptive challenges cusp implementation part results mechanisms to sustain your intervention part mechanisms to sustain your intervention part qi resources on the armstrong institute website
+</DOC>
+

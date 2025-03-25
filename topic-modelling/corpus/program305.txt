@@ -1,0 +1,64 @@
+<DOC>
+management
+the management is designed to be an introduction to the management discipline including the concepts tools and techniques used in the management and leadership of key topics covered include the role of the manager the team cost schedule and risk management quality in and the lifecyclethe courses can be taken for academic credit as part of cu boulders master of engineering in engineering management meem degree offered on the coursera platform the meem is designed to help engineers scientists and technical professionals move into leadership and management roles in the engineering and technical sectors with performancebased admissions and no application process the meem is ideal for individuals with a broad range of undergraduate education andor more about the meem at httpswwwcourseraorgdegreesmeengineeringmanagementboulderopens in a new tablogo image courtesy of justus menke available on unsplash at httpsunsplashcomphotosygbyrofgecapplied projectthroughout the learners will be introduced to the concepts of management the formal management process which includes tools that are commonly used in the discipline learners will have an to apply these tools to manage a small virtual upon completion of the learners should have the basis for a comprehensive final plan
+</DOC>
+
+<DOC>
+agile management
+the goal of this third in the management examines the philosophy and process of managing using agile management students will the agile philosophy and process including the scrum framework sprints and user stories upon completion of this be able to distinguish between predictive and agile management methodologies and understand the benefits of delivering value early in an engineering projectthis can be taken for academic credit as part of cu boulders master of engineering in engineering management meem degree offered on the coursera platform the meem is designed to help engineers scientists and technical professionals move into leadership and management roles in the engineering and technical sectors with performancebased admissions and no application process the meem is ideal for individuals with a broad range of undergraduate education andor more about the meem at httpswwwcourseraorgdegreesmeengineeringmanagementboulder logo image courtesy of alex lion available on unsplash at httpsunsplashcomphotosqovxhjorxk
+
+agile management
+how this is structured and assessed also explore the history of agile management and how it differs from other management methodologies we will explore the values and principles of agile and examine different agile frameworks
+introduction to the agile management intro what is agile agile values agile principles intro to agile frameworks agile framework venn
+
+the agile process
+the fundamentals of the agile sprint and the scrum process including the roles of teams and the tools they use
+the scrum master the scrum process intro sprint charter daily standup simplicity principle user story points team velocity setting priorities
+
+the agile organization
+to apply agile values and principles within an organizational context
+the agile organization agile organizational structure
+</DOC>
+
+<DOC>
+management foundations and initiation
+management foundations and initiation provides students the foundational knowledge of how engineering are managed and initiated managers are responsible for scope stakeholder management effective communication and team leadership develop introductory needed to manage traditional engineering along with tools needed to engage stakeholders and build diverse teamsthis can be taken for academic credit as part of cu boulders master of engineering in engineering management meem degree offered on the coursera platform the meem is designed to help engineers scientists and technical professionals move into leadership and management roles in the engineering and technical sectors with performancebased admissions and no application process the meem is ideal for individuals with a broad range of undergraduate education andor more about the meem at httpswwwcourseraorgdegreesmeengineeringmanagementboulder logo image courtesy of jehyun sung available on unsplash at httpsunsplashcomphotosuaemqiajgutmsourceemailutmmediumreferralutmcontentphotospageshare
+
+management and the role of the manager
+how this is structured and assessed also be introduced to the practice of management and the role of the manager
+introduction to the what is management characteristics of a responsibilities of the manager becoming a management perspective from a manager the management process traditional agile and hybrid methods
+
+starting the scope
+the processes required to ensure the is delivered with the specified features and functions also to develop a team charter
+starting the introduction the charter scope scope management
+
+managing stakeholders communications
+the framework for analyzing and communicating with stakeholders
+managing stakeholders communications communications in management managing communications managing stakeholders
+
+forming leading the team
+the tools used in resource management also gain a better understanding of what drives team performance and how to lead a highperforming team
+resources the team resource management resources in a matrix organization intro to the team types of power common motivation theories emotional intelligence trends in global management
+</DOC>
+
+<DOC>
+planning and execution
+the goal of this second of the management is to provide students with necessary to plan and execute traditional engineering managers must plan and manage complex constrained by time and budget as part of this determine schedules budgets and risk assessments at the end of this also be able to identify and explain various quality tools and methods used in managementthis can be taken for academic credit as part of cu boulders master of engineering in engineering management meem degree offered on the coursera platform the meem is designed to help engineers scientists and technical professionals move into leadership and management roles in the engineering and technical sectors with performancebased admissions and no application process the meem is ideal for individuals with a broad range of undergraduate education andor more about the meem at httpswwwcourseraorgdegreesmeengineeringmanagementboulder logo image courtesy of shane rounce available on unsplash at httpsunsplashcomphotosdnkonxqticutmsourceemailutmmediumreferralutmcontentphotospageshare
+
+schedule
+how this is structured and assessed also be the introduced to the process of planning and documenting the schedule also how to estimate the durations of activities
+welcome to the lifecycle considerations schedule management define activities sequencing activities estimating durations schedule constraints and risks network diagram schedule template
+
+budget and procurement
+the process of planning and documenting the budget also how to manage the procurement process including supplier selection and management
+cost management cost and estimating estimating tools determine budget managing procurement procurement the manager procurement process contracts
+
+risk planning and management
+about how to identify analyze and mitigate potential risks to your
+risks risk management identifying risks qualitative analysis responding to risks monitoring risks
+
+quality management compliance
+about the importance of quality in the as well as the steps in closing the
+quality management quality characteristics cost of quality controlling change closing the
+</DOC>
+

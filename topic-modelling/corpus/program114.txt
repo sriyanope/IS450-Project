@@ -1,0 +1,60 @@
+<DOC>
+digital technologies and the future of manufacturing
+digital technologies are fundamentally transforming every aspect of the value chain in manufacturing logistics and management consulting series the basics behind some of these breakthrough technologies and their business applications including improved productivity quality and cycletime benefits within manufacturing and logistics challenges and risks for businesses will also be addressedthe content presented series draws on a number of reallife interviews and case studies and was created through a partnership with siemensapplied projectthe are based on case studies of fictional companies facing manufacturing challenges or where digital technologies can be implemented as viable solutions learners will be asked to take on the role of a technology consultant evaluate a companys situation and based on what they have learned about a particular technology topic present recommendations to the companys leadership for consideration given the business emphasis of the courses in the the will challenge learners to consider the business value risks challenges planning and impact on employees when developing their recommendations
+</DOC>
+
+<DOC>
+additive manufacturing
+this additive manufacturing is the third in the coursera digital technologies and the future of manufacturingin this learners will be introduced to the concept of additive manufacturing how it is applied in manufacturing and what businesses should consider as they decide to implement this technology considerations include the economics of the technology information technology infrastructure manufacturing ecosystem partners the business value of implementing additive manufacturing and what needs to happen across the organization to ensure successful implementation learners will hear from industry experts as they share their perspectives on the and challenges of implementing additive manufacturing how additive manufacturing is being implemented in their companies and insights on the future of this technology within their industry and across manufacturing the content presented draws on a number of reallife interviews and case studies and was created through a partnership with siemens
+
+what is additive manufacturing
+welcome to additive manufacturing the basics behind this technology and will be able to describe the applications and and uses for additive manufacturing within a manufacturing setting
+introduction what is additive manufacturing insights from siemens defining additive manufacturing why additive manufacturing general applications of additive manufacturing insights from siemens applications of additive manufacturing insights from general motors additive manufacturing at gm am technology and industrial applications am technology and industrial applications examples additive manufacturing technology choices insights from siemens different types of additive manufacturing fast radius additive manufacturing services
+
+business context of additive manufacturing
+in our second we will about the economic trade offs of additive manufacturing the partners that form the am ecosystem and the business contextadvantages of additive manufacturing well also review risks and challenges surrounding this technology
+economic tradeoffs of additive manufacturing insights from fast radius making the choice of additive manufacturing insights from siemens additive vs conventional manufacturing insights from siemens the speed of additive manufacturing additive manufacturing ecosystem broad additive manufacturing ecosystem partners insights from general motors additive manufacturing ecosystem insights from siemens integrators and middlemen insights from fast radius additive manufacturing services ecosystem insights from fast radius brief of am ecosystem additive manufacturing business value proposition part additive manufacturing business value proposition part additive manufacturing business value proposition part insights from siemens sustainability and additive manufacturing insights from fast radius business case for additive manufacturing additive manufacturing implementation framework introduction additive manufacturing implementation framework part insights from siemens change management insights from siemens advice for adopters additive manufacturing implementation framework part insights from siemens organizational insights from fast radius talent profile in additive manufacturing insights from general motors additive manufacturing adoption additive manufacturing challenges and risks insights from fast radius risks and challenges of am insights from general motors additive manufacturing risks
+
+future trend and series conclusion
+in our final about future trends in additive manufacturing and spend time working through a case for your final assessment and as the final in the dr krishnan will provide insights from all courses in the and discuss the business and social implications of applying these technologies
+additive manufacturing future trends insights from siemens disrupting global labor practices insights from fast radius future of additive manufacturing technology and business changes insights from fast radius additive manufacturing impact on logistics insights from siemens additive manufacturing in years insights from general motors additive manufacturing global competitiveness additive manufacturing digital technology trends in manufacturing consumer driven change in manufacturing organizational challenges in digital transformation insights from siemens a good example of dei in practice business implication social implications insights from general motors digital manufacturing insights from siemens navigating your in the new digital manufacturing world
+</DOC>
+
+<DOC>
+industrial internet of things iiot
+learners will be introduced to the concept of the industrial internet of things or iiot how it is applied in manufacturing and what businesses should consider as they decide to implement this technology considerations include information technology infrastructure the business value of implementing iiot and what needs to happen across the organization to ensure successful implementationlearners will hear from industry experts as they share their perspectives on the and challenges of implementing iiot how iiot is being implemented in their companies and insights on the future of this technology within their industry and across manufacturing the content presented draws on a number of reallife interviews and case studies and was created through a partnership with siemens
+
+series introduction
+welcome to digital technologies and the future of manufacturing first be introduced to the series objectives and an overview of digital transformations in manufacturing in todays business world
+welcome our plan digital technology trends in manufacturing insights from siemens digital transformation of manufacturing insights from fast radius an entrepreneurs journey in digital manufacturing consumer driven change in manufacturing organizational challenges in digital transformation insights from siemens complexity from legacy systems and legacy mindset digital capabilities are lifesavers insights from siemens post covid manufacturing insights from siemens managing diversity in new talent insights from siemens diversity equity and inclusion current leadership digital transformation
+
+the industrial internet of things iiot
+second we will dive deep into the industrial internet of things iiot and sensor technology hear realworld examples and more about the business value for this technology
+introduction what is the industrial internet of things iiot sensor technology and industrial applications insights from ford sensors to iiot insights from ford iiot manufacturing examples economics of sensor technology common business cases for sensors insight from tata steel productivity safety and security with iiot insights from tata steel iiot example for pandemic safety
+
+computing resources and business context of iiot
+our focus in the third surrounds cloud computing the systems and partners surrounding iiot and identification of business value risks and challenges for this technology
+what is cloud computing insights from tata consulting services tcs iiot applicaton examples iiot ecosystem insights from tcs iiot ecosystem roles of tcs iiot business value proposition iiot implementation framework iiot challenges and risks insights from siemens iot risks insights from tcs risks and challenges with iiot
+
+future trends and
+in our final hear more about the forecast of future trends for iiot and spend time working through a case for your final assessment
+iiot future trends insights from tcs future of iiot insights from professor yogesh gianchandani the future of sensor technology microsensors insights from omniscent from sensor technology to a business model iiot
+</DOC>
+
+<DOC>
+digital twins
+learners will be introduced to the concept of digital twins how it is applied in manufacturing and what businesses should consider as they decide to implement this technology considerations include information technology infrastructure the business value of implementing digital twins and what needs to happen across the organization to ensure successful implementationlearners will hear from industry experts as they share their perspectives on the and challenges of implementing digital twins how digital twins is being implemented in their companies and insights on the future of this technology within their industry and across manufacturing the content presented draws on a number of reallife interviews and case studies and was created through a partnership with siemens
+
+what is a digital twin
+welcome to digital twins the basics behind this technology and will be able to describe the applications and and uses for digital twins within a manufacturing setting
+introduction what are digital twins and how do they digital twins in manufacturing insights from ford digital twins applications at ford insights from tata steel digital twins example built on iot platform insights from siemens digital twin of performance insights from tata steel digital twins example for industrial construction complexity and scale of digital twins insights from siemens executable digital twins insights from siemens functional digital twins example digital twins and the automotive industry
+
+digital twins platform ecosystem and business context
+in our second we will address the digital twin platform ecosystem and the business contextadvantages of digital twins well also review risks and challenges surrounding this technology
+digital twins platform ecosystem digital twins concept insights from siemens evolving digital twins ecosystems what are the business advantages of digital twins digital twins implementation insights from ford digital twins implementation guidelines digital twins challenges and risks insights from siemens digital twins challenges insights from ford digital twins risks
+
+future trends and
+in our final about the forecast of future trends for digital twins about a related concept called digital threads and spend time working through a case for your final assessment
+what does the future look like for digital twins insights from siemens future of digital twins insights from ford future of digital twins digital thread future trend digital twins
+</DOC>
+

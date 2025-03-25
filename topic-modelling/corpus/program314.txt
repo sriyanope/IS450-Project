@@ -1,0 +1,89 @@
+<DOC>
+regulatory compliance
+every organization faces a myriad of risks that can threaten its operations reputation and bottom line a robust effective compliance can make the difference between companies that successfully navigate those risks and those that become cautionary talesthis will introduce the essential elements of effective organizational compliance by exploring the concepts considerations and strategies for assessing risks and managing the compliance function the fundamental principles of effective compliance the components of an effective compliance and their applications and then closely examine two of the most important areas of compliance in todays business climate privacy compliance and anticorruption the insights from this will be applicable to a wide range of different types of organizations from private companies to nonprofitsapplied over the of this how to complete a risk profile of your company or organization and the necessary strategies and features to ensure your compliance addresses your organizations specific risk profile in the privacy context also how to apply fair information principles to address compliance risk in the world of data protection finally strategies to combat both internal corruption and possible corruption on the part of thirdparty vendors and how to address violations of the foreign corrupt practices act
+</DOC>
+
+<DOC>
+what is compliance
+compliance isnt only about preventing problems and ensuring that everyone is abiding by laws rules and regulations its also about the positive impact a robust and ethical compliance can have on a business or organizationin this we will discuss why compliance is important from the needs facing businesses in highly regulated industries to avoiding fines and penalties to preventing reputational and economic nightmares well examine realworld examples of compliance and governance failures and their impact and consider strategies for avoiding similar situations in our own organizations be able to think about risk management in new ways and apply strategies to manage it
+
+what is compliance
+what is compliance and why is it important we answer those questions while also looking at some recent highprofile cases of noncompliance in the business world
+welcome to the defining compliance making rules stick knowing the rules case study enrons systemic compliance failures part case study enrons systemic compliance failures part case studies the one guy problem
+
+why is compliance important
+noncompliance can have massive realworld implications for the general public not just individuals directly related to a noncompliant company we examine laws that specifically create compliance obligations as well as the potential costs of noncompliance
+obligations are numerous pervasive and varied the demands of a settlement agreement the board of directors has a fiduciary duty avoiding reputational harm the indispensable and positive value of compliance recap
+
+compliance risk
+every company and organization must deal with risk and compliance is ultimately a vehicle to mitigate risk this explores the close relationship between compliance and risk management we will analyze the ways in which compliance programs manage risk as well as alternative forms of risk management
+compliance risk management risk analysis risk tolerance outsourcing risk compliance insurance as another vehicle to manage risk
+
+developments in the field of compliance
+this highlights developments in the everevolving world of compliance with special emphasis on recent trends in regulatory focus
+compliance taken more seriously by enforcement agencies institutional compliance v compliance in specific subject areas the burgeoning profession of compliance
+</DOC>
+
+<DOC>
+privacy law and data protection
+what does it take to comply with privacy laws well look at the practical aspects of navigating the complex landscape of privacy requirements better understanding privacy laws and data protection will enable you to protect your organization and the constituents that depend on your organization to safeguard their personal information first we will examine the historical context that drove the creation of laws best practices and other standards for protecting personal information we will also consider where in the us privacy laws exist and which sectors remain unregulated next we will focus on the federal health privacy law the health insurance portability and accountability act of hipaa and what it takes to comply with it how do you know the scope of the requirements and once you know hipaa applies how do you actually put measures in place to ensure compliance well explore the notion that one cannot have privacy without strong security and examine various models that promote the security of personal information well look closely at breach notification laws one of the most significant drivers of change in organizations and discuss strategies for the improvement of data protection overall lastly we will look at international law state law the unique and important role of the federal trade commission in protecting privacy most importantly we get practical we will discuss realworld practical approaches to how compliance professionals can navigate the complex landscape of privacy requirements to best protect their organizations
+
+privacy legal issues landscape chronology
+we begin our study of privacy and data protection with a brief look at the development of privacy law in the us then we examine the fair information principles that provide the foundation of modern privacy and data protection programs
+welcome to the legal and issues landscape and chronology historical legal context fair information principles the statutory landscape in the us
+
+hipaa
+how does a privacy law actually operate this looks at privacy and data protection in action specifically using hipaa as the framework
+scope of laws as an important compliance concept it applies now what implementing hipaa the notice requirement implementing hipaa access to records implementing hipaa uses disclosures and national priorities implementing hipaa minimum necessary
+
+security breach notification
+what is data protection actually protecting us from this looks at the threats to data security and the processes that exist for dealing with a data breach
+introduction to security establishing requirements in a rapidly changing environment forcing a process rather than an breach notification regulating by consequence compliance observations in information security
+
+other ways that privacy is regulated
+as massive privacy breaches continue to happen more regulatory bodies are taking on privacy concerns this examines the important role of the federal trade commission and concludes with a close look at the general data protection regulation recently passed by the european union
+other privacy laws abound ftc regulation the ftc privacy and compliance international law focus on the gdpr the gdpr privacy laws fleshing out the risk assessment
+</DOC>
+
+<DOC>
+effective compliance programs
+once you have an understanding of what compliance is and why it may be important it is natural to wonder next what should i do about it well explore one of the key factors for creating a positive culture of compliance human psychology well think about what drives us what makes us pay attention what distracts and how all of these pieces help build a strong belief in an organizational culture of compliance we will examine formal compliance programs diving into the nuances of how they are applied in practice well also explore the technologies workflows policies monitoring and training necessary to create a toolkit for designing an effective compliance
+
+building a strong compliance culture
+how do you actually implement a culture of compliance this looks at the key building blocks necessary to foster a culture of compliance within any organization
+welcome to the setting the stage origins of compliance law the goal of compliance culture integrating compliance throughout the organization from tone at the top to compliance at the core the compliance officer responsible person independence empowerment and resources part independence empowerment and resources part
+
+a closer look at the essentials
+once the foundations of a strong compliance culture are in place how do you disseminate that culture throughout an organization this examines the policies procedures and trainings necessary to create a compliant culture throughout an organization
+the code of conduct policies procedures and standards training training sessions other information flows compliance branding communications with business partners monitoring part monitoring part reporting line
+
+the psychology of compliance
+compliance at its heart is a response to a human problem if rules were enough compliance and enforcement wouldnt exist this explores the psychology behind why noncompliance happens and strategies for getting people to comply
+compliance involves more than you think why people do bad things the psychological aberration or deviation theory the privileged or entitled theory the stress and pressure theory the excessive greed or excessive ambition theory the costbenefit risk reward theory the lack of recognition theory the lack of selfcontrol theory the everyone is doing it or the virus theory the i could have done it another way theory the no harm theory how to get people to be compliant psychological theories of compliance the nudge theory the punishment scare them theory the rules cya theory the ubiquity theory the reward me theory the quid pro quo theory the bureaucratic theory the slippery slope broken windows theory the target theory the one size doesnt fit all theory
+
+dealing with noncompliance
+even in organizations with topnotch compliance programs noncompliance is as inevitable as death and taxes this explores strategies for dealing with noncompliance
+dealing with noncompliance senior response team reporting and other communication enforcing discipline lessons learned root cause analysis table top exercises
+</DOC>
+
+<DOC>
+what is corruption anticorruption and compliance
+have you ever paid someone for doing you a favor you may be accustomed to tipping wait staff or other service providers but what if you paid a police officer for not issuing a parking ticket or if you gave a gift to a government official for signing a contract with your company tipping might be okay but paying a bribe is a violation of the law bribery is widespread and exists almost everywhere and in many forms compliance programs address this and other forms of corruption well discuss what corruption actually is by examining for example the difference between a tip and an illegal bribe we will examine where corruption exists how it exists its ramifications and the genesis of todays anticorruption laws well also focus on practical strategies for creating compliance policies and procedures that address and prevent corruption we will about the us foreign corrupt practices act the uk bribery act and many other anticorruption laws much of the will focus on building out compliance policies and procedures that address corruption we will also look at practical methods for preventing corruption in an organization as well as red flags and other mechanisms for identifying corruption early so that it can be adequately addressed
+
+corruption what is it where is it
+what is corruption why does it exist where does it exist we begin this by answering those important threshold questions
+introduction is it a nice gesture or a bribe what is corruption where in the world a brief discussion of corruption throughout the world what are the lessons and what are the penalties for corruption
+
+anticorruption laws
+how has the law responded to corruption this examines the specific anticorruption laws that govern the business world with special emphasis on the foreign corrupt practices act
+anticorruption laws anticorruption laws continued foreign corrupt practices act fcpa elements of the fcpa
+
+anticorruption compliance programs aka how to avoid corruption issues
+how do you combat corruption this looks at the policies procedures and trainings used to combat corruption and also examines corruption risk and potential warning signs
+anticorruption compliance programs policies procedures risk assessment identification of warning signs potential warning signs anticorruption training part anticorruption training part
+
+preventing corruption
+can you stop corruption before it starts this looks at specific preventative measures such as anticorruption policies contract provisions and surveillance
+preventative measures preventative measures contract provisions preventative measures monitoring preventative measures third party training interaction with government officials other us anticorruption laws no must be an option
+</DOC>
+

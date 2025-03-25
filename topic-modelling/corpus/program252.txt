@@ -1,0 +1,148 @@
+<DOC>
+managing cybersecurity
+this is intended for those learners that would preferably have an undergraduate bachelors degree or is a currently enrolled student are interested in the area of it and cybersecurity and how it relates to business decisions is currently employed or seeking employment and needs to understand issues and best practices around cybersecurity may be a it or cybersecurity or technician may be interested in cybersecurity and unsure of how to approach a in it applied projectgiven a case study of a sample organization the student will specify the number role and qualifications of cybersecurity staff identify the number and types of policy needed outline a risk management specify the committees roles and plans needed to perform contingency planning and outline a cybersecurity governance
+</DOC>
+
+<DOC>
+the foundations of cybersecurity
+in order to manage the cybersecurity function business you must first understand its language and its environment this covers the foundations of cybersecurity including threats and vulnerabilities as well as the tools technologies and strategies used to manage itafter completing this a learner will be able to define key concepts and terminology in cybersecurity identify threats to cybersecurity identify strategies to identify and remediate vulnerabilities in information assets identify the systemic components including personnel necessary for an effective cybersecurity
+
+welcome to the foundations of cybersecurity
+this is an overview of the objectives for the
+
+introduction to cybersecurity
+objectives for introduction to cybersecurity
+the definition of cybersecurity the definition of cybersecurity lecture key concepts in cybersecurity part lecture key concepts in cybersecurity part lecture wrapup for introduction to cybersecurity
+
+threats to cybersecurity
+objectives for threats to cybersecurity
+threats to cybersecurity compromises to ip deviations in qos espionage or trespass lecture forces of nature human error or failure information extortion lecture sabotage or vandalism software attacks technical hardware failures lesson technical hardware failure technical software failure technological obsolescence and theft lesson threats to cybersecurity wrapup
+
+security technologies
+reading
+security technologies access control lecture firewalls lecture intrusion detection and prevention systems lecture virtual private networks lecture wrapup for security technologies
+
+managing vulnerabilities in information assets
+objectives for managing vulnerabilities in information assets
+vulnerabilities in information assets understanding vulnerabilities and vulnerability assessment lesson vulnerability assessment tools and techniques lesson vulnerability remediation strategies lesson configuration and change management in vulnerability assessment lesson wrapup for managing vulnerabilities
+
+understanding the cybersecurity
+objectives for managing vulnerabilities in information assets
+understanding the cybersecurity the cybersecurity personnel and the security department lecture cybersecurity programs policies guidelines and standards lesson cybersecurity programs continuous improvement programs lesson the cybersecurity explained
+
+wrapup for the foundations of cybersecurity
+
+</DOC>
+
+<DOC>
+the grc approach to managing cybersecurity
+managing cybersecurity is about managing risk specifically the risk to information assets of valued by an organization this examines the role of governance risk management and compliance grc as part of the cybersecurity management process including key functions of planning policies and the administration of technologies to support the protection of critical information assetsin this a learner will be able to identify the importance and functions of governance risk management and compliance in cybersecurity management describe best practices in risk management including the domains of risk assessment and risk treatment describe the structure and content of cybersecurityrelated strategy plans and planning identify the key components and methodologies of cybersecurity policies and policy development discuss the role of performance measures as a method to assess and improve grc programs
+
+welcome to the grc approach to managing cybersecurity
+this is an overview of the objectives for the
+
+introduction to the management of cybersecurity
+reading
+welcome to the grc approach to managing cybersecurity what is the management of cybersecurity lesson positioning the cybersecurity department lesson cybersecurity personnel roles and responsibilities lesson the cyberseta lesson cybersecurity personnel issues lesson the grc approach to managing cybersecurity
+
+cybersecurity governance and planning
+introduction to the on cybersecurity governance and planning
+cybersecurity governance and planning what is cybersecurity governance lesson cybersecurity strategic planning cybersecurity planning for contingencies lesson planning for the cybersecurity lesson wrap up for cybersecurity governance and planning
+
+cybersecurity risk management
+objectives for the cybersecurity risk management
+cybersecurity risk management what is risk management risk management models and methodologies preparation for risk management risk assessment risk treatment wrap up for cybersecurity risk management
+
+cybersecurity policy
+objectives for cybersecurity policy
+cybersecurity policy enterprise cybersecurity policy issue specific cybersecurity policies system specific security policies developing and implementing effective cybersecurity policy cybersecurity policy
+
+measuring success in the cybersecurity
+objectives for enterprise cybersecurity policy
+welcome to performance measures measuring success in the cybersecurity what are performance measures specifying cybersecurity measurements implementing the cybersecurity performance measures wrap up for performance measures measuring success in the cybersecurity
+
+law and regulation in cybersecurity
+objectives for law and regulation in cybersecurity
+law and regulation in cybersecurity introduction to key security laws privacy laws us and international security laws and standards wrap up for law and regulation in cybersecurity
+
+wrapup to the the grc approach to managing cybersecurity
+
+</DOC>
+
+<DOC>
+managing network security
+almost every organization uses computer networks to share their information and to support their business operations when we allow network access to data it is exposed to threats from inside and outside of the organization this examines the threats associated with using internal and external networks and how to manage the protection of information when its accessible via networksin this a learner will be able to describe the threats to data from information communication technology ict identify the issues and practices associated with managing network security identify the practices tools and methodologies associated with assessing network security describe the components of an effective network security
+
+welcome to the managing network security
+this is an overview of the objectives for the
+
+introduction to networking
+objectives for the
+introduction to networking what is a network how networks communicate introduction to network protocols tcpip and ethernet network protocols securing internet services and the web part securing internet services and the web part introduction to networking
+
+cybersecurity technology administration
+objectives for the on cybersecurity technology administration
+cybersecurity technology administration firewall administration firewall selection firewall administration firewall configuration idps administration vpn administration cryptography and network security cybersecurity technology administration
+
+wireless and cloud networks
+objectives for wireless and cloud networks
+wireless and cloud networks what is a wireless network wireless standards and protocols what is cloud networking and computing cloud networking and cybersecurity additional wireless network standards and technologies wrap up for wireless and cloud networks
+
+cybersecurity network auditing monitoring and logging
+reading
+cybersecurity network auditing monitoring and logging introduction to auditing and systems monitoring auditing systems monitoring management part auditing systems monitoring management part formal audits auditing digital forensics auditing part digital forensics auditing part wrap up for cybersecurity network auditing monitoring and logging
+
+wrap up for managing network security
+
+</DOC>
+
+<DOC>
+managing cybersecurity incidents and disasters
+most organizations plan for routine operations but what happens when unexpected events overtake the routine this examines contingency planning used to prepare for and manage nonnormal operations including cybersecurity incidents like hacking attempts web site defacement denial of service attacks information disclosures a well as other natural and manmade cybersecurity disastersin this a learner will be able to define and describe the components of a cybersecurity contingency planning identify the components and structure of an effective cybersecurity incident response identify the components and structure of an effective cybersecurity disaster recovery define and describe recommended contingency strategies including data backup and recovery and continuity of cybersecurity operations
+
+welcome to managing cybersecurity incidents and disasters
+objectives for managing cybersecurity incidents and disasters
+
+introduction to contingency planning
+objectives for introduction to contingency planning
+introduction to contingency planning what is contingency planning the contingency planning methodology the business impact analysis cp strategies data backup and recovery part cp strategies data backup and recovery part cp strategies realtime protection server recovery and application recovery
+
+incident response
+objectives for the incident response
+incident response what is incident response incident response planning incident response detection and containment incident response recovery incident response
+
+disaster recovery
+objectives for disaster recovery
+disaster recovery disaster recovery planning disaster classifications planning for disasters disaster preparation disaster recovery
+
+business continuity
+objectives for business continuity
+business continuity business continuity planning business continuity timing and sequence crisis management business continuity wrap up
+
+wrap up for managing cybersecurity incidents and disasters
+
+</DOC>
+
+<DOC>
+road to the ciso culminating
+the ultimate destination for a security manager is the chief information security officer or chief security officer a senior executive role responsible for all cybersecurity operations in the organization but how do you get from entrylevel it or security employee to the cisos office and what do you need to know when you get there this examines the path and requirements to be an effective ciso as well as the roles and responsibilities of the positionin this a learner will be able to identify the development and path of a cybersecurity from entrylevel to ciso define and describe the role and function of a ciso in planning for cybersecurity identify the development of a cybersecurity governance and the role the ciso would play in it discuss the strategic responsibilities of the ciso in overseeing an organizations cybersecurity
+
+introduction to the culminating capstone
+objectives for the capstone
+
+case of
+prepare and submit a casebased presentation to deliver the results of a proposal to improve the staffing of the case organizations cybersecurity team
+
+case of
+prepare and submit a casebased presentation that delivers the results of your proposal to establish a risk management
+
+case of
+prepare and submit a casebased presentation to deliver the results of a proposal to improve the cybersecurity policy portfolio of the organization
+
+case of
+prepare and submit your casebased presentations to deliver the results of your proposal to establish a contingency planning
+
+case of
+prepare and submit a casebased presentation that delivers the results of your proposal to establish a cybersecurity governance
+</DOC>
+

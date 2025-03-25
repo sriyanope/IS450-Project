@@ -1,0 +1,68 @@
+<DOC>
+rocket science
+rocket science focuses on the history of rocketry across the globe how orbits rocket engine functions and the benefits of space missions take a deeper look at how hollywoods depictions of space travel and the things it gets right and wrong about rocket science
+</DOC>
+
+<DOC>
+the history of rocket science
+modern rocket design started amidst world war ii pushing the boundaries of what rocketry was capable of in the history of rocket science gain a deeper understanding of this complicated history and discuss key advancements like the creation of the v rocket examine the ramifications of the advancements of rocket science from a historical and societal perspective going beyond the technological advancements during the war this also explores the cold war culminating in the united states creation of the apollo the pivotal creation that landed the us on the moon round out the by getting a firsthand look at space shuttles space stations space tourism and how companies are opening up space exploration
+
+the advent of modern rockets
+welcome to the history of rocket science and to the advent of modern rockets this will take you on a journey through the fascinating history of rocketry beginning with the time before modern rockets existed and leading up to the postwwii era by the end of this be able to recognize what came before modern rockets comprehend the cost of rocketry in wwii and comprehend the development of rocket inventions in wwii in germany also be able to recognize how the us and ussr responded to postwwii setting a strong foundation for the rest of the lets dive into the fascinating world of rocket science
+welcome to the history of rocket science the history of premodern rockets the invention of the v rocket rockets postwwii
+
+the space race
+welcome to the second of the history of rocket science courseweek the space race this will take you on a thrilling journey through one of the most exciting periods in the history of rocketrythe space race by the end of this be able to comprehend the political paradigm of the space race communism vs capitalism recognize the ussrs early victories in the space race identify the components of the us plan to get to the moon and explain why the ussr plan failed to get to the moon join us as we relive the excitement and intrigue of the space race and gain a deeper understanding of the history of rocket science
+early space exploration to part early space exploration to part ramping up the space race the mercury era the gemini era us and ussr achievements the apollo era successes failurespart the apollo era successes failurespart us moon missions a tribute to katherine johnson one more thing for if kennedy had lived
+
+the space shuttle era
+welcome to the third of the history of rocket science courseweek the space shuttle era this will explore the era of the space shuttle which marked a new phase in the history of space exploration we will examine the evolution of the shuttle and its impact on the exploration and utilization of space the will be divided into three parts each focusing on a distinct aspect of the space shuttle era the first part will cover fast airplanes where we will explore the technological advancements that made highspeed aircraft and commercial space travel possible the second part will focus on space stations where we will examine the construction and operation of the international space station iss which continues to be a vital platform for scientific research and technological development in space lastly the third part will cover the space shuttle where we will take a closer look at the cost and benefits of the shuttle including its role in deploying and repairing satellites and its use in servicing the hubble space telescope join us as we explore the exciting and innovative era of the space shuttle and gain a deeper understanding of the history of rocket science
+the development of fast airplanes in the us the development of space stations the truck to space the development of the space shuttle one more thing for the ussrs space shuttle
+
+the industrial revolution
+welcome to the fourth and the last of the history of rocket science courseweek the industrial revolution we will explore how the rocket industry has been transformed by the rise of commercial space companies and the emergence of new space technologies by the end of this be able to identify the reasons for the development of small satellites recognize the cost model of launch vehicles identify what launch vehicle providers are doing to drive costs down and comprehend the motivation to go to mars and how we can get there join us as we explore the cuttingedge technologies and revolutionary ideas that are driving the industrial revolution in rocket science and gain a deeper understanding of the future of space exploration
+small satellites start and exploring missions reducing launch cost electron other launch vehicles bigger and bolder the push outwards one more thing for hotels in space wrapup
+</DOC>
+
+<DOC>
+the basics of rocket science
+why are rockets so big is there gravity in space how does a rocket engine even explore the major concepts of rocket science including orbital dynamics velocity and different types of engines that help propel a rocket out of earths atmosphere determine how rocket scientists use formulas and newtons laws to propel rockets off the ground and accelerate them to their destination explore how and why rockets have stages including how rocket scientists choose between solid and liquid engines for rockets with the basics of rocket science even get an inside look at how we might get humans to mars an advancement in rocket science that could change humanitys future
+
+motion forces
+welcome to the first of the basics of rocket science where we will dive into the fundamental concepts of motion and forces we will cover a range of topics including position velocity and acceleration newtons laws and rocket science and the critical concept of thrust whether you are an aspiring rocket scientist aerospace engineer or simply a curious mind eager to explore the mysteries of space this will provide you with a solid foundation to understand the key concepts of motion and forces in the world of rocket science so lets strap in and get ready for an exciting journey into the basics of rocket science
+welcome to rocket science what is position velocity and acceleration what is a vector ballistic motion newtons laws what is momentum and why does it matter aside everything is relative the basics of thrust introduction to the rocket equation why do rockets have stages optionalbonus one more thing for the v the first modern ballistic missile
+
+basics of orbits
+welcome to the second of the basics of rocket science where we will delve into the fascinating world of orbits we will cover a range of topics including what an orbit is escape velocity and the different types of orbits that exist so get ready to discover the mysteries of orbits and the incredible technology that makes it all possible lets dive in
+the fundamental concepts of an orbit keplers laws our place in the solar system where do we livepart our place in the solar system where do we livepart what is escape velocity escaping vs landing a lot of types of orbits are out there optionalbonus orbit demonstration hohmann transfers to circle the sun why dont we throw our garbage into the sun lagrange points what are they getting to mars optionalbonus one more thing for sun synchronous orbits
+
+basics of rocket engines
+welcome to the third of the basics of rocket science where we will explore the fascinating world of rocket engines we will cover a range of topics including mass flow rate vs exhaust velocity jet engines solid engines and liquid engines by the end of this have a deep understanding of the fundamentals of rocket engines and how they are critical to modern technology and space exploration so get ready to dive into the world of rocket engines and discover the incredible technology that makes space exploration possible lets blast off
+mass flow rate vs exhaust velocity chemistry and physics of exhaust velocity sizing a rocket basics of jet engines vehicles that use jet engines where is the edge of space basics of solid engines solid engine grain patterns more on boosters basics of liquid engines cooling the bell pumps nozzle designs optionalbonus one more thing for choosing the right engine
+
+the future of rocket science
+welcome to the fourth and final of the basics of rocket science where we will explore the exciting future of rocket science we will cover a range of topics including electric engines big guns and lasers other engines such as nuclear and going to mars and back by the end of this have a deep understanding of the future of rocket science and how it will shape our understanding of the universe and our place in it so get ready to explore the cutting edge of rocket science and discover the incredible possibilities that lie ahead lets embark on this final journey together
+introduction to plasmas plasma thrusters can we use a big gun to get to space the math of a big gun can we use a laser to get to space a primer to nuclear engines radioisotope thermoelectric generators hybrid engines other engine designs going to mars one of the perspectives going to mars what could we do better optionalbonus going to mars working through the math one more thing for a look back on basics of rocket science
+</DOC>
+
+<DOC>
+rocket science in everyday life
+we encounter the results of rocket science all the time from weather prediction to gps navigation rocket science has helped navigate our world in new innovative ways rocket science in everyday life explores innovations in rocket science including the formation of space agencies like nasa and the european space agency that to advance rocket science how satellites are used to track climate changes across the globe and how rockets have taken us to worlds beyond our own examine the scientific motivations and methods for planetary exploration to see beyond our solar system end the with some cinematic magic and examine how movies and tv use rocket science to create exciting worlds even if they dont always get the science behind it right
+
+the science being conducted by nasa
+welcome to the first of rocket science in everyday life we will about the science being conducted by nasa and other space agencies around the world we will start by identifying these space agencies to recognize their general missions then we will comprehend the structure of nasa and how it does science finally we will identify nasa earth science missions and comprehend the crucial role of earth science satellites lets get started
+welcome to the rocket science in everyday life space agencies around the world nasa structure earth science satellites heliophysics
+
+how and why we explore planets
+welcome to the second of rocket science in everyday life we will embark on a thrilling expedition through our solar system to understand the fascinating worlds beyond our planet earth we will about exploring planets in our solar system and beyond throughout this we will gain a comprehensive understanding of the scientific motivations and methods behind planetary exploration lets get started
+missions to mercury is there anybody out there missions to venus missions to marspart missions to marspart the voyagers and the deep space network missions to the outer planets jupiter missions to the outer planets saturn pluto seeing beyond our solar system one more thing for why pluto is not a planet
+
+what movies get right and wrong about transportation
+welcome to the third of rocket science in everyday life we will explore the science of transportation and bust some myths we learned from movies we will distinguish between the imaginative creations of science fiction and the current state of scientific understanding and technological development by examining what movies get right and wrong about transportation we will foster a deeper understanding of the scientific principles at play and explore the potential future possibilities in transportation technology lets get started
+jet packs how they how much fuel does iron man need how teleportation works the millennium falcon problem gravity in space faster than light travel relativity time dilation travelling faster than speed of light is it possible to travel faster than light interstellar travel is it possible light sabers and blasters bonus optional one more thing for best and worst scifi space battles
+
+what movies get right and wrong about destruction
+welcome to the fourth and the last of rocket science in everyday life we will explore the science of destruction in movies we will start by exploring the impacts of asteroids and comets then we will explore the science of preventing asteroids and comets from impacting earth by separating fact from fiction gain a deeper appreciation for the realworld challenges and strategies involved in safeguarding our planet from potential impacts lets get started
+introduction to raining destruction from above comets asteroids and meteors identifying near earth objects neos predicting the orbits of neos sizes and destructive power of neos mitigation strategies in preventing neos example of mitigation strategies in preventing neos nasas dart mission optional bonus one more thing for the best and worst asteroid destruction in movies wrapup
+</DOC>
+

@@ -1,0 +1,172 @@
+<DOC>
+data mining
+the data mining teaches data mining techniques for both structured data which conform to a clearly defined schema and unstructured data which exist in the form of natural language text specific topics include pattern discovery clustering text retrieval text mining and analytics and data visualization the capstone task is to solve realworld data mining challenges using a restaurant review data set from yelpcourses of this form the lecture component of courses in the online master of computer science degree in data scienceopens in a new tab you can apply to the degree either before or after you begin the
+</DOC>
+
+<DOC>
+pattern discovery in data mining
+the general concepts of data mining along with basic methodologies and applications then dive into one subfield in data mining pattern discovery indepth concepts methods and applications of pattern discovery in data mining we will also introduce methods for datadriven phrase mining and some interesting applications of pattern discovery this provides you the to and content to practice and engage in scalable pattern discovery methods on massive transactional data discuss pattern evaluation measures and study methods for mining diverse kinds of patterns sequential patterns and subgraph patterns
+
+orientation
+the orientation will get you familiar with the your instructor your classmates and our environment
+
+
+consists of two lessons lesson covers the general concepts of pattern discovery this includes the basic concepts of frequent patterns closed patterns maxpatterns and association rules lesson covers three major approaches for mining frequent patterns we will the downward closure or apriori property of frequent patterns and three major categories of methods for mining frequent patterns the apriori algorithm the method that explores vertical data format and the patterngrowth approach we will also discuss how to directly mine the set of closed patterns
+what is pattern discovery why is it important frequent patterns and association rules compressed representation closed patterns and maxpatterns the downward closure property of frequent patterns the apriori algorithm extensions or improvements of apriori mining frequent patterns by exploring vertical data format fpgrowth a pattern growth approach mining closed patterns
+
+
+covers two lessons lessons and in lesson we discuss pattern evaluation and what kind of interesting measures should be used in pattern analysis we show that the supportconfidence framework is inadequate for pattern evaluation and even the popularly used lift and chisquare measures may not be good under certain situations we introduce the concept of nullinvariance and introduce a new nullinvariant measure for pattern evaluation in lesson we examine the issues on mining a diverse spectrum of patterns we the concepts of and mining methods for multiplelevel associations multidimensional associations quantitative associations negative correlations compressed patterns and redundancyaware patterns
+limitation of the supportconfidence framework interestingness measures lift and null invariance measures comparison of nullinvariant measures mining multilevel associations mining multidimensional associations mining quantitative associations mining negative correlations mining compressed patterns
+
+
+consists of two lessons lessons and in lesson we discuss mining sequential patterns we will several popular and efficient sequential pattern mining methods including an aprioribased sequential pattern mining method gsp a vertical data formatbased sequential pattern method spade and a patterngrowthbased sequential pattern mining method prefixspan we will also how to directly mine closed sequential patterns in lesson we will study concepts and methods for mining spatiotemporal and trajectory patterns as one kind of pattern mining applications we will introduce a few popular kinds of patterns and their mining methods including mining spatial associations mining spatial colocation patterns mining and aggregating patterns over multiple trajectories mining semanticsrich movement patterns and mining periodic movement patterns
+sequential pattern and sequential pattern mining gsp aprioribased sequential pattern mining spadesequential pattern mining in vertical data format prefixspansequential pattern mining by patterngrowth clospanmining closed sequential patterns mining spatial associations mining spatial colocation patterns mining and aggregating patterns over multiple trajectories mining semanticsrich movement patterns mining periodic movement patterns
+
+
+consists of two lessons lessons and in lesson we study mining quality phrases from text data as the second kind of pattern mining application we will mainly introduce two newer methods for phrase mining topmine and segphrase and show frequent pattern mining may be an important role for mining quality phrases in massive text data in lesson we will several advanced topics on pattern discovery including mining frequent patterns in data streams pattern discovery for software bug mining pattern discovery for image analysis and pattern discovery and society privacypreserving pattern mining finally we look forward to the future of pattern mining research and application exploration
+from frequent pattern mining to phrase mining previous phrase mining methods topmine phrase mining without training data segphrase phrase mining with tiny training sets frequent pattern mining in data streams pattern discovery for software bug mining pattern discovery for image analysis advanced topics on pattern discovery pattern mining and societyprivacy issue advanced topics on pattern discovery looking forward
+</DOC>
+
+<DOC>
+cluster analysis in data mining
+discover the basic concepts of cluster analysis and then study a set of typical clustering methodologies algorithms and applications this includes partitioning methods such as kmeans hierarchical methods such as birch and densitybased methods such as dbscanoptics moreover methods for clustering validation and evaluation of clustering quality finally see examples of cluster analysis in applications
+
+orientation
+become familiar with the your classmates and our environment the orientation will also help you obtain the technical required for the
+
+
+
+what is cluster analysis applications of cluster analysis requirements and challenges a multidimensional categorization an overview of typical clustering methodologies an overview of clustering different types of data an overview of user insights and clustering basic concepts measuring similarity between objects distance on numeric data minkowski distance proximity measure for symetric vs asymmetric binary variables distance between categorical attributes ordinal attributes and mixed types proximity measure between two vectors cosine similarity correlation measures between two variables covariance and correlation coefficient
+
+
+programming
+partitioningbased clustering methods kmeans clustering method initialization of kmeans clustering the kmedoids clustering method the kmedians and kmodes clustering methods kernel kmeans clustering hierarchical clustering methods agglomerative clustering algorithms divisive clustering algorithms extensions to hierarchical clustering birch a microclusteringbased approach clustereng overview clustereng kmeans and kmedoids clustereng application agnes clustereng application dbscan
+
+
+
+cure clustering using wellscattered representatives chameleon graph partitioning on the knn graph of the data probabilistic hierarchical clustering densitybased and gridbased clustering methods dbscan a densitybased clustering algorithm optics ordering points to identify clustering structure gridbased clustering methods sting a statistical information grid approach clique gridbased subspace clustering
+
+
+reading programming
+methods for clustering validation clustering evaluation measuring clustering quality constraintbased clustering external measures matchingbased measures external measure entropybased measures external measure pairwise measures internal measures for clustering validation relative measures cluster stability clustering tendency
+
+conclusion
+in the conclusion feel free to share any thoughts you have on this
+</DOC>
+
+<DOC>
+text mining and analytics
+this will cover the major techniques for mining and analyzing text data to discover interesting patterns extract useful knowledge and support decision making with an emphasis on statistical approaches that can be generally applied to arbitrary text data in any natural language with no or minimum human effort detailed analysis of text data requires understanding of natural language text which is known to be a difficult task for computers however a number of statistical approaches have been shown to well for the shallow but robust analysis of text data for pattern finding and knowledge discovery the basic concepts principles and major algorithms in text mining and their potential applications
+
+orientation
+become familiar with the your classmates and our environment the orientation will also help you obtain the technical required for the
+introduction to text mining and analytics prerequisites completion
+
+
+during this the overall design an overview of natural language processing techniques and text representation which are the foundation for all kinds of textmining applications and word association mining with a particular focus on mining one of the two basic forms of word associations ie paradigmatic relations
+overview text mining and analytics part overview text mining and analytics part natural language content analysis part natural language content analysis part text representation part text representation part word association mining and analysis paradigmatic relation discovery part paradigmatic relation discovery part
+
+
+during this more about word association mining with a particular focus on mining the other basic form of word association ie syntagmatic relations and start topic analysis with a focus on techniques for mining one topic from text
+syntagmatic relation discovery entropy syntagmatic relation discovery conditional entropy syntagmatic relation discovery mutual information part syntagmatic relation discovery mutual information part topic mining and analysis motivation and task definition topic mining and analysis term as topic topic mining and analysis probabilistic topic models probabilistic topic models overview of statistical language models part probabilistic topic models overview of statistical language models part probabilistic topic models mining one topic
+
+
+during this topic analysis in depth including mixture models and how they expectationmaximization em algorithm and how it can be used to estimate parameters of a mixture model the basic topic model probabilistic latent semantic analysis plsa and how latent dirichlet allocation lda extends plsa
+probabilistic topic models mixture of unigram language models probabilistic topic models mixture model estimation part probabilistic topic models mixture model estimation part probabilistic topic models expectationmaximization algorithm part probabilistic topic models expectationmaximization algorithm part probabilistic topic models expectationmaximization algorithm part probabilistic latent semantic analysis plsa part probabilistic latent semantic analysis plsa part latent dirichlet allocation lda part latent dirichlet allocation lda part
+
+
+during this text clustering including the basic concepts main clustering techniques including probabilistic approaches and similaritybased approaches and how to evaluate text clustering also start text categorization which is related to text clustering but with predefined categories that can be viewed as predefining clusters
+text clustering motivation text clustering generative probabilistic models part text clustering generative probabilistic models part text clustering generative probabilistic models part text clustering similaritybased approaches text clustering evaluation text categorization motivation text categorization methods text categorization generative probabilistic models
+
+
+during this continue about various methods for text categorization including multiple methods classified under discriminative classifiers and also sentiment analysis and opinion mining including a detailed introduction to a particular technique for sentiment classification ie ordinal regression
+text categorization discriminative classifier part text categorization discriminative classifier part text categorization evaluation part text categorization evaluation part opinion mining and sentiment analysis motivation opinion mining and sentiment analysis sentiment classification opinion mining and sentiment analysis ordinal logistic regression
+
+
+during this continue about sentiment analysis and opinion mining with a focus on latent aspect rating analysis lara and about techniques for joint mining of text and nontext data including contextual text mining techniques for analyzing topics in text in association with various context information such as time location authors and sources of data also see a of the entire
+opinion mining and sentiment analysis latent aspect rating analysis part opinion mining and sentiment analysis latent aspect rating analysis part textbased prediction contextual text mining motivation contextual text mining contextual probabilistic latent semantic analysis contextual text mining mining topics with social network context contextual text mining mining casual topics with time series supervision
+</DOC>
+
+<DOC>
+data mining
+note you should complete all the other courses before beginning this coursethis sixweek long of the data mining will allow you to apply the learned algorithms and techniques for data mining from the previous courses in the including pattern discovery clustering text retrieval text mining and visualization to solve interesting realworld data mining challenges specifically on a restaurant review data set from yelp and use all the knowledge and youve learned from the previous courses to mine this data set to discover interesting and useful knowledge the design of the emphasizes simulating the workflow of a data miner in a real job setting integrating different mining techniques covered in multiple individual courses experimenting with different ways to solve a problem to deepen your understanding of techniques and allowing you to propose and explore your own ideas creatively the goal of the is to analyze and mine a large yelp review data set to discover useful knowledge to help people make decisions in dining the will include the following outputs opinion visualization explore and visualize the review content to understand what people have said in those reviews cuisine map construction mine the data set to understand the landscape of different types of cuisines and their similarities discovery of popular dishes for a cuisine mine the data set to discover the commonpopular dishes of a particular cuisine recommendation of restaurants to help people decide where to dine mine the data set to rank restaurants for a specific dish and predict the hygiene condition of a restaurant from the perspective of users a cuisine map can help them understand what cuisines are there and see the big picture of all kinds of cuisines and their relations once they decide what cuisine to try they would be interested in knowing what the popular dishes of that cuisine are and decide what dishes to have finally they will need to choose a restaurant thus recommending restaurants based on a particular dish would be useful moreover predicting the hygiene condition of a restaurant would also be helpful by working on these tasks gain with a typical workflow in data mining that includes data preprocessing data exploration data analysis improvement of analysis methods and presentation of results have an to combine multiple algorithms from different courses to complete a relatively complicated mining task and experiment with different ways to solve a problem to understand the best way to solve it we will suggest specific approaches but you are highly encouraged to explore your own ideas since open exploration is by design a goal of the you are required to submit a brief report for each of the tasks for peer grading a final consolidated report is also required which will be peergraded
+
+orientation
+become familiar with the your instructor your classmates and our environment
+
+task exploration of a data set
+peer review
+
+task cuisine clustering and map construction
+peer review
+
+task dish recognition
+peer review
+
+task popular dishes and restaurant recommendation
+peer review
+
+task
+peer review
+
+final report
+peer review plugin
+</DOC>
+
+<DOC>
+data visualization
+this will teach you how to make more effective visualizations of data not only will you gain deeper insight into the data but also how to better communicate that insight to others new ways to display data applying some fundamental principles of design and human cognition to choose the most effective way to display different kinds of data this not only teaches you how to use popular applications like tableau to connect to data warehouses to extract and visualize relevant data but also teaches you how tableau works so you can use the same techniques to make effective data visualizations on your own with any visualization system
+
+orientation
+become familiar with the your classmates and our environment the orientation will also help you obtain the technical required for the
+
+the computer and the human
+weeks what data visualization is how its used and how computers display information also explore different types of visualization and how humans perceive information
+introduction some books on data visualization overview of visualization d graphics svgexample d drawing d graphics photorealism nonphotorealism the human memory reasoning the human retina perceiving two dimensions perceiving perspective
+
+visualization of numerical data
+weeks start to think about how to visualize data effectively this will include assigning data to appropriate chart elements using glyphs parallel coordinates and streamgraphs as well as implementing principles of design and color to make your visualizations more engaging and effective
+introduction data mapping charts glyphs part glyphs part parallel coordinates stacked graphs part stacked graphs part tuftes design rules using color
+
+visualization of nonnumerical data
+weeks how to visualize graphs that depict relationships between data items also plot data using coordinates that are not specifically provided by the data set
+introduction graphs and networks embedding planar graphs graph visualization tree maps principal component analysis multidimensional scaling packing
+
+the visualization dashboard
+weeks start to put together everything youve learned by designing your own visualization system for large datasets and dashboards create and interpret the visualization you created from your data set and also apply techniques from userinterface design to create an effective visualization system
+introduction visualization systems the information visualization mantra part the information visualization mantra part the information visualization mantra part database visualization part database visualization part database visualization part visualization system design
+</DOC>
+
+<DOC>
+text retrieval and search engines
+recent years have seen a dramatic growth of natural language text data including web pages news articles scientific literature emails enterprise documents and social media such as blog articles forum posts product reviews and tweets text data are unique in that they are usually generated directly by humans rather than a computer system or sensors and are thus especially valuable for discovering knowledge about peoples opinions and preferences in addition to many other kinds of knowledge that we encode in text this will cover search engine technologies which play an important role in any data mining applications involving text data for two reasons first while the raw data may be large for any particular problem it is often a relatively small subset of the data that are relevant and a search engine is an essential tool for quickly discovering a small subset of relevant text data in a large text collection second search engines are needed to help analysts interpret any patterns discovered in the data by allowing them to examine the relevant original text data to make sense of any discovered pattern the basic concepts principles and the major techniques in text retrieval which is the underlying science of search engines
+
+orientation
+become familiar with the your classmates and our environment the orientation will also help you obtain the technical required for the
+welcome introduction
+
+
+during this weeks lessons of natural language processing techniques which are the foundation for all kinds of textprocessing applications the concept of a retrieval model and the basic idea of the vector space model
+lesson natural language content analysis lesson text access lesson text retrieval problem lesson overview of text retrieval methods lesson vector space model basic idea lesson vector space retrieval model simplest instantiation
+
+
+weeks lessons how the vector space model works in detail the major heuristics used in designing a retrieval function for ranking documents with respect to a query and how to implement an information retrieval system ie a search engine including how to build an inverted index and how to score documents quickly for a query
+lesson vector space model improved instantiation lesson tf transformation lesson doc length normalization lesson implementation of tr systems lesson system implementation inverted index construction lesson system implementation fast search
+
+
+weeks lessons how to evaluate an information retrieval system a search engine including the basic measures for evaluating a set of retrieved results and the major measures for evaluating a ranked list including the average precision ap and the normalized discounted cumulative gain ndcg and practical issues in evaluation including statistical significance testing and pooling
+lesson evaluation of tr systems lesson evaluation of tr systems basic measures lesson evaluation of tr systems evaluating ranked lists part lesson evaluation of tr systems evaluating ranked lists part lesson evaluation of tr systems multilevel judgements lesson evaluation of tr systems practical issues
+
+
+weeks lessons probabilistic retrieval models and statistical language models particularly the detail of the query likelihood retrieval function with two specific smoothing methods and how the query likelihood retrieval function is connected with the retrieval heuristics used in the vector space model
+lesson probabilistic retrieval model basic idea lesson statistical language model lesson query likelihood retrieval function lesson statistical language model part lesson statistical language model part lesson smoothing methods part lesson smoothing methods part
+
+
+weeks lessons feedback techniques in information retrieval including the rocchio feedback method for the vector space model and a mixture model for feedback with language models also how web search engines including web crawling web indexing and how links between web pages can be leveraged to score web pages
+lesson feedback in text retrieval lesson feedback in vector space model rocchio lesson feedback in text retrieval feedback in lm lesson web search introduction web crawler lesson web indexing lesson link analysis part lesson link analysis part lesson link analysis part
+
+
+weeks lessons how machine can be used to combine multiple scoring factors to optimize ranking of documents in web search ie to rank and techniques used in recommender systems also called filtering systems including contentbased recommendationfiltering and collaborative filtering also have a chance to review the entire
+lesson to rank part lesson to rank part lesson to rank part lesson future of web search lesson recommender systems contentbased filtering part lesson recommender systems contentbased filtering part lesson recommender systems collaborative filtering part lesson recommender systems collaborative filtering part lesson recommender systems collaborative filtering part lesson
+</DOC>
+

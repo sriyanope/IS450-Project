@@ -1,0 +1,184 @@
+<DOC>
+digital manufacturing design technology
+whether youre a high school graduate exploring manufacturing careers or an operations manager hungry for an understanding of the newest manufacturing technologies this will provide a foundation in how digital advances are changing the landscape and capabilities of factories nine courses developed with input from the manufacturing industry touch on industry and its components including digital manufacturing and design practices the concept of the digital thread the internet of things and big data to more about the digital manufacturing and design technology please watch the overview by copying and pasting the following link into your web browser httpsyoutubewetkoccaopens in a new tabapplied projectlearners will create a roadmap to achieve their own personal goals related to the digital manufacturing and design dmd profession which will help them leverage relevant the culminating provides a tangible element to include in their portfolios that showcases their knowledge of industry
+</DOC>
+
+<DOC>
+advanced manufacturing process analysis
+variability is a fact of life in manufacturing environments impacting product quality and yield through this students will why performing advanced analysis of manufacturing processes is integral for diagnosing and correcting operational flaws in order to improve yields and reduce costs gain insights into the best ways to collect prepare and analyze data as well as computational platforms that can be leveraged to collect and process data over sustained periods of time become better prepared to participate as a member of an advanced analysis team and share valuable inputs on effective implementation main concepts of this will be delivered through lectures discussions and various this is the fourth in the digital manufacturing design technology that explores the many facets of manufacturings fourth revolution aka industry and features a culminating involving creation of a roadmap to achieve a selfestablished dmdrelated goal to more about the digital manufacturing and design technology please watch the overview by copying and pasting the following link into your web browser httpsyoutubewetkocca
+
+introduction to advanced manufacturing process analysis
+the purpose of this is to introduce the concept of advanced analysis in improvement of manufacturing processes also this will help you to understand the difference between discrete manufacturing and continuous manufacturing
+introduction to advanced manufacturing process analysis the data analysis process data collection in different manufacturing settings dmd dialogue discrete part manufacturing dmd dialogue continuous manufacturing
+
+data collection
+storing big data is quite different from handling traditional data this difference is explained the purpose of this is to introduce various steps involved in data analysis data collection data storage data organization and data preprocessing concepts are explained
+big data data collection considerations data storage data preprocessing
+
+data analysis computational techniques and platforms
+the purpose of this is to introduce various techniques used in advanced analysis like determination of significant variablesfactors data visualization and anomaly detection also this will introduce various computational platforms hpc cloud computing techniques that exist for carrying out advanced analysis
+sensitivity analysis anomaly detection the computational platform hpc and cloud computing your roadmap to success
+</DOC>
+
+<DOC>
+mbse modelbased systems engineering
+this modelbased systems engineering mbse and the digital thread courses featured earlier bring together the concepts from across digital manufacturing and design forming a vision in which the geometry of a product is just one way of describing it mbse is where the model resulting from the evolution of system requirements design analysis verification and validation activities is the focus of design and manufacturing students will gain an understanding of systems engineering the modelbased approach to design and manufacturing the digital twin and a roadmap toward a modelbased enterprisestudents will be able to explain the value and expectations of systems engineering and modelbased systems engineering and the underlying motivations and represented by a modelbased enterprise they will develop the knowledge necessary to perform a baseline assessment of an organizations potential to leverage mbse main concepts of this will be delivered through lectures discussions and various this is the eighth in the digital manufacturing design technology that explores the many facets of manufacturings fourth revolution aka industry and features a culminating involving creation of a roadmap to achieve a selfestablished dmdrelated goal to more about the digital manufacturing and design technology please watch the overview by copying and pasting the following link into your web browser httpsyoutubewetkocca
+
+systems engineering
+the purpose of this is to establish a basic understanding of systems engineering and the role it plays in design and manufacturing at the end of the learners will be able to explain a systems engineering process and discuss the advantages and disadvantages of the approach
+introduction mbse modelbased systems engineering introduction to systems engineering introduction to systems engineering part systems engineering and the lifecycle systems engineering process overview business impacts of systems engineering
+
+modelbased systems engineering
+the purpose of this is to explain modelbased systems engineering mbse and its applications upon completion learners will be able to assess a process for mbse and develop an argument for implementation the learners will also be able to develop a strategy on how to implement applications of mbse
+modelbased definition mbd modelbased systems engineering methodologies systems modeling language sysml modelbased systems engineering mbse application strategies
+
+applications of modelbased systems engineering
+learners will develop an appreciation of the modelbased enterprise including the benefits and barriers to successful implementation learners will be able to identify potential for the adoption of a modelbased enterprise
+the modelbased enterprise part the modelbased enterprise part the modelbased enterprise and the digital thread business aspects of the modelbased enterprise realizing a modelbased enterprise
+
+modelbased enterprise
+the purpose of this is to develop an understanding of the mbe self assessment tools at the end of the learners will be able to go through a tool to analyze mbe maturity
+modelbased enterprise self assessment design activities configuration management and document management manufacturing planning activities quality requirements and quality planning activities enterprise activities your roadmap to success
+</DOC>
+
+<DOC>
+digital manufacturing design
+this will expose you to the transformation taking place throughout the world in the way that products are being designed and manufactured the transformation is happening through digital manufacturing and design dmd a shift from paperbased processes to digital processes in the manufacturing industry by the end of this understand what dmd is and how it is impacting careers practices and processes in companies both large and small gain an understanding of and appreciation for the role that technology is playing transition the technology we use every day whether it is communicating with friends and family purchasing products or streaming entertainment can benefit design and manufacturing making companies and workers more competitive agile and productive discover how this new approach to making products makes companies more responsive and employees more involved and engaged as new paths in advanced manufacturing evolve main concepts of this will be delivered through lectures discussions and various this is the first in the digital manufacturing design technology that explores the many facets of manufacturings fourth revolution aka industry and features a culminating involving creation of a roadmap to achieve a selfestablished dmdrelated goal to more about the digital manufacturing and design technology please watch the overview by copying and pasting the following link into your web browser httpsyoutubewetkocca
+
+the big picture
+the purpose of this is to introduce learners to the factors and trends motivating the transition from the current state of manufacturing to a dmd model details of individual lessons are provided below
+introduction to digital manufacturing design technology introduction to digital manufacturing and design digital manufacturing and design impact on manufacturing careers advantages of digital manufacturing and design information sharing in the digital thread multiple organizations in the manufacturing process
+
+components of the paradigm
+the purpose of this is to introduce learners to the multiple components that integrate to create a future manufacturing enterprise ie a digital link between design and production leveraging data analytics to identify for increased quality and efficiency interconnected and transparent machines production facilities and supply chains details of individual lessons are provided below
+components gaining insight from data a closed loop approach integrated information systems in the product lifecycle protecting your organization your roadmap to success overview
+</DOC>
+
+<DOC>
+intelligent machining
+manufacturers are increasingly utilizing machine tools that are selfaware they perceive their own states and the state of the surrounding environment and are able to make decisions related to machine activity processes this is called intelligent machining and through this students will receive a primer on its background tools and related terminology how the integration of smart sensors and controls are helping to improve productivity be exposed to various sensors and sensing techniques process control strategies and open architecture systems that can be leveraged to enable intelligent machining this will prepare you to contribute to the implementation of intelligent machining main concepts of this will be delivered through lectures discussions and various this is the fifth in the digital manufacturing design technology that explores the many facets of manufacturings fourth revolution aka industry and features a culminating involving creation of a roadmap to achieve a selfestablished dmdrelated goal to more about the digital manufacturing and design technology please watch the overview by copying and pasting the following link into your web browser httpsyoutubewetkocca
+
+introduction to intelligent machining
+the purpose of this is to introduce the concepts related to intelligent machining paradigm the key focus will be discussing two key components of intelligent machining ie sensing and control
+introduction to intelligent machining machining basics the evolution of intelligent machining components of intelligent machining
+
+sensors and sensing techniques
+the purpose of this is to introduce spectrum of sensors used to implement intelligent machining the will also discuss the basics of signal processing and analysis techniques that has brought intelligent machining paradigm closer to industrial realization following issues pertaining to sensors and sensing techniques will be elaborated up which sensors are to be used in each application how to acquire and process sensor signals
+sensors signal processing transforming data into information practical uses of machine
+
+process control strategies
+the purpose of this is to introduce the concept of programmable logic controllers plcs that coordinate the realtime control functions
+programmable logic controllers plc closed loop process control systems introduction to adaptive control commercially available software
+
+future directions in advanced machining
+the purpose of this is to introduce the background related to open architecture software systems to implement intelligent machining
+intelligent machining and the future tech talk on metrology your roadmap to success
+</DOC>
+
+<DOC>
+digital thread components
+this will help you recognize how the digital thread is the backbone of the digital manufacturing and design dmd transformation turning manufacturing processes from paperbased to digitalbased have a working understanding of the digital thread the stream that starts at product concept and continues to accumulate information and data throughout the products life cycle and identify to leverage it gain an understanding of how the right information in the right place at the right time should flow this is one of the keys to unlocking the potential of a digital design process acknowledging this will enable you to be more involved in a products development cycle and to help a company become more flexible main concepts of this will be delivered through lectures discussions and various this is the second in the digital manufacturing design technology that explores the many facets of manufacturings fourth revolution aka industry and features a culminating involving creation of a roadmap to achieve a selfestablished dmdrelated goal to more about the digital manufacturing and design technology please watch the overview by copying and pasting the following link into your web browser httpsyoutubewetkocca
+
+digital thread defined
+the purpose of this is to introduce learners to the context and definition of the digital thread details of individual lessons are provided below
+introduction to digital thread components the vision of digital manufacturing and design the diffusion of innovation motivating factors digital thread business systems
+
+data storage in the digital thread
+the purpose of this is to explore the different strategies and components affecting data storage in the enterprise building on effective information technology practices the will develop learners knowledge of well developed data storage strategies upon completion students will be able to analyze an organizations data storage strategy and make recommendations for improvement in performance and robustness details of individual lessons are provided below
+data storage data singularity version control data security and disaster recovery
+
+data sharing and the digital thread
+the purpose of this is to explain factors impacting the ability of organizations to share data internally and externally upon completion of the learners will be able to evaluate data sharing strategies and point out potential strengths and weaknesses of different approaches details of individual lessons are provided below
+data sharing interoperability semantic data technical data packages your roadmap to success
+</DOC>
+
+<DOC>
+digital thread implementation
+there are throughout the design process of any product to make significant changes and ultimately impact the future of manufacturing by embracing the digital thread dig into the transformation taking place in how products are designed and manufactured throughout the world it is the second of two courses that focuses on the digital thread the stream that starts at the creation of a product concept and continues to accumulate information and data throughout the product life cycle hear about the realities of implementing the digital thread directly from someone responsible for making it happen at a company how the digital thread can fit into product development processes in an office on a shop floor and even across an enterprise be prepared to talk about the benefits and limitations of enacting it main concepts of this will be delivered through lectures discussions and various this is the third in the digital manufacturing design technology that explores the many facets of manufacturings fourth revolution aka industry and features a culminating involving creation of a roadmap to achieve a selfestablished dmdrelated goal to more about the digital manufacturing and design technology please watch the overview by copying and pasting the following link into your web browser httpsyoutubewetkocca
+
+strategic issues in implementing the digital thread
+the purpose of this is to outline the strategies barriers and business factors related to the implementation of a digital thread approach details of individual lessons are provided below
+introduction to digital thread implementation a business case for the digital thread transitioning to the digital thread challenges and benefits of implementing the digital thread
+
+cyberinfrastructure components of the digital thread
+the purpose of this is to introduce students to the information technology components supporting the digital thread details of individual lessons are provided below
+information technology components computing resources virtualization resources for cloudbased computing
+
+technologies used in the design process
+the purpose of this is to discuss individual digital analysis tools used in the design process details of individual lessons are provided below
+design process technologies finite element analysis computational fluid dynamics mold design verification and validation
+
+digital thread on the shop floor
+the purpose of this is to introduce the growing number of digital tools available to support manufacturing operations details of individual lessons are provided below
+the production process additive manufacturing digital instructions digital documents and records digital metrology approaches
+
+digital thread and the manufacturing enterprise
+the purpose of this is to introduce how a digital thread implementation impacts the design and manufacturing enterprise details of individual lessons are provided below
+dmd connections throughout the enterprise the industrial internet of things iiot factory simulation tools mrp erp mes your roadmap to success
+</DOC>
+
+<DOC>
+advanced manufacturing enterprise
+enterprises that seek to become proficient in advanced manufacturing must incorporate manufacturing management tools and integrate data throughout the supply chain to be successful this will make students aware of what a digitally connected enterprise is as they about the operational complexity of enterprises business process optimization and the concept of an integrated productprocessvalue chain students will become acquainted with the available tools technologies and techniques for aggregation and integration of data throughout the manufacturing supply chain and entire product lifecycle they will receive foundational knowledge to assist in efforts to facilitate design planning and production scheduling of goods and services by applying product life cycle data main concepts of this will be delivered through lectures discussions and various this is the sixth in the digital manufacturing design technology that explores the many facets of manufacturings fourth revolution aka industry and features a culminating involving creation of a roadmap to achieve a selfestablished dmdrelated goal to more about the digital manufacturing and design technology please watch the overview by copying and pasting the following link into your web browser httpsyoutubewetkocca
+
+the concept of a connected and collaborative enterprise
+the purpose of this is to educate students on why a holistic approach is necessary for analyzing the impact of advanced manufacturing on the success of an enterprise
+introduction to advanced manufacturing enterprise an integrated enterprise the transparency of product life cycle data advanced manufacturing defined advanced manufacturing levels of approach
+
+how to build a digitally connected enterprise
+the purpose of this is to provide an overview of product lifecycle and describe the challenges and that organizations face in adoption of advanced manufacturing technologies we will discuss the desire for collection of product lifecycle data as well as outline the required features for a highly connected enterprise in addition we will provide several examples of informationsharing infrastructures and will elaborate the concept of product lifecycle management plm system finally we will discuss several examples of effective data collection technologies
+product life cycle advanced manufacturing adoption information sharing infrastructures product life cycle management plm the industrial internet of things iiot
+
+introduction to a set of supply chain management tools integrated capabilities
+we will introduce the current enterprise management tools such as erp mrp and mes that are often employed to integrate capabilities of various entities through the supply chain we will provide a broad overview of these tools and will review the capabilities of each of them
+material requirements planning mrp manufacturing process management manufacturing execution systems enterprise resource planning erp
+
+ensure a robust infrastructure
+we discuss the importance of measuring the performance of supply chains we will also discuss decision analysis methods and techniques that facilitate decision making through the entire product lifecycle
+infrastructure performance new manufacturing paradigms data security concerns and solutions your roadmap to success
+</DOC>
+
+<DOC>
+roadmap to success in digital manufacturing design
+learners will create a roadmap to achieve their own personal goals related to the digital manufacturing and design dmd profession which will help them leverage relevant the culminating provides a tangible element to include in their portfolios that showcases their knowledge of industry this is part of the digital manufacturing and design technology that explores the many facets of manufacturings fourth revolution aka industry to more about the and its courses please watch the overview by copying and pasting the following link into your web browser httpsyoutubewetkocca
+
+definition
+the purpose of this is to introduce learners to the factors and trends motivating the transition from the current state of manufacturing to a digital manufacturing and design dmd model learners will demonstrate critical thinking to define a personalized roadmap relating to the transformation such that they can impact themselves and the future of dmd details of individual lessons are provided below
+introduction roadmap to success in digital manufacturing and design definition industry traditional vs digital manufacturing roles next generation charter
+
+selfassessment
+the purpose of this is for learners to identify their current situation perform a selfassessment and create a personalized future goal within the digital manufacturing and design paradigm details of individual lessons are provided below
+selfassessment strength weaknesses and threats swot analysis a business case for digital implementation your future in digital manufacturing and design selfmarketing tools
+
+network exploration
+this focuses on defining and acquiring resources to help learners grow their network to assist in attaining the future goal identified within the digital manufacturing and design domain details of individual lessons are provided below
+finding a mentor network expansion safeguard your online image creating an elevator pitch
+
+roadmap execution
+learners will created a realistic roadmap execution plan to transition from a current state to a future desired state in the digital manufacturing and design paradigm using concepts gleaned throughout the and elsewhere
+
+final submission and peer review evaluation
+final learners will continue to complete final edits and submit personalized artifacts and attestations to support a transition from a current state to a future state in digital manufacturing and design as a peer review learners will review and provide feedback of the of classmates
+</DOC>
+
+<DOC>
+cyber security in manufacturing
+the nature of digital manufacturing and design dmd and its heavy reliance on creating a digital thread of product and process data and information makes it a prime target for hackers and counterfeiters this will introduce students to why creating a strong and secure infrastructure should be of paramount concern for anyone operating in the dmd domain and measures that can be employed to protect operational technologies systems and resources acquire knowledge about security needs and the application of information security systems build the foundational needed in performing a risk assessment of operational and information technology assets gain valuable insights of implementing controls to mitigate identified risks main concepts of this will be delivered through lectures discussions and various this is the seventh in the digital manufacturing design technology that explores the many facets of manufacturings fourth revolution aka industry and features a culminating involving creation of a roadmap to achieve a selfestablished dmdrelated goal to more about the digital manufacturing and design technology please watch the overview by copying and pasting the following link into your web browser httpsyoutubewetkocca
+
+introduction to digital manufacturing security
+the purpose of this is to introduce you to the information security need framework and processes as it applies to creating a strong and secure digital manufacturing and design infrastructure
+introduction digital manufacturing security part digital manufacturing security part information security framework part information security framework part operational technology and informational technology risk management application of information security part application of information security part
+
+guidance on securing digital manufacturing operations
+the purpose of this is to introduced you to the various components of the digital manufacturing operation and the basic security concepts that can be used to protect these components
+securing all aspects of a digital manufacturing operation humanmachine and mm interactions securing end to end process via security development life cycle software security flaws and threats network security and authentication part network security and authentication part
+
+protecting operational technologies and intellectual property
+the purpose of this is to describe how the various operational steps of digital manufacturing that includes supply chain shipping process mobile device usage and the associated communication can be protected along with the intellectual property ip items that arise during digital manufacturing and design
+protecting operational technologies and intellectual property part protecting operational technologies and intellectual property part supply chain security shipping rfid tags mobile device security and wireless communication part shipping rfid tags mobile device security and wireless communication part dataapplications and cloud security intellectual property protection from threats
+
+breach response
+the purpose of this is to teach you how to respond to security breaches when they happen we will start with the threat landscape and system failures and investigate the interplay between security and reliability which are essential for building dependable systems the mechanism of continuous monitoring to detect security breaches and strategies for forensics breach response and recovery will also be described
+breach response reliability versus security intrusion prevention techniques and data leak prevention tools part intrusion prevention techniques and data leak prevention tools part monitoring intrusion detection and network hardening intrusion response recovery and forensics your roadmap to success your roadmap to success
+</DOC>
+

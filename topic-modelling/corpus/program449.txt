@@ -1,0 +1,123 @@
+<DOC>
+sas programmer
+when you complete the sas base programming courses have demonstrated in manipulating and transforming data combining sas data sets creating basic detail and reports using sas procedures and identifying and correcting data syntax and programming logic errors these prepare you for the sas base programming specialist certification exam applied projectin the last of this you complete that demonstrate your knowledge of sas programming in the first you write programs for each stage of the sas programming process to analyze passenger claims at united states airports in the second you use your knowledge of the data preparation stage to write programs that restructure world tourism data
+</DOC>
+
+<DOC>
+preparing for the sas programming certification exam
+you have the to use the you acquired in the two sas programming courses to solve realistic problems this is also designed to give you a thorough review of sas programming concepts so you are prepared to take the sas certified specialist base programming using sas exam
+
+overview and data setup
+you get an overview of this and set up the data you need for practices and activities
+welcome to the about the certification exams
+
+review of getting started with sas programming part
+this is a review of the first three of the getting started with sas programming lectures demonstrate the concepts you learned and from the sas certification prep guide reinforce those concepts the review and programming questions assess your understanding of the material
+structure and syntax required sas column attributes finding and resolving syntax errors overview directly accessing structured data importing unstructured data viewing table properties with proc contents overview using sas procedures to explore and validate data
+
+review of getting started with sas programming part
+this reviews the preparing analyzing and exporting of the getting started with sas programming lectures demonstrate the concepts you learned and from the sas certification prep guide reinforce those concepts the review and programming questions assess your understanding of the material
+overview using the data step to prepare data using proc sql to join tables using proc freq using proc means overview using proc export using the output delivery system
+
+review of doing more with sas programming part
+this is a review of the first four of the doing more with sas programming lectures demonstrate the concepts you learned about for preparing data and from the sas certification prep guide reinforce those concepts the review and programming questions assess your understanding of the material
+understanding data step processing directing data step output summarizing data using numeric character and date functions using the intnx and intck functions creating and using custom formats
+
+review of doing more with sas programming part
+this is a review of the last three of the doing more with sas programming lectures demonstrate the concepts you learned about for preparing data and from the sas certification prep guide reinforce those concepts the review and programming questions assess your understanding of the material
+concatenating tables merging tables using iterative and conditional do loops using nested do loops using the data step to restructure tables using proc transpose to restructure tables
+</DOC>
+
+<DOC>
+practicing for the sas programming certification exam
+you have the to use the you acquired in the two sas programming courses to solve realistic problems this is also designed to give you a thorough review of sas programming concepts so you are prepared to take the sas certified specialist base programming using sas exam
+
+overview
+you get an overview of this and set up the data you need for practices and activities
+
+case studyprogramming analyze tsa claims data
+this enables you to apply what you learned in getting started with sas programming to a real programming problem
+case study overview accessing data solution exploring data solution preparing data solution analyzing data solution exporting reports solution
+
+case study preparing world tourism data
+discussion prompt
+case study overview preparing world tourism data view the case study data create the cleanedtourism table part create the cleanedtourism table part create the cleanedtourism table part create the finaltourism table create the nocountryfound table
+
+base sas certification practice exams
+app items
+</DOC>
+
+<DOC>
+getting started with sas programming
+this is for users who want to how to write sas programs to access explore prepare and analyze data it is the entry point to sas programming for data science machine and artificial intelligence it is a prerequisite to many other sas coursesby the end of this know how to use sas studio to write and submit sas programs that access sas microsoft excel and text data know how to explore and validate data prepare data by subsetting rows and computing new columns analyze and report on data export data and results to other formats use sql in sas to query and join tables prerequisites learners should have using computer software specifically you should be able to understand file structures and system commands on your operating systems and access data files on your operating systems no prior sas is needed
+
+overview and data setup
+you about the and you set up the data you need to do the practices in the
+welcome to the demo programming in sas practicing
+
+essentials
+you how to use sas programming tools and the fundamentals of sas structure and syntax
+overview sas programming interfaces demo programming with sas studio sas structure sas syntax demo understanding sas syntax demo finding and resolving syntax errors
+
+accessing data
+you to identify the features of a sas table access data through sas libraries and import data into sas
+overview types of data what is a sas table required column attributes for sas tables listing table and column attributes accessing data in a using a library to read sas data automatic sas libraries demo exploring automatic sas libraries using a library to read other file types demo using a library to read excel files importing unstructured data demo importing a commadelimited csv file importing an excel file
+
+exploring and validating data
+you to use sas procedures that provide insights about your data you also to subset data so you can focus on particular segments format data so you can easily understand it and sort data to identify and resolve duplicate values
+overview exploring data with procedures demo exploring data with sas procedures filtering rows with the where statement combining expressions in a where statement demo filtering rows with basic operators using special where operators creating and using macro variables demo filtering rows using macro variables formatting data values in results common formats for numeric values common formats for date values demo formatting data values in results sorting data identifying and removing duplicates demo identifying and removing duplicate values
+
+preparing data
+you how to do some common data manipulations such as filtering rows and columns computing new columns and performing conditional processing
+overview using the data step to create a sas data set data step processing demo working with the data step demo using expressions to create new columns using numeric functions to create columns demo using character functions demo using date functions demo conditional processing with ifthen conditional processing with ifthenelse creating character columns with the length statement processing multiple statements with ifthendo demo processing multiple statements with ifthendo
+
+analyzing and reporting on data
+we concentrate on summarizing data by using the sas procedures that we touched on for data exploration you also how to use titles column labels footnotes and macro variables to enhance your reports and make them more meaningful
+overview using titles and footnotes using macro variables and functions in titles and footnotes applying temporary labels to columns segmenting reports demo enhancing reports applying permanent labels to columns demo creating frequency reports and graphs demo creating twoway frequency reports demo creating a statistics report creating an output table
+
+exporting results
+you to export sas tables and results to excel microsoft word and pdf files
+overview exporting data demo exporting data to an excel workbook using the sas output delivery system exporting results to csv demo exporting results to excel exporting results to powerpoint and microsoft word demo exporting results to pdf
+
+using sql in sas
+you to use the sql procedure to read and filter data you also to create and join tables by using sql
+overview sql and sas proc sql syntax filtering and sorting output demo reading and filtering data with sql creating and deleting tables in sql creating inner joins in sql demo joining tables with proc sql using table aliases youve finished the
+</DOC>
+
+<DOC>
+doing more with sas programming
+this is for business analysts and sas programmers who want to data manipulation techniques using the sas data step and procedures to access transform and summarize data the builds on the concepts that are presented in the getting started with sas programming and is not recommended for beginning sas software usersin this you how to understand and control data step processing create an accumulating column and process data in groups manipulate data with functions convert column type create custom formats concatenate and merge tables process repetitive code and restructure tables this addresses base sas software before attending this you should be able to write data step code to access data subset rows and columns compute new columns and process data conditionally you should also be able to sort tables using the sort procedure and apply sas formats
+
+overview and data setup
+you get an overview of what you and you set up the software and data you use for activities and practices in the
+welcome to the practicing
+
+controlling data step processing
+we dig deeper into the data step you how the data step processes data behind the scenes then you use this knowledge to control when and where the data step outputs rows to new tables
+overview data step review data step processing data step processing compilation data step processing execution demo data step processing in action viewing execution in the log controlling data step processing implicit and explicit output sending output to multiple tables demo directing row output controlling column output demo directing column output columns in the pdv
+
+summarizing data
+you new syntax that enables you to alter the default behavior of the data step to solve a problem first you to create an accumulating column or in other words generate a running total then you to process data in groups so you can perform an action when each group begins or ends
+overview demo creating an accumulating column retaining values in the pdv using the sum statement answering questions about groups processing sorted data in groups demo identifying the first and last row in each group subsetting rows in the execution phase demo creating an accumulating column within groups using multiple by columns
+
+manipulating data with functions
+you to use some new functions that enable you to manipulate numeric date and character values in addition you to use functions that change a column from one data type to another
+overview review of functions specifying columns lists using a call routine to modify data using numeric functions demo using numeric functions sas date datetime and time values extracting data from a datetime value calculating date intervals shifting date values demo shifting date values based on an interval useful character functions extracting words from a string demo using character functions to extract words from a string searching for character strings replacing character strings handling column type converting column type converting character values to numeric values using a generic informat to read dates converting the type of an existing column converting numeric values to character values demo using the input function to convert column types demo using the put function to convert column types
+
+creating and using custom formats
+you to create and use custom formats to enhance the way your data is displayed in a table or report
+overview formatting data values creating and applying a custom format using ranges demo creating and using custom formats reading a table of values for a format demo creating custom formats from tables storing custom formats
+
+combining tables
+we take a comprehensive look at combining tables by using the data step you to concatenate tables merge tables and identify matching and nonmatching rows
+overview concatenating tables with matching columns demo concatenating tables handling column attributes what is a merge processing a onetoone merge processing a onetomany merge demo merging tables merging tables with nonmatching rows identifying matches and nonmatches demo merging tables with nonmatching rows merging tables with matching column names merging tables without a common column data step merge and proc sql join
+
+processing repetitive code
+you to save time by taking advantage of iterative processing with do loops first you to create an iterative do loop then you to create conditional do loops
+overview processing repetitive code iterative do loops demo executing an iterative do loop output inside and outside the do loop demo using iterative do loops conditional do loops checking the condition demo using conditional do loops combining iterative and conditional do loops demo combining iterative and conditional do loops
+
+restructuring tables
+you techniques that can be used to transpose or restructure a table first you to restructure data with the data step then you to restructure data by using the transpose procedure
+overview understanding table structure restructuring data demo creating a narrow table with the data step creating a wide table with the data step the transpose procedure transposing values within groups demo creating a wide table with proc transpose creating a narrow table with proc transpose changing column names
+</DOC>
+

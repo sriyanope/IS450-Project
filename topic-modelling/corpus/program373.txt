@@ -1,0 +1,109 @@
+<DOC>
+web applications for everybody
+this is an introduction to building web applications for anybody who already has a basic understanding of responsive web design with javascript html and css web applications for everybody is your introduction to web application development develop web and database applications in php using sql for database creation as well as functionality in javascript jquery and jsonover the of this create several web apps to add to your developer portfolio this and its prerequisites will prepare you even if you have little to no in programming or technology for entry level web developer jobs in phpyoull demonstrate basic concepts like database design while working on that require the development of increasing challenging web apps from installing a text editor to understanding how a web browser interacts with a web server to handling events with jquery gain a complete introductory overview of web application developmentapplied projectthe courses feature requiring development of increasingly challenging web sites to demonstrate basic concepts as they are introduced the will demonstrate the students in html css php sql and javascript
+</DOC>
+
+<DOC>
+building database applications in php
+well look at the object oriented patterns available in php how to connect to a mysql using the portable data objects pdo library and issue sql commands in the the php language well also look at how php uses cookies and manages session data how php avoids double posting data how flash messages are implemented and how to use a session to log in users in web applications well then build the first complete application that has multiple screens to create read update and delete crud our data this brings all the previous concepts together and will form the basis for all later web applications it is assumed that learners have already taken the building web applications
+
+php objects
+we look at the object oriented patterns available in php
+welcome to the object oriented concepts creating objects in php object oriented libraries in php object life cycle in php object inheritance in php installing mamp on macintosh installing mamp on windows installing xampp on windows windows using ngrok with the autograder macintosh using ngrok with the autograder bonus office hours new york city
+
+connecting php and mysql
+we look at how we connect to a mysql using the portable data objects pdo library and issue sql commands in the the php language
+php database libraries running sql queries in php accessing mysql using pdo inserting data security issue avoiding sql injection error handling with pdo code walkthrough php mysql and pdo code walkthrough inserting and deleting data code walkthrough security and sql injection bonus office hours orem utah
+
+php cookies and sessions
+we look at how php uses cookies and manages session data
+cookies sessions sessions without cookies code walkthrough cookies and sessions bonus office hours detroit michigan
+
+php redirect routing and authentication
+we look at how php avoids double posting data how flash messages are implemented and how we use a session to log in users in web applications
+redirect routing and authentication code walkthrough routing and redirect post refresh redirect code walkthrough post redirect implementing login and logout code walkthrough login and logout bonus office hoursreunion bletchley park
+
+building a crud application
+now we build our first complete application that has multiple screens to create read update and delete crud our data this brings all the previous concepts together and will form the basis for all later web applications
+create read update and delete crud code walkthrough crud in php bonus office hours atlanta georgia fun dr chuck pretends to be a news anchor fun graduation ceremony
+</DOC>
+
+<DOC>
+building web applications in php
+explore the basic structure of a web application and how a web browser interacts with a web server be introduced to the requestresponse cycle including getpostredirect also gain an introductory understanding of hypertext markup language html as well as the basic syntax and data structures of the php language variables logic iteration arrays error handling and superglobal variables among other elements an introduction to cascading style sheets css will allow you to style markup for webpages lastly gain the and knowledge to install and use an integrated phpmysql environment like xampp or mamp
+
+introduction to dynamic web content
+we look at the basic structure of a web application and how a web browser interacts with a web server we explore the requestresponse cycle that is the basis of the hypertext transfer protocol http
+why php welcome to in the our technologies hypertext transfer protocol http requestresponse cycle bonus office hours in san francisco fun dr chuck sings the blues in geneva switzerland
+
+hypertext markup language html
+we briefly cover the basics of the hypertext markup language html that is the markup for web pages we hope that you already have some expertise in html and that this is mostly review
+hypertext markup language html tags code walkthrough html bonus office hours in raleigh nc
+
+cascading style sheets css
+we briefly cover the basics of cascading style sheets css that allow us to style the markup for web pages
+cascading style sheets css code walkthrough css basics styling with css images colors and links in css code walkthrough styling with css bonus office hours in philadelphia pa
+
+installing php and sql
+our first technical task is to through the installation steps including installing a text editor installing mamp or xampp or equivalent creating a mysql database and writing a php
+installing mamp on macintosh installing mamp on windows installing xampp on windows bonus brian behlendorf apache foundation bonus office hours vancouver bc
+
+introduction to php
+we begin php
+introduction to php php basics php keywords php expressions php control structures bonus rasmus lerdorf inventing php bonus office hours seattle wa
+
+php arrays
+we look at unique aspects of arrays in the php language
+php arrays php array functions http php arrays windows using ngrok with the autograder macintosh using ngrok with the autograder bonus office hours capetown south africa
+
+php functions
+we look at unique aspects of functions in php
+php functions php variable scope php modularity bonus office hours shoreditch london uk
+
+php and html forms
+we look at how html forms are created and processed in the php language
+html forms using get and post with forms html input types code walkthrough html input types html input types processing form data and html injection code walkthough forms and html injection guessing game code walkthrough guessing game model view controller mvc bonus bletchley park office hours
+</DOC>
+
+<DOC>
+introduction to structured query language sql
+walk through installation steps for installing a text editor installing mamp or xampp or equivalent and creating a mysql database about single table queries and the basic syntax of the sql language as well as database design with multiple tables foreign keys and the join operation lastly to model manytomany relationships like those needed to represent users roles and courses
+
+installing php and sql
+our first technical task is to through the installation steps including installing a text editor installing mamp or xampp or equivalent creating a mysql database
+welcome to the installing mamp on a macintosh installing mamp on windows installing xampp on windows bonus office hours in the hague
+
+introduction to structured query language sql
+we about single table queries and the basic syntax of the sql language
+overview of databases basic sql operations data types in sql database keys and indexes bonus liz fong standardizing sql bonus office hours orlando florida
+
+database design
+covering database design with multiple tables foreign keys and the join operation
+relational database design normalization and foreign keys building a physical data schema relational database design bonus office hours houston tx fun dr chuck gets a educational technology tattoo
+
+manytomany
+we how to model manytomany relationships like those needed to represent users roles and courses
+manytomany relationships bonus office hours portland oregon
+</DOC>
+
+<DOC>
+javascript jquery and json
+well look at the javascript language and how it supports the objectoriented pattern with a focus on the unique aspect of how javascript approaches oo well explore a brief introduction to the jquery library which is widely used to do inbrowser manipulation of the document object model dom and event handling also more about javascript object notation json which is commonly used as a syntax to exchange data between code running on the server ie in php and code running in the browser javascriptjqueryit is assumed that learners have already taken the building web applications and building database applications in php courses
+
+introduction to javascript
+we take a quick look at the javascript language we assume that you already know php so it is a pretty quick introduction focusing on what is different about javascript
+welcome to the javascript overview basic javascript javascript core language features javascript variables and expressions javascript arrays and control structures code walkthrough javascript javascript document object model code walkthrough document object model dom code walkthrough javascriptprofiles installing mamp on macintosh installing mamp on windows installing xampp on windows windows using ngrok with the autograder macintosh using ngrok with the autograder bonus brendan eich inventing javascript bonus office hours seattle washington
+
+javascript objects
+we do a quick look at how the javascript language supports the objectoriented pattern this is the second time we look at the oo pattern so we focus on the unique aspect of how javascript approaches oo
+javascript object oriented concepts javascript building objects javascript object life cycle bonus office hours seoul south korea
+
+using jquery
+this is a brief introduction to the jquery library which is widely used to do inbrowser manipulation of the document object modeldom and event handling
+jquery basics code walkthrough jquery basics forms and jquery code walkthrough forms and jquery code walkthrough profiles positions and jquery bonus john resig jquery bonus office hours barcelona
+
+json javascript object notation
+section we look at javascript object notation json json is commonly used as a syntax to exchange data between code running on the server ie in php and code running in the browser javascriptjquery
+javascript object notation json json and jquery code walkthrough javascript object notation json chat code walkthrough json chat code walkthrough json crud code walkthrough profile positions education and json bonus office hours montreal quebec fun chuck pretends he is a travel show paris
+</DOC>
+

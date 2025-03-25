@@ -1,0 +1,104 @@
+<DOC>
+core java
+this core java is part of a series of programming specializations derived from learnquests private java bootcamps designed to provide the set necessary to be hired as an it developer using java in many corporate environmentsto be successful we recommend you have an understanding of the fundamentals of software development in any language learnquest offers a beginning programmer that can help you preparein the four courses of this quickly master the java programming language and the packages that constitute its rich set of core libraries well provide handson exercises so you can practice your new in well introduce you to the basic fundamentals of the java language provides a refresher on objectoriented programming and how you can apply oo to java well introduce java classes instances and packagingby the time you get to be ready to go deeper into applying oop concepts in java including inheritance and polymorphismin how to use selected parts of the java se class library including generics collections java streams io exceptions annotations and enumswhile well touch on other important java topics such as database connectivity java ee and spring those topics are covered in greater detail in other learnquest java specializations applied projectthroughout the complete handson labs to gain following the lessons taught to use the eclipse environment to create java to in use these to help develop in working with java data types and control of the flow of your programs objects methods classes and interfaces that practice in these will help you in implementing polymorphism including calculator math functions and an inventory
+</DOC>
+
+<DOC>
+introduction to objectoriented programming with java
+introduction to oo programming with java is of the core java after completing this be able to create simple java classes that exhibit the principle of encapsulation to import other classes for use to with strings print output and use advanced math functionswell begin with a brief refresher on necessary concepts from objectoriented programming next well introduce basic java concepts regarding classes enabling you to start writing simple java classes with attributes and methods well introduce the idea of instances or objects created from classes so that you can start to build objectoriented solutions finally well cover namespaces and java libraries to explain how java packages classes so that everyone can develop code without name collisions be able to organize and access classes as well as use selected standard classes from the java runtime environment to be successful you should have taken introduction to java or have equivalent knowledge
+
+classes and objects
+we discuss why we are using objectoriented programming and introduce the concepts in java of classes objects attributes and methods along with that well discuss some of the conventions of the javabeans specification and make use of them in our code
+overview managing complexity code reuse managing change moving to oo from procedural oo definitions defining a class an example class objects objects example the lab environment
+
+creating classes
+well go into more detail on creating classes in java and how to organize classes into packages well cover attributes instance and class variables methods access modifiers parameters variable length argument lists local variables constants constructors overloaded methods and more
+introduction to packages packages and the classpath declaring a class class anatomy adding attributes and methods method parameters method variables java access modifiers constructors creating classes lab creating classes lab full walkthrough optional static attributes static methods demo creating calculator classes lab creating calculator classes lab full walkthrough optional
+
+using java objects
+relatively short having discussed in more detail creating classes well briefly turn our attention back to objects how to create them with the new keyword the difference between type and class something well revisit often and conceptually what happens in a jvm when we create a new object
+creating an object working with objects creating objects lab creating objects lab full walkthrough optional
+
+namespaces and java libraries
+well look more closely at the use of java packages how we declare our package the implications of being in a package why packages are important how we import classes from other packages what import does for us how we come up with our own unique package name by following the specified rules how to resolve name collisions finally we will concluding by looking at four specific java classes string stringbuffer stringbuilder and math
+jar files and namespaces packages packaging classes importing packages using imported classes the string class creating string objects stringbuffer and stringbuilder the math class creating calculator objects lab creating calculator objects lab full walkthrough optional
+</DOC>
+
+<DOC>
+objectoriented hierarchies in java
+objectoriented hierarchies in java is the third of a series of courses in the core java the core java is part of a series of programming specializations derived from learnquests private java bootcamps designed to provide the set necessary to be hired as an it developer using java in many corporate environmentsthis includes handson practice and will help you build on your knowledge of the java language after completing this have a deeper understanding of how to effectively implement and use inheritance and polymorphism in java to be successful you should have taken introduction to java introduction to objectoriented programming with java or have equivalent knowledge
+
+overview
+we will introduce you to this and explain what
+
+oo programming relationships
+this foreshadows the entire covering oo relationships inheritance polymorphism interfaces aggregation and design guidelines the following revisit selected topics in more detail
+introduction to relationships in oo an inheritance example polymorphism the lab environment inheritance implementing the cargo class association class hierarchies finding classes
+
+inheritance
+this goes into more detail on implementing class inheritance in java including overriding methods invoking overridden parent methods using super and more
+review of inheritance javalangobject a look at the javadoc implementing equals and hashcode methods implementing the tostring method inheritance in java overloading and overriding overriding example constructors challenges lab solution lab solution
+
+abstract classes
+this discusses abstract classes including what they are where you might use them how to implement them and concludes with discussion of casting which is the technique of taking a reference of a given type and asserting a different type
+abstract classes why and when abstract classes demo syntax review design decisions abstract classes and reference types casting lab solution
+
+interfaces
+interfaces are the key to polymorphism in java since java requires inheritance in order to implement polymorphism and classes are limited to the single inheritance graph this goes into more detail on interfaces and polymorphism and includes discussion of java features such as default and static methods functional interfaces java lambdas and method references
+interfaces vs abstract classes implementing and using interfaces vehicle polymorphism example the vehicle demo extending interfaces designing with interfaces evolving the vehicle interface default static methods lambdas and functional interfaces w using lambdas in the vehicle app lab solution
+
+polymorphism
+just as the first served to foreshadow the entire content of this this serves as a brief capstone with a conceptual discussion of polymorphism mechanisms in java and practices for ensuring that polymorphism is an option in your programs
+polymorphism lab solution
+</DOC>
+
+<DOC>
+introduction to java
+this is the first of a series of courses that make up the core java the core java in turn is part of a series of programming specializations derived from learnquests private java bootcamps designed to provide the set necessary to be hired as an it developer using java in many corporate environmentsthis includes handson practice and will give you a solid knowledge of the java language after completing this be able to identify javas benefits in basic java syntax using java data types and incorporate branches and loops the audience for this anyone interested in java programmers technical managers application developers prerequisites to be successful with this you should understand the fundamentals of software development in either a procedural or objectoriented language
+
+welcome to java
+we will introduce you to java examine the benefits of java and the ways in which java is packaged we will see how java can be installed and we will demo hello world in java
+overview of the core java overview introduction and benefits of java key benefits write once run anywhere wora key benefits packages syntax and libraries key benefits connectivity and performance java product suite java standard edition se jakarta ee formerly known as java ee java micro edition me jdk installation and demo
+
+java language fundamentals types
+this introduces a bit of basic java syntax but primarily focuses on javas primitive types and their wrapper classes this concludes with a brief introduction to the associated lab environment within your browser and to configure the environment to in the best fashion for yourself you then proceed to open the ide used environment eclipse and review the different elements within it finally be reading for lab exercises related to this
+java types syntax a simple java java naming conventions the lab environment primitive data types creating primitives lab solution optional full lab walkthrough wrapper classes arrays wrappers and arrays demo
+
+java language fundamentals flow control
+this covers java fundamentals of writing simple expressions using operators branching and looping
+java operators mathematical relational operators boolean operators if statements else statements ternary and switch statements while loop for loop break and continue statements lab solution optional full lab walkthrough
+</DOC>
+
+<DOC>
+java class library
+java class library is the fourth and final in the core java the core java is part of a series of programming specializations derived from learnquests private java bootcamps designed to provide the set necessary to be hired as an it developer using java in many corporate environmentsafter completing this be able to write reusable code that remains typesafe using java generics with collections of objects with files handle runtime errors and generally be prepared to move on to to use java frameworks such as spring boot and jakarta ee we will cover additional language features that enable the class library essential library areas and provide roadmaps to areas for selfexploration to be successful you should have taken introduction to java introduction to objectoriented programming with java objectoriented hierarchies in java or have equivalent knowledge
+
+overview
+this provides an overview of the core java java class library we will cover language features that enable the class library essential library areas and provide roadmaps to areas for selfexploration we will about a major java feature generics known as template or parameterized types in some other languages introduced in java generics are a key tool in ensuring type safety
+overview the lab environment
+
+java generics
+we will about a major java feature generics known as template or parameterized types in some other languages introduced in java generics are a key tool in ensuring type safety
+what are generics and why do we need them declaring a generic stack lab solution generics with subtypes without wildcards wildcards bounded wildcards understanding bounded generics with super and extends generic methods type erasure lab solution
+
+java collections
+well talk about the java collection classes which provide powerful tools for managing collections of data collections offer much more flexibility and functionality compared to the simple linear arrays weve used up until now additionally java streams javautilstream introduce a new way to process data in a functional style making it easier to with collections in a more expressive and efficient manner
+introduction to collections a simple example overview of the collectione hierarchy set iterator sorting lists maps linked collections java enhancements and java streams lab solution
+
+exception handling
+different programming models handle error conditions in different ways some for example require programmers to check error codes after every function call java from other environments such as c takes a different approach known as exception handling how java deals with exceptions and to both handle and when necessary create exceptions
+introduction to exception handling a simple example a live example exceptions and errors checked and unchecked exceptions and main stack traces catching exceptions finally lets clean up trywithresources and improved type checking throwing multiple exceptions good practices with exceptions lab solution
+
+input and output
+java has rich input and output io capabilities which have evolved constantly over the years java can handle network io file io blocking and nonblocking io and more we will look at an overview of io and focus mostly on simple text io using files we will also take a brief look at the extensive improvements made to io in java and java with to provide additional information
+introduction and file io example property files javaioinputstream and javaiooutputstream files and directories writing text files zip files using the nio sample zip file provider lab solution
+
+enums
+java enums provide us with the ability to create a fixed set of constant values they are objects so they can have methods and properties but they are a fixed constant set nonetheless the simplest ones might merely be something like the suits of a deck of cards but well take a more complete look at their capabilities and how you might use them
+enums what and why implementing enums lab solution
+
+annotations
+annotations are a way of attaching metadata to java code added in java this passive metadata facility might not seem important at first but is the key to how modern java frameworks spring spring boot spring cloud netflix oss java persistence architecture jakarta ee ne java ee containers jaxws jaxrs and so many others we will look at the java annotations technology look at existing annotations and in the lab create a custom annotation and write code to see that annotation at runtime this means that not only have the ability to use annotations but also have at least the rudiments necessary to write and process your own annotations such you have the need
+why annotations examples declaring and using annotations metaannotations lab solution
+</DOC>
+

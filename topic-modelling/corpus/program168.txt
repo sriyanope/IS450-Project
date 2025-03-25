@@ -1,0 +1,118 @@
+<DOC>
+game design art and concepts
+stemming from the principles of storytelling and design established in calarts renowned animation programs this lays a primary foundation for experimentation and exploration of game design story character development and winning gameplay before programming begins these four courses emphasize the selfreliance and personal expression of the gaming artist and encourage you to take conceptual risks and develop new modes of expression and form through gaming applied projectin the final capstone put your creative to by generating an engaging game design document for a personal game outlining the conceptual narrative and aesthetic elements of your game this fourpart capstone guides you to distill and improve the foundational aspects of your game so that you may express your ideas in a clear and productive way
+</DOC>
+
+<DOC>
+story and narrative development for games
+examine how storytelling acts as a vital mechanism for driving gameplay forward looking at several historical and contemporary games be asked to evaluate and interpret different story styles with the goal of identifying themes and procedures for your own game ideas well examine traditional narrative story processes such as threeact structure and how they fit into game story flows and the strategic elements of gameplay ultimately how to define character setting and structure to create a compelling game concept
+
+an introduction to story
+for the first of the class we will be analyzing the components of threeact structure using a classic fairytale as an example well examine the characters in the story by figuring out their goals and the main conflict that creates a rising arc of action to keep the audience interested
+welcome what makes a story compelling how games benefit from stories how to see a game as a story first defining the spine threeact structure and rising action
+
+game story structure
+we will draw a parallel between last weeks discussion on rising action and how that relates to gameplay looking at a pair of contemporary games well how to identify story structure and themes of rising action just like we would with traditional stories and movies lastly well evaluate the role that primary and secondary characters come to play in the unveiling of a games story and discuss the importance of understanding how these games present their stories in the actual gameplay
+writing your own story synopsis defining characters and character goals using secondary characters writing a character brief
+
+story workshop
+we explore ideation techniques and how to consolidate our ideas into more formalized stories specifically for pushing them towards a game design we will take a look at the importance of and ways to refine characters and settings as we develop an initial concept in story form first and then next into a game
+story ideation techniques personal writing advice refining the spine connecting ideas and characters
+
+from story to game
+for this last of class we will begin by seeing what a game design document is and evaluate a few different templates you can use then we will take the story we built in last weeks the shooter and define it as a playable game outlined in a game design document
+introduction to a game design document diving deeper into the design document turning the shooters story into a game the shooters rising gameplay wrap up
+</DOC>
+
+<DOC>
+world design for games
+start creating your world a game world is not just a backdrop for your gamebe it minimal or detailed contained or part of a much bigger universe it provides the context for your player ultimately a game world should feel alive and wholly unique to any player who will it we will explore game worlds in existing games and study the art and influences that inform their themes and styles we will also investigate key components of environment and level design as well as strategies designers use to define gameplay or advance it well also look at navigation and the elements that make your world as real or unreal as you want it to be a weekly challenge will prompt you to explore styles and inspirations for possible game worlds and effective ways to communicate your ideas from concepts to presentationworthy proofs of concept
+
+introduction to world design
+during this first well start with a brief overview of game worlds and game design well also examine environments and larger worldbased concepts to see how games incorporate a macrolevel view of how they progress at the end of the a short prompts you to examine analyze and comment on games that marked or interested you in terms of their environment design
+introduction properties and rules story the vertical spine making a game world
+
+do your research
+where do you start when designing a world where should you begin to look for sparking that creative impulse we will be exploring ideas and presentation techniques for a games environment and world design i encourage you to draw inspiration from other art practices artists games or even your everyday surroundings the at the end of the challenges you to present a proposal for a possible world through concept artwork for peer evaluation
+dont create from the void aesthetics gameplay clockworks questions back to the rulebook make it yours shuffle your ideas
+
+the way you move
+how do you move in a game world well discuss fundamental components and concepts in world and level design naturally these evolve as the gameplay progresses but there are specific strategies you can use to create the finer details in a game environment at the end of the you are challenged to take the previous weeks visual research exercise and expand upon it giving it shape and volume
+visualizing the game world level design bordering the world the garden navigation and time moveset from point a to point b linear vs nonlinear the grey box
+
+a whole world
+bring your game world to life final well be putting down what will eventually define the look ambience and atmosphere of your world specifically how to convey a mood for a unique and engaging game environment go back to your from to pull from your inspirations and models build on your volumetric model from and add details define the light the color palette and the overall visual context of your game space
+what lives there anchoring the world down an atmosphere lighting is key colors final round
+</DOC>
+
+<DOC>
+introduction to game design
+welcome this is an introduction to the primary concepts of gaming and an exploration of how these basic concepts affect the way gamers interact with our games understand what defines a game and the mechanics and rules behind different types of games through four linked ways to create and describe a game concept and specifically what makes a compelling game this focuses on the conceptual underpinnings of games and all can be completed with a pencil and paper no previous programming knowledge is required
+
+the simplest games
+we start at the beginning what are the principles of very simple games like hangman and tictactoe how do these games why do people play them what are the elements that define games and the gaming and finally what do games have in common with each other and what sets them apart in addition to covering the basics and ground rules for this well conclude with a very simple lowtech create a game on a single sheet of paper
+welcome elements of gaming the game design document feedback making a simple game and brainstorming homework
+
+rules and discovery
+how does a player the mechanics of your game how do they anything about your game we will talk about the rules that define gameplay and how those rules are communicated to your players we also discuss the way rules are bent and broken by players
+introduction to rules balance what are rules breaking the rules the rules homework
+
+tell a story
+how does narrative drive a player to start playing your game or to finish it well look at some of the ways you can make your game more compelling with story and discuss some of the ways story can drive gameplay forward or enable a player to make their own way through it
+introduction to story story purpose whos in charge of your game story writerdriven writerled playerled roleplaying character motivation explaining imagining homework
+
+the friend and the enemy
+what purpose does an enemy serve in a game what effect does a second player have on twoplayer games can a game without an adversary or a final goal well address all of those questions last of the class and towards finalizing your board game with characters
+introduction to characters characters in gaming types of characters multiplayer rules and balance bonus interview adam spragg designer of hidden in plain sight homework
+</DOC>
+
+<DOC>
+character design for games
+explore concepts and approaches involved in creating successful character designs that can be applied to games following a first delving into some foundational concepts for successful character design each of the remaining three weeks are structured as a master class where observe three character designers at in the studio andy ristaino adventure time jacky ke jiang journey and robertryan cory spongebob squarepants each designer will take on two different design challenges on the fly and address the various issues in designing characters for games such as movement expression and technical limitations at the end of each have an to try out some of the concepts from that weeks lesson on characters of your own design this is a fun and engaging class especially useful for students interested in animation in film and tv as well as games and is suitable for students of any drawing ability
+
+about character
+first of the we will explore some of the major concepts involved in creating compelling unique and purposeful characters these ideas will provide the basis for your and lay the groundwork for our visits with designers in the coming weeks
+welcome density mood story proportion homework
+
+technical challenges
+we visit andy ristaino a character designer who has created many of the ingenious characters for the animated series adventure time
+drawing the explorer refining the explorer drawing the alien refining the alien homework
+
+design with purpose
+we visit jacky ke jiang an animator who has worked as a character designer for both disney feature animation and in games jacky will discuss working in both d and d modes as he completes his challenges
+d ink drawing d tablet drawing d modeling homework
+
+find your character
+we see robertryan cory in action cory is an a character designer known for his on shows like spongebob squarepants ren stimpy and gravity falls
+drawing the pig refining the pig drawing the sheep refining the sheep part refining the sheep part working in animation robertryan studio followup homework
+</DOC>
+
+<DOC>
+game design document define the art concepts
+the capstone is a place for you to develop your game idea into a fullyfleshed proposal a game design document is your game bible the goto document that defines the genre of your game its look and feel and the evolution of gameplay this fourpart capstone guides you to distill and improve the foundational aspects of your game so that you may express your ideas in a clear and productive waynote only learners who have earned a in the four previous courses in the are eligible to take the capstone
+
+ideation
+welcome first well lay out the structure of the and what milestones have to meet each at the end of is your first presenting your preliminary game idea to your peers
+welcome key questions the game artist review ideation
+
+prototyping and playtesting
+in well take a look at several different ways of making a prototype some of which youve seen before and play testing before the end of the be making and presenting a prototype of your game using the tool of your choice
+
+prototyping and playtesting continued
+in continue refining your prototype
+
+visualization
+in start concretizing the look and feel of your game with visuals and other descriptive materials
+review visualization in person akash thakkar
+
+visualization continued
+is a continuation of the last refine your visual materials and upload them for one last pass
+
+presentation
+your finished polished game design document is submitted for final review check out the bonus material later as well good luck
+review the game design document in person sean velasco
+
+final review
+the final we will be wrapping things up and reviewing our final
+</DOC>
+

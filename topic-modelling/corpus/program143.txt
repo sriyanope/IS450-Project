@@ -1,0 +1,80 @@
+<DOC>
+finance for technical managers
+in finance for technical managers explore the fundamental principles of financial management topics include understanding and interpreting a companys financial statements the time value of money and its role in evaluating the economic viability of different and the annual capital budgeting process every company performs when selecting which to fund in addition cover some highly practical topics such as how to determine product costs establishing a departments annual budget and ways of forecasting future sales as a side benefit the quantitative for business are identical to the necessary to manage your own personal finances therefore extend your analyses to cover investing of mutual funds composed of stocks and bonds and explore the fascinating area of asset allocationthis can be taken for academic credit as part of cu boulders master of engineering in engineering management meem degree offered on the coursera platform the meem is designed to help engineers scientists and technical professionals move into leadership and management roles in the engineering and technical sectors with performancebased admissions and no application process the meem is ideal for individuals with a broad range of undergraduate education andor more about the meem at httpswwwcourseraorgdegreesmeengineeringmanagementboulderapplied projectlearners develop the quantitative to create the business case for a and to assess the health of a company from its financial statements learners then apply their knowledge to secure their own financial future by creating a personalized retirement plan
+</DOC>
+
+<DOC>
+product cost and investment cash flow analysis
+this discusses costs and business practices to establish the cost of a product the concept of time value of money tvm is developed to determine the present and future values of a series of cash flows tvm principles are then applied to personal finances and retirement planning this is a practical that uses spreadsheets to better prepare learners in engineering and science for a in industrythis can be taken for academic credit as part of cu boulders master of engineering in engineering management meem degree offered on the coursera platform the meem is designed to help engineers scientists and technical professionals move into leadership and management roles in the engineering and technical sectors with performancebased admissions and no application process the meem is ideal for individuals with a broad range of undergraduate education andor more about the meem at httpswwwcourseraorgdegreesmeengineeringmanagementboulder
+
+introduction to financial principles
+overview of the and introduction to key financial principles
+introduction introduction overview mechanics introduction to finance goal of financial management the capital allocation process access to capital
+
+costs and cost estimation methods
+introduces types of costs and the breakeven analysis describes approaches to cost modeling and important cost estimation techniques
+introduction types of costs breakeven analysis discrete cost models a real engineering problem continuous cost models cost estimation overview cost estimation techniques curve analysis
+
+product cost analysis
+introduces types of inventory and how product cost is determined using the job cost and activitybased cost methods
+introduction all about inventory introduction to job cost analysis into the weeds of job cost analysis manufacturing overhead allocation activitybased cost analysis
+
+time value of money tvm
+introduces the concept of time value of money tvm as it applies to investment decisions develops and demonstrates the expressions for the future value of an investment based on initial investments compounding interest rates and periods of time uses analytical and spreadsheet models to solve for a variety of investment situations
+introduction introduction to tvm simple and compound interest single payment cash flows multiple payment cash flows excel to the rescue more excel to the rescue
+
+application to personal finances
+applies the principles of finance and time value of money tvm to ones personal finances investments such as stocks bonds and funds are introduced along with the concept of price volatility and its relationship to risk asset allocation theory is described in the context of creating an investment portfolio these principles are then put into practice through constructing a personal retirement plan spreadsheet and retirement plan portfolio
+introduction personal finance the basics planning for retirement stocks and bonds volatility and risk introduction to funds all about mutual funds asset allocation theory your retirement plan spreadsheet building your retirement portfolio
+</DOC>
+
+<DOC>
+valuation and the capital budgeting process
+this describes the economic viability of an engineering through the application of net present value internal rate of return and payback period analysis the impacts of depreciation taxes inflation and foreign exchange are addressed the capital budgeting process is discussed showing how companies make decisions to optimize their investment portfolio risk is mitigated through the application of quantitative techniques such as scenario analysis sensitivity analysis and real options analysisthis can be taken for academic credit as part of cu boulders master of engineering in engineering management meem degree offered on the coursera platform the meem is designed to help engineers scientists and technical professionals move into leadership and management roles in the engineering and technical sectors with performancebased admissions and no application process the meem is ideal for individuals with a broad range of undergraduate education andor more about the meem at httpswwwcourseraorgdegreesmeengineeringmanagementboulder
+
+complex cash flow analysis
+considers more complex cash flow scenarios involving multiple cash flows perpetuities and the impact of multiple compounding interest periods per year many practical problems are worked both analytically and with spreadsheets
+introduction introduction overview mechanics time value of money part compounding interest rates some practical examples
+
+valuation techniques
+valuation determines whether the financial benefits are greater than the required investment there are three primary valuation metrics used in business the net present value the payback period and the internal rate of return this explores how to determine these metrics both analytically and using spreadsheet analyses
+introduction introduction to valuation discounted cash flow analysis net present value excel to the rescue payback period analysis internal rate of return irr examples with excel
+
+selection techniques
+valuation criteria such as the npv and irr determine whether a financial benefits are greater than the required investment companies use these metrics to select for funding during the annual capital budgeting process technical managers also make investment decisions but are often constrained to select only one alternative from several good ones this covers several selection techniques to ensure the best is selected
+introduction the capital budgeting process selection and the mirr the discount rate and the wacc incremental cash flow analysis
+
+depreciation taxes and inflation
+preparing a comprehensive cash flow analysis for any investment requires accounting for the depreciation of equipment and other assets and the taxes paid on the profits inflation can also significantly impact future cash flows and therefore must be addressed as well this develops the concepts of depreciation taxes and inflation and shows how these are determined
+introduction introduction to depreciation depreciation and financial statements depreciation methods sl and db depreciation methods macrs taxes inflation
+
+building the business case
+a critical element of a business case is the financial justification it needs to make good business sense for the company this focuses on the three primary components of a cash flow statement operations net working capital and capital spending the financial valuation is then conducted on the total cash flows resulting in the npv irr and payback period to assess whether the is financially worthwhile
+introduction introduction to the business case net working capital a simple pro forma a more complex valuation part a more complex valuation part
+</DOC>
+
+<DOC>
+financial forecasting and reporting
+this discusses how public are evaluated using costbenefit analysis learners discover how interest rates and prices for stocks and bonds are determined techniques are presented on how to create departmental budgets for engineering cost centers and pro forma statements for profit centers learners then with corporate financial statements to assess a companys financial health including recent measures of environmental social and corporate governance esgthis can be taken for academic credit as part of cu boulders master of engineering in engineering management meem degree offered on the coursera platform the meem is designed to help engineers scientists and technical professionals move into leadership and management roles in the engineering and technical sectors with performancebased admissions and no application process the meem is ideal for individuals with a broad range of undergraduate education andor more about the meem at httpswwwcourseraorgdegreesmeengineeringmanagementboulder
+
+understanding financial statements
+investment decisions are often based on a companys financial performance and such performance is captured in its financial statements the three examined are the income statement the balance sheet and the statement of cash flows collectively these provide a clear picture of a companys profitability its net worth and how it manages its cash
+introduction introduction overview mechanics introduction to financial statements the income statement part the income statement part the balance sheet the statement of cash flows part i the statement of cash flows part
+
+analyzing financial statements ratio analysis
+financial statements inform management and investors about a companys financial performance in absolute terms dollars and cents but it is often more valuable to understand performance in relative terms such as gross profit relative to revenues measured as a percentage this makes it easier for management to compare one year to another and for investors to compare one company to another ratio analysis is the way this is done and there are several categories of ratios that measure a companys liquidity profitability debt management and investment potential
+introduction financial ratio overview liquidity ratios working capital management ratios profitability ratios debt management ratios investmentbased ratios market value ratios ratio wrapup
+
+budgeting and forecasting
+technical managers are often tasked with preparing an annual budget for their team department or product line this involves estimating future costs and in the case of a profit center forecasting future revenues such forecasts can be made more reliable through a combination of qualitative and quantitative techniques
+introduction the budgeting process budgeting for profit centers part budgeting for profit centers part budgeting for cost centers qualitative forecasting techniques quantitative forecasting techniques
+
+risk management techniques
+forecasting future revenues and costs for a invariably involves uncertainty and such uncertainty equates to financial risk the greater the uncertainty the greater the risk risk management is about mitigating financial risk by assessing a valuation under a range of different conditions identifying the variables that most contribute to risk and creating a plan to minimize the likelihood of any financial downside
+introduction scenario analysis sensitivity analysis decision tree analysis multiattribute analysis worklifelocation decisions
+
+sustainability reporting
+sustainability has become an important consideration in how businesses operate and govern themselves managers today focus on their companys triple bottom line measuring environmental and social impacts along with their financial performance investors are interested too and in response companies with sustainability as a strategic objective now report their nonfinancial performance enabling investors to assess progress toward sustainability goals
+introduction the sustainability imperative the sustainable business and why it matters the stages to a sustainable business sustainability and the triple bottom line tbl pumas environmental pl sustainability reporting finance for technical managers wrapup
+</DOC>
+

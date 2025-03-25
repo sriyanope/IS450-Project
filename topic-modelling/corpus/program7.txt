@@ -1,0 +1,164 @@
+<DOC>
+ai in healthcare
+artificial intelligence ai has transformed industries around the world and has the potential to radically alter the field of healthcare imagine being able to analyze data on patient visits to the clinic medications prescribed lab tests and procedures performed as well as data outside the health system such as social media purchases made using credit cards census records internet search activity logs that contain valuable health information and get a sense of how ai could transform patient care and diagnosesin this well discuss the current and future applications of ai in healthcare with the goal of to bring ai technologies into the clinic safely and ethically this is designed for both healthcare providers and computer science professionals offering insights to facilitate collaboration between the disciplinescme accreditationthe stanford university school of medicine is accredited by the accreditation council for continuing medical education accme to provide continuing medical education for physicians view the full cme accreditation information on the individual faq pageapplied projectthe final will consist of a capstone that will take you on a guided tour exploring all the concepts we have covered in the different classes this will be a handson following a patients journey from the lens of the data using a unique dataset created for this specializationwe will review how the different choices you make such as those around feature construction the data types to use how the model evaluation is set up and how you handle the patient timeline affect the care that would be recommended by the model
+</DOC>
+
+<DOC>
+introduction to healthcare
+solving the problems and challenges within the us healthcare system requires a deep understanding of how the system works successful solutions and strategies must take into account the realities of the current system this explores the fundamentals of the us healthcare system it will introduce the principal institutions and participants in healthcare systems explain what they do and discuss the interactions between them the will cover physician practices hospitals pharmaceuticals and insurance and financing arrangements we will also discuss the challenges of healthcare cost management quality of care and access to care while the focuses on the us healthcare system we will also refer to healthcare systems in other developed countries in support of improving patient care stanford medicine is jointly accredited by the accreditation council for continuing medical education accme the accreditation council for pharmacy education acpe and the american nurses credentialing center ancc to provide continuing education for the healthcare team visit the faqs below for important information regarding date of the original release and expiration date accreditation and credit designation statements disclosure of financial relationships for every person in control of activity content
+
+overview of health care systems and key challenges they face
+
+introduction a simple interaction between providers and patients the problem of risk solving the problem of risk risk pooling insurance and intermediaries for risk pooling beyond patients providers and intermediaries other players in the health care system overview of the types and roles of intermediaries overview of the types and roles of providers providers and levels of care the challenge of rising health care costs the challenges of quality and access lessons for ai and data
+
+physicians physician practices and physician payment
+reading
+characteristics of physician practices physicians intermediaries and networks fee for service payment procedure codes and diagnosis codes the medicare fee schedule capitation payment systems overview and structure capitation payment systems scope of capitation episodebased payment systems and salary systems risk shifting in physician payment and multilayered physician payment arrangements incentives created by physician payments lessons for ai and data wrap up
+
+hospitals other provider organizations and related payment systems
+
+basic operations and characteristics of hospitals how hospitals relate to physicians and intermediaries hospital payment methods charge mastersffs and per diem hospital payment methods drgs hospital payment methods global budgets hospital payment topics payments for inpatient vs outpatient services hospital vs physician payments charges and payments risk and incentives in hospital payment independent facilities structure and payment health care systems and larger provider organizations pay for performance emrs ehrs and phrs providers provider incentives data and tools wrap up
+
+intermediaries health insurance plans and health care financing
+reading
+intermediaries and their goals intermediaries and the broad challenges facing health care systems networks and selective contracting provider payment methods and levels patient cost sharing utilization review gatekeepes and other methods of directly influencing care coverage decisions combinations and tradeoffs three stereotypical plan designs traditional hmo and ppo some more recent trends in plan design public and private plans and employerprovided private insurance in the us the us medicare the us medicaid intermediaries lessons for innovators wrap up
+
+health care products and prescription drugs and quality measurement and improvement
+
+health care products approvals and prescription drugs prescription drug approval processes patents branded drugs and generic drugs patients insurance formularies and prescription drugs intermediaries pharmacy benefit managers drug prices and rebates products and prescription drugs wrap up data and for innovation quality of care overview and key organizing concepts overview and structural quality measures process quality measures quality measures and satisfaction measures overview of some approaches to improving quality innovation and data in quality improvement wrap up
+
+ethics
+ethics in healthcare system
+overview of ai applications in delivery of health care services and ethical issues ethical frameworks for health care and for ai ai and incentives in health care delivery and payment structures more examples of ai and incentives in health care delivery and payment structures
+
+wrap up
+and final assessment
+</DOC>
+
+<DOC>
+ai in healthcare capstone
+this capstone takes you on a guided tour exploring all the concepts we have covered in the different classes up till now we have organized this around the journey of a patient who develops some respiratory symptoms and given the concerns around covid seeks care with a primary care provider we will follow the patients journey from the lens of the data that are created at each encounter which will bring us to a unique deidentified dataset created specially for this the data set spans ehr as well as image data and using this dataset we will build models that enable riskstratification decisions for our patient we will review how the different choices you make such as those around feature construction the data types to use how the model evaluation is set up and how you handle the patient timeline affect the care that would be recommended by the model during this exploration we will also discuss the regulatory as well as ethical issues that come up as we attempt to use ai to help us make better care decisions for our patient this will be a handson in the day of a medical data minerin support of improving patient care stanford medicine is jointly accredited by the accreditation council for continuing medical education accme the accreditation council for pharmacy education acpe and the american nurses credentialing center ancc to provide continuing education for the healthcare team visit the faqs below for important information regarding date of the original release and expiration date accreditation and credit designation statements disclosure of financial relationships for every person in control of activity content
+
+getting started phase data collection
+peer reviews
+
+phase model training part
+reading peer reviews
+
+phase model training part
+reading peer reviews
+
+phase model evaluation
+reading peer reviews
+
+phase model deployment and regulation wrap up
+peer review
+</DOC>
+
+<DOC>
+introduction to clinical data
+this introduces you to a framework for successful and ethical medical data mining we will explore the variety of clinical data collected during the delivery of healthcare to construct analysisready datasets and apply computational procedures to answer clinical questions we will also explore issues of fairness and bias that may arise when we leverage healthcare data to make decisions about patient carein support of improving patient care stanford medicine is jointly accredited by the accreditation council for continuing medical education accme the accreditation council for pharmacy education acpe and the american nurses credentialing center ancc to provide continuing education for the healthcare team visit the faqs below for important information regarding date of the original release and expiration date accreditation and credit designation statements disclosure of financial relationships for every person in control of activity content
+
+asking and answering questions via clinical data mining
+
+welcome introduction to the data mining workflow real life example example finding similar patients example estimating risk putting patient data on timeline revisit the data mining workflow steps types of research questions research questions suited for clinical data example making decision to treat properties that make answering a research question useful wrap up
+
+data available from healthcare systems
+plugin
+review of the healthcare system review of key entities and the data they collect actors with different interests common data types in healthcare strengths and weaknesses of observational data bias and error from the healthcare system perspective bias and error of exposures and how a patients exposure might be misclassified how a patients could be misclassified electronic medical record data claims data pharmacy surveillance datasets and registries population health data sets a framework to assess if a data source is useful wrap up
+
+representing time and timing of events for clinical data mining
+
+introduction time timelines timescales and representations of time timescale choosing the relevant units of time what affects the timescale representation of time time series and nontime series data order of events implicit representations of time different ways to put data in bins timing of exposures and clinical processes are nonstationary wrap up
+
+creating analysis ready datasets from patient timelines
+
+turning clinical data into something you can analyze defining the unit of analysis using features and the presence of features how to create features from structured sources standardizing features dealing with too many features the origins of missing values dealing with missing values recommendations for missing values constructing new features examples of engineered features when to consider engineered features main points about creating analysis ready datasets structured knowledge graphs so what exactly is in a knowledge graph what are important knowledge graphs how to choose which knowledge graph to use wrap up
+
+handling unstructured healthcare data text images signals
+
+introduction to unstructured data what is clinical text the value of clinical text what makes clinical text difficult to handle privacy and deidentification a primer on natural language processing practical approach to processing clinical text clinical text overview and goals of medical imaging why are images important what are images a typical image management process images overview of biomedical signals why are signals important what are signals what are the major issues with using signals signals wrap up
+
+putting the pieces together electronic phenotyping
+
+introduction to electronic phenotyping challenges in electronic phenotyping specifying an electronic phenotype two approaches to phenotyping rulebased electronic phenotyping examples of rule based electronic phenotype definitions constructing a rule based phenotype definition probabilistic phenotyping approaches for creating a probabilistic phenotype definition software for probabilistic phenotype definitions wrap up
+
+ethics
+
+introduction to research ethics and ai the belmont report a framework for research ethics ethical issues in data sources for ai secondary uses of data return of results ai and the health system ethics
+
+conclusion
+
+</DOC>
+
+<DOC>
+fundamentals of machine for healthcare
+machine and artificial intelligence hold the potential to transform healthcare and open up a world of incredible promise but we will never realize the potential of these technologies unless all stakeholders have basic competencies in both healthcare and machine concepts and principles this will introduce the fundamental concepts and principles of machine as it applies to medicine and healthcare we will explore machine approaches medical use cases metrics unique to healthcare as well as best practices for designing building and evaluating machine applications in healthcare the will empower those with nonengineering backgrounds in healthcare health policy pharmaceutical development as well as data science with the knowledge to critically evaluate and use these technologies coauthor geoffrey angus contributing editors mars huang jin long shannon crawford oge marques in support of improving patient care stanford medicine is jointly accredited by the accreditation council for continuing medical education accme the accreditation council for pharmacy education acpe and the american nurses credentialing center ancc to provide continuing education for the healthcare team visit the faqs below for important information regarding date of the original release and expiration date accreditation and credit designation statements disclosure of financial relationships for every person in control of activity content
+
+why machine in healthcare
+
+why machine in healthcare history of ai in medicine overview why healthcare needs machine machine magic machine biostatistics programming can machine solve everything
+
+concepts and principles of machine in healthcare part
+
+machine terms definitions and jargon part machine terms definitions and jargon part how machines part how machines part supervised machine approaches regression and the no free lunch theorem other traditional supervised machine approaches support vector machine svm unsupervised machine
+
+concepts and principles of machine in healthcare part
+
+introduction to deep and neural networks deep and neural networks cross entropy loss gradient descent representing unstructured image and text data convolutional neural networks natural language processing and recurrent neural networks the transformer architecture for sequences commonly used and advanced neural network architectures advanced computer vision tasks and wrapup
+
+evaluation and metrics for machine in healthcare
+
+introduction to model performance evaluation overfitting and underfitting strategies to address overfitting underfitting and introduction to regularization statistical approaches to model evaluation receiver operator and precision recall curves as evaluation metrics
+
+strategies and challenges in machine in healthcare
+
+introduction to common clinical machine challenges utility of causative model predictions context in clinical machine intrinsic interpretability medical data challenges in machine part medical data challenges in machine part how much data do we need retrospective data in medicine and shelf life for data medical data quality vs quantity
+
+best practices teams and launching your machine journey
+
+clinical utility and output action pairing taking action utilizing the oap framework building multidiciplinary teams for clinical machine governance ethics and best practices on being human in the era of clinical machine death by gps and other lessons of automation bias
+
+foundation models optional content
+
+introduction to foundation models adapting to technology general ai and emergent behavior how foundation models healthcare use cases for text data healthcare use cases for nontextual unstructured data challenges and pitfalls conclusion
+
+conclusion
+
+</DOC>
+
+<DOC>
+evaluations of ai applications in healthcare
+with artificial intelligence applications proliferating throughout the healthcare system stakeholders are faced with both and challenges of these evolving technologies this explores the principles of ai deployment in healthcare and the framework used to evaluate downstream effects of ai healthcare solutionsin support of improving patient care stanford medicine is jointly accredited by the accreditation council for continuing medical education accme the accreditation council for pharmacy education acpe and the american nurses credentialing center ancc to provide continuing education for the healthcare team visit the faqs below for important information regarding date of the original release and expiration date accreditation and credit designation statements disclosure of financial relationships for every person in control of activity content
+
+ai in healthcare
+
+objectives common definitions overview why ai is needed in healthcare examples of ai in healthcare growth of ai in healthcare questions answered by ai ai output think beyond area under the curve recap
+
+evaluations of ai in healthcare
+
+objectives recap framework stakeholders clinical utility action pairing an overview lead time type of action oap examples number needed to treat net benefits decision curves feasibility overview implementation costs clinical evaluation and uptake
+
+ai deployment
+
+objectives the problem practical questions prior to deployment deployment pathway design and development stakeholder involvement data type and sources settings in silico evaluation net utility capacity statistical validity care integration silent mode clinical integration considerations technical integration deployment modalities continuous monitoring and maintenance challenges of deployment sepsis example
+
+downstream evaluations of ai in healthcare bias and fairness
+
+objectives real world examples of ai bias introduction types of bias historical bias representation bias measurement bias aggregation bias evaluation bias deployment bias what is algorithmic fairness anticlassification parity classification calibration applying fairness measures lack of transparency minimal reporting standards and challenges
+
+the regulatory environment for ai in healthcare
+
+objectives the problem international definitions used for regulatory purposes definition statement risk framework valid clinical association analytical evaluation clinical evaluation general control de novo notifications software modification tplc locked vs adapted ai solutions examples nonregulated products eu regulations chinese guidelines omb guidelines
+
+best ethical practices for ai in health care
+related to best ethical practices for ai in health care
+
+ai and medicine optional content
+
+introduction navigating the intersections of ai and medicine life cycle of ai a deep dive into historical and societal dimensions racebased medicine and raceaware approach bias mitigation strategies exploring potentials and ethical quandaries dismantling racebased medicine deploying ai into healthcare settings conclusion
+
+wrap up
+
+</DOC>
+

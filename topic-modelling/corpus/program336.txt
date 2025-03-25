@@ -1,0 +1,102 @@
+<DOC>
+software product management
+software product management master agile software management practices to lead a team of developers and interact with clients in the final capstone practice and apply management techniques to realistic scenarios that face as a software product manager have the to share your and from the insights of others as part of a software product management applied projectyou will gain practical management in a safe simulated software production setting apply agile practices and techniques to conquer industryinspired challenges interacting with a realistic client discern what they want what they truly need and express that as software requirements to drive software production upon completing the capstone be prepared to advance your as a confident software product management
+</DOC>
+
+<DOC>
+agile planning for software products
+this covers the techniques required to break down and map requirements into plans that will ultimately drive software productionupon successful completion of this be able to create effective plans for software development map user requirements to developer tasks assess and plan for risks apply velocitydriven planning techniques generate estimates for software products
+
+introduction to planning
+welcome to the first be some basic principles that need for effective planning start this off with an introduction to planning then about how planning and the approach you take to planning can reduce uncertainty in your we will then move onto how to breakdown a into small manageable pieces and how to organize those pieces finally we will go over the differences between estimates targets and commitments together these lessons will build a good base for planning techniques at both the release and iteration level
+preview introduction to agile planning for software products introduction to planning a introduction to planning uncertainty space breakdown structure estimates targets and commitments
+
+planning
+welcome to now that youve gotten your feet wet with general principles in planning lets talk about some specific ways that you can use to implement those techniques well first discuss the concepts of story points and velocity then move into how time boxing can be used to improve your efficiency well then introduce the gantt chart a basic tried and true method of visualizing tasks well finish off with techniques for planning your at a release level which will set the stage for iteration planning in the next
+story points a story points velocity estimates time boxing gantt charts release plans
+
+iteration planning
+this will be focusing on planning techniques at the iteration or sprint level start by looking at various techniques for estimating task time then look at task dependencies in more detail this will come in handy when you two visual planning chartsthe critical path method chart and the pert chart finally the process for creating an iteration plan by the end of this have the tools you need to plan sprints or iterations for development
+estimating task time a estimating task time task dependencies cpm chart pert chart iteration planning
+
+risk planning
+youve made it to the last congratulations here were going to talk about what can cause to fail well start off by discussing common causes of failures including antipatterns then how to assess risks looking at their likelihood and potential impact on the well end on an optimistic note by leaving you with strategies for intervening when risks present themselves and avoiding those risks to begin with
+antipatterns a antipatterns team b antipatterns development c antipatterns management d antipatterns individual developers common causes of failure risk assessment likelihood and impact risk strategies contingency mitigation
+</DOC>
+
+<DOC>
+reviews metrics for software improvements
+this covers techniques for monitoring your in order to align client needs plans and software production it focuses on metrics and reviews to track and improve progress and software quality
+
+right product
+welcome to the first this is all about creating the right product examine various ways of ensuring that you are creating the right product for both your client and your users how to conduct a sprint review meeting and why they are an important step for delivering the right product then look at user studies about several techniques for determining the needs of your users the concludes by examining how some of the big companies in the industry ensure that they are delivering the right product to their users
+preview introduction to reviews metrics for software improvements introduction to monitoring sprint review meeting user studies industry examples a industry examples interview
+
+done right
+welcome to the second now that youve learned about how to make sure youre creating the right product its time to explore how to ensure that product is done right here start with review techniques some issues surrounding monitoring in general and the goal quality metric framework then move on to desirable properties of metrics and dive into some key metrics for ensuring that youre on track finish off the with defect analysis leading you into getting your product managed right in the next
+review techniques a review techniques monitoring issues goal question metric gqm desirable properties of metrics other metrics defect analysis
+
+managed right
+this third examines the concept of managing your right some important and popular management techniques the starts off by introducing you to the daily scrum meeting ways to implement daily scrums with the teams that you with as well as techniques to improve the meetings if they are not working well then we will cover the concept of velocity in more detail which will prepare you for about burndown charts this covers both release burndowns as well as iteration burndowns we show you how to create read and use these useful tracking tools with the teams you with together these lessons will teach you how to ensure your are managed right
+daily scrum a daily scrum challenges velocity release burndown chart a release burndown chart changing requirements iteration burndown chart
+
+retrospectives
+welcome to the final of the the previous was focused on ensuring your was managed right by exploring techniques in planning this will focus on an oftenneglected but very valuable tool retrospectives explore what retrospectives are and some issues surrounding them then about how a retrospective looks along with some recommended retrospective exercises finally round the off with a of the
+retrospectives retrospectives issues sprint retrospective retrospective exercises a retrospective exercises readying b retrospective exercises past c retrospective exercises future
+</DOC>
+
+<DOC>
+client needs and software requirements
+this covers practical techniques to elicit and express software requirements from client interactions
+
+introduction to requirements
+welcome to the first become familiar with software requirements and some issues surrounding them what a software requirement is including the different types of requirements then how to deal with changing requirements and control scope as well as how requirements affect design these lessons will give you the knowledge you need to move on to eliciting and creating good quality requirements in the next
+preview introduction to client needs and software requirements what is a requirement a requirement activities types of requirements a user requirements b functional requirements c nonfunctional requirements d additional requirement types controlling scope requirements and design
+
+user interaction
+a major duty of a software product manager is eliciting and expressing requirements from your client this will walk you through the basics of client interactions and requirements elicitation and expression how to create the best product for your end users how to conduct productive client meetings and various ways of expressing requirements these techniques will provide you with the tools need to confidently interact with your client as well as satisfy them with the right product
+restaurant scenario user considerations a user considerations b user considerations involving clients a involving clients use cases wireframes storyboards
+
+writing requirements
+explore the many ways in which software requirements can be represented about the most popular means of expressing requirements in the industry today the user story how acceptance tests help to verify the stories which they accompany and how to create a robust product backlog at the end of the how story maps are used to organize user stories so that youre always putting your effort into the tasks which makes the most impact
+agile requirements user stories a user stories b user stories acceptance tests product backlog a product backlog story maps
+
+quality requirements
+to this point you have learned how to effectively elicit express and prioritize requirements its now time to ensure clarity this last will explore the activity of analyzing requirements in greater detail analyzing creates clear actionable requirements which result in high quality software with fewer errors
+criteria for user stories a criteria for user stories ambiguous requirements
+</DOC>
+
+<DOC>
+software processes and agile practices
+this delves into a variety of processes to structure software development it also covers the foundations of core agile practices such as extreme programming and scrum
+
+introduction to processes
+are you someone who likes to see the bigpicture being a forward thinker who knows whats coming next is an invaluable trait as a software product manager this will prepare you to become this asset for your team a software process organizes development from beginning to end we are going to walk through each step of the development process this will allow you to become familiar with the entire development process so that you can effectively organize product development and foresee upcoming stepseven if youve never worked in software development before
+preview introduction to software processes and agile practices processes and practices a processes and practices b processes and practices software engineering activities a software engineering activities b software engineering activities
+
+process models
+ready to dive a little deeper this will familiarize you with a wide variety of software process models from throughout history about basic software process models like the waterfall model and the unified process these fundamental processes will set the stage for the knowledge gain later in the where more complex processes will be introduced
+linear models spiral model unified process prototyping continuous delivery
+
+agile practices
+do you want to help developers reach their full potential do you want to impress clients by delivering a great product onschedule and onbudget then this is the place for you some agile methodologies that are practiced in the industry today this will cover the scrum and extreme programming methodologies the practices in these methodologies are some of the most popular practices in the industry today they provide practices that will help to maintain organized and effective development these methodologies will help you to know the exact state of your product and deliver successfully
+using agile with process models extreme programming b extreme programming scrum
+
+other practices
+almost there last we will dive into lean software development and kanban being the most complex tools which we will cover makes them the spikedriving machines from our railroadbuilding analogy lean and kanban are a cumulation of many lessons learned and are widely used in some form in the industry today
+agile variations and lean software development a agile variations and lean software development b agile variations and lean software development c agile variations and lean software development kanban
+</DOC>
+
+<DOC>
+introduction to software product management
+this highlights the importance and role of software product management it also provides an overview of the as well as its goals structure and expectations the explains the value of process requirements planning and monitoring in producing better software
+
+software product management the discipline
+are you ready to start our starting point will be the goal of software product management and that is to build better software we will delve into the role of the software product manager where hear from software industry representatives this will also cover the path which take through this which offers to prepare you for taking on a software product manager role
+preview difficulty better software why software product management the role of a software product manager how to be a better learner plagiarism overview
+
+foundations of software product management
+welcome to the second half of introduction to software product management the philosophy core values and principles of agile software development the agile philosophy has reshaped modern software development challenge yourself by thinking about how you would deliver a successful software product within the triangle of a meeting client needs b delivering on schedule and c staying within budget this will also preview software product management in four foundational areas establishing a process defining requirements planning the and monitoring development see the important role they play in producing better software
+success why agile agile manifesto a delivering working software b flexible design c collaborative communication why process why requirements why planning why monitoring
+</DOC>
+

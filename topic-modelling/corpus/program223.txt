@@ -1,0 +1,91 @@
+<DOC>
+introductory c programming
+this develops strong programming fundamentals for learners who want to solve complex problems by writing computer programs through four courses to develop algorithms in a systematic way and read and write the c code to implement them this will prepare you to pursue a in software development or other computational fieldssuccessful completion of this will be considered by admissions as a demonstration of your and enhance your masters application to dukes pratt school of engineeringapplied projectprojects include writing a sorting algorithm and writing a to use monte carlo simulation to calculate poker hand probabilities the poker is divided over three courses so you can write the more challenging parts of the as you gain more advanced
+</DOC>
+
+<DOC>
+writing running and fixing code in c
+building on the programming fundamentals this will teach you how to write code by first planning what your should doan important approach for novice and programmers how to compile and run your and then how to test and debug it this builds on the seven steps you have already learned and provides a framework for systematically testing for problems and fixing them so you can find and fix problems efficiently
+
+writing code
+to write code and do your first in the practice programming environment you have practiced the first four steps of the seven steps in the previous and review them here before step translating your algorithm to code expert programmers spend most of their time planning before they begin writing code and to do the same
+introduction to writing code intersection of two rectangles translating the intersection algorithm to code introduction to the programming environment editing files with emacs more about git
+
+compiling and running
+now that you know how to plan an algorithm and translate it to code you need to how to compile and run it about the compiler which takes the code you wrote and translates it into instructions a machine can execute which you can then run also about different options you can give the compiler as well as different ways to run your that give you debugging information
+now we need to compile hello world planning isprime generalizing isprime translating isprime to code comparing output with diff build tool make compiling with a makefile
+
+testing and debugging
+two that are crucial to good programming are testingfinding problems with your code and debuggingfixing them systematic ways to identify problems in your code as well as how to apply the scientific method to fix your when you do find a bug
+testing means finding bugs testdriven development code review finding problems with valgrind gathering information with gdb advice from a duke software engineering student dont give up
+
+
+begin the complete over the of the rest of the at the end of each write a piece of a that will calculate the odds of different poker hands winning with a monte carlo simulationa way to calculate complicated probabilities by generating random data
+introduction to the poker poker roadmap
+</DOC>
+
+<DOC>
+pointers arrays and recursion
+the third in the introduction to programming in c introduces the programming constructs pointers arrays and recursion pointers provide control and flexibility when programming in c by giving you a way to refer to the location of other data arrays provide a way to bundle data by guaranteeing sequences of data are grouped together finally recursive functionsfunctions that call themselvesprovide an alternative to iteration that are very useful for implementing certain algorithms
+
+pointers
+pointers are one of the most important and powerful aspects of the c language pointers are critical to understanding arrays which let you manipulate sequences of data they also give a programmer control and flexibility when programming enabling solutions that are clean and efficient some other languages use pointers implicitlyor pointerlike constructsso understanding their use will make you a better programmer in any language
+introduction to pointers arrays and recursion naive swap pointers corrected swap swap with hardware
+
+arrays
+arrays are sequences of memory of the same type that are guaranteed to be one after another this is an incredibly useful data format enabling you to store many things together under one variable name how to use arrays to solve more complex problems and lay the groundwork for more complex data types
+array access with pointer arithmetic array access with pointer indexing index of largest element closest point stepthrough dangling pointers
+
+uses of pointers
+now that you have mastered the basics of pointers and arrays it is time to see some important uses of them about how to manipulate strings and multidimensional arrays also about function pointers which allow you to pass which function to call as the parameter of another function
+compare two strings copy a string incompatible representations buffer overflow
+
+recursion
+by now you are familiar with iteration in which repetition is expressed in terms of loops another programming technique to accomplish similar ideas is recursion in which a more complex instance of a problem is expressed in terms of solutions to simpler instances of the problem how to read and write recursive code giving you another powerful option for how to approach programming problems
+executing recursive factorial by hand writing factorial recursively translating recursive factorial to code writing fibonacci recursively translate recursive fibonacci to code duplication of computation in fibonacci execution of the tail recursive implementation of factorial execution of mutually recursive isodd and iseven advice from a duke software engineering alum solve realworld problems
+
+
+now that you have learned about pointers and arrays build on the code you wrote in to build a deck of cards and evaluate a poker hand in the next complete the to calculate poker odds with a monte carlo simulation
+</DOC>
+
+<DOC>
+interacting with the system and managing memory
+the final in the introduction to programming in c will teach you powerful new programming techniques for interacting with the user and the system and dynamically allocating memory more sophisticated uses for pointers such as strings and multidimensional arrays as well as how to write programs that read and write files and take input from the user about dynamic memory allocation will allow your programs to perform complex tasks that will be applied in the final part of the a monte carlo simulation for calculating poker hand probabilities
+
+interacting with the user and system
+so far our programs have had a rather limited interaction with the user or rest of the system printing some results to standard output typically to the terminal now that we have learned about topics such as strings and arrays we are ready to how to write a that takes input from the user takes arguments on the command line accesses files and does many other things we typically think of real programs as doing
+why we need interactivity and to manage memory reading a file with fgetc reading a file with fgets writing to a file closing a file
+
+dynamic allocation
+so far most of the memory we have used has been located on the stack dynamic memory allocation gives a programmer much more flexibility in that it allows you to request a specific amount memory to be allocated on the heap so that it will not disappear with the stack frame of the calling function
+simple call to malloc mechanics of free code with a memory leak three common problems when using free call to realloc reading a file with getline combining getline and realloc
+
+programming in the large
+so far we have focused exclusively on programming in the smalldesigning the algorithm for a smallsized task implementing it testing it and debugging it this discusses three main differences that real programs exhibit they tend to be much larger than those we have written more than one person works on them sometimes teams of hundreds to thousands real software has a long lifespan during which it must be maintained now that you have an understanding of the basics of programming in the small we are ready to begin about programming in the large
+introduction roster planning
+
+poker
+complete the poker now that you know about dynamic memory allocation user input and how to in the large you can write the final parts of the write code to read in a file with a hand of cards and code to choose unknown cards from a shuffled deck as you with more sophisticated data structures the importance of drawing good pictures will increase happy programming
+</DOC>
+
+<DOC>
+programming fundamentals
+programming is an increasingly important whether you aspire to a in software development or in other fields this is the first in the introduction to programming in c but its lessons extend to any language you might want to this is because programming is fundamentally about figuring out how to solve a class of problems and writing the algorithm a clear set of steps to solve any problem in its class this will introduce you to a powerful problemsolving processthe seven stepswhich you can use to solve any programming problem how to develop an algorithm then progress to reading code and understanding how programming concepts relate to algorithms
+
+introduction
+this introduces a powerful process for solving any programming problemthe seven steps how to approach a programming problem methodically so you can formulate an algorithm that is specific and correct through examples with sequences of numbers and graphical patterns to develop the of algorithm development
+why you should to stepping through an algorithm testing an algorithm for a numerical sequence a pattern of squares testing a pattern of squares drawing a rectangle closest point generalizing closest point
+
+reading code
+to read codethis means be able to execute a piece of code by hand and clearly illustrate what each statement does and what the state of the is understanding how to read code is the only way to be sure you can write correct code by the end of this be able to read and understand code with functions conditional statements iteration and other fundamental techniques
+why you should to read code declaring and assigning a variable examples of expressions using functions for abstraction execution of function calls printing example execution of ifelse execution of switchcase while loops equivalent for and while loops execution of nested loops execution of continue
+
+types
+everything is a number to a computer but types determine the size and interpretation of numbers about types beyond integers both their conceptual representations and their hardware representations in binary basic data types nonnumber types and complex custom types as well as some important caveats so avoid typerelated programming mistakes
+introduction to types types and formatted output type conversion everything is a number struct for a rectangle uses of typedef enumerated types a duke software engineering student on the importance of planning
+
+
+you have learned a lot about designing algorithms and the programming concepts that will help you implement them for this develop and test your own algorithm for sorting data this will reinforce the importance of being specific when you write an algorithm and provide an for you to do so yourself for a very common computational task sorting
+importance of writing a specific algorithm introduction to sorting
+</DOC>
+

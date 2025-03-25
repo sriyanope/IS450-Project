@@ -1,0 +1,223 @@
+<DOC>
+preparing for google cloud certification machine engineer
+of google cloud certified users feel more confident in their cloud this provides the you need to advance your and provides training to support your preparation for the industryrecognized google cloud machine engineeropens in a new tab certificationheres what you have to do complete the preparing for google cloud machine engineer review other recommended resources for the google cloud machine engineer opens in a new tabexam review the machine engineer exam guideopens in a new tab complete machine engineeropens in a new tab sample questions registeropens in a new tab for the google cloud certification exam remotely or at a test centerapplied projectthis incorporates handson labs using qwiklabs platformthese hands on components will let you apply the you incorporate google cloud platform products used within qwiklabs gain practical handson with the concepts explained throughout the modulesapplied projectthis incorporates handson labs using googles qwiklabs platformthese hands on components will let you apply the you in the lectures will incorporate topics such as google cloud platform products which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the
+</DOC>
+
+<DOC>
+machine operations mlops getting started
+this introduces participants to mlops tools and best practices for deploying evaluating monitoring and operating production ml systems on google cloud mlops is a discipline focused on the deployment testing monitoring and automation of ml systems in production machine engineering professionals use tools for continuous improvement and evaluation of deployed models they with or can be data scientists who develop models to enable velocity and rigor in deploying the best performing modelsthis is primarily intended for the following participants data scientists looking to quickly go from machine prototype to production to deliver business impact software engineers looking to develop machine engineering ml engineers who want to adopt google cloud for their ml production by enrolling you agree to the qwiklabs terms of service as set out in the faq and located at httpsqwiklabscomtermsofservice
+
+welcome to the machine operations mlops getting started
+this provides the overview of the
+
+employing machine operations
+this identifies ml practitioners pain points before exploring the concept of devops in ml youre introduced to the three phases of the ml lifecycle and automating the ml process
+introduction to mlopswhy and when to employ mlops machine ml practitioners pain points the concept of devops in ml ml lifecycle automating the ml process
+
+vertex ai and mlops on vertex ai
+this explores what vertex ai is and why a unified platform matters
+what is vertex ai and why does a unified platform matter introduction to mlops on vertex ai how does vertex ai help with the mlops workflow part how does vertex ai help with the mlops workflow part getting started with google cloud platform and qwiklabs lab introduction vertex ai qwik start
+
+
+
+</DOC>
+
+<DOC>
+ml pipelines on google cloud
+be from ml engineers and trainers who with the stateoftheart development of ml pipelines here at google cloud the first few will cover about tensorflow extended or tfx which is googles production machine platform based on tensorflow for management of ml pipelines and metadata about pipeline components and pipeline orchestration with tfx also how you can automate your pipeline through continuous integration and continuous deployment and how to manage ml metadatathen we will change focus to discuss how we can automate and reuse ml pipelines across multiple ml frameworks such as tensorflow pytorch scikit and xgboost also how to use another tool on google cloud cloud composer to orchestrate your continuous training pipelines and finally we will go over how to use mlflow for managing the complete machine life cycle please take note that this is an advanced level and to get the most out of this ideally you have the following prerequisites you have a good ml background and have been creatingdeploying ml pipelines you have completed the courses in the ml with tensorflow on gcp or at least a few courses you have completed the mlops fundamentals by enrolling you agree to the qwiklabs terms of service as set out in the faq and located at httpsqwiklabscomtermsofservice
+
+welcome to ml pipelines on google cloud
+this introduces the and shares the outline
+
+introduction to tfx pipelines
+this introduces tensorflow extended or tfx and covers tfx concepts and components
+tensorflow extended tfx tfx concepts tfx standard data components tfx standard model components tfx pipeline nodes tfx libraries
+
+pipeline orchestration with tfx
+to use the tfx cli to deploy tfx pipelines
+tfx orchestrators apache beam tfx on cloud ai platform
+
+custom components and cicd for tfx pipelines
+to develop a cicd workflow to deploy tfx pipelines
+tfx custom components python functions tfx custom components containers subclassed cicd for tfx pipeline workflows
+
+ml metadata with tfx
+this talks about using tfx metadata for artifact management
+tfx pipeline metadata tfx ml metadata data model
+
+continuous training with multiple sdks kubeflow ai platform pipelines
+this covers continuous training with multiple sdks kubeflow ai platform pipelines
+containerized training applications containerizing pytorch scikit and xgboost applications kubeflow ai platform pipelines continuous training
+
+continuous training with cloud composer
+this covers continuous training with cloud composer
+what is cloud composer core concepts of apache airflow continuous training pipelines using cloud composer data continuous training pipelines using cloud composer model apache airflow containers and tfx
+
+ml pipelines with mlflow
+this introduces mlflow and its components
+introduction overview of ml development challenges how mlflow tackles these challenges mlflow tracking mlflow mlflow models mlflow model registry demo deploying mlflow locally demo deploying mlflow locally tracking keras tensorflow and sckitlearn experiments
+
+
+this covers a recap of the
+</DOC>
+
+<DOC>
+production machine systems
+we dive into the components and best practices of building highperforming ml systems in production environments we cover some of the most common considerations behind building these systems eg static training dynamic training static inference dynamic inference distributed tensorflow and tpus this is devoted to exploring the characteristics that make for a good ml system beyond its ability to make good predictions
+
+introduction to advanced machine on google cloud
+this previews the topics covered in the and how to use qwiklabs to complete each of your labs using google cloud
+advanced machine on google cloud welcome
+
+architecting production ml systems
+this explores what else a production ml system needs to do and how to meet those needs you review how to make important highlevel design decisions around training and model serving need to make in order to get the right performance profile for your model
+architecting ml systems data extraction analysis and preparation model training evaluation and validation trained model prediction service and performance monitoring training design decisions serving design decisions designing from scratch using vertex ai lab introduction structured data prediction getting started with google cloud and qwiklabs
+
+designing adaptable ml systems
+you how to recognize the ways that our model is dependent on our data make costconscious engineering decisions know when to roll back our models to earlier versions debug the causes of observed model behavior and implement a pipeline that is immune to one type of dependency
+introduction adapting to data changing distributions lab adapting to data right and wrong decisions system failure concept drift actions to mitigate concept drift tensorflow data validation components of tensorflow data validation lab introduction introduction to tensorflow data validation lab introduction advanced visualizations with tensorflow data validation mitigating trainingserving skew through design diagnosing a production model
+
+designing highperformance ml systems
+you identify performance considerations for machine models machine models are not all identical for some models you focus on improving io performance and on others you focus on squeezing out more computational speed
+introduction training predictions why distributed training is needed distributed training architectures tensorflow distributed training strategies mirrored strategy multiworker mirrored strategy tpu strategy parameter server strategy lab introduction distributed training with keras training on large datasets with tfdata api lab introduction tpuspeed data pipelines inference
+
+building hybrid ml systems
+understand the tools and systems available and when to leverage hybrid machine models
+introduction machine on hybrid cloud kubeflow lab introduction kubeflow pipelines with ai platform tensorflow lite optimizing tensorflow for mobile
+
+
+this reviews what you learned
+</DOC>
+
+<DOC>
+launching into machine
+the begins with a discussion about data how to improve data quality and perform exploratory data analysis we describe vertex ai automl and how to build train and deploy an ml model without writing a single line of code understand the benefits of big query ml we then discuss how to optimize a machine ml model and how generalization and sampling can help assess the quality of ml models for custom training
+
+introduction
+this provides an overview of the and its objectives
+
+get to know your data improve data through exploratory data analysis
+we look at how to improve the quality of our data and how to explore our data by performing exploratory data analysis we look at the importance of tidy data in machine and show how it impacts data quality for example missing values can skew our results also the importance of exploring your data once we have the data tidy then perform exploratory data analysis on the dataset
+introduction improve data quality getting started with google cloud and qwiklabs lab intro improve the quality of your data lab demo improve the quality of your data what is exploratory data analysis how is eda used in machine data analysis and visualization lab intro explore the data using python and bigquery
+
+machine in practice
+we will introduce some of the main types of machine so that you can accelerate your growth as an ml practitioner
+introduction supervised linear regression lab intro introduction to linear regression lab demo intro to linear regression logistic regression
+
+training automl models using vertex ai
+we will introduce training automl models using vertex ai
+introduction machine vs deep what is automated machine automl regression model evaluate automl models
+
+bigquery machine develop ml models where your data lives
+we will introduce bigquery ml and its capabilities
+introduction training an ml model using bigquery ml bigquery machine supported models lab intro using bigquery ml to predict penguin weight bigquery ml explainable ai lab demo using bigquery ml to predict penguin weight bigquery ml explainable ai bigquery ml hyperparameter tuning how to build and deploy a recommendation system with bigquery ml
+
+optimization
+we will walk you through how to optimize your ml models
+introduction defining ml models introducing the dataset introduction to loss functions gradient descent troubleshooting loss curves ml model pitfalls lecture lab introducing the tensorflow playground lecture lab tensorflow playground advanced lecture lab practicing with neural networks performance metrics confusion matrix
+
+generalization and sampling
+now its time to answer a rather weird question when is the most accurate ml model not the right one to pick as we hinted at in the last on optimization simply because a model has a loss metric of for your training dataset does not mean it will perform well on new data in the real world how to create repeatable training evaluation and test datasets and establish performance benchmarks
+introduction generalization and ml models when to stop model training creating repeatable samples in bigquery demo splitting datasets in bigquery
+
+
+this is a of the launching into machine
+</DOC>
+
+<DOC>
+machine in the enterprise
+this takes a realworld approach to the ml workflow through a case study an ml team faces several ml business requirements and use cases the team must understand the tools required for data management and governance and consider the best approach for data preprocessingthe team is presented with three options to build ml models for two use cases the explains why they would use automl bigquery ml or custom training to achieve their objectives
+
+introduction
+this provides an overview of the and its objectives
+</DOC>
+
+<DOC>
+build train and deploy ml models with keras on google cloud
+this covers building ml models with tensorflow and keras improving the accuracy of ml models and writing ml models for scaled use
+
+introduction to the
+this provides an overview of the and its objectives
+
+introduction to the tensorflow ecosystem
+this introduces the tensorflow framework and previews its main components as well as the overall api hierarchy
+introduction to the tensorflow ecosystem introduction to tensorflow tensorflow api hierarchy components of tensorflow tensors and variables
+
+design and build an input data pipeline
+data is the a crucial component of a machine model collecting the right data is not enough you also need to make sure you put the right processes in place to clean analyze and transform the data as needed so that the model can take the most signal of it as possible we discuss training on large datasets with tfdata working with inmemory files and how to get the data ready for training then we discuss embeddings and end with an overview of scaling data with tfkeras preprocessing layers
+introduction an ml recap training on large datasets with tfdata api working inmemory and with files getting the data ready for model training embeddings coursera getting started with google cloud and qwiklabs lab intro tensorflow dataset api scaling data processing with tfdata and keras preprocessing layers lab intro classifying structured data using keras preprocessing layers
+
+building neural networks with the tensorflow and keras api
+we discuss activation functions and how they are needed to allow deep neural networks to capture nonlinearities of the data we then provide an overview of deep neural networks using the keras sequential and functional apis next we describe model subclassing which offers greater flexibility in model building the ends with a lesson on regularization
+introduction activation functions training neural networks with tensorflow and the keras sequential api serving models in the cloud lab intro introducing the keras sequential api on vertex ai platform training neural networks with tensorflow and the keras functional api lab intro build a dnn using the keras functional api on vertex ai platform model subclassing regularization basics how can we measure model complexity l vs l regularization
+
+training at scale with vertex ai
+we describe how to train tensorflow models at scale using vertex ai
+introduction training at scale with vertex ai lab intro training at scale with the vertex ai training service
+
+
+this is a of the build train and deploy ml models with keras on google cloud
+</DOC>
+
+<DOC>
+feature engineering
+this explores the benefits of using vertex ai feature store how to improve the accuracy of ml models and how to find which data columns make the most useful features this also includes content and labs on feature engineering using bigquery ml keras and tensorflow
+
+introduction
+this provides an overview of the and its objectives
+
+introduction to vertex ai feature store
+this introduces vertex ai feature store
+introduction feature store benefits feature store terminology and concepts the feature store data model creating a feature store serving features batch and online
+
+raw data to features
+feature engineering is often the longest and most difficult phase of building your ml in the feature engineering process you start with your raw data and use your own domain knowledge to create features that will make your machine algorithms we explore what makes a good feature and how to represent them in your ml model
+introduction overview of feature engineering raw data to features good features versus bad features features should be known at predictiontime features should be numeric features should have enough examples bringing human insight representing features
+
+feature engineering
+this reviews the differences between machine and statistics and how to perform feature engineering in both bigquery ml and keras well also cover some advanced feature engineering practices
+introduction machine versus statistics basic feature engineering coursera getting started with google cloud platform and qwiklabs lab intro performing basic feature engineering in bigquery ml advanced feature engineering feature crosses bucketize and transform functions predict housing prices estimate taxi fare temporal and geolocation features lab intro basic feature engineering in keras lab intro advanced feature engineering in keras
+
+preprocessing and feature creation
+more about dataflow which is a complementary technology to apache beam and both of them can help you build and run preprocessing and feature engineering
+introduction apache beam and dataflow dataflow terms and concepts
+
+feature crosses tensorflow playground
+in traditional machine feature crosses dont play much of a role but in modern day ml methods feature crosses are an invaluable part of your toolkit how to recognize the kinds of problems where feature crosses are a powerful way to help machines
+introduction what is a feature cross discretization lab intro tensorflow playground use feature crosses to create a good classifier lab intro tensorflow playground too much of a good thing
+
+introduction to tensorflow transform
+tensorflow transform tftransform is a library for preprocessing data with tensorflow tftransform is useful for preprocessing that requires a full pass the data such as normalizing an input value by mean and stdev integerizing a vocabulary by looking at all input examples for values bucketizing inputs based on the observed data distribution we will explore use cases for tftransform
+introduction tensorflow transform analyze phase transform phase supporting serving
+
+
+this is a of the feature engineering
+</DOC>
+
+<DOC>
+introduction to ai and machine on google cloud
+this introduces the artificial intelligence ai and machine ml offerings on google cloud that support the datatoai lifecycle through ai foundations ai development and ai solutions it explores the technologies products and tools available to build an ml model an ml pipeline and a generative ai based on the different goals of users including data scientists ai developers and ml engineers
+
+introduction
+this covers the objective of helping learners navigate the ai development tools on google cloud it also provides an overview of the structure which is based on a threelayer ai framework including ai foundations development and solutions
+
+ai foundations
+this begins with a use case demonstrating the ai capabilities it then focuses on the ai foundations including cloud infrastructure like compute and storage it also explains the primary data and ai development products on google cloud finally it demonstrates how to use bigquery ml to build an ml model which helps transition from data to ai
+introduction why ai aiml architecture on google cloud google cloud infrastructure data and ai products ml model categories bigquery ml lab introduction coursera getting started with google cloud platform and qwiklabs
+
+ai development options
+this explores the various options for developing an ml on google cloud from readymade solutions like pretrained apis to nocode and lowcode solutions like automl and codebased solutions like custom training it compares the advantages and disadvantages of each option to help decide the right development tools
+introduction ai development options pretrained apis vertex ai automl custom training lab introduction
+
+ai development workflow
+this walks through the ml workflow from data preparation to model development and to model serving on vertex ai it also illustrates how to convert the workflow into an automated pipeline using vertex ai pipelines
+introduction ml workflow data preparation model development model serving mlops and workflow automation lab introduction how a machine learns
+
+generative ai
+this introduces generative ai gen ai the newest advancement in ai and the essential toolkits for developing gen ai it starts by examining the gen ai workflow on google cloud it then investigates how to use gen ai studio and model garden to access gemini multimodal design prompt and tune models finally it explores the builtin gen ai capabilities of ai solutions
+introduction generative ai and workflow gemini multimodal prompt design model tuning model garden ai solutions lab introduction
+
+
+this provides a of the entire by covering the most important concepts tools technologies and products
+</DOC>
+

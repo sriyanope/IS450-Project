@@ -1,0 +1,113 @@
+<DOC>
+applied software engineering fundamentals
+if you want to enter the exciting world of software development this software engineering foundations is for you no prior degrees or knowledge of programming or application development are necessary software developers are in great demand earning a median salary of us per year according to the us bureau of labor and statistics the field is growing at a rate of making it a great time to start a in software engineering the selfpaced courses provide the foundations to prepare for a wide range of it software development related careers including web development mobile application development frontend backend and full stack application development software testing quality assurance qa as well as devops engineering this is full of engaging handson labs and realworld that explore fundamental programming principles and foundations of design architecture and deployment the software development lifecycle git and github repositories using the linux terminal and creating bash shell scripts to automate a variety of tasks and coding with the python programming language the is suitable for those new to software engineering or for those who would like a review of software engineering fundamentals it prepares you with an introduction to the culture technology and jobready needed to become successful in software engineering applied projecteach is packed with handson labs interactive activities and so you can build your portfolio while gaining practical knowledge of software engineering concepts develop software engineering throughout the involveexploring job listings to become familiar with and requirements in the software engineering domain using git commands and github to create an open source while working with branches merging code and performing pull requests prswriting a bash shell script on linux that takes backups of changed files and schedules it to run every hours using crontab coding with python using lists tuples dictionaries sets conditions branching loops functions exception handling objects and classes web services apis and libraries like numpy pandas developing a python web app that uses ibm watson to translate languages including writing unit tests and packaging the app for distribution
+</DOC>
+
+<DOC>
+getting started with git and github
+get started with git and github selfpaced introductory become familiar with collaborative version control and popular git platforms collaboration and social coding are crucial parts of contemporary software engineering practices and the devops culture begin this with an overview of git and github fundamentals and explore key git concepts such as branching and repositories as well as the use of git commands also and practice various git concepts such as forking cloning and merging workflows using handson labs and to use github to effectively as a team and perform common git operations from both the web ui and command line the wraps up with a final where start building your portfolio by creating and sharing a publicopensource github by completing this demonstrate your git and github as well as add a to your resume all handson activities can be performed using webbrowser based tools and interfaces installation of any specialized software is not required on your own computer in order to complete the
+
+git and github fundamentals
+application developers rarely alone large webcloudmobile development and data science will include many people frontend developers backend developers database administrators repository administrators and others every change by every contributor must be tracked and controlled to enable collaboration accountability and version management this type of distributed version control is extremely important when managing both small and large software about some of the popular version control tools create a github account and use the github web interface to create a repository add a file to it and commit your changes branches are the heart of workflows in gitbased version control systems like github also become familiar with creating and using branches and merging your changes to the main branch
+introduction overview of git and github introduction to github github repositories github getting started github branches
+
+git commands and managing github
+as you start working with github repositories and automating workflows using the web interface can be limiting and more timeconsuming this is where git commands come in you can use it from your own desktop or a virtual desktop provided through the cloud ide wherever you develop your code become familiar with and utilize various git commands to clone and fork repositories as well as commit push and pull your changes using the command line
+overview of git workflows overview of git commands demo working with branches using git commands cloning and forking github cloning versus forking managing github
+
+final and assessment
+now that you are familiar working with github repositories branches and git commands apply your knowledge and to create a github add few files to it such as an opensource license and share it publicly
+
+optional working with github from your windows desktop
+to install git bash on your windows machine and configure an ssh key to with your github repo using git commands on your system
+</DOC>
+
+<DOC>
+developing ai applications with python and flask
+this mini is intended to apply basic python for developing artificial intelligence ai enabled applications handson assume the role of a developer and perform tasks including develop functions and application logic exchange data using watson ai libraries write unit tests and package the application for distribution demonstrate your foundational python by employing different techniques to develop web applications and ai powered solutions after completing this have added another to your portfolio and gained the confidence to begin developing ai enabled applications using python and flask watson ai libraries build and run unit tests and package the application for distribution out in the real world
+
+python coding practices and packaging concepts
+start with the basic difference between web applications and apis next about the application development lifecycle from gathering requirements to maintaining the also get familiar with the best practices for coding as documented in the python enhancement proposal pep style guide about static code analysis which is used to ensure that the code you write adheres to the coding rules next how to create and run unit tests finally how to create verify and run python packages
+introduction to the application development lifecycle introduction to web applications and apis demo working with an ide python style guide and coding practices unit testing packaging
+
+web app deployment using flask
+be introduced to the definitions of and key differences between python libraries and frameworks for application development also about flask a pythonbased micro framework used for web deployment of applications the will also introduce development and deployment concepts including routes request and response objects error handling and decorators after building an api with flask also to deploy web apps using flask
+python libraries and frameworks for application development introduction to flask flask basic applications and routes request and response objects using get and post modes dynamic routes error handling deploying web apps using flask
+
+creating ai application and deploy using flask
+be introduced to embeddable watson ai libraries also have the to build two aibased apps the practice will provide you with a challenge to apply your programming and incorporate the ibm watson libraries to build a textbased sentiment analysis tool be provided guidance through each step of the the final emotion detection based on the text input will help you get your and proficiency assessed by your peers for both perform unit testing static code analysis and incorporate error handling
+</DOC>
+
+<DOC>
+handson introduction to linux commands and shell scripting
+this provides a practical understanding of common linux unix shell commands beginner friendly about the linux basics shell commands and bash shell scripting begin this with an introduction to linux and explore the linux architecture interact with the linux terminal execute commands navigate directories edit files as well as install and update software next become familiar with commonly used linux commands with general purpose commands like id date uname ps top echo man directory management commands such as pwd cd mkdir rmdir find df file management commands like cat wget more head tail cp mv touch tar zip unzip access control command chmod text processing commands wc grep tr as well as networking commands hostname ping ifconfig and curl then move on to the basics of shell scripting to automate a variety of tasks create simple to more advanced shell scripts that involve metacharacters quoting variables command substitution io redirection pipes filters and command line arguments also schedule cron jobs using crontab the includes both videobased lectures as well as handson labs to practice and apply what you have nocharge access to a virtual linux server that you can access through your web browser so you dont need to download and install anything to complete the labs end this with a final as well as a final exam in the final demonstrate your knowledge of concepts by performing your own extract transform and load etl process and create a scheduled backup script this is ideal for data engineers data scientists software developers and cloud practitioners who want to get familiar with frequently used commands on linux macos and other unixlike operating systems as well as get started with creating shell scripts
+
+introduction to linux
+about the basics of linux be able to summarize the origins of the linux operating system and list its key features and use cases what a linux distribution is the names of popular distributions and their key characteristics also be able to explain the linux architecture interact with a linux system using the terminal and navigate directories using paths and shortcuts this will also teach you how to create and edit text files using text editors such as nano and vim lastly how to use a software package manager to install and updates on a linux system
+introduction introducing linux and unix linux distributions overview of linux architecture linux terminal overview creating and editing text files installing software and updates
+
+introduction to linux commands
+how to use common linux commands what a shell and shell commands are and how to use commands to do various tasks in linux this will teach you how to use informational commands to find relevant information about your system navigation commands to navigate files and directories and management commands to create delete copy and move files and directories also to sort and view files in useful ways and extract specific lines and fields from your files be able to use networking commands to examine your network configuration and evaluate identify and retrieve data from urls finally this will cover file archiving and compression commands
+overview of common linux shell commands informational commands file and directory navigation commands file and directory management commands viewing file content useful commands for wrangling text files networking commands file archiving and compression commands
+
+introduction to shell scripting
+the basics of shell scripting what a script is and when to use scripts be able to describe the shebang interpreter directive and create and run a simple shell script additionally this will teach you how to use pipes and filters and set shell and environment variables by the end of this also be able to list features of bash shell scripting and use crontab to schedule cron jobs understand the cron syntax and view and remove cron jobs
+shell scripting basics filters pipes and variables useful features of the bash shell scheduling jobs using cron
+
+final and final exam
+complete a practice in which you create an automated extract transform load etl process to extract daily weather forecasts and observed weather data schedule this process to run automatically at a set time daily and how to create a script to measure forecast accuracy in your peergraded final create a scheduled backup script finally demonstrate the knowledge youve gained by taking a final graded exam
+</DOC>
+
+<DOC>
+introduction to software engineering
+are you curious about the lucrative field that is software engineering and how you might be a part of it this is the for you by taking this gain foundational knowledge of software development programming and the many exciting job roles and paths that the it industry offers about the power of the software development lifecycle sdlc and modern software development frameworks methodologies like agile and scrum explore fundamental programming principles and foundations of design architecture and deployment the offers a number of labs that will help you get important handson these include getting started with an ide basics of programming in python and hello world in languages the field of software engineering is growing at an estimated rate of according to the us bureau of labor and statistics in addition to aspiring software engineers frontend backend full stack developers and devops professionals this is also suitable for those in related careers such as product and managers it managers information developers uiux designers and others who communicate and interact with software engineers about the different job and possible paths in the software engineering field and also hear from industry professionals about what they do on a daytoday basis professionals in the software engineering field are in great demand and now is a great time to more about this exciting domain start by enrolling now
+
+sdlc the software development lifecycle
+this provides you with an overview to the field of software engineering in the first lesson of this be introduced to the field of software engineering and about the software development lifecycle sdlc elements of building highquality software and writing requirements in lesson two explore different approaches to building software and different related to software development also hear from experienced practitioners in the field and how different roles interact and with each other as a team in order to develop enterpriselevel software
+introduction meet the experts what is software engineering insiders viewpoint what is software engineering introduction to the sdlc phases of the sdlc building quality software requirements software development methodologies software versions software testing software documentation roles in software engineering insiders viewpoint job roles in software engineering teams
+
+introduction to software development
+this introduces you to the concepts of application development in lesson about the differences in frontend and backend development in web and cloud applications and the technologies used in both also about how working in teams and pairs can enhance the development process and make it more efficient in lesson explore many of the application development tools that a software engineer uses to write test and release code and be introduced to software stacks that support the execution of an application finally in the handson lab how to use an integrated development environment ide to develop and run code
+overview of web and cloud development frontend development the importance of backend development teamwork and squads insiders viewpoint teamwork in software engineering pair programming insiders viewpoint pair programming introducing application development tools more application development tools introduction to software stacks insiders viewpoint tools and technologies
+
+basics of programming
+this introduces you to the basics of programming in the first lesson about the different categories of programming languages and the scenarios to which each is suited also how to plan and organize your code effectively in lesson explore basic programming logic and investigate programming concepts such as identifiers functions and objects finally in the handson lab how to write simple python code
+interpreted and compiled programming languages comparing compiled and interpreted programming languages query and assembly programming languages understanding code organization methods insiders viewpoint types of languages branching and looping programming logic introduction to programming concepts part introduction to programming concepts part
+
+software architecture design and patterns
+about the foundations of enterprise software development lesson introduces you to software architecture and explains the importance of welldesigned architecture also about the design process including structural design behavioral models and how you can create unified modeling language uml diagrams to communicate a softwares structure and behavior to all team members also consider objectoriented analysis and design ooad in lesson explore a variety of architectural patterns that support the architectural design process in a handson activity lastly about the software production environment and some of the components required for deployment
+introduction to software architecture software design and modeling objectoriented analysis and design insiders viewpoint importance of design and software architecture approaches to application architecture architectural patterns in software application deployment environments production deployment components insiders viewpoint deployment architecture
+
+job and skillsets in software engineering
+about the tasks of a software engineer and what they do on a daytoday basis discover the hard and soft needed to become a successful software engineer also investigate the job outlook for a software engineer get a clear understanding of different software engineering paths and about various software engineering job titles and the responsibilities of those roles also about the software engineering code of ethics
+what does a software engineer do a day in the life of a software engineer required for software engineering insiders viewpoint advice to future software engineers insiders viewpoint women in software engineering job outlook for software engineers paths in software engineering software engineering job titles insiders viewpoint paths code of ethics
+
+final activity and quiz
+this is the final of the which contains the final assessment and final both the assessment and the address topics from all other in the the final assessment contains a total of multiple choice questions comprised of questions about each for the point peerreviewed final analyze a job posting in light of what you learned in the you are also required to review two of your peers based on the rubric provided
+</DOC>
+
+<DOC>
+python for data science ai development
+kickstart your of python with this beginnerfriendly selfpaced taught by an expert python is one of the most popular languages in the programming and data science world and demand for individuals who have the ability to apply python has never been higher this introduction to python will take you from zero to programming in python in a matter of hoursno prior programming necessary about python basics and the different data types familiarize yourself with python data structures like list and tuples as well as logic concepts like conditions and branching use python libraries such as pandas numpy beautiful soup also use python to perform tasks such as data collection and web scraping with apis practice and apply what you through handson labs using jupyter notebooks by the end of this feel comfortable creating basic programs working with data and automating realworld tasks using python this is suitable for anyone who wants to data science data analytics software development data engineering ai and devops as well as a number of other job roles
+
+python basics
+this teaches the basics of python and begins by exploring some of the different data types such as integers real numbers and strings continue with the and how to use expressions in mathematical operations store values in variables and the many different ways to manipulate strings
+introduction introduction to python getting started with jupyter types expressions and variables string operations
+
+python data structures
+this begins a journey into python data structures by explaining the use of lists and tuples and how they are able to store collections of data in a single variable next about dictionaries and how they function by storing data in pairs of keys and values and end with python sets to how this type of collection can appear in any order and will only contain unique elements
+lists and tuples dictionaries sets
+
+python programming fundamentals
+this discusses python fundamentals and begins with the concepts of conditions and branching continue through the and how to implement loops to iterate over sequences create functions to perform a specific task perform exception handling to catch errors and how classes are needed to create objects
+conditions and branching loops functions exception handling objects and classes
+
+working with data in python
+this explains the basics of working with data in python and begins the path with how to read and write files continue the and uncover the best python libraries that will aid in data manipulation and mathematical operations
+reading files with open writing files with open pandas loading data pandas working with and saving data one dimensional numpy two dimensional numpy
+
+apis and data collection
+this delves into the unique ways to collect data by the use of apis and web scraping it further explores data collection by explaining how to read and collect data when dealing with different file formats
+application interface rest apis http requests part rest apis http requests part optional html for web scraping optional web scraping working with different file formats
+</DOC>
+

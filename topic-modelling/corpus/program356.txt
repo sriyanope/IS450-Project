@@ -1,0 +1,88 @@
+<DOC>
+the art of visual storytelling
+the ability to shoot and edit is rapidly becoming a sought after many businesses seek people who can bring more than just a single to the table and creation can be a key one handson do more than just understand the concept of creating a actually produce one for your portfolio component courses are broken down into the stages of production preproduction production and postproduction in preproduction how to generate ideas write proposals scripts and draw storyboards in production lessons include basic camera functions composition depth of field getting the exposure right and shooting for the edit also how to light and frame an oncamera interview and how to record audio in postproduction you editing basics using nonlinear editing programs like adobe premiere how to create aesthetic graphics and how to avoid copyright issues among those who would benefit from this are teachers producing content for their students real estate agents using to showcase homes for sale smallbusiness ownersentrepreneurs generating for a website nonprofit staff creating for fundraising efforts and amateur vloggers looking to produce more contentapplied projectthere are quizzes discussion posts and peerreview throughout the three courses in the final learners will do more than just understand the concept of creating a they will actually produce one for their portfolio
+</DOC>
+
+<DOC>
+bring your story to life postproduction
+we will explore the power and artistry of picture and sound editing although youre welcome to use the editing software of your choice well be demonstrating nonlinear editing using adobe premiere well share with you our editing workflow for completing a visual story from scripting and writing conversationally to the visuals to recording voice overs to building the rough cut and polishing with the final cut
+
+writing the script
+we plan to teach you how to use adobe premiere which well use as an analog for common nonlinear editing systems premiere uses many of the bells and whistles that will enhance your visual storytelling including color correcting essential graphics and easy shortcuts to trim edits efficiently how to save a correctly and how to organize and prep your media for editing well help you become familiar with the workspace and tools that use when trimming and audio clips well also share some rules of editing that will help you assemble shots in a manner that is pleasing and dynamic
+welcome to postproduction scripting writing to visuals writing conversationally recording the voice over recording your own voice
+
+getting to know nonlinear editing
+the workflow that advances your visual story in stages from logging the pictures and sound to transcribing the interviews and to writing the script known as the paper edit a document where the script contains editing decisions aligned with timecode well discuss how to log through your and audio where essentially you record the start and end timecodes of your shots the logging sheets can then be used as a reference tool to help you find where shots are located in your footage and where you can quickly access sound bites and other sounds the logging sheets are often used by producers and script writers to create the paper edit
+what is nle nonlinear editing adobe premiere and certification smartphone editing vs computer managing content and saving properly the workspace importing and sequences
+
+getting started with editing
+we plan to teach you how to use adobe premiere which well use as an analog for common nonlinear editing systems premiere uses many of the bells and whistles that will enhance your visual storytelling including color correcting essential graphics and easy shortcuts to trim edits efficiently how to save a correctly and how to organize and prep your media for editing well help you become familiar with the workspace and tools that use when trimming and audio clips well also share some rules of editing that will help you assemble shots in a manner that is pleasing and dynamic
+in and out points basic editing transitions editing guidelines
+
+the rough cut
+its often been said that editing is an exercise in controlled chaos it can be overwhelming to face a mountain of footage and decide how it should go together but using the script gives you a simple plan to get started well show you how to start editing the rough cut the rough cut is where your story starts to take shape but were going to recommend that you begin by assembling the audio first in the order according to whats in the script the completion of this audio bed will achieve what amounts to a radio cut simply listening to the audio will help you evaluate whether the story is making sense should you decide to make changes to the audio its often much easier to do so if you dont happen to have all your in place which would require some more shifting and cutting of clips once you feel that the radio cut is doing what you want then its time to apply the if youve written to the then the clips should just fall in place once all the clips are in roughly the order that you want then the rough cut is complete with this rough cut want to watch it several times to make sure it all makes sense then be able to move on to the final edit
+building the rough cut the editing workflow some challenges with editing
+
+the final cut
+how to polish your rough cut into the fine cut well cover the rules of editing where you critically evaluate your shots removing technically bad shots and audio redundant shots continuity errors and any shots that seem out of place the goal of the fine cut will be to make sure that each shot is placed precisely and is welltimed with pacing and rhythm that seems appropriate to the emotional impact of the scene well also share some adobe premiere shortcuts for how to trim edits until the sequence feels like its working to create a dynamic and engaging presentation well also make sure you know how to mix audio properly especially if you add music to your sequence if you use any stock footage andor music then also about copyright restrictions and public domain
+the final cut pacing and rhythm can i use someone elses
+
+creating graphics
+one of the last elements added during the fine cut are graphics not every needs them but in some want to create a title and even some identifiers for the people who were interviewed how to create animated graphics for slates titles fullscreen graphics and identifiers lower thirds
+essential graphics designing graphics
+
+review and exporting
+we will show you what youve been working towards this whole time when you can finally export your well discuss some of the different formats that you can export how they will impact how your will be seen by others well then call it a wrap
+exporting practice practice practice
+</DOC>
+
+<DOC>
+a blueprint for success your preproduction
+we will about preproduction which requires levels of planning before you ever pick up a camera we will share with you the terminology used widely in production along with our ideas for affordable camera gear and editing applications well also discuss strategies to help you generate story ideas and the focus find characters write treatments and scripts draw storyboards and even pointers on how to pitch your stories
+
+introduction and gear recommendations
+the start of this begins with an introduction to production and to the instructors about the most common terms used by industry professionals when describing the elements to your production also to identify the equipment and software needs that will produce with high production value we will make recommendations for affordable camcorders and accessories and about apps that can convert your smartphone camera into a recording device about lighting devices media cards and microphones we will also make recommendations on affordable editing applications such as adobe premiere or even free editors like imovie or filmorago depending on whether youre using a mac pc iphone or android devices
+and instructor introduction stages of production production elements and terminology types of shots camcorder or dslr memory cards tripods and other pods microphones and headphones lights editing applications free applications
+
+finding and telling your story
+you might have an idea for a but you have yet to know the story essentially you need a plan about classic narrative structure for storytelling and come to understand the difference between print and visual stories also be able to identify different story structures such as the inverted pyramid hourglass and diamond additionally how to cultivate sources through preinterviews to find compelling characters that personalise the story generate drama and show the audience whats at stake the main goal will be to anticipate how you want to tell your story
+the narrative the visual story generating ideas how to find stories the focus what is your story about finding characters
+
+script formats the treatment and pitch
+would you ever build a new home without blueprints a home needs a strong foundation and so does the story you want to tell how to write treatments scripts and draw storyboards tools that will carefully craft your story before you ever pick up a camera the treatment is a narrative of your story which will help you understand how the parts of your story connect the script shows the specific words that are written to both images and sound which typically undergoes many revisions storyboards are a collection of drawings that help you visualise a scene and to troubleshoot potential problems before they occur these documents are key to helping you reduce the uncertainty that is common in many productions
+script format storyboards writing the treatment pitching your story dos and donts the proposal legal stuff
+</DOC>
+
+<DOC>
+ready to roll the production process
+if youve done your preproduction thoroughly then you should feel confident moving on to this next step gathering the raw materials that use to build your visual story these raw materials are your camera shots including broll and interviews the production stage is where finally collect the images and sound that will communicate directly to your audience well show you how to enhance your visual story by raising the quality of your shots getting proper exposure using the rule of thirds and shooting sequences that promote continuity well also cover the importance of sound in your production from recording natural sounds to interviews would you like to add mood and atmosphere to your interviews well teach you how to light an interview to help your subject look their best think of your footage as visual evidence that shows not just tells your story
+
+setting up
+about the basic functions that are found in most prosumer camcorders and how you can get the best shots possible first were going to explain what the basic camcorder can do for you we will show you how to operate the camcorder in automatic and manual modes well demonstrate the features found in most tripods how to get level shots and how to mount and dismount the camera also get to know the terms we use to describe camera moves and well suggest some dos and donts the shaky camera makes its presence felt which can be distracting to your audience finally well provide some pointers to help you stabilize the camera even when you use it handheld
+the parts of the camcorder automatic vs manual setting up the tripod and mounting the camera handheld motion tilt and pan tracking and dolly
+
+the approach to getting shots
+more about the fundamental building block of visual storytelling the shot to know what shots to get you first need to know your story well introduce you to tools you can use to anticipate your shots in production such as storyboards and shot lists well demonstrate what you should do when you arrive on location looking for the best angles and why its important to shoot and move well show you how you can frame your shots some dos and donts for using the zoom and explain the value of the close up in your storytelling about continuity and why its important to respect the axis well also share some pointers on getting the focus right and introduce you to focus assist functions that are found in many camcorders
+choosing the right shot the field of view and the zoom the axis getting the focus right and focus assists
+
+writing with light
+instead of using words a visual story uses light how to capture and control light is what good photography is all about how to control the light that enters the lens and how to reliably get the proper exposure well explain about the parts of a lens the neutral density filter the gain shutter speed and the iris well also share with you some exposure assists that are found in many camcorders what it means to white balance to help you reproduce colours accurately additionally well introduce you to best practices when it comes to taking pictures on your smartphone including apps that can extend your phones ability to shoot if youre looking for a more economical way to shoot then this will show you how to get the most out of your smartphone camera
+aperture iris and fstops nd filter gain shutter iris exposure assists white balance getting good exposure on mobiles
+
+controlling what the viewers see
+good composition pulls our eyes to the most important part of the shot but bad composition can make your images appear weak failing to convey energy and motion well share with you some pointers on how to compose your shots in ways that build interest well introduce you to the rule of thirds and demonstrate how to find depth in your image using leading lines that guide our eyes to the subject matter also well explain why interview shots play such a valuable role in your storytelling good interview compositions follow the rule of thirds somewhat rigidly and if its not done right these are the shots you might need to reshoot well share some pointers on how to get interview shots done right in ways that engage our interest closeups are the common way to frame interview shots where the guest is seen in a threequarter profile and their eyes are level with the lens well also share some pointers on making the background appear more interesting and less distracting
+the rule of thirds interview shots
+
+shooting for the edit
+visual storytelling finds ways to transmit an by showing action as it progresses from one shot to the next this progression is a way to heighten the viewers involvement in the story and to sustain their interest well explain how sequences can make your stories more engaging to watch how they promote continuity and even compress the time it takes to complete a single action the backbone of visual storytelling is the sequence which consists of a variety of shots that show the same action from different perspectives sequences not only promote continuity but they will give your that polish sequences are the bedrock of visual storytelling and they will create a more efficient workflow to your editing as a photographer its important to plan ahead for how you might edit the shots together so that your editing will appear seamless and dynamic simply as a photographer think like an editor well explain how you can plan for your sequence shooting with intention instead of getting footage of everything in sight in other words you shoot footage in roughly the same order that you might see the shots in their final edit well also share with you some strategies to save the edits by getting cutaway shots to solve continuity problems finally well show you ways you can shoot incamera transitions that will make your edits look more dynamic
+sequences defined incamera transitions
+
+getting sound
+getting good audio is just as important as getting good if not more so to identify what makes good audio and how to record it properly the terms that describe audio quality and what can lead to audio problems well explain the most commonly used microphones and why its important to use the right microphone for the right job well show you a few tricks to use when setting up interviews that will get you the audio results you want well describe the importance of clipon microphones how to prevent wind and other ambient noise from ruining your sound and how to improvise your own audio booth for recording narration
+good vs bad audio types of microphones interview audio diy audio booth
+
+lighting the shot
+lighting is as much an art as it is an exact science some extra lights will help your subjects look their best free from unattractive shadows flat lighting and underexposure we will teach you how to light your shots most especially interviews using singlepoint twopoint and threepoint lighting well explain the value of lighting and how lighting can carry emotion well identify terms used to describe lighting such as dark and bright light highkey vs lowkey and highcontrast vs lowcontrast well show you what a key light does and how lighting can achieve a sense of depth well also explain how lighting direction can make the image look more dramatic and how to improvise using available lighting including sunlight and the ways you can mitigate harsh shadows using diffusion
+the value of lighting lighting aesthetics key light the dominant light depth of field types of lenses threepoint lighting diffusion falloff
+</DOC>
+

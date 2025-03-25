@@ -1,0 +1,57 @@
+<DOC>
+leverage data science for a more agile supply chain
+over the past two decades the supply chain has become more complex while advancing technology has allowed companies to capture this complexity within stores of ever accumulating data companies have not kept up with how to analyze and derive insights from that data this uses handson activities to show how data science techniques can turn raw data into decisionmakers for a more agile supply chain foundational techniques such as demand forecasting inventory management with demand variability and using the newsvendor model are covered in addition to more advanced techniques such as how to optimize for capacity and resources as well as mitigate risks with the monte carlo simulation by the end of this be able todescribe how demand planning supply planning and constrained forecast are associated with one anotheruse excel to analyze historical data to quantify future needsanalyze historical data to determine inventory levels in steady and uncertain demand situations using excelmanage inventory in an uncertain environmentquantify the inventory needs for singleperiod items using the newsvendor modelidentify the components of capacity optimization resource optimization and monte carlo simulationset up and solve optimization problems in excelbuild a demand and inventory snapshot and run a monte carlo simulation to solve for a more agile supply chainapplied projectthroughout the learners with realworld supply chain data to analyze various supply chain scenarios to close learners apply concepts from all three courses to apply learned data science to improve the margins of a supply chain
+</DOC>
+
+<DOC>
+supply chain optimization
+optimization is an important piece of an agile supply chain we will explore the components of optimization and how to set up an optimization problem in excel we will also practice capacity and resource optimization and explore examples of both in the supply chain building off of our optimization practice we will next how to use a monte carlo simulation to make the least risky decision in uncertain supply chain situations finally we will combine our from this and the previous two courses to build a demand and inventory snapshot and optimize it using a monte carlo simulation to mitigate risks in the supply chain
+
+optimization defined
+welcome to optimization defined the word optimization has filled our lives in the last decade everywhere we turn we either hear or see the word optimization especially for those involved in marketing supply chain and operations we will define optimization and describe its purpose in the supply chain we will also identify the components of an optimization algorithm and see how to use an objective function in excel in our activity we will practice formulating a maximization function
+
+capacity optimization
+welcome to capacity optimization in the previous we described optimization in general and saw how to set up an optimization problem in excel over these next two we will dive into two specific examples of optimization capacity optimization and resource optimization we will identify the goal of capacity optimization and overview some examples of how it can be used in the supply chain we will also demo the steps to create a capacity optimization problem in excel and recall these steps for our quiz in our activity we will describe how everyday tasks or functions can benefit from capacity optimization
+
+resource optimization
+welcome to resource optimization we will identify the goal of resource optimization how it differs from capacity optimization and go through some industry examples we will how to set up a resource optimization problem in excel through our demo and recall these steps in our quiz finally we will put what weve learned into practice by setting up and solving a resource optimization problem in excel
+
+monte carlo simulation
+welcome to monte carlo simulation we will define a monte carlo simulation and when it should be used through our demo we will how to set up a monte carlo simulation in excel which will prepare us to identify the key inputs and excel features needed to run a monte carlo simulation for our quiz as a close to this this has a peergraded in our we will practice the learned in all three courses to build a demand and inventory snapshot and then use a monte carlo simulation to minimize costs finally in our discussion we will reflect on how learned through the past three courses can be applied to our current or future careers
+</DOC>
+
+<DOC>
+supply chain planning
+supply chain planning is an important activity in any supply chain this is where organizations get an idea of the upcoming demand realize if they have the capacity to meet the demand and determine how to realize these demands we will explore how to use data science to conduct demand and supply planning how to constrain the forecast and how to measure the results as we walk through this process we will also explore how to use excel to quantify each step
+
+demand planning
+welcome to demand planning we will explore demand planning how to identify influencing factors how to differentiate between the three simple statistical forecast types and how to compute a few forecast values
+influencing factors develop statistical demand forecast
+
+supply planning
+welcome to supply planning we will discuss the basics of supply planning how to confirm internal external capacity how to confirm material availability and the importance of communication and data sharing to supply planning
+
+constrained forecast
+welcome to constrained forecast we will discuss constrained forecasts and consensus meetings specifically we will cover the purpose and creation of constrained forecasts and how consensus meetings are utilized to reach organizational goals
+
+measure results
+welcome to measure results we will discuss measuring results through collecting actual performance results and calculating forecast errors specifically we will discuss the purpose of measuring results the types of metrics used when measuring results and common error measurements and their advantages and disadvantages
+</DOC>
+
+<DOC>
+inventory management
+inventory is a strategic asset for organizations the effective management of inventory can minimize a companys spending while dramatically increasing its profit we will explore how to use data science to manage inventory in uncertain environments how to set inventory levels based on customer service requirements and how to calculate inventory for products that have short sales cycles
+
+steadystate demand no demand variability
+welcome to steadystate demand no demand variability we will begin by discussing demand behavior specifically steadystate demand next we will explore lead time and gather lead time information from multiple stakeholders the will close with a demonstration of how to calculate a reorder point within excel
+
+inventory management with demand variability
+welcome to after discussing steadystate demand in we will explore the more common situation of demand variability specifically we will focus on sources of variability strategies for countering variability and lead time calculations to maintain a safety stock
+
+inventory as a strategic tool to meet customer service level
+welcome to we will discuss customer service level its relationship to inventory and how to calculate safety stock to maintain a desired customer service level
+
+newsvendor model oneperiod decision model
+welcome to we will cover the newsvendor model examples of singleperiod products and calculating the order quantity to mitigate product underages or overages
+</DOC>
+

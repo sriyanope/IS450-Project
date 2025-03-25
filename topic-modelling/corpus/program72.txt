@@ -1,0 +1,68 @@
+<DOC>
+computer vision for engineering and science
+cameras are an integral component in many new technologies autonomous systems use cameras to navigate their environment while doctors use small cameras to help guide minimally invasive surgical techniques it is essential that engineers use computer vision techniques to extract information from these types of images and gain the computer vision underpinning many of todays top jobs specifically perform object detection train image classification models use features to track objects and align images detect motion in implement multiobject tracking use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your computer vision tasks be provided free access to matlab for the duration of the to complete your workto be successful it will help to have some prior image processing if you are new to image data its recommended to first complete the image processing for engineering and scienceopens in a new tab applied projectin stitch together images from the mars curiosity rover in train machine models to classify traffic signs and detect them in images and in use deep models to detect objects also apply optical flow to detect moving objects and apply tracking algorithms to track objects as they move in a
+</DOC>
+
+<DOC>
+object tracking and motion detection with computer vision
+in the third and final of the computer vision for engineering and science to track objects and detect motion in tracking objects and detecting motion are difficult tasks but are required for applications as varied as microbiology and autonomous systems to track objects you first need to detect them use pretrained deep neural networks to perform object detection also use optical flow to detect motion and use the results to detect moving objectsat the end of this apply all the learned to a final take the role of an engineer being asked to track cars on a busy highway with the added challenge of counting each vehicle and its direction use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your computer vision tasks be provided free access to matlab for the duration to complete your to be successful it will help to have some prior image processing if you are new to image data its recommended to first complete the image processing for engineering and science
+
+detecting objects
+app item discussion prompts
+computer vision for engineering and science introduction to object tracking and motion detection detecting objects with pretrained models detecting objects with segmentation
+
+motion detection
+app items
+detecting motion stabilizing with template matching applying optical flow
+
+detection and tracking
+discussion prompt
+introduction to object tracking implementing object tracking concepts implementing object tracking execution
+
+final
+discussion prompt plugin
+introduction to the traffic flow integrating your code of computer vision for engineering and science
+</DOC>
+
+<DOC>
+introduction to computer vision
+in the first of the computer vision for engineering and science be introduced to computer vision and use the most common algorithms for feature detection extraction and matching to align satellite images and stitch images together to create a single image of a larger scene features are used in applications like motion estimation object tracking and machine use features to estimate geometric transformations between images and perform image registration registration is important whenever you need to compare images of the same scene taken at different times or combine images acquired from different scientific instruments as is common with hyperspectral and medical images use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your computer vision tasks be provided free access to matlab for the duration to complete your to be successful it will help to have some prior image processing if you are new to image data its recommended to first complete the image processing for engineering and science
+
+introduction to features
+discussion prompt
+computer vision for engineering and science introduction what are features
+
+working with features
+discussion prompt
+detecting features extracting features matching features
+
+image registration
+reading
+estimating and applying geometric transformations featurebased image registration visually selecting control points
+
+image stitching
+app item discussion prompt plugin
+stitching images together of introduction to computer vision
+</DOC>
+
+<DOC>
+machine for computer vision
+in the second of the computer vision for engineering and science perform two of the most common computer vision tasks classifying images and detecting objects apply the entire machine workflow from preparing your data to evaluating your results by the end of this train machine models to classify images of street signs and detect material defectsyou will use matlab throughout this matlab is the goto choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your computer vision tasks be provided free access to matlab for the duration to complete your to be successful it will help to have some prior image processing if you are new to image data its recommended to first complete the image processing for engineering and science
+
+image classification with machine
+
+computer vision for engineering and science introduction to machine for computer vision the machine workflow introduction to classification models preparing your images for classification training image classification models
+
+image classification using bag of features
+app item discussion prompt
+introduction to bag of features classifying images with bag of features
+
+evaluating classification models
+
+evaluating classification models evaluating classification models in matlab common issues in image classification
+
+object detection with machine
+
+object detection with machine labeling your images for machine introduction to the object detection of machine for computer vision
+</DOC>
+

@@ -1,0 +1,137 @@
+<DOC>
+business foundations
+develop basic literacy in the language of business which you can use to transition to a new start or improve your own small business or apply to business school to continue your education in five courses the fundamentals of marketing accounting operations and finance in the final capstone apply the learned by developing a gotomarket strategy to address a real business challenge
+</DOC>
+
+<DOC>
+introduction to financial accounting
+master the technical needed to analyze financial statements and disclosures for use in financial analysis and how accounting standards and managerial incentives affect the financial reporting process by the end of this be able to read the three most common financial statements the income statement balance sheet and statement of cash flows then you can apply these to a realworld business challenge as part of the wharton business foundations
+
+introduction and balance sheet
+to a foreign language like accounting you need quite a bit of practice in the basic foundations grammar syntax idioms etc this material is absolutely essential for being able to read and to understand books written in the language in our case financial statements we will start building these foundations we will start with an overview of financial reporting what types of reports are required who makes the rules who enforces the rules then we will cover the balance sheet equation and definediscuss assets liabilities and stockholders equity we will introduce debitcredit bookkeeping and do lots of practice in translating transactions into debits and credits finally we will introduce a case of a startup company to provide you insights into all of the steps necessary to go from recording the first transactions of a new business all the way through its first set of financial statements
+financial reporting overview financial reporting example balance sheet equation assets liabilities and stockholders equity debit and credit bookkeeping i debit and credit bookkeeping ii relic spotter case part relic spotter case part m company tour of an annual report
+
+accrual accounting and the income statement
+we will start with a discussion of accrual accounting and how it affects the recognition of the income statement accounts revenues and expenses then we will cover adjusting entries which are needed to prepare our internal books for the upcoming financial statements finally we will discuss closing entries and the preparation of the balance sheet and income statement at each stage we will continue to on the case of our startup company if you are not sick and tired of journal entries by the end of then i have not done my job
+revenues and expenses relic spotter case part adjusting entries i adjusting entries ii relic spotter case part a relic spotter case part b financial statements and closing entries m company income statement and balance sheet
+
+cash flows
+cash is king we will start with the classification of cash flows into operating investing and financing activities then we will on preparing and analyzing the statement of cash flows we will wrap up the case on the startup company by preparing and analyzing its statement of cash flows finally we will discuss the differences between earnings cash from operations ebitda and free cash flow
+operating investing and financing cash flows relic spotter case part statement of cash flows relic spotter case part more scf topics and ebitda cash flow vs ebitda examples m company cash flows
+
+ratio analysis and final exam
+we will have our final exam because of the exam i will cover ratio analysis which will not involve any new material while we will define and discuss a number of ratios they will all basically involve dividing one accounting number by another but the analysis of what those ratios mean will involve a deep understanding of balance sheet and income statement accounts thus the ratio analysis will help provide a nice review of the material which will help you prepare for the exam however there will be no questions about ratio analysis on the exam the only thing left to do after this exam is to impress your family friends and coworkers with your vast knowledge of financial accounting
+overview of ratio analysis plainview technology case part plainview technology case part plainview technology case part m company ratios
+</DOC>
+
+<DOC>
+introduction to marketing
+taught by three of whartons top faculty in the marketing department consistently ranked as the marketing department in the world this covers three core topics in customer loyalty branding customer centricity and practical gotomarket strategiesyoull key principles in branding brand equity is one of the key elements of keeping customers in a dynamic world in which new startups are emerging constantly customer centricity not synonymous with customer service customer centricity starts with customer focus and needgathering gotomarket strategies understand the drivers that influence customers and see how these are implemented prior to making an investment complete this as part of whartons business foundations and have the to take the capstone and prepare a strategic analysis and proposed solution to a real business challenge from whartongoverned companies like shazam and snapdeal or to a challenge faced by your own company or organization whartontrained staff will evaluate the top submissions and leadership teams at shazam and snapdeal will review the highest scoring prepared for their companies
+
+branding marketing strategy and brand positioning
+professor kahn starts us off with the first of two branding marketing strategy and brand positioning for an overview of all concepts covered in the please read the syllabus below additional info may be found in the pages please participate in the discussion forums as your input will enhance the overall of this
+marketing building strong brands part i marketing building strong brands part ii strategic marketing segmentation and targeting brand positioning brand mantra the elevator speech experiential branding
+
+customer centricity the limits of productcentric thinking the and challenges of customer centricity
+of our class features professor peter fader who will focus on concepts related to customer centricity in an economy that is increasingly responsive to customer behaviors it is imperative to focus on the right customers for strategic advantages the coming weeks will provide the foundation needed to build a customer centric outlook if you want to read more about professor faders views on customer centricity feel free to follow him on twitter faderp he regularly shares relevant perspectives and there
+from productcentric to customercentric management cracks in the productcentric approach datadriven business models three cheers for direct marketing which firms are customer centric what is customer centricity living in a customercentric world more reflections on customer centricity questions on customer centricity
+
+go to market strategies communications strategy fundamentals of pricing
+examine the critical marketing topic go to market strategies professor jagmohan raju has designed these lectures to help you gain a deep understanding of the role of communications in marketing strategy fundamentals of pricing and how to manage channel conflicts explore the ms of developing a communication plan how to measure price elasticity and understand disruption in information delivery by the end of this be able to use effective analytical tools to form a communications campaign and create appropriate access points to your brand for your customer
+designing a communications campaign key trends media planning pricing understanding price sensitivity measuring price elasticity psychological aspects of pricing analytic foundations for pricing economic value to the customer creating customer access disruption in information delivery managing channel conflict online retailing and ecommerce digital marketing foundations
+
+branding effective brand communications strategies and repositioning strategies
+professor kahn is back fourth the second of her branding covering effective brand communications strategies and repositioning strategies understanding how customers perceive your brand messaging and marketing is one of the most important aspects to understanding consumer behavior what consumers perceive is what affects their actions and what they perceive is not necessarily true professor kahn unpacks customer behavior and perception and explores successful strategies for influencing both final required of the
+brand messaging communication brand elements choosing a brand name brand elements color taglines brand elements packaging brand elements persuasion repositioning a brand
+
+applied marketing optional
+these short lectures apply marketing principles taught in the to current examples content in these lectures may deepen your understanding of concepts but wont be tested directly on the quizzes or exam
+the brand named jennifer awesomeness tv playboy in china crocs barriers to and challenges of customer centricity pay it forward google and others clv electronic arts rewarding clv merial customer analytics initiative new startups in customer centricity
+</DOC>
+
+<DOC>
+wharton business foundations capstone
+whartons applied knowledge capstone enables you to apply your analytic to real business challenges including your own use your newly earned business to thoughtfully evaluate a real situation or from whartongoverned companies like shazam and snapdeal
+
+start here
+welcome to the business foundations capstone weve used this shell to bring you the resources and tools you need to envision plan develop and submit your capstone please study the below which provide you with the resources and timeline you need to complete a successful capstone then please take the scope quiz you must score on all questions to pass the quiz but you have multiple to retake the quiz until you score
+
+choosing your and for review
+write your of the product or service develop further in a full analysis for your final because deciding what spend the next few weeks researching is such an important step submit it for peer review so you can get feedback on the validity and feasibility of your idea before you devote more time and effort to it once you submit your idea please review the descriptions of five of your peers
+introduction framework cost quality variety responsiveness
+
+marketing plan for review
+write your marketing plan for your product or service that will be part of your final because determining who the audience is for a product or service and how to talk the audience about it is critical to the success of your capstone have the to get feedback on creativity and analytical strength of your marketing plan before you submit is as part of your final once you submit your idea please review the marketing plans of five of your peers
+strategic marketing flip chart how can customer centricity be profitable customer retention customer development brands and digital marketing customers and digital marketing reputation and reviews product life cycle more examples of influence more examples of influence part pricing strategies psychological factors distribution strategies introduction distribution strategies channel design horizontal conflict
+
+preparing the rough draft and accounting and finance for review
+use to bring your together finish drafts of each of your segments and have someone you trust read it and offer feedback use the forums to see if your peers will help you out you can also post your draft in the forums for feedback if you like there is no formal graded
+accounts receivable estimating uncollectible accounts accounts receivable disclosure example inventory lifo vs fifo inventory disclosure example m company accounts receivable and inventory
+
+submitting your capstone
+congratulations on completing your capstone now it is time to submit it for review once you do please review the of at least five of your peers we cant wait to see what youve come up with
+</DOC>
+
+<DOC>
+managing social and human capital
+people are the most valuable asset of any business but they are also the most unpredictable and the most difficult asset to manage and although managing people well is critical to the health of any organization most managers dont get the training they need to make good management decisions now awardwinning authors and renowned management professors mike useem and peter cappelli of the wharton school have designed this to introduce you to the key elements of managing people based on their popular at wharton this will teach you how to motivate individual performance and design reward systems how to design jobs and organize for high performance how to make good and timely management decisions and how to design and change your organizations architecture by the end of this have developed the you need to start motivating organizing and rewarding people in your organization so that you can thrive as a business and as a social organization
+
+motivation and reward
+how motivation affects an individuals performance and how to use that motivation to drive performance explore how incentive systems are designed and how psychological concepts such as behavior modification imitation conformity and compliance influence and shape these systems also examine the current process of hiring employees using technology tracking systems and outsourcing and how you can provide valuable feedback to your employees and make performance appraisals productive by the end of this be able to apply what youve learned to best motivate hire and evaluate your employees
+professor cappelli and professor useem introductions overview introduction motivation motivation the agency theory examples designing incentive systems hiring managing performance
+
+tasks jobs and systems of
+this is designed to teach you the difference between a task and a job how jobs are historically designed and explore some of the drawbacks related to past systems also how job design has been influenced by engineering and psychology finally look at real world examples from the gm and toyota to compare their respective approaches by the end of this understand how jobs and systems of have evolved to improve employee performance and productivity
+tasks vs jobs how to design jobs drawbacks and rethinking job design engineers and psychologists a battle for designing jobs lessons from the japanese and us auto industries systems of
+
+making good and timely management decisions
+how to make good and timely management decisions through several realworld examples see how leaders create and build a decision making mindset also how leaders can make costly decisions that affect their team or their entire company negatively by the end of this be able to apply key concepts to making good and timely management decisions and build a higher performing team
+good and timely decisions making a good and timely decision us examples fighting a fire after action review and
+
+designing and changing the organizations architecture
+this was created to describe the influence of an organizations architecture on management and its teams performance explore how inequity fosters disparity among employees and can inhibit a companys success also look at two realworld examples of leaders who tackled problems within their organizational structures to effect change by the end of this be able to identify key steps in which you can lead change within your organization
+designing and changing architecture performance pay and promotion organizational design david pottruck and charles schwab example managing people managers template for human and social capital
+</DOC>
+
+<DOC>
+introduction to corporate finance
+this provides a brief introduction to the fundamentals of finance emphasizing their application to a wide variety of realworld situations spanning personal finance corporate decisionmaking and financial intermediation key concepts and applications include time value of money riskreturn tradeoff cost of capital interest rates retirement savings mortgage financing auto leasing capital budgeting asset valuation discounted cash flow dcf analysis net present value internal rate of return hurdle rate payback period
+
+time value of money
+welcome to introduction to corporate finance this first will introduce you to one of the most important foundational concepts in finance the time value of money before diving into the lectures i encourage you to take a look at the brief prereading for the specifically have a look at big picture motivation for additional motivation and context for the time value of money overview for a motivation and context for our first topic and quiz problem answer input this last note is particularly important to avoid confusion with the problem sets then go to the lectures and start finance
+intuition and discounting compounding useful shortcuts taxes
+
+interest rates
+we wrap up the time value of money topic with a discussion of inflation before moving on to our second topic interest rates and introducing our third topic discounted cash flow analysis by the end of this you should feel comfortable with discounting and compounding arbitrary cash flow streams in order to value different claims and make better financial decisions
+inflation apr and ear term structure discounted cash flow decision making
+
+discounted cash flow analysis
+this continues our discussion of discounted cash flow analysis by way of a capital budgeting case you might want to download or view the excel file tablet case spreadsheetxlsx that i use in the lectures but it is not necessary for understanding the material by the end of this you should feel comfortable valuing claims and making financing decisions in which the timing of the cash flows and compounding of interest is arbitrary eg annual semiquarterly monthly etc having worked through the problems you should also be more comfortable with real world financial decision making related to retirement savings home financing and refinancing auto leases and other scenarios
+free cash flow forecast drivers forecasting free cash flow
+
+return on investment
+this closes out our discussion of discounted cash flow analysis and caps off the with a discussion of return on investment by the end of this you should feel comfortable with the notion of free cash flow and the ability to apply a set of forecast drivers to free cash flows into the future these are some of the elements of a basic financial model which we will use to come to a decision about the tablet and to analyze the assumptions behind our valuation
+decision criteria sensitivity analysis return on investment
+</DOC>
+
+<DOC>
+introduction to operations management
+this comprehensive delves into operations management and process improvement principles and techniques providing you with the knowledge and necessary to identify and eliminate inefficiencies in your organization gain a solid foundation in operations management by analyzing key concepts such as costquality tradeoffs the efficiency frontier and system inhibitorsget ready to delve into process analysis where identify and analyze steps in a process implementing changes for enhanced with practical exercises including creating process flow diagrams and capacity calculations strengthen your analytical firsthand the power of optimizing flow within operations as you uncover waste sources and design efficient processes for maximum output reduced costs and heightened customer satisfaction an indepth exploration of littles law will equip you to make informed decisions on capacity planning and process improvements optimizing inventory levels reducing lead times and enhancing supply chain coordination additionally to effectively manage variability laying the groundwork for consistent and exceptional quality standards statistical analysis problemsolving methodologies and realtime information utilization will empower you to tackle issues find root causes and foster continuous improvement throughout the the focus remains on driving improvements and achieving excellence analyze improve and reimagine how gets done armed with the necessary tools and frameworks to enhance processes across diverse industries join this to analyze improve and reimagine how gets done and to acquire the necessary tools and knowledge to make meaningful improvements in your organizations operations
+
+introduction to operations management and process analysis
+at its core operations management is about finding and then reducing inefficiencies we will start by examining key concepts such as costquality tradeoff the efficiency frontier and three system inhibitors we will also explore process analysis enabling you to identify and analyze the steps involved in a process and make changes to improve its by the end of this have to practice these concepts by creating process flow diagrams and calculating the resource with the lowest capacity additionally be able to practice calculating capacity flow rate and utilization be able to transfer these to initiate process analysis within your organization
+introduction to operations making tradeoffs in operations system inhibitors the process analysis framework drawing a process flow diagram thinking about as a process
+
+flow management and lean operations
+in operations management flow focuses on the movement of materials products and information through the various stages of a production or service process lean operations focus on identifying sources of waste both in terms of resources and processes optimizing flow can improve productivity reduce costs and enhance customer satisfaction by to carefully observe how is done we can become better at identifying waste the goal is to create efficient and effective processes that maximize output while minimizing waste
+how people a micro level perspective labor productivity tools to improve processes review and practice problem the dna of waste wasting the time of a resource the seven sources of waste wasting flow time achieving a smooth process flow review and practice problem
+
+littles law
+littles law a foundational concept in operations management helps quantify and evaluate the efficiency and effectiveness of a system by providing key performance indicators by understanding the relationship between inventory arrival rate and cycle time managers can make informed decisions regarding capacity planning littles law also serves as a diagnostic tool for process improvement initiatives and is particularly valuable in supply chain management where it enables companies to optimize inventory levels reduce lead times and enhance coordination among various stages of the supply chain it helps strike a balance between supply and demand improving overall responsiveness and customer service
+littles law using littles law to determine inventory turnover using littles law to determine employee turnover review and practice problem
+
+quality
+variability can introduce defects and hinder the pursuit of excellence by recognizing and managing variability organizations can lay the foundation for consistent and exceptional quality standards this introduces frameworks that provide systematic ways to analyze variability well look at how statistical analysis and problemsolving methodologies can enhance quality well also explore the power of realtime information and how it fosters continuous improvement well examine strategies for finding the root cause of an issue and explore how we might develop targeted solutions as we unravel complex problems
+how variability causes quality problems process capacity and six sigma the power of quick feedback the five why framework finding the root cause of a problem how to define a problem using the whyhow ladder the pdca cycle conclusion
+</DOC>
+

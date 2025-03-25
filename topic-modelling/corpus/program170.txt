@@ -1,0 +1,131 @@
+<DOC>
+genomic data science
+with genomics sparks a revolution in medical discoveries it becomes imperative to be able to better understand the genome and be able to leverage the data and information from genomic datasets genomic data science is the field that applies statistics and data science to the genome this covers the concepts and tools to understand analyze and interpret data from next generation sequencing experiments it teaches the most common tools used in genomic data science including how to use the command line along with a variety of software implementation tools like python r and bioconductor this is designed to serve as both a standalone introduction to genomic data science or as a perfect compliment to a primary degree or postdoc in biology molecular biology or genetics for scientists in these fields seeking to gain familiarity in data science and statistical tools to better interact with the data in their everyday workto audit genomic data science courses for free visit httpswwwcourseraorgjhuopens in a new tab click the click enroll and select audit please note that not receive a of completion if you choose to audit
+</DOC>
+
+<DOC>
+python for genomic data science
+this class provides an introduction to the python programming language and the ipython notebook this is the third in the genomic big data science from johns hopkins university
+
+one
+we will have an overview of python and take the first steps towards programming
+lecture overview of python lecture first steps toward programming part lecture first steps toward programming part lecture first steps toward programming part lecture first steps toward programming part
+
+two
+well be taking a look at data structures and ifs and loops
+lecture data structures part lecture data structures part lecture ifs and loops part lecture ifs and loops part
+
+three
+we have a long threepart lecture on functions as well as a minute look at and packages
+lecture functions part lecture functions part lecture functions part lecture and packages
+
+four
+we have another long threepart lecture this time about communicating with the outside as well as a final lecture about biopython
+lecture communicating with the outside part lecture communicating with the outside part lecture communicating with the outside part lecture biopython
+</DOC>
+
+<DOC>
+algorithms for dna sequencing
+we will computational methods algorithms and data structures for analyzing dna sequencing data we will a little about dna genomics and how dna sequencing is used we will use python to implement key algorithms and data structures and to analyze real genomes and dna sequencing datasets
+
+dna sequencing strings and matching
+this we begin our exploration of algorithms for analyzing dna sequencing data well discuss dna sequencing technology its past and present and how it works
+introduction lecture why study this lecture dna sequencing past and present lecture genomes as strings reads as substrings lecture string definitions and python examples practical string basics practical manipulating dna strings practical downloading and parsing a genome lecture how dna gets copied optional lecture how secondgeneration sequencers optional lecture sequencing errors and base qualities lecture sequencing reads in fastq format practical working with sequencing reads practical analyzing reads by position lecture sequencers give pieces to genomic puzzles lecture read alignment and why its hard lecture naive exact matching practical matching artificial reads practical matching real reads
+
+preprocessing indexing and approximate matching
+we useful and flexible new algorithms for solving the exact and approximate matching problems well start by boyermoore a fast and very widely used algorithm for exact matching
+introduction lecture boyermoore basics lecture boyermoore putting it all together lecture diversion repetitive elements practical implementing boyermoore lecture preprocessing lecture indexing and the kmer index lecture ordered structures for indexing lecture hash tables for indexing practical implementing a kmer index lecture variations on kmer indexes lecture genome indexes used in research lecture approximate matching hamming and edit distance lecture pigeonhole principle practical implementing the pigeonhole principle
+
+edit distance assembly overlaps
+we finish our discussion of read alignment by about algorithms that solve both the edit distance problem and related biosequence analysis problems like global and local alignment
+introduction lecture solving the edit distance problem lecture using dynamic programming for edit distance practical implementing dynamic programming for edit distance lecture a new solution to approximate matching lecture meet the family global and local alignment practical implementing global alignment lecture read alignment in the field lecture assembly working from scratch lecture first and second laws of assembly lecture overlap graphs practical overlaps between pairs of reads practical finding and representing all overlaps
+
+algorithms for assembly
+in the last we began our discussion of the assembly problem and we saw a couple basic principles behind it well a few ways to solve the alignment problem
+introduction lecture the shortest common superstring problem practical implementing shortest common superstring lecture greedy shortest common superstring practical implementing greedy shortest common superstring lecture third law of assembly repeats are bad lecture de bruijn graphs and eulerian walks practical building a de bruijn graph lecture when eulerian walks go wrong lecture assemblers in practice lecture the future is long lecture computer science and life science lecture thank yous
+</DOC>
+
+<DOC>
+introduction to genomic technologies
+this introduces you to the basic biology of modern genomics and the experimental tools that we use to measure it well introduce the central dogma of molecular biology and cover how nextgeneration sequencing can be used to measure dna rna and epigenetic patterns also get an introduction to the key concepts in computing and data science that need to understand how data from nextgeneration sequencing experiments are generated and analyzed this is the first in the genomic data science
+
+overview
+you can expect to study topics of just enough molecular biology the genome writing a dna sequence central dogma transcription translation and dna structure and modifications
+why genomics what is genomics what is genomic data science just enough cell biology important molecules in molecular biology the human genome molecular biology structures from genes to phenotypes
+
+measurement technology
+about polymerase chain reaction next generation sequencing and applications of sequencing
+polymerase chain reaction next generation sequencing applications of sequencing
+
+computing technology
+the lectures for this cover a few basic topics in computing technology well go over the foundations of computer science algorithms memory and data structures efficiency software engineering and computational biology software
+what is computer science algorithms memory and data structures efficiency software engineering what is computational biology software
+
+data science technology
+on data science technology well be covering quite a lot of information about how to handle the data produced during the sequencing process well cover reproducibility analysis statistics question types the central dogma of inference analysis code testing prediction variation experimental design confounding power sample size correlation causation and degrees of freedom
+why care about statistics what went wrong the central dogma of statistics data sharing plans getting help with statistics plotting your data sample size and variability statistical significance multiple testing study design batch effects and confounding
+</DOC>
+
+<DOC>
+statistics for genomic data science
+an introduction to the statistics behind the most popular genomic data science this is the sixth in the genomic big data science from johns hopkins university
+
+
+this is structured to hit the key conceptual ideas of normalization exploratory analysis linear modeling testing and multiple testing that arise over and over in genomic studies
+welcome to statistics for genomic data science what is statistics finding statistics you can trust getting help what is data representing data overview reproducible research achieving reproducible research r markdown the three tables in genomics the three tables in genomics in r experimental design variability replication and power experimental design confounding and randomization exploratory analysis exploratory analysis in r part i exploratory analysis in r part ii exploratory analysis in r part iii data transforms clustering clustering in r
+
+
+we will cover preprocessing linear modeling and batch effects
+overview dimension reduction dimension reduction in r preprocessing and normalization quantile normalization in r the linear model linear models with categorical covariates adjusting for covariates linear regression in r many regressions at once many regressions in r batch effects and confounders batch effects in r part a batch effects in r part b
+
+
+we will cover modeling noncontinuous like binary or count data hypothesis testing and multiple hypothesis testing
+overview logistic regression regression for counts glms in r inference null and alternative hypotheses calculating statistics comparing models calculating statistics in r permutation permutation in r pvalues multiple testing pvalues and multiple testing in r part a pvalues and multiple testing in r part b
+
+
+we will cover a lot of the general pipelines people use to analyze specific data types like rnaseq gwas chipseq and dna methylation studies
+overview gene set enrichment more enrichment gene set analysis in r the process for rnaseq the process for chipseq the process for dna methylation the process for gwaswgs combining data types eqtl eqtl in r researcher degrees of freedom inference vs prediction knowing when to get help statistics for genomic data science wrapup
+</DOC>
+
+<DOC>
+bioconductor for genomic data science
+to use tools from the bioconductor to perform analysis of genomic data this is the fifth in the genomic big data from johns hopkins university
+
+one
+the class will cover how to install and use bioconductor software we will discuss common data structures including expressionsets summarizedexperiment and granges used across several types of analyses
+installing r on windows installing r on a mac installing r studio on a mac what is bioconductor installing bioconductor the bioconductor website useful online resources r base types granges overview iranges basic usage genomicranges granges genomicranges basic granges usage genomicranges seqinfo annotationhub usecase annotationhub and granges part usecase annotationhub and granges part
+
+two
+we will how to represent and compute on biological sequences both at the wholegenome level and at the level of millions of short reads
+biostrings bsgenome biostrings matching bsgenome views genomicranges rle genomicranges lists genomicfeatures rtracklayer data import
+
+three
+we will cover basic data types expressionset biomart and r s
+basic data types annotation overview expressionset overview expressionset summarizedexperiment geoquery biomart r s classes r s methods
+
+four
+we will cover getting data in bioconductor rsamtools oligo limma and minfi
+getting data into bioconductor short read rsamtools oligo limma minfi countbased rnaseq analysis
+</DOC>
+
+<DOC>
+command line tools for genomic data science
+introduces to the commands that you need to manage and analyze directories files and large sets of genomic data this is the fourth in the genomic big data science from johns hopkins university
+
+basic unix commands
+be introduced to command line tools for genomic data science
+basic unix commands content representation basic unix commands files directories paths basic unix commands file naming basic unix commands content creation basic unix commands accessing content i basic unix commands accessing content ii basic unix commands redirecting content basic unix commands querying content basic unix commands comparing content basic unix commands archiving content basic unix commands practical exercises i basic unix commands practical exercises ii
+
+two
+well be taking a look at sequences and genomic features in a sequence of presentations
+sequences and genomic features molecular bio primer sequences and genomic features sequence representation and generation sequences and genomic features annotation sequences and genomic features alignment i sequences and genomic features alignment ii sequences and genomic features recreating sequences features sequences and genomic features genomic feature retrieval sequences and genomic features samtools i sequences and genomic features samtools ii sequences and genomic features bedtools i sequences and genomic features bedtools ii
+
+three
+well be going over alignment and sequence variation in another sequence of presentations
+alignment sequence variation overview alignment sequence variation alignment variant detection tools alignment sequence variation vcf alignment sequence variation bowtie alignment sequence variation bwa alignment sequence variation samtools mpileup alignment sequence variation bcftools alignment sequence variation variant calling
+
+four
+well be going over tools for transcriptomics in a sequence of presentations
+tools for transcriptomics overview tools for transcriptomics rnaseq tools for transcriptomics tophat i tools for transcriptomics tophat ii tools for transcriptomics cufflinks tools for transcriptomics cuffdiff tools for transcriptomics integrated genomics viewer i tools for transcriptomics integrated genomics viewer ii
+</DOC>
+

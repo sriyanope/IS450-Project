@@ -1,0 +1,89 @@
+<DOC>
+c programming for unreal game development
+this is intended for intermediate programmers who want to how to unreal engine games using c learners should complete at least one other programming on coursera see httpswwwcourseraorgspecializationsprogrammingunitygamedevelopmentopens in a new tab or one programming in high school or college before starting this the first assumes that level of programming and throughout the courses in the how to in c and how to use that c knowledge to unreal engine games the c and unreal material in the courses in the is slightly less comprehensive than the content in the first two game programming courses at uccsapplied projecteach of the courses includes exercises designed to teach you small concepts in c and unreal also develop several larger c console applications all of them designed to teach you important c and unreal engine concepts completing the exercises and the programming will let you apply your c programming to both c console apps and to unreal games
+</DOC>
+
+<DOC>
+intermediate objectoriented programming for unreal games
+this is the fourth and final in the about how to develop games using the c programming language and the unreal game engine on windows or mac this assumes you have the prerequisite knowledge from the previous three courses in the you should make sure you have that knowledge either by taking those previous courses or from personal before tackling this throughout this build on your foundational c and unity knowledge by developing more robust games with better objectoriented designs using file input and output inheritance and polymorphism and event handling this gives you even more tools to help you build great games with c and unreal start using files to implement your unreal games how inheritance and polymorphism help us write less code for our games implement event handling to make better objectoriented designs and add menus to your unreal games explore the complete implementation of a small unreal game
+
+exceptions and file io
+how exceptions are thrown when something bad happens as our executes and how to handle those exceptions also about file io which is incredibly useful both in console apps and in unreal games
+introduction navigating a coursera meet the instructor optional lesson introduction what are exceptions exception handlers lesson introduction why files reading from a file writing to a file appending to a file game configuration data files using game configuration data part using game configuration data part savegame
+
+inheritance and polymorphism
+about inheritance and polymorphism two of the most powerful features in objectoriented programming languages including c also see inheritance in action in a small unreal game
+lesson introduction what is inheritance family and inheritance money and inheritance actors and pawns abstract classes lesson introduction what is polymorphism family and polymorphism money and polymorphism lesson introduction loot no loot teddy bears loot teddy bears
+
+event handling and menus
+how to use events and event handling in your game developing our games this way leads to much better objectoriented designs where objects dont have to know about lots of other objects in the game also how to use unreal motion graphics umg and slate widgets to implement menus in your games
+lesson introduction pointers to functions callback functions single delegates in unreal multicast delegates and events in unreal maps adding an event manager refactoring teddy bear destruction lesson introduction menu buttons adding a simple menu system adding a pause menu
+
+feed the teddies
+well go through the implementation details of a complete small game see many of the concepts we covered and previous courses in the as well in action and see a few new things as well
+lesson introduction the event manager menus basic gameplay full gameplay sound configuration data finishing up
+</DOC>
+
+<DOC>
+more c programming and unreal
+this is the second in the about how to develop games using the c programming language and the unreal game engine on windows or mac this assumes you have the prerequisite knowledge from the previous in the you should make sure you have that knowledge either by taking that previous or from personal before tackling this throughout this continue building your foundational c and unreal knowledge by exploring more c and unreal topics discover how we make decisions in our code get and use player input in your unreal games how to use iteration looping to repeat actions in your code explore storing lots of data in arrays c containers and the unreal tarray container
+
+selection
+about the selection control structure selection is really useful because it lets us decide which code we want to execute based on some condition
+introduction navigating a coursera meet the instructor optional lesson introduction booleans if statements switch statements implementing a manual timer testing a manual timer spawning teddies actor and uproperty spawning teddies finishing up tagged destruction
+
+unreal input
+how to process mouse keyboard and gamepad input in unreal this is hugely important because doing this lets the player actually interact with the game
+lesson introduction mouse location processing working for the clampdown mouse button processing keyboard processing gamepad processing
+
+iteration
+about the iteration control structure the iteration control structure which some people call looping lets us repeatedly execute code a certain number of times or until some condition is false see why this is really useful as you your way through the materials
+lesson introduction for loops nested for loops while loops dowhile loops nesting and boxes multiple spawns
+
+arrays and containers
+about c arrays and containers and the unreal container well regularly use in our unreal games arrays and containers let us store multiple values in a single variable which is very helpful in our games
+lesson introduction intro to arrays initializing an array why we start at zero how big is an array processing an array the array container the vector container the unreal tarray container ted the collector finishing up
+</DOC>
+
+<DOC>
+c class development
+this is the third in the about how to develop games using the c programming language and the unreal game engine on windows or mac this assumes you have the prerequisite knowledge from the previous two courses in the you should make sure you have that knowledge either by taking those previous courses or from personal before tackling this throughout this continue building your foundational c and unreal knowledge by exploring more c and unreal topics how abstraction helps us develop good software and design and implement console app classes explore how functions really under the covers design and implement unreal classes and include them in a game discover how strings in both c and in an unreal hud expand your understanding of pointers and add sound effects to an unreal game
+
+abstraction and console app classes
+about abstraction which is all about deciding what details matter and what details dont as we develop a solution to a particular problem also how to design and implement a console app class
+introduction navigating a coursera meet the instructor optional lesson introduction rock and roll what is a chair network layers abstraction in code lesson introduction designing the class fields and getters one constructor another constructor function what about destructors
+
+a closer look at functions
+well look more closely at how functions including how parameters and how we return a value from a function
+lesson introduction function headers function bodies passbyvalue getting valid user input passbyreference passing containers to functions passing objects to functions nesting and boxes revisited
+
+unreal engine classes and strings
+how to design and implement a class for use in an unreal game also about strings and how we can use them in both console apps and unreal games
+lesson introduction designing the class fields getter and setter functions using in a game lesson introduction the char data type string basics searching a string converting strings to numbers csv string processing unreal text output
+
+pointers and unreal engine audio
+finally take a closer look at how pointers in both c and unreal also how to add sound effects to your unreal games
+lesson introduction c raw pointers c smart pointers unreal smart pointers lesson introduction playing sound effects finishing up
+</DOC>
+
+<DOC>
+introduction to c programming and unreal
+this is all about starting to how to develop games using the c programming language and the unreal engine on windows or mac this assumes you have previous programming in some other language although well start at the very beginning for c hardly anybody learns or teaches c as a first language similarly unreal engine is a commercial industrial strength game engine with great power comes great complexity so its important that you have the will to hard to how to use c in unreal engine computer programming is really fun in general and programming games is even better caution introduction starting to c and unreal engine is not the same as easy not hard to do to using c in unreal engine is hard to do especially since this is essentially the first half of a freshmanlevel college meeting the challenges while you master the material will be rewarding to you but doing that will require hard and maybe even a few expletives along the way write your first c console application and unreal script how we store and use data in our programs how we use classes and objects to implement our code the basics of unreal engine
+
+starting to
+about the and get unreal installed and configured write your first c console application and your first c script in unreal
+introduction navigating a coursera meet the instructor optional lesson introduction installing visual studio on windows installing xcode on a mac your first console app in visual studio your first console app in xcode installing unreal engine your first unreal script your first unreal script in xcode
+
+data types variables and constants
+how information is stored in the computer using binary and how data types tell us how to interpret the bits and memory and what operations we can perform on those bits also about the most commonlyused numeric types in c get some practice reading documentation which programmers do all the time and how to use the debugger to find and fix bugs in your code
+lesson introduction bits and bytes data types variables and constants integer data types floatingpoint data types reading documentation debugging in visual studio debugging in xcode
+
+classes and objects
+the foundational concepts in the objectoriented oo paradigm this paradigm is incredibly useful in game development because it models our software system as a set of software objects that interact with each other those concepts map nicely to games which typically include lots of game entities that interact with each other how to actually use classes and objects in your code as well
+lesson introduction introduction to classes and objects using a class constructor using a class getter using a class functions classes and objects in unreal engine
+
+unreal engine basics
+start how to use unreal engine well explore how to import models into our games how to set up the orthographic camera and light source for a d game how to create reusable assets blueprints you can add to the game either in the editor or from scripts and how to use the physics system finally do more in unreal than just write scripts
+lesson introduction the unreal editor meshes and actors lights camera scripts as actors debugging a script blueprints basic physics collisions finishing up
+</DOC>
+

@@ -1,0 +1,89 @@
+<DOC>
+healthcare law
+this is designed to help you navigate the complex legal framework that governs modern health systems the fundamentals of american health law then explore how privacy law shapes the relationship between healthcare providers and their patients also how intellectual property law influences everything from the pharmaceutical industry to medical research to cuttingedge ethical issues involved in emerging technologies such as dnatesting finally the will conclude with a study of how other countries vary in their approaches to solving the common problems that face all health systemsapplied projectthis is designed to help you navigate the complex legal framework that governs modern health systems the fundamentals of american health law then explore how privacy law shapes the relationship between healthcare providers and their patients also how intellectual property law influences everything from the pharmaceutical industry to medical research to cuttingedge ethical issues involved in emerging technologies such as dnatesting finally the will conclude with a study of how other countries vary in their approaches to solving the common problems that face all health systems
+</DOC>
+
+<DOC>
+intellectual property in the healthcare industry
+this begins with an overview of general intellectual property law in the united states then examines how the policy choices behind those laws shapes the behavior of major players in the healthcare industry we will examine how patents and trademarks shape the behavior of pharmaceutical companies and how complex issues involving medical research in university settings and ownership of genetic information and material are resolved by intellectual property laws the concludes with indepth case studies of an international pharmaceutical company a major medical device company and a startup in the emerging dnatesting industry
+
+existing intellectual property protection in the us
+this will introduce the concept of intellectual property and explain how it creates value about the major forms of intellectual property protection in the united states copyright trademarks and patents as well as alternative forms of intellectual property protection
+introduction to intellectual property why about intellectual property law expansion of intellectual property patents trademarks copyright other regimes takeaway points
+
+philosophical and economic justifications of ip rights
+why have intellectual property protection at all this examines the effect of intellectual property law on the modern economy and the policy reasons behind providing intellectual property protection
+why have ip rights basic intellectual property economics the mechanisms of intellectual property rights the costs of intellectual property mechanism of ip rights as property balance of intellectual property rights takeaway points
+
+special intellectual property rules for healthcare
+this will explore the innovative ways in which intellectual property law has responded to the unique demands and features of the modern healthcare industry
+introduction special ip rules for healthcare unique role of patents in pharmaceutical drugs consequences of hatchwaxman act biologics price competition and innovation act special applications of ip in healthcare ownership of research in healthcare who owns your body experimentation in patent law takeaway points
+
+case studies in intellectual property
+this takes an indepth look at the intellectual property strategies of three major healthcare companies and me novartis and medtronic
+introduction and ip review case study and me case study novartis case study novartis part case study medtronic
+</DOC>
+
+<DOC>
+comparative health systems
+this uses comparative analysis of health care systems to gain a better understanding of health care systems in several highincome middleincome and lowincome countries one focus of analysis will therefore be to develop a better knowledge of these health care systems a second focus will be to use to this analysis to gain a better understanding of the health care system in the united states this analysis is relevant for those who are directly interested in the united states but it is also relevant for those students who are seeking to enhance knowledge of the health care systems in their home countries by gaining a better understanding of the united states health care system a comparative analysis of health systems will help managers and health care professionals who are responsible for optimizing organizational by improving the quality of health care and simultaneously reducing the costs of health care the will use of a combination of the world health organization building blocks framework along with theories of complex systems to establish a framework to compare health systems in a number of highincome middleincome and lowincome countries this analysis will develop the capacity of managers to critically evaluate relationships between their organizations and the broader set of interactions between the building blocks that make up particular health care systems
+
+foundations of comparative health systems
+this will define the goals of comparative analysis of health systems define the concept of universal health coverage and introduce the world health organization building blocks framework as the methodology for that analysis
+welcome to the selfassessment comparing health systems part comparing health systems part populations have histories measuring population health part measuring population health part comparative methodology who building blocks framework comparative methodology systems thinking
+
+the united states a highincome country without universal healthcare
+this explores the peculiarities of the us healthcare system by examining the system through the lens of the who building blocks framework
+the american health care paradox discussion with professor corbett health spending vs social spending united states governance and leadership united states finance discussion with professor corbett funding longterm care in the us united states service delivery united states pharmaceuticals workforce and information discussion with professor corbett pharmaceutical spending in the us united states health care system review
+
+germany and england selfgoverning systems of healthcare
+this examines the health systems of germany and england two highincome countries that have committed to systems of universal health coverage but in different ways
+introduction to germany and the united kingdom germany leadership and governance germany finance and information germany workforce service delivery and pharmaceuticals discussion with professor corbett germany and preventative care german health system england leadership and governance england finance and information england workforce england service delivery and pharmaceuticals england health system discussion with professor corbett national health service
+
+brazil and china middleincome countries moving towards universal health coverage
+in the final of the we examine two large middleincome countries and the challenges they face while moving towards systems of universal health coverage
+brazil and china two large middleincome countries brazil governance and leadership and information brazil finance brazil workforce service delivery and pharmaceuticals health system china government and leadership china finance information china service delivery and pharmaceuticals china workforce discussion with professor corbett hospital funding in china discussion with professor corbett primary care as first point of contact health system conclusion
+</DOC>
+
+<DOC>
+privacy law and hipaa
+what does it take to comply with privacy laws well look at the practical aspects of navigating the complex landscape of privacy requirements better understanding privacy laws and data protection will enable you to protect your organization and the constituents that depend on your organization to safeguard their personal information first we will examine the historical context that drove the creation of laws best practices and other standards for protecting personal information we will also consider where in the us privacy laws exist and which sectors remain unregulated next we will focus on the federal health privacy law the health insurance portability and accountability act of hipaa and what it takes to comply with it how do you know the scope of the requirements and once you know hipaa applies how do you actually put measures in place to ensure compliance well explore the notion that one cannot have privacy without strong security and examine various models that promote the security of personal information well look closely at breach notification laws one of the most significant drivers of change in organizations and discuss strategies for the improvement of data protection overall lastly we will look at international law state law the unique and important role of the federal trade commission in protecting privacy most importantly we get practical we will discuss realworld practical approaches to how compliance professionals can navigate the complex landscape of privacy requirements to best protect their organizations
+
+privacy legal issues landscape chronology
+we begin our study of privacy and data protection with a brief look at the development of privacy law in the us then we examine the fair information principles that provide the foundation of modern privacy and data protection programs
+welcome to the legal and issues landscape and chronology historical legal context fair information principles the statutory landscape in the us
+
+hipaa
+how does a privacy law actually operate this looks at privacy and data protection in action specifically using hipaa as the framework
+scope of laws as an important compliance concept it applies now what implementing hipaa the notice requirement implementing hipaa access to records implementing hipaa uses disclosures and national priorities implementing hipaa minimum necessary
+
+security breach notification
+what is data protection actually protecting us from this looks at the threats to data security and the processes that exist for dealing with a data breach
+introduction to security establishing requirements in a rapidly changing environment forcing a process rather than an breach notification regulating by consequence compliance observations in information security
+
+other ways that privacy is regulated
+as massive privacy breaches continue to happen more regulatory bodies are taking on privacy concerns this examines the important role of the federal trade commission and concludes with a close look at the general data protection regulation recently passed by the european union
+other privacy laws abound ftc regulation the ftc privacy and compliance international law focus on the gdpr the gdpr privacy laws fleshing out the risk assessment
+</DOC>
+
+<DOC>
+us health law fundamentals
+this explores how statutes regulations common law and market forces help or hinder three major goals of policy makers increasing access reducing cost and improving quality we will examine the supreme courts rulings on the aca and other legal aspects of modern health care reform learners who successfully complete this will be able to describe the laws regulations common law and market forces that shape our health care system and identify areas where ideas and innovation are needed explain the malpractice system and how it influences medical practice and analyze legal aspects of the aca
+
+introduction to the us legal system emtala
+this introductory begins with an overview of the us legal system as context for the complex patchwork that is us health law we then look in detail at how administrative law functions to regulate modern medical care then we take a close look at our first specific law emtala which guarantees screening and stabilization in emergency situations
+introduction overview and distinctive features of us law the administrative state and modern medical care the basic duty to provide care emtalas statutory response institutional and individual obligations in the emergency context
+
+formation and termination privacy and confidentiality
+the second closely examines the doctorpatient relationship how it is formed terminated and in some cases abandoned we then examine the rise of conscientious objection as a right of medical providers
+formation of the treatment relationship the law of termination and abandonment the rise of conscientious objection informed consent the basic materiality standard
+
+quality control
+this explores the various mechanisms in place to ensure quality control in the us healthcare system including licensure and accreditation as a preventative measure and tort law and liability as a remedial measure
+quality control through gatekeeping licensure and accreditation health care quality and the basic medical malpractice standard medical malpractice reforms and variations hospital liability insurance company liability for the provision of substandard care
+
+medicare medicaid and the patient protection and affordable care act
+this final focuses on the role of the federal government in administering medicare and medicaid as well as the effects of the recently passed affordable care act
+introduction to medicare and medicaid medicaid constitutional structure and the federal role in us health law affordable care act initial litigation and ongoing legal controversy conclusion and review
+</DOC>
+

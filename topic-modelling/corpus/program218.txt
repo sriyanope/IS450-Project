@@ -1,0 +1,68 @@
+<DOC>
+introduction to financial accounting the accounting cycle
+handson practice completing each step of the accounting cycle within microsoft excel from analyzing and recording the first financial transactions of the year all the way through starting the new fiscal year the covered include recording in the journal posting in the ledgers preparing financial statements recording and posting closing entries as well as preparing trial balancesapplied projectthis includes three interconnected courses which collectively cover each step of the accounting cycle at the end of each have the to practice the you have learned in the walkthroughs by completing a graded activity such as posting into the accounts in the ledger or preparing your own financial statements in microsoft excel
+</DOC>
+
+<DOC>
+recording in journals posting in ledgers
+this covers the basic procedures involved in recording financial entries in journals and ledgers upon completing this be able to analyze and record various business transactions also about the accounting cycle posting transactions accrual accounting and cash accounting also have the to practice these through a series of activities that provide real world
+
+recording transactions in the general journal
+we will review the process of recording proper entries into the general journal we will start by walking through the stepbystep process of analyzing and recording service business transactions that follow the debit and credit rules then have the to record transactions in the general journal on your own graded activity
+recording transactions in the general journal recording transactions in the general journal walkthrough activity walkthrough
+
+posting transactions for the general journal to the ledger
+we will review the process of posting transactions from the general journal to the ledger we will start by introducing ledger forms and taccounts then we will proceed to a walkthrough of the proper steps of posting transactions then have the to post transactions from the general journal to the ledger on your own graded activity
+posting transactions from the general journal to the ledger posting transactions walkthrough activity walkthrough
+
+the trial balance correcting entries
+we will introduce the trial balance and the process of correcting entries we will begin with an overview of how to transfer data from the ledgers to the trial balance and continue with a stepbystep walkthrough of correcting entries then have the to prepare your own trial balance graded activity
+the trial balance correcting entries creating a trial balance activity walkthrough
+
+accrual accounting vs cash accounting
+we will introduce and to differentiate between cash accounting and accrual accounting we will begin by reviewing key concepts related to accrual accounting including the periodicity assumption the expense recognition principle the revenue recognition principle and the matching principle then have the to through example problems on your own activity
+accrual accounting vs cash accounting accrual vs cash accounting examples activity walkthrough
+</DOC>
+
+<DOC>
+what is financial accounting
+students are introduced to the field of financial accounting through defining the foundational activities tools and users of financial accounting students to use the accounting equation and are introduced to the four major financial statements additional topics include ethical considerations recording business transactions and the application of creditdebit rules
+
+introduction to financial accounting
+welcome to the first of the we will start our introduction to the field of financial accounting by discussing practical applications of accounting information additionally we will identify who uses accounting information address ethical considerations relevant to accounting and define the three main forms of business ownership
+introduction to financial accounting introduction to financial accounting continued
+
+the accounting equation financial statements
+we are introduced to the accounting equation and the four basic financial statements we will start by breaking down the components of the accounting equation assets liabilities and equity we will then take a look at three out of the four basic financial statements the income statement the retained earnings statement and the balance sheet activity we will introduce you to the sum function in excel which will be used in the remaining activities for this
+the accounting equation financial statements excel sum function walkthrough
+
+the accounting cycle analyzing transactions
+we introduce the first step in the accounting cycle analyze transactions by the end of this be able to analyze and record service business transactions within the fundamental accounting equation first we will walk through examples of recording business transitions in the lesson then complete an activity to practice recording transactions on your own
+introduction to the accounting cycle analyzing transactions analyzing transactions walkthrough recording transactions walkthrough
+
+analyzing transactions using the debit credit rules
+we will analyze and record service business transactions using the debit and credit rules we will also cover the function of t accounts within the accounting cycle and how to calculate the balances of each account at the end of an accounting period activity have the to practice recording transactions in t accounts on your own in excel
+analyzing transactions using the debit credit rules debit credit rules walkthrough calculating ending balances walkthrough
+</DOC>
+
+<DOC>
+completing the accounting cycle
+students prepare statements relevant to year end accounting processes synthesizing what they have learned in the previous two courses specific topics include adjusting entries closing entries with a focus on the adjustment to retained earnings the preparation of an income statement retained earnings statement and a balance sheet and the procedure for recording the four closing entries students will also how to prepare the postclosing trial balance
+
+adjusting entries adjusted trial balance
+welcome to the first of the we begin this at the fifth step of the accounting cycle record and post adjusting entries we will begin by discussing when adjusting entries are required including a review of the four major categories of adjusting entries in the activity have the to record your own adjusting journal entries and prepare an adjusted trial balance
+adjusting entries adjusted trial balance part i adjusting entries adjusted trial balance part ii adjusting entries adjusted trial balance part iii adjusting entries adjusted trial balance walkthrough
+
+the worksheet
+welcome to the second of the we take a quick break from the steps of the accounting cycle to introduce a new tool called the worksheet by the end of this be able to create a column worksheet on your own while applying your knowledge of adjusting entries from
+the worksheet part i the worksheet part ii
+
+creating analyzing financial statements
+welcome to we return to the accounting cycle with a singular focus on step prepare financial statements by the end of this be able to prepare an income statement a retained earnings statement and a balance sheet
+creating analyzing financial statements i creating analyzing financial statements ii creating analyzing financial statements walkthrough
+
+closing entries the postclosing trial balance
+welcome to the fourth and final of the we complete the final three steps in the accounting cycle we will start by reviewing the procedure for recording the four closing entries then we will walkthrough the steps of preparing the postclosing trial balance this brings us to the final step of the accounting cycle starting the new fiscal year
+temporary and permanent accounts closing entries the postclosing trial balance closing entries the postclosing trial balance walkthrough
+</DOC>
+

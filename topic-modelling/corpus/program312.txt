@@ -1,0 +1,89 @@
+<DOC>
+python bash and sql essentials for data engineering
+if you are interested in developing the needed to be a data engineer the python bash and sql essentials for data engineering is a great place to start we live in a world that is driven by big data from what we search online to the route we take to our favorite restaurant and everything in between businesses and organizations use this data to make decisions that impact the ways in which we navigate our lives how do engineers collect this data how can this data be organized so that it can be appropriately analyzed a data engineer is specialized initial step of accessing cleaning and managing big datadata engineers today need a solid foundation in a few essential areas python bash and sql in python bash and sql essentials for data engineering we provide a nuts and bolts overview of these fundamental needed for entering the world of data engineering led by three data engineers this will provide quick and accessible ways to data engineering strategies give you a chance to practice what youve learned in integrated lab exercises and then immediately apply these techniques in your or academic lifeapplied projecteach includes integrated lab exercises using visual studio code or jupyter notebooks that give you an to practice the python bash and sql with realworld applications covered in each for each data engineering solution that you explore you are also encouraged to create a demo and github repository of code that can be showcased in your digital portfolio for employers by the end of this have the foundational necessary to begin tackling more complex data engineering solutions
+</DOC>
+
+<DOC>
+scripting with python and sql for data engineering
+third of the python bash and sql essentials for data engineering explore techniques to effectively with python and sql we will go through useful data structures in python scripting and connect to databases like mysql additionally how to use a modern text editor to connect and run sql queries against a real database performing operations to load and extract data finally use extracted data from websites using scraping techniques these will allow you to effectively when data is not readily available or when spatial queries are required to extract useful information from databases
+
+working with data in python
+how to effectively use pythons data structures to load persist and iterate over data apply these data structures to solve different problems when working with popular data formats like json
+welcome to scripting with python and sql for data engineering meet your instructor alfredo deza overview of key concepts introduction to working with data in python introduction to python data structures using lists to save and retrieve data in python using dictionaries to save and retrieve data in python overview of less common data structures in python recap of data structures in python introduction to choosing data structures in python iterating over lists and dictionaries in python iterating over other data structures in python storing data between data structures in python recap of mapping data structures in python introduction to data sources and formats in python loading data from files and file paths in python working with json in python saving data from python to disk recap of persisting and loading data in python
+
+python scripting and sql
+how to use python scripting techniques to with sql create a database store data and query that data with sql from python
+introduction to python scripting and sql introduction to scripting in python creating a script as a in python traversing the file system with a script in python recap of python scripting basics introduction to embedded databases what is sqlite creating and connecting to a sqlite database in python saving and querying from a sqlite database in python recap of sqlite and python introduction to querying with sql in python basic sql commands in python extracting distinct data using sql in python searching with sql in python recap of querying with sql in python
+
+web scraping using python
+how to efficiently extract data from the web how to use a scraping library to read data from websites and identify and extract specific values from it
+introduction to web scraping using python introduction to extracting data from unstructured html challenges with web data parsing html with htmlparser in python recap of web scraping techniques in python introduction to scrapy and xpath in python creating a web scraping with scrapy in python parsing data with xpath and scrapy shell using scrapy spider for web scraping recap of scrapy and xpath in python overview of challenges with web scraping scraping locally persisting data in csv and json formats persisting data to a sqlite database recap of persistence and efficacy with web scraping
+
+working with mysql
+how to use a modern development environment and editor to connect to a mysql database server execute queries and perform database operations
+introduction to working with mysql introduction to vscode with mysql connecting to a mysql server recap of vscode with mysql challenges of running mysql queries using vscode to execute mysql queries recap of running mysql queries challenges with importing to databases importing csv data into mysql exporting data from mysql recap of importing and exporting data in mysql mysql hacking overview mysql from terminal archive and drop database import external database sakila modify database sakila bash pipelines with mysql mysql to python standard library web server
+</DOC>
+
+<DOC>
+web applications and commandline tools for data engineering
+fourth of the python bash and sql essentials for data engineering build upon the data engineering concepts introduced in the first three courses to apply python bash and sql techniques in tackling realworld problems first we will dive deeper into leveraging jupyter notebooks to create and deploy models for machine tasks then we will explore how to use python microservices to break up your data warehouse into small portable solutions that can scale finally build a powerful commandline tool to automate testing and quality control for publishing and sharing your tool with a data registry
+
+jupyter notebooks
+how to install and run jupyter on your local machine additionally explore strategies to use code and text cells in a jupyter notebook
+introduction to web applications and commandline tools for data engineering overview of key concepts introduction to jupyter notebooks getting started with jupyter code cells in jupyter text cells in jupyter magics in jupyter overview of jupyter lab
+
+cloudhosted notebooks
+how to create and use a cloudbased notebook in google colab and aws sagemaker
+introduction to colab tour of colab features data and documents in colab introduction to sagemaker tour of sagemaker studio overview of sagemaker pipelines
+
+python microservices
+how to build a python microservice with fastapi and deploy a containerized machine microservice for data engineering
+introduction to building python microservices what are the benefits of microservices setting up python structure for continuous integration building a random fruit web app with python introduction to python microservices with fastapi building fastapi microservices for machine predictions deploying a python lambda microservice introduction to building containerized microservices why use containers for microservices deploying a containerized net api deploying a containerized machine microservice
+
+python packaging and rust command line tools
+how to organize a python so you can build a powerful commandline tool use click a useful commandline tool framework to enhance your tool finally automate testing and quality control for publishing and sharing your tool with a registry
+introduction to python packaging and commandline tools introduction to building commandline tools getting started with python overview of commandline tool frameworks using click to build a commandline tool exploring advanced commandline tool features recap of building commandline tools introduction to packaging and distributing your python introduction to python packaging working with python setup tools uploading to a python registry recap of packaging and distributing your python introduction to continuous integration for commandline tools introduction to linting automating testing with github actions automating publishing of your python recap of continuous integration for commandline tools introduction setting up your development environment for commandline development your first commandline tool in rust working with user input arguments and options expanding your tools functionality with and libraries managing output logging errors and panics optimizing your commandline tools performance and best practices big o notationfinal challenge walkthrough
+</DOC>
+
+<DOC>
+linux and bash for data engineering
+second of the python bash and sql essentials for data engineering the fundamentals of linux necessary to perform data engineering tasks additionally explore how to use both bash and zsh configurations and develop the syntax needed to interact and control linux these will allow you to manage and manipulate databases in a bash environment
+
+using linux
+to use linux to solve technical problems common in software engineering data engineering and machine explore the key parts of the linux shell and how to implement your knowledge in common scenarios
+welcome to linux and bash for data engineering meet your instructor noah gift overview of key concepts introduction to working with linux introduction to the linux shell installing and accessing linux getting started with github codespaces comparing linux shell environments writing hello world bash script popular terminal commands in linux introduction to shell piping what is shell piping walkthrough of shell pipeline examples introduction to ssh what is ssh creating ssh keys and using with github using ssh to connect to remote server in aws cloud walkthrough of ssh tunneling example
+
+using bash
+to configure bash scripts to enhance and control your linux development environment and production systems also about shell variables and how to effectively use standard in and standard out
+introduction to working with bash introduction to configuring your bash shell environment what are shell configuration files configuring bashrc configuring zshrc and thirdparty tool ohmyzsh introduction to working with shell variables what are shell variables exporting shell variables in an interactive prompt using shell variables in a bash script introduction to standard streams what are standard streams using standard out using standard in using standard error
+
+building bash scripts
+to build bash scripts to solve common problems in data engineering also about shell logic dealing with data in the shell and how to build commandline tools in bash then apply this knowledge to create commandline tools in bash
+introduction to building bash scripts introduction to shell logic and control flow what is shell control flow using shell control flow to solve problems in bash using shell loops in bash evaluating conditions in bash introduction to manipulating data in the bash shell shell techniques for data in the bash shell truncating data in bash filtering data in bash searching data in bash introduction to writing scripts and commandline tools in bash what are scripts and commandline tools building a bash script building a bash function building a bash commandline tool bashadjacent tools makefiles and dockerfiles data structures in bash
+
+composing file and data solutions
+to use linux to compose file and data management solutions also to search the filesystem modify files directories and control permissions then process text in bash and apply this knowledge to create a search solution in bash
+introduction to composing file and data management solutions in linux introduction to searching a filesystem in linux methods for searching a filesystem in linux using the locate command to find files in linux using the find command to find files in linux using xargs to extend search capabilities in linux using mdfind on os x introduction to modifying files directories permissions and archiving in linux overview of modifying the filesystem in linux moving files and directories in linux setting permissions on files and directories in linux archiving data in linux introduction to processing text in linux benefits of processing text in linux using grep cut sort and unique in linux editing with truncation awk and sed in linux using regular expressions regex in linux
+</DOC>
+
+<DOC>
+python and pandas for data engineering
+first of the python bash and sql essentials for data engineering how to set up a versioncontrolled python working environment which can utilize third party libraries to use python and the powerful pandas library for data analysis and manipulation additionally also be introduced to vim and visual studio code two popular tools for writing software this is valuable for beginning and intermediate students in order to begin transforming and manipulating data as a data engineer
+
+getting started with python
+how to set up an isolated python environment with third party libraries and apply it by setting up a virtual environment including pandas and jupyter
+overview of python bash and sql essentials for data engineering meet your instructor kennedy behrman overview of key concepts introduction to setting up your python environment installing packages with pip in python saving requirements file in python creating and using a python virtual environment expression statements in python statements in python import statements in python other simple statements in python compound statements in python if statements in python while loops in python functions in python
+
+essential python
+how to create and use python sequences dictionaries sets list comprehensions and generators additionally how to apply these by manipulating client data in a jupyter notebook
+introduction to python essentials sequences in python lists and tuples in python strings in python creating range objects in python creating dictionaries in python accessing dictionary data in python dictionary views in python sets and set operations in python list comprehensions in python generator expressions in python generator functions in python
+
+data in python pandas and alternatives
+how to load data into a pandas dataframe and write statements to select columns and rows from a dataframe additionally apply comparison and boolean operators as a method of selecting data
+introduction to data in python pandas and alternatives creating pandas dataframes in python investigating data in a pandas dataframe selecting data in a pandas dataframe manipulating pandas dataframes updating pandas dataframe data applying functions in a pandas dataframe creating numpy arrays in python spark and pyspark dataframes in python creating dask dataframes in python
+
+python development environments
+the basics of some popular development environments and apply it by writing code in vim and visual studio code additionally how to check your code into a git repository
+introduction to python development environments introduction to vim normal mode switching from normal to insert and visual modes in vim working with the vim command line vim configuration introduction to visual studio code setting up visual studio code debugging visual studio code what is version control introduction to git and git concepts version control with github of python and pandas for data engineering
+</DOC>
+

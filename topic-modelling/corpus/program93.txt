@@ -1,0 +1,93 @@
+<DOC>
+data science foundations statistical inference
+this is designed to provide the learner with a solid foundation in probability theory to prepare for the broader study of statistics it will also introduce the learner to the fundamentals of statistics and statistical theory and will equip the learner with the required to perform fundamental statistical analysis of a data set in the r programming language this can be taken for academic credit as part of cu boulders master of science in data science msds degree offered on the coursera platform the msds is an interdisciplinary degree that brings together faculty from cu boulders departments of applied mathematics computer science information science and others with performancebased admissions and no application process the msds is ideal for individuals with a broad range of undergraduate education andor in computer science information science mathematics and statistics more about the msds at httpswwwcourseraorgdegreesmasterofsciencedatascienceboulderopens in a new tablogo adapted from photo by christopher burnsopens in a new tab on unsplashopens in a new tabapplied projectlearners will practice new probability including fundamental statistical analysis of data sets by completing exercises in jupyter notebooks in addition learners will test their knowledge by completing benchmark quizzes throughout the courses
+</DOC>
+
+<DOC>
+statistical inference and hypothesis testing in data science applications
+this will focus on theory and implementation of hypothesis testing especially as it relates to applications in data science students will to use hypothesis tests to make informed decisions from data special attention will be given to the general logic of hypothesis testing error and error rates power simulation and the correct computation and interpretation of pvalues attention will also be given to the misuse of testing concepts especially pvalues and the ethical implications of such misusethis can be taken for academic credit as part of cu boulders master of science in data science msds degree offered on the coursera platform the msds is an interdisciplinary degree that brings together faculty from cu boulders departments of applied mathematics computer science information science and others with performancebased admissions and no application process the msds is ideal for individuals with a broad range of undergraduate education andor in computer science information science mathematics and statistics more about the msds at httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder
+
+start here
+welcome to the this contains logistical information to get you started
+
+fundamental concepts of hypothesis testing
+we will define a hypothesis test and develop the intuition behind designing a test we will the language of hypothesis testing which includes definitions of a null hypothesis an alternative hypothesis and the level of significance of a test we will walk through a very simple test
+what is hypothesis testing types of hypotheses normal computations errors in hypothesis testing test statistics and significance a first test
+
+composite tests power functions and pvalues
+we will expand the lessons of to composite hypotheses for both one and twotailed tests we will define the power function for a test and discuss its interpretation and how it can lead to the idea of a uniformly most powerful test we will discuss and interpret pvalues as an alternate approach to hypothesis testing
+composite hypotheses and level of significance onetailed tests power functions hypothesis testing with pvalues two tailed tests clt a brief review hypothesis tests for proportions
+
+ttests and twosample tests
+we will about the chisquared and t distributions and their relationships to sampling distributions we will to identify when hypothesis tests based on these distributions are appropriate we will review the concept of sample variance and derive the ttest additionally we will derive our first twosample test and apply it to make some decisions about real data
+the t and chisquared distributions the sample variance for the normal distribution ttests two sample tests for means two sample ttests for a difference of means welchs ttest and paired data comparing population proportions
+
+beyond normality
+we will consider some problems where the assumption of an underlying normal distribution is not appropriate and will expand our ability to construct hypothesis tests for this case we will define the concept of a uniformly most powerful ump test whether or not such a test exists for specific problems and we will revisit some of our earlier tests from and through the ump lens we will also introduce the fdistribution and its role in testing whether or not two population variances are equal
+properties of the exponential distribution two tests best tests ump tests a test for the variance of the normal distribution the fdistribution and a ratio of variances
+
+likelihood ratio tests and chisquared tests
+we develop a formal approach to hypothesis testing based on a likelihood ratio that can be more generally applied than any of the tests we have discussed so far we will pay special attention to the large sample properties of the likelihood ratio especially wilks theorem that will allow us to come up with approximate but easy tests when we have a large sample size we will close the with two chisquared tests that can be used to test whether the distributional assumptions we have been making throughout this are valid
+mles the grlt wilks theorem chisquared goodness of fit test independence and homogeneity
+</DOC>
+
+<DOC>
+probability theory foundation for data science
+understand the foundations of probability and its relationship to statistics and data science well what it means to calculate a probability independent and dependent and conditional events well study discrete and continuous random variables and see how this fits with data collection well end the with gaussian normal random variables and the central limit theorem and understand its fundamental importance for all of statistics and data sciencethis can be taken for academic credit as part of cu boulders master of science in data science msds degree offered on the coursera platform the msds is an interdisciplinary degree that brings together faculty from cu boulders departments of applied mathematics computer science information science and others with performancebased admissions and no application process the msds is ideal for individuals with a broad range of undergraduate education andor in computer science information science mathematics and statistics more about the msds at httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder logo adapted from photo by christopher burns on unsplash
+
+start here
+welcome to the this contains logistical information to get you started
+
+descriptive statistics and the axioms of probability
+understand the foundation of probability and its relationship to statistics and data science well what it means to calculate a probability independent and dependent and conditional events well study discrete and continuous random variables and see how this fits with data collection well end the with gaussian normal random variables and the central limit theorem and understand its fundamental importance for all of statistics and data science
+intro to probability axioms of probability counting permutations and combinations
+
+conditional probability
+the notion of conditional probability is a very useful concept from probability theory and we introduce the idea of conditioning and bayes formula the fundamental concept of independent event then naturally arises from the notion of conditioning conditional and independent events are fundamental concepts in understanding statistical results
+conditional probability and bayes theorem independent events
+
+discrete random variables
+the concept of a random variable rv is fundamental and often used in statistics well study various named discrete random variables well some of their properties and why they are important well also calculate the expectation and variance for these random variables
+discrete random variables bernoulli and geometric random variables expectation and variance binomial and negative binomial random variables
+
+continuous random variables
+well extend our definition of random variables to include continuous random variables the concepts unit are crucial since a substantial portion of statistics deals with the analysis of continuous random variables well begin with uniform and exponential random variables and then study gaussian or normal random variables
+continuous random variables the gaussian normal random variable part the normal random variable part the poisson and exponential random variables
+
+joint distributions and covariance
+the power of statistics lies in being able to study the and effects of multiple random variables ie sometimes referred to as data thus well about the concept of joint distribution which allows us to generalize probability theory to the multivariate case
+covariance and correlation more on expectation and variance jointly distributed random variables
+
+the central limit theorem
+the central limit theorem clt is a crucial result used in the analysis of data well introduce the clt and its applications such as characterizing the distribution of the mean of a large data set this will set the stage for the next
+introduction to the central limit theorem central limit theorem examples
+</DOC>
+
+<DOC>
+statistical inference for estimation in data science
+this introduces statistical inference sampling distributions and confidence intervals students will how to define and construct good estimators method of moments estimation maximum likelihood estimation and methods of constructing confidence intervals that will extend to more general settings this can be taken for academic credit as part of cu boulders master of science in data science msds degree offered on the coursera platform the msds is an interdisciplinary degree that brings together faculty from cu boulders departments of applied mathematics computer science information science and others with performancebased admissions and no application process the msds is ideal for individuals with a broad range of undergraduate education andor in computer science information science mathematics and statistics more about the msds at httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder logo adapted from photo by christopher burns on unsplash
+
+start here
+welcome to the this contains logistical information to get you started
+
+point estimation
+how to estimate parameters from a large population based only on information from a small sample about desirable properties that can be used to help you to differentiate between good and bad estimators we will review the concepts of expectation variance and covariance and be introduced to a formal yet intuitive method of estimation known as the method of moments
+discrete random variables and probability mass functions continuous random variables and probability density functions joint distributions and independence the gamma distribution transformations of distributions expectation and properties of expectation variance and covariance estimators and sampling distributions distributions of sums method of moments estimators
+
+maximum likelihood estimation
+we will what a likelihood function is and the concept of maximum likelihood estimation we will construct maximum likelihood estimators mles for one and two parameter examples and functions of parameters using the invariance property of mles
+a motivating example notation terminology and first complete examples mles for multiple and support parameters the invariance property mean squared error bias and relative efficiency
+
+large sample properties of maximum likelihood estimators
+we will explore large sample properties of maximum likelihood estimators including asymptotic unbiasedness and asymptotic normality we will how to compute the cramrrao lower bound which gives us a benchmark for the smallest possible variance for an unbiased estimator
+fisher information and the cramerrao lower bound computational simplifications for the crlb the weak law of large numbers the central limit theorem large sample properties of mles
+
+confidence intervals involving the normal distribution
+we about the theory of interval estimation we will the definition and correct interpretation of a confidence interval and how to construct one for the mean of an unseen population based on both large and small samples we will look at the cases where the variance is known and unknown
+lets build a confidence interval the chisquared and t distributions tdistribution confidence intervals confidence intervals for the difference between population means small sample confidence intervals for the difference between population means
+
+beyond normality confidence intervals unleashed
+we will generalize the lessons of so that we can develop confidence intervals for other quantities of interest beyond the distribution mean and for other distributions entirely this covers two sample confidence intervals in more depth and confidence intervals for population variances and proportions we will also how to develop confidence intervals for parameters of interest in nonnormal distributions
+a confidence interval for proportions confidence intervals for variances a confidence interval for a ratio of variances who needs normality general confidence intervals
+</DOC>
+

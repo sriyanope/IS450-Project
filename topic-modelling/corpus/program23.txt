@@ -1,0 +1,130 @@
+<DOC>
+android app development
+this enables learners to successfully apply core java programming languages features software patterns needed to develop maintainable mobile apps comprised of core android components as well as fundamental java io persistence mechanisms the capstone will integrate the material from throughout the to exercise and assess the ability of learners to create an interesting android app by applying knowledge and learned in previous moocs including java programming features android studio tools android activity components material design file io and data persistence unit testing and software patterns the itself will be similar in design goals to previous however it will provide less of the skeleton code than earlier moocs provide to enable more creativity to learners and greater for learners to customize the app
+</DOC>
+
+<DOC>
+capstone mooc for android app development
+the capstone integrates material from throughout the android app development to exercise and assess the ability of learners to create an interesting android app learners will apply knowledge and learned in previous moocs including java programming features android activity broadcast receiver service and content provider plus sqlite components and unit integration and user interface testing the itself is similar in scope to previous in the earlier moocs in the however it is intentionally designed to enable learners to create a customized app that demonstrates their creativity and mastery of the topics
+
+capstone overview
+this provides an introduction to the contents of the mooc and summarizes effective strategies in particular it explains the specification and evaluation rubrics for the android app that will be implemented by learners in the capstone
+overview of the capstone milestone overview
+
+milestone
+peer review
+
+milestone
+peer review
+
+capstone final submission
+peer review
+</DOC>
+
+<DOC>
+java for android
+this mooc teaches you how to core features and classes from the java programming language that are used in android which is the dominant platform for developing and deploying mobile device apps in particular this mooc covers key java programming language features that control the flow of execution through an app such as javas various looping constructs and conditional statements enable access to structured data such as javas builtin arrays and common classes in the java collections framework such as arraylist and hashmap group related operations and data into classes and interfaces such as javas primitive and userdefined types fields methods generic parameters and exceptions customize the behavior of existing classes via inheritance and polymorphism such as subclassing and overriding virtual methods learners will apply these java features in the context of core android components such as activities and basic ui elements by applying common tools such as android studio needed to develop java programs and useful android apps learners will on several handson throughout the mooc ie each will require learners to write solutions to programming that reinforce the material covered in the lecture there will be roughly hours of student engagement time per including lectures quizzes and programming
+
+mooc overview
+summarizes the organization of the mooc and the topics it covers it also discusses the mooc prerequisites workload and strategies needed to complete the mooc successfully it then presents an overview of key features in the java language outlining its support for objectoriented programming concepts that guide the development of android apps
+overview of java for android mooc overview mooc contents organization and strategies overview of the java programming language part overview of the java programming language part overview
+
+introduction to android studio
+provides an overview of android studio explaining how to install it and apply it to develop a simple app using basic java and android features presented mooc
+introduction installing android studio opening provided creating and importing introducing the editor file organization creating and editing source code and resource files creating and running a virtual device debugging syntax errors logging with logcat todo statements running your code self assessment via unit tests submitting your code to the autograder
+
+writing a simple android app using basic java features
+shows how to write a simple android app that defines variables using primitive java data types shows how to assign values to those variables and output them to the android display using java classes and methods
+introduction main components in a computing system variables and types expressions printing data the math class the string class methods conclusion
+
+control flow
+covers javas looping constructs eg for loops while loops and dowhile loops as well as its conditional statements eg ifelse statements
+introduction to control flow ifstatement part ifstatement part ifstatement code walkthrough forloops part forloops part forloops part forloops code walkthrough indefinite loops random number generation
+
+structured data
+provides more detail on common data structures supported by java including builtin arrays as well as core classes in the java collections framework such as arraylist and hashmap
+structured data arrays part arrays part arrays part the foreach loop the collections framework part the collections framework part arraylists hashmaps structured data wrapup
+
+classes and interfaces
+covers java classes and interfaces focusing on data types fields methods generic parameters and exceptions
+java classes and objects an overview motivating classes and objects building your own classes and objects refining your classes part refining your classes part new objects in old places overview of java generics
+
+moduie inheritance and polymorphism
+examines javas inheritance and polymorphism features eg extending classes and virtual methods
+class hierarchy and interfaces overview class hierarchy and interfaces inheritance at polymorphism java interfaces advanced class interface features exception handling
+
+android calculator app miniproject
+guides learners through the creation of an android app that implements a simple calculator which provides features for adding subtracting multiplying and dividing numbers input by various means eg via numbers and buttons on the android user interface
+overview of the calculator app miniproject miniproject walkthrough
+</DOC>
+
+<DOC>
+android app components services local ipc and content providers
+this mooc builds upon the core android app components and concurrency frameworks covered in by focusing on started and bound services local interprocess communication ipc and content providers case study apps will be examined from multiple perspectives to how to these app components using androids material design paradigm students will incrementally on a handson involving a material designbased rss reader app each add additional capabilities to the based on material covered in the lecture spend roughly hours per watching lectures taking quizzes and programming with java and android
+
+mooc overview
+this provides an introduction to the contents of the mooc and summarizes effective strategies objectives are presented in the introduction lecture
+mooc overview introduction mooc contents organization and strategies part mooc contents organization and strategies part overview of layered architectures primary and secondary storage mechanisms kernel ipc and processing mechanisms android kernel extensions an introduction to key concepts android hardware abstraction layer hal android runtime execution environments android runtime core and native libraries overview of objectoriented frameworks service frameworks and packaged apps
+
+android started and bound services
+objectives are presented in the introduction lecture
+introduction overview of android services part overview of android services part overview to android services part service lifecycle operations part service lifecycle operations part service lifecycle operations part the intentservice framework service deployment and communication models case study pingpongreceiverservice app
+
+android local interprocess communication ipc
+objectives are presented in the introduction lecture
+introduction overview of android local interprocess communication ipc part overview of android local interprocess communication ipc part service and activity communication via android messengers part service and activity communication via android messengers part programming started services with intents messengers part programming started services with intents messengers part programming started services with intents messengers part programming started services with intents messengers part programming bound services with messengers part programming bound services with messengers part programming bound services with messengers part programming bound services with messengers part
+
+android content providers
+objectives are presented in the introduction lecture
+introduction overview of content providers content resolvers part overview of content providers content resolvers part overview of sqlite part overview of sqlite part developing a content provider part developing a content provider part case study the hobbitcontentprovider app part case study the hobbitcontentprovider app part case study the hobbitcontentprovider app part
+</DOC>
+
+<DOC>
+engineering maintainable android apps
+engineering maintainable android apps which is a mooc that shows by example various methods for engineering maintainable android apps including testdriven development methods and how to developrun unit tests using junit and robotium or equivalent automated testing frameworks for android as well as how to successfully apply common javaandroid software patterns to improve the extensibility and clarity of android apps students will on the appropriate automated unit quizzes based on the material covered in the lecture these lessons will demonstrate the benefits of good software engineering practices that are targeted at creating maintainable code for mobile appsthere will be roughly hours of student engagement time per including lectures and quizzes the ordering of the within the is designed to be flexible in particular students can watch the in whatever order suits their and needs eg they may want to watch the unit testing prior to the software pattern if they prefer to about unit testing first
+
+mooc overview
+engineering maintainable android apps which is a mooc that shows byexample various methods for engineering maintainable android apps including testdriven development methods and how to developrun unit tests using junit and robotium or equivalent automated testing frameworks for android as well as how to successfully apply common javaandroid software patterns to improve the extensibility and clarity of android apps
+
+software engineering testing i
+peer review
+software engineering as search why test unit testing unit testing with android studio the importance of test automation code coverage styles of testing
+
+software engineering testing ii
+
+functional nonfunctional properties refactoring refactoring and regression testing integration testing integration testing with android studio mock objects with android studio ui testing with espresso in android studio
+
+security sustainability i
+
+security sustainability economy of mechanism economy of mechanism example least privilege least privilege example complete mediation complete mediation example secure defaults secure defaults example
+
+security sustainability ii
+this provides an introduction to unit testing using the junit framework in android as well as an introduction to testing frameworks using the robotium opensource test framework for writing graybox testing cases to automate the testing of multiactivity android apps
+traditional app accounts traditional vs mobile app accounts app account mapping to linux users apps lie steal how android protects apps what android does not protect the challenges of secure coding security vulnerability walkthrough the iremember app example privilege escalation i privilege escalation ii privilege escalation iii wrapup
+</DOC>
+
+<DOC>
+android app components intents activities and broadcast receivers
+this mooc builds upon the overview of java and android covered in by delving deeper into core android app components such as intents activities and broadcast receivers by example how to these core android components together with android concurrency frameworks and basic java file io classes such as file and inputstream and android storage mechanisms such as shared preferences also how to use the git source code management system throughout this mooc incrementally on a involving downloading storing and display images from remote websites each add additional capabilities to the based on material covered in the lecture spend roughly hours per watching lectures taking quizzes and programming with java and android
+
+mooc overview
+this provides an introduction to the contents of the mooc and summarizes effective strategies
+mooc overview introduction mooc contents organization and strategies part mooc contents organization and strategies part overview of android part hardware os kernel overview of android part middleware infrastructure overview of android part application framework apps
+
+introduction to git
+this provides an overview of the git version control system
+git introduction git introduction git basics working with remote repositories git merge conflicts git in android studio git outro
+
+android intents
+this describes the structure functionality and use of android intents that provide an abstract of an operation to perform or an event that has occurred android uses intents as the glue that simplifies the integration of apps that reuse existing components such as activities services and broadcast receivers
+introduction to the on android intents overview of android intents part overview of android intents part elements of an android intent part elements of an android intent part android intent resolution and filtering part android intent resolution and filtering part concurrent programming with android intents maplocation app case study how to peer evaluate an android optional
+
+android activities
+this describes the structure functionality and use of android activities which define userfacing operations that are displayed on a device screen activities are the most common type of android component and are at the heart of app android apps
+introduction to the on android activities introduction to android activities part introduction to android activities part activity lifecycle operations part activity lifecycle operations part activity lifecycle operations part managing multiple activities and task concurrent programming with android activities part concurrent programming with android activities part case study imagedownloader app part case study imagedownloader app part case study imagedownloader app part
+
+android broadcast receivers
+peer review
+introduction introduction to android broadcast receivers part introduction to android broadcast receivers part registering implementing invoking broadcast receivers part registering implementing invoking broadcast receivers part registering implementing invoking broadcast receivers part android broadcast receiver security case study imagedownloader broadcast receiver apps part case study imagedownloader broadcast receiver apps part
+</DOC>
+

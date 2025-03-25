@@ -1,0 +1,149 @@
+<DOC>
+mergers and acquisitions
+in a postpandemic world companies across the globe are constantly looking to expand and grow their businesses mergers and acquisitions ma offers many ways to achieve this goal through this in mergers and acquisitions gain a wellrounded knowledge of key concepts that form the foundations of a successful ma deal the courses focus on types of ma deals and complex organizational structures topics covered includehow to value and price ma dealsunderstand financial modeling and capital structure understand complex organizational structures through the lens of financial accounting understand the foundational elements of financial statement and ratio analysisexamine practical applications of financial analysis and valuation techniquesapplied projecta central premise of these courses is that obtaining a wellrounded understanding of the foundations of an ma deal is crucial to successfully expand and grow an organization each subject area will be followed by an indepth application and analysis exercise
+</DOC>
+
+<DOC>
+finance of mergers and acquisitions valuation and pricing
+this teaches how to value and price ma deals and to choose the optimal financing mix for an ma deal the focuses on all the major types of ma deals including strategic ma private equity leveraged buyouts lbos and restructuring deals such as spinoffs and asset transfers
+
+orientation and overview of ma topics and evidence
+the basic terminology of ma which we will use throughout the also why ma deals happen and how to identify drivers of ma that are truly valueenhancing finally study the history of ma and key facts about previous ma waves
+introduction meet professor almeida on your terms objectives and overview good reasons to engage in ma transactions bad reasons to engage in ma transactions private equity lbos and other restructuring tools friendly vs hostile deals and ma regulation a brief history of ma does ma create value review
+
+company valuation
+what determines a companys stock price placing a value on companies is a key tool for ma analysis this focuses on the main methods available to estimate stock prices including discounted cash flow valuation and multiplesbased valuation these tools using the most uptodate finance theory and realworld examples
+objectives and overview forecasting profits and investments free cash flows using returns to measure risk the capital asset pricing model capm the weighted average cost of capital wacc improving your estimate of the expected return on debt improving your estimate of the expected return on equity computing enterprise value and stock prices using comparables for valuation sensitivity analysis review
+
+the role of target and acquirer valuation in ma
+valuation analysis is a major part of the that investment banks do when advising companies involved in ma deals that both target and acquirer valuation matter and why this also focuses on what is special about the valuation and pricing of nonpublicly traded targets finally how to best use transaction multiples in the valuation of ma deals
+objectives and overview the role of target valuation private targets valuation issues private targets pricing issues transaction multiples the role of acquirer valuation review
+
+synergies and hostile takeovers
+this starts with how to place a value on synergies using cash flow forecasts provided by management and also using the stock market reaction to a new ma deal next also how to relate synergies to the premium paid for targets and how to calculate the net present value npv of a deal also the specifics of hostile takeover deals with a focus on governance legal and valuation issues
+objectives and overview synergy valuation management perspective synergy valuation the markets view the chance of deal failure and merger arbitrage additional examples when markets and managers disagree bidder strategies target strategies do takeover defenses create or destroy value examples of hostile deals review honors details and sample solution
+
+conclusion
+plugin
+</DOC>
+
+<DOC>
+accounting for mergers and acquisitions foundations
+this aims at assisting you in interpreting financial accounting information related to intercorporate investments the will cover three main topics over four i accounting for passive significant influence and control type of intercorporate investments ii special issues and considerations in intercorporate investments and iii special types of intercorporate investments the will be useful for students to understand complex organizational structures through the lens of financial accounting information and will benefit investors analysts bankers consultants managers and any dealmakers
+
+orientation
+
+
+introduction to intercorporate investments
+mergers acquisitions and other complex transactions eg spinoffs carveouts leveraged buyouts and recapitalizations drastically alter firms financial statements explore main types of equity investments and accounting for passive and significant type of investments
+introduction to intercorporate investments passive investments significant influence issues in equity method intercompany transactions
+
+control type of investments
+investments between and give the acquirer firm control over the target firm for all operational and financial decisions of the target firm these investments are accounted for using consolidation explore accounting for consolidation
+control type of investments consolidation with full ownership consolidation after initial investment consolidation without full ownership income statement consolidation
+
+special considerations in intercorporate investment
+there are various special issues in mergers and acquisitions explore some common special considerations in mergers and acquisitions including definition of business identifying the acquirer firm bargain purchase acquisition related costs and earnouts
+special considerations in intercorporate investments definition of business identifying the acquirer firm bargain purchase acquisition related costs earnouts
+
+special types of acquisitions
+there are various ways to conduct mergers and acquisitions explore reverse acquisitions step acquisitions and accounting for deconsolidations
+special types of acquisitions reverse acquisitions step acquisitions deconsolidation
+</DOC>
+
+<DOC>
+investment banking financial analysis and valuation
+this will provide students the key building blocks required for a in investment banking valuation and other corporatefinance focused fields it is designed to provide a practical application of financial statement analysis and valuation techniques commonly performed by industry professionals the has two major parts the first focuses on the foundational elements of financial statement and ratio analysis the second applies the financial statements and forecasts within the context of company valuation utilizing common industry valuation techniques
+
+introduction and financial spreads adjustments
+explore the concept of comparability of company financial information a key building block of valuation the primary application of that concept is the development of the financial spread template which is used to standardize the presentation of company financial and market information within accounting periods and across companies also addressed is the calculation of fully diluted shares and adjusting financial statements to consider the impact of onetime nonrecurring and unusual items
+introduction to investment banking financial analysis and valuation meet your instructors the impact of the gies community introduction to financial spreads overview introduction to financial spreads multiples introduction to financial spreads fully diluted shares outstanding introduction to financial spreads financial adjustments
+
+introduction to valuation analysis and comparable public companies analysis
+what determines a companys stock price placing a value on companies is a key tool for ma analysis this will present the main techniques available to estimate a companys value including multiplesbased and cash flowbased valuation methods these valuation tools will be presented using the most uptodate finance theory and realworld examples
+valuation techniques and uses basic overview of multiples based approaches overview of comparable public companies analysis selecting comparable companies spreading financial information and benchmarking valuation multiples and ranges advantages and disadvantages of comparable public companies analysis
+
+comparable precedent transaction analysis
+valuation analysis is a major part of the that investment banks do when advising companies involved in ma deals this will dive deeper into using comparable precedent ma transactions to establish another perspective on a companys expected valuation in an ma context the similarities and differences between comparable public companies analysis and transactions comparables analysis will be presented as well as how to correctly calculate transaction valuation statistics lastly we will take what we have learned about public company and transaction comparables to begin to develop a valuation for an existing public company
+similarities and differences between public and transaction comparables analysis steps to performing comparable precedent transaction analysis finding transaction comparables unique aspects of spreading a transaction comparable the final analysis is the same advantages and disadvantages of comparable precedent transaction analysis building a valuation
+
+discounted cash flows
+this will present how to build a discounted cash flow analysis a fundamental valuation technique as well as the concepts of financial forecasting free cash flow weighted average cost of capital terminal value and present value
+discounted cash flows an introduction discounted cash flows projecting free cash flows discounted cash flows wacc discounted cash flows terminal value discounted cash flows calculate present value and determine valuation
+
+conclusion
+make sure you know how to get your and find out more about gies online programs
+</DOC>
+
+<DOC>
+investment banking ma and initial public offerings
+this focuses on examining various practical applications of the fundamental financial analysis and valuation techniques employed in the investment banking industry specifically we will examine how to analyze how a private equity firm or other financial sponsor completes a leveraged buyout of a company how a public company analyzes the impact of acquiring a company on its earnings per share and how a company completes an initial public offering the will benefit anyone who desires to increase their ability to understand and execute ma and capital markets transactions including but not limited to entrepreneurs consultants bankers investors analysts corporate managers marketers strategists and dealmakers of all types
+
+introduction and introduction to mergers and acquisitions
+this begins with describing the different types of ma and roles investment banks play in them it then moves on to the motivations and strategies which drive ma transactions the different approaches to selling a business and the process steps to running a sellside auction process finally the explores how buyers finance structure and analyze ma transactions
+introduction to investment banking ma and initial public offerings meet your instructors the impact of the gies community types of ma transactions types of investment banking ma transitioning from valuation analysis to execution process alternatives auction process organization and preparation auction process first round auction process second round auction process negotiations auction process closing negotiated sale overview buyer motivations acquisition strategies financing an acquisition deal structures valuation considerations
+
+leveraged buyout analysis
+most of the ma deals that take place in todays market are completed by private equity firms the vast majority of these transactions are classified as leveraged buyouts lbos as the consideration is a mix of equity and debt leverage this will explore how a private equity firm determines the price that it can pay for a specific target company in an lbo transaction given an assumed return threshold financial forecast and capital structure
+leveraged buyouts an introduction leveraged buyouts modeling basics
+
+merger consequences analysis
+when a corporation acquires a business in addition to assessing the targets standalone valuation it will also assess whether the completion of the transaction will have a positive impact on its prospective earnings per share eps this will explore how an acquirer analyzes whether the acquisition has an accretive positive or dilutive negative impact on its eps given assumptions of the targets valuation expected transaction synergies a proposed financing structure and the impact of both financial and accounting transaction adjustments this will also demonstrate how to prepare a pro forma balance sheet for the buyer given the specifics of the ma transaction
+accretiondilution building an accretiondilution model part building an accretiondilution model part building an accretiondilution model part building an accretiondilution model part
+
+overview of initial public offerings ipos
+owners of businesses sometimes decide to take their business public as an alternative to an outright sale this model explores the similarities between selling and an ipo as well as the differences this will define commonly used ipo terms and discuss the ipo process on a stage by stage basis finally this will highlight the key ipo valuation considerations and end with discussing what happens after a company is public
+broader context the players in an ipo reasons to go public and not to go public ipo vocabulary the ipo journey advisor selection and final preparation prospectus and roadshow preparation marketing and pricing the deal ipo valuation after the ipo beyond initial trading
+
+conclusion
+plugin
+</DOC>
+
+<DOC>
+finance of mergers and acquisitions designing an ma deal
+this focuses on the theory and practice of mergers and acquisitions ma with a focus on the finance the finance of ma uses tools from different areas of finance to help managers and investment bankers design successful ma deals in particular we will to value and price ma deals and how to choose the optimal financing mix for an ma deal the focuses on all the major types of ma deals including strategic ma private equity leveraged buyouts lbos and restructuring deals such spinoffs and asset transfers the will benefit any student who desires to increase their ability to understand and execute ma deals including but not limited to entrepreneurs consultants bankers investors analysts corporate managers marketers strategists and dealmakers of all types the will also deepen students understanding of financial modeling and capital structure both in theory and practice
+
+orientation and designing an ma deal accounting taxation and means of payment
+the basic accounting and taxation principles of ma deals and how accounting and taxation choices interact and potential implications for ma financing decisions this will also discuss the key tradeoffs that acquirers and targets face when deciding between cash and stock deals including taxes valuation issues and uncertainty about synergies
+introduction meet professor almeida on your terms objectives and overview accounting for a stock deal accounting for a cash deal real world example of ma accounting an introduction to taxation of ma deals cash or stock the mechanics cash or stock taxes signaling and ownership structure cash or stock uncertainty about synergies and valuation cash or stock real world example review
+
+financing ma deals
+ma deals can cause significant changes in corporate leverage how leverage affects company value both in theory and in practice also how to choose the optimal financing mix in an ma deal using the tradeoff model of capital structure and other stateofthe art tools including credit ratings and debt structure
+objectives and overview using the wacc model or not an alternative adjusted present value the tradeoff model of capital structure in practice real world example equity issuance in ma financing targeting credit ratings managing high leverage in ma deals real world example review
+
+private equity and leveraged buyouts
+private equity deals have become an essential component of the ma market and studying private equity deals is an excellent tool for an ma practitioner the finance issues that are essential to private equity deals including highly leveraged valuation complex financing structures and the key sources of value creation also the complete modeling of a leverage buyout lbo including valuation financing exit plans and calculation of irr internal rates of return
+objectives and overview what is special about lbos what drives lbos dealing with high leverage numerical example lbo model undervaluation postlbo valuation calculating and using irr other types of lbos review
+
+corporate restructuring divestiture and spinoffs
+companies create value not only by buying assets but also by selling assets and downsizing how and why companies can create value by breaking up this will also discuss the specifics of divestitures and spinoffs including tax implications and the benefits of corporate focus
+objectives and overview why break up asset sales spinoffs real world example review honors details and sample solution
+
+conclusion
+plugin
+</DOC>
+
+<DOC>
+accounting for mergers and acquisitions advanced topics
+this aims at assisting you in interpreting financial accounting information related to advanced issues in intercorporate investments the will cover four main topics over four i accounting for spinoffs and equity carveouts ii accounting for leveraged buyouts and recapitalizations iii tax considerations in intercorporate investments and iv financial statement analysis in the presence of intercorporate investments the will be useful for students to understand complex organizational structures through the lens of financial accounting information and will benefit investors analysts bankers consultants managers and any dealmakers
+
+orientation
+
+
+special types of divestitures
+acquirer firms may divest their investments in other firms in some exotic ways explore two notable special divestitures spinoffs and equity carveouts
+special types of divestitures spinoffs equity carveouts
+
+corporate reorganizations
+acquirer firms may obtain the control of target firms in some exotic ways explore two notable corporate reorganizations leveraged buyouts lbos and recapitalizations recaps
+corporate reorganizations leveraged buyouts recapitalizations
+
+tax considerations in intercorporate investments
+intercorporate investments can result in special tax issues for target shareholders and target firms explore taxable versus taxfree transactions stepups versus carryovers deferred taxes and miscellaneous acquisitionrelated tax issues including loss trafficking and goodwill taxation
+tax considerations in intercorporate investments taxable versus taxfree transaction stepups versus carryovers deferred taxes miscellaneous
+
+financial statement analysis fsa with intercorporate investments
+financial statement analysis fsa builds models to evaluate past position and predict future performance of a firm using financial statements explore fsa in the presence of intercorporate investments and calculation of organic versus acquired growth
+financial statement analysis with intercorporate investments ratio analysis organic versus acquired growth
+</DOC>
+

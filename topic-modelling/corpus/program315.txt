@@ -1,0 +1,109 @@
+<DOC>
+reinforcement
+the reinforcement consists of courses exploring the power of adaptive systems and artificial intelligence aiharnessing the full potential of artificial intelligence requires adaptive systems how reinforcement rl solutions help solve realworld problems through trialanderror interaction by implementing a complete rl solution from beginning to endby the end of this learners will understand the foundations of much of modern probabilistic artificial intelligence ai and be prepared to take more advanced courses or to apply ai tools and ideas to realworld problems this content will focus on smallscale problems in order to understand the foundations of reinforcement as taught by worldrenowned experts at the university of alberta faculty of sciencethe tools learned can be applied to game development ai customer interaction how a website interacts with customers smart assistants recommender systems supply chain industrial control finance oil gas pipelines industrial control systems and moreapplied projectthrough programming and quizzes students will build a reinforcement system that knows how to make automated decisionsunderstand how rl relates to and fits under the broader umbrella of machine deep supervised and unsupervised understand the space of rl algorithms temporal difference monte carlo sarsa qlearning policy gradient dyna and more understand how to formalize your task as a rl problem and how to begin implementing a solution
+</DOC>
+
+<DOC>
+samplebased methods
+about several algorithms that can near optimal policies based on trial and error interaction with the environmentlearning from the agents own from actual is striking because it requires no prior knowledge of the environments dynamics yet can still attain optimal behavior we will cover intuitively simple but powerful monte carlo methods and temporal difference methods including qlearning we will wrap up this investigating how we can get the best of both worlds algorithms that can combine modelbased planning similar to dynamic programming and temporal difference updates to radically accelerate learningby the end of this be able to understand temporaldifference and monte carlo as two strategies for estimating value functions from sampled understand the importance of exploration when using sampled rather than dynamic programming sweeps within a model understand the connections between monte carlo and dynamic programming and td implement and apply the td algorithm for estimating value functions implement and apply expected sarsa and qlearning two td methods for control understand the difference between onpolicy and offpolicy control understand planning with simulated as opposed to classic planning strategies implement a modelbased approach to rl called dyna which uses simulated conduct an empirical study to see the improvements in sample efficiency when using dyna
+
+welcome to the
+welcome to the second in the reinforcement samplebased methods brought to you by the university of alberta onlea and coursera precourse be introduced to your instructors and get a flavour of what the has in store for you make sure to introduce yourself to your classmates in the meet and greet section
+introduction meet your instructors
+
+monte carlo methods for prediction control
+how to estimate value functions and optimal policies using only sampled from the environment this represents our first step toward incremental methods that from the agents own interaction with the world rather than a model of the world about onpolicy and offpolicy methods for prediction and control using monte carlo methodsmethods that use sampled returns also be reintroduced to the exploration problem but more generally in rl beyond bandits
+what is monte carlo using monte carlo for prediction using monte carlo for action values using monte carlo methods for generalized policy iteration solving the blackjack example epsilonsoft policies why does offpolicy matter importance sampling offpolicy monte carlo prediction emma brunskill batch reinforcement
+
+temporal difference methods for prediction
+about one of the most fundamental concepts in reinforcement temporal difference td td combines some of the features of both monte carlo and dynamic programming dp methods td methods are similar to monte carlo methods in that they can from the agents interaction with the world and do not require knowledge of the model td methods are similar to dp methods in that they bootstrap and thus can onlineno waiting until the end of an episode see how td can more efficiently than monte carlo due to bootstrapping for this we first focus on td for prediction and discuss td for control in the next implement td to estimate the value function for a fixed policy in a simulated domain
+what is temporal difference td rich sutton the importance of td the advantages of temporal difference comparing td and monte carlo andy barto and rich sutton more on the history of rl
+
+temporal difference methods for control
+about using temporal difference for control as a generalized policy iteration strategy see three different algorithms based on bootstrapping and bellman equations for control sarsa qlearning and expected sarsa see some of the differences between the methods for onpolicy and offpolicy control and that expected sarsa is a unified algorithm for both implement expected sarsa and qlearning on cliff world
+sarsa gpi with td sarsa in the windy grid world what is qlearning qlearning in the windy grid world how is qlearning offpolicy expected sarsa expected sarsa in the cliff world generality of expected sarsa
+
+planning acting
+up until now you might think that with and without a model are two distinct and in some ways competing strategies planning with dynamic programming verses samplebased via td methods we unify these two strategies with the dyna architecture how to estimate the model from data and then use this model to generate hypothetical a bit like dreaming to dramatically improve sample efficiency compared to samplebased methods like qlearning in addition how to design systems that are robust to inaccurate models
+what is a model comparing sample and distribution models random tabular qplanning the dyna architecture the dyna algorithm dyna qlearning in a simple maze what if the model is inaccurate indepth with changing environments drew bagnell selfdriving robotics and model based rl congratulations
+</DOC>
+
+<DOC>
+prediction and control with function approximation
+how to solve problems with large highdimensional and potentially infinite state spaces see that estimating value functions can be cast as a supervised problemfunction approximationallowing you to build agents that carefully balance generalization and discrimination in order to maximize reward we will begin this journey by investigating how our policy evaluation or prediction methods like monte carlo and td can be extended to the function approximation setting about feature construction techniques for rl and representation via neural networks and backprop we conclude this with a deepdive into policy gradient methods a way to policies directly without a value function solve two continuousstate control tasks and investigate the benefits of policy gradient methods in a continuousaction environment prerequisites this strongly builds on the fundamentals of courses and and learners should have completed these before starting this learners should also be comfortable with probabilities expectations basic linear algebra basic calculus python at least year and implementing algorithms from pseudocode by the end of this be able to understand how to use supervised approaches to approximate value functions understand objectives for prediction value estimation under function approximation implement td with function approximation state aggregation on an environment with an infinite state space continuous state space understand fixed basis and neural network approaches to feature construction implement td with neural network function approximation in a continuous state environment understand new difficulties in exploration when moving to function approximation contrast discounted problem formulations for control versus an average reward problem formulation implement expected sarsa and qlearning with function approximation on a continuous state control task understand objectives for directly estimating policies policy gradient objectives implement a policy gradient method called actorcritic on a discrete state environment
+
+welcome to the
+welcome to the third in the reinforcement prediction and control with function approximation brought to you by the university of alberta onlea and coursera precourse be introduced to your instructors and get a flavour of what the has in store for you make sure to introduce yourself to your classmates in the meet and greet section
+introduction meet your instructors
+
+onpolicy prediction with approximation
+how to estimate a value function for a given policy when the number of states is much larger than the memory available to the agent how to specify a parametric form of the value function how to specify an objective function and how estimating gradient descent can be used to estimate values from interaction with the world
+moving to parameterized functions generalization and discrimination framing value estimation as supervised the value error objective introducing gradient descent gradient monte for policy evaluation state aggregation with monte carlo semigradient td for policy evaluation comparing td and monte carlo with state aggregation doina precup building knowledge for ai agents with reinforcement the linear td update the true objective for td
+
+constructing features for prediction
+the features used to construct the agents value estimates are perhaps the most crucial part of a successful system we discuss two basic strategies for constructing features fixed basis that form an exhaustive partition of the input and adapting the features while the agent interacts with the world via neural networks and backpropagation weeks graded assessment solve a simple but infinite state prediction task with a neural network and td
+coarse coding generalization properties of coarse coding tile coding using tile coding in td what is a neural network nonlinear approximation with neural networks deep neural networks gradient descent for training neural networks optimization strategies for nns david silver on deep rl ai review
+
+control with approximation
+see that the concepts and tools introduced in two and three allow straightforward extension of classic td control methods to the function approximation setting in particular how to find the optimal policy in infinitestate mdps by simply combining semigradient td methods with generalized policy iteration yielding classic control methods like qlearning and sarsa we conclude with a discussion of a new problem formulation for rlaverage rewardwhich will undoubtedly be used in many applications of rl in the future
+episodic sarsa with function approximation episodic sarsa in mountain car expected sarsa with function approximation exploration under function approximation average reward a new way of formulating control problems satinder singh on intrinsic rewards review
+
+policy gradient
+every algorithm you have learned about so far estimates a value function as an intermediate step towards the goal of finding an optimal policy an alternative strategy is to directly the parameters of the policy about these policy gradient methods and their advantages over valuefunction based methods also how policy gradient methods can be used to find the optimal policy in tasks with both continuous state and action spaces
+policies directly advantages of policy parameterization the objective for policies the policy gradient theorem estimating the policy gradient actorcritic algorithm actorcritic with softmax policies demonstration with actorcritic gaussian policies for continuous actions congratulations preview
+</DOC>
+
+<DOC>
+fundamentals of reinforcement
+reinforcement is a subfield of machine but is also a general purpose formalism for automated decisionmaking and ai this introduces you to statistical techniques where an agent explicitly takes actions and interacts with the world understanding the importance and challenges of agents that make decisions is of vital importance today with more and more companies interested in interactive agents and intelligent decisionmaking this introduces you to the fundamentals of reinforcement when you finish this formalize problems as markov decision processes understand basic exploration methods and the explorationexploitation tradeoff understand value functions as a generalpurpose tool for optimal decisionmaking know how to implement dynamic programming as an efficient solution approach to an industrial control problem this teaches you the key concepts of reinforcement underlying classic and modern algorithms in rl after completing this be able to start using rl for real problems where you have or can specify the mdp this is the first of the reinforcement
+
+welcome to the
+welcome to fundamentals of reinforcement the first in a fourpart on reinforcement brought to you by the university of alberta onlea and coursera precourse be introduced to your instructors get a flavour of what the has in store for you and be given an indepth roadmap to help make your journey through this as smooth as possible
+introduction introduction meet your instructors your roadmap
+
+an introduction to sequential decisionmaking
+for the first of this how to understand the explorationexploitation tradeoff in sequential decisionmaking implement incremental algorithms for estimating actionvalues and compare the strengths and weaknesses to different algorithms for exploration for this weeks graded assessment implement and test an epsilongreedy agent
+sequential decision making with evaluative feedback action values estimating action values incrementally what is the tradeoff optimistic initial values upperconfidence bound ucb action selection jonathan langford contextual bandits for real world reinforcement
+
+markov decision processes
+when youre presented with a problem in industry the first and most important step is to translate that problem into a markov decision process mdp the quality of your solution depends heavily on how well you do this translation the definition of mdps understand goaldirected behavior and how this can be obtained from maximizing scalar rewards and also understand the difference between episodic and continuing tasks for this weeks graded assessment create three example tasks of your own that fit into the mdp framework
+markov decision processes examples of mdps the goal of reinforcement michael littman the reward hypothesis continuing tasks examples of episodic and continuing tasks
+
+value functions bellman equations
+once the problem is formulated as an mdp finding the optimal policy is more efficient when using value functions the definition of policies and value functions as well as bellman equations which is the key technology that all of our algorithms will use
+specifying policies value functions rich sutton and andy barto a brief history of rl bellman equation derivation why bellman equations optimal policies optimal value functions using optimal value functions to get optimal policies
+
+dynamic programming
+how to compute value functions and optimal policies assuming you have the mdp model implement dynamic programming to compute value functions and optimal policies and understand the utility of dynamic programming for industrial applications and problems further about generalized policy iteration as a common template for constructing algorithms that maximize reward for this weeks graded assessment implement an efficient dynamic programming agent in a simulated industrial control problem
+policy evaluation vs control iterative policy evaluation policy improvement policy iteration flexibility of the policy iteration framework efficiency of dynamic programming warren powell approximate dynamic programming for fleet management short warren powell approximate dynamic programming for fleet management long congratulations
+</DOC>
+
+<DOC>
+a complete reinforcement system capstone
+final put together your knowledge from courses and to implement a complete rl solution to a problem this capstone will let you see how each componentproblem formulation algorithm selection parameter selection and representation designfits together into a complete solution and how to make appropriate choices when deploying rl in the real world this will require you to implement both the environment to stimulate your problem and a control agent with neural network function approximation in addition conduct a scientific study of your system to develop your ability to assess the robustness of rl agents to use rl in the real world it is critical to a appropriately formalize the problem as an mdp b select appropriate algorithms c identify what choices in your implementation will have large impacts on performance and d validate the expected behaviour of your algorithms this capstone is valuable for anyone who is planning on using rl to solve real problemsto be successful need to have completed courses and of this or the equivalent by the end of this be able to complete an rl solution to a problem starting from problem formulation appropriate algorithm selection and implementation and empirical study into the effectiveness of the solution
+
+welcome to the final capstone
+welcome to the final capstone of the reinforcement
+introduction meet your instructors
+
+milestone formalize word problem as mdp
+read a of a problem and translate it into an mdp complete skeleton code for this environment to obtain a complete mdp for use capstone
+initial meeting with martha formalizing the problem andy barto on what are eligibility traces and why are they so named lets review markov decision processes lets review examples of episodic and continuing tasks
+
+milestone choosing the right algorithm
+select from three algorithms to a policy for the environment reflect on and discuss the appropriateness of each algorithm for this environment
+meeting with niko choosing the algorithm lets review expected sarsa lets review what is qlearning lets review average reward a new way of formulating control problems lets review actorcritic algorithm csaba szepesvari on problem landscape andy and rich advice for students
+
+milestone identify key performance parameters
+identify key parameters that affect the performance of your agent the goal is to understand the space of options to later enable you to choose which parameter investigate indepth for your agent
+agent architecture meeting with martha overview of design choices lets review nonlinear approximation with neural networks drew bagnell on system id optimal control susan murphy on rl in mobile health
+
+milestone implement your agent
+implement your agent using expected sarsa or qlearning with rmsprop and neural networks to use nns have to use a more careful stepsize selection strategy which is why use rmsprop also verify the correctness of your agent
+meeting with adam getting the agent details right lets review optimization strategies for nns lets review expected sarsa with function approximation lets review dyna qlearning in a simple maze meeting with martha indepth on replay martin riedmiller on the collect and infer framework for dataefficient rl
+
+milestone submit your parameter study
+identify a parameter to study for your agent once you select the parameter to study we will provide you with a range of values and specific values for other parameters write a script to run your agent and environment on the set of parameters to determine performance across these parameters gain insight into the impact of parameters on agent performance also get to visualize the agents that you your parameter study will consist of an array of values that we will check for correctness
+meeting with adam parameter studies in rl lets review comparing td and monte carlo joelle pineau about rl that matters meeting with martha discussing your results wrapup wrapup
+</DOC>
+

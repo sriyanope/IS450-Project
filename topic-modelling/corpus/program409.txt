@@ -1,0 +1,76 @@
+<DOC>
+google business intelligence
+get training designed by google and take the next step in your with advanced in the highgrowth field of business intelligence there are over open jobs in business intelligence with a median salary of in the usbusiness intelligence professionals collect organize interpret and report on data to help organizations make informed business decisions some responsibilities include measuring performance tracking revenue or spending and monitoring progressthis builds on your data analytics and to take your to the next level its designed for graduates of the google data analytics certificateopens in a new tab or people with equivalent data analytics expand your knowledge with practical handson featuring bigquery sql and tableauafter three courses be prepared for jobs like business intelligence analyst business intelligence engineer business intelligence developer and more at under hours a the can be completed in less than two months upon completion you can apply for jobs with google and over us employers including deloitte target and verizon of graduates report a positive eg new job promotion or raise within six months of completionlightcast us job postings jan dec based on graduate survey responses us applied projectthis includes over hours of instruction and practicebased assessments which will help you simulate realworld business intelligence scenarios that are critical for success in the workplace the content is highly interactive and exclusively developed by google employees with decades of in business intelligence through a mix of assessments and handson labs get introduced to bi tools and platforms and key technical required for an entrylevel jobplatforms and tools include bigquery sql tableauin addition to expert training and handson complete a portfolio that you can share with potential employers to showcase your new set concrete that top employers are hiring for right now
+</DOC>
+
+<DOC>
+the path to insights data models and pipelines
+this is the second of three courses in the google business intelligence explore data modeling and how databases are designed then about extract transform load etl processes that extract data from source systems transform it into formats that enable analysis and drive business processes and goalsgoogle employees who currently in bi will guide you through this by providing handson activities that simulate job tasks sharing examples from their daytoday and helping you build business intelligence to prepare for a in the field learners who complete the three courses will have the needed to apply for business intelligence jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this determine which data models are appropriate for different business requirements describe the difference between creating and interacting with a data model create data models to address different types of questions explain the parts of the extract transform load etl process and tools used in etl understand extraction processes and tools for different data storage systems design an etl process that meets organizational and stakeholder needs design data pipelines to automate bi processes
+
+data models and pipelines
+start this by exploring data modeling common schemas and database elements consider how business needs determine the kinds of database systems that bi professionals implement then discover pipelines and etl processes which are tools that move data and ensure that its accessible and useful
+introduction to ed overcome imposter syndrome welcome to data modeling design patterns and schemas get the facts with dimensional models dimensional models with star and snowflake schemas different data types different databases the shape of the data design useful database schemas data pipelines and the etl process maximize data through the etl process choose the right tool for the job introduction to dataflow coding with python gather information from stakeholders wrapup optional review google data analytics content about data types optional review google data analytics content about primary and foreign keys optional review google data analytics content about bigquery
+
+dynamic database design
+more about database systems including data marts data lakes data warehouses and etl processes also investigate the five factors of database performance workload throughput resources optimization and contention finally consider how to design efficient queries that get the most from a system
+welcome to data marts data lakes and the etl process the five factors of database performance optimize database performance the five factors in action wrapup
+
+optimize etl processes
+about optimization techniques including etl quality testing data schema validation business rule verification and general performance testing also explore data integrity and how builtin quality checks defend against potential problems finally focus on verifying business rules and general performance testing to make sure pipelines meet the intended business need
+welcome to the importance of quality testing mana quality data is useful data conformity from source to destination check your schema verify business rules burak evolving technology wrapup optional review google data analytics content about data integrity optional review google data analytics content about metadata
+
+endofcourse
+complete an endofcourse by creating a pipeline process to deliver data to a target table and developing reports based on needs also ensure that the pipeline is performing correctly and that there are builtin defenses against data quality issues
+welcome to continue your endofcourse tips for ongoing success with your endofcourse luis tips for interview preparation wrapup
+</DOC>
+
+<DOC>
+decisions decisions dashboards and reports
+youre almost there this is the third and final in the google business intelligence apply your understanding of stakeholder needs plan and create bi visuals and design reporting tools including dashboards also explore how to answer business questions with flexible and interactive dashboards that can monitor data over long periods of timegoogle employees who currently in bi will guide you through this by providing handson activities that simulate job tasks sharing examples from their daytoday and helping you build business intelligence to prepare for a in the field learners who complete the three courses will have the needed to apply for business intelligence jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this explain how bi visualizations answer business questions identify complications that may arise during the creation of bi visualizations produce charts that represent bi data monitored over time use dashboard and reporting tools build dashboards using best practices to meet stakeholder needs iterate on a dashboard to meet changing requirements design bi presentations to share insights with stakeholders create or update a resume and prepare for bi interviews
+
+business intelligence visualizations
+about the foundations of bi dashboards including how they differ from other data analytics dashboards also explore how to use dynamic visualizations to answer business questions finally develop an understanding of how a dashboards interactivity empowers stakeholders
+introduction to terrence a day in the life as a bi analyst welcome to data visualization in business intelligence empower stakeholders plan a dashboard using mockups dashboard missteps and how to avoid them refresh your tableau wrapup optional review google data analytics content about data visualization
+
+visualize results
+consider the tradeoffs involved with building a bi visualization and practice creating charts and visualizations also explore effective ways to organize elements within a dashboard finally identify factors that contribute to processing speed and how to maximize dashboard performance
+welcome to design tradeoffs when building a dashboard deandrea business intelligence in action start a chart organize dashboard elements processing speeds and privacy settings wrapup optional review google data analytics content about aggregation optional review google data analytics content about data types optional review google data analytics content about tableau optional review google data analytics content about dashboards
+
+automate and monitor
+build charts and organize them to create dashboards that effectively monitor data for the long term in addition put yourself in the role of a bi by meeting with a client practicing questionasking and communication and using the information the client provides to inform your
+welcome to complete a dashboard andrea power of a bi specialist roleplay with a stakeholder datadriven charts erica how bi tools are put to wellorganized dashboards dashboard iteration wrapup
+
+present business intelligence insights
+explore stakeholder presentations and strategies for sharing dashboards with clients then focus on preparing for the bi interview process by refining your portfolio updating your resume practicing interview techniques that demonstrate your to recruiters and hiring managers and more
+welcome to present your insights the business intelligence hiring process heather personal journey into bi incorporate business intelligence in your portfolio refine your resume kelly tips for resume preparation interview preparation strategies wrapup optional review google data analytics content about presentations optional review google data analytics content about creating a resume
+
+endofcourse
+finish working on your portfolio by building a bi dashboard refer to key bi documents to create a lowfidelity mockup design charts and organize your dashboard your portfolio artifacts will include a mockup and a working dashboard which will be ready to present to stakeholders
+welcome to complete your endofcourse wrapup tony careerbuilding strategies myles driving impact with ai in the workplace boost your data analytics with ai clean and prepare data with help from ai organize data and build formulas using ai use ai to help you ask more effective questions create engaging data visualizations with ai improve your r code with help from ai introducing google ai essentials
+
+put your google business intelligence to
+review what youve learned throughout the google business intelligence and explore additional resources to establish yourself as a bi
+congratulations on completing the google business intelligence recap
+</DOC>
+
+<DOC>
+foundations of business intelligence
+this is the first of three courses in the google business intelligence which will help develop the needed to apply for entrylevel roles as a business intelligence bi people who in bi help organizations access the right data use data to help businesses grow and improve and put insights into action discover the role of bi professionals within an organization and explore bi tools you can use on the job google employees who currently in bi will guide you through this by providing handson activities that simulate job tasks sharing examples from their daytoday and helping you build business intelligence to prepare for a in the field learners who complete the three courses will have the needed to apply for business intelligence jobs this assumes prior knowledge of foundational analytical principles and tools covered in the google data analytics by the end of this make key distinctions between business intelligence bi and data analysis explore how data is used in business processes and decisionmaking describe ways that bi professionals impact their organizations identify the uses and benefits of bi tools including data models pipelines data visualizations and dashboards acquire manipulate and integrate data using key bi concepts select and define metrics that are relevant to goals and stakeholder questions develop and execute a bi by working with stakeholders to determine requirements execute tasks and deliver insights that guide decisionmaking
+
+datadriven results through business intelligence
+begin about business intelligence and the roles of bi analysts and engineers within organizations discover the tools and techniques bi professionals use to make business decisions and improve processes in addition explore the similarities and differences between bi and data analytics
+welcome to the google business intelligence introduction to sally personal journey explore business intelligence careers business intelligence teams and partners business intelligence maximizes the value of data analytics the stages of business intelligence contribute to a winning business intelligence strategy the business intelligence professionals toolbox wrapup gagan get connected quiztaking tips and techniques optional review google data analytics content about the data analysis process optional review google data analytics content about data strategy optional review google data analytics content about data governance
+
+business intelligence tools and techniques
+explore the bi process which involves engaging with stakeholders using tools to make the most of available data and applying the power of rapid monitoring to make smart business decisions in addition start building resources by enhancing your online presence developing strategies for networking and mentorship and creating a portfolio that will impress future hiring managers
+welcome to business intelligence stakeholders become an expert business intelligence communicator the value of nearrealtime monitoring focus lets get to network relationship building anita my path to bi jerrod the incredible value of mentorship wrapup optional review google data analytics content about stakeholders optional review google data analytics content about asking effective questions optional review google data analytics content about bias optional review google data analytics content about creating a resume
+
+context is crucial for purposeful insights
+consider the importance of context from a bi perspective explore data limitations including how to address constant changes and access bigpicture insights in a timely manner also discover strategies that bi professionals use to anticipate and overcome these limitations finally develop an understanding of how context influences metrics
+welcome to reexamine the importance of context data availability in a world of constant change meghna beware of bias meaningful metrics wrapup optional review google data analytics content about data integrity
+
+endofcourse
+finally complete an endofcourse the is an to apply the and knowledge you developed during this in a workplace scenario for this prepare planning documents and solve a business problem using bi
+welcome to patrick be a candidate of choice introduction to your endofcourse endofcourse review wrapup
+</DOC>
+

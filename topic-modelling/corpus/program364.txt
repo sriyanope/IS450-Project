@@ -1,0 +1,111 @@
+<DOC>
+think like a cfo
+the think like a cfo will help you the language of finance gain a firm understanding in accountability operational finance and corporate financeby the end of the know what questions to ask and how to fit the different pieces together in order to develop a diagnosis and action plan to resolve a companys financing dilemmas have gain the necessary to understand basic concepts and feel comfortable reading interpreting and discussing financial statements for decision making and understand the hey financial issues related to companies investors and the interaction between them in the capital marketswhen you complete the be able to better understand both business financial problems to make better decisions and your own personal financial decisionsapplied projectlearners will need to complete a quiz of questions related to principles of accountability operational finance and corporate finance essentials additionally the students will have to prepare a cash flow statement before responding to the quiz please make sure that you review all the essential concepts and materials showed through the courses that conform the specializacion need to reach a of correct responses in order to be able to get the
+</DOC>
+
+<DOC>
+accounting principles of financial accounting
+financial accounting is often called the language of business it is the language that managers use to communicate the firms financial and economic information to external parties such as shareholders and creditors nobody working in business can afford financial illiteracy whether you run your own business as a manager or are just starting your you want to understand financial information and be able to interact with accountants controllers and financial managers you want to talk business this will provide you with the accounting languages essentials upon completion you should be able to read and interpret financial statements for business diagnosis and decisionmaking more importantly possess the conceptual base to keep more sophisticated accounting and finance on your own do not forget that as with any other language becoming proficient with accounting requires constant practice
+
+overview introduction to accounting the balance sheet
+welcome before you start todays please have a look at the syllabus first session ill give you an overview of what accounting is all about and why its important to have a basic proficiency language in addition ill introduce one of the most important financial reports the balance sheet and a practical realworld case so you can put theory into practice objectives to gain insight into the essence of accounting and become familiar with the balance sheet and its purpose
+introduction welcome to the accounting the language of business practice case the campus bookstore i practice case the campus bookstore ii accounting for our first transactions accounting for more transactions explaining the balance sheet defining an asset defining a liability recap
+
+the income statement
+now that you are familiar with the balance sheet in two well how to account for a variety of transactions in addition ill introduce you to another key financial report the income statement objectives to be able to recognize a broader range of transactions on the balance sheet and to become familiar with the income statement
+introduction to recap of purchasing more inventory sales and cost of goods sold selling general and administrative expenses some collections and payments of cash depreciation and amortization interest from bank loan and taxes preparing the balance sheet introducing the income statement recap of and conclusions
+
+the cash flow statement
+now that you have a good grasp of the balance sheet and income statement ill help you master how to recognize the transactions we went over in two ill also introduce a third financial report the cash flow statement and discuss liquidity objectives to understand the difference between liquidity and profitability become familiar with taccounts and gain insight into the purpose of the cash flow report
+introduction to recap of taccounts and journal entries setting up taccounts for the campus bookstore sales cost of goods sold collections from customers and payment to suppliers other operating costs transactions with noncurrent assets bank loans and interest taxes closing entries and payments of dividends preparing the balance sheet preparing the income statement introducing the cash flow statement i introducing the cash flow statement ii recap of and conclusions
+
+accrual accounting
+by using accrual accounting we can measure performance when a financial transaction takes place even if no cash has actually changed hands final session well discuss the difference between accrual and cash accounting and also read and interpret a real enterprises financial statements objectives by the end of the session be able to handle numerous transactions for the purposes of financial reporting and understand the advantages of accrual accounting
+introduction to recap of accrual accounting vs cash accounting measuring performance with accrual accounting a few examples prepaid insurance accrued interest and advances from customers performance evolution of the campus bookstore i performance evolution of the campus bookstore ii reading and interpreting real financial statements i reading and interpreting real financial statements ii advanced topics you can explore on your own conclusions
+</DOC>
+
+<DOC>
+corporate finance essentials
+corporate finance essentials will enable you to understand key financial issues related to companies investors and the interaction between them in the capital markets by the end of this you should be able to understand most of what you read in the financial press and use the essential financial vocabulary of companies and finance professionals
+
+overview
+
+
+risk and return
+welcome to session session we will discuss some basic but essential financial concepts such as mean return volatility and beta we will also how to apply them in order to assess the performance of selected equity markets over the last decade the objective is to understand the basic essential and widely used financial concepts
+what is this all about periodic returns arithmetic and geometric mean returns evidence volatility beta a brief recap
+
+correlation and diversification
+to understand diversification an issue at the very heart of most investment decisions and the role that correlation plays in determining the gains from diversification
+recap on the previous session portfolio risk the correlation coefficient the importance of correlation diversification and correlation part diversification and correlation part diversification correlation and portfolios
+
+the capm and the cost of capital
+session we will discuss how companies assess their cost of debt their cost of equity and ultimately their cost of capital we will also discuss why this last concept is at the heart of many of the most important corporate decisions
+what is the cost of capital three ways to think about the cost of capital components and notation the debt tax shield the cost of debt the cost of equity the capm
+
+estimating the cost of capital an application
+session we will put to all the concepts discussed in the previous session by estimating the cost of capital of a company as usual when putting theory into practice a few complications arise and we will discuss how to deal with them
+recap on the previous session estimating the cost of capital starbucks estimating the cost of capital starbucks a few rounding comments
+
+evaluation
+session we will discuss how companies routinely decide whether or not to invest in we will discuss the two tools most widely used for this purpose npv and irr and apply them to the evaluation of an investment
+what is this all about introduction to the net present value npv the net present value npv the internal rate of return irr shortcomings of the irr evaluating an investment discount rates across countries or divisions discount rates over time
+
+corporate value creation
+session we will discuss eva a tool widely used to assess whether a company is creating or destroying value we will also put this tool into practice by estimating the eva of two companies
+corporate value creation growth and return on growth economic value added eva eva two examples eva levels versus eva changes brief wrap up
+
+final quiz
+
+</DOC>
+
+<DOC>
+corporate finance essentials ii
+this picks up where corporate finance essentials left addressing other corporatefinance issues not addressed in the previous such as market efficiency bonds stocks capital structure and dividend policy this will help you to understanding the concept of market efficiency get an overview in issues related to bonds such as type of bonds their return yield to maturity and default risk getting to know the valuation of stocks through the method of relative valuation multiples knowing what are the sources that financial companies use to obtain capital for their understanding two of the most critical decisions companies need to make whether to pay dividends and if so how much
+
+overview a look back a look ahead to corporate finance essentials
+first we will first summarize the most important messages of all the topics discussed in corporate finance essentials and then introduce the topics we will discuss followup
+professors biography introduction risk and return correlation and diversification the capm and the cost of capital estimating the cost of capital evaluation corporate value creation a look ahead to corporate finance essentials ii
+
+market efficiency
+session we will discuss several issues related to the bedrock concept of market efficiency one of the cornerstones of modern finance including its meaning and important implications for investors
+market efficiency factors determining market efficiency a myth levels of efficiency fundamental and technical analysis four important points beating the market investing the bottom line
+
+bonds
+in the third session we will discuss some introductory issues related to bonds such as terminology issuers and types of bonds as well as their return yield to maturity and default risk including a brief discussion of other sources of risk
+bonds introduction bond issuers and bond types a simple example valuation valuation case study the yield to maturity the yield to maturity case study risk default risk risk other sources of bond risk the bottom line
+
+stocks
+in the fourth session we will discuss the valuation of stocks through the method of relative valuation multiples including the most widelyused multiples and the issues an analyst needs to deal with in order to use multiples properly for valuation
+the basics multiples two critical issues multiples the pe ratio multiples benchmarks multiples the critical question multiples the peg ratio case study part case study part the bottom line
+
+capital structure
+in the fifth session we will discuss the sources of financing companies use to obtain capital for their a quantitative way to determine the optimal mix of debt and equity and some relevant qualitative variables
+capital structure the basics debt ratios and required returns case study reflections two final points the bottom line
+
+dividend policy
+in the sixth session we will discuss two critical decisions all companies need to make whether to pay dividends and if so how much we will also discuss the variables that must be considered when deciding a dividend policy
+dividend policy the basics relevant variables environment relevant variables clienteles and growth relevant variables smoothing relevant variables signals and taxes share buybacks the bottom line corporate finance essentials ii wrap up
+</DOC>
+
+<DOC>
+finance for managers
+when it comes to numbers there is always more than meets the eye in operational finance how to read the story that the balance sheet and income statement tells about the companys operations the insights you gain from this financial story will then become a tool for shortterm decisionmaking at the top management level relating to current assets current liabilities and the management of working capital finally by the end of the understand the financial consequences of managerial decisions on operations marketing etc
+
+overview
+welcome to operational finance finance for managers the basics of operational finance to help you make sound financial decision or to run a robust business before you get started with this weeks content please have a look at the syllabus first well discuss what operational finance is all about by looking at a business case what do the numbers on the balance sheet and pl statement tell us about its performance and future prospects if you were a bank would you approve a half million euro loan for this business why or why not objective to get an overview of operational finance and the types of analyses necessary to develop solid financing decisions
+welcome to the intro operational finance outline introduction operational finance polypanel case what to do polypanel case what to do continued business analysis part sales business analysis part sales continued business analysis part strategy and management pl analysis part sales and gross margin pl analysis part sales and gross margin continued pl analysis part opex ebitda and financial results pl analysis part opex ebitda and financial results continued what is a balance sheet polypanels balance sheet polypanels balance sheet continued brief recap
+
+operational ratios and forecasting
+in we looked at polypanels balance sheet and pl statement in the balance sheet we noted that receivables increased from in to in we left off with the question is this difference due to an increase in sales or delays in payments from customers in we will introduce operational ratios the tools we need to disentangle both effects and understand whats going on below the surface we will also conduct a forecasting exercise of polypanel to understand how well it will be positioned to pay back a potential credit line in the future objectives by the end of the session understand the different types of operational ratios days of collection days of inventory and days of payables in order to analyze how well a business is performing also how to use forecasting to support financing decisions
+recap from recap from continued operational ratios days of collection operational ratios days of collection continued operational ratios days of inventory operational ratios days of inventory continued operational ratios days of payment operational ratios days of payment continued forecast of the pl forecast of the balance sheet theory forecast of the balance sheet theory continued forecast of the balance sheet polypanel forecast of the balance sheet polypanel continued brief recap
+
+diagnosis and action plan
+by now you have a pretty good grasp of the polypanel case and the main issues that could impact future financing its time to roll up our sleeves and out a diagnosis for these issues well discuss need of funds for operations nfo and working capital wc two concepts that will help us better understand the companys problems finally with a solid diagnosis we can develop an action plan that will lead to sustainable growth objectives by the end of the session have a framework for diagnosing a companys financial health also gain insights into how to develop an action plan to address its problems
+recap from recap from continued diagnosis i need of funds nfo and working capital wc need of funds nfo and working capital wc continued diagnosis ii action plan i action plan i continued action plan ii action plan ii continued sustainable growth sustainable growth continued brief recap
+
+negative nfo and dupont analysis
+final we will introduce the final pieces of the puzzle to give you a complete overview of operational finance well discuss tools like sensitivity analysis that will help you consider the potential of a decision given different variables session we will also look at other crucial concerns for the firm and its shareholders like sustainable growth and roe return on equity plus revisit nfo need of funds for operations and other topics objectives by the end of this session you should have a complete overview of the key aspects of operational finance also understand what tools financial professionals use in order to make decisions to strengthen a companys position
+conclusion congratulations recap from recap from part sensitivity analysis sensitivity analysis part an example of sustainable growth minimum cash and other elements in the nfo seasonal companies building up the roe part building up the roe part building up the roe part blind financial statements blind financial statements part blind financial statements part brief recap conclusions
+</DOC>
+

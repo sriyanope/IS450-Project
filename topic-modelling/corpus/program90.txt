@@ -1,0 +1,103 @@
+<DOC>
+data literacy
+this is intended for professionals seeking to develop a set for interpreting statistical results through four courses and a capstone cover descriptive statistics data visualization measurement regression modeling probability and uncertainty which will prepare you to interpret and critically evaluate a quantitative analysisapplied projectlearners will develop expertise in calculating and interpreting statistical quantities such as causal effects and measures of uncertainty learners will apply their knowledge to evaluating quantitative results and solving statistical problems for the capstone learners will select and critically evaluate a piece of published quantitative research
+</DOC>
+
+<DOC>
+data what it is what we can do with it
+this introduces students to data and statistics by the end of the students should be able to interpret descriptive statistics causal analyses and visualizations to draw meaningful insights the first introduces a framework for thinking about the various purposes of statistical analysis well talk about how analysts use data for descriptive causal and predictive inference well then cover how to develop a research study for causal analysis compute and interpret descriptive statistics and design effective visualizations the will help you to become a thoughtful and critical consumer of analytics if you are in a field that increasingly relies on datadriven decision making but you feel unequipped to interpret and evaluate data this will help you develop these fundamental tools of data literacy
+
+data and theories
+when most people think about using data they quickly jump to considering the best way to analyze it with statistical methods a good analysis however begins with a strong theoretical framework a good theory will guide the collection of data selection of appropriate statistical methods and interpretation of the results further the theory will determine what kind of research design is needed such as an observational study or experiment this will focus on the development of highquality theories that can be used to guide descriptive causal and predictive inference
+welcome statistical inference components of scientific research scientific theories
+
+the causality framework
+establishing causality is frequently the primary motivation for research policymakers often want to understand how the implementation of a new or other policy tool will affect an of interest will smaller class sizes increase student will the implementation of stricter background checks for gun buyers reduce gun violence biomedical researchers often want to understand whether a new medicine will improve a disease will taking a drug improve life expectancy or even cure the disease under study to answer these and similar questions analysts must develop research designs that are appropriate for causal inference estimating a causal effect is challenging yet it is essential to understand the impacts of a policy medicine or any other kind of intervention
+causal effects and the counterfactual randomized controlled trials observational studies overview observational studies strategies for estimating causal effects
+
+descriptive statistics
+over the next four lessons well begin to make sense of raw data staring at raw data such as a spreadsheet does not reveal much of anything about the key takeaway points consider a variable such as a survey question that asks about the level of discrimination in the us where the answer choices are a lot some only a little none at all and dont know reading the raw data does not tell you about the average respondent or the distribution of responses among the possible answer choices to better understand the shape of the distribution we can calculate measures of central tendency measures of spread and characterize the datas dispersion these statistics allow a researcher to draw some simple yet powerful initial conclusions about what the data tell us in a realworld sense
+why do we need descriptive statistics measures of central tendency measures of spread dispersion
+
+visualizations
+edward tufte a worldrenowned expert of data visualization once said there is no such thing as information overload there is only bad design when communicating the results of an analysis and particularly when trying to persuade an audience a picture is truly worth a thousand words a welldesigned graph can leverage either a small or large amount of data to make a convincing argument data visualizations highlight specific points about the underlying information and enable the viewer to draw insights that are nearly invisible when staring at the numbers alone in short to be a good at communicating with data you must become skilled at visualizing data
+elements of good visualizations bar plots histograms and box plots scatter plots line graphs and sidebyside bar graphs
+</DOC>
+
+<DOC>
+what are the chances probability and uncertainty in statistics
+this focuses on how analysts can measure and describe the confidence they have in their findings the begins with an overview of the key probability rules and concepts that govern the calculation of uncertainty measures well then apply these ideas to variables which are the building blocks of statistics and their associated probability distributions the second half of the will delve into the computation and interpretation of uncertainty well discuss how to conduct a hypothesis test using both test statistics and confidence intervals finally well consider the role of hypothesis testing in a regression context including what we can and cannot from the statistical significance of a coefficient by the end of the you should be able to discuss statistical findings in probabilistic terms and interpret the uncertainty of a particular estimate
+
+probability theory
+the monty hall problem is a classic brain teaser that highlights the often counterintuitive nature of probability the problem is typically stated as follows suppose youre a contestant on a game show and asked to select one of three doors for your prize behind one door is a car and behind the other two doors are goats you pick one door the host who knows whats behind each door opens another which has a goat he then gives you the option to stick with your selected door or switch to the other closed door what should you do the answer is that under these circumstances you should always switch there is a chance of winning the car if you switch and a chance of winning if you stick with your original selection most people however assume that there is only a chance of winning if you switch hopefully this brain teaser and content we cover will help you better approach probabilistic problems
+welcome probability definitions and axioms permutations and combinations conditional probability and independence
+
+random variables and distributions
+well dive into a topic youve likely encountered all of your adult life but perhaps have never explored from a statistical perspective the normal curve more generally well discuss probability distributions including their key features and relevance to quantifying uncertainty although studying probability theory can sometimes feel detached from applied statistics its valuable to develop a foundational understanding of probability to be able to critically evaluate statistical models an appreciation for probability and its counterintuitive nature will help you interpret the uncertainty of a statistical result as accurately as possible this is particularly important when the stakes are high and policy makers want to know whether or not to act based on a statistical finding
+random variables and probability distributions the normal distribution large sample theorems
+
+confidence intervals and hypothesis testing
+we will apply the concepts of probability random variables and distributions to measuring and interpreting uncertainty in particular well focus on statistical significance a relationship is statistically significant if it can be distinguished from zero suppose you want to examine the effect of exposure to negative campaign ads on ones likelihood of voting the independent variable is ones exposure to negative campaign ads and the dependent variable is ones likelihood of voting if we find that exposure to negative campaign ads has no relationship with the likelihood of voting we would say that this is a statistically insignificant relationship if instead we find that exposure to negative campaign ads leads to a decline in ones likelihood of voting we have uncovered a statistically significant ie nonzero relationship
+bias consistency and the standard error confidence intervals hypothesis testing overview hypothesis testing implementation
+
+quantifying uncertainty in regression analysis and polling
+final of the well cover how to measure the uncertainty of regression estimates and poll results it is often the case that a regression model will reveal a nonzero relationship but its important to determine whether that relationship sufficiently different from zero such that we can conclude that the relationship is statistically significant for example suppose a regression model reveals that a drug improves patient by is statistically different from a statistical significance test will answer this question this however will also discuss some of the drawbacks of relying a statistical significance for datadriven decision making while statistical significance is an important consideration it is not the only criterion one should use when determining whether to act on a set of a statistical findings
+testing regression coefficients pitfalls of hypothesis testing the margin of error in polls
+</DOC>
+
+<DOC>
+data literacy capstone evaluating research
+this is the final in the data literacy capstone apply the and knowledge you have acquired in the to the critical evaluation of an original quantitative analysis the will first require you to identify and read a piece of highquality original quantitative research on a topic of your choosing then interpret and evaluate the findings as well as the methodological approach as part of the also review other students submissions by the end of the you should be empowered to be a critical consumer and user of quantitative research
+
+capstone overview
+welcome to the capstone for the data literacy the capstone will allow you to apply the knowledge and youve acquired throughout the to the evaluation of a published piece of scholarly first ill present an overview of the purpose and components
+
+locating quality scholarship
+ill present information that will help you identify an article or report that evaluate for the capstone well explore sources that frequently publish highquality original quantitative research well also discuss the difference between primary and secondary research
+
+final paper submission
+welcome to the final in the data literacy complete and submit your capstone via the peer review system also review three submissions from other students in the i hope this has given you a set of tools and that empower you to be a critical consumer and user of quantitative research
+</DOC>
+
+<DOC>
+measurement turning concepts into data
+this provides a framework for how analysts can create and evaluate quantitative measures consider the many tricky concepts that are often of interest to analysts such as health educational attainment and trust in government this will explore various approaches for quantifying these concepts the begins with an overview of the different levels of measurement and ways to transform variables well then discuss how to construct and build a measurement model well next examine surveys as they are one of the most frequently used measurement tools as part of this discussion well cover survey sampling design and evaluation lastly well consider different ways to judge the quality of a measure such as by its level of reliability or validity by the end of this you should be able to develop and critically assess measures for concepts worth study after all a good analysis is built on good measures
+
+fundamentals of measurement
+scientists and social science researchers are tasked with measuring concepts of all types some are quantitative like blood pressure while others are qualitative like support for a policy proposal moreover some measures are at the individual level while others are aggregated this will focus on distinguishing between different types of measures different types of units and the advantages and disadvantages of these differences by the end of this i think better appreciate the amount of judgment and decision making that is required to perform a statistical analysis an in particular to create and select measure of the concepts you care about studying
+welcome to the levels of measurement transforming variables unit of analysis
+
+building a measurement model
+researchers are often tasked with analyzing concepts that are difficult to measure as an example think about the issue of immigration a full consideration of policies related to immigration requires analysts to measure concepts such as border security competition for jobs and employer needs while there is broad agreement in most governments about the need for border security there is disagreement about the extent to which their borders are currently secure how could you measure border security you could collect data on the amount of money spent on border security the number of border patrol agents the amount of physical barriers in place the apprehension rate of undocumented immigrants and the deportation rate of undocumented immigrants some of these measures are inputs while others are outputs all of these measures capture some aspect of border security which measure would you use why is this the most appropriate measure could you use a combination of measures this will explore these questions by examining the measurement process well discuss conceptualization operationalization and how to create full measurement models based on operationalized concepts
+conceptual definitions operational definitions measurement models
+
+survey research
+v o key a renowned public opinion scholar wrote that to speak with precision of public opinion is not unlike coming to grips with the holy ghost but although survey research is challenging it is an essential tool in both government and business survey research allows researchers to measure opinion and behavior in a wide range of areas build an understanding of how abstract concepts are perceived develop and test theories of opinion formation and formulate policy recommendations in the public sphere surveys give public officials insight into the views of their constituents and allow citizens to hold their governing officials accountable in the private sphere companies use surveys to measure their customers and levels of satisfaction with goods and services this will cover the three fundamental pillars of survey research sampling design and evaluation
+survey sampling question wording response categories question order survey evaluation
+
+evaluating measurement models
+after you have designed a measurement tool whether it is a survey test data collection technique or some other approach it is essential to evaluate that tool it is inevitable that a measurement tool will suffer from some degree of measurement error if the error is wellunderstood and not overwhelmingly large there are statistical techniques a researcher can use to address that error in an analysis this will introduce the concepts of systematic and random measurement error and explore how this error affects the reliability and validity of a measurement tool
+measurement error reliability validity
+</DOC>
+
+<DOC>
+quantifying relationships with regression models
+this will introduce you to the linear regression model which is a powerful tool that researchers can use to measure the relationship between multiple variables well begin by exploring the components of a bivariate regression model which estimates the relationship between an independent and dependent variable building on this foundation well then discuss how to create and interpret a multivariate model binary dependent variable model and interactive model well also consider how different types of variables such as categorical and dummy variables can be appropriately incorporated into a model overall well discuss some of the many different ways a regression model can be used for both descriptive and causal inference as well as the limitations of this analytical tool by the end of the you should be able to interpret and critically evaluate a multivariate regression analysis
+
+regression models what they are and why we need them
+while graphs are useful for visualizing relationships they dont provide precise measures of the relationships between variables suppose you want to determine how an of interest is expected to change if we change a related variable we need more than just a scatter plot to answer this question what should you do for example if you want to calculate whether air quality changes when vehicle emissions decline or if you want to calculate how consumer purchasing behavior changes if a new tax policy is implemented to calculate these predicted effects we can use a regression model this will first introduce correlation as an initial means of measuring the relationship between two variables the will then discuss prediction error as a framework for evaluating the accuracy of estimates finally the will introduce the linear regression model which is a powerful tool we can use to develop precise measures of how variables are related to each other
+welcome correlation prediction error introducing the linear regression model interpreting regression models
+
+fitting and evaluating a bivariate regression model
+now that youve got a handle on the basics of regression analysis the next step is to consider how to evaluate and modify a basic regression model this will introduce you to a common measure of model fit and the three core assumptions of regression analysis in addition well explore the special circumstance of conducting a regression analysis with a binary aka dummy treatment variable dummy variables which take on two values are frequently used in statistics understanding how to use and interpret dummy variables provides a foundation for developing a multivariate regression model which well get to in the next
+model fit linear regression assumptions regression with a binary treatment variable
+
+multivariate regression models
+the bivariate regression model is an essential building block of statistics but it is usually insufficient in practice as a useful model for descriptive causal or predictive inference this is because there are usually multiple variables that impact a particular dynamic whether you are modeling political behavior environmental processes or drug treatment it is almost always necessary to account for multiple influences on an of interest this will introduce the multivariate model of regression analysis and explain the appropriate ways to interpret and evaluate the results from a multivariate analysis
+constructing and interpreting a multivariate model dummy variable sets linear vs nonlinear categorical variables multivariate model fit
+
+extensions of the multivariate model
+once youve mastered the ols multivariate model youre ready to about a wide array of regression modeling techniques remember researchers should always employ modeling tools that best enable them to answer the question at hand this will focus on two tools in particular interaction terms and models for binary dependent variables keep in mind however that there are numerous regression modeling tools that you can and implement based on the research question youre trying to answer after youve developed a solid understanding of regression basics you should feel capable of expanding this knowledge base as you move forward as a producer and consumer of analytics
+interaction terms introduction interacting a continuous and dummy variable interacting two continuous or two dummy variables linear probability model logit and probit models
+</DOC>
+

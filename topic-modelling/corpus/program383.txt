@@ -1,0 +1,81 @@
+<DOC>
+privacy fundamentals
+the privacy fundamentals introduces students to fundamental privacy concepts frameworks and lawsthis provides students with a foundational knowledge of important information privacy concepts and topics and introduces students to several privacyrelated frameworks guidance and standards used globally applied projectthere are no for this students will have an to validate their knowledge gained throughout each of the courses with practice and graded assessments at the end of each and for each practice and graded assessments are used to validate and demonstrate
+</DOC>
+
+<DOC>
+introduction to privacy part
+this will explore how to create a privacy including the dangers challenges and methods we will also explore concepts like privacy governance privacy frameworks and discuss existing legal standards and frameworks that can be utilized to build your privacy
+
+developing a privacy
+
+introduction to cipm stakeholders vision and alignment why invest in privacy data life cycle approach and management system model
+
+privacy governance
+
+privacy team and data governance models pitching privacy
+
+privacy frameworks
+
+principles and standards laws and regulations privacy management solutions
+
+legal jurisdiction and global data flows
+
+where is safe and why international transfers justifying transfers international transfers between the us and eu around the world
+</DOC>
+
+<DOC>
+introduction to privacy part
+part of the privacy fundamentals will cover data assessments documentation and privacy rights we will also explore different training methods including competency based training
+
+data assessments
+
+data inventory risk assessment privacy by design vendor assessments other assessments physical due diligence and attestation
+
+documentation
+
+types of documents management documentation
+
+privacy rights
+
+rights transparency rights subject access requests rights erasure rectification and objection rights automated decision making portability and complaints
+
+training and awareness
+
+training approach training and awareness methods
+</DOC>
+
+<DOC>
+fundamental privacy acts and laws
+path we will explore the us federal government branch and information privacy we will also cover us healthcare privacy related laws and privacy compliance including hipaa hitech gina and more
+
+the us federal government branch and information privacy
+
+introduction to the us federal government branch and information privacy the privacy act of the computer matching and privacy protection act of egovernment act of section
+
+us healthcare privacy related laws and privacy compliance
+
+introduction to us healthcare privacy related laws healthcare insurance and portability accountability act of hipaa as amended healthcare information technology for economic and clinical act of hitech and the breach notification rule genetic information nondiscrimination act of gina hipaahitechgina omnibus final rule of healthcare privacy compliance management
+
+global data protection and information privacy laws
+
+introduction to several global data protection and information privacy laws eu general data protection regulation gdpr uk data protection act amended in brazil general data protection law lgpd canada personal information protection and electronic documents act of pipeda
+</DOC>
+
+<DOC>
+introduction to privacy part
+part of the privacy fundamentals explores information security and data protection and how to manage a security breach we will also take a look at continual improvement which includes understanding performance exploring metrics different audit methodologies and more
+
+information security and protection of data
+
+appropriate security security breaches and notifications iso standards
+
+managing a security breach
+
+incident detection incident assessment incident response from incidents
+
+continual improvement
+
+performance measurement continual improvement auditing data protection
+</DOC>
+

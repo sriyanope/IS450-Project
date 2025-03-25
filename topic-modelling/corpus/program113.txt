@@ -1,0 +1,81 @@
+<DOC>
+digital signal processing
+this provides a full in digital signal processing with a focus on audio processing and data transmission start from the basic concepts of discretetime signals and proceed to how to analyze data via the fourier transform how to manipulate data via digital filters and how to convert analog signals into digital format finally also discover how to implement realtime dsp algorithms on a generalpurpose microcontroller the solid theoretical bases provided by the four courses are complemented by applied examples in python in the form of jupyter notebooks exercises with solutions provide a wealth of examples in order to tackle the weekly homeworkapplied projectthe solid theoretical bases provided by the four courses are complemented by applied examples in python in the form of jupyter notebooks exercises with solutions provide a wealth of examples in order to tackle the weekly homework this does not include a final you do not have to complete a final in order to complete the
+</DOC>
+
+<DOC>
+digital signal processing analog vs digital
+digital signal processing is the branch of engineering that in the space of just a few decades has enabled unprecedented levels of interpersonal communication and of ondemand entertainment by reworking the principles of electronics telecommunication and computer science into a unifying paradigm dsp is a the heart of the digital revolution that brought us cds dvds mp players mobile phones and countless other devices the goal for students of this will be to the fundamentals of digital signal processing from the ground up starting from the basic definition of a discretetime signal we will our way through fourier analysis filter design sampling interpolation and quantization to build a dsp toolset complete enough to analyze a practical communication system in detail handson examples and demonstration will be routinely used to close the gap between theory and practice to make the best of this class it is recommended that you are proficient in basic calculus and linear algebra several programming examples will be provided in the form of python notebooks but you can use your favorite programming language to test the algorithms described in the
+
+interpolation and sampling
+from continuous time to discrete time and vice versa
+a the continuoustime paradigm b continuoustime signal processing c bandlimited functions a polynomial interpolation b local interpolation c sinc interpolation a the spectrum of interpolated signals b the space of bandlimited functions c the sampling theorem signal of the day fukushima
+
+aliasing
+what happens when we sample continuoustime signals and problems we should anticipate
+a raw sampling b sinusoidal aliasing c aliasing for arbitrary spectra a sampling strategies b bandpass sampling
+
+multirate signal processing
+how to change the sampling rate entirely from the discretetime domain
+a upsampling b downsampling firbased sampling rate conversion
+
+ad and da conversion
+going from analog to digital and viceversa
+a quantization b clipping saturation and companding analogtodigital and digitaltoanalog converters a practical sampling and interpolation b oversampled da c oversampled ad mp compression signal of the day lehman brothers
+</DOC>
+
+<DOC>
+digital signal processing applications
+digital signal processing is the branch of engineering that in the space of just a few decades has enabled unprecedented levels of interpersonal communication and of ondemand entertainment by reworking the principles of electronics telecommunication and computer science into a unifying paradigm dsp is a the heart of the digital revolution that brought us cds dvds mp players mobile phones and countless other devices the goal for students of this will be to the fundamentals of digital signal processing from the ground up starting from the basic definition of a discretetime signal we will our way through fourier analysis filter design sampling interpolation and quantization to build a dsp toolset complete enough to analyze a practical communication system in detail handson examples and demonstration will be routinely used to close the gap between theory and practice to make the best of this class it is recommended that you are proficient in basic calculus and linear algebra several programming examples will be provided in the form of python notebooks but you can use your favorite programming language to test the algorithms described in the
+
+image processing
+image processing and the jpeg compression standard
+a notation and key concepts b image manipulations frequency analysis a d filters b classic filters for images a image compression b the jpeg compression algorithm signal of the day moire patterns
+
+digital communications and adsl
+digital communication systems voiceband modems and adsl
+a the success factors for digital communications b the analog channel constraints c the design problem a upsampling b fitting the transmitter spectrum c noise and probability of error d pam and qam a modulation and demodulation b design example c receiver design d delay compensation e adaptive equalization a adsl design b discrete multitone modulation
+
+realtime audio signal processing
+realtime audio signal processing on a nucleo microcontroller
+breakout board assembly wiring up everything oscilloscope overview analog mode oscilloscope overview digital mode
+</DOC>
+
+<DOC>
+digital signal processing basic concepts and algorithms
+digital signal processing is the branch of engineering that in the space of just a few decades has enabled unprecedented levels of interpersonal communication and of ondemand entertainment by reworking the principles of electronics telecommunication and computer science into a unifying paradigm dsp is a the heart of the digital revolution that brought us cds dvds mp players mobile phones and countless other devices series of four courses the fundamentals of digital signal processing from the ground up starting from the basic definition of a discretetime signal we will our way through fourier analysis filter design sampling interpolation and quantization to build a dsp toolset complete enough to analyze a practical communication system in detail handson examples and demonstration will be routinely used to close the gap between theory and practice to make the best of this class it is recommended that you are proficient in basic calculus and linear algebra several programming examples will be provided in the form of python notebooks but you can use your favorite programming language to test the algorithms described in the
+
+digital signal processing the basics
+introduction to the notation and basics of digital signal processing
+what is digital signal processing discretetime signals a how your pc plays discretetime sounds b the karplusstrong algorithm complex exponentials signal of the day goethes temperature measurement
+
+signal processing meets vector space
+modeling signals as vectors in an appropriate vector space using linear algebra to express signal manipulations
+signal processing and vector spaces a vector space b signal spaces bases a subspacebased approximations b polynomial approximation signal of the day exoplanet hunting
+
+fourier analysis the basics
+the fundamental concepts behind the fourier transform and the frequency domain
+a the frequency domain b the dft as a change of basis a dft definition b examples of dft calculation c interpreting a dft plot a dft analysis b dft example analysis of musical instruments c dft synthesis d dft example tide prediction in venice e dft example mp compression a the shorttime fourier transform b the spectrogram c timefrequency tiling signal of the day the first manmade signal from outer space
+
+fourier analysis more advanced tools
+delving deeper in the world of fourier analysis
+a discrete fourier series b karplusstrong revisited and dfs a karplusstrong revisited and the dtft b existence and properties of the dtft c the dtft as a change of basis a sinusoidal modulation b tuning a guitar a relationships between transforms b zero padding the fast fourier transform signal of the day tristan chord
+</DOC>
+
+<DOC>
+digital signal processing filtering
+digital signal processing is the branch of engineering that in the space of just a few decades has enabled unprecedented levels of interpersonal communication and of ondemand entertainment by reworking the principles of electronics telecommunication and computer science into a unifying paradigm dsp is a the heart of the digital revolution that brought us cds dvds mp players mobile phones and countless other devices the goal for students of this will be to the fundamentals of digital signal processing from the ground up starting from the basic definition of a discretetime signal we will our way through fourier analysis filter design sampling interpolation and quantization to build a dsp toolset complete enough to analyze a practical communication system in detail handson examples and demonstration will be routinely used to close the gap between theory and practice to make the best of this class it is recommended that you are proficient in basic calculus and linear algebra several programming examples will be provided in the form of python notebooks but you can use your favorite programming language to test the algorithms described in the
+
+digital filters
+how digital filters in time and in frequency
+a linear timeinvariant filters b convolution a the moving average filter b the leaky integrator a filter classification in the time domain b filter stability a the convolution theorem b examples of frequency response a filter classification in the frequency domain b the ideal lowpass filter c ideal filters derived from the ideal lowpass filter d demodulation revisited sotd can one hear the shape of a room
+
+filter design
+how to choose and design the right filter using the ztransform and numerical tools
+a impulse truncation and the gibbs phenomenon b the window method c frequency sampling a the ztransform b region of convergence and stability intuitive iir designs a filter specifications b iir design c fir design d fractional delay and hilbert filter a implementation of digital filters b realtime processing signal of the day image resolution and space exploration
+
+stochastic and adaptive signal processing
+analyzing and processing random signals and designing filters that adapt to unknown inputs
+a random variables b stochastic processes c power spectral density d filtering random processes a optimal least squares b lpc speech coding c the lms filter d echo cancellation
+</DOC>
+

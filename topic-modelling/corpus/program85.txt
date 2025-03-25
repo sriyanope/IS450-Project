@@ -1,0 +1,82 @@
+<DOC>
+data analysis and visualization foundations
+deriving insights from data and communicating findings has become an increasingly important part of virtually every profession this prepares you for this datadriven transformation by teaching you the core principles of data analysis and visualization and by giving you the tools and handson practice to communicate the results of your data discoveries effectively be introduced to the modern data ecosystem the required to successfully start data analysis tasks by becoming familiar with spreadsheets like excel examine different data sets load them into the spreadsheet and employ techniques like summarization sorting filtering creating pivot tablescreating stunning visualizations is a critical part of communicating your data analysis results use excel spreadsheets to create the many different types of data visualizations such as line plots bar charts pie charts also create advanced visualizations such as treemaps scatter charts map charts then build interactive dashboards this is designed for learners interested in starting a in the field of data or business analytics as well as those in other professions who need basic data analysis and visualization to supplement their primary job tasksthis is ace recommendedwhen you complete you can earn up to college credits applied projectbuild your data analytics portfolio as you gain practical from producing artifacts in the interactive labs and throughout this each has a culminating to apply your newfound skillsin the first create visualizations to detect fraud by analyzing credit card datain the second import clean and analyze fleet vehicle inventory with excel pivot tablesin the third use car sales key performance indicator kpi data to create an interactive dashboard with stunning visualizations using excel and ibm cognos analyticsonly a modern web browser is required to complete these practical exercises and no need to download or install anything on your device
+</DOC>
+
+<DOC>
+introduction to data analytics
+ready to start a in data analysis but dont know where to begin this presents you with a gentle introduction to data analysis the role of a data analyst and the tools used job about the and responsibilities of a data analyst and hear from several data experts sharing their tips advice to start a this will help you to differentiate between the roles of data analysts data scientists and data engineers familiarize yourself with the data ecosystem alongside databases data warehouses data marts data lakes and data pipelines continue this exciting journey and discover big data platforms such as hadoop hive and spark by the end of this be able to understand the fundamentals of the data analysis process including gathering cleaning analyzing and sharing data and communicating your insights with the use of visualizations and dashboard tools this all comes together in the final where it will test your knowledge of the material and provide a realworld scenario of data analysis tasks this does not require any prior data analysis spreadsheet or computer science
+
+what is data analytics
+about the different types of data analysis and the key steps in a data analysis process gain an understanding of the different components of a modern data ecosystem and the role data engineers data analysts data scientists business analysts and business intelligence analysts play ecosystem also about the role responsibilities and skillsets required to be a data analyst and what a typical day in the life of a data analyst looks like
+introduction modern data ecosystem key players in the data ecosystem defining data analysis viewpoints what is data analytics responsibilities of a data analyst viewpoints qualities and to be a data analyst a day in the life of a data analyst viewpoints applications of data analytics
+
+the data ecosystem
+about the different types of data structures file formats sources of data and the languages data professionals use in their daytoday tasks gain an understanding of various types of data repositories such as databases data warehouses data marts data lakes and data pipelines in addition about the extract transform and load etl process which is used to extract transform and load data into data repositories gain a basic understanding of big data and big data processing tools such as hadoop hadoop distributed file system hdfs hive and spark
+overview of the data analyst ecosystem types of data understanding different types of file formats sources of data languages for data professionals overview of data repositories rdbms nosql data marts data lakes etl and data pipelines foundations of big data big data processing tools
+
+gathering and wrangling data
+about the process and steps involved in identifying gathering and importing data from disparate sources about the tasks involved in wrangling and cleaning data in order to make it ready for analysis in addition gain an understanding of the different tools that can be used for gathering importing wrangling and cleaning data along with some of their characteristics strengths limitations and applications
+identifying data for analysis data sources how to gather and import data what is data wrangling tools for data wrangling data cleaning viewpoints data preparation and reliability
+
+mining visualizing data and communicating results
+about the role of statistical analysis in mining and visualizing data about the various statistical and analytical tools and techniques you can use in order to gain a deeper understanding of your data these tools help you to understand the patterns trends and correlations that exist in data in addition about the various types of data visualizations that can help you communicate and tell a compelling story with your data also gain an understanding of the different tools that can be used for mining and visualizing data along with some of their characteristics strengths limitations and applications
+overview of statistical analysis what is data mining tools for data mining overview of communicating and sharing data analysis findings viewpoints storytelling in data analysis introduction to data visualization introduction to visualization and dashboarding software viewpoints visualization tools
+
+and data analysis in action
+about the different in the field of data analysis and the different paths that you can take for getting skilled as a data analyst at the end of the demonstrate your understanding of some of the basic tasks involved in gathering wrangling mining analyzing and visualizing data
+in data analysis viewpoints get into data profession viewpoints what do employers look for in a data analyst the many paths to data analysis viewpoints options for data professionals viewpoints advice for aspiring data analysts viewpoints women in data professions generative ai for data analytics
+</DOC>
+
+<DOC>
+data visualization and dashboards with excel and cognos
+how to create data visualizations and dashboards using spreadsheets and analytics tools this covers some of the first steps for telling a compelling story with your data using various types of charts and graphs the basics of visualizing data with excel and ibm cognos analytics without having to write any code start by creating simple charts in excel such as line pie and bar charts then create more advanced visualizations with treemaps scatter charts histograms filled map charts and sparklines next also with the excel pivotchart feature as well as assemble several visualizations in an excel dashboard this also teaches you how to use business intelligence bi tools like cognos analytics to create interactive dashboards by the end of the have an appreciation for the key role that data visualizations play in communicating your data analysis findings and the ability to effectively create them throughout this there will be numerous handson labs to help you develop practical for working with excel and cognos there is also a final in which create a set of data visualizations and an interactive dashboard to add to your portfolio which you can share with peers communities or prospective employers
+
+visualizing data using spreadsheets
+be introduced to the basics of charts and the excel functions that are used to create basic charts and pivot chart visualizations by how to manipulate these features and creating visualizations begin to understand the important role charts play in telling a datadriven story
+intro introduction to charts interview using visualizations to tell a data story creating basic charts in excel line pie and bar charts introduction to creating pivot tables in excel using the excel pivotchart feature
+
+creating visualizations and dashboards with spreadsheets
+about creating advanced charts and visualizations and about the basics of dashboarding and how to create a simple dashboard using a spreadsheet
+creating treemaps scatter charts and histograms creating filled map charts and sparklines introduction to dashboards interview using dashboards to present data results creating a simple dashboard using excel
+
+creating visualizations and dashboards with cognos analytics
+be introduced to another dashboarding solution called cognos analytics after registering with cognos analytics then explore the platform capabilities by creating visualizations building a simple dashboard and discovering its advanced features optionally you can explore google looker studio to create visualizations and build dashboards
+cognos analytics introduction and how to sign up navigating in cognos analytics creating a simple dashboard in cognos analytics advanced capabilities in cognos analytics dashboards
+
+final
+congratulations you have now completed the for this complete the final that will be graded by your peers in the first part of the final use provided sample data to create some visualizations using excel for the web in the second part of the final create some visualizations and add them to a dashboard using cognos analytics or google looker studio
+</DOC>
+
+<DOC>
+assessment for data analysis and visualization foundations
+this is the final step in the data analysis and visualization foundations it contains a graded final examination that covers content from three courses introduction to data analytics excel basics for data analysis and data visualization and dashboards with excel and cognos from the introduction to data analytics your understanding will be assessed on topics like the data ecosystem and the fundamentals of data analysis covering tools for data gathering and data mining moving on to the excel basics for data analysis expect questions focusing on the use of excel spreadsheets in data analytics proficiency in data cleansing and wrangling and in working with pivot tables finally from the data visualization and dashboards with excel and cognos demonstrate your knowledge of ibm cognos basics and your ability to use excel for effective data visualization
+
+assessment for data analysis and visualization foundations
+this will test your knowledge and the youve acquired so far this contains the graded final examination covering content from three courses introduction to data analytics excel basics for data analysis and data visualization and dashboards with excel and cognos
+</DOC>
+
+<DOC>
+excel basics for data analysis
+spreadsheet tools like excel are an essential tool for working with data whether for data analytics business marketing or research this is designed to give you a basic working knowledge of excel and how to use it for analyzing data this is suitable for those who are interested in pursuing a in data analysis or data science as well as anyone looking to use excel for data analysis in their own domain no prior with spreadsheets or coding is required all you need is a device with a modern web browser and the ability to create a microsoft account to access excel online at no cost if you have a desktop version of excel you can also easily follow along with the throughout this gain valuable working with data sets and spreadsheets well start by introducing you to spreadsheets like microsoft excel and google sheets and show you how to load data from multiple formats from there how to perform basic data wrangling and cleansing tasks using functions and expand your knowledge of data analysis through the use of filtering sorting and pivot tables there is a strong focus on practice and applied with each lab have the to manipulate data and gain handson using excel how to clean and format your data efficiently and convert it into a pivot table to make it more organized and readable the final will allow you to showcase your newly acquired data analysis by working with real data sets and spreadsheets by the end of this have a solid foundation in using excel for data analysis have worked with multiple data sets and spreadsheets and will have the and knowledge needed to effectively clean and analyze data without having to any code so lets get started
+
+introduction to data analysis using spreadsheets
+about the fundamentals of spreadsheet applications and be introduced to the excel interface and how to navigate your way around a worksheet and workbook
+introduction introduction to spreadsheets spreadsheet basics part spreadsheet basics part viewpoints using spreadsheets as a data analysis tool
+
+getting started with using excel spreadsheets
+how to perform basic spreadsheet tasks such as viewing entering and editing data and moving copying and filling data in addition about the fundamentals of formulas and about the most common functions used by a data analyst finally how to reference data in formulas
+viewing entering and editing data copying filling and formatting cells and data the basics of formulas intro to functions referencing data in formulas
+
+cleaning wrangling data using spreadsheets
+about the importance of data quality and how to import file data in to excel also about the fundamentals of data privacy in addition how to remove duplicate and inaccurate data and how to remove empty rows in your data finally how to deal with inconsistencies in your data and how to use the flash fill and text to columns features to help you manipulate and standardize your data
+introduction to data quality importing file data basics of data privacy viewpoints data quality and privacy removing duplicated or inaccurate data and empty rows dealing with inconsistencies in data more excel features for cleaning data viewpoints issues with data quality
+
+analyzing data using spreadsheets
+about the fundamentals of analyzing data using a spreadsheet and how to filter and sort data also how to use some of the most useful functions for a data analyst and how to use the vlookup and hlookup reference functions in addition how to create pivot tables in excel and use several pivot table features
+intro to analyzing data using spreadsheets filtering and sorting data in excel viewpoints filtering and sorting useful functions for data analysis using the vlookup and hlookup functions introduction to creating pivot tables in excel viewpoints pivot tables pivot table features
+
+final
+great you have now completed all four of this final be introduced to a handson lab where complete a graded for cleaning and preparing data and then analyzing data using an excel spreadsheet this final will be graded by your peers
+</DOC>
+

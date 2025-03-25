@@ -1,0 +1,88 @@
+<DOC>
+software testing and automation
+this is intented for beginning to intermediate software developers seeking to develop knowledge and in implementing testing techniques and tools in the development of their through four courses cover blackbox and whitebox testing automated testing web mobile testing and formal testing theory and techniques which will prepare to you to plan and perform effective testing of your softwareapplied projectlearners will build test plans test suites and test analysis reports learners will develop properties and assertions in code to facilitate automated test generation learners will also create preconditions for methods to facilitate formal proofs of correctness
+</DOC>
+
+<DOC>
+blackbox and whitebox testing
+after completing this learners will have an understanding of a variety of blackbox and whitebox testing techniques the learner will have put this understanding into practice creating effective sets of test cases called a test suite to properly exercise software for defect finding the learner will have examined requirements for testability created an oracle for automated testing assessed faultfinding effectiveness of test suites and generated inputs using a variety of techniquesafter completing this be able to evaluate testability of requirements define testable units within a specification apply blackbox test input selection methods specifically boundaryvalue analysis fuzzing and random selection and select the method mostsuited to achieve the given testing objective assess the faultfinding effectiveness of a functional test suite using mutation testing use category partitioning to develop automated functional tests with cucumber based on a given software specification create an expectedvalue oracle from a to use within the generated tests in order to do well you should have with an oop language like java have an ide installed eg eclipse and be familiar with testing terminology see intro to software testing within this we also expect a familiarity with the software development lifecycle and the context in which the testing stage sits this is primarily aimed at those learners interested in any of the following roles software engineer software engineer in test test automation engineer devops engineer software developer programmer computer enthusiast
+
+introduction
+we will about the basics of testing adequacy as well as the factors that influence testing effectiveness and how we quantify these metrics
+introduction to test selection and test adequacy what are test obligations factors influencing test effectiveness structure reachability and observability mutation testing revisited structure and fault finding test oracles oracles and fault finding
+
+black and whitebox techniques
+we will a variety of testing techniques that can be used in both whitebox and blackbox testing strategies
+partition testing combinatorial testing requirements coverage introduction to whitebox testing techniques code coverage metrics terminology code coverage metrics statement coverage code coverage metrics branch coverage code coverage metrics decision coverage code coverage metrics mcdc mcdc example code coverage metrics omcdc code coverage metrics boundary value mutation testing strategies test metrics and test suite effectiveness
+
+requirementsbased testing
+we focus on requirementsbased testing we review a set of requirements from a testing perspective and then move on to a more sophisticated way of writing requirements structured requirements using the tool cucumber
+writing requirements for testability bad requirements for testability writing test cases for requirements fixed requirements for testability introduction to user stories and behaviordriven development cucumber and gherkin an overview cucumber demo cucumber and gherkin how does it regular expressions regular expressions and testing with cucumber
+
+performing black and white box testing with cucumber
+we go further in using the cucumber toolset in order to implement a variety of testing strategies against two example
+mapping user stories the microwave example installing cucumber and configuring eclipse creating gherkin scenarios and step definitions using lists using data tables working with scenario outlines and examples cucumber and code coverage
+</DOC>
+
+<DOC>
+web and mobile testing with selenium
+modern applications that we build invariably have touchpoints with its users through webbased and mobile platforms users interact with the software through these interfaces and the those interfaces provide have a strong influence on the perceived quality of the software the pace at which modern applications deploy new versions and features call for careful prioritization of testing effort and rapid execution through automation techniques and methods for testing of such applications will be the focus of this we will cover key concepts relevant to testing of web and mobile platforms underlying techniques and the use of selenium as a framework for automating testing of such applications the learner will gain a solid foundation in web and mobile testing principles and the ability to use a testing framework to automate test execution
+
+introduction to web and mobile testing
+
+introduction to web and mobile testing challenges in web and mobile testing a brief introduction to xml and html using firefox developer tools introducing selenium using selenium from eclipse ide
+
+functional web testing
+programming
+web test planning minimal essential test strategy mets using mets for time budgeting representational state transfer rest the architecture of the web xpath introduction
+
+nonfunctional web testing
+the goal of this is to introduce nonfunctional testing in particular security testing concepts application of fuzz testing and performance testing with jmeter
+introduction to security testing security testing techniques owasp top ten risks overview owasp top ten security risks owasp top ten security risks fuzz testing introduction to performance testing introduction to jmeter
+
+mobile testing
+overview of differences between testing for web versus mobile openingclosing appvariety of actions that can we do shake squeeze gestures couple of intro diffs tools setting the environment up minutes walking through building a first set of tests setting up on emulatordevice
+</DOC>
+
+<DOC>
+introduction to automated analysis
+this introduces stateoftheart techniques for automated analysis automated analysis encompasses both approaches to automatically generate a very large number of tests to check whether programs meet requirements and also means by which it is possible to prove that software meets requirements and that it is free from certain commonlyoccurring defects such as dividebyzero overflowunderflow deadlock racecondition freedom bufferarray overflow uncaught exceptions and several other commonlyoccurring bugs that can lead to failures or security problems the learner will become familiar with the fundamental theory and applications of such approaches and apply a variety of automated analysis techniques on example programsafter completing this a learner will be able to understand the foundations of automated verification randomization and symbolic representations distinguish the strengths and weaknesses of random testing symbolic analysis static analysis and model checking use a variety of stateoftheart static analysis and automated testing tools for automated verification create executable requirements as an oracle suitable for automated testing and symbolic analysis understand how the choice of oracle affects faultfinding for automated analysis strategies use automated testing to achieve full mutation coverage create a test plan that utilizes both manuallywritten tests and automated tests towards maximizing rigor minimizing effort and time and minimizing test costs this is intended for learners interested in understanding the principles of automation and the application of tools for analysis and testing of software this knowledge would benefit several typical roles software engineer software engineer in test test automation engineer devops engineer software developer programmer computer enthusiast we expect that you have some familiarity with the software development lifecycle an understanding of the fundamentals of software testing similar to what is covered in the introduction to software testing and blackbox and whitebox testing courses familiarity with an objectoriented language such as java or ability to pickup java syntax quickly to write and modify code and willingness to use tools and ides are assumed
+
+introduction to automated analysis
+we will about a range of techniques for analysis of programs and methods to automate testing along the way we will how to specify properties of interest to check about a and capture assumptions about the environment for effective testing to reinforce some of the important concepts learned we will practice automated testing using effective tools on a concrete example
+introduction to automated analysis automated analysis techniques symbolic representations property specification environmental specification and assumptions parameterized unit testing using junitquickcheck environmental specifications in junitquickcheck optional installation of eclipse and gradle
+
+automated test generation
+the focus of this is to understand how various techniques can help us automate the generation of useful and numerous tests we will examine ways to specify and use properties of the system and the environment to guide the generation of test data
+overview of automated test generation automated test generation using random testing automated test generation using symbolic execution automated test generation using metaheuristic search propertybased testing for realtime systems biasing input values in junitquickcheck using generators to create complex inputs in junitquickcheck explanation of test harness and for microwave example
+
+static analysis
+the goal of this is to introduce the learner to the principles of statically analyzing programs understand how analysis techniques by looking at some example analyses and some good practices to follow when designing programs to enable the tools to help us detect and avoid defects the learner will gain an understanding of using static analysis tools by looking at one concrete tool
+what is static analysis dataflow analysis wellformedness properties designing programs for analyzability static analysis with infer
+
+effective automated verification
+this will examine how to use effective automation techniques for a variety of purposes such as performing effective regression testing discovering security vulnerabilities and monitoring software at runtime for critical properties
+automating regression testing automating security testing using fuzz testing runtime monitoring where automation fails using multiple methods effectively the evolution of software testing
+</DOC>
+
+<DOC>
+introduction to software testing
+after completing this have an understanding of the fundamental principles and processes of software testing have actively created test cases and run them using an automated testing tool being writing and recognizing good test cases including input data and expected outcomesafter completing this be able to describe the difference between verification and validation explain the goal of testing use appropriate test terminology in communication specifically test fixture logical test case concrete test case test script test oracle and fault describe the motivations for white and black box testing compare and contrast testfirst and testlast development techniques measure test adequacy using statement and branch coverage reason about the causes and acceptability of and poor coverage assess the faultfinding effectiveness of a functional test suite using mutation testing critique blackbox and whitebox testing describing the benefits and use of each within the greater development effort distinguish among the expectedvalue true heuristic consistency as used in ab regression and probability test oracles and select the one bestsuited to the testing objective craft unit and integration test cases to detect defects within code and automate these tests using junit to achieve this students will employ test doubles to support their tests including stubs for state verification and mocks for behavioral verification httpsmartinfowlercomarticlesmocksarentstubshtml this is primarily aimed at those learners interested in any of the following roles software engineer software engineer in test test automation engineer devops engineer software developer programmer computer enthusiast we expect that you should have an understanding of the java programming language or any similar objectoriented language and the ability to pick up java syntax quickly and some knowledge of the software development lifecycle
+
+introduction
+be introduced to the basics of testing especially the variety of terminology to be used through the rest of the
+welcome to the software testing and automation introduction why is software testing challenging what is a test automation using a test framework automation writing junit tests
+
+testing foundations
+investigate a variety of testing principles models of testing and types of systematic testing strategies
+dependability definitions testing principles testing principles where testing principles how the v model of software development validation and verification in the v model structural testing mutation testing
+
+testing in the software development lifecycle
+about the social aspects of testing we will about test plans testing status reports and defect reporting
+what is a test plan importance of a good test plan stages of software testing process test status reports riskbased test planning software defect reports software defect reports analysis software defect reports reporting software defect reports report content software defect reports track retest and close
+
+writing good unit tests
+about writing unit tests and gain practice in writing these tests through three coding each with additional testing sophistication
+test doubles introduction test doubles input test doubles output assessing adequacy and code coverage analysis with jacoco flakey tests and how to avoid them
+</DOC>
+

@@ -1,0 +1,109 @@
+<DOC>
+clinical trials operations
+this is designed for individuals and teams that will be running or interacting with clinical trials in four courses learners will develop insights and build the they need to design manage and monitor clinical trials as well as analyze document and communicate the results learners will also best practices regarding ethics safety participant recruitment regulatory compliance and reporting standards the core principles and of the will lay the foundation for a successful in the field applied projectlearners will demonstrate their mastery of including trial design data collection and management statistical monitoring trial ethics participant recruitment and retention data analysis communication of results and advanced operational techniques
+</DOC>
+
+<DOC>
+design and conduct of clinical trials
+how to design and carry out clinical trials each design choice has implications for the quality and validity of your results this provides you and your team with essential to evaluate options make good design choices and implement them within your trial to control for bias randomize participants mask treatments and identify errors develop and test hypotheses and define appropriate finally a trial without participants is no trial at all so the guiding principles and develop the essential to ethically and conscientiously recruit obtain consent from and retain trial participants
+
+bias control randomization and masking
+every trial design depends on the skilled application of core design elements about various approaches to bias control as well as simple restricted and adaptive approaches to trial participant randomization finally to protect the validity of your results with masking procedures that conceal treatments and as necessary from the study team participants and assessors
+bias randomization practical tips for randomization primer intentiontotreat analysis versus perprotocol analysis other ways to address confounding in clinical trials masking
+
+trial stages and designs
+each trial is conducted in stages so its critical that you and your team are prepared to make sound design choices for each stage that includes developing and evaluating research questions and hypotheses selecting among various design types and identifying errors
+trial stages hypotheses design components dose finding parallel design factorial design crossover design stepwedge design
+
+in clinical trials
+welldefined are the foundation of any good trial design the that you and your team establish at the beginning of the design process will influence other design decisions such as trial type randomization masking sample size and more
+introduction types of influence of on study design composite and surrogate
+
+ethical issues in clinical trials informed consent
+trials participants must be treated with the utmost respect and that begins with careful attention to informed consent about the personnel documents terminology and practices that go into planning and implementing ethically sound informed consent procedures within your trial
+introduction to informed consent consent document consent process
+
+recruitment and retention
+a trial without participants is no trial at all how to ethically and effectively recruit and retain the participants you need for your trial and strategically select the clinical sites where conduct your research
+principles and background design and site selection planning for recruitment realworld recruitment strategies monitoring and retention
+</DOC>
+
+<DOC>
+clinical trials analysis monitoring and presentation
+more advanced operational that you and your team need to run a successful clinical trial about the computation of sample size and how to develop a sample size calculation thats suitable for your trial design and measures also to use statistical methods to monitor your trial for safety integrity and efficacy next how to report the results from your clinical trials through both journal articles and data monitoring reports finally well discuss the role of the analyst throughout the trial process plus a few additional topics such as simulations and adaptive designs
+
+clinical trial sample size
+sample size calculation in clinical trials refers to the process for determining how large a trial needs to be in order to have a reasonable expectation of detecting a difference between groups the end result of the sample size calculation should be an estimate of the number of observations
+definitions and introduction sampling and assumptions practicalities
+
+trial monitoring
+about trial monitoring which involves statistical methods to assess a trial while it is underway these methods are used to assess safety integrity efficacy recruitment data collection and data quality
+goals and responsibilities interim analyses safety versus efficacy data statistical monitoring
+
+reporting results from randomized clinical trials rcts
+skilled communication of your clinical trial results is critical to ensuring that your efforts have the intended impact the best practices for reporting results in both journal publications and in data monitoring reports
+journal articles nuts and bolts of journal articles tables and figures data monitoring reports for rcts
+
+analyzing trials
+analysts play an important role throughout the trial not just at the end about the analysts role including how the analyst contributes to the trial at every stage of the process
+role of the analyst statistical analysis plan analysis population analysis considerations types of analyses
+
+advanced topics
+about some advanced operational functions that should be in your trial teams toolkit including simulations adaptive designs and bayesian statistics
+simulations adaptive designs bayesian approaches
+</DOC>
+
+<DOC>
+clinical trials data management and quality assurance
+to collect and care for the data gathered during your trial and how to prevent mistakes and errors through quality assurance practices clinical trials generate an enormous amount of data so you and your team must plan carefully by choosing the right collection instruments systems and measures to protect the integrity of your trial data how to assemble clean and deidentify your datasets finally to find and correct deficiencies through performance monitoring manage treatment interventions and implement quality assurance protocols
+
+data collection instruments
+this covers the design and organization of data collection instruments to be used in a clinical trial a welldesigned data collection instrument is critically important to the success of a trial because it determines the way that the data are defined collected and organized a study without a welldesigned data collection instrument is likely to encounter otherwise avoidable problems
+definitions and introduction general principles design considerations data collection instrument dci and database interactions data collection instrument dci revisions other data collection instrument dci issues
+
+data management
+about data management in the context of clinical trials definitions and core concepts and explore a few different frequently used data management systems well look closely at excel and other spreadsheet programs because they are widely used and help illustrate broader data management principles also about data integrity which incorporates features of data security redundancy and preservation
+definitions and overview database systems excel external data data integrity
+
+data assembly and distribution
+data assembly involves preparing data for distribution to others the necessary steps for creating datasets for sharing well cover data freezes and data locking as well as cleaning deidentification sharing and standards that you and your team can use to make your data more useful
+data freeze and data lock data cleaning deidentification data sharing data standards
+
+performance monitoring
+how to conduct performance monitoring in clinical trials specifically well discuss a framework for monitoring clinical center performance and protocol adherence through all phases of the trial from startup through followup the will conclude with a brief overview of site visits an important part of a performance monitoring toolkit
+introduction to performance monitoring performance monitoring by trial stage site visits
+
+intervention management
+about the principles of managing treatment interventions theres a considerable amount of heterogeneity in clinical trials so a number of factors can influence how you deal with the intervention factors include the hypothesis the design whether it is an improved intervention and whether it is licensed or experimental also about different types of drug formulations and how they factor into masking protocols
+principles of management of treatment interventions masking interventions example asthma trial managing treatment supplies
+
+quality assurance
+about quality assurance which refers to the various measures that you and your team can take to help prevent mistakes or problems in your clinical trial these measures can differ throughout the stages of the trial so well discuss the specific context in which these measures should be used
+definitions and introduction trial design phase trial preparation phase trial execution phase trial conclusion phase conclusion
+</DOC>
+
+<DOC>
+clinical trials management and advanced operations
+about the more advanced elements of managing clinical trials from anticipating and planning for protocol events to conducting systematic reviews to synthesize evidence you and your study team need the to implement best practices throughout the trial process how to recognize and respond to problems and adverse events comply with regulations and participate in frameworks that promote transparency also how systematic review and metaanalysis is used to synthesize evidence from multiple sources finally how your research can benefit from the adoption and consistent use of standardized study documents
+
+protocol events
+protocol events are problems of varying magnitude that happen over the of a clinical trial they can affect patient safety data integrity or other aspects of the trial and need to be appropriately categorized and reported you and your team need to be prepared to recognize document and respond to every type of protocol event
+types of protocol events roles and responsibilities additional resources
+
+regulatory affairs and trial misconduct
+about regulatory affairs in clinical trials and how to avoid trial misconduct which is handled differently from protocol events trial investigators are held to federal and local standards in their study conduct and institutional review boards irbs along with federal agencies are in charge of enforcement the ramifications for trial investigators engaging in fraud or trial misconduct can result in loss of funding or even legal consequences so you and your team need to be aware of these expectations and plan for strict compliance throughout your trial
+ethical oversight of clinical trials federal ethical regulations productapproval agencies trial misconduct additional resources
+
+standardization transparency and research reproducibility
+well be discussing standardization of research practices transparency of study activities and research reproducibility standardization improves dissemination of results easing the possibility of selective reporting between trials and facilitating a complete view of the full body of evidence standards for research practice enable study replication allowing other investigators to duplicate your results for verification purposes transparency allows for effective adjudication by journal editors and others who might wish to review your study data finally protocol development and trial registries hold the investigators to the they prespecified in their protocol development
+international council for harmonisation consort spirit and trial registration additional resources
+
+evidence synthesis introduction to systematic reviews and metaanalysis
+about addressing a clinical trial question of interest by synthesizing evidence from various trials a systematic review focuses on a specific question and systematic reviewers use explicit transparent and replicable scientific methods to identify select appraise and summarize similar but separate studies metaanalysis is an optional component of systematic reviews that allows quantitative assessments of from similar trials
+systematic reviews steps in the systematic review process formulating questions for systematic reviews searching for and selecting studies data abstraction and risk of bias assessment data analysis and synthesis
+
+study documents
+about the standardized study documents used in a clinical trial including the types of documents and why theyre used also best practices for creating study documents and the principles for maintaining and managing them
+overview types of study document regulatory study documents study documents related to design and implementation participantfacing study documents datarelated study documents investigational product laboratory information monitoring staffing and training closeout other documentation closing
+</DOC>
+

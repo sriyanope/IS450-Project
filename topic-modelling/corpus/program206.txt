@@ -1,0 +1,166 @@
+<DOC>
+interaction design
+how to design technologies that bring people joy rather than frustration how to generate design ideas techniques for quickly prototyping them and how to use prototypes to get feedback from other stakeholders like your teammates clients and users also principles of visual design perception and cognition that inform effective interaction design
+</DOC>
+
+<DOC>
+user research prototyping
+what makes for a great user how can you consistently design that well are easy to use and people want to use this will teach you the core process of design and how to effectively evaluate your with the people for whom you are designing fundamental methods of design research that will enable you to effectively understand people the sequences of their actions and the context in which they through the practical techniques for making sense of what you see and transform your observations into meaningful actionable insights and unique areas for design also explore how to generate ideas in response to the identified and methods for making your ideas tangible by answering specific questions and refining your concepts move closer to making your ideas real well use cases from a variety of industries including health education transportation finance and beyond to illustrate how these methods across different domains good luck and we hope you enjoy the
+
+design research
+our begins with the first step for generating great user understanding what people do think say and feel how to keep an open mind while more about how peoples needs goals values play out in their daytoday lives and their hopes for the future consider the different activities they do in what order and the larger systems in which they interact start by generating lists of questions and move through different research methods to answer your specific questions to illustrate these research methods the lessons share several examples from real design across a variety of fields what i hope take away from this is the importance and thrill of going out to talk with and from people when and where they do their everyday activities rather than basing your designs on assumptions through these techniques gain a new perspective on the problem and identify for creating a meaningful and accessible design
+the interaction design introducing elizabeth gerber who what where when and how people who what where when and how people pt michael chapman of ideo on interviewing
+
+ideation
+once youve identified an area how do you generate great ideas the thrills and challenges of ideation well start with the two common pitfalls to generating good ideas fixation and judgment we discuss rules to follow including getting every idea out regardless of whether its good or bad and techniques for building on ideas through concrete examples taken from the field well cover five popular ideation techniques that designers use when they have a problem they want to solve well also discuss who to include in the brainstorming process and why well conclude with a discussion of how to choose which ideas to pursue and which ones to leave on the table we hope take away a newfound appreciation for all of the different ways you can generate ideas within an area and how different techniques and configurations will influence the types of ideas you generate
+
+synthesis
+after youve collected all of this new and exciting information what do you do with it how do you aggregate the data find connections and tensions move from what people say to what it means evaluate its usability how to make sense of the rich data you collected and how to turn it into actionable insights that will lead to meaningful new well start by looking at how to organize all of the data and photos youve collected and then well discuss four common synthesis techniques that designers use personas journey maps diagramming and the x matrix after making sense of the data be able to identify clear areas for design including a focus stakeholder a need and an actionable insight with each technique ill share a real world application so you can get a sense of how designers use these tools by the end of the lesson i hope feel confident in your ability to take lots of disparate bits of data and turn them into an actionable area for design
+
+prototyping
+after youve gone through the ideation process how do you make your ideas tangible so that you can test them with others and answer critical questions necessary for pushing your idea forward to help you make ideas real our final lesson will introduce you to the rules of prototyping including building ideas quickly making a lot of prototypes and providing only essential details well discuss questions want to ask when testing your idea with different people the importance of making many prototypes so as not to get attached to any one idea and so you can pick the parts that best for each idea through rapid iteration and testing more quickly get to a meaningful and accessible that be proud of well conclude with four popular forms of prototyping including storyboards roleplays walkthroughs and touchpoints all forms of prototyping you can do with materials you can find around your home no coding needed what i hope take away from this lesson is a love of making ideas tangible to answer specific questions and how different forms of prototyping will influence the questions you can answer so we can take all of those ideas written on sticky notes and make them real
+</DOC>
+
+<DOC>
+interaction design capstone
+apply the you learned during the sequence of courses from needfinding to visual design as you redesign a new interface service or product for your interaction design capstone were working with some exciting design teams in silicon valley across multiple industries to develop realworld design challenges for this final upon completion have a polished capstone you can share in your design portfolio to highlight your and document your design process
+
+design thinking capstone
+welcome to the interaction design capstone
+welcome by scott mike from instagram hq scott klemmer mike krieger in conversation at instagram hq your mission
+</DOC>
+
+<DOC>
+social computing
+people are social creatures and the modern internet reflects that technology has made collaboration at a distance possible in new ways that present their own set of challenges this will introduce you to the major challenges and for creating online communities what does the future hold how social computing can create collaboration that go beyond whats possible face to face
+
+connecting people through technology
+when you think of social media you might think of a popular social network like facebook twitter or linkedin these are indeed powerful but the universe of social media is much larger both online and off most everything we do has a social component that is mediated by some technology after all technologies have been helping people communicate since long before your favorite curlyhaired ceo dropped out of college about different types of social software how to think about physical collaboration and digital collaboration using the same framework and what the challenges to success for collaborative software are
+the interaction design introduction to social computing what makes social computing hard
+
+challenges of collaboration online
+in our alwayson pervasively connected world it can seem as if space and distance dont matter anymore indeed more and more organizations are outsourcing around the globe andor opening satellite locations but being instantly reachable from anywhere in the world isnt the same as being there the ways that distance does and doesnt matter how to design for this reality and how to create technologies that go beyond being there
+how can distance collaboration succeed questions for successful social media
+
+crowdsourcing
+it cant possibly can it slice up challenging problems into tiny pieces distribute them to people all over the planet and then gather their responses to piece together a solution both the possibilities and limits of crowdsourcing strategies for being able to use crowdsourcing successfully and even hear from the voice of a crowdworker about what makes it successful from a workers perspective to gain deeper intuitions get to try it out yourself in the
+crowdsourcing interview with a crowdworker
+</DOC>
+
+<DOC>
+designing running and analyzing experiments
+you may never be sure whether you have an effective user until you have tested it with users how to design usercentered experiments how to run such experiments and how to analyze data from these experiments in order to evaluate and validate user through realworld examples of experiments from the fields of ux ixd and hci understanding issues in experiment design and analysis analyze multiple data sets using recipes given to you in the r statistical programming language no prior programming is assumed or required but be required to read understand and modify code snippets provided to you by the end of the be able to knowledgeably design run and analyze your own experiments that give statistical weight to your designs
+
+basic experiment design concepts
+basic concepts relevant to the design and analysis of experiments including mean comparisons variance statistical significance practical significance sampling inclusion and exclusion criteria and informed consent also to think of an experiment in terms of usability its participants apparatus procedure and design analysis this covers lecture
+what basic experiment design concepts
+
+tests of proportions
+how to analyze user preferences or other tallies using tests of proportions also get up and running with r and rstudio topics covered include independent and dependent variables variable types exploratory data analysis pvalues asymptotic tests exact tests onesample tests twosample tests chisquare test gtest fishers exact test binomial test multinomial test post hoc tests and pairwise comparisons this covers lecture
+of a study of user preferences getting started with r and rstudio exploring data and a first test of proportions understanding and reporting your first statistical test exact tests asymptotic tests and the binomial test more onesample tests of proportions twosample tests of proportions
+
+the ttest
+how to design and analyze a simple website ab test topics include measurement error independent variables as factors factor levels betweensubjects factors withinsubjects factors dependent variables as responses response types balanced designs and how to report a ttest perform your first analysis of variance in the form of an independentsamples ttest this covers lecture
+experiment design concepts in a simple ab test analyzing a simple ab test with a ttest
+
+validity in design and analysis
+about how to ensure that your data is valid through the design of experiments and that your analyses are valid by understanding and testing for certain assumptions topics include how to achieve experimental control confounds ecological validity the three assumptions of anova data distributions residuals normality homoscedasticity parametric versus nonparametric tests the shapirowilk test the kolmogorovsmirnov test levenes test the brownforsythe test and the mannwhitney u test this covers lecture
+designing for experimental control data assumptions and distributions testing for anova assumptions mannwhitney a nonparametric ttest
+
+onefactor betweensubjects experiments
+about onefactor betweensubjects experiments the experiment examined will be a betweensubjects study of task completion time with various programming tools understand and analyze data from twolevel factors and threelevel factors using the independentsamples ttest mannwhitney u test oneway anova and kruskalwallis test how to report an ftest also understand omnibus tests and how they relate to post hoc pairwise comparisons with adjustments for multiple comparisons this covers lecture
+of a study for a oneway anova analyzing and reporting a oneway anova kruskalwallis a nonparametric oneway anova
+
+onefactor withinsubjects experiments
+about onefactor withinsubjects experiments also known as repeated measures designs the experiment examined will be a withinsubjects study of subjects searching for contacts in a smartphone contacts manager including the analysis of times errors and effort likerttype scale ratings counterbalancing strategies to avoid carryover effects including full counterbalancing latin squares and balanced latin squares understand and analyze data from twolevel factors and threelevel factors using the pairedsamples ttest wilcoxon signedrank test oneway repeated measures anova and friedman test this covers lecture
+of a study for a oneway repeated measures anova counterbalancing repeated measures factors longformat and wideformat data tables the paired ttest and wilcoxon signedrank test analyzing a repeated measures anova and friedman test
+
+factorial experiment designs
+about experiments with multiple factors and factorial anovas the experiment examined will be text entry performance on different smartphone keyboards while sitting standing and walking topics include mixed factorial designs interaction effects factorial anovas and the aligned rank transform as a nonparametric factorial anova this covers lecture
+of a study for a factorial anova understanding interaction effects analyzing a factorial anova the art a nonparametric factorial anova
+
+generalizing the response
+about analyses for nonnormal or nonnumeric responses for betweensubjects experiments using generalized linear models glm we will revisit three previous experiments and analyze them using generalized models topics include a review of response distributions nominal logistic regression ordinal logistic regression and poisson regression this covers lecture
+introduction to generalized linear models analyzing three generalized linear models
+
+the power of mixed effects models
+about mixed effects models specifically linear mixed models lmm and generalized linear mixed models glmm we will revisit our prior experiment on text entry performance on smartphones but this time keeping every single measurement trial as part of the analysis the full set of analyses covered will also be reviewed this covers lecture
+introduction to mixed effects models analyzing a linear mixed model analyzing a generalized linear mixed model in review
+</DOC>
+
+<DOC>
+input and interaction
+relevant fundamentals of human motor performance perception and cognition that inform effective interaction design use these models of how people to design more effective input and interaction techniques apply these to both traditional graphic and gestural interfaces
+
+input
+theres more to interfaces than whats on the screen while often overlooked input deserves to be on equal footing with its more popular sibling output also input is a rare case where we can model user behavior mathematically how good input is more than just preference trace input from the fingertip to the screen and think about the diversity of possible input devices and their relative merits
+the interaction design modeling human input from fingers to screen character study
+
+search navigation
+we live in an informationrich world consequently the hardest part of interaction is often finding what we want or finding something that we didnt know what to ask for from ecommerce to digital libraries good search design is central to humancomputer interaction in the st century
+designing effective search finding filtering and foraging dan russell director of search quality at google
+
+gestural interfaces
+the graphical user interface with windows icons menus and pointers wimp was a massive advance beyond the command line it also took years to go from research labs into peoples homes were in the midst of a new sea change now gestural interfaces can be even more direct and more natural they can also be even more frustrating how to tell the difference and design gestural interfaces that
+don norman introduces gestural interaction pt don norman introduces gestural interaction pt bimanual input
+</DOC>
+
+<DOC>
+humancentered design an introduction
+how to design technologies that bring people joy rather than frustration several techniques for rapidly prototyping such as wizard of oz prototyping and evaluating multiple interface alternatives and why rapid prototyping and comparative evaluation are essential to excellent interaction design how to conduct fieldwork with people to help you get design ideas how to make paper prototypes and lowfidelity mockups that are interactive and how to use these designs to get feedback from other stakeholders like your teammates clients and users armed with these designthinking strategies be able to do more creative humancentered design in any domain this is the first offered in the interaction design series browse through previous capstone for some inspiration here httpsmediumcomcapstoneprojectscapstoneprojectsabcdff
+
+introduction
+a brief introduction to the topics and goals of this interaction design
+the interaction design welcome human computer interaction the power of prototyping evaluating designs the birth of hci
+
+needfinding
+this and cover a really important topic where can you get good design ideas from ideas that help you create meaningful designs that have a real impact on real peoples lives of good ideas come from lots of places and wherever they come from great there are a few strategies ive found that are especially valuable and thats what we cover given our focus on real people we focus on going out watching what people do and talking to them check out the first describing participant observation combining observation with interviewing the second provides a powerful foundation for needfinding and brainstormingso what happens after youve observed a lot of stuff how do you connect the highlevel needs to concrete design ideas to help you bridge this gap this closes with a on creating design goals
+participant observation interviewing additional needfinding strategies creating design goals
+
+rapid prototyping wizard of oz prototyping
+this lectures introduce storyboarding and several strategies and media for rapid prototyping including paper wizard of oz prototyping and an important part of the creativity of a designer is to think about how you can rapidly prototype and get feedback on your ideas because its almost never the case that the first idea you have will be the best as a designer you can the most when youre creating and getting feedback on multiple alternatives your will nearly always benefit from thinking broadly to find the right design and then from lots of polish to get the design right prototyping is also a great way to achieve common ground across the design team and other stakeholders we begin with storyboards paper prototyping and mockups students often ask about the relationship between needfinding and prototyping how closely does one flow into the other ultimately the quality of your final design is the real measure and there are lots of ways to get there while most design benefits from prototypes directly informed by the needfinding process its not required this seeks to introduce you to doing humancentered design and walk you through one path that such an approach could take in both this and in real life you are welcome to revise your ideas as much as you like
+storyboards paper prototypes and mockups wizard of oz prototyping prototyping creating and comparing alternatives
+
+heuristic evaluation
+with this we turn our focus from brainstorming and prototyping to the concrete elements of interaction design we introduce ten key principles of good design like the importance of feedback and helping people recover from errors we call these heuristics watch the first here i hope find these heuristics practical and applicable to your both inside and outside class the lectures discuss these heuristics with a bunch of examples drawn from realworld designs the goal is to illustrate the many ways that designs can be successful or run into trouble while heuristic evaluations hes focus on issues that lead to improvement they can also identify areas we think show successful compliance with a heuristic
+why and how heuristics understanding heuristics action heuristics feedback watch two students do heuristic evaluation
+</DOC>
+
+<DOC>
+information design
+a blank canvas is full of possibility if you have an idea for a user how do you turn it into a beautiful and effective user interface this covers covers principles of visual design so that you can effectively organize and present information with your interfaces concrete strategies to create user interfaces including key lessons in typography information architecture layout color and more particular issues that arise in new device contexts such as mobile and responsive interfaces how to apply these design principles in a modern context of increasingly diverse form factors from tablets to walls to watches
+
+wireframes mockups
+so youre ready to lay out an interface dont jump into code just yet rapid prototypes help you figure out the look and feel of an interface quickly before you start implementation ill introduce both principles and software tools for effective pixel prototyping these rapid prototypes for communication within a design team and for getting buyin from stakeholders if you walk into any design studio likely see these fast prototypes adorning the walls now you can add your own to the mix
+the interaction design wireframing mockups
+
+flexible layout
+theres more than seven billion people on the planet and just about that many computing devices given that scale and diversity interface design cant be onesizefitsall well dive into the rationale and strategies for making designing interfaces more flexibly well talk about internationalizationin for you wonks and hxrsand the interplay between script direction and interface layout and well discuss responsive design having a family interface strategy that grows shrinks and changes to accommodate a range of device form factors
+responsive design internationalization in make a difference putting it all together
+
+new devices big data
+lecture how to design smart things visualization expert ben fry will discuss what it means to design with usability in mind
+designing smart things a conversation with visualization expert ben fry
+</DOC>
+
+<DOC>
+design principles an introduction
+what makes an interface intuitive how can i tell whether one design works better than another this will teach you fundamental principles of design and how to effectively evaluate your with users fundamental principles of visual design so that you can effectively organize and present information with your interfaces principles of perception and cognition that inform effective interaction design and how to perform and analyze controlled experiments online in many cases well use web design as the anchoring domain a lot of the examples will come from the web and well talk just a bit about web technologies in particular when we do so it will be to support the main goal of this which is helping you build humancentered design so that you have the principles and methods to create excellent interfaces with any technology
+
+welcome and overview
+welcome to the here are some helpful resources to guide you through this
+the interaction design welcome to the
+
+direct manipulation and representations
+our lecture begin with the major innovation of the graphical interface enabling people to perform input directly on top of output this directness makes interfaces easier to because it enables people to recognize familiar elements and continuous feedback makes interfaces easier to use encourages exploration and prevents errors to illustrate the benefits of direct manipulation in real interfaces the provide several examples of both particular designs and interface styles i find thats a lot more useful than just stating abstract principles now is a good time to remind everyone that i am not endorsing or rejecting any particular product organization or person what i am doing real people in the real world make real design decisions you can from this and ill discuss these concrete examples so you can gain real knowledge the rest of the will cover topics related to the importance of representations such as understanding a users mental model and helping people to distribute cognition i will show some examples of how representational differences can impact performance as you watch these think about how you have arranged or lamented representations in your everyday life maybe you put your keys by the door sunglasses on your hat or a postit on your laptop get a chance to delve into these examples in the
+direct manipulation mental models representation matters distributing cognition part distributing cognition part
+
+visual design and information design
+so far many examples in our have been physical i like physical examples because theyre often easier to understand and they durably express fundamental principles equipped with those fundamentals well now focus more on concrete issues in interaction design to help you flesh out your interactive prototypes this introduce visual and information design these are the nuts and bolts of user interfaces scale contrast pattern shape color typography and layout what i hope take away from these lectures is a newfound appreciation for how subtle changes visual variables can powerfully impact peoples of documents and interfaces dive into the first visual design lecture here visual design organizes the world of information as this lectures show that visual organization provides important cues yet the structure itself is often invisible
+visual design typography grids and alignment reading and navigating
+
+designing experiments
+after youve made a design how do you know whether it is good or if your team has a couple ideas it is considering how do you know which one is better rather than arguing throwing chairs or playing rochambeau we suggest getting your designs in front of real users to see how well they actually to enable you to do this our final of lectures will introduce you to designing running and analyzing experiments testing your ideas with people and using what you to make them better can often mean the difference between a flop and a hit usability testing also gives you a chance to flex your rapid prototyping muscles build several interfaces quickly try them out with people and use what you to revise them through repeated iteration and testing you can end up with a wonderfully polished interface for me the most exhilarating aspect of running experiments is the element of surprise nearly every time my students colleagues and i run a study we something that we never even thought to think of sometimes its a roadblock or bug other times its an unexpected new use of a system many great startups have emerged out of finding unexpected new uses for technology either way itll give you new fodder for design as in the prototyping lectures the evaluation lectures emphasize comparison testing multiple ideas in many ways design is choice and comparing multiple interfaces helps you make good choices more about designing studies here
+designing studies you can from assigning participants to conditions inperson experiments running web experiments running web experiments running web experiments comparing rates applying chisquared to ab testing
+</DOC>
+

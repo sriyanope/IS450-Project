@@ -1,0 +1,81 @@
+<DOC>
+fundamentals of flight mechanics
+how do planes take off how do they fly how do pilots maintain control of them and how high can airplanes fly get answers to all these questions and more with this exploring the fundamentals of flight mechanics how the laws of physics apply to airplanes and discover important concepts in aviation including lift drag and propulsionapplied projectin each learners are invited to complete exercises in the form of case studies to put into practice the they have learned these exercises are built around simulators allowing the manipulation of variables defined by the learner himself
+</DOC>
+
+<DOC>
+flight mechanics anemobarometry
+this focuses on the physics of the atmosphere and its consequences on speed and altitude measurementsat the end of this understand precisely the meaning of the speed and altitude indication available to the pilot of an airplane understand the difference between standard and actual atmosphere and be able to perform basic altitude and speed correction computations understand why jet airliners need to be pressurized or why a clogged pitot tube can mislead a pilot although some math equations are used from time to time to justify certain results this insists on curve shapes figures tables and you can efficiently follow it while skipping the equationsolving parts if you do not fancy them this is a part of the fundamentals of flight mechanics
+
+atmosphere
+this first is dedicated to the atmosphere that surrounds the airplane and allows it to fly and to the basis of flight physics we will focus on the environment in which the airplane evolves the atmosphere we will examine its physics to better understand the effect of altitude on pressure temperature or the speed of sound
+atmospheric physics hydrostatic equilibrium design of the standard atmosphere standard vs actual atmosphere
+
+speeds used in flight mechanics
+at the end of this second be able to explain why we are using various speeds in flight mechanics like calibrated airspeed true airspeed or equivalent airspeed and what is the precise definition for each of them
+aerodynamic forces speeds and anemometer
+
+practical the zp mach vc diagram
+to finish this we propose to manipulate some data to allow you to really understand the practical implications of all the concepts discussed
+
+general assessment
+final graded assessment check your knowledge and apply all the concepts covered in the
+</DOC>
+
+<DOC>
+flight mechanics the basis
+more than one century after the wright brothers first flight the flight still defy our intuition here how to name the different parts of the airplane and how to describe and quantify its geometry for that we need now to share a precise vocabulary to describe the airplanes movement and attitude in space and a refresher on basic general mechanic principles remind how newtons nd law allows you to determine what force must be applied on an apple or on an airplane to modify the magnitude and direction of its speed coming back on the concepts of kinetic energy and potential energy discover the very useful concept of total height and be able to explain how an airplane can quickly exchange speed for altitude while changes in total height are much slower in the end discover that only a very small number of forces apply on an airplane in flight and that be able to classify those that change its energy state and those that modify its trajectory discover the concept of load factor and understand why the pilot of a combat aircraft can feel a weight ninetime greater than his actual weight finally we will establish the lift and propulsion equations that form the basis of flight mechanics and be able to compute the lift and thrust necessary to follow a given trajectory at a given speed this is for anybody interested in more about how planes the physics of flying or flight mechanics it will be of particular interest to undergraduate students in aerospace engineering trainees as well as senior pilots journalists and professionals in the aeronautics sector although some mathematical formalism may be present sometimes it is always doubled by sketches figures and handsexplanations so that anybody can skip the formulas without losing the core understanding of the concepts no apples were harmed in the making of this this is only a foretaste of the mechanics of flight isaesupaero and eric poquillon will offer you other courses and the first in autumn initially three courses will be published to answer several questions can we fly as high as we want what is a stall why do some planes have propellers and others have jet engines is an airplane always stable how do you control an airplane following an engine failure all this and more will be covered series of flight mechanics courses this is a part of the fundamentals of flight mechanics
+
+anatomy of the plane
+along this first we want you to get acquainted to the airplane we will first how to name the different parts of the airplane and how to describe and quantify its geometry and we will see through an exercise that concepts that seem well defined like the surface of the wing wing surface can be in practice difficult to measure this part will allow us to share a common and precise vocabulary
+airplane components flight controls airplane geometry
+
+vocabulary and tools
+we need now to share a precise vocabulary to describe the airplanes movement and attitude in space and a refresher on basic general mechanics principles review how newtons second law allows you to determine what force must be applied on an apple or on an airplane to modify the magnitude and direction of its speed coming back on the concepts of kinetic energy and potential energy discover the very useful concept of total height and be able to explain how an airplane can quickly exchange speed for altitude while changes in total height are much slower to conclude we invite you on a tour of our full flight simulator pegasus pegase in french to see how clever use of those concepts in a headup display might allow you to conduct a perfect approach and landing without a single glance at your speed or altitude indicators
+attitude and speed newtons second lawnewtons law concept of energy and total path flight angle
+
+basis of flight mechanics
+its time to apply your knowledge to the airplane discover that only a very small number of forces apply on an airplane in flight and that you are able to classify those that change its energy state and those that modify its trajectory discover the concept of load factor and understand why the pilot of a combat aircraft can feel a weight ninetime greater than his actual weight come on board our dr light airplane not a combat airplane indeed with newtons apple to better understand what this load factor actually means finally establish the lift and propulsion equations that form the basis of flight mechanics and be able to compute the lift and thrust necessary to follow a given trajectory at a given speed no apples were harmed in the making of this
+forces applying on an airplane load factor load factor experimentation flight lift and propulsion equation climb and descent
+
+graded assessment for the
+final graded assessment check your knowledge and apply it to solve an actual flight dynamic problem how to fly a loop in a glider
+</DOC>
+
+<DOC>
+flight mechanics lift and trajectory
+understand the influence of the angle of attack and speed on the lift then we will focus on hazards and limitations like stall spiral dive or flutteryou will understand why stall phenomenon and mach number limit the maximum lift and altitude the airplane can achieve then you must understand what is flutter and why the altitude and speed of the airplane must be restricted to a safe domain in the end we will explain how to control the trajectory of the airplane and the relation with lift and load factor this is a part of the fundamentals of flight mechanics
+
+lift and angle of attack
+at the end of this understand the influence of the angle of attack and speed on the lift
+aerodynamic forces lift coefficent
+
+limitations stall flight envelope
+lets focus on hazards and limitations like stall spiral dive or flutter understand why stall phenomenon and mach number limit the maximum lift and altitude the airplane can achieve what is flutter and why the altitude and speed of the airplane must be restricted to a safe domain
+stall definition stall speed stall demonstration stall origin risk prevention altitude effect on speeds buffet onset lift ceiling operationnal speeds other limitations drawing the flight envelope
+
+controlling the trajectory
+as we know how to create lift lets use it now to actually control the trajectory we will first look at how to change our flight direction in the horizontal plane by doing a turn we will then look at the change in the vertical plane when we pull up or push over sometimes alteration of the trajectory is due to external factors like turbulence which may result in unwanted load factor spikes we will determine what we can do to reduce this nuisance
+trajectory bank angle and load factor control technique rate of turn practical analysing a turn in dr manoeuvering vertical gust
+
+and final assessment
+test your knowledge
+</DOC>
+
+<DOC>
+flight mechanics propulsive balance and energy
+this is dedicated to energy management ie speed and altitude control the various sources of drag are first described and modeled as well as thrust origin and evolution with speed and altitude using these models we can evaluate the propulsive balance and derive important concepts like flight regimes best climb speed or propulsion ceiling we take then a glance at cruise performances and the evolution of range with weight this is a part of the fundamentals of flight mechanics
+
+equation of propulsion
+first we will look at the physics at the origin of drag and thrust and derive basic models and representations like the drag polar
+drag expression the drag polar froudess thrust theory propeller devices types propulsion equation and energy exchanges
+
+flight regimes
+we will see here how the airspeed chosen to fly a stabilized phase of flight like climb final approach or cruise affects the behavior of the airplane and why certain speeds are optimal for a given phase
+drag variation with speed propulsion balance regimes definition and properties stability a reminder on climb and descent best climb angle propelling device types
+
+cruise performance
+our main subject here is the distance we can fly with a given payload and fuel quantity and how it relates with the design and operational characteristics of the airplane
+specific distance cruise altitude breguetleduc equation payload range diagram
+</DOC>
+

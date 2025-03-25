@@ -1,0 +1,162 @@
+<DOC>
+finanzas corporativas
+en este programa especializado revisars el entorno econmico de las finanzas emplears tcnicas matemticas financieras medirs variables macroeconmicas que afectan la administracin financiera para analizar el entorno competitivo como proyecto final evaluars proyectos de inversin considerando condiciones de certeza y baja incertidumbre applied projectlas finanzas corporativas son importantes en cualquier organizacin pues nos dan a conocer las necesidades de inversin y financiamiento de cualquier ente econmico son indispensables para que el administrador financiero tome decisiones correctas en las reas de operacin inversin y financiamiento para tal efecto requiere de una serie de herramientas que le permitan planear monitorear y controlar los recursos monetarios de una organizacinen este programa especializado desarrollars los conocimientos y habilidades financieras para la toma de decisiones de inversin y financiamiento en una situacin concreta que permitir el desarrollo de tu corporacin
+</DOC>
+
+<DOC>
+valuacin de empresas
+en el curso valuacin de empresas ofrecido por la unam el administrador financiero enfrentar una decisin financiera una vez que una empresa ha llegado al punto en que pueda expandirse y adquirir o fusionarse con otras empresas antes de tomar tal decisin el administrador financiero deber evaluar las ventajas y desventajas de una integracin horizontal o vertical por lo que la empresa deber valuar primero as misma y en segundo termino a la empresa objetivo con base en diferentes modelos como black and scholes valor econmico agregado eva generacin econmica operativa geo etc
+
+valuacin de empresas
+el participante mediante la solucin de microcasos y ejercicios evaluados por pares aprender a determinar el valor de una empresa mediante los mtodos revisados durante el curso
+
+valor financiero con base en los flujos netos histricos de efectivo y en los flujos netos futuros de efectivo
+en el mdulo revisaremos la forma de determinar el valor financiero con base en los flujos netos histricos de efectivo y en los flujos netos futuros de efectivo dos de los mtodos ms reconocidos por el mercado para valuar empresas
+flujos netos histricos de efectivo explicacin flujos netos histricos de efectivo aplicacin flujos netos futuros de efectivo explicacin flujos netos futuros de efectivo aplicacin
+
+valor de la empresa con base en el valor corregido en libros y con base en la utilidad neta y la utilidad de operacin histrica y futura
+en el mdulo revisaremos la forma de determinar el valor de la empresa con base en valor corregido en libros y con base en utilidad neta y utilidad de operacin histrica y futura
+valor corregido en libros utilidad neta y de operacin histrica explicacin y aplicacin utilidad neta y de operacin futura explicacin y aplicacin
+
+valor financiero futuro con base en el modelo black scholes y con base en el modelo de perpetuidad
+en el mdulo revisaremos la forma de determinar el valor financiero futuro con base en el modelo black scholes y con base en el modelo de perpetuidad
+modelo black scholes perpetuidad explicacin perpetuidad aplicacin
+
+valor de la empresa con base en el goodwill y con base en el mltiploprecioaccin
+en el mdulo revisaremos la forma de determinar el valor de la empresa con base en el goodwill y con base en el mltiploprecioaccin
+goodwill mltiploprecioaccin explicacin mltiploprecioaccin aplicacin
+
+valor de la empresa con base en el valor econmico agregado eva y con base en la generacin econmica operativa geo
+en el mdulo revisaremos la forma de determinar el valor de la empresa con base en el valor econmico agregado eva y con base en la generacin econmica operativa geo
+valor econmico agregado eva explicacin valor econmico agregado eva aplicacin generacin econmica operativa geo explicacin generacin econmica operativa geo aplicacin comentarios finales
+</DOC>
+
+<DOC>
+toma de decisiones financieras
+este es el ltimo curso del programa especializado de finanzas corporativas ofrecido por la unam en este el administrador financiero ser capaz de integrar todos los elementos aprendidos en los cinco cursos anteriores en un caso prctico que le permita tomar decisiones de inversin y financiamiento en una situacin simulada
+
+introduccin al curso
+en el sexto y ltimo curso del programa especializado en finanzas corporativas revisaremos los conceptos fundamentales que todo administrador financiero debe tener en cuenta en sus actividades diariasse presenta un caso prctico en el que se aplicarn las herramientas mtodo de anlisis y evaluacin a una operacin de adquisicin de activo fijo ya sea a travs de arrendamiento o financiamiento en dicho caso se deber tomar la decisin financiera ms viable aplicando los conocimientos adquiridos en los cinco cursos anteriores
+
+administracin financiera y su funcin en la empresa
+en el mdulo administracin financiera y su funcin en la empresa adems de definir las finanzas recordaremos el dilema que enfrenta el administrador financiero en la teora de agencia quines son los usuarios de la informacin financiera los estados financieros bsicos y las herramientas ms comunes para su anlisis e interpretacin
+resumen finanzas y estados financieros resumen gobierno corporativo resumen informacin financiera resumen razones financieras
+
+matemticas financieras
+recordars el inters simple descuento simple inters compuesto y descuento compuesto en operaciones de inversin y financiamiento as como a desarrollar tablas de amortizacin mediante anualidades vencidas con tasas variables pagos a capital y periodos de gracia aprenders a proyectar estados financieros que reflejen diferentes escenarios que afectan la informacin financiera
+resumen matemticas financieras parte resumen matemticas financieras parte proyecciones financieras parte proyecciones financieras parte proyecciones financieras caso
+
+evaluacin de inversiones en bienes de capital
+en este mdulo recordars cmo evaluar los bienes de capital dependiendo de la situacin econmica en la que se encuentre la empresa con sus proyectos de inversin aplicars mtodos como el valor presente neto tasa interna de retorno e ndice de rentabilidad a una operacin de adquisicin de activo fijo ya sea a travs de arrendamiento o financiamiento
+resumen indicadores econmicos resumen financiamiento resumen evaluacin econmica resumen estados financieros proyectados y proforma
+
+estructura de capital y poltica de dividendos
+gracias a este curso el administrador financiero tambin ser capaz de evaluar activos financieros o portafolios al considerar la relacin que existe entre riesgo y retorno bien a travs del modelo capital asset pricing model capm o del arbitrage pricing theory apt en este curso recordars qu es la estructura de capital los elementos que la integran y su importancia en la administracin financiera revisars los diferentes tipos de acciones y las implicaciones que conlleva la emisin de cada una de ellas
+resumen estructura de capital parte resumen estructura de capital parte
+
+valuacin de empresas
+en este mdulo aplicars los mtodos de valuacin de empresa considerando las alternativas de financiamiento y arrendamiento para decidir cul es la mejor alternativa en la adquisicin de un activo fijo para la empresa
+resumen valuacin parte resumen valuacin parte despedida
+</DOC>
+
+<DOC>
+administracin financiera y su funcin en la empresa
+las finanzas corporativas son importantes en cualquier organizacin pues nos dan a conocer las necesidades de inversin y financiamiento de cualquier ente econmico son indispensables para que el administrador financiero tome decisiones correctas en las reas de operacin inversin y financiamiento para tal efecto requiere de una serie de herramientas que le permitan planear monitorear y controlar los recursos monetarios de una organizacina lo largo de este curso el administrador financiero obtendr herramientas que le permitan analizar los estados financieros bsicos medir el desempeo de una organizacin presupuestar los bienes de capital estructurar el capital y establecer la poltica de dividendos as como valuar empresas a travs de diferentes mtodos en todo momento el administrador financiero ya sea principiante o experto deber tener en cuenta el dilema que surge de la teora de la agencia es por eso que en este curso se presenta la contrapropuesta del tambin llamado modelo anglosajn o financiero es decir es decir el modelo stakeholder o modelo de los interesados con esta ptica en mente el administrador financiero tendr un punto de vista adicional al tradicional paradigma de maximizacin de valor de los accionistas
+
+administracin financiera y su funcin en la empresa
+en el curso administracin financiera y su funcin en la empresa adems de definir las finanzas estudiaremos el dilema que enfrenta el administrador financiero en la teora de agencia tambin delimitaremos quines son los usuarios de la informacin financiera los estados financieros bsicos y las herramientas ms comunes para su anlisis e interpretacin
+
+administracin financiera y teora de agencia
+en este mdulo se definen las finanzas as como el mbito de actuacin del administrador financiero adicionalmente se identifican las causas que surgen del dilema de la teora de agencia que dan como resultado la premisa financiera de maximizacin del valor de los accionistas y de forma colateral se describe el modelo alternativo de los interesados en la organizacin o stakeholder
+definicin de finanzas modelos conductuales parte modelos conductuales parte
+
+la informacin financiera
+en este mdulo se aborda la informacin financiera su necesidad e importancia para la toma de decisiones los usuarios de la informacin financiera los estados financieros bsicos y la interrelacin que existe entre ellos
+la informacin financiera usuarios de la informacin financiera interrelacin de los estados financieros inversin y financiamiento
+
+medidas de desempeo
+en este mdulo profundizaremos en los estados financieros bsicos los conceptos fundamentales de la informacin que brindan y los rubros que los componen para posteriormente poder analizarlos con el mtodo de razones financieras en rubros como liquidez apalancamiento eficiencia rentabilidad y razones de bolsa
+anlisis de estados financieros razones de liquidez razones de apalancamiento razones de rentabilidad razones de eficiencia razones de bolsamercado
+
+gestin de desempeo
+en este mdulo se presentan diversas herramientas que sirven para medir el desempeo financiero no nicamente de la empresa sino del administrador financiero y que inciden directamente en la rentabilidad como el mtodo dupont adicionalmente se presentan herramientas como el punto de equilibrio operativo y el presupuesto como herramientas de planeacin y control financiero
+modelo dupont presupuesto y punto de equilibrio
+</DOC>
+
+<DOC>
+evaluacin de inversiones en bienes de capital
+en el curso presupuesto de largo plazo o de bienes de capital el administrador financiero aplicars los elementos del valor del dinero a travs del tiempo para poder proyectar los estados financieros a una fecha futura considerando las variables econmicas que pueden afectar un proyecto de inversin de igual forma sers capaz de calcular el valor presente neto la tasa interna de rendimiento como elementos primordiales para la evaluacin de los proyectos de inversin en bienes de capital de una empresa
+
+evaluacin de inversiones en bienes de capital
+el participante de este curso aprender a evaluar los bienes de capital dependiendo de la situacin econmica en la que se encuentre la empresa con sus proyectos de inversin y tomando como herramienta los conocimientos de mtodos de evaluacin econmica adems de saber emitir estados financieros proyectados
+
+proyecciones financieras
+en estas proyecciones encontramos el riesgo que puedan tener los pases de economas emergentes y las causas que pueden ocasionar que el mismo riesgo sea alto as como sus indicadores por ejemplo las tasas en este mdulo encontrars los conceptos de riesgos como el soberano las transferencias y el genrico conocers quin es el creador del embi y cul es su principal funcin con lo visto en este mdulo se deber entender qu es el embi los riesgos financieros que se pueden enfrentar en pases de economas emergentes y los posibles fenmenos econmicos existentes que pueden hacer que el riesgo sea alto
+criterios riesgo pas variables tipos de cambio
+
+evaluacin de bienes de capital
+en el mdulo ii revisaremos el tema evaluacin de bienes de capital as como las decisiones de financiamiento tanto internas como externas en el mdulo ii definiremos los bienes de capital as como las alternativas para su financiamiento analizaremos las fuentes de financiamiento clasificndolas como internas o externas
+bienes de capital decisiones de financiamiento tipos de crdito
+
+mtodos de valuacin
+en este tercer mdulo trabajaremos el tema de mtodos de valuacin van valor presente neto tir tasa interna de retorno ir ndice de rendimiento y trcp tasa de rendimiento contable promedio de cada uno de ellos se har un ejercicio de la forma en la que se obtiene el resultado a travs de frmulas y reglas de decisin para la aceptacin o el rechazo del proyecto de inversin
+valuacin de bienes de capital valor presente neto tasa interna de retorno ndice de rendimiento o rentabilidad
+
+estados financieros proyectados
+en el mdulo iv veremos el tema de estados financieros proyectados donde se har la especificacin de proyectados y proforma y se analizar un caso para su compresin
+</DOC>
+
+<DOC>
+matemticas financieras
+en el curso matemticas financieras se explica la relacin que tiene el dinero y su valor a travs del tiempo se abordan los temas de inters simple inters compuesto anualidades perpetuidades amortizaciones valor presente y valor futuro todos ellos elementos bsicos que el administrador financiero deber aplicar en los anlisis de opciones de inversin o financiamiento
+
+matemticas financieras
+las matemticas como ciencia en el contexto de las finanzas son un gran y valioso apoyo de aplicacin en los mercados financieros para determinar intereses montos y capital mediante las frmulas aplicadas de inters simple descuento simple inters compuesto descuento compuesto y anualidades as tambin es un gran apoyo para determinar el valor del dinero en el tiempo mediante las frmulas de valor futuro y valor presente en este curso revisaremos las frmulas de inters simple descuento simple inters compuesto descuento compuesto y anualidades aplicadas en la solucin de micro casos que se presentarn durante el desarrollo del mismo
+
+inters simple
+en el mdulo i revisaremos el tema de inters simple concepto frmulas y su aplicacin asimismo en este mdulo encontrars microcasos y actividades de pares que facilitarn el aprendizaje del tema el inters simple es aplicable a la inversin por ejemplo en instrumentos de inversin bancaria como pagars liquidables al vencimiento y en el financiamiento en un periodo de tiempo definido a una tasa de inters pactada
+qu es el inters simple cmo se determina el inters simple cules son las aplicaciones del inters simple
+
+descuento simple
+en el mdulo ii revisaremos el tema de descuento simple concepto frmulas y su aplicacin tambin vers microcasos y actividades de pares que facilitarn el aprendizaje el descuento simple es aplicable a la inversin por ejemplo en instrumentos financieros a descuentos y en el financiamiento aplicando una tasa de descuento al monto del crdito
+cmo se define el descuento simple cmo se calcula el descuento simple en qu operaciones se aplica el descuento simple
+
+inters compuesto
+en el mdulo iii revisaremos el tema de inters compuesto y valor futuro concepto frmulas y su aplicacin de igual manera habr microcasos y actividades de pares que facilitarn el aprendizaje del tema el inters compuesto nos ayuda a tomar decisiones de inversin y asimismo es una herramienta que coadyuva a maximizar el valor financiero del capital de los accionistas mediante su aplicacin y simulacin en diferentes escenarios
+cmo conceptualizar el inters compuesto cules son las frmulas para el clculo del inters compuesto cmo aplicamos el inters compuesto
+
+descuento compuesto
+en el mdulo iv revisaremos el tema de descuento compuesto y valor presente concepto frmulas y su aplicacin durante el mdulo encontrars microcasos y actividades de pares que facilitarn tu aprendizaje el valor presente es un mtodo para la evaluacin de proyectos de inversin ya que nos muestra el valor del dinero en el tiempo mediante su frmula aplicada
+qu es el descuento compuesto cmo se calcula el descuento compuesto en qu aplicamos el descuento compuesto
+
+anualidades
+en el mdulo v revisaremos el tema de anualidades concepto frmulas y su aplicacin mediante ejercicios de elaboracin de tablas de amortizacin de anualidades vencidas con pagos de capital con tasas variables y con periodos de gracia si estamos buscamos obtener un financiamiento o si ya tenemos uno es importante conocer y saber interpretar la informacin que contiene dicha tabla de amortizacin para tomar las mejores decisiones de financiamiento
+cmo conceptualizar las anualidades cmo se determinan las anualidades tabla de amortizacin con anualidades vencidas tabla de amortizacin con anualidades con tasas variables tabla de amortizacin con tasas variables anticipos de capital y un periodo de gracia
+</DOC>
+
+<DOC>
+estructura de capital y poltica de dividendos
+en el curso estructura de capital y poltica de dividendos se analizar la forma en la que una empresa financia sus activos a travs de mtodos internos o externos estructurando as su pasivo y capital dichas fuentes de financiamiento se ven reflejadas en el costo de capital promedio ponderado weighted average cost of capital wacc de la mano de la determinacin de dicho costo de financiamiento y de la estructura del capital el administrador financiero deber determinar la poltica de dividendos tomando como referencia el teorema de modilgliani miller en este curso el administrador financiero adicionalmente ser capaz de evaluar activos financieros o portafolios evaluando la relacion que existe entre riesgo y retorno bien a travs del modelo capital asset pricing model capm o del arbitrage pricing theory apt
+
+estructura de capital y poltica de dividendos
+en el curso estructura de capital y poltica de dividendos se analizar la forma en la que una empresa financia sus activos a travs de mtodos internos o externos estructurando as su pasivo y capital dichas fuentes de financiamiento se ven reflejadas en el costo de capital promedio ponderado weighted average cost of capital wacc de la mano de la determinacin de dicho costo de financiamiento y de la estructura del capital el administrador financiero deber determinar la poltica de dividendos tomando como referencia el teorema de modiglianimiller
+
+estructura de capital
+en este mdulo estructura de capital verificaremos el concepto de capital con el que cuenta la empresa y que es aportado por accionistas de la empresa es decir los dueos de ese capital la existencia ptima de la estructura de capital esto quiere decir la mezcla o el conjunto de capital propio y capital ajeno para el desarrollo de las funciones de la empresa
+capital financiamiento funciones del administrador financiero
+
+costo de capital
+como es frecuente que la utilizacin de capital tenga un costo que se relaciona ntimamente con el resultado del ciclo operativo de la empresa debemos revisar el concepto clsico de la estructura de capital as como las proposiciones de modigliani y miller las cuales nos llevarn a determinar una estructura ptima de capital
+teorema de modigliani y miller costo promedio ponderado de capital
+
+riesgo
+continuando con la revisin de la conformacin del capital de la empresa verificaremos el concepto de riesgo considerando como riesgo financiero aquel que se encuentra presente en las decisiones de financiamiento de las operaciones de la empresa y revisaremos el concepto beta necesario para la valoracin de ese riesgo financiero
+
+valuacin de activos financieros capm
+veremos el concepto de valuacin de activos financieros capm y que esa valuacin nos permitir visualizar la valuacin de los activos financieros revisando el modelo correspondiente y su aplicacin de acuerdo a la frmula de ese concepto
+
+poltica de dividendos
+ahora vamos a verificar el significado de la poltica de dividendos la estructura de capital a la que nos hemos referido est representada por diversos tipos de acciones y su adecuada aplicacin como el retorno del capital de los accionistas y de los proveedores y la forma adecuada en la que el administrador financiero elegir la mejor estructura de capital que beneficie al resultado final llamado poltica de dividendos
+tipos de acciones crecimiento de dividendos
+</DOC>
+

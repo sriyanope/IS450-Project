@@ -1,0 +1,178 @@
+<DOC>
+big data
+do you need to understand big data and how it will impact your business this is for you gain an understanding of what insights big data can provide through handson with the tools and systems used by big data scientists and engineers previous programming is not required be guided through the basics of using hadoop with mapreduce spark pig and hive by following along with provided code how one can perform predictive modeling and leverage graph analytics to model problems this will prepare you to ask the right questions about data communicate effectively with data scientists and do basic exploration of large complex datasets in the final capstone developed in partnership with data software company splunk apply the you learned to do basic analyses of big data
+</DOC>
+
+<DOC>
+big data capstone
+welcome to the capstone for big data culminating build a big data ecosystem using tools and methods form the earlier courses analyze a data set simulating big data generated from a large number of users who are playing our imaginary game catch the pink flamingo during the five capstone walk through the typical big data science steps for acquiring exploring preparing analyzing and reporting in the first two weeks we will introduce you to the data set and guide you through some exploratory analysis using tools such as splunk and open office then we will move into more challenging big data problems requiring the more advanced tools you have learned including knime sparks mllib and gephi finally during the fifth and final we will show you how to bring it all together to create engaging and compelling reports and slide presentations as a result of our collaboration with splunk a software company focus on analyzing machinegenerated big data learners with the top will be eligible to present to splunk and meet splunk recruiters and engineering leadership
+
+simulating big data for an online game
+we provide an overview of the eglence inc pink flamingo game including various aspects of the data which the company has access to about the game and users and what we might be interested in finding out
+welcome to the big data capstone welcome from splunk rob reed world education evangelist a of catch the pink flamingo a conceptual schema for catch the pink flamingo
+
+acquiring exploring and preparing the data
+next we begin working with the simulated game data by exploring and preparing the data for ingestion into big data analytics applications
+
+data classification with knime
+we do some data classification using knime
+
+clustering with spark
+we do some clustering with spark
+
+graph analytics of simulated chat data with neoj
+we apply what we learned from the graph analytics with big data to simulated chat data from catch the pink flamingos using neoj we analyze player chat behavior to find ways of improving the game
+
+reporting and presenting your
+reading
+
+final submission
+reading peer reviews
+</DOC>
+
+<DOC>
+big data modeling and management systems
+once youve identified a big data issue to analyze how do you collect store and organize your data using big data solutions various data genres and management tools appropriate for each be able to describe the reasons behind the evolving plethora of new big data platforms from the perspective of big data management systems and analytical tools through guided handson tutorials become familiar with techniques using realtime and semistructured data examples systems and tools discussed include asterixdb hp vertica impala neoj redis sparksql this provides techniques to extract value from existing untapped data sources and discovering new data sourcesat the end of this be able to recognize different data elements in your own and in everyday life problems explain why your team needs to design a big data infrastructure plan and information system design identify the frequent data operations required for various types of data select a data model to suit the characteristics of your data apply techniques to handle streaming data differentiate between a traditional database management system and a big data management system appreciate why there are so many data management systems design a big data information system for an online game company this is for those new to data science completion of intro to big data is recommended no prior programming is needed although the ability to install applications and utilize a virtual machine is necessary to complete the handson refer to the technical requirements for complete hardware and software specifications hardware requirements a quad core processor vtx or amdv support recommended bit b gb ram c gb disk free how to find your hardware information windows open system by clicking the start button rightclicking computer and then clicking properties mac open overview by clicking on the apple menu and clicking about this mac most computers with gb ram purchased in the last years will meet the minimum requirementsyou will need a high speed internet connection because be downloading files up to gb in size software requirements this relies on several opensource software tools including apache hadoop all required software can be downloaded and installed free of charge except for data charges from your internet provider software requirements include windows mac os x ubuntu or centos virtualbox
+
+introduction to big data modeling and management
+welcome to this on big data modeling and management modeling and managing data is a central focus of all big data in these lessons we introduce you to the concepts behind big data modeling and management and set the stage for the remainder of the
+welcome to big data modeling and management why is this a new in the big data of introduction to big data part of introduction to big data part of introduction to big data part big data management mustask questions data ingestion data storage data quality data operations data scalability and security energy data management challenges at coned gaming industry data management qa with apmetrix cto mark caldwell flight data management at flightstats a lecture by cto chad berkley
+
+big data modeling
+modeling big data depends on many factors including data structure which operations may be performed on the data and what constraints are placed on the models in these lessons the details about big data modeling and gain the practical need for modeling your own big data
+introduction to data models data model structures data model operations data model constraints introduction to csv data what is a relational data model what is a semistructured data model exploring the relational data model of csv files exploring the semistructured data model of json data exploring the array data model of an image exploring sensor data
+
+big data modeling part
+these lessons continue to shed light on big data modeling with specific approaches including vector space models graph data models and more
+vector space model graph data model other data models exploring the lucene search engines vector data model exploring graph data models with gephi
+
+working with data models
+data models deal with many different types of data formats streaming data is becoming ubiquitous and working with streaming data requires a different approach from working with static data in these lessons gain practical handson working with different forms of streaming data including weather data and twitter feeds
+data model vs data format what is a data stream why is streaming data different understanding data lakes exploring streaming sensor data
+
+big data management the m in dbms
+managing big data requires a different approach to database management systems because of the wide variation in data structure which does not lend itself to traditional dbmss there are many applications available to help with big data management in these lessons we introduce you to some of these applications and provide insight into how and when they might be appropriate for your own big data management challenges
+dbmsbased and nondbmsbased approaches to big data from dbms to bdms redis an enhanced keyvalue store aerospike a new generation kv store semistructured data asterixdb solr managing text relational data vertica
+
+designing a big data management system for an online game
+in these lessons we give you the to about big data modeling and management using a fictitious online game called catch the pink flamingo
+</DOC>
+
+<DOC>
+machine with big data
+want to make sense of the volumes of data you have collected need to incorporate datadriven decisions into your process this provides an overview of machine techniques to explore analyze and leverage data be introduced to tools and algorithms you can use to create machine models that from data and to scale those models up to big data problemsat the end of the be able to design an approach to leverage data using the steps in the machine process apply machine techniques to explore and prepare data for modeling identify the type of machine problem in order to apply the appropriate set of techniques construct models that from data using widely available open source tools analyze big data problems using scalable machine algorithms on spark software requirements cloudera vm knime spark
+
+welcome
+discussion prompts
+welcome to machine with big data of big data integration and processing
+
+introduction to machine with big data
+discussion prompt
+machine overview categories of machine techniques machine process goals and activities in the machine process crispdm scaling up machine algorithms tools used
+
+data exploration
+discussion prompt
+data terminology data exploration data exploration through statistics data exploration through plots exploring data with knime plots data exploration in spark
+
+data preparation
+discussion prompts
+data preparation data quality addressing data quality issues feature selection feature transformation dimensionality reduction handling missing values in knime handling missing values in spark
+
+classification
+discussion prompt
+classification building and applying a classification model classification algorithms knearest neighbors decision trees nave bayes classification using decision tree in knime classification in spark
+
+evaluation of machine models
+discussion prompt
+generalization and overfitting overfitting in decision trees using a validation set metrics to evaluate model performance confusion matrix evaluation of decision tree in knime evaluation of decision tree in spark
+
+regression cluster analysis and association analysis
+discussion prompts
+regression overview linear regression cluster analysis kmeans clustering association analysis association analysis in detail machine with big data final remarks cluster analysis in spark
+</DOC>
+
+<DOC>
+big data integration and processing
+at the end of the be able toretrieve data from example database and big data management systems describe the connections between data management operations and the big data processing patterns needed to utilize them in largescale analytical applications identify when a big data problem needs data integration execute simple big data integration and processing on hadoop and spark platforms this is for those new to data science completion of intro to big data is recommended no prior programming is needed although the ability to install applications and utilize a virtual machine is necessary to complete the handson refer to the technical requirements for complete hardware and software specifications hardware requirements a quad core processor vtx or amdv support recommended bit b gb ram c gb disk free how to find your hardware information windows open system by clicking the start button rightclicking computer and then clicking properties mac open overview by clicking on the apple menu and clicking about this mac most computers with gb ram purchased in the last years will meet the minimum requirementsyou will need a high speed internet connection because be downloading files up to gb in size software requirements this relies on several opensource software tools including apache hadoop all required software can be downloaded and installed free of charge except for data charges from your internet provider software requirements include windows mac os x ubuntu or centos virtualbox
+
+welcome to big data integration and processing
+welcome to the third in the big data be introduced to basic concepts in big data integration and processing be guided through installing docker downloading the data sets to be used for this and how to with jupyter notebooks
+what is of big data modeling and management why is big data processing different
+
+retrieving big data part
+this covers the various aspects of data retrieval and relational querying also be introduced to the postgres database
+what is data retrieval part what is data retrieval part querying two relations subqueries querying relational data with postgres
+
+retrieving big data part
+this covers the various aspects of data retrieval for nosql data as well as data aggregation and working with data frames be introduced to mongodb and aerospike and how to use pandas to retrieve data from them
+querying json data with mongodb aggregation functions querying aerospike querying documents in mongodb exploring pandas dataframes
+
+big data integration
+be introduced to data integration tools including splunk and datameer and gain some practical insight into how information integration processes are carried out
+overview of information integration a data integration scenario integration for multichannel customer analytics big data management and processing using splunk and datameer why splunk connected cars with fords openxc and splunk big data management and processing using datameer installing splunk enterprise on windows installing splunk enterprise on linux exploring splunk queries optional creating pivot reports in splunk
+
+processing big data
+this introduces learners to big data pipelines and workflows as well as processing and analysis of big data using apache spark
+big data processing pipelines some highlevel processing operations in big data pipelines aggregation operations in big data pipelines typical analytical operations in big data pipelines overview of big data processing systems the integration and processing layer introduction to apache spark getting started with spark wordcount in spark
+
+big data analytics using spark
+go deeper into big data processing by the inner workings of the spark core be introduced to two key tools in the spark toolkit spark mllib and graphx
+spark core programming in spark using rdds in pipelines spark core transformations spark core actions spark sql spark streaming spark mllib spark graphx exploring sparksql and spark dataframes analyzing sensor data with spark streaming
+
+by doing putting mongodb and spark to
+get some practical handson applying what you learned about spark and mongodb to analyze twitter data
+</DOC>
+
+<DOC>
+graph analytics for big data
+want to understand your data network structure and how it changes under different conditions curious to know how to identify closely interacting clusters within a graph have you heard of the fastgrowing area of graph analytics and want to more this gives you a broad overview of the field of graph analytics so you can new ways to model store retrieve and analyze graphstructured dataafter completing this be able to model a problem into a graph database and perform analytical tasks over the graph in a scalable manner better yet be able to apply these techniques to understand the significance of your data sets for your own
+
+welcome to graph analytics
+meet your instructor amarnath gupta and about the objectives
+
+introduction to graphs
+welcome we will get a first exposure to graphs and their use in everyday life by the end of the be able to create a graph applying core mathematical properties of graphs and identify the kinds of analysis questions one might be able to ask of such a graph we hope the be inspired as to how graphical representations might enable you to answer new big data problems
+what is a graph why graphs why graphs example social networking why graphs example biological networks why graphs example human information network analytics why graphs example smart cities the purpose of analytics what are the impact of big datas vs on graphs
+
+graph analytics
+discussion prompts
+focusing on graph analytics techniques path analytics the basic path analytics question what is the best path applying dijkstras algorithm inclusion and exclusion constraints connectivity analytics disconnecting a graph connectedness indegree and outdegree community analytics and local properties global property modularity centrality analytics optional lecture bidirectional dijkstra algorithm optional lecture goaldirected dijkstra algorithm optional lecture power law graphs optional lecture measuring graph evolution optional lecture eigenvector centrality optional lecture key player problems
+
+graph analytics techniques
+welcome to the th in the graph analytics last we got a glimpse of a number of graph properties and why they are important we will use those properties for analyzing graphs using a free and powerful graph analytics tool called neoj we will demonstrate how to use cypher the query language of neoj to perform a wide range of analyses on a variety of graph networks
+running neoj container handson getting started with neoj handson modifying a graph with neoj handson importing data into neoj handson basic queries in neoj handson path analytics in neoj using cypher handson connectivity analytics in neoj with cypher
+
+computing platforms for graph analytics
+in the last two we have learned about graph analytics and graph data management we will study how they come together there are programming models and software frameworks created specifically for graph analytics well give an introductory tour of these models and frameworks we will to implement what you learned in and build on it using graphx and giraph
+introduction large scale graph processing a parallel programming model for graphs pregel the system that changed graph processing giraph and graphx beyond single vertex computation introduction to graphx handson demonstrations hands on building a graph hands on building a degree histogram hands on plot the degree histogram hands on network connectedness and clustering components hands on joining graph datasets
+</DOC>
+
+<DOC>
+introduction to big data
+interested in increasing your knowledge of the big data landscape this is for those new to data science and interested in understanding why the big data era has come to be it is for those who want to become conversant with the terminology and the core concepts behind big data problems applications and systems it is for those who want to start thinking about how big data might be useful in their business or it provides an introduction to one of the most common frameworks hadoop that has made big data analysis easier and more accessible increasing the potential for data to transform our worldat the end of this be able to describe the big data landscape including examples of real world big data problems including the three key sources of big data people organizations and sensors explain the vs of big data volume velocity variety veracity valence and value and why each impacts data collection monitoring storage analysis and reporting get value out of big data by using a step process to structure your analysis identify what are and what are not big data problems and be able to recast big data problems as data science questions provide an explanation of the architectural components and programming models used for scalable big data analysis summarize the features and value of core hadoop stack components including the yarn resource and job management system the hdfs file system and the mapreduce programming model install and run a using hadoop this is for those new to data science no prior programming is needed although the ability to install applications and utilize a virtual machine is necessary to complete the handson hardware requirements a quad core processor vtx or amdv support recommended bit b gb ram c gb disk free how to find your hardware information windows open system by clicking the start button rightclicking computer and then clicking properties mac open overview by clicking on the apple menu and clicking about this mac most computers with gb ram purchased in the last years will meet the minimum requirementsyou will need a high speed internet connection because be downloading files up to gb in size software requirements this relies on several opensource software tools including apache hadoop all required software can be downloaded and installed free of charge software requirements include windows mac os x ubuntu or centos virtualbox
+
+welcome
+welcome to the big data were excited for you to get to know us and were looking forward to about you
+welcome to the big data tell us about yourself and about your classmates
+
+big data why and where
+data its been around even digitally for a while what makes data big and where does this big data come from
+what launched the big data era applications what makes big data valuable example saving lives with big data example using big data to help patients a sentiment analysis success story meltwater helping danone getting started where does big data come from machinegenerated data its everywhere and theres a lot machinegenerated data advantages big data generated by people the unstructured challenge big data generated by people how is it being used organizationgenerated data structured but often siloed organizationgenerated data benefits come from combining with other data types the key integrating diverse data
+
+characteristics of big data and dimensions of scalability
+you may have heard of the big vs well give examples and descriptions of the commonly discussed but we want to propose a th v and well ask you to practice writing big data questions targeting this v value
+getting started characteristics of big data characteristics of big data volume characteristics of big data variety characteristics of big data velocity characteristics of big data veracity characteristics of big data valence the sixth v value
+
+data science getting value out of big data
+we love science and we love computing dont get us wrong but the reality is we care about big data because it can bring value to our companies our lives and the world well introduce a step process for approaching data science problems
+data science getting value out of big data building a big data strategy how does big data science happen five components of data science asking the right questions steps in the data science process step acquiring data step a exploring data step b preprocessing data step analyzing data step communicating results step turning insights into action
+
+foundations for big data systems and programming
+big data requires new programming frameworks and systems for this we dont programming knowledge or but we do want to give you a grounding in some of the key concepts
+getting started why worry about foundations what is a distributed file system scalable computing over the internet programming models for big data
+
+systems getting started with hadoop
+lets look at some details of hadoop and mapreduce then well go hands on and actually perform a simple mapreduce task using a docker container pay attention as well guide you in by doing in diagramming a mapreduce task as a peer review
+hadoop why where and who the hadoop ecosystem welcome to the zoo the hadoop distributed file system a storage system for big data yarn a resource manager for hadoop mapreduce simple programming for big results when to reconsider hadoop cloud computing an important big data enabler cloud service models an exploration of choices value from hadoop and prebuilt hadoop images starting hadoop run the wordcount
+</DOC>
+

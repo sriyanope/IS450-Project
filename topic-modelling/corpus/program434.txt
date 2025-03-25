@@ -1,0 +1,143 @@
+<DOC>
+meta social media marketing
+want to turn your passion for social media into a how to create a social media presence on facebook and instagram that people want to follow social media marketing jobs are amongst the most indemand for organizations of all sizes whether youre completely new to digital marketing or youve been tinkering with social media platforms for your own business youve come to the right place this sixcourse designed by experts at meta and aptly will provide an introduction to digital marketing and all the major social media platforms such as facebook instagram linkedin youtube tiktok and more to prepare you with the and tools needed to grow an engaging social community and run effective social media advertising also have the option to how generative ai tools and techniques are used in social media marketingupon successful completion of the youllearn both a and the meta digital marketing associate certification showcasing your in social media marketing and the use of meta ads manager to potential employersthe is now ace recommendedopens in a new tab you can more hereopens in a new tab applied projectthroughout the get to practice your new through handson our offer an to apply social media marketing practically such ascreating a facebook or instagram business pagedoing a brand exercise for your businesscreating posts on facebook and instagramcreating a content calendarcreating a creative brief for your social media adbuilding your own full ad campaign in meta ads managerpresenting your campaign resultsby the end have a projectbased portfolio you can demonstrate to recruiters potential employers or clients to help land the job
+</DOC>
+
+<DOC>
+introduction to social media marketing
+this lays the foundation of social media marketing what social media marketing entails including the history and the different social media channels that exist how to select a social media channel that fits your needs set goals and success metrics and determine who your target audience isby the end of this be able to understand the landscape of traditional digital and social media marketing understand how to become certified as a digital marketing associate understand the major social media platforms how they function and what role they play in marketing create smart goals and identify kpis define your target audience and their customer journey choose the right social media platforms and how to create social media policies whatever level of knowledge you start with this will help you build a solid foundation for social media marketing and gain applicable that will allow you to make your social media marketing efforts more successful and noticeable learners dont need marketing but should have basic internet navigation and be eager to participate and connect in social media learners must have a facebook account and an instagram account helps
+
+the social media landscape
+get an introduction to the meta social media marketing then dive into an introduction to marketing and social media marketing about how businesses use social media and get a basic overview of the social media landscape
+introduction to the meta social media marketing introduction to anke audenaert introduction to social media marketing overview careers in digital marketing important message the social media landscape overview introduction to marketing introduction to digital marketing introduction to social media marketing social media and business social media and nonprofits categorizing social media the history of facebook meta apps services the social media landscape conclusion
+
+social media platforms overview
+in two the ins and outs of some of the major social media platforms as well as the differences between how individuals and businesses can and do use them
+social media platforms overview use facebook to connect people and businesses engage and entertain with on youtube make connections on whatsapp and messenger connect engage and transact with wechat find people that care about what you do on instagram build connections on linkedin use short to connect on tiktok boost your messaging game with snapchat join the conversation on twitter showcase your products and services on pinterest connect on niche interests on social social media platforms conclusion
+
+goals and planning for success
+in three dig into two foundational for a marketer defining smart goals and key performance indicators these are key components in building out a marketing campaign no matter what platform you operate on at the end of the complete your first and apply your to a real life scenario
+goals and planning for success overview what are marketing goals and why do you need them establishing smart goals for your marketing what are kpis and why do you need them setting kpis for your marketing goals and planning for success conclusion
+
+understand your audience
+turn your focus to developing a target audience persona and a customer journey this foundation to any marketing campaign builds off of what you learned last on goals and key performance indicators end the with a in which build your own target audience persona and customer journey
+understand your audience overview what is a target audience and why do you need one defining your target audience what is a customer journey and why do you need one mapping your customers journey understand your audience conclusion
+
+choose your social media channels
+we will wrap up the with a focus on carefully selecting the appropriate social media platform based on your target audience and how to create and manage a social media policy
+choose your social media channels overview choose your platform carefully map your audience to the right platform managing social media policies creating a social media policy using your company blog managing your blog choose your social media channels conclusion and congratulations whats next
+</DOC>
+
+<DOC>
+advertising with meta
+this will establish you as an expert in meta ads manager how to structure campaigns in ads manager by selecting ad objectives target audience budget and placement that fit your unique goals to create and manage ads across facebook and instagram and evaluate and optimize the results of your ads manager campaigns end the by creating an actual ad campaign in ads manager to expand not only your knowledge but your social media marketing portfolio by the end of this be able to structure campaigns in meta ads manager identify the major components and elements of an ad in meta ads manager build an ad that aligns with your marketing objectives and target it to your intended audience set a budget placement and schedule for your ads in meta ads manager edit and troubleshoot your ads in meta ads manager this is intended for people who want to how to use meta ads manager to create manage and optimize campaigns on facebook and instagram learners dont need marketing but they have basic internet navigation and are eager to participate and connect in social media learners must have a facebook account and an instagram account helps ideally learners have already completed the four previous courses
+
+first steps in ads manager
+first how advertising on facebook and instagram with ads manager works how to structure an ad campaign in ads manager and how meta charges for ads and where ads are shown
+introduction to the meta social media marketing advertising with meta ads manager overview introduction to daniel kob careers in digital marketing important message first steps in meta ads manager overview meta advertising tools ad placements the meta ad auction campaign structure set up your ad account how to navigate ads manager first steps in meta ads manager conclusion
+
+determine your campaign objective and budget
+in the second of this how to match your marketing goals to the right campaign objective also how to determine the budget for your campaign and how to set your budget and choose your bidding strategies in ads manager
+determine your campaign objective and budget overview set a campaign objective examples of campaigns in ads manager determine your campaign budget set a budget in ads manager campaign bid strategies determine your campaign objective and budget conclusion
+
+select your audience platforms and schedule
+how to select the audience for your ad campaign and how to use the meta pixel to create custom or lookalike audiences also how to choose placements and schedule your ads in ads manager
+select your audience placements and schedule overview introduction to audiences in ads manager the types of audience core audiences introduction to meta pixel custom audiences lookalike audiences choose ad placements in ads manager optimization spending controls schedule your ad set estimate your audience reach select your audience placements and schedule conclusion
+
+create your ads and evaluate your campaign results
+how to create your ads including selecting images or and creating the accompanying copy also how to evaluate your campaign results in ads manager
+create your ads and evaluate your campaign results overview ad formats create your ads in ads manager edit and troubleshoot your campaign understand your campaign performance analyze your campaign results how the campaign objective determines your key metrics create your ads and evaluate your campaign results conclusion
+
+build your own campaign in ads manager
+finally to build your own campaign in meta ads manager in a handson
+build a full campaign in facebook ads manager overview campaign brief for ads manager walk through campaign creation in ads manager walk through overview build a campaign in facebook ads manager congratulations whats next
+</DOC>
+
+<DOC>
+social media management
+this equips you with critical content creation and management how to create effective social media posts and how to create a strong brand to help you build a social media presence also how to establish an ongoing process to manage your content this includes setting up a content calendar managing and moderating your posts analyzing data for insights and iteration and how to increase post effectiveness end the with realworld application of your through a content management projectby the end of this be able to establish and manage a social media presence create a facebook business page and an instagram account for business understand how and why to create content for social media create a brand tone and voice for a social media presence manage a content calendar for your social media presence evaluate the performance of your content on social media to iterate and optimize the performance create a content calendar for your social media presence manage social media content using real world data this is intended for people who want to how to create and manage a business presence on social media including creating content interacting and engaging with customers on social media and evaluating the results of different posts learners dont need marketing but they have basic internet navigation and are eager to participate and connect in social media having a facebook or instagram account helps and ideally learners already completed introduction to social media marketing
+
+establish your presence
+in how to establish your business presence on social media and practice doing so and how to create a brand using the epic brand framework
+introduction to the meta social media marketing social media management overview introduction to anke audenaert careers in digital marketing important message establish your presence overview steps to set up a social media presence establishing a presence on facebook establishing a presence on instagram what is a brand and why you need one the epic brand framework brand existence brand purpose brand identity brand connection establish your presence conclusion
+
+social media content
+the elements of a post and how to create one for a business using text and images effectively
+social media content overview the role of content in social media anatomy of a social media post anatomy of a facebook post anatomy of an instagram post the role of text in posts the role of images in posts the role of in posts creating a post on facebook creating a post on instagram social media content conclusion
+
+social media content management
+how to identify what to post and manage your content also how to moderate social media conversations and practice building a content calendar
+social media content management overview identify what to post topics to post about using storyboards to plan your content creating a storyboard what makes content viral using a content calendar creating a content calendar repurposing content auditing content building a following on social media interacting and moderating on social media managing your social media presence social media content management conclusion
+
+evaluate your efforts
+how to evaluate and optimize your social media marketing efforts practice using real world data to improve on your posts and optimize your efforts
+evaluate your efforts overview measure what matters facebook page insights instagram insights iterating on your content calendar evaluate your efforts conclusion congratulations whats next
+
+optional genai in social media marketing
+optional you what generative ai is and how it functions you also discover how genai can be applied in different business scenarios as well as navigating the concerns around its usage then you explore how you can utilize generative ai to enhance your social media strategy by using ai to help hone in on your target audience and streamline your social media content creation you are introduced to metas powerful ai tools
+understanding generative ai an overview exploring different genai technologies applications of generative ai in business navigating the challenging concerns with ai integrating generative ai into social media strategies understand your target audience with generative ai genai tools for content creation streamlining ad creation with genai conclusion genai in social media marketing
+</DOC>
+
+<DOC>
+measure and optimize social media marketing campaigns
+this provides you with the to optimize your social media marketing efforts to evaluate and interpret the results of your advertising campaigns how to assess advertising effectiveness through lift studies and optimize your campaigns with split testing understand how advertising effectiveness is measured across platforms and devices how to evaluate the roi of your marketing and master how to communicate your social media marketing results to others in the company by the end of this be able to analyze dashboards and evaluate roi from your social media marketing efforts understand different techniques used to optimize marketing campaigns such as attribution and marketing mix models implement an ab test to optimize your campaign present and communicate the results of your campaign to a team this is for people who want to how to analyze their campaign marketing results optimize their campaigns and effectively communicate findings to their teams learners dont need marketing but should have basic internet navigation and be eager to participate and connect on social media having a facebook or instagram account helps and ideally learners have already completed the four previous courses this will be followed by the meta social media marketing capstone the final of this certification in which learners will take the digital marketing associate certification exam and complete a capstone to receive their meta social media marketing
+
+evaluate your marketing results against goals
+all about how to align metrics with your marketing goals and data analysis techniques gain an understanding of common terms such as return on investment and lifetime value and how to calculate them
+introduction to the meta social media marketing measure and optimize social media marketing campaigns introduction introduction to anke audenaert careers in digital marketing important message evaluate your marketing results against goals overview align metrics with common marketing goals data and reports to evaluate performance understanding roas and roi understanding cost per result understanding customer lifetime value roas and roi example cost per result example customer lifetime value example evaluate your marketing results against goals conclusion
+
+measure your advertising effectiveness
+in the second how to evaluate the success of your advertising campaigns to evaluate campaign results reports and how lift studies can help you determine the impact of your campaign
+measure your advertising effectiveness overview what are experiments using experiments to measure advertising effectiveness experiments to measure ad effectiveness on facebook creating a brand survey test and a holdout test interpreting the results of brand surveys and holdout tests measure your advertising effectiveness conclusion
+
+optimize your ad campaigns
+in the third to optimize advertising using ab testing and how attribution can help you to evaluate and optimize your advertising strategy across different platforms
+optimize your ad campaigns with ab testing overview set up an ab test interpret results of an ab test measuring across channels with media mix models measuring across channels with attribution challenges when measuring across channels optimize your ad campaigns conclusion
+
+communicate your marketing results
+how to tell the full story of your campaign and communicate its results to a larger audience in an effective presentation how to tell a clear story with data and focus on the insights that will help determine the next steps in your marketing efforts
+presenting your campaign results presenting your campaign results applied telling a clear story with data communicating in a presentation example mfreshflowers communicate your marketing results conclusion congratulations whats next
+</DOC>
+
+<DOC>
+meta social media marketing capstone
+capstone practice creating a presentation on the marketing campaign youve been developing throughout the with a where gain handson with communicating results and formulating recommendations based on the results of a social marketing campaign in addition sign up for and take the meta digital marketing associate certification exam and receive your digital marketing associate certification from meta after successfully completing your and passing the meta exam receive your coursera of completion for the meta social media marketing by the end of this be able to present and communicate the results of a campaign to a team complete the digital marketing associate certification exam this is for people who have completed all previous courses of the meta social media marketing and are ready to take their digital marketing associate certification exam and complete a capstone to receive their meta social media marketing in order to take the exam learners must have access to a mac or pc with a webcam
+
+capstone overview
+sign up for the digital marketing associate certification exam with meta and look ahead to prepare for your capstone and digital marketing associate certification exam
+introduction to the meta social media marketing introduction to anke audenaert weekly introduction careers in digital marketing important message
+
+capstone
+in the second complete a capstone in which you practice creating a presentation for your campaign findings for a team of marketing professionals at this is the culminating of the you have completed throughout the
+weekly introduction weekly conclusion
+
+take the meta digital marketing associate certification exam
+take the digital marketing associate certification exam and take the steps necessary to access the exam on metas platform also conclude the meta social media marketing
+meta exam overview congratulations whats next
+</DOC>
+
+<DOC>
+fundamentals of social media advertising
+this takes a deep dive into paid advertising on social media how to start advertising on platforms like facebook and instagram by developing effective ads how to with design teams by capturing the essence of your ad campaign in a creative brief and understand how privacy policies may affect your ads complete the with a where produce a creative brief with assets you would deliver to a design team for your ad campaign also create your first social media ad by the end of this be able to determine why and when to invest in paid advertising on social media understand the anatomy of a social media ad and how they differ from organic posts evaluate on which platforms to run social media ad campaigns and what makes an ad effective craft compelling and effective visuals and copy for social media ads how to collaborate effectively with others through creative briefs build foundational understanding for data databased advertising and privacy protection build an ad directly from your facebook business page and your instagram business account use instagram stories ads effectively to connect with customers write a creative brief and create a social media ad this is intended for people who want to how to create and manage ads on social media learners dont need marketing but they have basic internet navigation and are eager to participate and connect in social media having a facebook or instagram account helps and ideally learners have already completed introduction to social media marketing and social media management
+
+introduction to social media advertising
+in why and when you should invest in paid advertising as well as the five components that make up a paid social media ad
+introduction to the meta social media marketing fundamentals of social media advertising overview introduction to daniel kob careers in digital marketing important message introduction to social media advertising overview why and when to pay for ads organic posts vs paid ads organic posts vs paid ads on facebook and instagram ad formats on popular social media platforms the five components of a social media ad anatomy of a facebook and instagram ad evaluating the effectiveness of an ad introduction to social media advertising conclusion
+
+creating effective ads on social media
+in how to create an effective social media ad both independently and with either an external or internal team
+creating effective ads on social media overview how your business goals determine your kpis tips for sourcing and creating ad visuals writing effective copy for your ad collaborating with internal and external teams working with creative briefs creating effective ads on social media conclusion
+
+data privacy and policies on social media
+what databased advertising is common data formats and how data is collected also about user privacy how it is protected and rules advertisers must adhere to
+data privacy and policies on social media introduction databased advertising how data is collected online different data formats who collects and stores data intro to data protection policies government regulations gdpr ccpa coppa industry selfregulation company data policies data privacy and policies on social media conclusion
+
+getting started with advertising on facebook and instagram
+how to build an ad campaign from your facebook business page and how to create a campaign from your instagram business account and in your instagram stories
+getting started with advertising on facebook and instagram overview case study charleston gourmet burger company build an ad from your facebook business page choose the ad objective for your business goal case study blooms france build an ad from your instagram business account instagram stories ads creative tips for ads in stories getting started with advertising on facebook and instagram conclusion
+
+create a creative brief for your social media ad
+be applying all that you have learned by writing a creative brief and producing an ad based on it
+overview create a creative brief for your social media ad congratulations whats next
+</DOC>
+

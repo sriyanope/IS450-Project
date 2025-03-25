@@ -1,0 +1,116 @@
+<DOC>
+gis mapping and spatial analysis
+this is for those new to mapping and gis as well as anyone looking to gain a better understanding of how it all works and why practical that can be applied to your own using cuttingedge software created by esri inc the worlds leading gis company and our industry partner please note the software is no longer provided with this have to obtain it on your own these courses were designed to be taken with arcmap which is no longer supported by esri and so you may not be able to obtain it unless your institution or company already has it applied projectthe courses are based on the idea that get the most out of the if you can tailor your to your own interests how to create gis data how to find and evaluate data found online how to design an effective map and how to filter data and analyze spatial relationships and how to with satellite imagery in the capstone apply everything you have learned by either building a portfolio of your through mini or planning and executing one large your capstone will then be presented in a webbased story map that you can share with your friends family and colleagues
+</DOC>
+
+<DOC>
+gis data acquisition and map design
+how to find gis data for your own and how to create a welldesigned map that effectively communicates your message the first section focuses on the basic building blocks of gis data so that you know what types of gis files exist and the implications of choosing one type over another next well discuss metadata which is information about a data set so you know how to evaluate a data set before you decide to use it as well as preparing data by merging and clipping files as needed well then talk about how to take nongis data such as a list of addresses and convert it into mappable data using geocoding finally about how to take data that you have found and design a map using cartographic principles in the find your own data and create your own quantitative mapnote software is not provided for this
+
+gis file types data models and topology
+reading discussion prompt
+welcome to the introduction to topology topology and data formats shapefile simple with no topology coverage complex but has topology comparison of shapefile coverage and geodatabase building basic topology georelational and objectrelational vector data models
+
+finding data and preparing it for your
+discussion prompt
+evaluating data using metadata data dictionary the importance of metadata viewing and editing metadata in arcmap downloading and using gis data adding xy data from a table clipping a feature class merging feature classes
+
+geocoding addresses and postal codes
+reading
+what is geocoding geocoding in arcgis online geocoding postal codes geocoding postal codes in arcmap postal codes and census data canadian census units ecological fallacy geocoding street addresses geocoding street addresses in arcmap
+
+map design principles
+reading
+developing a critical eye the map design process controls on map design part controls on map design part controls on map design part design principles visual hierarchy figureground relationship contrast legibility visual balance map elements creating a map layout in arcmap basic map design in arcmap exporting a map as an image in arcmap typography creating and customizing labels in arcmap
+
+mapping quantitative data
+reading
+levels of measurement and mapping colour models rgb colour models hsv colour models cmyk choropleth maps creating choropleth maps in arcmap data classification for mapping data classification methods for mapping mean vs median zero values on your map joining tables working with tables in arcmap field calculations in tables
+
+quantitative map types
+reading
+dot maps creating dot density maps in arcmap proportional symbol maps graduated symbol maps creating proportional and graduated symbol maps in arcmap contour maps flow maps multivariate maps
+
+getting data and making your own map
+peer review
+</DOC>
+
+<DOC>
+introduction to gis mapping
+get started about the fascinating and useful world of geographic information systems gis first of the gis mapping and spatial analysis about what a gis is how to get started with the software yourself how things we find in the real world can be represented on a map how we record locations using coordinates and how we can make a twodimensional map from a threedimensional earth in the create your own gis data by tracing geographic features from a satellite image for a location and theme of your choice this will give you a strong foundation in mapping and gis that will give you the understanding you need to start working with gis and to succeed in the other courses specializationthis is for anyone who wants to about mapping and gis you dont have to have any previous just your curiosity the includes both practical software training and explanations of the concepts you need to know to make informed decisions as you start your journey to becoming a gis analyst need a windows computer with arcgis desktop installed software is not provided
+
+what is a gis
+discussion prompt
+introduction to the welcome to the maps in your pocket what is a map what is a gis defining gis a quick tour of the software examples of geospatial data procedures and people
+
+introduction to arcgis
+reading discussion prompt
+web map design and content in arcgis online a quick tour of arcgis online map documents and layers keeping track of files in arcmap jack dangermond map scale scale on a web map scale annotation and visibility working with map scale in arcmap working with map scale in arcgis online
+
+mapping the real world with vector and raster data
+
+mapping the real world vector data model creating vector data by digitizing in arcmap sampling frequency when digitizing map scale and digitizing precision accuracy and digitizing raster data model spatial resolution and data volume spatial resolution of raster data in arcmap vector vs raster data models
+
+mapping locations with coordinate systems
+reading
+longitude and latitude defining the prime meridian recording latlong coordinates converting dmsdd coordinates the earth as an ellipsoid horizontal datum geographic coordinate system changing horizontal datums vertical datum
+
+flattening the earth with map projections
+discussion prompt
+purpose of map projections how projections associating points from d to d projection class standard line and scale factor projection case projection aspect projection central meridian tissots indicatrix equidistant projection great circles and rhumb lines projection distance and direction grid coordinate systems and utm projections and arcgis working with map projections data frames and extent rectangles in arcmap
+
+creating your own data
+peer review
+</DOC>
+
+<DOC>
+spatial analysis and satellite imagery in a gis
+how to analyze map data using different data types and methods to answer geographic questions first how to filter a data set using different types of queries to find just the data you need to answer a particular question then we will discuss simple yet powerful analysis methods that use vector data to find spatial relationships within and between data sets section also about how to use modelbuilder a simple but powerful tool for building analysis flowcharts that can then also be run as models then how to find understand and use remotely sensed data such as satellite imagery as a rich source of gis data then how to analyze raster data finally complete your own where you get to try out the new and tools you have learned about coursenote software is not provided for this
+
+filtering data using queries
+
+welcome to the interactive selection in arcmap select by attribute queries and venn diagrams select by location select by attribute and location in arcmap mixing attribute and location queries reclassification and aggregation
+
+vector analysis
+reading
+vector buffers raster distances ian mcharg vector intersection and union constraint analysis areal interpolation spatial join arctoolbox introduction what is geoprocessing modelbuilder example getting started with modelbuilder
+
+remote sensing as a gis data source
+reading
+what is remote sensing spatial resolution of satellite images temporal resolution of satellite sensors radiometric resolution of satellite sensors spectral resolution of satellite sensors spatial vs spectral resolution spectral signatures of land cover types displaying multiband satellite images landsat explorer web app introduction working with satellite imagery in arcmap the image analysis window in arcmap downloading landsat data adding landsat images to arcmap visually interpreting satellite images satellite image classification
+
+raster analysis
+reading
+raster zones and regions raster mask and nodata cells local raster operators map algebra calculating ndvi raster reclassification raster boolean overlay focal raster operators zonal raster operators global raster operators raster weighted overlay mosaic and aggregate tools
+
+spatial analysis
+peer review
+</DOC>
+
+<DOC>
+gis mapping and spatial analysis capstone
+capstone apply everything you have learned by designing and then completing your own gis plan out your by writing a brief proposal that explains what you plan to do and why then find data for a topic and location of your choice and perform analysis and create maps that allow you to try out different tools and data sets the results of your will be assembled into an esri story map which is a web site with maps images text and the goal is for you to have a finished product that you can share and that demonstrates what you have learnednote software is not provided for this
+
+introduction to story maps
+reading
+introduction to the capstone introduction to story maps building your first story map adding popups to a story map
+
+data discovery and proposal
+reading peer review
+
+data acquisition and preparation
+
+evaluating data using metadata data dictionary the importance of metadata viewing and editing metadata in arcmap downloading and using gis data adding xy data from a table clipping a feature class merging feature classes interactive selection in arcmap select by attribute queries and venn diagrams select by location select by attribute and location in arcmap mixing attribute and location queries reclassification and aggregation joining tables working with tables in arcmap field calculations in tables
+
+spatial analysis
+
+vector buffers vector intersection and union constraint analysis areal interpolation spatial join arctoolbox introduction raster zones and regions raster mask and nodata cells local raster operators focal raster operators zonal raster operators global raster operators raster weighted overlay mosaic and aggregate tools what is geoprocessing modelbuilder example getting started with modelbuilder
+
+map design
+
+design principles visual hierarchy contrast figureground relationship visual balance choropleth maps creating choropleth maps in arcmap data classification for mapping data classification methods for mapping dot maps proportional symbol maps graduated symbol maps
+
+story map
+reading peer review
+</DOC>
+

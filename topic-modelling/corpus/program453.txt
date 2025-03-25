@@ -1,0 +1,162 @@
+<DOC>
+tableau business intelligence analyst
+whether you are just starting out or looking for a change the tableau business intelligence analytics will prepare you for entrylevel roles that require fundamental tableau such as business intelligence analyst roles if you are detailoriented and have an interest in looking for trends in data this is for you through handson realworld scenarios you how to use the tableau platform to evaluate data to generate and present actionable business insights upon completion be prepared to take the tableau desktop specialist examopens in a new tab with this certification be qualified to apply for a position in the business intelligence analyst field craft problem statements business requirement documents and visual models connect with various data sources and preprocess data in tableau for enhanced quality and analysis to utilize the benefits of tableaus analytics features for efficient reportinglearn to create advanced and spatial analytics data visualizations by integrating motion and multilayer elements to effectively communicate insights to stakeholdersemploy data storytelling principles and design techniques to craft compelling presentations that empower you to extract meaningful insightsthis was developed by tableau experts designed to prepare you for a in business intelligence analytics and help you the most relevant skillsapplied throughout the engage in applied through handson activities to help level up your knowledge each contains ungraded quizzes throughout the content a graded quiz at the end of each and a variety of handson the activities will give you the to preprocess manage and manipulate data for analysis using tableau create and customize visualizations in tableau best practices for creating presentations to communicate data analysis insights to stakeholders
+</DOC>
+
+<DOC>
+data ecosystem
+the data ecosystem will give you a foundational understanding of the entire data ecosystem including data management specifically this shows how a business intelligence analyst would organize access and use data about a variety of data sources along with the use and purpose of each type additionally about the importance of data quality and data governance in relation to effective data management also about the goals of data management and the principles that form the foundation of modern data architecture having a solid understanding of the data ecosystem is important for entrylevel roles in business analyticsthis is for anyone who is curious about entrylevel roles that demand fundamental tableau such as business intelligence analyst or data reporting analyst roles it is recommended but not required that you have some with tableau public but even if youre new to tableau public you can still be successful by the end of the be able to describe the purpose and applications of tabular data databases data warehouses data lakes and etls describe the importance of data quality and data governance in relation to data management identify the goals of data management identify the principles that form the foundation of modern data architecture
+
+data sources
+welcome to the data ecosystem the third in the tableau business intelligence analyst by enrolling you are continuing on your journey to a in business analytics in the first of this about the most basic data sources encounter as an analyst spreadsheets also about more complex data sources like databases and how organizations use different systems to manage them
+welcome to the the business intelligence analyst role welcome to anatomy of a spreadsheet
+
+data warehousing
+welcome to the second of data ecosystem as organizations collect more and more data they require more complex systems to store and manage it many organizations use a combination of data warehouses and data lakes for this exact purpose so thats what is all about by the end of be able to describe the purpose of a data warehouse for analytics and identify the most common ways they are structured also be able to describe the application of data lakes for analytics and recognize the key differences between a data lake and a data warehouse
+
+data management
+welcome to the third of the data ecosystem with the amount of data that organizations are collecting you might be wondering how they are able to ensure that it is accessible throughout the organization while maintaining security in order to ensure that their data is useable and protected organizations have to have strong data management practices throughout the data life cycle data management can be thought of as the logistics of data how you collect store validate protect and maintain your data dive into a few of the key components of good data management including data quality management data governance and data architecture by the end of this have an understanding of the practices organizations employ to make sure their data can be trusted
+welcome to congratulations
+</DOC>
+
+<DOC>
+advanced data visualization with tableau
+the advanced data visualization with tableau teaches you how to create advanced data visualizations such as dualaxis charts barinbar charts and more also how to customize and add complexity to your visualizations by incorporating the use of features such as maps map customization polygon spatial data and more these will allow you to effectively communicate insights to your stakeholders this is for anyone who is curious about entrylevel roles that demand fundamental tableau such as business intelligence analyst or data reporting analyst roles it is recommended but not required that you have some with tableau public but even if youre new to tableau public you can still be successful by the end of the be able to create advanced data visualizations to communicate analytic insights to the intended stakeholders such as dualaxis charts barinbar charts and more create and customize spatial analytics data visualizations to communicate insights to the intended stakeholders such as maps map customization polygon spatial data and more add complexity to the visualizations produced in your analysis by incorporating detail and multilayers
+
+advanced visualizations
+welcome to the advanced data visualization with tableau in the tableau business intelligence analyst by enrolling you are continuing on your journey to a in business analytics in the first of this build and interpret more advanced visualizations in tableau than you have up to this point specifically about motion dualaxis gantt and barinbar charts
+welcome to the the business intelligence analyst role welcome to build a motion chart in tableau handson tutorial building a dualaxis chart in tableau handson tutorial building a gantt chart in tableau build a barinbar chart in tableau
+
+specialized visualizations
+welcome to the second of advanced data visualization with tableau continue to build and interpret more advanced visualizations in tableau specifically about donut funnel waterfall and sparkline charts
+welcome to build a donut chart in tableau build a funnel chart in tableau build a waterfall chart in tableau build a sparkline chart in tableau
+
+advanced geographic data analysis
+welcome to the third and final of advanced data visualization with tableau continue to build and interpret more advanced visualizations in tableau specifically about advanced geographic data analysis including working with spatial data and map customization time to dive in
+welcome to map layers connecting to spatial data working with spatial data congratulations
+</DOC>
+
+<DOC>
+introduction to business analytics
+the introduction to business analytics teaches you the foundational in tableau and business analytics be introduced to essential concepts like analytics and insights and the foundational steps of the business analysis process about the different types of analytics that businesses use and be introduced to a data analytics lifecycle framework also some of the foundational management often used by analysts and arrive at a greater understanding of data literacythis is for anyone who is curious about entrylevel roles that demand fundamental tableau such as business intelligence analyst or data reporting analyst roles it is recommended but not required that you have some with tableau public but even if youre new to tableau public you can still be successful by the end of the be able to demonstrate a foundational knowledge of the business analyst role describe the data analytics lifecycle framework explain the foundational management topics and used by a bi analyst describe data literacy and its importance for a bi analyst
+
+introduction to business analytics
+welcome to introduction to business analytics the first of the tableau business intelligence analyst by enrolling you are taking the first step in starting your in business intelligence analytics in the first of the more about business analytics and what a business intelligence analyst does also start about a related field business analysis lets get started
+welcome to the business intelligence analyst the business intelligence analyst role welcome to the welcome to business analytics vs business analysis vs data analytics
+
+data analytics lifecycle
+welcome to the second of the tableau business analyst last you learned about the differences between business analysis business analytics and data analytics youre going to dive deeper into the role that analysts play in the data analytics lifecycle specifically about real datadriven businesses the importance that analytics has on business decisionmaking and the various types of analytics used to solve business problems in addition see how analysts use the data analytics lifecycle in order to best reach their goals lets begin
+
+management for analysts
+welcome to the third of the tableau business analyst last you learned about the data analytics lifecycle since managers often closely with business analysts be about foundational management concepts lets begin
+welcome to what is management
+
+data literacy
+welcome to the fourth and final of the tableau business analyst previously you learned about the relationship between management and business analysis now it is time to about the importance of data literacy in the context of this time to dive in
+welcome to congratulations
+</DOC>
+
+<DOC>
+introduction to tableau
+the introduction to tableau will give you an understanding of the value of data visualizations how to preprocess data and how to combine data from multiple tables found within the same data source as well as other data sources in tableau public have developed the to leverage data visualization as a powerful tool for making informed decisionsthis is for anyone who is curious about entrylevel roles that demand fundamental tableau such as business intelligence analyst or data reporting analyst roles it is recommended but not required that you have some with tableau public but even if youre new to tableau public you can still be successful by the end of the be able to describe the value of data visualizations in the field of business analytics preprocess data in tableau public combine data from multiple tables found within the same data source as well as other data sources in tableau public
+
+introduction to tableau public
+welcome to the first of the start with a highlevel overview of data visualizations specifically what they are and what makes them so powerful and as a result why they are such a vital asset when it comes to not only discovering insights but also communicating those insights with stakeholders the focus will then shift to tableau one of the most popular data visualization tools in the analytics industry get signed up with a tableau public account and then dive right in by connecting to a data source and exploring the different components of tableau
+welcome to the the business intelligence analyst role welcome to connecting to a data source the data source page
+
+prepare data in tableau public
+as an analyst data preparation is the most important step for impactful analysis without clean data you can lead an audience to incorrect conclusions which can ultimately undermine your credibility and even potentially cause harm data cleaning is not a perfect process a good motto for all analysts is question everything especially your data data preparation is also an iterative process you start by wrangling dirty data but then move on to smaller more intentional data preparation usually to finalize your analysis or prepare your data for an audience preparing data in tableau requires a different more designoriented level of scrutiny when compared with file or database cleaning to finalize the data for presentation purposes this will teach you concepts that must be implemented in a environment especially if a data visualization is intended for presentation remember without clean wellprepared data data visualizations can point to incorrect conclusions
+welcome to rename fields hide fields pivot fields edit data types split a field tour de france part tour de france part tour de france part optional challenge
+
+multiple data sources in tableau public
+as the amount of data in the world exponentially grows the need for combining data sources becomes ever more critical understanding how to combine data sources opens whole new areas of study as an analyst your daily tasks will often include combining various data sources in search of new insightful visualizations when it comes to connecting data sources in tableau the amount of data you are connecting can affect the performance of your data visualizations because of this tableau offers multiple ways to combine data that help analysts optimize workflow and create more efficient data visuals
+welcome to joins unions relationships crossdatabase joins netflix congratulations
+</DOC>
+
+<DOC>
+data analysis with tableau
+the data analysis with tableau will teach you how to manipulate and prepare data for analysis and reporting also how to use the analytics features in tableau to more effectively calculate analytics versus manual calculations perform exploratory data analysis as well as create reports using descriptive statistics and visualizations this is for anyone who is curious about entrylevel roles that demand fundamental tableau such as business intelligence analyst or data reporting analyst roles it is recommended but not required that you have some with tableau public but even if youre new to tableau public you can still be successful by the end of the be able to apply tableau public techniques to manipulate and prepare data for analysis perform exploratory data analysis using tableau and report insights using descriptive statistics and visualizations identify the benefits of the analytics feature in tableau by utilizing this tool versus manually calculating the analytics
+
+data analysis and exploration
+welcome to data analysis with tableau the seventh in the tableau business intelligence analyst series first we introduce you to the tableau data analysis process framework this comprehensive guide is essential for effectively preparing analyzing interpreting and communicating data also begin about data exploration which helps you dive into datasets and refine them for more insightful analysis
+welcome to the the business intelligence analyst role welcome to data analysis process framework
+
+data preprocessing and aggregation
+welcome to of data analysis with tableau where dive deeper into the crucial stages of data preparation focuses on refining your in preparing data for indepth analysis building upon the preprocessing concepts introduced in previous courses explore advanced preprocessing techniques to enhance the quality and relevance of your data additionally is dedicated to understanding and utilizing the powerful aggregation tools integrated within tableau
+welcome to data source and worksheet filters context filters creating folders and hierarchies drilling down groups sets aggregate functions in calculated fields quick table calculations table calculations
+
+introduction to statistical analysis
+welcome to the third of data analysis with tableau engage with external to deepen your understanding of data distributions and variation for data comparisons explore fundamental statistical concepts including mean variance standard deviation as well as frequency and population distributions continuous distributions hypothesis testing and confidence intervals after completing the external how to create and interpret histograms and box plots in tableau turning your newly acquired statistical knowledge into valuable visualizations by the end of this not only comprehend the underlying principles of statistical analysis but also be adept at visually representing statistical data
+welcome to histograms box plots
+
+introduction to predictive analytics
+welcome to the fourth and final of data analysis with tableau begins with an external on correlation and regression which are key for understanding predictive trends then apply these concepts in tableau by creating and interpreting scatter plots and enhancing visualizations with reference lines bands and trend lines the culminates in a comprehensive using the superstore dataset where apply not only predictive analytics techniques but also integrate concepts learned in previous weeks
+welcome to scatter plots trend lines and custom analytics congratulations
+</DOC>
+
+<DOC>
+business analysis process
+the business analysis process will give you a foundational understanding of the process of business analysis and will introduce you to a framework that can be used within a variety of industries and organizations see how an analyst assesses a business problem prepares business requirements and implements a solution how to identify stakeholders to analyze them and to define their role in a business analysis also how to gather requirements from these stakeholders analyze them and create a business requirements document that conforms to industry best practices lastly explore the functions and practical uses of crafting visual models gaining handson in creating common models used by business intelligence analyststhis is for anyone who is curious about entrylevel roles that demand fundamental tableau such as business intelligence analyst or data reporting analyst roles it is recommended but not required that you have some with tableau public but even if youre new to tableau public you can still be successful by the end of the be able to demonstrate an indepth knowledge of the business analysis process describe the methods used to identify stakeholders and define their role in a business analysis describe the methods used for gathering requirements from stakeholders create a business requirements document that conforms to industry best practices create a visual model of a business process
+
+business analysis process
+welcome to the business analysis process the second in the tableau business intelligence analyst in the previous you briefly learned about the differences between business analytics and business analysis while this is geared toward preparing you for a in business analytics it is important for you to understand the field of business analysis for the reasons listed below note that business analytics is performed by a business intelligence bi analyst whereas business analysis is performed by a business analyst as a bi analyst understanding the role of a business analyst can help you to better collaborate with them to gather data from various parts of the organization identify issues and recommend solutions based on data insights this collaboration can result in betterinformed decisionmaking and more effective strategies for achieving business success about a framework for the business analysis process which at a high level involves understanding the business problem determining the requirements to solve the problem and then delivering a solution dive into the first part of the framework which involves understanding the business problem
+welcome to the the business intelligence analyst role welcome to business analysis process framework overview metrics kpis overview powerinterest grid
+
+requirements elicitation
+welcome to the second of the business analysis process last you learned about what goes into assessing a business problem after understanding the problem it might be tempting to start immediately thinking about the solution but its important to first take time to gather more information from stakeholders to ensure the problem is solved effectively this process of gathering requirements is the focus of this specifically what it means to gather and analyze business requirements why it is important and specific techniques to elicit requirements lets get started
+
+business analysis visual models
+welcome to the third of the business analysis process in the previous you learned how to gather and analyze business requirements we will be delving into the world of visual models for business analysis visual models are an essential tool for business analysts as they help to communicate complex information in a simple and intuitive way about the purpose and applications of visual models and get handson practice creating two specific types of visual models lets begin
+welcome to what are visual models
+
+business requirements document
+welcome to the fourth and final of the business analysis process last you learned how to create different visual models that can be used for business analysis final how to create a business requirements document to outline your analysis and potential solutions additionally how solutions are communicated implemented and evaluated time to dive in
+welcome to congratulations
+</DOC>
+
+<DOC>
+communicating data insights with tableau
+the communicating data insights with tableau focuses on reporting best practices using tableau how to create interactive dashboards and craft compelling presentations based on your data analysis this will also teach you best practices for data storytelling to convey business insights and provide stakeholders with the data to effectively explore and build their own insights this is for anyone who is curious about entrylevel roles that demand fundamental tableau such as business intelligence analyst or data reporting analyst roles it is recommended but not required that you have some with tableau public but even if youre new to tableau public you can still be successful by the end of the be able to identify data storytelling best principles to convey business insights build interactive dashboards and stories in tableau public utilize data storytelling design principles to craft a compelling presentation so stakeholders can explore and disaggregate data to build their own insights
+
+developing insights
+welcome to communicating data insights with tableau the eighth and final in the tableau business intelligence analyst series in the first of this embark on the journey of transforming observed patterns and trends into valuable insights will prepare you to distinguish insights from patterns effectively recognize underlying patterns in data and develop impactful insights from these observations
+welcome to the the business intelligence analyst role welcome to developing insights part developing insights part developing insights part developing insights part
+
+creating and designing dashboards
+welcome to two of communicating data insights with tableau will focus on dashboard creation and design to navigate the tableau dashboard interface and understand its elements build dashboards and then how to enhance them with interactive features how to customize your dashboards using tooltips annotations and best design practices equipping you to craft both visually appealing and insightful dashboards
+welcome to building a dashboard part building a dashboard part building a dashboard part building a dashboard part building a dashboard part building a dashboard part building a dashboard part building a dashboard part building a dashboard part
+
+crafting stories from insights
+welcome to the third of communicating data insights with tableau this begins with an introduction to tableau stories which is a tool that empowers you to create impactful data narratives the essentials of navigating and utilizing tableau stories then dive into the art of data storytelling exploring a comprehensive framework that includes identifying your target audience and the key message selecting the most effective data visualizations structuring your narrative and applying best practices to craft compelling tableau stories by the end of this be skilled in transforming data insights into engaging and informative stories tailored to your audience and objectives
+welcome to building a tableau story part building a tableau story part building a tableau story part building a tableau story part building a tableau story part building a tableau story part building a tableau story part building a tableau story part
+
+wrap up
+welcome to the final of communicating data insights with tableau marks the culmination of your journey where apply your in a with the railway travel company this is your to showcase your proficiency in communicating data insights using the techniques and knowledge gained throughout the after completing the reflect on your journey through this and the entire additionally provides optional resources designed to support your advancement and prepare you for the next steps in your journey
+welcome to congratulations
+</DOC>
+
+<DOC>
+data visualization with tableau
+the data visualization with tableau provides you with a foundational understanding of presenting data through clear and easily comprehensible visuals using tableau throughout the explore a diverse range of visualization types and their ideal applications with the tableau public platform by examining how experts leverage tableau to create exceptional charts and maps and acquiring the to craft interactive tables gain proficiency in essential visualization techniques understanding these techniques is crucial for those pursuing entrylevel roles in the field of business analyticsthis is for anyone who is curious about entrylevel roles that demand fundamental tableau such as business intelligence analyst or data reporting analyst roles it is recommended but not required that you have some with tableau public but even if youre new to tableau public you can still be successful by the end of the be able to identify the value and structure of tableau public as it applies to data visualization in the industry of business analytics create data visualizations to communicate analytic insights to the intended audience such as business stakeholders build interactive tables by connecting preparing and customizing data in tableau public
+
+foundations of effective data visualizations
+welcome to data visualization with tableau
+welcome to the the business intelligence analyst role welcome to
+
+building basic visualizations
+look at some of the most common charts used in business analysis
+welcome to connecting to a data source handson tutorial building a table in tableau handson tutorial building a bar chart in tableau handson tutorial building a line chart in tableau
+
+building basic visualizations ii
+look at a few more of the most common charts used in business analysis
+welcome to handson tutorial building a heat map in tableau handson tutorial building an area chart in tableau
+
+building maps in tableau
+how to use geographic mapping to analyze business data trends
+welcome to handson tutorial building a map in tableau handson tutorial building a choropleth map and custom territories in tableau handson tutorial building a density map in tableau handson tutorial building a dualaxis map in tableau
+
+formatting your visualizations
+to customize and manage your tableau visualizations
+welcome to congratulations
+</DOC>
+

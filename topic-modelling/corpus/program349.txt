@@ -1,0 +1,150 @@
+<DOC>
+survey data collection and analytics
+this covers the fundamentals of surveys as used in market research evaluation research social science and political research official government statistics and many other topic domains in six courses the basics of questionnaire design data collection methods sampling design dealing with missing values making estimates combining data from different sources and the analysis of survey data faculty for this comes from the michigan in survey methodology and the joint in survey methodology a collaboration between the university of maryland the university of michigan and the data collection firm westat founded by the national science foundation and the interagency consortium of statistical policy in the us to educate the next generation of survey researchers survey statisticians and survey methodologists in addition to this we offer short courses a summer school master degrees as well as phd programs
+</DOC>
+
+<DOC>
+data collection online telephone and facetoface
+this presents research conducted to increase our understanding of how data collection decisions affect survey errors this is not a howtodoit on data collection but instead reviews the literature on survey design decisions and data quality in order to sensitize learners to how alternative survey designs might impact the data obtained from those surveysthe reviews a range of survey data collection methods that are both interviewbased facetoface and telephone and selfadministered paper questionnaires that are mailed and those that are implemented online ie as web surveys mixed mode designs are also covered as well as several hybrid modes for collecting sensitive information eg selfadministering the sensitive questions in what is otherwise a facetoface interview the also covers newer methods such as mobile web and sms text message interviews and examines alternative data sources such as social media it concentrates on the impact these techniques have on the quality of survey data including error from measurement nonresponse and coverage and assesses the tradeoffs between these error sources when researchers choose a mode or survey design
+
+introduction classic modes of survey data collection
+lesson be introduced to some key concepts about survey data collection methods that we will rely on throughout the by the end of this lesson you should be well acquainted with the major sources of survey error and how these are affected usually in the form of tradeoffs by the particular mode used to administer questions and capture responses
+what this is and is not introduction to survey errors variable error and bias total survey error what do we mean by mode mode choice by respondent mixed mode design concurrent mixed mode sequential followup mixed mode interview with david weir u michigan on mixed mode designs response rates nonresponse error
+
+selfadministration online data collection
+this second lesson focuses on modes in which survey respondents selfadminister questions and provide their responses directly to researchers by the end of lesson understand the pros and cons of selfadministered modes from the tse perspective
+modes interviewer and selfadministered casi acasi acasi continued coverage nonresponse measurement progress indicators running tallies online definitions speeding interventions reg baker mrii about web surveys in market research
+
+interviewers and interviewing
+lesson we explore the various roles interviewers take on beside asking questions and collecting answers as well as some of the different approaches to interviewing that have been proposed and how they affect the accuracy of responses by the end of lesson appreciate the benefits and costs of collecting data in interviews and will be able to contrast them with the costs and benefits of selfadministration
+interviewer roles obtaining interviews respondent selection within household sampling proxy responding standardization debate wording vs meaning different approaches to standardized interviewing personal vs formal style ir rapport variance interviewer behavior bias interviewers fixed attributes interview with nora cate schaeffer uw about recruitment and interviewing
+
+emerging modes new data sources
+lesson we focus on some new data collection modes such as mobile web surveys and sms text interviews as well as alternative data sources such as sensor data administrative data and social media by the end of this lesson have a sense of the issues to which survey methodologists and survey researchers are devoting much of their attention these days be able to weigh the pros and cons of these new methods and data sources
+new modes new data mobile web surveys text message surveys text vs voice interviews record linkage statistical issues record linkage techniques record linkage informed consent and ethical issues uses of big data sensing technology social media content as data social media applications measuring mood and depression social media and population estimates successes why does social media content align with surveys data sometimes and not other times interview with aigul mavletova national research university higher school of economics mosow on mobile web surveys
+</DOC>
+
+<DOC>
+framework for data collection and analysis
+this will provide you with an overview over existing data products and a good understanding of the data collection landscape with the help of various examples how to identify which data sources likely matches your research question how to turn your research question into measurable pieces and how to think about an analysis plan furthermore this will provide you with a general framework that allows you to not only understand each step required for a successful data collection and analysis but also help you to identify errors associated with different data sources some metrics to quantify each potential error and thus have tools at hand to describe the quality of a data source finally we will introduce different large scale data collection efforts done by private industry and government agencies and review the learned concepts through these examples this is suitable for beginners as well as those that know about one particular data source but not others and are looking for a general framework to evaluate data products
+
+research designs and data sources
+the first in the provides an overview of the topics to come this walks you through the process of data collection and analysis starting with a research question and a review of existing data sources we cover survey data collection techniques highlight the importance of data curation and discuss some basic features that can affect your data analysis when dealing with sample data issues of data access and resources for access are introduced
+research question design types of data examples of found data visualizing the data generation process data curation data analysis access issues access resources
+
+measurements and analysis plan
+we will emphasize the importance of having a wellspecified research question and analysis plan we will provide an overview over the various data collection strategies a variety of available modes for data collection and some thinking on how to choose the right mode
+issues with inductive reasoning planning on what you want to observe planning on how to collect data new modes web and google choosing a mode
+
+quality framework
+be introduced to a general framework that allows you to not only understand each step required for a successful data collection and analysis but also helps you to identify errors associated with different data sources some metrics to quantify each potential error and thus have tools at hand to describe the quality of a data source
+quality of data inference survey life cycle from a design perspective measurement survey life cycle from a design perspective representation survey lifecycle from a process perspective survey lifeycle from a quality perspective survey lifecycle from a quality perspective ii metrics survey lifecycle from a quality perspective iii coverage and sampling
+
+application of tse framework to existing surveys
+we introduce a few surveys across a variety of topics for each we highlight data collection features the surveys span a variety of topics we challenge you to think about alternative data sources that can be used to gather the same information or insights
+ncvs nsduh sca naep brfss ces share ess
+</DOC>
+
+<DOC>
+combining and analyzing complex data
+how to use survey weights to estimate descriptive statistics like means and totals and more complicated quantities like model parameters for linear and logistic regressions software capabilities will be covered with r receiving particular emphasis the will also cover the basics of record linkage and statistical matchingboth of which are becoming more important as ways of combining data from different sources combining of datasets raises ethical issues which the reviews informed consent may have to be obtained from persons to allow their data to be linked about differences in the legal requirements in different countries
+
+basic estimation
+after completing and of this understand how to estimate descriptive statistics overall and for subgroups when you deal with survey data we will review software for estimation r stata sas with examples for how to estimate things like means proportions and totals also how to estimate parameters in linear logistic and other models and software options with emphasis on r and discuss how you can add additional data to your analysis this requires knowing about record linkage techniques and what it takes to get permission to link data
+overview basic r examples basic r examples continued degrees of freedom estimating means multistage samples quantile estimation in r
+
+models
+covers how to estimate linear and logistic model parameters using survey data after completing this understand how the methods used differ from the ones for nonsurvey data we also cover the features of survey data sets that need to be accounted for when estimating standard errors of estimated model parameters
+introduction estimation method linear models diagnostics in r linear models in stata logistic models in r odds ratios logistic regression in stata
+
+record linkage
+starts with the current debate on using more linked administrative records in the us federal statistical system and a general motivation for linking records several examples will be given on why it is useful to link data challenges of record linkage will be discussed a brief overview over key linkage techniques is included as well
+why we link records gentle introduction challenges key techniques
+
+ethics
+this will discuss key issues in obtaining consent to record linkage failure to consent can lead to bias estimates current research examples will be given as well as practical suggestions on how to obtain linkage consent
+privacy and confidentiality linkage consent and consent bias correlates of consent bias in administrative estimates optimizing linkage consent
+</DOC>
+
+<DOC>
+dealing with missing data
+this will cover the steps used in weighting sample surveys including methods for adjusting for nonresponse and using data external to the survey for calibration among the techniques discussed are adjustments using estimated response propensities poststratification raking and general regression estimation alternative techniques for imputing values for missing items will be discussed for both weighting and imputation the capabilities of different statistical software packages will be covered including r stata and sas
+
+general steps in weighting
+weights are used to expand a sample to a population to accomplish this the weights may correct for coverage errors in the sampling frame adjust for nonresponse and reduce variances of estimators by incorporating covariates the series of steps needed to do this are covered in
+introduction quantities to estimate goals of estimation statistical interpretation of estimates coverage problems improving precision effects of weighting on ses
+
+specific steps
+specific steps in weighting include computing base weights adjusting if there are cases whose eligibility we are unsure of adjusting for nonresponse and using covariates to calibrate the sample to external population controls we flesh out the general steps with specific details here
+overview base weights nonresponse adjustments response propensities tree algorithms calibration
+
+implementing the steps
+software is critical to implementing the steps but the r system is an excellent source of free routines this covers several r packages including sampling survey and practools that will select samples and compute weights
+software base weights more on base weights nonresponse adjustments examples of calibration software for poststratification
+
+imputing for missing items
+in most surveys there will be items for which respondents do not provide information even though the respondent completed enough of the data collection instrument to be considered complete if only the cases with all items present are retained when fitting a model quite a few cases may be excluded from the analysis imputing for the missing items avoids dropping the missing cases we cover methods of doing the imputing and of reflecting the effects of imputations on standard errors
+reasons for imputation means and hotdeck regression imputation effect on variances mice r package mice example
+
+of
+we briefly summarize the methods of weighting and imputation that were covered in
+</DOC>
+
+<DOC>
+questionnaire design for social surveys
+this will cover the basic elements of designing and evaluating questionnaires we will review the process of responding to questions challenges and options for asking questions about behavioral frequencies practical techniques for evaluating questions mode specific questionnaire characteristics and review methods of standardized and conversational interviewing
+
+introduction and unit overview of standardized interviewing
+introduction different types of questions measurement error in questions bias and variance standardized and conversational interviewing from specifying a concept to asking questions
+introduction types of questions measurement error bias and variance standardized interviewing conversational interviewing concept specification
+
+unit response process
+comprehension retrieval judgment response
+response process comprehension response process retrieval response process judgment response process response
+
+unit asking factual questions
+facts and quasi facts memory and recall asking sensitive questions mode privacy and confidentiality
+facts and quasi facts memory and recall reporting behavioral frequencies memory and recall length of reference period memory and recall comprehension and retrieval asking sensitive questions asking sensitive questions techniques asking sensitive questions indirect techniques mode privacy and confidentiality
+
+unit measuring attitudes
+context effects in attitude questions use of different scales offering dont know options response order effects
+attitude questions attitudes attitude questions context effects attitude questions specific vs general evaluations attitude questions agree disagree scales attitude questions dont know attitude questions order effects all questions response options and scales
+
+unit testing questionnaires
+expert reviews and focus groups cognitive interviews behavior coding quantitative techniques
+pretesting techniques expert reviews and focus groups pretesting techniques cognitive interviews behavior coding pretesting techniques quantitative techniques pretesting techniques other techniques
+
+unit putting it all together
+the questionnaire from start to finish things to put at the end mode choice implementations for layout selfadministered questionnaires
+from start to finish putting questions into a questionnaire motivated underreporting reports from selected research studies main questionnaire demographic questions ending mode choice implications for layout selfadministered questionnaires additional requirements unit by unit takehome points
+</DOC>
+
+<DOC>
+sampling people networks and records
+good data collection is built on good samples but the samples can be chosen in many ways samples can be haphazard or convenient selections of persons or records or networks or other units but one questions the quality of such samples especially what these selection methods mean for drawing good conclusions about a population after data collection and analysis is done samples can be more carefully selected based on a researchers judgment but one then questions whether that judgment can be biased by personal factors samples can also be draw in statistically rigorous and careful ways using random selection and control methods to provide sound representation and cost control it is these last kinds of samples that will be discussed we will examine simple random sampling that can be used for sampling persons or records cluster sampling that can be used to sample groups of persons or records or networks stratification which can be applied to simple random and cluster samples systematic selection and stratified multistage samples the concludes with a brief overview of how to estimate and summarize the uncertainty of randomized sampling
+
+sampling as a research tool
+
+introduction research design and sampling part research design and sampling part surveys and sampling why sample at all part why sample at all part why might we randomize and how might we do it what happens when we randomize how do we evaluate how good a sample is what kinds of things can we sample
+
+mere randomization
+peer review
+simple random sampling srs mere randomization a short history the srs sampling distribution part the srs sampling distribution part sample size margin of error sample size and population size
+
+saving money using cluster sampling
+peer review
+simple complex sampling choosing entire clusters part simple complex sampling choosing entire clusters part design effects and intraclass correlation part design effects and intraclass correlation part twostage sampling designing for twostage sampling part designing for twostage sampling part dealing with the real world unequal sized clusters part dealing with the real world unequal sized clusters part sampling fraction
+
+using auxiliary data to be more efficient
+
+forming groups sampling variance more on grouping allocate sample other allocations weights to combine across strata
+
+simplified sampling
+peer review
+systematic selection intervals with fractions part intervals with fractions part list order uncertainty estimation
+
+pulling it all together
+
+statistical software for sample selection stratified multistage sampling weights for overunder sampling nonresponse noncoverage weighting sampling networks multiplicity weighting nonprobability sampling
+</DOC>
+

@@ -1,0 +1,117 @@
+<DOC>
+mastering software development in r
+r is a programming language and a free software environment for statistical computing and graphics widely used by data analysts data scientists and statisticians this covers r software development for building data science tools as the field of data science evolves it has become clear that software development are essential for producing and scaling useful data science results and products this will give you rigorous training in the r language including the for handling complex data building r packages and developing custom data visualizations be introduced to indispensable r libraries for data manipulation like tidyverse and data visualization and graphics like ggplot modern software development practices to build tools that are highly reusable modular and suitable for use in a teambased environment or a community of developers this is designed to serve both data analysts who may want to gain more familiarity with handson fundamental software for their everyday as well as data mining experts and data scientists who may want to use r to scale their developing and programming and further their careers as data science expertsapplied projectin each of the courses learners will deploy their newly acquired advanced r language to manipulate complex datasets write powerful functions create a new r package and develop new visualization tools for building custom data graphics these will result in a portfolio of r code that can be reused and built upon for deployment in the real world
+</DOC>
+
+<DOC>
+building r packages
+writing good code for data science is only part of the job in order to maximizing the usefulness and reusability of data science software code must be organized and distributed in a manner that adheres to communitybased standards and provides a good user this covers the primary means by which r software is organized and distributed to others we cover r package development writing good documentation and vignettes writing robust software crossplatform development continuous integration tools and distributing packages via cran and github learners will produce r packages that satisfy the criteria for submission to cran
+
+getting started with r packages
+
+
+documentation and testing
+peer review
+
+licensing version control and software design
+
+
+continuous integration and cross platform development
+peer review
+</DOC>
+
+<DOC>
+the r programming environment
+this provides a rigorous introduction to the r programming language with a particular focus on using r for software development in a data science setting whether you are part of a data science team or working individually within a community of developers this will give you the knowledge of r needed to make useful contributions in those settings as the first in the the provides the essential foundation of r needed for the following courses we cover basic r concepts and language fundamentals key concepts like tidy data and related tidyverse tools processing and manipulation of complex and large datasets handling textual data and basic data science tasks upon completing this learners will have fluency at the r console and will be able to create tidy datasets from a wide range of possible data sources
+
+basic r language
+the basics of r including syntax some tidy data principles and processes and how to read data into r
+
+basic r language lesson choices
+programming
+
+data manipulation
+during this to summarize filter merge and otherwise manipulate data in r including working through the challenges of dates and times
+
+data manipulation lesson choices
+programming
+
+text processing regular expression physical memory
+during this to use r tools and packages to deal with text and regular expressions also how to manage and get the most from your computers physical memory when working in r
+
+text processing regular expression physical memory lesson choices
+choice get credit while using swirl choice get credit by providing a code from swirl
+
+large datasets
+final how to overcome the challenges of working with large datasets both in memory and out as well as how to diagnose problems and find help
+</DOC>
+
+<DOC>
+building data visualization tools
+the data science revolution has produced reams of new data from a wide variety of new sources these new datasets are being used to answer new questions in way never before conceived visualization remains one of the most powerful ways draw conclusions from data but the influx of new data types requires the development of new visualization techniques and building blocks this provides you with the for creating those new visualization building blocks we focus on the ggplot framework and describe how to use and extend the system to suit the specific needs of your organization or team upon completing this learners will be able to build the tools needed to visualize a wide variety of data types and will have the fundamentals needed to address new data types as they come about
+
+welcome to building data visualization tools
+before we get started well take a quick overview of the
+
+plotting with ggplot
+now well dive into creating and customizing ggplot plots
+
+mapping and interactive plots
+mapping is a critical part of many data visualizations during this well teach you how to create simple and dynamic maps with ggplot and ggmap how to overlay data and how to create chloropleth maps of us counties
+
+the grid package
+the grid package in r implements the primitive graphical functions that underly the ggplot plotting system how to with grid to build graphics
+
+building new graphical elements
+building and modifying a theme in ggplot is a key feature of the ggplot package and system for building data graphics final to build a new theme and modifying existing themes with new features
+</DOC>
+
+<DOC>
+mastering software development in r capstone
+r programming capstone
+
+obtain and clean the data
+the overall goal of the capstone is to integrate the you have developed over the courses and to build a software package that can be used to with the noaa significant earthquakes dataset
+
+building geoms
+show us when earthquakes occurred in different countries their magnitude and their toll on human life
+
+building a leaflet map
+show and annotate the earthquake epicenters
+
+documentation and packaging
+documentation is one of the most important and most commonly overlooked steps when writing software but youre not going to let that happen in your
+
+deployment
+the moment of truth its time to push your package to github
+
+final assessment
+its time to submit your deployed package for evaluation and to evaluate the of a few of your classmates
+</DOC>
+
+<DOC>
+advanced r programming
+this covers advanced topics in r programming that are necessary for developing powerful robust and reusable data science tools topics covered include functional programming in r robust error handling object oriented programming profiling and benchmarking debugging and proper design of functions upon completing this be able to identify and abstract common data analysis tasks and to encapsulate them in userfacing functions because every data science environment encounters unique data challenges there is always a need to develop custom software specific to your organizations mission also be able to define new data types in r and to develop a universe of functionality specific to those data types to enable cleaner execution of data science tasks and stronger reusability within a team
+
+welcome to advanced r programming
+this covers advanced topics in r programming that are necessary for developing powerful robust and reusable data science tools topics covered include functional programming in r robust error handling object oriented programming profiling and benchmarking debugging and proper design of functions upon completing this be able to identify and abstract common data analysis tasks and to encapsulate them in userfacing functions because every data science environment encounters unique data challenges there is always a need to develop custom software specific to your organizations mission also be able to define new data types in r and to develop a universe of functionality specific to those data types to enable cleaner execution of data science tasks and stronger reusability within a team
+
+functions
+this begins with control structures in r for controlling the logical flow of an r we then move on to functions their role in r programming and some guidelines for writing good functions
+
+functions lesson choices
+programming
+
+functional programming
+functional programming is a key aspect of r and is one of rs differentiating factors as a data analysis language understanding the concepts of functional programming will help you to become a better data science software developer in addition we cover error and exception handling in r for writing robust code
+
+functional programming lesson choices
+programming
+
+debugging and profiling
+debugging tools are useful for analyzing your code when it exhibits unexpected behavior we go through the various debugging tools in r and how they can be used to identify problems in code profiling tools allow you to see where your code spends its time and to optimize your code for maximum efficiency
+
+objectoriented programming
+object oriented programming allows you to define custom data types or classes and a set of functions for handling that data type in a way that you define r has a three different methods for implementing object oriented programming and we will cover them section
+</DOC>
+

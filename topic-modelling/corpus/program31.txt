@@ -1,0 +1,109 @@
+<DOC>
+artificial intelligence an overview
+this is intended for beginners seeking to enter the artificial intelligence world through five courses cover artificial intelligence technical groundings including machine and technologies ethical and legal issues which will give you a clear picture of what artificial intelligence is and what artificial intelligence will provide in the next futureapplied projectno specific handson is required but through this composed by introductory courses learners will have all the necessary concept and tools to start building their own combining the tools and concepts seen in the courses
+</DOC>
+
+<DOC>
+machine an overview
+the provides a general overview of the main methods in the machine field starting from a taxonomy of the different problems that can be solved through machine techniques the briefly presents some algorithmic solutions highlighting when they can be successful but also their limitations these concepts will be explained through examples and case studies
+
+supervised
+
+introduction to machine supervised problem regression and classification problems model selection
+
+unsupervised
+
+unsupervised clustering unsupervised dimensionality reduction unsupervised association rules
+
+reinforcement
+
+sequential decisionmaking problems markov decision processes reinforcement algorithms
+</DOC>
+
+<DOC>
+artificial intelligence and legal issues
+the purpose of the is to help students understand the legal implications related to the design and use of artificial intelligence systems providing an overview of the risks and legal protections that can be envisaged and giving an overview of the legislation and legal principles currently applicable on the subject in particular the profiles of civil and criminal liability protection in terms of intellectual property and the impacts of ai on the fundamental rights of the individual including privacy and the right to nondiscrimination will be examined
+
+artificial intelligence law and legal issues
+
+
+artificial intelligence and liability
+
+civil liability and compensation for damages the existing legal framework on civil liability liability on the production and use of the intelligent systems criminal liability
+
+artificial intelligence and intellectual property
+
+the protection of intelligent systems in the light of copyright ai and patentability the protection of works created by ai
+
+artificial intelligence and risks to fundamental rights
+
+the protection of privacy the risks of algocracy for the fundamental freedoms from cambridge analytica to mass surveillance ai compliant to the legal privacy framework
+</DOC>
+
+<DOC>
+ethics of artificial intelligence
+this deals with the problems created aggravated or transformed by ai it is intended to give students a chance to reflect on the ethical social and cultural impact of ai by focusing on the issues faced by and brought about by professionals in ai but also by citizens institutions and societies the addresses these topics by means of case studies and examples analyzed in the light of the main ethical frameworks
+
+ethics ai and responsibility
+
+introduction to ethics of ai responsibility in the ethics of technology
+
+casestudies examples and ethical frameworks
+
+ethics of autonomous vehicles autonomous weapons and the digitalization of conflicts digital medicine sustainability and environmental impact cybersecurity and ai
+
+issues and challenges
+
+human decisions and ai part one human decisions and ai part two what is the value of privacy in information society part one what is the value of privacy in information society part two moralizing technologies
+
+governance and policies
+
+ai policies ethics of ai a paradigmatic change
+</DOC>
+
+<DOC>
+technologies and platforms for artificial intelligence
+this will address the hardware technologies for machine and deep from the units of an internetofthings system to a largescale data centers and will explore the families of machine and deep platforms libraries and frameworks for the design and development of smart applications and systems
+
+it and a
+
+the it perspective for ai the hardware technologies for ai technological evolution and ai revolution
+
+ai on the cloud
+
+the it architecture for ai on cloud machine and deeplearningasaservice hardware accelerators fueling ai
+
+embedded and edge ai
+
+computing anywhere iot and edge for ai ai for iot edge ai
+
+challenges and
+
+challenges and case study technology provider case study end user
+</DOC>
+
+<DOC>
+artificial intelligence an overview
+the will provide a nontechnical overview of the artificial intelligence field initially a discussion on the birth of ai is provided remarking the seminal ideas and preliminary goals furthermore the crucial weaknesses are presented and how these weaknesses have been circumvented then the current state of ai is presented in terms of goals importance at national level and strategies moreover the taxonomy of the ai topics is presented
+
+history of ai
+
+what is artificial intelligence before the birth of ai precursors before the birth of ai turing test the birth of ai after the birth of ai winters and springs after the birth of ai general vs narrow ai the birth of ai in italy
+
+ai today
+
+definition and goals problems and progresses major milestones scientific community research in industry
+
+ai research areas
+reading
+ai field techniques perception and action techniques cognition technologies regulation and organization issues
+
+ai and national strategies
+
+the need for national strategies ai strategy in usa ai strategy in china ai strategy in eu
+
+italian and europen players
+
+a of the main players interviewaixia interview laboratorio cini interview italia highlevel experts in ai interview ellis interview claire
+</DOC>
+

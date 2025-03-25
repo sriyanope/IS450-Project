@@ -1,0 +1,68 @@
+<DOC>
+omnichannel retail strategy
+this provides learners with insight about operating in a transformed retail industry how to navigate the disruption in retail marketing caused by covid and to develop a framework to create a competitive strategy that focuses on a new customercentric approach to marketing also the fundamentals of human capital management with a focus on the retail industry and do a deep dive into some of the practices that drive organizational success finally review supply chain fundamentals concentrating on the impact that the digital transformation has had on the retail industry in utilizing meaningful retail analytics how to generate value for retailers and their supply chains by the end of this be able to form a strategy for selling your organizations retail product while retaining internal talent and adopting a forwardthinking and iterative approach to maintaining success in the futureapplied projecteach culminates in an assessment these assessments are designed to check learners knowledge and to provide an for learners to apply concepts suchthe assessments will be cumulative and cover the application of marketing talent management competitive strategy traditional and digital supply chain and analytics in order to develop and maintain a successful retail organization
+</DOC>
+
+<DOC>
+managing human capital in retail
+cover the fundamentals of human capital management with a focus on the retail industry professor matthew bidwell will start by examining the critical role that people play in creating value within any business and will then assess how that value is fostered by various organizational practices professor bidwell then does a deepdive into some of the practices that drive organizational success how to hire effectively how to develop and retain a skilled workforce and to motivate employees to contribute to organizational success by the end of this have a better understanding of how human capital contributes to the success of the business a critical role in shaping your organizational capacity
+
+human capital and performance
+begin to assess the links between managing people and organizational performance and how human capital can drive value examine methods of managing people in ways that create value using the abilitymotivationopportunities framework by the end of this have a clearer understanding of how human capital management operates as a system the ways these systems interrelate across a company and how it all relates to a broader organizational strategy
+introduction overview human capital as cost driver vs organizational capacity from headcount to organizational capacity the abilitymotivationopportunities framework human capital management as a system the value of the partnership approach human capital management strategy
+
+high performance staffing
+examine various elements of high performance staffing an important concept in effective human capital management delve into specific best practices for making the right decision in your hiring process and how the internal hiring pipeline plays a role decision making process by the end of this be able to identify the benefits of adopting effective hiring practices and understand how this contributes to to wellestablished internal hiring channels in the future
+effective staffing the right number of people effective staffing the right people effective staffing the problem with intuition best practices in selecting employees identify your criteria best practices in selecting employees evaluating candidates best practices in selecting employees integrating scores new technologies in hiring developing the talent pipeline
+
+development and retention
+consider the best ways to develop and retain current employees think critically about job as well as the the drawbacks and benefits of job training depending on your approach examine the impact of turnover and the loss of organizational investment in an employee associated with attrition by the end of this be able to identify reasons why an employee leaves an organization and develop a plan for retaining valuable members of your team
+development and retention introduction why train firm specific why train general keys to effective costs of attrition causes of attrition strategies for retention
+
+motivating the frontline workforce
+continue examining human capital in the organizational workforce utilize your knowledge about employee retention to now focus on employee motivation identifying multiple factors that play a role in employee satisfaction discuss how to pay employees effectively and how to design a job so that employees feel motivated on a daytoday basis by the end of this possess a wide array of tools to incentivize employees to effectively over longer periods of time with a company
+achieving alignment and motivation introduction theories of motivation goal setting and motivation managing compensation setting the right pay level motivation through job design conclusion
+</DOC>
+
+<DOC>
+retail digital supply chain
+focus on understanding the main challenges and that the retailers supply chains are seeing today start by revisiting the supply chain fundamentals concentrating on the impact that the digital transformation is having on these fundamentals then how meaningful retail analytics can generate value for retailers and their supply chains by the end of this be able to identify what traditional retailers are doing to successfully navigate the digital transformation
+
+digital supply chains
+begin to explore the challenges and that retail supply chains are experiencing today develop a clear definition of supply chains and gain an understanding of the fundamentals of product flow also assess the characteristics of an efficient supply chain when considering how to best connect a customer to their desired product in both traditional and digital retail by the end of this be able to identify the digital capabilities needed for any retailer who wants to navigate the digital transformation in retail
+introduction supply chain what is the right supply chain retail digital supply chain digital capabilities
+
+retail analytics
+discuss the importance of supply chain analytics as a digital capability build a framework for understanding the different types of analyticsdescriptive diagnostic predictive and prescriptiveand will assess the impact that each has on a retailers ability to identify a problem understand the cause and ultimately determine what tools can be leveraged to solve the problem by the end of this be able to demonstrate the value of supply chain analysis to contribute to efficient decisionmaking within your organization
+where to start with analytics analytics framework descriptive analytics diagnostic analytics predictive analytics prescriptive analytics what to do next
+
+retail platforms
+examine how digital platforms have driven disruption in retail identify examples of companies who have successfully transformed the retail industry and analyze the strengths and weaknesses of digital platform formats comparing traditional online retailers with more relevant ecommerce approaches by the end of this determine the importance of an integrated retail approach and why its important to be dynamic in both the physical and digital retail landscapes
+digital platforms disruption the role of the customers the role of the vendors
+
+digital transformation in retail
+do a deep dive into what makes a retailer successful by examining the importance of focusing on customerdriven decisions utilize the information fulfillment matrix to better understand how retailers meet customer demand and will examine a study on what drives customer tradeoff decision making by the end of this be better able to leverage technology in an omnichannel retail approach to be successful across various retail industries
+information fulfillment matrix what do customers want what is best for the retailer the value of employees and the supercharging effect digital transformation of the supply chain
+</DOC>
+
+<DOC>
+retail marketing strategy
+covid has accelerated radical changes that will revolutionize retailing in every way shoppers expectations are being ratcheted up making winning and keeping those consumers all the more challenging professor barbara kahn will explain what it means to switch from a productfocused approach to a customerfocused approach and create marketing strategy to deliver real customer value from companies that have been most successful during this wave of change this will offer insights as to what we can from their ascendance building on these insights professor kahn will present the kahn retailing success matrix which provides a framework that any company can use to create a competitive strategy to survive and thrive in todays and tomorrows disruptive environment by the end of this be able to identify the changing expectations with regard to creating superior customer and valuedbased branding
+
+how covid has accelerated the move from productfocused to customerfocused marketing strategy
+observe changes in the retail industry that have occurred in recent years start by examining the retail apocalypse of and then review how covid has transformed consumer behaviors in retail assess retailer response in omnichannel spaces with regards to customer service and brand loyalty by the end of this be able to relate these concepts in a way that both increases customer value and creates a superior competitive advantage
+introduction changes in shopping behaviors due to covid part changes in shopping behaviors due to covid part enduring trends post covid focus on the winning strategies
+
+kahn retailing success strategy
+identify retail strategies adopted by major retailers such as amazon walmart and target utilize the kahn retail success matrix to analyze the competitive advantages among these retailers and discuss the importance of growth mindset within the retail industry also assess differences in approaches used by luxury brand retailers and how culture factors into their success by the end of this be better able to leverage technology to reduce friction in a customers shopping journey
+focus on the leaders winning strategies of amazon focus on the leaders winning strategies of other top retailers luxury strategies customercentered omnichannel technology data management
+
+importance of customer experienceshoppertainment
+continue to explore the value of omnichannel retail strategy examine the importance of innovation in onlineoffline spaces and will identify specific examples of successful use cases in both digitally native and legacy brand retail spaces also identify trends in new retail by identifying the culturespecific expectations of consumers in china by the end of this be able to identify key global trends in retail
+integration of onlineoffline strategies dnvbs digitally native vertical brands legacy brands and retailers lessons from china new retail and social commerce
+
+changes in branding what makes a brand great
+examine brand strategy answer the question what is a brand by exploring the formal conceptual and realistic definitions review the ways in which consumers have driven many organizations to adopt a purposeful branding and will assess specific examples how organizations align themselves with social causes of brand strategy by the end of this be better able to assess how the pandemic and consumer behavior as a result has driven revolutionary changes in the future of brand strategy
+what is a brand brands with purpose example of brand strategies when brands should take a stand conclusions
+</DOC>
+

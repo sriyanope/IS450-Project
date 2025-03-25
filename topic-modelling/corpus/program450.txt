@@ -1,0 +1,101 @@
+<DOC>
+sas visual business analytics
+using sas visual analytics to access and manipulate data analyze data with a variety of interactive reports and graphics and design and share dashboards to visualize your data sas visual analytics is a useful in a variety of careers including business analyst researcher statistician or data scientist the macquarie business school at macquarie university is proud to partner with global analytics leader sas in offering sas certificationopens in a new tab as part of their global mba the global mba sas partnership includes the for professionals certified through the sas certified specialist visual business analystopens in a new tab to gain credit when studying for macquarie universitys global mba through the generate insights unit find out more about the benefits of the partnership hereopens in a new tabapplied projectthrough the sas visual business analytics you get access to handson that are built into the of each examples of include visual analytics methodology designing reports with sas visual analytics review restructuring data for forecasting review and using parameters to create advanced reports review
+</DOC>
+
+<DOC>
+data analysis and reporting in sas visual analytics
+you how to use sas visual analytics on sas viya to modify data for analysis perform data discovery and analysis and create interactive reports
+
+overview
+you about the business scenario that follow for this and where the files are located in the virtual lab
+
+analyzing data using sas visual analytics
+you how to analyze data using sas visual analytics
+introduction to analyzing data business scenario visual analytics methodology analyze sas data studio versus sas visual analytics demo working with data items practice scenario business scenario descriptive graphs demo exploring data part practice scenario business scenario demo exploring data part practice scenario business scenario types of calculated items calculated items versus aggregated measures custom categories calculating customer age demo creating data items practice scenario business scenario filtering data geography graphs what is a hierarchy demo applying filters practice scenario business scenario analysis graphs bubble plots and treemaps demo analyzing data practice scenario business scenario analysis graphs relationship plots fit lines analysis graphs time plots analytics forecasting demo adding data analysis practice scenario
+
+designing reports with sas visual analytics
+you how to design and create reports in sas visual analytics
+introduction to designing reports business scenario visual analytics methodology report reporting graphs dual axis charts demo creating a simple report practice scenario business scenario viewer customization creating reports with multiple pages demo working with pages and ranks practice scenario business scenario filtering data prompts actions demo working with prompts and actions practice scenario business scenario links demo working with hidden pages and page links practice scenario business scenario graphlevel display rules tablelevel display rules reportlevel display rules demo working with graphlevel display rules practice scenario
+</DOC>
+
+<DOC>
+performing network path and text analyses in sas visual analytics
+you about the data structure needed for network path and text analytics and how to create network analysis path analysis and text analytics in sas visual analytics
+
+overview
+you about the business scenario that follow for this and where the files are located in the virtual lab
+
+performing network analysis
+you more about network analysis in visual analytics
+introduction to network analysis business scenario analytics network network data shape splitting columns custom code demo creating a network analysis data source practice scenario uses for network analysis mapping networks
+
+performing path analysis
+you more about path analysis in visual analytics
+introduction to path analysis business scenario analytics path path data shape demo analyzing a path analysis data source practice scenario
+
+performing text analytics
+you more about text analytics in visual analytics
+introduction to text analysis business scenario analytics text topics text topics data shape how text analytics works derive topics demo analyzing a text analysis data source practice scenario
+</DOC>
+
+<DOC>
+getting started with sas visual analytics
+you more about sas visual analytics and the sas viya platform how to access and investigate data in sas visual analytics and how to prepare data for analysis using sas data studio
+
+overview
+you about the scope and structure of the courses
+meet the instructor overview taking courses
+
+overview and logistics
+you about the business scenario that follow for this and where the files are located in the virtual lab
+
+getting started with sas visual analytics
+you more about visual analytics and the environment
+introduction to visual analytics sas visual analytics cloud analytic services cas sas viya sas visual analytics methodology business scenario environment demo exploring sas drive business scenario demo viewing a report in visual analytics
+
+preparing data using sas data studio
+you how to access investigate and prepare data in sas viya
+introduction to preparing data business scenario visual analytics methodology access visual analytics methodology investigate data types tables and automatic charts demo accessing and investigating data practice scenario business scenario visual analytics methodology prepare sas data studio demo preparing data practice scenario
+</DOC>
+
+<DOC>
+using data for geographic mapping and forecasting in sas visual analytics
+you about the data structure needed for geographic mapping and forecasting how to use sas data studio to restructure data for analysis and how to create geo maps and forecasts in sas visual analytics
+
+overview and introduction to advanced topics
+you about the business scenario that follow for this and where the files are located in the virtual lab
+
+automated explanation
+you how to use the automated explanation in visual analytics
+sas visual analytics review business scenario automated explanation demo using automated explanation threat level practice scenario
+
+restructuring data for geographic mapping
+you more about geographic maps in visual analytics
+introduction to restructuring data for geographic mapping sas data studio casing transforms business scenario geography data items demo creating a geographic data source practice scenario business scenario geography graphs demo analyzing a geographic data source practice scenario
+
+restructuring data for forecasting
+you more about forecasting in visual analytics
+introduction to restructuring data for forecasting business scenario forecasting data shape transposing data demo creating a forecasting data source practice scenario business scenario analytics forecasting underlying factors and what if analysis demo analyzing a forecasting data source practice scenario
+</DOC>
+
+<DOC>
+creating advanced reports with sas visual analytics
+you how to create advanced data items filters and parameters in sas visual analytics
+
+overview
+you about the business scenario that follow for this and where the files are located in the virtual lab
+
+creating advanced data items
+you how to create and use advanced data items such as calculated items and aggregated measures in visual analytics
+introduction to advanced data items business scenario types of calculated items graphs vector plot demo creating a numeric calculated item practice scenario graphs butterfly chart business scenario graphs needle plot demo creating a character calculated item practice scenario graphs dot plot business scenario calculated items versus aggregated measures demo creating an aggregated measure practice scenario business scenario periodic operators demo creating a periodic aggregated measure practice scenario business scenario aggregated measures suppress operator demo creating an advanced aggregated measure practice scenario
+
+creating advanced filters
+you how to create advanced static and interactive filters in visual analytics
+introduction to advanced filters business scenario filtering data demo applying an advanced filter practice scenario business scenario demo applying an advanced rank business scenario interactively filtering data automatic actions linked selection demo applying automatic actions linked selection practice scenario automatic actions oneway filters automatic actions twoway filters business scenario demo using a parameter in an external link practice scenario mapping data sources
+
+using parameters to create advanced reports
+you how to use parameters in visual analytics to make your reports more dynamic
+introduction to parameters business scenario steps for using parameters demo using a numeric parameter in a rank practice scenario business scenario demo using a character parameter in a calculation practice scenario business scenario demo using a date parameter in an advanced filter practice scenario
+</DOC>
+

@@ -1,0 +1,221 @@
+<DOC>
+six sigma black belt
+learners developed and furthered their understanding of the six sigma dmaic process this also explored the intersection between six sigma and lean as well as developed enhanced understanding of the dmaic process beyond the confines of green belt instruction by also including content in organizational planning and development team management and design for six sigma applied projectthroughout the learners are tasked with the completion of portions of a capstone type peer reviewed grounded in the dmaic process and implemented such that the deliverables align with the content presented in the quizzes are also offered to reinforce and cement understanding of the content
+</DOC>
+
+<DOC>
+organization planning and development for the black belt
+this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in organization planning and developmentprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+
+fundamentals of lean and six sigma
+reading
+the six sigma approach to performance improvement the origins of lean and six sigma the benefits of lean six sigma introduction to the six sigma methodology introduction to lean concepts
+
+leadership
+
+what is a a leader planning and deploying a six sigma
+
+strategic planning
+
+risk and risk analysis the feasibility study swot analysis other strategic planning tools
+
+common financial measures
+
+the role of financial metrics the characteristics of meaningful metrics common metrics cost of quality identifying savings
+
+change management
+
+stakeholder analysis the phenomenon of change
+
+business measures
+
+benchmarking organization measurements
+
+summative quiz
+
+</DOC>
+
+<DOC>
+the measure phase for the black belt
+this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in the measure phase of six sigmaprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+
+process characteristics
+reading
+lean terminology creating value and reducing waste the value stream map other common process analysis tools
+
+data collection
+
+types of data measurement scales sampling methods the sampling plan
+
+measurement systems
+
+metrology measurement error measurement system parameters measurement variation
+
+basic statistics
+
+statistics terminology measures of central tendency measures of dispersion measures of position graphical methods statistical inference
+
+probability
+
+probability terminology event relationships and operations common probability rules
+
+distributions
+
+probability distributions discrete distributions continuous distributions other common distributions
+
+process capability
+
+understanding process capability quantifying process capability coping with nonnormal data in process capability process performance metrics
+
+summative deliverables
+peer review
+</DOC>
+
+<DOC>
+team management for the black belt
+this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in team managementprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+
+team formation
+reading
+team structure team roles and responsibilities stages of team development
+
+team facilitation
+
+ensuring productive teams ensuring creative teams ensuring effective team meetings
+
+team training
+
+team training needs communication for teams conflict management for teams
+
+summative quiz
+
+</DOC>
+
+<DOC>
+the improve phase for the black belt
+this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in the improve phase of six sigmaprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+
+doe terminology
+reading
+understanding design of experiments foundational terminology additional foundational terminology effects plots
+
+planning experiments
+
+strategic considerations in planning an experiment technical considerations in planning an experiment
+
+experimentation
+
+one factor designs multifactor designs
+
+lean methods
+
+techniques in waste elimination cycle time setup reduction kaizen other improvement techniques
+
+summative deliverables
+peer review
+</DOC>
+
+<DOC>
+the control phase for the black belt
+this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in the control phase of six sigmaprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+
+spc foundations
+reading
+understanding statistical process control rational subgrouping sources of variation
+
+spc selection and analysis
+
+variables charts moving average and individual charts attribute charts with constant subgroup size attribute charts with variable subgroup size short run charting methods identifying special causes of variation
+
+maintenance controls
+
+maintenance programs assessing total productive maintenance
+
+maintaining controls
+
+understanding the control phase the control plan precontrol
+
+control and improvement
+
+postmortem document management training ongoing evaluation
+
+summative deliverables
+peer review
+</DOC>
+
+<DOC>
+the analyze phase for the black belt
+this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in the analyze phase of six sigmaprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+
+measuring and modeling relationships between variables
+reading
+correlation regressions multivariate analysis
+
+hypothesis testing terminology
+
+foundational principles in hypothesis testing effect size and power estimators and confidence intervals
+
+parametric hypothesis tests
+
+one sample tests two sample tests contingency tables and proportion tests anova ranova and ancova
+
+nonparametric hypothesis testing
+
+one sample tests two sample tests multisample tests
+
+additional analysis tools
+
+failure modes and effect analysis other analysis methods root cause analysis tools nonvalueadded activities
+
+summative deliverables
+peer review
+</DOC>
+
+<DOC>
+the define phase for the black belt
+this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in the define phase of six sigmaprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+
+voice of the customer
+reading
+defining the customer customer data collection data collection methods critical customer requirements analyzing customer data
+
+business case and charter
+
+the elements of the charter charter dynamics
+
+management tools
+
+reviews management tools documentation
+
+analytical tools
+
+visual analytical tools for problem solving matrix related analytical tools for problem solving
+
+summative deliverables
+peer review
+</DOC>
+
+<DOC>
+dfss for the black belt
+this is designed for professionals interested in the principles of lean sigma the dmaic process and dfss this is number of dealing with topics in design for six sigmaprofessionals with some completed coursework in statistics and a desire to drive continuous improvement within their organizations would find this and the others appealing method of assessment consists of several formative and summative quizzes and a multipart peer reviewed completion regiment
+
+common dfss methodologies
+reading
+understanding design for six sigma common processes for dfss
+
+design for x
+
+understanding design for x common dfx approaches
+
+robust design
+
+function requirements understanding tolerance analysis independent statistical tolerancing dependent statistical tolerancing nonlinear statistical tolerancing the taguchi loss function
+
+retained knowledge
+
+strategic mechanisms for the transfer of knowledge tactical mechanisms for the transfer of knowledge
+
+summative deliverables
+peer review
+</DOC>
+

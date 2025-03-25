@@ -1,0 +1,105 @@
+<DOC>
+biostatistics in public health
+this is intended for public health and healthcare professionals researchers data analysts social workers and others who need a comprehensive conceptscentric biostatistics primer those who complete the will be able to read and respond to the scientific literature including the methods and results sections in public health medicine biological science and related fields successful learners will also be prepared to participate as part of a research teamapplied projectin each learners will assume the role of a biostatistical consultant helping research teams review and interpret the published scientific literature throughout the specializations learners will return to two important studies one on asthma medication and another on injectable contraception to answer the researchers questions about the published statistical methods and results
+</DOC>
+
+<DOC>
+multiple regression analysis in public health
+biostatistics is the application of statistical reasoning to the life sciences and its the key to unlocking the data gathered by researchers and the evidence presented in the scientific public health literature extend simple regression to the prediction of a single of interest on the basis of multiple variables along the way be introduced to a variety of methods and practice interpreting data and performing calculations on real data from published studies topics include multiple logistic regression the spline approach confidence intervals pvalues multiple cox regression adjustment and effect modification
+
+an overview of multiple regression for estimation adjustment and basic prediction and multiple linear regression
+within this an overview of multiple regression will be provided additionally examples and applications will be examined a practice quiz is provided to test your knowledge before completing the graded quiz
+multiple regression an overview multiple linear regression some examples multiple linear regression basics of model estimation and handling uncertainty in the resulting estimates estimate group means and mean differences for groups who differ in more than one predictor with multiple linear regression the linearity assumption and estimating amount of variability explained by multiple predictors examples from the literature investigating effect modification with multiple linear regression forthcoming investigating effect modification with multiple linear regressionmore examples for those interested additional examples of multiple linear regression
+
+multiple logistic regression
+two covers examples of multiple logistic regression basics of model estimates and a discussion of effect modification in addition to lectures also be completing a practice quiz and graded quiz
+multiple logistic regression some examples multiple logistic regression basics of model estimation and handling uncertainty in the resulting estimates estimating group odds and proportions and odds ratios for groups who differ in more than one predictor with multiple linear regression the linearity assumption and a brief note about prediction with multiple logistic regression examples from the literature investigating effect modification with multiple logistic regression part investigating effect modification with multiple logistic regression part additional examples
+
+multiple cox regression
+the last for this class focuses on multiple cox regression the linearity assumption examples and applications complete a practice quiz graded quiz and
+some examples basics of model estimation and handling uncertainty in the resulting estimates estimating hazard ratios for groups who differ in more than one predictor with multiple cox regression the linearity assumption and prediction with multiple cox regression examples from the literature
+
+
+during this you get the chance to demonstrate what youve learned by putting yourself in the shoes of biostatistical consultant on two different studies one about selfadministration of injectable contraception and one about medical appointment scheduling in brazil the two research teams have asked you to help them interpret previously published results in order to inform the planning of their own studies if youve already taken other courses then this scenario will be familiar
+</DOC>
+
+<DOC>
+statistics in public health
+biostatistics is the application of statistical reasoning to the life sciences and it is the key to unlocking the data gathered by researchers and the evidence presented in the scientific literature well focus on the use of statistical measurement methods within the world of public health research along the way be introduced to a variety of methods and measures and practice interpreting data and performing calculations on real data from published studies topics include measures visual displays continuous data sample size the normal distribution binary data the element of time and the kaplanmeir curve
+
+the role of statistics in public health research
+within this how statistics are used within public heath research topics covered include study design types data types and data summarization complete a practice quiz before completing a graded quiz
+welcome introduction and overview samples versus population considerations with regard to study design data types and summarization additional examples
+
+continuous data measures
+two involves several lectures a practice quiz and a graded quiz topics include statistics visual displays role of sample size and continuous data
+introduction useful statistics visual displays the role of sample size on sample based estimates comparing distributions of continuous data additional examples
+
+the normal distribution
+the focus of this is on normal distribution topics covered include defining the standard normal distribution and application of principles of normal distribution to sample data there is a practice quiz where you can test your knowledge before completing the graded quiz
+introduction the standard normal distribution defined applying the principles of the normal distribution to sample data to estimate characteristics of population data what happens when we apply the properties of the normal distribution to data not approximately normal a warning additional examples
+
+binary data
+four covers binary data and its significance in addition to lectures complete a practice quiz and a graded quiz
+introduction binary data definition and summarization binomial distribution phat sd comparing distributions of binary data risk difference and relative risk comparing distributions of binary data odds ratios a brief note about ratios will also be revisited later in the additional examples
+
+dealing with the element of time
+in five explore how time is defined and studied in relation to data and about the kaplanmeir curve in addition to a practice quiz complete a graded quiz and
+introduction time to event data definition censoring and numerical measures incidence rates numerically comparing groups on time to event summarizing timetoevent data graphically graphically comparing groups on time to event additional examples
+
+
+during this you get the chance to demonstrate what youve learned by putting yourself in the shoes of biostatistical consultant on two different studies one about asthma medication and the other about selfadministration of injectable contraception the two research teams have asked you to help them interpret previously published results in order to inform the planning of their own studies
+</DOC>
+
+<DOC>
+simple regression analysis in public health
+biostatistics is the application of statistical reasoning to the life sciences and its the key to unlocking the data gathered by researchers and the evidence presented in the scientific public health literature well focus on the use of simple regression methods to determine the relationship between an of interest and a single predictor via a linear equation along the way be introduced to a variety of methods and practice interpreting data and performing calculations on real data from published studies topics include logistic regression confidence intervals pvalues cox regression confounding adjustment and effect modification
+
+simple regression methods
+one covers simple regression the four different types of regression commonalities between them and simple linear aggression before completing the graded quiz you can test your knowledge with the practice quiz
+introduction simple regression an overview simple linear regression with a binary or nominal categorical predictor simple linear regression with a categorical predictor simple linear regression with a continuous predictor simple linear regression model estimating the regression equationaccounting for uncertainty in the estimates measuring the strength of a linear association additional examples
+
+simple logistic regression
+within two we will look at logistic regression create confidence intervals and estimate pvalues have the to test your knowledge in both a practice quiz and a graded quiz
+introduction simple logistic regression an overview simple logistic regression with a binary or categorical predictor simple logistic regression with a continuous predictor simple logistic regression accounting for uncertainty in the estimates estimating risk and functions of risk from logistic regression results additional examples
+
+simple cox proportional hazards regression
+three focuses on cox regression with different predictors have the to test your knowledge first with the practice quiz and then with the graded quiz
+introduction simple cox regression an overview simple cox regression with a binary or categorical predictor simple cox regression with a continuous predictor simple cox regression accounting for uncertainty in the estimates estimating survival curves from cox regression results additional examples
+
+confounding adjustment and effect modification
+within four look at confounding and adjustment and unadjusted and adjusted association estimates additionally about effect modification similar to previous first take a practice quiz before completing the graded quiz
+introduction confounding a formal definition and some examples adjusted estimates presentation interpretation and utility for assessing confounding adjusted estimates the general idea behind the computations additional examples effect modification introduction with an analytic example effect modification tree damage and elevation example effect modification examples from the literature confounding versus effect modification a review additional examples
+
+
+during this you get the chance to demonstrate what youve learned by putting yourself in the shoes of biostatistical consultant on two different studies one about selfadministration of injectable contraception and one about medical appointment scheduling in brazil the two research teams have asked you to help them interpret previously published results in order to inform the planning of their own studies if youve already taken other courses then this scenario will be familiar
+</DOC>
+
+<DOC>
+hypothesis testing in public health
+biostatistics is an essential for every public health researcher because it provides a set of precise methods for extracting meaningful conclusions from data second of the biostatistics in public health to evaluate sample variability and apply statistical hypothesis testing methods along the way perform calculations and interpret realworld data from the published scientific literature topics include sample statistics the central limit theorem confidence intervals hypothesis testing and p values
+
+sampling distributions and standard errors
+within one about sample statistics sampling distribution and the central limit theorem have the to test your knowledge with a practice quiz and then apply what you learned to the graded quiz
+introduction sampling distribution definition examples sampling distribution for a single mean examples sampling distribution for a single proportion incidence rate estimating sampling distribution characteristics from single samples of data additional examples
+
+confidence intervals for single population parameters
+two builds upon previous materials to discuss confidence intervals the need for ample sizes of data and ways to get around the need for ample sizes of data the practice quiz helps you prepare for the graded quiz
+introduction confidence intervals for single population parameters confidence intervals for population proportions and incidence rates so what is a confidence interval and how should it be interpreted a note on confidence intervals for population quantities based on small samples additional examples
+
+confidence intervals for population comparison measures
+within three confidence intervals are discussed at length and ratios are discussed again aside from the lectures also be completing a practice quiz and graded quiz
+introduction confidence intervals for population comparison measures confidence intervals for comparing means of continuous between two populations confidence intervals for binary comparisons part difference in proportions confidence intervals for binary comparisons part ratio of proportions and odds ratios confidence intervals for incidence rate ratios a brief note about ratios again additional examples
+
+twogroup hypothesis testing the general concept and comparing means
+within four look at statistical hypothesis tests confidence intervals and pvalue there is a practice quiz to prepare you for the graded quiz
+introduction hypothesis testing the general concept and for comparing means between two populations hypothesis testing comparing means between two populations the paired approach hypothesis testing comparing means between two populations the unpaired approach debriefing on the pvalue part additional examples
+
+hypothesis testing comparing proportions and incidence rates between two populations extended hypothesis testing
+
+introduction hypothesis testing comparing proportions between two populations the ztest approach hypothesis testing comparing proportions between two populations chisquare and fishers exact test approaches hypothesis tests for comparing incidence rates between two populations debriefing on the pvalue and hypothesis testing part additional examples introduction hypothesis testing comparing means between more than two populations analysis of variance anova hypothesis testing comparing proportions between more than two populations chisquare tests hypothesis testing comparing survival curves between more than two populations logrank tests several issues to consider
+
+
+during this you get the chance to demonstrate what youve learned by putting yourself in the shoes of biostatistical consultant on two different studies one about asthma medication and the other about selfadministration of injectable contraception the two research teams have asked you to help them interpret previously published results in order to inform the planning of their own studies if youve already taken the summarization and measurement then this scenario will be familiar
+</DOC>
+

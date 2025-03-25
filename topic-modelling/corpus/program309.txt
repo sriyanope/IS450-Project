@@ -1,0 +1,110 @@
+<DOC>
+python programming
+this teaches the fundamentals of programming in python we will begin at the beginning with variables conditionals and loops and get to some intermediate material like keyword parameters list comprehensions lambda expressions and class inheritanceyou will have lots of to practice also ways to reason about execution so that it is no longer mysterious and you are able to debug programs when they dont workby the end of the be writing programs that query internet apis for data and extract useful information from them and be able to to use new and apis on your own by reading the documentation that will give you a great launch toward being an independent python programmerthis is a good next step for you if you have completed python for everybodyopens in a new tab but want a more indepth treatment of python fundamentals and more practice so that you can proceed with confidence to specializations like applied data science with pythonopens in a new tabbut it is also appropriate as a first set of courses in python if you are already familiar with some other programming language or if you are up for the challenge of diving in headfirstapplied projectby the end of the second create a simple sentiment analyzer that counts the number of positive and negative words in tweets in the third mash up two apis to create a movie recommender the final python pillow tesseract and opencv is an extended in which perform optical character recognition ocr and object detection in images
+</DOC>
+
+<DOC>
+data collection and processing with python
+this teaches you to fetch and process data from services on the internet it covers python list comprehensions and provides to practice extracting from and processing deeply nested data also how to use the python requests to interact with rest apis and what to look for in documentation of those apis for the final construct a tag recommender for the flickr photo sharing sitethe is wellsuited for you if you have already taken the python basics and python functions files and dictionaries courses courses and of the python programming if you are already familiar with python fundamentals but want practice at retrieving and processing complex nested data from internet services you can also benefit from this without taking the previous two this is the third of five courses in the python programming
+
+introduction
+ungraded lab
+introduction to the whats new updates and improvements in the second edition welcome to python data collection and processing with python optional how to use the interactive textbook executing python in the jupyter environment
+
+nested data and nested iteration
+in one the lectures and activities from the runestone textbook will cover more complex data structures by the end of have learned how to process json formatted data traverse nested data using nested iteration and extract values from nested data
+introduction nested data nested lists nested dictionaries json format and the json conclusion nested data introduction nested iteration nested iteration structuring nested data shallow copies deep copies extracting from nested data a worked example of nested iteration conclusion nested data and nested iteration
+
+map filter and list comprehensions
+in two be more advanced forms of accumulation by the end of the have learned how to use the map and filter functions in combination with functions to transform or filter out data and store the resulting data in a new object have also learned how to accumulate data using a list comprehension
+introduction map and filter map filter conclusion map and filter introduction list comprehensions list comprehensions list comprehensions example list comprehensions example conclusion list comprehensions introduction zip zip an example using zip conclusion zip
+
+internet apis
+in three how to request data from the internet using application programming interfaces apis by the end of the have learned how to access data from a few apis cache data that you have requested and also learned how to read and with other apis that were not touched on in the
+introduction rest apis urls domain names and ip addresses routing http behind the scenes url query parameters rest api urls the requests generating urls with requestsget conclusion rest apis introduction using rest apis reading api documentation datamuse debugging calls to requestsget caching response content the requestswithcaching conclusion using rest apis introduction practice with rest apis itunes api flickr api conclusion practice with rest apis fun with the google places api running python in hosted systems creating your own api part creating your own api part creating your own api part introduction final
+</DOC>
+
+<DOC>
+python functions files and dictionaries
+this introduces the dictionary data structure and userdefined functions about local and global variables optional and keyword parameterpassing named functions and lambda expressions also about pythons sorted function and how to control the order in which it sorts by passing in another function as an input for your final read in simulated social media data from a file compute sentiment scores and write out csv files it covers chapters of the textbook fundamentals of python programming which is the accompanying text optional and free for this coursethe is wellsuited for you if you have already taken the python basics and want to gain further fundamental knowledge of the python language together both courses are geared towards newcomers to python programming those who need a refresher on python basics or those who may have had some exposure to python programming but want a more indepth exposition and vocabulary for describing and reasoning about programs this is a followup to the python basics of the python programming and it is the second of five courses in the
+
+welcome files and csv output
+in one the lectures and the runestone textbook will introduce you to the idea of incorporating files into your programs as an additional source of data how to read from a file write to a file and how to with the csv data format
+introduction to the whats new updates and improvements in the second edition welcome to python functions files and dictionaries how to use the interactive textbook executing python in the jupyter environment introduction files reading a file finding a file in your file system writing to a file using with to open files conclusion files introduction csv format reading a csv file writing data to a csv file reading from files with the csv writing to files with the csv tips on file naming conclusion csv format how to submit assessments recovering from corrupted notebooks
+
+dictionaries and dictionary accumulation
+in two the lectures and the runestone textbook will focus on a new data type dictionaries be introduced to the mechanics of dictionaries and then get practice using them in accumulation patterns both to build a dictionary using the pattern as well as find the best or worst result using the pattern
+introduction dictionary mechanics dictionaries demonstration dictionary basics dictionary operations dictionary methods demonstration dictionary methods aliasing and copying with dictionaries conclusion dictionary mechanics introduction dictionary accumulation dictionary accumulation demonstration dictionary accumulation accumulating results from a dictionary accumulating the best key csv with dictionaries conclusion dictionary accumulation
+
+functions and tuples
+in three be introduced to the construction of functions up to this point you have used functions in the programs before but have not had a chance to write your own functions including how to define a function how to incorporate parameters how to return data from a function the local or global scope of variables and potential side effects that could occur from function execution finally we look at tuples more in depth and how automatic packing and unpacking of tuples can be used in functions and in for loops
+introduction functions defining functions positional parameter passing returning values way of the programmer decoding a function a function that accumulates type hinting conclusion functions introduction variable scoping and side effects local and global variables function composition mutable objects and side effects test cases for functions way of the programmer enforcing variable typing for function parameters conclusion variable scoping and side effects introduction tuple packing and unpacking tuple packing tuple with unpacking conclusion tuple packing and unpacking
+
+more iteration and advanced functions
+in four the lectures and the runestone textbook will outline a more advanced iteration mechanism the while loop be introduced to using it when getting feedback from users as well as applying it to the turtle to draw images additionally also be exposed to more advanced function concepts such as the idea of parameters being optional not required and anonymous functions using lambda
+introduction while loop the while statement the listener loop break and continue way of the programmer infinite loops conclusion while loop introduction advanced functions introduction optional parameters mutation and optional parameters keyword parameters testing optional parameters testdriven development anonymous functions with lambda expressions conclusion advanced functions
+
+sorting
+in five the and runestone textbook will detail how to sort python objects both the basics and more advanced forms of sorting for dictionaries and how to break a tie if that occurs the final assessment will be a that asks you to read fake autogenerated data from a social media site to analyze social media post sentiments submit a csv file as well as images of graphs that demonstrate your findings
+introduction sorting basics invoking sort and sorted optional reverse parameter optional key parameter conclusion sorting basics introduction advanced sorting sorting a dictionarys keys breaking ties way of the programmer when to use a lambda expression conclusion advanced sorting introduction running python elsewhere installing python and vs code locally on windows installing python and vs code locally on mac using vs code running python in the cloud introduction final
+</DOC>
+
+<DOC>
+python software engineering and image manipulation
+this will walk you through a handson suitable for a portfolio be introduced to thirdparty apis and will be shown how to manipulate images using the python imaging library pillow how to apply optical character recognition to images to recognize text tesseract and pytesseract by the end of the have worked with these different libraries available for python to create a realworld projectthe is bestsuited for learners who have taken the first four courses of the python programming learners who already have python programming but want to practice with a handson realworld can also benefit from this this is the fifth and final in the python programming
+
+introduction
+programming
+introduction to the whats new updates and improvements in the second edition welcome to the python designing python converting class diagrams capturing interactions between classes completing the game introduction to
+
+the python imaging library pil
+programming
+introduction to the python imaging library fundamentals of images common functions in the python imaging library creating images in python introduction to
+
+optical character recognition ocr with tesseract
+programming
+introducing optical character recognition combining ocr with imaging using jupyter widgets
+</DOC>
+
+<DOC>
+python classes and inheritance
+this introduces classes instances and inheritance how to use classes to represent data in concise and natural ways also how to override builtin methods and how to create inherited classes that reuse functionality also about how to design classes finally be introduced to the good programming habit of writing automated tests for their own codethe is bestsuited for you if you are already familiar with python fundamentals which are covered in the python basics and python functions files and dictionaries courses courses and of the python programming it is optional to have taken the data collection and processing with python of the but knowledge of retrieving and processing complex nested data is helpful this is the fourth of five courses in the python programming
+
+introduction
+an introduction to the
+introduction to the whats new updates and improvements in the second edition welcome to python classes and inheritance how to use the interactive textbook executing python in the jupyter environment optional
+
+classes
+lectures and activities from the runestone textbook will cover more complex data structures by the end of have learned how to process json formatted data traverse nested data using nested iteration and extract values from nested data
+introduction constructing classes userdefined classes adding parameters to the constructor adding other methods to a class instance variable search order private and public instance variables example creating instances from data conclusion constructing classes introduction objects and instances converting an object to a string special dunderscore methods instances as return values sorting lists of instances class variables and instance variables thinking about classes and instances testing classes conclusion objects and instances
+
+extending and modifying classes with inheritance and decorators
+programming app items ungraded lab
+introduction inheritance inheriting variables and methods overriding methods invoking the parent classs method multiple inheritance conclusion inheritance introduction decorators function wrapping and decorators decorators with classes property decorators method decorators outro decorators
+
+more advanced functions and exceptions
+programming app items ungraded lab
+introduction more advanced functions adding documentation to functions using docstrings dynamic positional arguments with args dynamic keyword arguments with kwargs decorators with arguments builtin decorators in the functools outro more advanced functions introduction exceptions exception handling flowofcontrol handling different exception types exception instances when to use tryexcept conclusion exceptions debugging with break points introduction to django how django uses classes and inheritance introduction final
+</DOC>
+
+<DOC>
+python basics
+this introduces the basics of python including conditional execution and iteration as control structures and strings and lists as data structures an onscreen turtle to draw pretty pictures also to draw reference diagrams as a way to reason about executions which will help to build up your debugging the has no prerequisites it will cover chapters of the textbook fundamentals of python programming which is the accompanying text optional and free for this coursethe is for you if youre a newcomer to python programming if you need a refresher on python basics or if you may have had some exposure to python programming but want a more indepth exposition and vocabulary for describing and reasoning about programs this is the first of five courses in the python programming
+
+introduction and the basics of programming in python
+in one be introduced to programming in python through lectures and the runestone textbook an interactive online textbook built for this by the end of the have run your first python and learned how to draw images by writing a
+introduction to the whats new updates and improvements in the second edition how to use the interactive textbook getting started introduction programming in python values and data types operators and operands function calls data types type conversion functions variables statements and expressions more about statements and expressions updating variables hardcoding input conclusion programming in python introduction objects and turtle graphics our first turtle instances a herd of turtles repetition with a for loop more turtle methods importing conclusion turtle graphics introduction debugging syntax runtime and semantic errors know your error messages incremental programming common errors conclusion debugging
+
+sequences and iteration
+in two use the lectures and the runestone textbook to understand the basics of a few python data types lists strings tuples as well as a control structure for loops by the end of be able to write more complex programs that create drawings by incorporating for loops finally we will present the basics of an accumulation pattern to you which will be expanded on in each for the rest of the
+introduction lists and strings strings lists tuples the index operator length the slice operator examples of slicing and indexing concatenation and repetition count and index split and join conclusion lists and strings introduction iteration the for loop the accumulator pattern the range function conclusion iteration introduction the way of the programmer naming your variables in for loops printing intermediate results keeping track of your iterator variable and your iterable conclusion the way of the programmer
+
+booleans and conditionals
+in three a new python data type the boolean as well as another control structure conditional execution through the use of lectures and the runestone textbook what binary unary nested and chained conditionals are as well as how to incorporate conditionals within an accumulation pattern
+introduction boolean expressions boolean expressions logical operators the in and not in operators precedence of operators automated tests with assert conclusion boolean expressions introduction conditional execution conditional execution unary selection nested conditionals and chained conditionals testing conditionals the accumulator pattern with conditionals and accumulating a maximum value conclusion conditional execution
+
+sequence mutation and accumulation patterns
+in four we will present deeper knowledge on using lists strings and python objects in general we will also cover how to use the accumulation pattern with lists and with strings the final will test your knowledge and through application much like previous assessments and did though with a more difficult set of tasks now that you have learned the basics
+introduction sequence mutation mutability list element deletion objects and references aliasing cloning lists conclusion sequence mutation introduction methods on lists and strings methods on lists append vs concatenate nonmutating methods on strings string format method fstrings conclusion methods on lists and strings introduction accumulating lists and strings the accumulator pattern with lists the accumulator pattern with strings conclusion accumulating lists and strings introduction way of the programmer making reference diagrams accumulator pattern strategies conclusion way of the programmer introduction final
+</DOC>
+

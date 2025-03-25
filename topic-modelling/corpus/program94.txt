@@ -1,0 +1,138 @@
+<DOC>
+data science fundamentals with python and sql
+data science is one of the hottest professions of the decade and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater this from ibm will help anyone interested in pursuing a in data science by teaching them fundamental to get started indemand fieldthe consists of selfpaced online courses that will provide you with the foundational required for data science including open source tools and libraries python statistical analysis sql and relational databases these data science prerequisites through handson practice using real data science tools and realworld data setsupon successfully completing these courses have the practical knowledge and to delve deeper in data science and on more advanced data science no prior knowledge of computer science or programming languages required this is ace recommendedwhen you complete you can earn up to college credits applied projectall courses in the contain multiple handson labs and to help you gain practical and with a variety of data sets build your data science portfolio from the artifacts you produce throughout this courseculminating includeextracting and graphing financial data with the pandas data analysis python librarygenerating visualizations and conducting statistical tests to provide insight on housing trends using census datausing sql to query census crime and demographic data sets to identify causes that impact enrollment safety health and environment ratings in schools
+</DOC>
+
+<DOC>
+python for data science
+this minicourse is intended to for you to demonstrate foundational python for working with data this primarily involves completing a in which assume the role of a data scientist or a data analyst and be provided with a realworld data set and a realworld inspired scenario to identify patterns and trends perform specific data science and data analytics tasks such as extracting data web scraping visualizing data and creating a dashboard this will showcase your proficiency with python and using libraries such as pandas and beautiful soup within a jupyter notebook upon completion have an impressive to add to your job portfolio prerequisite python for data science ai and development from ibm is a prerequisite for this please ensure that before taking this you have either completed the python for data science ai and development from ibm or have equivalent proficiency in working with python and data note this is not intended to teach you python and does not have too much instructional content it is intended for you to apply prior python knowledge
+
+crowdsourcing short squeeze dashboard
+demonstrate your in python the language of choice for data science and data analysis apply python fundamentals python data structures and with data in python by working on a real model a data scientist or data analysts role and build a dashboard using python and popular python libraries using jupyter notebook
+html for webscraping webscraping
+</DOC>
+
+<DOC>
+statistics for data science with python
+this statistics for data science is designed to introduce you to the basic principles of statistical methods and procedures used for data analysis after completing this have practical knowledge of crucial topics in statistics including data gathering summarizing data using descriptive statistics displaying and visualizing data examining relationships between variables probability distributions expected values hypothesis testing introduction to anova analysis of variance regression and correlation analysis take a handson approach to statistical analysis using python and jupyter notebooks the tools of choice for data scientists and data analysts at the end of the complete a to apply various concepts in the to a data science problem involving a reallife inspired scenario and demonstrate an understanding of the foundational statistical thinking and reasoning the focus is on developing a clear understanding of the different approaches for different data types developing an intuitive understanding making appropriate assessments of the proposed methods using python to analyze our data and interpreting the output accurately this is suitable for a variety of professionals and students intending to start their journey in data and statisticsdriven roles such as data scientists data analysts business analysts statisticians and researchers it does not require any computer science or statistics background we strongly recommend taking the python for data science before starting this to get familiar with the python programming language jupyter notebooks and libraries an optional refresher on python is also provided after completing this a learner will be able to calculate and apply measures of central tendency and measures of dispersion to grouped and ungrouped data summarize present and visualize data in a way that is clear concise and provides a practical insight for nonstatisticians needing the results identify appropriate hypothesis tests to use for common data sets conduct hypothesis tests correlation tests and regression analysis demonstrate proficiency in statistical analysis using python and jupyter notebooks
+
+introduction and python basics
+welcome
+welcome from your instructors python packages for data science
+
+introduction descriptive statistics
+this will focus on introducing the basics of descriptive statistics mean median mode variance and standard deviation it will explain the usefulness of the measures of central tendency and dispersion for different levels of measurement
+welcome to statistics types of data measure of central tendency measure of dispersion
+
+data visualization
+this will focus on different types of visualization depending on the type of data and information we are trying to communicate to calculate and interpret these measures and graphs
+visualization fundamentals statistics by groups statistical charts introducing the teachers rating data
+
+introduction to probability distributions
+this will introduce the basic concepts and application of probability and probability distributions
+random numbers and probability distributions state your hypothesis normal distribution t distribution probability of getting a high or low teaching evaluation
+
+hypothesis testing
+this will focus on teaching the appropriate test to use when dealing with data and relationships between them it will explain the assumptions of each test and the appropriate language when interpreting the results of a hypothesis test
+ztest or ttest dealing with tails and rejections equal vs unequal variances anova correlation tests
+
+regression analysis
+this will dive straight into using python to run regression analysis for testing relationships and differences in sample and population means rather than the classical hypothesis testing and how to interpret them
+regression the workhorse of statistical analysis regression in place of t test regression in place of anova regression in place of correlation
+
+case boston housing data
+in the final of the be given a dataset and a scenario where use descriptive statistics and hypothesis testing to give some insights about the data you were provided use watson studio for your analysis and upload your notebook for a peer review and will also review a peers the contain the complete information you need
+
+final exam
+
+
+other resources
+cheat sheet for statistics in python
+</DOC>
+
+<DOC>
+python for data science ai development
+kickstart your of python with this beginnerfriendly selfpaced taught by an expert python is one of the most popular languages in the programming and data science world and demand for individuals who have the ability to apply python has never been higher this introduction to python will take you from zero to programming in python in a matter of hoursno prior programming necessary about python basics and the different data types familiarize yourself with python data structures like list and tuples as well as logic concepts like conditions and branching use python libraries such as pandas numpy beautiful soup also use python to perform tasks such as data collection and web scraping with apis practice and apply what you through handson labs using jupyter notebooks by the end of this feel comfortable creating basic programs working with data and automating realworld tasks using python this is suitable for anyone who wants to data science data analytics software development data engineering ai and devops as well as a number of other job roles
+
+python basics
+this teaches the basics of python and begins by exploring some of the different data types such as integers real numbers and strings continue with the and how to use expressions in mathematical operations store values in variables and the many different ways to manipulate strings
+introduction introduction to python getting started with jupyter types expressions and variables string operations
+
+python data structures
+this begins a journey into python data structures by explaining the use of lists and tuples and how they are able to store collections of data in a single variable next about dictionaries and how they function by storing data in pairs of keys and values and end with python sets to how this type of collection can appear in any order and will only contain unique elements
+lists and tuples dictionaries sets
+
+python programming fundamentals
+this discusses python fundamentals and begins with the concepts of conditions and branching continue through the and how to implement loops to iterate over sequences create functions to perform a specific task perform exception handling to catch errors and how classes are needed to create objects
+conditions and branching loops functions exception handling objects and classes
+
+working with data in python
+this explains the basics of working with data in python and begins the path with how to read and write files continue the and uncover the best python libraries that will aid in data manipulation and mathematical operations
+reading files with open writing files with open pandas loading data pandas working with and saving data one dimensional numpy two dimensional numpy
+
+apis and data collection
+this delves into the unique ways to collect data by the use of apis and web scraping it further explores data collection by explaining how to read and collect data when dealing with different file formats
+application interface rest apis http requests part rest apis http requests part optional html for web scraping optional web scraping working with different file formats
+</DOC>
+
+<DOC>
+tools for data science
+in order to be successful in data science you need to be skilled with using tools that data science professionals employ as part of their jobs this teaches you about the popular tools in data science and how to use them become familiar with the data scientists tool kit which includes libraries packages data sets machine models kernels as well as the various open source commercial big data and cloudbased tools with jupyter notebooks jupyterlab rstudio ide git github and watson studio understand what each tool is used for what programming languages they can execute their features and limitations this gives plenty of handson in order to develop for working with these data science tools with the tools hosted in the cloud on network labs be able to test each tool and follow instructions to run simple code in python r or scala towards the end the create a final with a jupyter notebook demonstrate your proficiency preparing a notebook writing markdown and sharing your with your peers
+
+overview of data science tools
+about the different types and categories of tools that data scientists use and popular examples of each also become familiar with open source cloudbased and commercial options for data science tools
+introduction categories of data science tools open source tools for data science part open source tools for data science part commercial tools for data science cloud based tools for data science
+
+languages of data science
+for users who are just starting on their data science journey the range of programming languages can be overwhelming so which language should you first this will bring awareness about the criteria that would determine which language you should the benefits of python r sql and other common languages such as java scala c javascript and julia explore how you can use these languages in data science also look at some sites to locate more information about the languages
+languages of data science introduction to python introduction to r language introduction to sql other languages for data science
+
+packages apis data sets and models
+about the various libraries in data science in addition understand an api in relation to rest request and response further in the explore open data sets on the data asset exchange finally how to use a machine model to solve a problem and navigate the model asset exchange
+libraries for data science application programming interfaces apis data sets powering data science sharing enterprise data data asset exchange machine models from models to make predictions the model asset exchange
+
+jupyter notebooks and jupyterlab
+with the advancement of digital data jupyter notebook allows a data scientist to record their data experiments and results that others can reuse this introduces the jupyter notebook and jupyter lab how to with different kernels in a notebook session and about the basic jupyter architecture in addition identify the tools in an anaconda jupyter environment finally the gives an overview of cloud based jupyter environments and their data science features
+introduction to jupyter notebooks getting started with jupyter jupyter kernels jupyter architecture additional anaconda jupyter environments additional cloud based jupyter environments
+
+rstudio github
+r is a statistical programming language and is a powerful tool for data processing and manipulation this will start with an introduction to r and rstudio about the different r visualization packages and how to create visual charts using the plot function in addition distributed version control systems dvcs have become critical tools in software development and key enablers for social and collaborative coding while there are many distributed versioning systems git is amongst the most popular ones further in the develop the essential conceptual and handson to with git and github start with an overview of git and github followed by creation of a github account and a repository adding files to it and committing your changes using the web interface next become familiar with git workflows involving branches and pull requests prs and merges also complete a at the end to apply and demonstrate your newly acquired
+introduction to r and rstudio plotting in rstudio overview of gitgithub introduction to github github repositories github getting started github working with branches
+
+create and share your jupyter notebook
+on a final to demonstrate some of the learned in the also be tested on your knowledge of various components and tools in a data scientists toolkit learned in the previous
+
+optional ibm watson studio
+watson studio is a collaborative platform for the data science community and is used by data analysts data scientists data engineers developers and data stewards to analyze data and construct models about watson studio and ibm cloud pak for data as a service then create an ibm watson studio service and a in watson studio after creating the create a jupyter notebook and load a data file also explore the different templates and kernels in a jupyter notebook finally connect your watson studio account to github and publish the notebook in github note this part of the is optional and is not a mandatory requirement to complete the lab provided of the
+introduction to watsonxai creating an ibm cloud account and a watsonx service jupyter notebooks in watson studio part jupyter notebooks in watsonx part linking github to watson studio
+</DOC>
+
+<DOC>
+databases and sql for data science with python
+working knowledge of sql or structured query language is a must for data professionals like data scientists data analysts and data engineers much of the worlds data resides in databases sql is a powerful language used for communicating with and extracting data from databasesin this sql inside out from the very basics of select statements to advanced concepts like joins write foundational sql statements like select insert update and delete filter result sets use where count distinct and limit clauses differentiate between dml ddl create alter drop and load tables use string patterns and ranges order and group result sets and builtin database functions build subqueries and query data from multiple tables access databases as a data scientist using jupyter notebooks with sql and python with advanced concepts like stored procedures views acid transactions inner outer joins through handson labs and practice building sql queries with real databases on the cloud and use real data science tools in the final analyze multiple realworld datasets to demonstrate your
+
+getting started with sql
+be introduced to databases how to use basic sql statements like select insert update and delete also get an understanding of how to refine your query results with the where clause as well as using count limit and distinct
+introduction introduction to databases select statement count distinct limit insert statement update and delete statements
+
+introduction to relational databases and tables
+more about relational database concepts and their importance this helps you to understand the process of creating a table in your database on mysql using the graphical interface and sql scripts further also how to alter the entries or delete the entries for any table in the database or even delete the table itself
+relational database concepts types of sql statements ddl vs dml create table statement alter drop and truncate tables how to create a database instance on cloud
+
+intermediate sql
+this helps you how to use string patterns and ranges to search data and how to sort and group data in result sets also practice composing nested queries and execute select statements to access data from multiple tables
+using string patterns and ranges sorting result sets grouping result sets builtin database functions date and time builtin functions subqueries and nested selects working with multiple tables
+
+accessing databases using python
+the basic concepts of using python to connect to databases in a jupyter notebook create tables load data query data using sql magic and sqlite python library also how to analyze data using python
+how to access databases using python writing code using dbapi accessing databases with sql magic analyzing data with python connecting to a database using ibmdb api creating tables loading data and querying data
+
+
+be working with multiple realworld datasets for the city of chicago be asked questions that will help you understand the data just as you would in the real world be assessed on the correctness of your sql queries and results
+working with real world datasets getting table and column details
+
+bonus advanced sql for data engineer honors
+this covers some advanced sql techniques that will be useful for data engineers how to build more powerful queries with advanced sql techniques like views transactions stored procedures and joins if you are following the data engineering track you must complete this completion of this is not required for those completing the data science or data analyst tracks
+views stored procedures acid transactions join overview inner join outer joins
+</DOC>
+

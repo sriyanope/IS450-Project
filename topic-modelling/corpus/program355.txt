@@ -1,0 +1,89 @@
+<DOC>
+tensorflow data and deployment
+continue developing your in tensorflow as you to navigate through a wide range of deployment scenarios and discover new ways to use data more effectively when training your machine modelsin this fourcourse how to get your machine models into the hands of real people on all kinds of devices start by understanding how to train and run machine models in browsers and in mobile applications how to leverage builtin datasets with just a few lines of code about data pipelines with tensorflow data services use apis to control data splitting process all types of unstructured data and retrain deployed models with user data while maintaining data privacy apply your knowledge in various deployment scenarios and get introduced to tensorflow serving tensorflow hub tensorboard and more industries all around the world are adopting artificial intelligence this from laurence moroney and andrew ng will help you develop and deploy machine models across any device or platform faster and more accurately than everlooking for a place to start master the foundational basics of tensorflow with the deeplearningai tensorflow developer certificateopens in a new tab looking to customize and build powerful realworld models for complex scenarios check out the tensorflow advanced techniques specializationopens in a new tab applied projectin the tensorflow data and deployment to apply your knowledge in various deployment scenarios and get introduced to tensorflow serving tensorflow hub tensorboard and more implementing you can add to your portfolio and show in interviews
+</DOC>
+
+<DOC>
+devicebased models with tensorflow lite
+bringing a machine model into the real world involves a lot more than just modeling this will teach you how to navigate various deployment scenarios and use data more effectively to train your modelthis second teaches you how to run your machine models in mobile applications how to prepare models for a lowerpowered batteryoperated devices then execute models on both android and ios platforms finally explore how to deploy on embedded systems using tensorflow on raspberry pi and microcontrollers this builds upon our tensorflow in practice if you are new to tensorflow we recommend that you take the tensorflow in practice first to develop a deeper foundational understanding of how neural networks we recommend that you take the deep
+
+devicebased models with tensorflow lite
+welcome to this on tensorflow lite an exciting technology that allows you to put your models directly and literally into peoples hands start with a deep dive into the technology and how it works about how you can optimize your models for mobile use where battery power and processing power become an important factor then look at building applications on android and ios that use models and see how to use the tensorflow lite interpreter in these environments wrap up the with a look at embedded systems and microcontrollers running your models on raspberry pi and sparkfun edge boards dont worry if you dont have access to the hardware for the most part be able to do everything in emulated environments so lets get started by looking at what tensorflow is and how it works
+introduction a conversation with andrew ng a few words from laurence features and components of mobile ai architecture and performance optimization techniques saving converting and optimizing a model examples quantization tfselect paths in optimization running the models transfer converting a model to tflite transfer with tflite
+
+running a tf model in an android app
+last you learned about tensorflow lite and you saw how to convert your models from tensorflow to tensorflow lite format you also learned about the standalone tensorflow lite interpreter which could be used to test these models you wrapped with an exercise that converted a fashion mnist based model to tensorflow lite and then tested it with the interpreter look at the first of the deployment types for this android android is a versatile operating system that is used in a number of different device type but most commonly phones tablets and tv systems using tensorflow lite you can run your models on android so you can bring ml to any of these device types while it helps to understand some android programming concepts we hope that be able to follow along even if you dont and at the very least try out the full sample apps that well explore for image classification object detection and more
+introduction a conversation with andrew installation and resources architecture of a model initializing the interpreter preparing the input inference and results code walkthrough run the app classifying camera images initialize and prepare input demo of camera image classifier initialize model and prepare inputs inference and results demo of the object detection app code for the inference and results
+
+building the tensorflow model on ios
+the other popular mobile operating system is of ios so do very similar tasks to last how to take models and run them on ios need some programming background with swift for ios to fully understand everything we go through but even if you dont have this expertise i think this weeks content is something find fun to explore and how to build a variety of ml applications that run on this important operating system
+introduction a conversation with andrew ng a few words from laurence what is swift tensorflowliteswift cats vs dogs app taking the initial steps scaling the image more steps in the process looking at the app in xcode what have we done so far and how do we continue using the app app architecture model details initial steps final steps looking at the code for the image classification app object classification intro tfl detect app app architecture initial steps final steps looking at the code for the object detection model
+
+tensorflow lite on devices
+now that youve looked at tensorflow lite and explored building apps on android and ios that use it the next and final step is to explore embedded systems like raspberry pi and how to get your models running on that the nice thing is that the pi is a full linux system so it can run python allowing you to either use the full tensorflow for training and inference or just the interpreter for inference id recommend the latter as training on a pi can be slow
+introduction a conversation with andrew ng a few words from laurence devices starting to on a raspberry pi how do we start image classification the step process object detection back to the step process raspberry pi demo microcontrollers closing words by laurence a conversation with andrew ng
+</DOC>
+
+<DOC>
+advanced deployment scenarios with tensorflow
+bringing a machine model into the real world involves a lot more than just modeling this will teach you how to navigate various deployment scenarios and use data more effectively to train your modelin this final explore four different scenarios encounter when deploying models be introduced to tensorflow serving a technology that lets you do inference over the web move on to tensorflow hub a repository of models that you can use for transfer then use tensorboard to evaluate and understand how your models as well as share your model metadata with others finally explore federated and how you can retrain deployed models with user data while maintaining data privacy this builds upon our tensorflow in practice if you are new to tensorflow we recommend that you take the tensorflow in practice first to develop a deeper foundational understanding of how neural networks we recommend that you take the deep
+
+tensorflow extended
+
+introduction a conversation with andrew ng introduction serving installing tf serving tensorflow serving setup for serving serving predictions passing data to serving getting the predictions back running the colab complex model
+
+sharing pretrained models with tensorflow hub
+programming ungraded lab
+introduction a conversation with andrew ng introduction to tf hub transfer inference storage text based models word embeddings experimenting with embeddings colab classify cats and dogs transfer
+
+tensorboard tools for model training
+programming ungraded lab
+introduction a conversation with andrew ng tensorboard scalars callbacks histograms publishing model details local tensorboard looking at graphics in a dataset more than one image confusion matrix multiple callbacks
+
+federated
+
+introduction a conversation with andrew ng training on mobile devices data at the edge how it works maintaining user privacy masking apis for federated example of federated outro
+</DOC>
+
+<DOC>
+browserbased models with tensorflowjs
+bringing a machine model into the real world involves a lot more than just modeling this will teach you how to navigate various deployment scenarios and use data more effectively to train your modelin this first train and run machine models in any browser using tensorflowjs techniques for handling data in the browser and at the end build a computer vision that recognizes and classifies objects from a webcam this builds upon our tensorflow in practice if you are new to tensorflow we recommend that you take the tensorflow in practice first to develop a deeper foundational understanding of how neural networks we recommend that you take the deep
+
+introduction to tensorflowjs
+welcome to browserbased models with tensorflowjs the first of the tensorflow for data and deployment first were going to look at how to train machine models in the browser and how to use them to perform inference using javascript this will allow you to use machine directly in the browser as well as on backend servers like nodejs in the first of the we are going to build some basic models using javascript and well execute them in simple web pages
+introduction a conversation with andrew ng introduction a conversation with andrew ng a few words from laurence building the model training the model first example in code the iris dataset reading the data onehot encoding designing the nn iris classifier in code
+
+image classification in the browser
+well look at computer vision problems including some of the unique considerations when using javascript such as handling thousands of images for training by the end of this know how to build a site that lets you draw in the browser and recognizes your handwritten digits
+introduction a conversation with andrew ng creating a convolutional net with javascript visualizing the training process what is a sprite sheet using the sprite sheet using tftidy to save memory a few words from laurence mnist classifier in code
+
+converting models to json format
+well see how to take models that have been created with tensorflow in python and convert them to json format so that they can run in the browser using javascript we will start by looking at two models that have already been preconverted one of them is going to be a toxicity classifier which uses nlp to determine if a phrase is toxic in a number of categories the other one is mobilenet which can be used to detect content in images by the end of this train a model in python yourself and convert it to json format using the tensorflowjs converter
+introduction a conversation with andrew ng a few words from laurence pretrained tensorflowjs models toxicity classifier toxicity classifier in code mobilenet using mobilenet training results mobilenet example in code converting models to javascript converting models to javascript in code linear example in code
+
+transfer with pretrained models
+one final type that need when creating machine learned applications in the browser is to understand how transfer works build a complete web site that uses tensorflowjs capturing data from the web cam and retraining mobilenet to recognize rock paper and scissors gestures
+introduction a conversation with andrew ng a few words from laurence building a simple web page retraining the mobilenet model the training function capturing the data the dataset class training the network with the captured data performing inference rock paper scissors in code a conversation with andrew ng
+</DOC>
+
+<DOC>
+data pipelines with tensorflow data services
+bringing a machine model into the real world involves a lot more than just modeling this will teach you how to navigate various deployment scenarios and use data more effectively to train your modelin this third perform streamlined etl tasks using tensorflow data services load different datasets and custom feature vectors using tensorflow hub and tensorflow data services apis create and use prebuilt pipelines for generating highly reproducible io pipelines for any dataset optimize data pipelines that become a bottleneck in the training process publish your own datasets to the tensorflow hub library and share standardized data with researchers and developers around the world this builds upon our tensorflow in practice if you are new to tensorflow we recommend that you take the tensorflow in practice first to develop a deeper foundational understanding of how neural networks we recommend that you take the deep
+
+data pipelines with tensorflow data services
+be able to perform efficient etl tasks using tensorflow data services apis
+a conversation with andrew ng introduction popular datasets data pipelines extract transform and load versioning datasets looking at the notebook using tfds in keras to train fashion mnist horses or humans in tfds wrap up
+
+splits and slices api for datasets in tf
+construct trainvalidationtest splits of any dataset either custom or present in tensorflow hub dataset library using splits api
+introduction introduction to splits api splits api notebook walkthrough file structure in tensorflow datasets feature descriptors tfrecord colab walkthrough wrap up
+
+exporting your data into the training pipeline
+extend your knowledge of data pipelines
+a conversation with andrew ng introduction input data basic mechanics numeric and bucketized columns vocabulary and hashed columns feature crossing embedding columns introduction notebook walkthrough introduction numpy pandas and images csv text and tfrecord generators introduction notebook walkthrough introduction using numpy and pandas image data csv data text data
+
+performance
+how to handle your data input to avoid bottlenecks race conditions and more
+a conversation with andrew ng introduction etl what happens when you train a model introduction caching parallelism apis autotuning parallelizing data extraction best practices for code improvements a few words by laurence a conversation with andrew ng introduction how to start using a dataset implementation file access and possible problems in data publishing the dataset introduction going through the colab part going through the colab part closing words a conversation with andrew ng
+</DOC>
+

@@ -1,0 +1,131 @@
+<DOC>
+business analytics
+our world has become increasingly digital and business leaders need to make sense of the enormous amount of available data today in order to make key strategic business decisions and leverage data as a competitive advantage it is critical to understand how to draw key insights from this data the business analytics is targeted towards aspiring managers senior managers and business executives who wish to have a wellrounded knowledge of business analytics that integrates the areas of data science analytics and business decision making the courses will focus on strategy methods tools and applications that are widely used in business topics covered include data strategy at firms reliable ways to collect analyze and visualize dataand utilize data in organizational decision making understanding data modeling and predictive analytics at a highlevellearning basic methods of business analytics by working with data sets and tools such as power bi alteryx and rstudiolearning to make informed business decisions via analytics across key functional areas in business such as finance marketing retail supply chain management and social media to enhance profitability and competitiveness applied projecta central premise of these courses is that applying targeted subjectmatter expertise is crucial in order to frame the correct data problem collect and analyze data and to develop and operationalize performance metrics each subject area will be followed by an indepth projectbased application and analysis exercise
+</DOC>
+
+<DOC>
+introduction to business analytics with r
+nearly every aspect of business is affected by data analytics for businesses to capitalize on data analytics they need leaders who understand the business analytic workflow this addresses the human gap by providing a foundational set of data processing that can be applied to many business settingsin this use a data analytic language r to efficiently prepare business data for analytic tools such as algorithms and visualizations cleaning transforming aggregating and reshaping data is a critical but inconspicuous step in the business analytic workflow as you how to use r to prepare data for analysis gain using rstudio a powerful integrated development environment ide that has many builtin features that simplify coding with r as you about the business analytic workflow also consider the interplay between business principles and data analytics specifically explore how delegation control and feasibility influence the way in which data is processed also be introduced to examples of business problems that can be solved with data automation and analytics and methods for communicating data analytic results that do not require copying and pasting from one platform to another
+
+overview and how do i get started using a data analytic language to solve business problem
+be introduced to the role of data analytics in business domains and r and rstudio
+introduction meet prof ron guymon introduction to business analytics and r overview of business analytics examples of business analytics fact framework introduction to r getting started with r calculations with r making your code readable functions and using the builtin help reading and writing data conclusion
+
+how do i get to know my data and share it with others
+explore whether data is an asset and how to explore a dataset
+introduction is data an asset properties of a tidy dataframe data dictionaries getting to know your data explore as in excel getting to know your data referring to specific rows and columns statistics getting to know your data statistics for each column and quick plots fact framework tell others about the results r notebooks markdown knitting markdown files dashboards preview conclusion
+
+how can i use functions to help with data preparation
+this starts with a discussion on the importance of assembling data for business analytic purposes and then illustrates data transformation using tidyverse a group of useful r packages
+introduction assembling data data types more on functions packages introduction to other data types creating date types calculations with dates factors logical type and relational operators character strings conclusion
+
+how do i preprocess data
+we will how delegation feasibility and control influence the level at which data is aggregated we then focus on performing a variety of data preprocessing tasks to prepare data for use in visualizations and algorithms
+introduction framing questions for actionable insight dataframe shape level of aggregation dataframe control versus feasibility dataframe shape wide versus long review of notebooks and introduction to dplyr subset data using dplyrs select and filter functions useful operators and in using dplyrs mutate rename relocate and distinct functions handling missing values data aggregation and pivoting dataframes between wide and long shapes stacking and sorting data joining data conclusion gies online programs on your terms
+</DOC>
+
+<DOC>
+applying data analytics in marketing
+this introduces students to marketing analytics through a wide range of analytical tools and approaches we will discuss causal analysis survey analysis using regression textual analysis sentiment analysis and network analysis this aims to provide the foundation required to make better marketing decisions by analyzing multiple types of data related to customer satisfaction
+
+introduction and causal analysis
+in the first we will discuss analytics in marketing and dive into causal analysis an important tool for analytics we will start with a broad overview of why analytics is important for marketers what are the various types of data the process of applying analytics in marketing and the different types of analytics we will then delve deeper into causal analysis
+introduction instructor bio unnati narang instructor bio joseph yun the impact of the gies community causal analysis introduction introduction to marketing analytics part introduction to marketing analytics part causal analysis overview causal analysis motivating example and key concepts causal analysis randomized experiments causal analysis observational approaches tour of r and rstudio math function scalar variables column vectors data frame data frame import help and cheat sheets
+
+survey analysis
+in the second we will focus on the analysis of survey data using regression surveys are one of the key tools used by organizations to measure important constructs like customer satisfaction we will start with a broad understanding of the concept of customer satisfaction and various ways to measure it next we will discuss the tools to analyze survey data we will specifically focus on two regression methodslinear and logistic regressions finally we will conclude the with a handson logistic regression demonstration using an airline customer satisfaction survey dataset with r
+survey analysis introduction introduction to customer satisfaction psychological constructs customer satisfaction analysis statistical analysis background part statistical analysis background part evaluating airline survey data
+
+text analysis
+we will about the various methods of text analysis we will first introduce you to sentiment analysisthe most prevalent means of analyzing customer satisfaction with textual data we will demonstrate the sentiment analysis steps via r studio then we will shift our focus to text summarization techniques we begin by listing the preprocessing steps required to bring the text to an analyzable form next we look at how the frequency counts of multiword phrases of preprocessed text can reveal the common terms being discussed building on top of the ngrams we move onto a more intelligent method to automatically detect quality phrases we will also discuss the lda topic modeling a very popular way to detect topics in a body of texts we will wrap up this with a highlight on supervised machine and an example of its application
+text analysis introduction analyzing social media attitude part analyzing social media attitude part introduction to text summarization ngram frequency count and phrase mining lda topic modeling part lda topic modeling part
+
+network analysis
+we will introduce a method to analyze customer satisfaction influence using social media data social networks are the perfect dataset to utilize network analysis to understand how people are interacting with other people and forming networks identifying a pattern in social media relationships can be useful when making marketing decisions we will also review influencer brand personality analysis that can be used as a method for brands to find influencers similar in personality to themselves
+network analysis introduction network analysis basics analyzing influence with network analysis network analysis with r part network analysis with r part on your terms
+</DOC>
+
+<DOC>
+tools for exploratory data analysis in business
+this introduces several tools for processing business data to obtain actionable insight the most important tool is the mind of the data analyst accordingly explore what it means to have an analytic mindset also practice identifying business problems that can be answered using data analytics then be introduced to various software platforms to extract transform and load etl data into tools for conducting exploratory data analytics eda specifically practice using powerbi alteryx and rstudio to conduct the etl and eda processes the for this include development of an analytic mindset for approaching business problems the ability to appraise the value of datasets for addressing business problems using statistics and data visualizations the ability to competently operate business analytic software applications for exploratory data analysis
+
+orientation and analytics mindset
+your mind is the most important tool prepare your mind by about various mindsets and terms for approaching business analytic problems
+introduction about professor jessen hobson about professor ronald guymon introduction turning business data into business insights your mind is the most important tool analytics mindset system vs system inductive versus deductive reasoning let the data speak introduction to the data set teca data analytics modeling pipeline business analytics key terms conclusion
+
+etl and eda using powerbi
+powerbi is great for both data assembly and visualization we will use powerbi to prepare the teca data for analysis and then visually explore that data with various charts
+introduction data business problem introduction to power bi installing power bi etl examine data with power query editor et dates and calculated columns etl checking for and eliminating outliers etl data models and joins eda univariate plots for numeric data histograms and boxplots eda plots for categorical data eda filters slicers and drill through eda multivariate plots scatter plots and line plots eda publishing a power bi report conclusion
+
+etl and eda using rstudio
+using r in rstudio to load transform clean and explore data
+introduction data business problem introduction to rstudio accessing and installing r and rstudio etl with rstudio part a examine data and data formats etl with rstudio part b examine data and data formats etl with rstudio part c examine data and data formats etl with rstudio part date formats etl with rstudio part checking for and eliminating outliers etl with rstudio part a data models and joins etl with rstudio part b data models and joins eda with rstudio part a variable types ggplot ingredients histogram of a continuous variable eda with rstudio part b variable types ggplot ingredients histogram of a continuous variable eda with rstudio part a scatter plot continuous continuous barcolumn plot discrete continuous box plot discrete continuous violin plot discrete continuous eda with rstudio part b scatter plot continuous continuous barcolumn plot discrete continuous box plot discrete continuous violin plot discrete continuous eda with rstudio part grouping data summarizing data barcolumn plot discrete continuous line graph discrete continuous eda with rstudio part a interpreting realistic grouped data line plots bar plots businesses insights eda with rstudio part b interpreting realistic grouped data line plots bar plots businesses insights conclusion
+
+etl and eda using alteryx
+alteryx is great for visually documenting the data analytic workflow we will use alteryx to assemble the teca data and explore it with plots and tables
+introduction data business problem introduction to alteryx installing and getting started with alteryx etl read in data and examine data quality etl dates and calculated columns etl outliers etl missing values etl data joins etl writing data and organizing the workflow eda using the field tool to create histograms eda interactive charts box bar scatter eda tables eda saving plots and tables to a report conclusion conclusion on your terms
+</DOC>
+
+<DOC>
+machine algorithms with r in business analytics
+one of the most exciting aspects of business analytics is finding patterns in the data using machine algorithms gain a conceptual foundation for why machine algorithms are so important and how the resulting models from those algorithms are used to find actionable insight related to business problems some algorithms are used for predicting numeric while others are used for predicting the classification of an other algorithms are used for creating meaningful groups from a rich set of data upon completion of this be able to describe when each algorithm should be used also be given the to use r and rstudio to run these algorithms and communicate the results using r notebooks
+
+orientation and regression algorithm for testing and predicting business data
+exploratory data analysis eda is a critical step in the business analytic workflow however eda is a timeconsuming approach for uncovering complex relationships moreover the visualizations that are often used for eda do not lend themselves well for quantifying confidence in results or for making predictions
+introduction about professor jessen hobson about professor ronald guymon introduction why isnt eda enough business problem data what problems can regression answer correlation linear models simple regression residuals and predictions multiple regression dummy variables conclusion
+
+framework for machine and logistic regression
+gain an understanding of machine in business and logistic regression
+introduction inference prediction and experimentation categories of ml models part types of data and terms categories of ml models part categories of algos how machine works in general evaluating ml model quality introduce the business problem to solve introduce the data introduction to logistic regression logistic regression hands on one variable part logistic regression hands on one variable part logistic regression hands on one variable part logistic regression hands on multiple variables conclusion
+
+classification algorithms
+classification algorithms in general knearest neighbors and decision trees
+introduction introduce the data introduction to classification introduce the business problem introduction to knearest neighbors creating knn model part creating knn model part creating knn model part introduction to decision trees creating decision tree models evaluating results from decision trees conclusion
+
+clustering algorithms
+clustering algorithms kmeans and dbscan
+introduction introduce the data introduction to clustering and questions that clustering can answer introduce the business problem introduction to kmeans clustering creating kmeans clusters evaluating kmeans clusters introduction to densitybased clustering creating densitybased clusters evaluating densitybased clusters conclusion conclusion on your terms
+</DOC>
+
+<DOC>
+applying data analytics in accounting
+this explores business analytic applications in accounting first it presents a survey of technology topics in accounting including process mining blockchain and applications in audit tax and assurance next the explores visualization and basic analytics in audit and control testing using r and alteryx next the examines the uses of text analysis in accounting and conducts text analysis using r and rstudio finally the examines robot process automation in general using uipath and its applications in accounting
+
+survey of analytics topics in accounting
+we provide a broad overview of the role of accounting as it interacts with data analytics and new technological advances we begin by understanding what accounting is and the environment surrounding it we then introduce you to the recent trends in the technology of accounting we conclude the with a discussion of three important topics in accounting cybersecurity process mining and blockchain
+introduction about professor jessen hobson the impact of the gies community survey of analytics topics in accounting introduction accounting is the language of business basics of accounting and key accounting terms basics of accounting and key accounting terms academic research in accounting accounting and technology overview tax technology overview technology in managerial accounting cybersecurity process mining blockchain for accounting blockchain for accounting survey of analytics topics in accounting conclusion
+
+controls and auditing
+this introduces you to important concepts related to auditing we begin by reviewing the different types of technology that can be used by the auditors to increase the effectiveness and efficiency of audits we then examine how and why mistakes or fraud occur we also discuss how internal controls can be placed to prevent misstatements finally we demonstrate the control test workflow using a realworld dataset in both alteryx designer and rstudio
+controls and auditing introduction audit technology overview reporting pressures earnings management and reporting fraud the fraud triangle and employee fraud need for controls definition of controls introduction of internal audit introduction to the case screen shot solutions in alteryx etl part screen shot solutions in alteryx etl part screen shot solutions in alteryx eda part screen shot solutions in alteryx eda part screen shot solutions in alteryx control tests part screen shot solutions in alteryx control tests part screen shot solutions in rstudio etl eda control tests part screen shot solutions in rstudio etl eda control tests part introduction to alteryx installing and getting started with alteryx accessing and installing r and rstudio controls and auditing conclusion
+
+text processing and analysis in accounting
+numbers are everywhere in the financial statements however accounting is also about more than numbers we discuss how text in accounting disclosure and other accounting information can contain useful information we also demonstrate how to implement a basic natural language processing nlp pipeline using r
+text processing and analysis in accounting introduction definitions for text analysis and nlp natural language processing text analysis in financial and tax accounting part text analysis in financial and tax accounting part text analysis in accounting case introduction nlp with conference calls part nlp with conference calls part nlp with conference calls part nlp with conference calls part text processing and analysis in accounting conclusion
+
+robot process automation in accounting
+accountants do many things that are standardized and mundane this introduces you to robotic process automation rpa that can be used to automate those routine tasks we begin by looking at the definition of rpa and where it stands in the automation continuum we then examine suitable tasks for rpa steps in implementing rpa and pros and cons associated with using rpa we will also discuss the effect of rpa on accounting we conclude the with a demonstration of rpa using uipath
+robot process automation in accounting introduction introduction to automation introduction to rpa the effect of rpa on accounting introduction to uipath hands on rpa scraping hands on rpa scraping hands on rpa excel to word hands on rpa excel to word hands on rpa excel to word hands on rpa excel to word robot process automation in accounting conclusion conclusion on your terms
+</DOC>
+
+<DOC>
+introduction to business analytics communicating with data
+this introduces students to the science of business analytics while casting a keen eye toward the artful use of numbers found in the digital space the goal is to provide businesses and managers with the foundation needed to apply data analytics to realworld challenges they confront daily in their lives students will to identify the ideal analytic tool for their specific needs understand valid and reliable ways to collect analyze and visualize data and utilize data in decision making for their agencies organizations or clients
+
+introduction and pictures you see with your brain
+this will help you earn the foundation needed to become a good data communicator after completion of this know the history of data visualizaiton understand todays dataviz tools make connections with visuals and evaluate the effectiveness of data visualizations
+meet professor kevin hartman welcome to introduction to business analytics communicating with data overview lecture studying the history of dataviz lecture understanding todays dataviz tools lecture making connections with visuals lecture evaluating the effectiveness of dataviz
+
+working fast and thinking slow
+this will walk you through various methods to access data the data could be either publicly available or company internal the also reviews why it is important for analysts to define clear objectives for their analysis also be introduced to frameworks that help guide digital marketing analysis and their importance to data visualization
+overview lecture understanding the growth of data lecture evaluating methods of data access lecture focusing your communication journey lecture planning your data story
+
+finding your data story
+an approach to finding patterns in data through visualization see how charts can be used to communicate messages that can be conceptual or data driven and declarative or exploratory next we will how to use different charting techniques to reveal data patterns visual aids play a major role in identifying ideas and as a result we will how to match the appropriate visual technique to the ideas we hope to expose next we will explore analysis tools rstudio is one of the most commonly used tools and we will explore its visual capabilities finally we will discuss a framework that will help analysts effectively plan for data collection analysis and ultimately visualization
+overview lecture finding patterns in data lecture being planful when creating dataviz lecture understanding the components of visual form lecture enriching content through connection
+
+getting your story across
+this explores telling stories through data that connect emotionally with your audience it will also review examples and figures that make the concept easy to understand the major dos and donts of creating dataviz and rules that lead to the clear depiction of your findings this unit specifically focuses on dona wongs guidelines for good data visualization and charts the last leg of teaches the three tests that help you improve your visualization in the final step of dataviz execution the mccandless method for presenting visualizations this fivestep process produces the most effective communication of the graphics to your audience
+overview lecture creating inviting dataviz lecture bringing sophistication to charts lecture improving chart legibility lecture presenting dataviz with impact on your terms
+</DOC>
+

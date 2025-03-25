@@ -1,0 +1,115 @@
+<DOC>
+supply chain management
+this is an introduction to the fascinating world of supply chain management when you complete the have a richer understanding of the complexities that companies are facing in todays global networked economy the is for you if youre looking to start a in supply chain management but lack the basic background youre working with people in supply chain management and want to understand their daily challenges better youre fascinated by how the flow of products information and finances link together the global economythe supply chain management is made up of four basic courses in logistics operations planning and sourcing followed by a capstone in supply chain management strategy the supply chain logistics will cover transportation warehousing and inventory and logistics network design the supply chain operations covers techniques used to optimize flow and focuses specifically on six sigma quality and lean practices in the supply chain planning master different forecasting approaches the supply chain sourcing deals with different techniques that help you create lasting and productive supplier relationships finally in the capstone on supply chain management strategy solve a reallife business caseinterested in advanced supply chain topics check out the other rutgers specializations
+</DOC>
+
+<DOC>
+supply chain management strategy
+have you ever wondered what it takes to manage a successful supply chain it all comes down to the right strategy supply chain management strategy is the indispensable direction for managing a successful supply chain this is the capstone of the supply chain management while it is strongly recommended that you take all courses you do not have to if you believe you already have those use the tools acquired in the previous four courses to create a supply chain management strategy in a reallife case scenario at the completion of this have shown mastery of the tools and techniques to successfully manage a complex network of companies that we call the supply chain
+
+what is supply chain strategy
+be introduced to the business case that on over the duration of this the goal of this part is to determine the overall direction of your improvement efforts after completing this be able to recognize the issues in a business better as well as customize your specific recommendations in the remainder of the
+what is supply chain management strategy how to save of revenue
+
+logistics at mtc
+you are going to examine the logistics challenges that mtc faces in addition to examining the current state of the companys logistics make recommendations to improve the companys logistics after completing this have demonstrated the ability to recognize a companys logistical challenges and make appropriate recommendations to overcome those issues
+logistics at mtc how much inventory do we need when to order inventory how do you build a logistics network facilities how many and where factors influencing logistics networks logistics customer service
+
+operations at mtc
+you are going to examine the operations challenges that mtc faces in addition to examining the current state of the companys operations make recommendations to improve the companys flow of products to the customers after completing this have demonstrated the ability to recognize a companys operational challenges and make appropriate recommendations to overcome those issues
+operations at mtc lean operations why do companies need warehouses how should we design a warehouse lean inventory
+
+planning at mtc
+you are going to examine the planning challenges that mtc faces in addition to examining the current state of the companys demand planning and fulfillment make recommendations to improve the companys forecasting after completing this have demonstrated the ability to recognize a companys forecasting and demand planning challenges and make appropriate recommendations to overcome those issues
+planning at mtc naive forecast cumulative mean forecast forecast accuracy moving average exponential smoothing
+
+sourcing at mtc
+you are going to examine the sourcing challenges that mtc faces in addition to examining the current state of the companys procurement activities make recommendations to improve the companys relationships with its suppliers as well as their ability to take advantage of closer relationships with its customers after completing this have demonstrated the ability to recognize a companys sourcing challenges and make appropriate recommendations to overcome those issues
+sourcing at mtc purchasing procurement supply management strategic sourcing make versus buy
+
+the solution
+you are going to craft a cumulative presentation of all your recommendations after completing this have demonstrated the ability to present a cohesive and logical argument to support your recommendations
+solution example thank you for with me
+</DOC>
+
+<DOC>
+supply chain logistics
+have you ever wondered how goods get delivered to us so quickly as soon as we order them one word logistics introductory supply chain logistics i will take you on a journey to this fascinating backbone of global trade we cover the three major building blocks of logistics networks transportation warehousing and inventory after completing this be able to differentiate the advantages and disadvantages of different modes of transportation understand what goes into designing and setting up a warehousing facility finally be able to select the options that enable you to develop logistics networks that minimize costs and deliver top customer service this is an introductory designed to provide you with a start on your journey in logistics you do not need to have any background in logistics but it would be beneficial if you had a basic understanding of business concepts join me and we will together about logisticsinterested in advanced supply chain topics check out the supply chain excellence mastertrack httpswwwcourseraorgmastertracksupplychainexcellencerutgers
+
+transportation
+welcome to the exciting world of logistics we are going to start by taking a look at transportation but before we get there i would like to introduce you to myself we will cover the different modes of transportation motor freight air freight intermodal and express delivery after completing this be able to weigh the benefits and drawbacks of different transportation modes furthermore demonstrate how transportation systems use different modes to facilitate the efficient movement of goods from origin to destination lastly be able to recognize what transportation modes were used by a shipping company just by looking at the tracking statement
+the importance of logistics moving freight over the road motor carriers flying freight air carriers containers on a train express delivery
+
+warehousing and inventory management
+this introduces you to warehousing and inventory management after completing this be able to design your of warehousing facility also understand the different types of inventory and why they are important to ensure customers can find the products they are looking for
+why do companies need warehouses how should we design a warehouse how much inventory do we need when to order inventory
+
+logistics network
+this builds on the previously covered building blocks of logistics networks and reviews the implications of putting together a logistics network after completing this be ready to tackle the final exam and able to design your own logistics network and understand the implications of logistics decisions on the overall satisfaction of our customers
+facilities how many and where factors influencing logistics networks striving for logistics customer service
+
+final exam
+this builds on the previously covered transportation warehousing and inventory be able to appreciate the implications of putting together a logistics network furthermore put all of the things into practice that we covered in the previous weeks after completing this have shown that you master the basics of logistics and are able to design your own logistics network
+</DOC>
+
+<DOC>
+supply chain sourcing
+have you ever wondered how companies manage relationships with their thousands of suppliers sourcing is an important part of managing a successful supply chain this introduces you to the exciting area of supply chain sourcing part of a broader on supply chain management master the supplier selection process and supplier segmentation at the completion of this have the tools and techniques to find the right vendors and maintain the right relationship with any one of your existing suppliers
+
+procurement purchasing supply management and strategic sourcing
+welcome to the exciting world of sourcing this introduces you to the professor who is teaching the courses in the supply chain management after completing this be able to understand the different levels of sourcing the act of purchasing the that is performed in a procurement department how to differentiate different supplier categories with strategic sourcing and how to elevate a firms performance with strategic sourcing
+what is supply chain sourcing purchasing procurement supply management strategic sourcing
+
+make versus buy decisions
+review the principles of make versus buy decisions what are the advantages and disadvantage of insourcing and outsourcing we will review the risks and benefits of both which will enable you to understand what goes into these decisions and why companies make them in he assessment review an outsourcing decision that a company or organization made and understand how it affects various stakeholders
+the make versus buy decision why should i insource why should i outsource
+
+supplier selection
+see an overview supplier segmentation and what the advantages and disadvantages of single and multiple sourcing furthermore review the implications of sourcing on the entire firm in an assessment
+supplier segmentation single versus multiple sourcing
+
+sourcing best practices
+we will review some best practices in sourcing and procuretopay systems which enable firms to automate and accelerate essential sourcing functions in the assessment build a supplier evaluation system that you can use in your personal and lives
+sourcing best practices procuretopay systems
+</DOC>
+
+<DOC>
+supply chain planning
+have you ever wondered how companies know how much to produce in advance so that they do not make too much or too little matching supply and demand requires planning this introduces you to the exciting area of supply chain planning part of a broader on supply chain management master different forecasting techniques essential for building a sales and operations plan at the completion of this have the tools and techniques to analyze demand data construct different forecasting techniques and choose the most suitable one for projecting future demand
+
+simple forecasting methods naive forecast and cumulative mean
+welcome to the exciting world of planning this introduces you to the professor who is teaching the courses in the supply chain management also construct forecasting models that enable you to predict future demand by the end of this short know what to expect in the and hopefully be as excited to about supply chain planning as i will be to teach you learners will review two simple forecasting methods the naive method and the cumulative mean finally create forecasts of your own based on a data set and provide the correct answers in the quiz
+what is supply chain planning so you want to forecast demand the naive forecast naive forecast screencast the cumulative mean cumulative mean screencast
+
+forecast accuracy and moving average
+learners will cover two more sophisticated forecasting methods the moving average and exponential smoothing
+forecast accuracy measures forecast accuracy measures screencast moving average screencast on moving average
+
+exponential smoothing and forecast selection
+master one more forecasting method exponential smoothing in addition how to pick the best forecasting approach and what to do with the forecast once it is implemented
+exponential smoothing exponential smothing screencast selecting the best forecast
+
+supply chain planning
+put your new forecasting to the test analyze a reallife dataset and make recommendations on the different forecasting methods
+</DOC>
+
+<DOC>
+supply chain operations
+have you ever wondered how products and services are created exactly the same thousands of times over and how companies are able to smooth out operations to manufacture efficiently effectively and without any waste how is such precision possible the answer lies at the heart of operations in the supply chain operations we introduce and apply essential process improvement tools to achieve perfection after completing this be able to apply the six sigma methodology for process improvement demonstrate that you understand the basic tenets of the lean philosophy that enables manufacturers to eliminate waste and make processes more efficient finally be able to apply the tools that you just gained to improve a process of your own this is an introductory designed to provide you with a start on your journey in operations you do not need to have any background in operations but it would be beneficial if you had a basic understanding of business concepts a working knowledge of spreadsheets and ideally have mastered the supply chain logistics join me and we will together about operations
+
+lean operations and theory of constraints
+welcome to the exciting world of operations this introduces you to the professor who is teaching the courses in the supply chain management also discover the essential tools that help make operations better by the end of this know what to expect in the and hopefully be as excited to about supply chain operations as i will be to teach you in addition understand the major goals of optimizing operations also be able to recall the major foundations of lean thinking and the theory of constraints
+what is supply chain operations the goals of operations speed flexibility quality and cost lean operations theory of constraints
+
+lean inventory
+in lean inventory we will focus on the application of lean principles to a core concern of supply chain management inventory by the end of this know how to calculate the economic order quantity which is an popular method of managing inventory in addition be able to quantify the uncertainty of demand and logistical execution to select the right level of safety stock finally be able to determine the size of a kanban bin by calculating leadtimedemand
+lean inventory screencast economic order quantity screencast safety stock calculation kanban
+
+six sigma
+six sigma is an overview of the six sigma quality system we start by reviewing the different quality systems that were popular in the past the main takeaway is an understanding of the dmaic methodology by the end of this be able to apply the dmaic methodology to improve a process
+from quality is free to six sigma dmaic and the define stage screencast of dmaic and the measure stage screencast of dmaic and the analyze stage screencast of dmaic and the improve stage screencast of dmaic and the control stage
+
+lean six sigma
+in lean six sigma apply all the tools you learned to a of your choosing be able to show that you not only mastered the lean tools but also the six sigma methodology to improve processes after completing this not only have a better process but also the ability to improve any process in a systematic manner
+</DOC>
+

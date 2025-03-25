@@ -1,0 +1,99 @@
+<DOC>
+linux and private cloud administration on ibm power systems
+this introduces red hat enterprise linux system administration and private cloud capabilities of ibm systems ibm power servers will be used to demonstrate these concepts through three courses a range of concepts from how to get started with linux to using linux in a large private cloud environment with openstackbased products such as ibm powervc brought to you by ibm applied projectthese courses include detailed handson exercises stepbystep guides which teach a range of concepts from how to get started with linux to using linux in a large private cloud environment after completing this you should be able to perform most linux system administration tasks with ease
+</DOC>
+
+<DOC>
+fundamentals of red hat enterprise linux
+this will provide you with a basic introduction to linux using red hat enterprise linux it will show you how a linux system is organized and will demonstrate introductory system administration tasks which be able to practice on your ownyou will be introduced to reasons why linux and the open source development model are so important in todays computing environment linux systems are used everywherethe internet pointofsale systems and the worlds stock markets find linux running smart tvs inflight entertainment systems and most of the top supercomputers in the world there are many reasons why it is valuable for you to linux if you are looking for new in it linux are in high demand for example if you are developing applications its likely your application or its runtime is hosted on linux if youre working in the cloud your cloud instances may be based on linux and your private or public cloud environment is also probably based on linux if youre working with mobile applications or the internet of things it is also likely that the operating system of your device is based on linux and if you use windows need to interoperate with linux after completing this have a solid introduction to working with linux from the command line using red hat enterprise linux as a model in applying these be able to perform fundamental operational tasks whether your linux machine is on your desk or on a remote system across the internet
+
+getting started with red hat enterprise linux
+describe and define open source linux linux distributions and red hat enterprise linux
+introduction lab setup what is linux types of open source licenses what is a linux distribution
+
+accessing the command line
+
+accessing the command line logging into a local computer executing commands using the bash shell viewing the contents of files what is tab completion what is the command history guided exercise accessing the command line
+
+managing files from the command line
+
+managing files from the command line locating files by name navigating paths managing files using commandline tools guided exercise command line file management matching file names using path name expansion tilde brace expansion variable expansion lab managing files with shell expansion
+
+creating viewing and editing text files
+
+editing text files from the shell prompt visual mode in vim guided exercise editing files with vim
+
+managing local linux users and groups
+
+users and groups what is a group gaining superuser access guided exercise running commands as root managing local user accounts guided exercise creating users using commandline tools managing local group accounts guided exercise managing groups using commandline tools lab managing local linux users and groups
+
+controlling access to files with linux file system permissions
+
+linux file system permissions viewing file and directory permissions and ownership managing file systems permissions from the command line changing permissions with the numeric method changing file and directory user or group ownership guided exercise managing file security from the command line managing default permissions and file access default file permissions guided exercise controlling new file permissions and ownership lab controlling access to files with linux file system permissions
+
+monitoring and managing linux processes
+
+monitoring and managing linux processes why process states are important listing processes controlling jobs running jobs in the background guided exercise background and foreground processes killing processes sending signals by explicit request logging users out administratively guided exercise killing processes describing load average realtime process monitoring guided exercise monitoring process activity
+
+installing and updating software packages
+
+installing and updating software packages managing software updates with yum guided exercise installing and updating software with yum
+
+comprehensive review
+
+</DOC>
+
+<DOC>
+linux system administration with ibm power systems
+this introduces administrative tasks that a system administrator can perform with linux hosted on ibm power servers this includes virtualization concepts such as logical partitioning installation of linux commandline operations and more interesting administration and device management tasksthis includes handson exercises with systems from an ibm data center
+
+virtualization with ibm power
+test
+welcome introducing the ibm power family ibm power naming convention virtualizing your servers managing virtualization the hypervisor hardware management console processor concepts and management additional processor concepts and management resource
+
+installing red hat enterprise linux
+app item discussion prompt
+running linux on ibm power configurating ibm power for linux installation planning installation details installation demo
+
+system management strategies
+reading app item
+basic administration differences and console access command line acccess non console graphical user interface for linux networking in linux software repositories creating a local repository software installation part software installation part yum and vnc setup demo virtual optical media overview virtual media repository
+
+all about systemd
+reading app item
+startup managers introduction to systemd systemd units and services systemd targets and ancillary components system initialization process overview system initialization deepdive systemd management operations log management more log management
+
+ibm service and productivity tools
+app items
+installing service and productivity tools src and rmc services rsct and electronic support services service aids and tools
+
+cloud computing
+
+what is cloud computing cloud service and deployment models multitenancy and the benefits of cloud cloud adoption moving to cloud openstack a private cloud for you rest apis and ibm powervc
+</DOC>
+
+<DOC>
+private cloud management on ibm power systems
+ibm powervc an infrastructure as a service iaas enabling software provides a selfservice cloud console for managing ibm power systems it is built on openstack openstack is a collection of opensource software that enterprises can use to run their own private cloud infrastructurethis explains most cloud management features starting with setting up a private cloud environment from the ground up it then covers planning sizing and other advanced administrative tasks you can perform to become an efficient system administrator
+
+introduction to private cloud
+discussion prompt
+introduction openstack components openstack in detail openstack introduction to ibm powervc the need for ibm powervc introduction to ibm cloud powervc manager planning for ibm powervc setup planning for storage storage usage and configuration storage network planning ethernet network planning security and performance planning
+
+working with your private cloud
+app items discussion prompt
+ibm powervc installation procedure the installation update and upgrade of ibm powervc registering resources to be managed by powervc hosts adding storage resources introduction to storage providers configuring storage providers adding existing virtual machines performing management tasks on vms ibm powervc gui of ibm powervc gui of ibm powervc cli
+
+system administration on private cloud
+app item
+security and user management messages and logs rest apis ibm powervc commands to manage services backup and restore ibm powervc settings of ibm powervc settings of
+
+images and virtual machines
+app items
+introduction to cloud images cloudinit concepts installing cloudinit on linux and aix creating an image
+
+advanced features of ibm cloud powervc manager
+app items
+active memory expansion and automated remote restart dynamic resource optimizer volume lifecycle and internal database managing in your private cloud other features
+</DOC>
+

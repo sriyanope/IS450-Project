@@ -1,0 +1,110 @@
+<DOC>
+music production
+this will give you the knowledge and tools you need to record and produce sounding music begin by developing your identity vision and intention as an artist and producer next the technical aspects of music production including how sound is translated into audio signals recording techniques and effects such as reverb delay and compression also how to use the industry standard digital audio workstation pro tools to create recordings finally apply the knowledge and tools you gained in a culminating capstone where complete a beginning at the preproduction stage through the recording mixing and mastering stages
+</DOC>
+
+<DOC>
+the technology of music production
+about the music production processincluding recording editing and mixingand the tools available to you to create contemporary music on your computerwith the recent introduction of highqualitylowcost software and hardware the tools of music production are now available to the masses albums are made in bedrooms as well as studios on the surface this is liberating anyone can make an album for the low cost of a couple pieces of gear and a software package but if you dig deeper find that it is not so easy producing music requires knowledge dedication and creativity knowledge is where this comes in no matter what kind of music you are making there is a large set of tools that need to use each lesson of this will demonstrate a different set of music production tools loosely following along the music production process of recording editing and mixing we will start with some background on the nature of sound and how we perceive it we will then examine the components necessary to record audio into a computer so that you understand the devices that sound must travel through in a music production process once recorded sound must be organized along a timeline a process known as editing it allows us to give the impression of perfect performances and create many of the sounds we hear in contemporary music the contemporary editing tool is the digital audio workstation daw a piece of software that stores and organizes all the assets of a musical we will focus on the editing tools that are essential in contemporary music production and that all daws provide after editing sounds must be combined or mixed together so we look to the mixing boarda very creative place if you know how to use it we will explore the basic functionality of both hardware and software mixing boards including volume pan mute solo busses inserts sends and submixes the mixing process however includes more tools than the mixing board provides on its own sound must also be processed modified from its recorded state to fit the context of the music we will look at compression equalization and delay and examine the many audio effects that are offshoots of these devices and how they are used in a musical context in the end the music production process relies on your creativity creativity is a product of the mind and will stay there unexpressed until the right tools are used in the right way to share it with the world if you have an idea in your head it will take numerous steps each with an important tool to reach your audience you bring the dedication and creativity and this will bring you the knowledge to make that happen
+
+welcome to the technology of music production
+welcome to the here we will cover all the details about the and what need to know to get the most out of your
+
+sound and signal flow
+we will start with some background on the nature of sound and how we perceive it we will then examine the components necessary to record audio into a computer so that you understand the devices that sound must travel through in a music production process
+lesson overview propagation amplitude frequency visualizing sound connections overview microphone as a transducer microphone types microphone frequency response microphone polar patterns microphone placement line level and gain staging cables interface microphone connection and gain analog to digital converter pickup connections the digital audio workstation daw
+
+the daw
+the contemporary editing tool is the digital audio workstation daw a piece of software that stores and organizes all the assets of a musical we will focus on the editing tools that are essential in contemporary music production and that all daws provide
+lesson overview analog to digital conversion buffer size file types folder checklist multitrack recording audio zooming trimming separating and cutting nudging the grid fades cycling merging naming and coloring markers comping destructive editing midi midi controllers software instruments midi editing velocity midi editing quantization common midi recording and editing functions wrapup creating your reviewing your peers
+
+the mixer
+we will explore the basic functionality of both hardware and software mixing boards including volume pan mute solo busses inserts sends and submixes
+lesson overview the channel strip the bus concept effects categories inserts the submix sends automation wrapup
+
+dynamic effects
+sound must be processed modified from its recorded state to fit the context of the music we will focus on tools you can use to effect the dynamics of your tracks and how they are used in a musical context
+lesson overview noise distortion dynamic range manipulation dynamic processors overview dynamic processor parameters gate downward compressor limiter wrapup
+
+filter and delay effects
+sound can be modified from its recorded state using tools that effect the actual quality of the sound we will look at equalization and delay and examine the many audio effects that are offshoots of these devices
+lesson overview the delay concept the delay spectrum modulated short delays filters overview mixing eq medium delay slap back long delay reverb width in mixing space in mixing
+
+synthesis
+we will explore the synthesizer a major tool within the production of contemporary music how a synthesizer works will give you a language to describe sound music is a collaborative art form so there is nothing more powerful than effective communication
+lesson overview oscillators filters amplifiers lfo low frequency oscillator a language of timbre wrapup
+</DOC>
+
+<DOC>
+the art of music production
+explore the art of record production and how to make recordings that other people will love listening to this will teach you how to make emotionally moving recordings on almost any recording equipment including your phone or laptop the emphasis is on mastering tangible artistic concepts the gear you use is up to you to develop the most important tool in the recording studio your ears to enhance every aspect of your own productions both sonically and musically by employing deeper listening will include posting your own recordings for peer review and reviewing your classmates by employing specific tools and strategies if you use a digital audio workstation to record and mix thats great but as long as you can record into your computer and post an mp you can complete the as you about the art of record production also about yourself and who you are as an artist and producer it is not necessary that you read music or play an instrument to take this
+
+welcome to the art of music production
+welcome to the art of music production before you begin the we will cover all the details about the and what need to know to get the most out of your
+
+listening like a producer
+by the end of this lesson understand the concepts of listening to music emotionally and technically strategies for maintaining objectivity and using kinesthetic observations to discover musical effectiveness will be internalized train yourself to make distinctions on what works and what doesnt rather than just passively listening as a fan
+make it sound like a record why do we listen to music listening emotionally vs listening technically kinesthetic observation emotional cues elements of a compelling musical recording letting go of prejudice
+
+identity vision and intention
+lesson hone in on your identity as a recording artist who are you and what are you meaning to convey through your music on refining your vision and intention for the recordings make employing these and record and post a tape of a new piece of music
+identity vision and intention artist comparison exercise artist identity workshop producer identity workshop what is your artistic intention giving and receiving feedback
+
+strengthening musical productions tools strategies
+by the end of this lesson be able to employ several useful techniques for strengthening your songs and instrumental tracks acquire in prosody focus and an intelligent approach to repetition also to craft better melodies write better lyrics and construct a musical form that best suits the emotional contour you are trying to accomplish with your recording understand the principles of getting the most out of feedback on your recordings in order to gather valuable perspective to better convey your intended response incorporate notes from your colleagues to further refine your recording and repost an updated version
+using prosody to make better art form the structure of your song tools for writing better lyrics crafting better melodies repetition arranging rule of threes studio performance programmed tracks singers virtuoso vs vibe producing vocals
+
+defining the sonic signature of your song
+by the end of this lesson address the sonic signature as it relates to your intention and vision as well as your technology resources and acoustic space about microphone techniques getting good levels and mixing with reverb eq and compression record your material having made some deliberate decisions about the sound of your record and post your recording for peer review according to specific criteria
+the sonics of your song singlesource recording multitrack recording sound absorption vs sound proofing acoustic spaces mic placement microphone types and pick up patterns layering guitar micing clinic application of technology to art where to go from here
+</DOC>
+
+<DOC>
+pro tools basics
+producing music is an incredibly creative process and knowing the tools of the trade is essential in order to transmit the musical ideas in your head into the daw in a creative and uninhibited way whether you have used a computer to create music before or you have been curious about production for years will give you an introductory look into the world of avid pro tools and pro tools first
+
+welcome to pro tools basics
+welcome to your berklee massive online before you begin the we will cover all the details about the and what need to know to get the most out of your
+welcome to pro tools basics what need for this
+
+diving in
+first lesson we will roll up our sleeves and dive into the pro tools interface well how to set up a session and how to add instrument and audio tracks well also how to save and bounce our while keeping everything organized
+the pro tools interface midi and software instrument tracks audio tracks working from templates organizing your session bouncing your session saving your session working with the basics giving and receiving feedback
+
+exploring midi and software instruments
+lesson well focus on midi and software instruments well start by about the different kinds of sound waves next well the difference between samplers and synthesizers and how to use them in music production well also how to manipulate and automate midi
+introduction to onboard software instruments wave basics synthesizers samplers midi manipulation automation working with midi and software instruments
+
+recording and manipulating audio
+well dive into the world of audio well how to properly import and manage audio in pro tools well how to record into pro tools and well also how to use audiosuite to manipulate audio regions
+importing and managing audio audio suite reverse tempo operations recording in playlists working with audio
+
+mixing and mastering
+final lesson we will be discussing mixing and mastering how to make a radioquality production by adding reverb eq compression and limiters
+overview of plugin effects and creating a rough mix eq compression reverb buses and aux tracks limiters practice mixing and mastering wrapup
+</DOC>
+
+<DOC>
+music production capstone
+after successfully completing the three prior courses of the music production this capstone is your chance to use your talent and accumulated knowledge to create and submit a finished fully produced song as you go through milestones on your own or with other musicians to develop a song and vision for the finished product then plan and execute its production including recording editing mixing and posting the finished product all along the way receive feedback from the peer review process allowing you to tweak and refine your finished song
+
+welcome to the music production capstone
+welcome to the music production capstone before you begin the we will cover all the details about the and what need to know to get the most out of your
+
+preproduction
+we will focus on everything that needs to be done before you head into a recording session well cover how to use reference tracks and analysis to develop an emotional timeline for your song as well as how to schedule and with other musicians
+preproduction phase preproduction
+
+production
+we will dive into the recording session we will discuss what your role is as a producer and what you need to focus on throughout the session well also share some ideas on how to create a comfortable environment and how to make sure your session is successful
+reflecting on your mockup the session phase production
+
+editing
+well focus on editing the tracks from your session last chrissy loudon and stephen will share how they approach the editing process and offer a few tips and tricks to keep in mind while you edit your
+reflecting on your session editing phase editing
+
+mixing mastering
+final we will dive into mixing and mastering your depending on the genre of your song the way you approach the mixing and mastering stage may be very different we will discuss various ways to approach the mixing stage how to tell when your mix is complete and finally strategies to mastering your
+reflecting on your record philosophies of mixing mixing techniques mastering techniques phase mixing and mastering congratulations
+</DOC>
+

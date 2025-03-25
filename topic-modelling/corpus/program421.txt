@@ -1,0 +1,207 @@
+<DOC>
+ibm data analytics with excel and r
+prepare for the indemand field of data analytics high valued like excel cognos analytics and r programming language to get jobready in less than monthsdata analytics is a strategybased science where data is analyzed to find trends answer questions shape business processes and aid decisionmaking this focuses on data analysis using microsoft excel and r programming language if youre interested in using python please explore the ibm data analyst pc this will teach you the foundational data employers are seeking for entry level data analytics roles and will provide a portfolio of and a from ibm to showcase your expertise to potential employersyoull the latest and tools used by data analysts and upon successful completion of this be able to with excel spreadsheets jupyter notebooks and r studio to analyze data and create visualizations also use the r programming language to complete the entire data analysis process including data preparation statistical analysis data visualization predictive modeling and creating interactive dashboards lastly how to communicate your data findings and prepare a reportthis is ace and fibaa recommendedwhen you complete you can earn up to college credits and ects creditsapplied projectyou will complete handson labs to build your portfolio and gain practical with excel cognos analytics sql and the r programing language and related libraries for data science including tidyverse tidymodels r shiny ggplot leaflet and rvestprojects includeanalyzing fleet vehicle inventory data using pivot tablesusing key performance indicator kpi data from car sales to create an interactive dashboardidentifying patterns in countries covid testing data rates using rusing sql with the rodbc r package to analyze foreign grain marketscreating linear and polynomial regression models and comparing them with weather station data to predict precipitationusing the r shiny package to create a dashboard that examines trends in census datausing hypothesis testing and predictive modeling to build an interactive dashboard with the r shiny package and a dynamic leaflet map widget to investigate how weather affects bikesharing demand
+</DOC>
+
+<DOC>
+introduction to r programming for data science
+when working in the data science field definitely become acquainted with the r language and the role it plays in data analysis this introduces you to the basics of the r language such as data types techniques for manipulation and how to implement fundamental programming tasks begin the process of understanding common data structures programming fundamentals and how to manipulate data all with the help of the r programming language the emphasis is handson and practical write a simple using rstudio manipulate data in a data frame or matrix and complete a final as a data analyst using watson studio and jupyter notebooks to acquire and analyze datadriven insights no prior knowledge of r or programming is required
+
+r basics
+regardless of the programming language you use all share some commonalities for example likely need to perform basic operations on different data types like applying mathematical equations to numeric data also need an environment in which to write your code anbbd most modern integrated development environments or ides provide features that make writing code easier like syntax checking color coding and integrated help this introduces you to the r language its common data types and techniques for manipulating them also about the role of the r interpreter and how it transforms code into executable objects finally be introduced to two of the most common ides for r development rstudio and jupyter notebook
+welcome to introduction to r programming for data science introduction to r language basic data types math variables and strings r environment introduction to rstudio writing and running r in jupyter notebooks
+
+common data structures
+the r language supports many types of data structures that you can use to organize and store values in your code including vectors factors lists arrays matrices and data frames each data structure type serves a specific purpose and can contain specific kinds of data so its important to understand the differences between them so you can make the right choice based on your scenario about the types of data you can store in each data structure and how to add remove or manipulate its contents
+vectors and factors vector operations lists arrays and matrices data frames
+
+r programming fundamentals
+as with most programming languages r supports coding features that you can use to control the flow of execution define functions that can perform specific tasks with common data types like strings and dates and make your code more robust by intercepting likely errors and handling them before they interrupt the execution of your code how to implement these fundamental programming tasks in r
+conditions and loops functions in r string operations in r regular expressions date format in r debugging
+
+working with data
+data is everywhere the data you need to analyze may come from a traditional database but it may also come from a variety of different sources and systems and it may come to you in one or more formats for example your data might be in text excel json or xml files or it may not be stored in a file at all but instead lives on the pages of a website how will you take all these different file formats and load them into your r working environment this provides you with the tools you need to read data from some common file formats and sources into data objects that you can then use and combine with other data objects in your data analysis
+reading csv excel and builtin datasets reading text files in r writing and saving to files http request and rest api web scraping in r
+
+final
+peer review app item plugin
+</DOC>
+
+<DOC>
+excel basics for data analysis
+spreadsheet tools like excel are an essential tool for working with data whether for data analytics business marketing or research this is designed to give you a basic working knowledge of excel and how to use it for analyzing data this is suitable for those who are interested in pursuing a in data analysis or data science as well as anyone looking to use excel for data analysis in their own domain no prior with spreadsheets or coding is required all you need is a device with a modern web browser and the ability to create a microsoft account to access excel online at no cost if you have a desktop version of excel you can also easily follow along with the throughout this gain valuable working with data sets and spreadsheets well start by introducing you to spreadsheets like microsoft excel and google sheets and show you how to load data from multiple formats from there how to perform basic data wrangling and cleansing tasks using functions and expand your knowledge of data analysis through the use of filtering sorting and pivot tables there is a strong focus on practice and applied with each lab have the to manipulate data and gain handson using excel how to clean and format your data efficiently and convert it into a pivot table to make it more organized and readable the final will allow you to showcase your newly acquired data analysis by working with real data sets and spreadsheets by the end of this have a solid foundation in using excel for data analysis have worked with multiple data sets and spreadsheets and will have the and knowledge needed to effectively clean and analyze data without having to any code so lets get started
+
+introduction to data analysis using spreadsheets
+about the fundamentals of spreadsheet applications and be introduced to the excel interface and how to navigate your way around a worksheet and workbook
+introduction introduction to spreadsheets spreadsheet basics part spreadsheet basics part viewpoints using spreadsheets as a data analysis tool
+
+getting started with using excel spreadsheets
+how to perform basic spreadsheet tasks such as viewing entering and editing data and moving copying and filling data in addition about the fundamentals of formulas and about the most common functions used by a data analyst finally how to reference data in formulas
+viewing entering and editing data copying filling and formatting cells and data the basics of formulas intro to functions referencing data in formulas
+
+cleaning wrangling data using spreadsheets
+about the importance of data quality and how to import file data in to excel also about the fundamentals of data privacy in addition how to remove duplicate and inaccurate data and how to remove empty rows in your data finally how to deal with inconsistencies in your data and how to use the flash fill and text to columns features to help you manipulate and standardize your data
+introduction to data quality importing file data basics of data privacy viewpoints data quality and privacy removing duplicated or inaccurate data and empty rows dealing with inconsistencies in data more excel features for cleaning data viewpoints issues with data quality
+
+analyzing data using spreadsheets
+about the fundamentals of analyzing data using a spreadsheet and how to filter and sort data also how to use some of the most useful functions for a data analyst and how to use the vlookup and hlookup reference functions in addition how to create pivot tables in excel and use several pivot table features
+intro to analyzing data using spreadsheets filtering and sorting data in excel viewpoints filtering and sorting useful functions for data analysis using the vlookup and hlookup functions introduction to creating pivot tables in excel viewpoints pivot tables pivot table features
+
+final
+great you have now completed all four of this final be introduced to a handson lab where complete a graded for cleaning and preparing data and then analyzing data using an excel spreadsheet this final will be graded by your peers
+</DOC>
+
+<DOC>
+introduction to data analytics
+ready to start a in data analysis but dont know where to begin this presents you with a gentle introduction to data analysis the role of a data analyst and the tools used job about the and responsibilities of a data analyst and hear from several data experts sharing their tips advice to start a this will help you to differentiate between the roles of data analysts data scientists and data engineers familiarize yourself with the data ecosystem alongside databases data warehouses data marts data lakes and data pipelines continue this exciting journey and discover big data platforms such as hadoop hive and spark by the end of this be able to understand the fundamentals of the data analysis process including gathering cleaning analyzing and sharing data and communicating your insights with the use of visualizations and dashboard tools this all comes together in the final where it will test your knowledge of the material and provide a realworld scenario of data analysis tasks this does not require any prior data analysis spreadsheet or computer science
+
+what is data analytics
+about the different types of data analysis and the key steps in a data analysis process gain an understanding of the different components of a modern data ecosystem and the role data engineers data analysts data scientists business analysts and business intelligence analysts play ecosystem also about the role responsibilities and skillsets required to be a data analyst and what a typical day in the life of a data analyst looks like
+introduction modern data ecosystem key players in the data ecosystem defining data analysis viewpoints what is data analytics responsibilities of a data analyst viewpoints qualities and to be a data analyst a day in the life of a data analyst viewpoints applications of data analytics
+
+the data ecosystem
+about the different types of data structures file formats sources of data and the languages data professionals use in their daytoday tasks gain an understanding of various types of data repositories such as databases data warehouses data marts data lakes and data pipelines in addition about the extract transform and load etl process which is used to extract transform and load data into data repositories gain a basic understanding of big data and big data processing tools such as hadoop hadoop distributed file system hdfs hive and spark
+overview of the data analyst ecosystem types of data understanding different types of file formats sources of data languages for data professionals overview of data repositories rdbms nosql data marts data lakes etl and data pipelines foundations of big data big data processing tools
+
+gathering and wrangling data
+about the process and steps involved in identifying gathering and importing data from disparate sources about the tasks involved in wrangling and cleaning data in order to make it ready for analysis in addition gain an understanding of the different tools that can be used for gathering importing wrangling and cleaning data along with some of their characteristics strengths limitations and applications
+identifying data for analysis data sources how to gather and import data what is data wrangling tools for data wrangling data cleaning viewpoints data preparation and reliability
+
+mining visualizing data and communicating results
+about the role of statistical analysis in mining and visualizing data about the various statistical and analytical tools and techniques you can use in order to gain a deeper understanding of your data these tools help you to understand the patterns trends and correlations that exist in data in addition about the various types of data visualizations that can help you communicate and tell a compelling story with your data also gain an understanding of the different tools that can be used for mining and visualizing data along with some of their characteristics strengths limitations and applications
+overview of statistical analysis what is data mining tools for data mining overview of communicating and sharing data analysis findings viewpoints storytelling in data analysis introduction to data visualization introduction to visualization and dashboarding software viewpoints visualization tools
+
+and data analysis in action
+about the different in the field of data analysis and the different paths that you can take for getting skilled as a data analyst at the end of the demonstrate your understanding of some of the basic tasks involved in gathering wrangling mining analyzing and visualizing data
+in data analysis viewpoints get into data profession viewpoints what do employers look for in a data analyst the many paths to data analysis viewpoints options for data professionals viewpoints advice for aspiring data analysts viewpoints women in data professions generative ai for data analytics
+</DOC>
+
+<DOC>
+assessment for data analysis and visualization foundations
+this is the final step in the data analysis and visualization foundations it contains a graded final examination that covers content from three courses introduction to data analytics excel basics for data analysis and data visualization and dashboards with excel and cognos from the introduction to data analytics your understanding will be assessed on topics like the data ecosystem and the fundamentals of data analysis covering tools for data gathering and data mining moving on to the excel basics for data analysis expect questions focusing on the use of excel spreadsheets in data analytics proficiency in data cleansing and wrangling and in working with pivot tables finally from the data visualization and dashboards with excel and cognos demonstrate your knowledge of ibm cognos basics and your ability to use excel for effective data visualization
+
+assessment for data analysis and visualization foundations
+this will test your knowledge and the youve acquired so far this contains the graded final examination covering content from three courses introduction to data analytics excel basics for data analysis and data visualization and dashboards with excel and cognos
+</DOC>
+
+<DOC>
+sql for data science with r
+much of the worlds data resides in databases sql or structured query language is a powerful language which is used for communicating with and extracting data from databases a working knowledge of databases and sql is a must if you want to become a data scientistthe purpose of this is to introduce relational database concepts and help you and apply foundational knowledge of the sql and r languages it is also intended to get you started with performing sql access in a data science environment the emphasis is on handson and practical as such with real databases real data science tools and realworld datasets through a series of handson labs practice building and running sql queries also how to access databases from jupyter notebooks using sql and r no prior knowledge of databases sql r or programming is required anyone can audit this at no charge if you choose to take this and earn the coursera you can also earn an ibm digital badge upon successful completion of the
+
+getting started with sql
+structured query language or sql provides a standard language for selecting and manipulating data in a relational database understanding sql is a foundational that you must have when applying data science principles in r because sql is the key to helping you unlock insights about the information stored deep inside relational databases some basic sql statements and practice them handson on a live database
+welcome to sql for data science select statement count distinct limit insert statement update and delete statements
+
+introduction to relational databases and tables
+explore the fundamental concepts behind databases tables and the relationships between them then create an instance of a database discover sql statements that allow you to create and manipulate tables and then practice them on your own live database
+introduction to databases relational database concepts types of sql statements ddl vs dml create table statement alter drop and truncate tables how to create a database instance on cloud
+
+intermediate sql
+how to use string patterns and ranges to search data and how to sort and group data in result sets also practice composing nested queries and execute select statements to access data from multiple tables
+using string patterns and ranges sorting result sets grouping result sets builtin database functions date and time builtin functions subqueries and nested selects working with multiple tables
+
+getting started with databases using r
+the benefits of using r to connect to relational databases and how to persist r database objects in files also some of the similarities between r data frames and relational databases including how data types compare and when you must convert from one type to another to improve the effectiveness of your data analysis finally different methods for connecting to a database from r
+why use r with relational databases r persistence options terminology comparison mapping data between r and rdbms database design considerations connectivity options connecting with rjdbc connectivity using odbc rodbc in detail metadata discovery
+
+working with database objects using r
+the full process of accessing and querying databases using r how to create the logical and physical model of the database and then implement the model by creating the physical database objects and loading them with data finally examine an example of accessing and querying the database
+working with data database design and data preparation creating physical database objects loading the data querying data sql select analyzing the data
+
+
+be working with multiple realworld datasets for the canadian crop data and exchange rates be asked questions that will help you understand the data just as you would in the real world be assessed on the correctness of your sql queries and results
+</DOC>
+
+<DOC>
+data science with r capstone
+capstone apply various data science and techniques that you have learned as part of the previous courses in the ibm data science with r or ibm data analytics with excel and r certificatefor this assume the role of a data scientist who has recently joined an organization and be presented with a challenge that requires data collection analysis basic hypothesis testing visualization and modeling to be performed on realworld datasets collect and understand data from multiple sources conduct data wrangling and preparation with tidyverse perform exploratory data analysis with sql tidyverse and ggplot model data with linear regression create charts and plots to visualize the data and build an interactive dashboard the will culminate with a presentation of your data analysis report with an executive for the various stakeholders in the organization
+
+capstone overview and data collection
+app items plugins
+introduction to data science with r capstone weather and bikesharing demand data collection
+
+data wrangling
+app items plugins
+
+performing exploratory data analysis with sql tidyverse ggplot
+at this stage of the capstone you have gained some valuable working knowledge of data collection and data wrangling you have also learned a lot about sql querying and visualization congratulations now its time to apply some of your new knowledge and about exploratory data analysis eda techniques again through practice you can use the datasets you wrangled in the previous however if you had any issues completing the wrangling no worries we have prepared some clean datasets for you to use be asked to complete three labs
+
+predictive analysis
+app items plugins
+
+building a r shiny dashboard app
+ungraded lab plugins
+
+present your datadriven insights
+peer review plugins
+elements of a successful data findings report best practices for presenting your findings
+</DOC>
+
+<DOC>
+data visualization and dashboards with excel and cognos
+how to create data visualizations and dashboards using spreadsheets and analytics tools this covers some of the first steps for telling a compelling story with your data using various types of charts and graphs the basics of visualizing data with excel and ibm cognos analytics without having to write any code start by creating simple charts in excel such as line pie and bar charts then create more advanced visualizations with treemaps scatter charts histograms filled map charts and sparklines next also with the excel pivotchart feature as well as assemble several visualizations in an excel dashboard this also teaches you how to use business intelligence bi tools like cognos analytics to create interactive dashboards by the end of the have an appreciation for the key role that data visualizations play in communicating your data analysis findings and the ability to effectively create them throughout this there will be numerous handson labs to help you develop practical for working with excel and cognos there is also a final in which create a set of data visualizations and an interactive dashboard to add to your portfolio which you can share with peers communities or prospective employers
+
+visualizing data using spreadsheets
+be introduced to the basics of charts and the excel functions that are used to create basic charts and pivot chart visualizations by how to manipulate these features and creating visualizations begin to understand the important role charts play in telling a datadriven story
+intro introduction to charts interview using visualizations to tell a data story creating basic charts in excel line pie and bar charts introduction to creating pivot tables in excel using the excel pivotchart feature
+
+creating visualizations and dashboards with spreadsheets
+about creating advanced charts and visualizations and about the basics of dashboarding and how to create a simple dashboard using a spreadsheet
+creating treemaps scatter charts and histograms creating filled map charts and sparklines introduction to dashboards interview using dashboards to present data results creating a simple dashboard using excel
+
+creating visualizations and dashboards with cognos analytics
+be introduced to another dashboarding solution called cognos analytics after registering with cognos analytics then explore the platform capabilities by creating visualizations building a simple dashboard and discovering its advanced features optionally you can explore google looker studio to create visualizations and build dashboards
+cognos analytics introduction and how to sign up navigating in cognos analytics creating a simple dashboard in cognos analytics advanced capabilities in cognos analytics dashboards
+
+final
+congratulations you have now completed the for this complete the final that will be graded by your peers in the first part of the final use provided sample data to create some visualizations using excel for the web in the second part of the final create some visualizations and add them to a dashboard using cognos analytics or google looker studio
+</DOC>
+
+<DOC>
+data visualization with r
+the grammar of graphics a system for describing and building graphs and how the ggplot data visualization package for r applies this concept to basic bar charts histograms pie charts scatter plots line plots and box plots also how to further customize your charts and plots using themes and other techniques then how to use another data visualization package for r called leaflet to create map plots a unique way to plot data based on geolocation data finally be introduced to creating interactive dashboards using the r shiny package how to create and customize shiny apps alter the appearance of the apps by adding html and image components and deploy your interactive data apps on the webyou will practice what you and build handson by completing labs in each and a final at the end of the watch the through the labs and watch your data science grow good luck note this requires knowledge of working with r and data if you do not have these it is highly recommended that you first take the introduction to r programming for data science as well as the data analysis with r courses from ibm prior to starting this note the prerequisite for this is basic r programming
+
+introduction to data visualization
+data without a way to convey the story behind it to yourself or others is just numbers on a page you can observe and tell the story of your data in a more impactful way through visualization the basics of data visualization using r including the fundamental components that are shared by all charts and plots and how to bring those components to life using the ggplot package for r also how to create three common chart types including bar histogram and pie charts from the qualitative and quantitative data
+introduction to data visualization using ggplot bar charts histograms pie charts
+
+basic plots maps and customization
+take your data visualization to the next level how to create three plot types including scatter plots line plots and box plots using the ggplot library and then customize the visualizations using annotations and customized axis titles and text labels also about faceting a way to visualize each level of a discrete or categorical variable and different ways to with themes finally about a unique chart type called a map that you can create using geolocation data and the leaflet library
+scatter plots line plots box plots customize plots themes and faceting v maps with leaflet
+
+dashboards
+your data tells a story you have built the charts and plots that show important relationships between variables identify outliers and anomalies and see the trends that can help you predict what the future might bring now you want to put these insightful data visualizations at the fingertips of your stakeholders and make it easy to interact with and explore the data you need a dashboard why dashboards are important and then build interactive dashboards using the shiny package for r how shiny dashboards are structured into user interface and server components and then build out these components and develop the logic to make them together also how to deploy your dashboards and provide a way to generate informative reports with r markdown
+introduction to dashboards shiny shiny basics create a simple shiny app explore shiny components deploy the shiny app reports in rmd
+
+final
+peer review ungraded lab plugin
+</DOC>
+
+<DOC>
+data analysis with r
+the r programming language is purposebuilt for data analysis r is the key that opens the door between the problems that you want to solve with data and the answers you need to meet your objectives this starts with a question and then walks you through the process of answering it through data first important techniques for preparing or wrangling your data for analysis then how to gain a better understanding of your data through exploratory data analysis helping you to summarize your data and identify relevant relationships between variables that can lead to insights once your data is ready to analyze how to develop your model and evaluate and tune its performance by following this process you can be sure that your data analysis performs to the standards that you have set and you can have confidence in the results build handson by playing the role of a data analyst who is analyzing airline departure and arrival data to predict flight delays using an airline reporting carrier ontime performance dataset practice reading data files preprocessing data creating models improving models and evaluating them to ultimately choose the best model watch the through the labs and add to your portfolio good luck note the prerequisite for this is basic r programming for example ensure that you have completed a like introduction to r programming for data science from ibm
+
+introduction to data analysis with r
+all data analysis starts with a problem that you need to solve and understanding your data and the types of questions you can answer about it are key aspects of this the r programming language provides you with all the tools you need to conduct powerful data analysis providing the conduit between your data and the realworld problems you want to solve review a type of problem that you can solve in r and the underlying data that forms the basis for your analysis also about the r packages for data analysis which provide a powerful set of tools that youre likely to use in everyday data analyses finally see how to import data and gain basic insights from the dataset
+introduction to data analysis with r the problem understanding the data r packages for data science importing and exporting data in r getting started analyzing data in r
+
+data wrangling
+data wrangling or data preprocessing is an essential first step to achieving accurate and complete analysis of your data this process transforms your raw data into a format that can be easily categorized or mapped to other data creating predictable relationships between them and making it easier to build the models you need to answer questions about your data this provides an introduction to data preprocessing in r and then provides you with the tools you need to identify and handle missing values in your dataset transform data formats to align them with other data you may want to compare them to normalize your data create categories of information through data binning and convert categorical variables into quantitative values that can then be used in numericbased analyses
+preprocessing data in r dealing with missing values in r data formatting in r data normalization in r binning in r turning categorical values to a numeric variable in r
+
+exploratory data analysis
+exploratory data analysis or eda is an approach to analyzing data that summarizes its main characteristics and helps you gain a better understanding of the dataset uncover relationships between different variables and extract important variables for the problem you are trying to solve the main question you are trying to answer is what causes flight delays some useful exploratory data analysis techniques that will help answer this question
+descriptive statistics grouping data in r analysis of variance anova in r correlation in r correlation statistics
+
+model development in r
+you have identified the problem that youre trying to solve and have preprocessed the dataset use in your analysis and you have conducted some exploratory data analysis to answer some of your initial questions now its time to develop your model and assess the strength of your assumptions examine model development by trying to predict the arrival delay of a flight using the airline dataset regression techniques for determining the correlation between variables in your dataset and evaluate the result both visually and through the calculation of metrics
+introduction to model development simple linear regression multiple linear regression assessing models visually polynomial regression assessing the model prediction and decision making
+
+model evaluation
+you have a firm understanding of your data and have preprocessed it to ensure the best possible and you have conducted exploratory data analysis and developed your model everything looks good so far but how can you be certain your model works in the real world and performs optimally how to use the tidymodels framework to evaluate your model tidymodels is a collection of packages for modeling and machine using tidyverse principles using these packages how to crossvalidate your models identify potential problems like overfitting and underfitting and handle overfitting problems using a technique called regularization also how to tune your models using grid search
+model evaluation overfitting and underfitting regularization grid search
+
+
+peer review app items plugins
+</DOC>
+

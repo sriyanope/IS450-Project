@@ -1,0 +1,81 @@
+<DOC>
+realworld product management
+product management using the same curriculum as amazon and google pms gain insights to impress on your first or next product manager pm rolelead instructor nancy wang director and general manager of data protection services at amazon web services and former rubrik and google pm leader shares the key business technical design and leadership necessary for success at pm roles at the worlds top technology companies these will serve you throughout your careerlearn the most desired product management from product leaders at amazon googlealphabet facebookinstagram and silicon valley startups view the full list of our industry leading teaching talent in our descriptions belowready to interview we dedicate of this to teaching how to impress during your next interview and role how to systematically attack each type of product management interview question watch two live pm interviews one google one amazon with realtime feedback and practice your interview with hundreds of real pm interview questions asked by amazon google meta and microsoft this is ace approvedopens in a new tabwhen you complete it you can earn up to college creditsapplied projectbring your own product or idea as we map your customer personas and journeys involve nonbuyers to influence buyers apply bains elements of value draft prds and prfaqs size your product market using tam sam and som perform competitive analyses draft your product vision roadmap and backlog draft googlestyle okrs design an ab test calculate nps csat and ces addict your customers across your product journey price your product research competitors ltv analyze financial statements lead with designers engineers answer real technical pm interview questions practice real behavioral product design strategy data analysis and estimation pm interview questionsfacebook calls the question types above leadership drive product sense and execution practice those too resist your proxies realign your metrics with your product visionand more
+</DOC>
+
+<DOC>
+the business of product management i
+to excel in product management roles while directly from industryleading product managers and realworld case studies from amazon intuit procter and gamble barnes and noble whole foods google twitter tesla dropbox eventbrite blue samson coffee meets bagel mixpanel and morefeaturing expert product manager instructors including nancy wang head of data protection services amazon web services founder and ceo advancing women in product wayne duso vice president for edge computing file services and data services amazon web services arum kang cofounder ceo coffee meets bagel amir movafaghi ceo mixpanel former global head of business of operations twitter sponsored by amazon web services aws this is the first of four courses in the ace recommended realworld product management when you complete all four courses you can earn up to college credits
+
+insist on the highest standards as a product manager
+join advancing women in tech and aws product management as we raise the bar on product management courses
+lets get started in product management why pms are miniceos how much do product managers earn product management careers the amazon product management difference how amazon selects its product managers with wayne duso senior roles for product management with wayne duso
+
+customer obsession
+leaders start with the customer and backwards they vigorously to earn and keep customer trust but the term customer is overused customer service customer segmentation customer journeys customer personas customer empathy customer satisfaction the customer is always right how to systematically delight your customers with awit and aws
+customer personas vs market segmentation pm a banks credit card product parting thoughts on product management success making sense of product sense the customer acquisition journey aida the postacquisition journey customer retention parting thought when buyer user making bb sales
+
+ownership
+leaders are owners they think long term and dont sacrifice longterm value for shortterm results two tools awit and aws recommend to help pms like you think long term are the prd product requirements document and the prfaq press releasefrequently asked questions draft and critique both
+intro to amazonstyle product requirement documents prds part intro to product requirement documents part prd number parting thought intro to press releases prs wrapping up prs why create faqs an introduction parting thought
+
+think big as a product manager
+thinking small is a selffulfilling prophecy leaders create and communicate a bold direction that inspires results they think differently and look around corners for ways to serve customers join awit and aws to how to communicate your own bold direction whether to customers investors or the world
+achieve your productmarket fit with your mvp refine your gotomarket strategy meet tam sam and som practice sizing a market compete with competitive intelligence blue vs samson microphones competitive moats arum kang coffee meets bagel on shark tank arum kang turning down m from mark cuban arum kang advice for new current pms amir movafaghi intro amir movafaghi twitter mixpanel competitive advantage amir movafaghi desirable traits of pms reflect review
+</DOC>
+
+<DOC>
+the business of product management ii
+sponsored by amazon web services aws realworld product management lessons from amazon tesla uber wework zoom the united states armed forces facebook google alphabet poshmark slack twitter headspace walmart labs humana schwab allianz amex grohe amazon costco progressive activision yelp hm basecamp microsoft and morefeaturing nancy wang head of data protection services amazon web services founder and ceo advancing women in product veronica pinchin director of product management sidewalk labs kate zhang product manager instagram barkha saxena chief data officer poshmark this is the second of four courses in the ace recommended realworld product management when you complete all four courses you can earn up to college credits
+
+invent and simplify
+leaders expect and require innovation and invention from their teams and always find ways to simplify they are externally aware look for new ideas from everywhere and are not limited by not invented here as aws awit or you do new things we accept that we may be misunderstood for long periods of time yet leaders like us know that sustained efforts will deliver results in the fullness of time
+nancy rates product visions thank you nancy ranks roadmaps nancy rates more product roadmaps reading public roadmaps and symbols parting thought veronica pinchin how to lead a product organization veronica pinchin product vision vs product roadmap veronica pinchin how product roadmaps evolve veronica pinchin managing demands to change your roadmap why giants fall how pms execute ooda loops attack your backlog with velocity track your velocity over time parting thought
+
+and be curious
+leaders are never done and always seek to improve themselves they are curious about new possibilities and act to explore them they employ indicators and metrics to orient and measure the impact of their discoveries and explorations finally aws awip and you are always willing to change or improve their indicators and metrics to maximize benefit and growth
+kpis in theory and practice googlestyle okrs facebookstyle north stars kate zhang effective analytics kate zhang how to with kpis part kate zhang how to with kpis part experiment elements experiment elements famous ab tests net promoter score nps npsbased product strategy csat and ces parting thought barkha saxena how pms lead data scientists barkha saxena how to run experiments barkha saxena eurika moments
+
+deliver results
+leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion despite setbacks they rise to the occasion and never settle never settle on your for this and throughout your raise the bar for yourself and those around you
+introduction to retention addicting your customers addicting your customers addicting your customers loyalty churn monetizing the customer journey advanced pricing techniques advanced pricing techniques price vocabularies understand your financials value your business how people manipulate financials reflect review congratulations
+</DOC>
+
+<DOC>
+the art science of product management
+sponsored by amazon web services aws how amazon facebook google and twitch pms and lead and collaborate with an interdisciplinary team of ux designers software engineers aiml engineers plus practice real pm interview questions asked by microsoft google and amazonfeaturing nancy wang head of data protection services amazon web services founder and ceo advancing women in product sandy carter vice president for worldwide public sector programs amazon web services pranava adduri software engineering manager amazon web services minmin yang principal ux lead amazon web services wahab owolabi founder onereq diversity business partner facebook sharmeen chapp vice president of product engineering twitch community ej emeagwali product manager samsara former product manager google and microsoft stephanie neill senior director of product twitch commerce george elissaois general manager director of product management amazon web services nancy riley vice president general manager of the ecosystem product group hubspot sabrina farmer vice president of engineering for site reliability google products this is the third of four courses in the ace recommended realworld product management when you complete all four courses you can earn up to college credits
+
+leading and collaborating with designers
+as a pm lead and collaborate with designers on your team with nancy wang and minmin yang principal ux lead at amazon and adjunct professor at bentley university
+the pm with an eye for design for pmdesigner collaboration minmin yang why pms should care about design minmin yang what designers need from pms
+
+pming with ai and machine
+as a pm understand how ai ml and deep works and to deploy them with nancy wang and sandy carter vice president for worldwide public sector programs at amazon web services
+the aimlpowered pm sandy carter ai in products everywhere sandy carter ai success from customer obsession sandy carter ai success from bias for action
+
+leading and collaborating with engineers acing the pm technical interview question
+as a pm understand and collaborate with engineers on your team also master the technical pm interview question with pranava adduri software engineering manager at amazon and director of programming at awip
+technical pm interview questions algorithms linked lists arrays maps trees combined data structures recursion vs iteration twitch panel twitch panel twitch panel twitch panel twitch panel pming across the frontend backing into the backend sql backing into the backend nosql newsql try my api the internet is not a series of tubes internetrelated pm interview questions sabrina farmer google product engineering sabrina farmer what engineering leaders need from their pms sabrina farmer how engineers shape product success nancy riley nancy riley nancy riley
+</DOC>
+
+<DOC>
+acing the product management interview
+prepare to impress in your product management interviews by taking this tips to showcase your and pm knowledge directly from the experts who hire and promote top pms and practice for your interview using real pm interview questions asked by companies including meta microsoft google and amazonhear how to impress in the interview process from industryleading experts including nancy wang general manager of data protection services amazon web services bob obrien senior product manager amazon web services jenny tai director of product jam city nancy gessler product management products amazon web services tatyana mamut chief product officer nextdoor sandy carter vice president for worldwide public sector programs amazon web services sponsored by amazon web services aws this is the fourth of four courses in the ace recommended realworld product management when you complete all four courses you can earn up to college credits
+
+earn trust
+leaders listen attentively speak candidly and treat others respectfully they benchmark themselves and their teams against the best they understand that networking like another might take years to bear fruit
+where the interviews are how to network rules for networking nancys general interview tips
+
+hire and develop the best
+leaders raise the performance bar with every hire and promotion awip builds the foundation for you to demonstrate how raise the bar during each type of pm question so youre more confident preparing for your own interviews
+behavioral interview questions behavioral interview questions behavioral interview questions product design interview questions product design interview questions strategy interview questions execution data analysis interview questions technical interview questions estimation interview questions
+
+hire and develop the best continued
+leaders raise the performance bar with every hire and promotion awit builds the foundation for you to demonstrate how raise the bar during a fulllength pm interview so youre more confident preparing for your own interviews
+mock google interview of feat bob obrien mock google interview of feat bob obrien mock google interview of feat bob obrien mock google interview of feat bob obrien mock google interview of feat bob obrien mock amazon interview of feat jenny tai mock amazon interview of feat jenny tai mock amazon interview of feat jenny tai
+
+its always day one
+theres so much stuff that has yet to be invented theres so much new thats going to happen to us and to you what journey will you embark on next
+youre the top nancy gessler aws nancy gessler for pms to train nancy gessler advice to pms nancy presents exclusive awip content tatyana mamut awip summit tatyana mamut tatyana mamut tatyana mamut tatyana mamut sandy carter origins sandy carter building your authentic brand sandy carter wisdom from sandys books au revior
+</DOC>
+

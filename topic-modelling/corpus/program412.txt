@@ -1,0 +1,188 @@
+<DOC>
+google data analytics
+new ai skillsprepare for a new in the highgrowth field of data analytics no or degree required get training designed by google and have the to connect with top employers there are over open jobs in data analytics with a median entrylevel salary of in the usdata analytics is the collection transformation and organization of data in order to draw conclusions make predictions and drive informed decision making over courses gain indemand that prepare you for an entrylevel job from google employees whose foundations in data analytics served as launchpads for their own careers at under hours per you can complete the in less than months upon completion you can directly apply for jobs with google and over us employers including deloitte target verizon and of google of graduates report a positive eg new job promotion or raise within six months of completionlightcast us job postings jan dec based on graduate survey united states applied projectthis includes over hours of instruction and hundreds of practicebased assessments which will help you simulate realworld data analytics scenarios that are critical for success in the workplace the content is highly interactive and exclusively developed by google employees with decades of in data analytics through a mix of assessments and handson labs get introduced to analysis tools and platforms and key analytical required for an entrylevel jobskills gain will include data cleaning problem solving critical thinking data ethics and data visualizationplatforms and tools include presentations spreadsheets sql tableau and r programmingin addition to expert training and handson complete a case study that you can share with potential employers to showcase your new set concrete that top employers are hiring for right now
+</DOC>
+
+<DOC>
+prepare data for exploration
+this is the third in the google data analytics as you continue to build on your understanding of the topics from the first two courses be introduced to new topics that will help you gain practical data analytics how to use tools like spreadsheets and sql to extract and make use of the right data for your objectives and how to organize and protect your data current google data analysts will continue to instruct and provide you with handson ways to accomplish common data analyst tasks with the best tools and resourceslearners who complete this will be equipped to apply for introductorylevel jobs as data analysts no previous is necessary by the end of this learners will find out how analysts decide what data to collect for analysis about structured and unstructured data data types and data formats discover how to identify different types of bias in data to help ensure data credibility explore how analysts use spreadsheets and sql within databases and data sets examine open data and the relationship between and importance of data ethics and data privacy gain an understanding of how to access databases and extract filter and sort the data they contain best practices for organizing data and keeping it secure
+
+data types and structures
+a massive amount of data is generated every single day part of the discover how this data is generated and how analysts decide which data to use for analysis also about structured and unstructured data data types and data formats as you start thinking about how to prepare your data for analysis
+introduction to data exploration hallie fascinating data insights data collection in our world determine what data to collect discover data formats continue exploring structured data know the type of data youre working with data table components meet wide and long data
+
+data responsibility
+before you with data you must confirm that it is unbiased and credible after all if you start your analysis with unreliable data you wont be able to trust your results part of the to identify bias in data and to ensure your data is credible also explore open data and the importance of data ethics and data privacy
+introduction to bias credibility privacy and ethics bias from questions to conclusions biased and unbiased data understand bias in data identify good data sources what is bad data essential data ethics optional refresher alex and the importance of data ethics prioritize data privacy andrew the ethical use of data features of open data andrew steps for ethical data use
+
+database essentials
+when you analyze large datasets access much of the data from a database part of the about databases including how to access them and extract filter and sort the data they contain also explore metadata to discover its many facets and how analysts use it to better understand their data
+all about databases database features and components demystify metadata manage data with metadata megan fun with metadata so many places to find data import data from spreadsheets and databases sort and filter to focus on relevant data get to know bigquery including sandbox and billing options bigquery in action
+
+organize and protect data
+good organizational are a big part of most types of especially data analytics part of the best practices for organizing data and keeping it secure also understand how analysts use file naming conventions to help them keep their organized
+feel confident in your data lets get organized security features in spreadsheets
+
+engage in the data community
+having a strong online presence can be a big help for job seekers of all kinds part of the explore how to manage your online presence also discover the benefits of networking with other data analytics professionals
+manage your presence as a data analyst why an online presence is important tips for enhancing your online presence networking knowhow benefits of mentorship rachel mentors are key congratulations wrapup
+</DOC>
+
+<DOC>
+ask questions to make datadriven decisions
+this is the second in the google data analytics build on your understanding of the topics that were introduced in the first of this the material will help you how to ask effective questions make datadriven decisions and meet stakeholders needs current google data analysts will instruct and provide you with handson ways to accomplish common data analytics taskslearners who complete this will be equipped to apply for introductorylevel jobs as data analysts no previous is necessary by the end of this about effective questioning techniques that can help guide analysis gain an understanding of datadriven decisionmaking and how data analysts present findings explore a variety of realworld business scenarios as an example of questioning and decisionmaking discover how and why spreadsheets are an important tool for data analysts examine the key ideas associated with structured thinking and how they can help analysts better understand problems and develop solutions strategies for managing the expectations of stakeholders while establishing clear communication with a data analytics team to achieve business objectives
+
+ask effective questions
+data analysts are constantly asking questions in order to find solutions and identify business potential part of the about effective questioning techniques that will help guide your analysis
+introduction to problemsolving and effective questioning data in action nikki the data process works common problem types continue exploring business applications anmol from hypothesis to smart questions evan data opens doors
+
+make datadriven decisions
+in analytics data drives decisionmaking and this is your to explore data of all kinds and its impact on all sorts of business decisions also how to effectively share your data through reports and dashboards
+data and decisions how data empowers decisions qualitative and quantitative data the big reveal sharing your findings data versus metrics mathematical thinking
+
+spreadsheet magic
+spreadsheets are a key data analytics tool here both why and how data analysts use spreadsheets in their also investigate how structured thinking helps analysts understand problems and come up with solutions
+the amazing spreadsheet get to with spreadsheets basic spreadsheet tasks formulas for success spreadsheet errors and fixes functions before solving a problem understand it scope of and structured thinking staying objective
+
+always remember the stakeholder
+successful data analysts balance the needs and expectations of their team and the stakeholders they support part of the strategies for managing stakeholder expectations while establishing clear communication with your team
+communicating with your team balance needs and expectations across your team focus on what matters clear communication is key tips for effective communication navigate expectations and realistic goals sarah how to communicate with stakeholders the data tradeoff speed versus accuracy think about your process and meeting best practices ximena joining a new team from conflict to collaboration nathan from the us marine corps to data analytics congratulations wrapup
+</DOC>
+
+<DOC>
+process data from dirty to clean
+this is the fourth in the google data analytics continue to build your understanding of data analytics and the concepts and tools that data analysts use in their how to check and clean your data using spreadsheets and sql as well as how to verify and report your data cleaning results current google data analysts will continue to instruct and provide you with handson ways to accomplish common data analyst tasks with the best tools and resourceslearners who complete this will be equipped to apply for introductorylevel jobs as data analysts no previous is necessary by the end of this learners will check for data integrity apply data cleaning techniques using spreadsheets develop basic sql queries for use on databases use basic sql functions to clean and transform data verify the results of cleaning data write an effective data cleaning report
+
+the importance of integrity
+data integrity is critical to successful analysis part of the explore methods and steps that analysts take to check their data for integrity this includes knowing what to do when you dont have enough data also about random samples and understand how to avoid sampling bias all of these methods will also help you ensure your analysis is successful
+introduction to data integrity why data integrity is important balance objectives with data integrity deal with insufficient data the importance of sample size using statistical power determine the best sample size evaluate data reliability
+
+clean data for more accurate insights
+every data analyst wants to analyze clean data part of the the difference between clean and dirty data then practice cleaning data in spreadsheets and other tools
+clean it up why data cleaning is critical angie i love cleaning data recognize and remedy dirty data datacleaning tools and techniques clean data from multiple sources datacleaning features in spreadsheets optimize the datacleaning process different data perspectives even more datacleaning techniques
+
+data cleaning with sql
+knowing a variety of ways to clean data can make a data analysts job much easier part of the use sql to clean data from databases in particular explore how sql queries and functions can be used to clean and transform your data before an analysis
+use sql to clean data sally for the love of sql understand sql capabilities spreadsheets versus sql widely used sql queries evan having fun with sql clean string variables using sql advanced datacleaning functions part advanced datacleaning functions part
+
+verify and report on cleaning results
+when you clean data you make changes to the original dataset its important to verify the changes you make are accurate and to let your teammates know about the changes part of the to verify that data is clean and report your data cleaning results with verified clean data youre ready to begin analyzing
+verify and report results confirm datacleaning meets business expectations verification of data cleaning capture cleaning changes why documentation is important feedback and cleaning
+
+optional add data to your resume
+creating an effective resume will help you in your data analytics part of the all about the job application process your focus will be on building a resume that highlights your strengths and relevant
+about the dataanalyst hiring process the data analyst jobapplication build a resume make your resume unique joseph black and african american inclusion in the data industry translate past kate my path as a data analyst where does your interest lie
+
+wrapup
+review the glossary and prepare for the next in the google data analytics
+</DOC>
+
+<DOC>
+share data through the art of visualization
+this is the sixth in the google data analytics how to visualize and present your data findings as you complete the data analysis process this will show you how data visualizations such as visual dashboards can help bring your data to life also explore tableau a data visualization platform that will help you create effective visualizations for your presentations current google data analysts will continue to instruct and provide you with handson ways to accomplish common data analyst tasks with the best tools and resourceslearners who complete this will be equipped to apply for introductorylevel jobs as data analysts no previous is necessary by the end of this learners will understand the importance of data visualization how to form a compelling narrative through data stories gain an understanding of how to use tableau to create dashboards and dashboard filters discover how to use tableau to create effective visualizations explore the principles and practices involved with effective presentations how to consider potential limitations associated with the data in your presentations understand how to apply best practices to a qa with your audience
+
+visualize data
+delve into the various types of data visualizations and explore what makes an effective visualization also about accessibility design thinking and other factors that will help you use data visualizations to effectively communicate data insights
+introduction to communicating data insights kevin the powers in the data viz why data visualization matters connect images with data a recipe for a powerful visualization dynamic visualizations elements of art data visualization impact design thinking and visualizations accessible visualizations andrew making data accessible
+
+create data visualizations with tableau
+tableau is a business intelligence and analytics platform that helps people visualize understand and make decisions with data part of the become wellversed in tableaus dynamic capabilities and to inject creativity and clarity into your visualizations ensuring that your findings are easy to understand
+data visualizations with tableau tableau public and other online tools meet tableau create a data visualization in tableau optimize the color palette in data visualization get creative link multiple datasets in tableau
+
+craft data stories
+connecting your objective with your data through insights is essential to data storytelling part of the get acquainted with the principles of datadriven storytelling and to craft compelling narratives using tableaus dashboard and filtering capabilities giving life to your data insights
+craft stories with data bring ideas to life speak to your audience carolyn data journalism tableau dashboard basics from filters to charts compelling presentation tips share a narrative sundas how to manage imposter syndrome
+
+develop presentations and slideshows
+part of the discover how to give an effective presentation about your data analysis this final teaches you to construct insightful presentations that resonate with your audience to anticipate and address potential questions and to articulate the limitations of your data ensuring a robust and credible narrative for your stakeholders
+pull it all together present with a framework weave data into your presentation brittany presentation for new data analysts connor messy example of a data presentation connor good example of a data presentation proven presentation tips present like a pro anticipate the question handle objections qa best practices connor becoming an expert data translator congratulations wrapup
+</DOC>
+
+<DOC>
+analyze data to answer questions
+this is the fifth in the google data analytics explore what it means to actually analyze your data take what youve learned up to this point and apply it to make sense of the data youve collected how to organize and format your data using spreadsheets and sql to help you look at and think about your data in different ways also find out how to perform complex calculations with your data to address business objectives how to use formulas functions and sql queries as you conduct your analysis current google data analysts will continue to instruct and provide you with handson ways to accomplish common data analyst tasks with the best tools and resourceslearners who complete this will be equipped to apply for introductorylevel jobs as data analysts no previous is necessary by the end of this learners will how to organize data for analysis understand the processes for formatting and adjusting data explore how to aggregate data in spreadsheets and by using sql use formulas and functions in spreadsheets to make data calculations how to complete calculations using sql queries
+
+organize data for more effective analysis
+organizing data makes the data easier to use in your analysis part of the the importance of organizing your data through sorting and filtering explore these processes in both spreadsheets and sql as you continue to prepare your data
+introduction to getting organized the analysis process ayanna sticking with it always a need to organize filter data with sql sort data in spreadsheets use the sort function in spreadsheets emma journey to a meaningful sort data with sql
+
+format and adjust data
+as you move closer to analyzing your data want to have it formatted and ready to go part of the all about converting and formatting data including how sql queries can help you combine data also find out the value of feedback and support from your colleagues and how it can lead to learnings that you can apply to your
+get started with data formatting from one type to another data validation conditional formatting merge text strings to gain insights strings in spreadsheets when you get stuck layla all about the analyze stage running into challenges not to worry when to use which tool
+
+aggregate data for analysis
+as part of your analysis often have to combine data in order to gain insights and complete business objectives part of the explore the functions procedures and syntax involved in combining or aggregating data how to do this from multiple cells in spreadsheets and from multiple database tables using sql queries
+aggregate data for analysis prepare for vlookup vlookup in action identify and fix common vlookup errors explore how joins queries within queries use subqueries to aggregate data justin where data analysis takes you
+
+perform data calculations
+calculations are a common task for data analysts part of the explore formulas functions and pivot tables in spreadsheets and queries in sql all of which will help with your calculations also about the benefits of using sql to manage temporary tables
+data calculations common calculation formulas functions and conditions composite functions start working with pivot tables pivot tables continued queries and calculations embed simple calculations with sql calculations with other statements check and recheck temporary tables multiple table variations congratulations wrapup
+</DOC>
+
+<DOC>
+google data analytics capstone complete a case study
+this is the eighth and final in the google data analytics have the to complete a case study which will help prepare you for your data analytics job hunt case studies are commonly used by employers to assess analytical for your case study choose an analyticsbased scenario then ask questions prepare process analyze visualize and act on the data from the scenario also about useful job hunting common interview questions and responses and materials to build a portfolio online current google data analysts will continue to instruct and provide you with handson ways to accomplish common data analyst tasks with the best tools and resourceslearners who complete this will be equipped to apply for introductorylevel jobs as data analysts no previous is necessary by the end of this learners will the benefits and uses of case studies and portfolios in the job search explore real world job interview scenarios and common interview questions discover how case studies can be a part of the job interview process examine and consider different case study scenarios have the chance to complete your own case study for your portfolio ai from google experts to help complete data analytics tasks
+
+about capstone basics
+a capstone is a crowning achievement part of the be introduced to capstone case studies and portfolios and will how they help employers better understand your and capabilities also have an to explore the online portfolios of real data analysts
+introducing the capstone rishie what employers look for in data analysts bestinclass
+
+optional build your portfolio
+part of the review two possible tracks to complete your case study you can use a dataset from one of the business cases provided or search for a public dataset to develop a business case for an area of personal interest in addition be introduced to several platforms for hosting your completed case study
+get started with your case study unlimited potential with analytics case studies share your portfolio
+
+optional use your portfolio
+your portfolio is meant to be seen and explored part of the how to discuss your portfolio and highlight specific in interview scenarios also create and practice an elevator pitch for your case study finally discover how to position yourself as a top applicant for data analyst jobs with useful and practical interview tips
+discussing your portfolio scenario introductions scenario case study scenario problemsolving scenario negotiating terms nathan vetnet and giving advice to vets
+
+put your to
+earning your google data analytics is a badge of honor its also a real badge part of the how to claim your badge and display it in your linkedin profile also be introduced to job search benefits that you can claim as a holder including access to the big interview platform and byteboard interviews
+myles driving impact with ai in the workplace boost your data analytics with ai clean and prepare data with help from ai organize data and build formulas using ai use ai to help you ask more effective questions create engaging data visualizations with ai improve your r code with help from ai introducing google ai essentials congratulations on completing your capstone from all of us explore
+</DOC>
+
+<DOC>
+data analysis with r programming
+this is the seventh in the google data analytics about the programming language known as r find out how to use rstudio the environment that allows you to with r and the software applications and tools that are unique to r such as r packages discover how r lets you clean organize analyze visualize and report data in new and more powerful ways current google data analysts will continue to instruct and provide you with handson ways to accomplish common data analyst tasks with the best tools and resourceslearners who complete this will be equipped to apply for introductorylevel jobs as data analysts no previous is necessary by the end of this learners will examine the benefits of using the r programming language discover how to use rstudio to apply r to your analysis explore the fundamental concepts associated with programming in r understand the contents and components of r packages including the tidyverse package gain an understanding of dataframes and their use in r discover the options for generating visualizations in r about r markdown for documenting r programming
+
+programming and data analytics
+r is a programming language that can help you in your data analysis process part of the about r and rstudio the environment use to in r explore the benefits of using r and rstudio as well as the components of rstudio that will help you get started
+introduction to the exciting world of programming fun with r carrie getting started with r programming languages introduction to r intro to rstudio
+
+programming using rstudio
+using r can help you complete your analysis efficiently and effectively part of the explore the fundamental concepts associated with r about functions and variables for calculations and other programming in addition discover r packages which are collections of r functions code and sample data that use in rstudio
+programming using rstudio programming fundamentals operators and calculations the gift that keeps on giving welcome to the tidyverse more on the tidyverse use pipes to nest code connor coding tips
+
+working with data in r
+the r programming language was designed to with data at all stages of the data analysis process part of the examine how r can help you structure organize and clean your data using functions and other processes about data frames and how to with them in r also revisit the issue of data bias and how r can help
+data in r r data frames working with data frames cleaning up with the basics organize your data transforming data same data different the bias function
+
+more about visualizations aesthetics and annotations
+r is a tool wellsuited for creating detailed visualizations part of the how to use r to generate and troubleshoot visualizations also explore the features of r and rstudio that will help you with the aesthetics of your visualizations and for annotating and saving them
+visualizations in r visualization basics in r and tidyverse getting started with ggplot joseph path to people analytics enhancing visualizations in r doing more with ggplot aesthetics and facets annotation layer saving your visualizations
+
+documentation and reports
+when youre ready to save and present your analysis r has different options to consider part of the explore r markdown a file format for making dynamic documents with r find out how to format and export r markdown including how to incorporate r code chunks in your documents
+documentation and reports overview of r markdown using r markdown in rstudio structure of markdown documents meg programming is empowering even more document elements code chunks exporting documentation
+</DOC>
+
+<DOC>
+foundations data data everywhere
+this is the first in the google data analytics organizations of all kinds need data analysts to help them improve their processes identify and trends launch new products and make thoughtful decisions be introduced to the world of data analytics through handson curriculum developed by google the material shared covers plenty of key data analytics topics and its designed to give you an overview of whats to come in the google data analytics current google data analysts will instruct and provide you with handson ways to accomplish common data analyst tasks using the best tools and resourceslearners who complete this will be equipped to apply for introductorylevel jobs as data analysts no previous is necessary by the end of this learners will gain an understanding of the practices and processes employed by a junior or associate data analyst in their daytoday job about key analytical data cleaning data analysis data visualization and tools spreadsheets sql r programming tableau that you can add to your toolbox discover a wide variety of terms and concepts relevant to the role of a junior data analyst such as the data life cycle and the data analysis process evaluate the role of analytics in the data ecosystem conduct an analytical thinking selfassessment explore job available to you upon completion and about best practices you can leverage during your job search
+
+introducing data analytics and analytical thinking
+data helps us make decisions in both everyday life and in business part of the how data analysts use a variety of tools and to inform those decisions also get to know more about this and the overall expectations
+welcome to the google data analytics introduction to the data analytics in everyday life cassie dimensions of data analytics what is the data ecosystem how data informs better decisions discover data sets key data analyst all about thinking analytically explore core analytical data drives successful witness data magic what to expect moving forward
+
+the wonderful world of data
+part of the about the data life cycle and data analysis process they are both relevant to your and on the job also be introduced to applications that help guide data through the data analysis process
+about data phases and tools stages of the data life cycle the phases of data analysis and this molly example of the data analysis process explore data analyst tools
+
+set up your data analytics toolbox
+spreadsheets query languages and data visualization tools are all a big part of a data analysts job part of the the basic concepts to use them for data analysis also understand how they through interesting examples
+the ins and outs of core data tools make spreadsheets your friend sql in action angie everyday struggles when new become a data viz whiz lilah the power of a visualization
+
+become a fair and impactful data
+part of the examine different types of businesses and the jobs and tasks that analysts do for them also how a google data analytics will help you meet many of the requirements for an analyst position with these organizations
+lets get down to business the job of a data analyst joey path to becoming a data analyst tony supporting careers in data analytics the power of data in business rachel data detectives understand data and fairness alex fair and ethical data decisions data analysts in different industries samah interview best practices congratulations wrapup
+</DOC>
+

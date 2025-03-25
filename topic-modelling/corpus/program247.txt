@@ -1,0 +1,89 @@
+<DOC>
+machine and reinforcement in finance
+the main goal of this is to provide the knowledge and practical necessary to develop a strong foundation on core paradigms and algorithms of machine ml with a particular focus on applications of ml to various practical problems in finance the aims at helping students to be able to solve practical mlamenable problems that they may encounter in real life that include mapping the problem on a general landscape of available ml methods choosing particular ml approaches that would be most appropriate for resolving the problem and successfully implementing a solution and assessing its performance the is designed for three categories of students practitioners working at financial institutions such as banks asset management firms or hedge funds individuals interested in applications of ml for personal day trading current fulltime students pursuing a degree in finance statistics computer science mathematics physics engineering or other related disciplines who want to about practical applications of ml in financethe can also be taken individually to improve relevant in a particular area of applications of ml to financeapplied projectthe is essentially in ml where all examples home and deal with various problems in finance such as stock trading asset management and banking applications and the choice of topics is respectively driven by a focus on ml methods that are used by practitioners in finance the is meant to prepare the students to on complex machine in finance that often require both a broad understanding of the whole field of ml and understanding of appropriateness of different methods available in a particular subfield of ml for example unsupervised for addressing practical problems they might encounter in their
+</DOC>
+
+<DOC>
+reinforcement in finance
+this aims at introducing the fundamental concepts of reinforcement rl and develop use cases for applications of rl for option valuation trading and asset management by the end of this students will be able to use reinforcement to solve classical problems of finance such as portfolio optimization optimal trading and option pricing and risk management practice on valuable examples such as famous qlearning using financial problems apply their knowledge acquired in the to a simple model for market dynamics that is obtained using reinforcement as the prerequisites are the courses guided tour of machine in finance and fundamentals of machine in finance students are expected to know the lognormal process and how it can be simulated knowledge of option pricing is not assumed but desirable
+
+mdp and reinforcement
+programming ungraded lab
+introduction to the prerequisites welcome to the introduction to markov decision processes and reinforcement in finance mdp and rl decision policies mdp rl value function and bellman equation mdp rl value iteration and policy iteration mdp rl action value function options and option pricing blackscholesmerton bsm model bsm model and risk discrete time bsm model discrete time bsm hedging and pricing discrete time bsm bs limit
+
+mdp model for option pricing dynamic programming approach
+programming ungraded lab
+mdp formulation actionvalue function optimal action from q function backward recursion for q star basis functions optimal hedge with montecarlo optimal q function with montecarlo
+
+mdp model for option pricing reinforcement approach
+programming ungraded lab
+introduction batch reinforcement stochastic approximations qlearning fitted qiteration fitted qiteration the basis fitted qiteration at rl solution discussion and examples
+
+rl and inverse rl for portfolio stock trading
+peer review ungraded lab
+welcome introduction to rl for trading portfolio model one period rewards forward and inverse optimisation reinforcement for portfolios entropy regularized rl rl equations rl and inverse reinforcement solutions
+</DOC>
+
+<DOC>
+guided tour of machine in finance
+this aims at providing an introductory and broad overview of the field of ml with the focus on applications on finance supervised machine methods are used in the capstone to predict bank closures simultaneously while this can be taken as a separate it serves as a preview of topics that are covered in more details in subsequent of the machine and reinforcement in financethe goal of guided tour of machine in finance is to get a sense of what machine is what it is for and in how many different financial problems it can be applied to the is designed for three categories of students practitioners working at financial institutions such as banks asset management firms or hedge funds individuals interested in applications of ml for personal day trading current fulltime students pursuing a degree in finance statistics computer science mathematics physics engineering or other related disciplines who want to about practical applications of ml in finance with python including numpy pandas and ipythonjupyter notebooks linear algebra basic probability theory and basic calculus is necessary to complete
+
+artificial intelligence machine
+
+welcome note objectives prerequisites artificial intelligence and machine part i artificial intelligence and machine part ii machine as a foundation of artificial intelligence part i machine as a foundation of artificial intelligence part ii machine as a foundation of artificial intelligence part iii machine in finance vs machine in tech part i machine in finance vs machine in tech part ii machine in finance vs machine in tech part iii
+
+mathematical foundations of machine
+programming ungraded lab
+generalization and a biasvariance tradeoff the no free lunch theorem overfitting and model capacity linear regression regularization validation set and hyperparameters overview of the supervised machine in finance
+
+introduction to supervised
+programming ungraded lab
+dataflow and tensorflow a first demo of tensorflow linear regression in tensorflow neural networks gradient descent optimization gradient descent for neural networks stochastic gradient descent
+
+supervised in finance
+programming ungraded labs
+regression and equity analysis fundamental analysis machine as model estimation maximum likelihood estimation probabilistic classification models logistic regression for modeling bank failures part i logistic regression for modeling bank failures part ii logistic regression for modeling bank failures part iii supervised conclusion
+</DOC>
+
+<DOC>
+overview of advanced methods of reinforcement in finance
+in the last of our overview of advanced methods of reinforcement in finance we will take a deeper look into topics discussed in our third reinforcement in financein particular we will talk about links between reinforcement option pricing and physics implications of inverse reinforcement for modeling market impact and price dynamics and perceptionaction cycles in reinforcement finally we will overview trending and potential applications of reinforcement for highfrequency trading cryptocurrencies peertopeer lending and more after taking this students will be able to explain fundamental concepts of finance such as market equilibrium no arbitrage predictability discuss market modeling apply the methods of reinforcement to highfrequency trading credit risk peertopeer lending and cryptocurrencies trading
+
+blackscholesmerton model physics and reinforcement
+
+welcome to prerequisites interview with rossen roussev reinforcement and ptolemys epicycles pdes in physics and finance competitive market equilibrium models in finance i certainly hope you are wrong herr professor risk as a science of fluctuation markets and the heat death of the universe option trading and rl liquidity modeling market frictions modeling feedback frictions
+
+reinforcement for optimal trading and market modeling
+
+from portfolio optimization to market model invisible hand gbm and its problems the gbm model an unbounded growth without defaults dynamics with saturation the verhulst model the singularity is near what are defaults quantum equilibriumdisequilibrium
+
+perception beyond reinforcement
+
+welcome market dynamics and irl diffusion in a potential the langevin equation classical dynamics potential minima and newtons law classical dynamics the lagrangian and the hamiltonian langevin equation and fokkerplanck equations the fokkerplanck equation and quantum mechanics
+
+other applications of reinforcement pp lending cryptocurrency etc
+peer review ungraded lab
+welcome electronic markets and lob trades quotes and order flow limit order book lob modeling lob statistical modeling lob modeling with ml and rl other applications of rl the value of universatility
+</DOC>
+
+<DOC>
+fundamentals of machine in finance
+the aims at helping students to be able to solve practical mlamenable problems that they may encounter in real life that include understanding where the problem one faces lands on a general landscape of available ml methods understanding which particular ml approaches would be most appropriate for resolving the problem and ability to successfully implement a solution and assess its performance a learner with some or no previous knowledge of machine ml will get to know main algorithms of supervised and unsupervised and reinforcement and will be able to use ml open source python packages to design test and implement ml algorithms in finance fundamentals of machine in finance will provide more atdepth view of supervised unsupervised and reinforcement and end up in a on using unsupervised for implementing a simple portfolio trading strategy the is designed for three categories of students practitioners working at financial institutions such as banks asset management firms or hedge funds individuals interested in applications of ml for personal day trading current fulltime students pursuing a degree in finance statistics computer science mathematics physics engineering or other related disciplines who want to about practical applications of ml in finance with python including numpy pandas and ipythonjupyter notebooks linear algebra basic probability theory and basic calculus is necessary to complete
+
+fundamentals of supervised in finance
+
+what is machine in finance introduction to fundamentals of machine in finance support vector machines part support vector machines part svm the kernel trick example svm for prediction of credit spreads tree methods cart trees tree methods random forests tree methods boosting
+
+core concepts of unsupervised pca dimensionality reduction
+
+core concepts of ul pca for stock returns part pca for stock returns part dimension reduction with pca dimension reduction with tsne dimension reduction with autoencoders
+
+data visualization clustering
+programming ungraded lab
+ul clustering algorithms ul kclustering ul kmeans neural algorithm ul hierarchical clustering algorithms ul clustering and estimation of equity correlation matrix ul minimum spanning trees kruskal algorithm ul probabilistic clustering
+
+sequence modeling and reinforcement
+programming ungraded lab
+sm latent variables sequence modeling sm latent variables for sequences sm statespace models sm hidden markov models neural architecture for sequential data rl introduction rl core ideas markov decision process and rl rl bellman equation rl and inverse reinforcement
+</DOC>
+

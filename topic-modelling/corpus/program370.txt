@@ -1,0 +1,108 @@
+<DOC>
+user interface design
+industrystandard theory and methods for developing successful user interfaces uis upon completing this have fluency with the user research prototyping and evaluation techniques necessary for creating intuitive interfaces that facilitate good user also have demonstrated this fluency through an indepth capstone that can be shown to prospective employers in the fastgrowing field of ui designconcepts and techniques covered include structured approaches for helping you understand your user base and their needs eg contextual inquiry and design psychology widelyemployed prototyping and design methods eg lowfidelity and paper prototyping and robust techniques for helping you evaluate your design choices eg heuristic evaluation and user studies by the end of the be comfortable applying these concepts and techniques to design an interface for a wide variety of users from around the world
+</DOC>
+
+<DOC>
+prototyping and design
+how to design and prototype user interfaces to address the users and tasks identified in user research through a series of lectures and exercises and practice paper and other lowfidelity prototyping techniques and apply principles from graphic design including design patterns to write a design rationale and how to design for specific populations and situations including principles and practices of accessible design
+
+preface
+a brief introduction to the topic and structure
+introduction to prototyping and design introduction
+
+interface prototyping techniques
+an introduction to prototyping including paper and toolbased prototyping
+prototyping what why and how lowfidelity prototyping paper prototype example wireframing and toolbased prototyping physical low fidelity prototyping tool example pop tool example balsamiq limits of prototyping paper prototyping
+
+design principles and patterns
+an introduction to design principles from graphic design interaction design patterns and two examples of commercial design guidelines and standards
+introduction to design principles patterns layout color and consistency cultural factors interaction design patterns direct manipulation user control interview with ben shneiderman case example googles material design case example apple human interface guidelines design critiques eliciting and giving feedback
+
+universal design accessibility special populations
+an introduction to universal design with specific lectures focused on particular impairments limitations and populations
+introduction to universal design universal design sensory impairments universal design cognitive impairments universal design physical limitations universal design tools and standards design for older adults interview with anne marie piper design for children design and socioeconomic differences supporting lowliteracy selfhelp interview with apala chavan
+
+design for different platforms and contexts
+a look at several important and challenging design contexts and how interfaces can address those contexts
+introduction to platforms and context mobile ui design wearable automotive user interfaces iot physical computing
+</DOC>
+
+<DOC>
+introduction to ui design
+gain an understanding of the critical importance of user interface design also industrystandard methods for how to approach the design of a user interface and key theories and frameworks that underlie the design of most interfaces you use todaythrough a series of case studies on commercial systems many of which you likely use on a regular basis we will illustrate the benefits of good design we will also demonstrate how the costs of bad design can often be severe in user money and even human lives then gain a highlevel understanding of the userinterface design process be introduced to common design scenarios eg improving on existing designs and starting a new design from scratch and the general design processes that tend to be used for each scenario finally we will begin introducing the large body of existing knowledge on design by providing overviews of core user interface design theories and concepts this key foundational information will help you avoid reinventing the wheel when you are designing your interfaces
+
+introduction and overview
+reading
+introductory panel ui design and why it matters introduction to the courses and capstone user interface hall of fame shame case study ui disasters including gps fails case study corporate value citibank atm case study microsoft office ribbon case study international childrens digital library case study taxes and tickets case study airbnb vs couchsurfing introductory
+
+ui design process
+peer review
+design process introduction designing to address a problem wo solution ideas designing for a known solution direction designing to iterate onimprove an existing solution common elements usability engineering and taskcentered approaches use cases personas tasks and scenarios intro to designcentered approaches designcentered methods when they best pulling it all together best from each practical techniques for someone who isnt a trained designer tasks and scenarios
+
+psychology and human factors for user interface design
+peer review
+intro fitts law short and longterm memory attention perception and visualization hierarchy mistakes errors and slips conceptual models the gulf of execution and the gulf of evaluation design principles visibility feedback mappings constraints interacting beyond individuals social psychology highlevel models distributed cognition activity theory situated action interface critiques
+
+psychology and human factors continued
+
+</DOC>
+
+<DOC>
+evaluating user interfaces
+and practice several techniques for user interface evaluation first we start with techniques that can be applied alone or in a design team including action analysis walkthroughs and heuristic evaluation then we move on to user testing including from a series of usability tests carried out in a real usability lab and techniques to carry out your own tests even without a lab finally we wrap up the discussion of evaluationand of ui design in the as a wholeby looking at the question of how to set and measure usability goals and in turn when a design is usable enough to release it
+
+preface
+we situate evaluation in the larger ui design process and provide an introduction to the courses content
+introduction to evaluating user interfaces and evaluation in the ui design process evaluating user interfaces an introduction
+
+evaluation without users part
+we cover industrystandard techniques for evaluating interfaces without users a lowercost approach that precedes highercost with user strategies part of
+evaluation without users introduction action analysis goms and informal action analysis case example action analysis action analysis cognitive walkthroughs
+
+evaluation without users part
+we continue our overview of evaluation techniques that do not involve users part of
+cognitive walkthrough introduction to heuristic evaluation nielsens heuristics part nielsens heuristics part nielsens heuristics part heuristic evaluation wrapup lecture evaluation without users
+
+evaluation with users part
+we dive into the most important and most costly family of evaluation techniques those that involve testing your user interface with real users part of
+introduction to user testing user testing goals formative and summative evaluation usability lab tour usability lab example user usability lab example user usability lab example user usability lab example user
+
+evaluation with users part
+we continue our discussion of withuser evaluation techniques part of
+ethics in user evaluation drafting a user test plan field study case example sharetable deployment user test plan
+
+evaluation with users part
+we continue our discussion of withuser evaluation techniques part of
+eyetracking introduction and first demonstration eyetracking second demonstration eyetracking review eyetracking discussion and conclusion field studies alpha releases and ab tests controlled field experiments industry practice massive ab testing interview with ronny kohavi log analysis in evaluation
+
+wrapup
+we revisit our overview of ui evaluation
+usability goals and measures evaluating user interfaces recap
+</DOC>
+
+<DOC>
+user research and design
+and practice techniques of user research and early ui design exploration first and practice several techniques for user research including inperson research and survey and loganalysis techniques then to analyze and deliver user research in forms that support ui design including personas use cases tasks and scenarios finally and practice ideation techniques that start from user research and broadly generate potential design ideas
+
+preface
+note that weeks and form a cohesive whole with more lecture content in and more practice and quizzing in
+from user research to design an introduction to the
+
+user research methods part
+
+introduction to user research interview and focus groups observations contextual inquiry ethics and consent design a user research protocol
+
+user research methods part
+reading peer review
+log analysis surveys and questionnaires observing users
+
+analyzing and delivering user research
+the rd and th of the are intended to be a unit with more lecture content in and more practice and quizzing in
+introduction translating user research to support design qualitative analysis quantitative analysis personas i what they are how theyre used personas ii walking through examples use cases tasks and walkthrough scenarios implications for design
+
+ideation and idea selection
+peer review
+from research to ideas introduction ideation idea selection communicating ideas to stakeholders ideation and selection
+</DOC>
+

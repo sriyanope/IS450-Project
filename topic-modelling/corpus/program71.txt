@@ -1,0 +1,109 @@
+<DOC>
+computational social science
+for more information please view the computational social science traileropens in a new tab digital technology has not only revolutionized society but also the way we can study it currently this is taken advantage of by the most valuable companies in silicon valley the most powerful governmental agencies and the most influential social movements what they have in common is that they use computational tools to understand and ultimately influence human behavior and social dynamics an increasing part of human interaction leaves a massive digital footprint behind studying it allows us to gain unprecedented insights into what society is and how it works including its intricate social networks that had long been obscure computational power allows us to detect hidden patterns through analytical tools like machine and to natural language processing finally computer simulations enable us to explore hypothetical situations that may not even exist in reality but that we would like to exist a better world this serves as a multidisciplinary multiperspective and multimethod guide on how to better understand society and human behavior with modern research tools this gives you easy access to some of the exciting new possibilities of how to study society and human behavior it is the first online collectively taught by professors from all university of california campusesopens in a new tab while no formal requisites are necessary to join this at the end webscrape big data from the web execute a social network analysis sna find hidden patterns with machine ml and natural language processing nlp and create agentbased computer models abm to explore what might happen if we would change certain things in society
+</DOC>
+
+<DOC>
+computational social science methods
+this gives you an overview of the current and the omnipresent reach of computational social science the results are all around us every day reaching from the services provided by the worlds most valuable companies over the hidden influence of governmental agencies to the power of social and political movements all of them study human behavior in order to shape it in short all of them do social science by computational meansin this we answer three questions i why computational social science css now ii what does css cover iii what are examples of css last part we take a birdseye view on four main applications of css first prof blumenstock from uc berkeley discusses how we can gain insights by studying the massive digital footprint left behind todays social interactions especially to foster international development second prof shelton from uc riverside introduces us to the world of machine including the basic concepts behind this current driver of much of todays computational landscape prof fowler from uc san diego introduces us to the power of social networks and finally prof smaldino from uc merced explains how computer simulation help us to untangle some of the mysteries of social emergence
+
+computational social science css
+be able to examine the history and current challenges faced by social science through the digital revolution be able to discuss the mystery at the core of society social emergence be able to recall the fundamental building blocks of the scientific method and how they apply to the new computational tools we now have available be able to defend what people mean when they say that social studies are currently maturing to become a real science
+what is this about intro to introduction optional study suggestions not required introduction the digital revolution first ever ucwide online a very short history of science a very simplistic hierarchy of science social emergence part social emergence part the scientific method revisited limitations of induction and deduction glass of red wine theorizing social science challenges
+
+example of computational social science data science
+be presented with an example of how computational social science is applied in the real world through a case study be able to discuss examples of digital footprint and describe how computational social science is applied practice an activity and be able to configure a machine to create a database that can later be used for analysis
+introduction to examples of css part overview of big data fighting poverty with data extracting features predicting poverty who cares webscraping lab howto
+
+examples of css machine ai
+be able to discover how artificial intelligence can convert news stories into a realtime observatory of global unrest and potential terror attacks and how brain scans can be used to reveal aspects of your moral values be able to practice interacting with artificial intelligence that can interpret your art
+introduction to examples of css part overview of artificial intelligence part overview of artificial intelligence part machine overfitting training validation testing a common difficulty in ml
+
+examples of css social networks and computer simulations
+be able to discover how social networks and human dynamics create systems that are larger than you and me social systems be able to discuss how social networks and human dynamics follow recognizable patterns be able to identify how social network analysis and computer simulations are currently quite successful in untangling some of the mysteries of social emergence
+introduction to social networks and computer simulations overview of social networks connected from obesity to generosity get your friends involved overview of computer simulations models why model cultural boundaries
+</DOC>
+
+<DOC>
+social network analysis
+this is designed to quite literally make a science out of something at the heart of society social networks humans are natural network scientists as we compute new network configurations all the time almost unaware when thinking about friends and family which are particular forms of social networks about colleagues and organizational relations other overlapping network structures and about how to navigate delicate or opportunistic network configurations to save guard or advance in our social standing with society being one big social network itself while such network structures always existed computational social science has helped to reveal and to study them more systematically in the first part of the we focus on network structure this looks as static snapshots of networks which can be intricate and reveal important aspects of social systems in our handson lab also visualize and analyze a network with a software yourself which will help to appreciate the complexity social networks can take on during the second part of the we will look at how networks evolve in time we ask how we can predict what kind of network will form and if and how we could influence network dynamics
+
+getting started and formalizing networks
+be introduced to the concept of networks be able to define networks and identify how data is transformed and analyzed in a network able be able to discuss how to formalize networks
+what is this about intro to introduction social equals network nodes links nodes andor links strength of ties formalizing networks
+
+social network analysis
+be able to discuss the structure of networks and be able to explain how a person can be the center of one be able to discover the different types of language that networks use and be able to identify the three types of network measurements
+introduction network jargon degrees roaming the network communities triangles network centrality part network centrality part community detection eigenvector centrality three kinds of measures network analysis software
+
+analyzing a network with software
+begin with a social network analysis lab activity be able to do data wrangling of databases and visualize a network be able to analyze a social network and also be able to examine other social network analysis through case studies
+introduction data wrangling network measures part network measures part influentials whos influential twitter cascades base rate modeling influentials
+
+network evolution
+be able to identify the different types of social networks be able to discuss what mechanisms generates these different types of networks and be able to explain how networks move from being static to dynamic
+how do networks evolve network dynamics network hypotheses random graphs tipping points scalefree networks hybrid models small world networks
+
+growing networks and making predictions
+be able to examine theoretical predictions of networks be able to calculate basic math problems and be able to discuss how to make networks more efficient and stable
+introduction growing efficient networks part growing efficient networks part growing stable networks efficiency stability diffusion of network diffusion patterns computing networks
+</DOC>
+
+<DOC>
+computer simulations
+big data and artificial intelligence get most of the press about computational social science but maybe the most complex aspect of it refers to using computational tools to explore and develop social science theory this shows how computer simulations are being used to explore the realm of what is theoretically possible computer simulations allow us to study why societies are the way they are and to dream about the world we would like to live can be as intuitive as playing a game much like the wellknown game simcity is used to build and manage an artificial city we use agentbased models to grow and study artificial societies without hurting anyone in the real world computer simulations allow us explore how to make the world a better place we play handson with several practical computer simulation models and explore how we can combine hypothetical models with real world data finally a simple artificial society yourself bottomup this will allow you to feel the complexity that arises when designing social systems while at the same time experiencing the ease with which our new computational tools allow us to pursue such daunting endeavors
+
+getting started and computer simulations
+be able to define theoretical computer simulations specifically agentbased models abm be able to recall how and why agentbased models can be useful and be able to examine schellings famous segregation model
+what is this about intro to introduction theoretical simulations modeling and mapping extending thoughts computationally part extending thoughts computationally part schellings segregation model part schellings segregation model part reflecting on schelling expanding on schelling part expanding on schelling part
+
+artificial societies sugarscape
+be able to identify how to mix different models to create new and more complex models be able to explore how to create sophisticated versions of artificial societies also be able to examine an artificial society called sugarscape
+introduction to artificial societies sugarscape sugarscape components sugarscape sugarscape inequality part sugarscape inequality part sugarscape sex sugarscape inheritance sugarscape das kapital sugarscape pressured to move sugarscape sugar spice life on the brink the generativist motto
+
+computer simulations and characteristics of abm
+be able to discover how one uses computer simulations to solve practical problems be able to discuss agentbased models abm and identify how abm can be used in social science
+computer simulations introduction css for your choices code you can live by gambling high or low more risk in your life todays questions agentbased emergence part agentbased emergence part social bursts intuitive presentation context sensitivity probabilistic humbleness
+
+model thinking and coding artificial societies
+be able to describe what agentbased models are be able to identify their capabilities and limitations be able to define and use vocabulary and terminology around model thinking also be able to code using netlogo and be able to grow your own artificial society
+introduction to some model thinking four model part four model part analytical and numerical all models are wrong occams razor science pure creativity agent based models lab introduction first turtle moving turtle communicating turtles social epidemiology conceptual model changing peoples health computer simulations of the dead
+</DOC>
+
+<DOC>
+big data artificial intelligence and ethics
+this gives you context and firsthand with the two major catalyzers of the computational science revolution big data and artificial intelligence with more than of all mediated information in digital format and with of the world population using digital technology humanity produces an impressive digital footprint in theory this provides unprecedented to understand and shape society in practice the only way this information deluge can be processed is through using the same digital technologies that produced it data is the fuel but machine it the motor to extract remarkable new knowledge from vasts amounts of data since an important part of this data is about ourselves using algorithms in order to more about ourselves naturally leads to ethical questions therefore we cannot finish this without also talking about research ethics and about some of the old and new lines computational social scientists have to keep in mind as handson labs use ibm watsons artificial intelligence to extract the personality of people from their digital text traces and the power and limitations of machine by teaching two teachable machines from google yourself
+
+getting started and artificial intelligence ai
+discover the history of artificial intelligence ai and its fields of study be able to examine how ai is used through case studies be able to discuss the application of ai and use ai to create a unique artifact through a handson exercise
+introduction introduction to the good the bad and the hopeful education technology business ai agents multiagent systems creativity health politics democracy love the godfather of ai the machine paradigm virtue ethics data deontology wtf consequentialism part consequentialism part consequentialism part final reflections on ai ethics
+
+big data limitations
+be able to define the idea of big data and digital footprint be able to discuss how big data is represented in social science and identify the of big data also be able to explain the limitations of big data with an ai interface and discover how ai can identify personality through natural language processing nlp
+big data overview what is big data digital footprint political datafusion and nosampling part political datafusion and nosampling part realtime machine machine recommender systems introduction to big data limitations footprint representativeness data reality meaning meaningful discrimination personalization correlation causation past future
+
+ethics and social media
+be able to define the term ethics be able to examine the role ethics plays in social media be able to discuss how ethics is applied when using ai and big data
+human downgrading attention economy exploiting cognitive biases persuasive tech is everywhere digital exit strategy part digital exit strategy part digital exit strategy part digital exit strategy part what is this about intro to walker on ethics complementary shelton on ethics complementary
+</DOC>
+
+<DOC>
+computational social science capstone
+congratulations not only did you accomplish to finish our intellectual tour de force but by now you also already have all required to execute a comprehensive multimethod workflow of computational social science we will put these to final integrative lab where we are bringing it all together we scrape data from a social media site drawing on the obtained in the st of this we then analyze the collected data by visualizing the resulting networks building on the obtained in the rd we analyze some key aspects of it in depth using machine powered natural language processing putting to the insights obtained during the nd finally we use a computer simulation model to explore possible generative mechanism and scrutinize aspects that we did not find in our empirical reality but that help us to improve this aspect of society drawing on the obtained during the th of this the result is the first glimpse at a new way of doing social science in a digital age computational social science congratulations having done all of this yourself you can consider yourself a fledgling computational social scientist
+
+getting started and milestone
+for this milestone again web scrape from two youtube channels be assigned two channels to scrape in contrast to the previous version of this exercise not scrape the featured of the specified news channel but the search results of the name of the news channel in combination with your name
+what is this about intro to culminating introduction webscraping lab howto
+
+milestone social network analysis
+milestone analyze a social network with help of the software gephi
+
+milestone natural language processing
+milestone of our integrative lab select two of the key identified with help of our sna and analyze the sentiment and emotions contained in the comment sections of the we use nlp from ibm watson for this
+milestone nlp introduction network measures part network measures part
+
+milestone agentbased computer simulations
+milestone take all the data you created in the previous milestones and use a twostep flow model and discover how ideas can diffuse into society through this exercise grow your own artificial society from the bottomup
+milestone agentbased computer simulations introduction onestep flow part onestep flow part twostep flow convincing messages
+</DOC>
+

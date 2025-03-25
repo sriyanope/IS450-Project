@@ -1,0 +1,108 @@
+<DOC>
+business statistics and analysis
+the business statistics and analysis is designed to equip you with a basic understanding of business data analysis tools and techniques informed by our worldclass data science mastersopens in a new tab and phd material master essential spreadsheet functions build descriptive business data measures and develop your aptitude for data modeling also explore basic probability concepts including measuring and modeling uncertainty and use various data distributions along with the linear regression model to analyze and inform business decisions the culminates with a capstone in which apply the and knowledge youve gained to an actual business problemto successfully complete all students must have access to a windows version of microsoft excel or laterto see an overview for this click hereopens in a new tab
+</DOC>
+
+<DOC>
+business applications of hypothesis testing and confidence interval estimation
+confidence intervals and hypothesis tests are very important tools in the business statistics toolbox a mastery over these topics will help enhance your business decision making and allow you to understand and measure the extent of risk or uncertainty in various business processes this is the third in the business statistics and analysis and the advances your knowledge about business statistics by introducing you to confidence intervals and hypothesis testing we first conceptually understand these tools and their business application we then introduce various calculations to constructing confidence intervals and to conduct different kinds of hypothesis tests these are done by easy to understand applications to successfully complete students must have access to a windows version of microsoft excel or later please note that earlier versions of microsoft excel and earlier will not be compatible to some excel functions covered confidence interval introduction get to conceptually understand what a confidence interval is and how is its constructed we will introduce the various building blocks for the confidence interval such as the tdistribution the tstatistic the zstatistic and their various excel formulas we will then use these building blocks to construct confidence intervals topics covered include introducing the tdistribution the tdist and tinv excel functions conceptual understanding of a confidence interval the zstatistic and the tstatistic constructing a confidence interval using zstatistic and tstatistic confidence interval applications this presents various business applications of the confidence interval including an application where we use the confidence interval to calculate an appropriate sample size we also introduce with an application the confidence interval for a population proportion towards the close of we start introducing the concept of hypothesis testing topics covered include applications of confidence interval confidence interval for a population proportion sample size calculation hypothesis testing an introduction hypothesis testing this introduces hypothesis testing you get to understand the logic behind hypothesis tests the four steps for conducting a hypothesis test are introduced and you get to apply them for hypothesis tests for a population mean as well as population proportion understand the difference between single tail hypothesis tests and two tail hypothesis tests and also the type i and type ii errors associated with hypothesis tests and ways to reduce such errors topics covered include the logic of hypothesis testing the four steps for conducting a hypothesis test single tail and two tail hypothesis tests guidelines formulas and an application of hypothesis test hypothesis test for a population proportion type i and type ii errors in a hypothesis hypothesis test differences in mean apply hypothesis tests to test the difference between two different data such hypothesis tests are called difference in means tests we will introduce the three kinds of difference in means test and apply them to various business applications we will also introduce the excel dialog box to conduct such hypothesis tests topics covered include introducing the differenceinmeans hypothesis test applications of the differenceinmeans hypothesis test the equal unequal variance assumption and the paired ttest for difference in means some more applications
+
+confidence interval introduction
+
+meet the professor introducing the tdistribution the tdist function tdistribution continued the tinv function introducing confidence interval introducing confidence interval continued the zstatistic and the tstatistic using z and t statistics to construct confidence interval recap
+
+confidence interval applications
+
+application of confidence interval confidence interval for a population proportion sample size calculation sample size calculation continued hypothesis testing an introduction recap
+
+hypothesis testing
+
+the logic of hypothesis testing conducting a hypothesis test the four steps single tail and two tail hypothesis tests guidelines formulas and an application of hypothesis test hypothesis test for a population proportion type i and type ii errors in a hypothesis test recap
+
+hypothesis test differences in mean
+
+introducing the differenceinmeans hypothesis test application of the differenceinmeans hypothesis test application continued equal unequal variance assumption the paired ttest for means some more applications some more applications continued recap
+</DOC>
+
+<DOC>
+introduction to data analysis using excel
+the use of excel is widespread in the industry it is a very powerful data analysis tool and almost all big and small businesses use excel in their day to day functioning this is an introductory in the use of excel and is designed to give you a working knowledge of excel with the aim of getting to use it for more advance topics in business statistics later the is designed keeping in mind two kinds of learners those who have very little functional knowledge of excel and those who use excel regularly but at a peripheral level and wish to enhance their the takes you from basic operations such as reading data into excel using various data formats organizing and manipulating data to some of the more advanced functionality of excel all along excel functionality is introduced using easy to understand examples which are demonstrated in a way that learners can become comfortable in understanding and applying themto successfully complete students must have access to a windows version of microsoft excel or later introduction to spreadsheets be introduced to the use of excel spreadsheets and various basic data functions of excel topics covered include reading data into excel using various formats basic functions in excel arithmetic as well as various logical functions formatting rows and columns using formulas in excel and their copy and paste using absolute and relative referencing spreadsheet functions to organize data this introduces various excel functions to organize and query data learners are introduced to the if nested if vlookup and the hlookup functions of excel topics covered include if and the nested if functions vlookup and hlookup the randbetween function introduction to filtering pivot tables and charts this introduces various data filtering capabilities of excel how to set filters in data to selectively access data a very powerful data summarizing tool the pivot table is also explained and we begin to introduce the charting feature of excel topics covered include vlookup across worksheets data filtering in excel use of pivot tables with categorical as well as numerical data introduction to the charting capability of excel advanced graphing and charting this explores various advanced graphing and charting techniques available in excel starting with various line bar and pie charts we introduce pivot charts scatter plots and histograms get to understand these various charts and get to build them on your own topics covered include line bar and pie charts pivot charts scatter plots histograms
+
+introduction to spreadsheets
+
+introduction to data analysis using excel meet the professor reading data into excel basic data manipulation in excel arithmetic manipulation in excel basic functions in excel functions using absolute and relative references functions explained recap
+
+spreadsheet functions to organize data
+introduction to some more useful functions such as the if nested if vlookup and hlookup functions in excel
+the if command in excel the if command in excel using numerical data the nested if command in excel the vlookup function in excel another vlookup example the hlookup function in excel professor knowitall needs help recap
+
+introduction to filtering pivot tables and charts
+introduction to the data filtering capabilities of excel the construction of pivot tables to organize data and introduction to charts in excel
+using the vlookup function across worksheets data filtering in excel use of pivot tables in excel more pivot table options application of pivot tables to numeric data introduction to charts in excel recap
+
+advanced graphing and charting
+constructing various line bar and pie charts using the pivot chart features of excel understanding and constructing histograms and scatterplots
+line graphs bar graphs and pie charts pivot charts scatter plots histograms part histograms part recap congratulations on completing the
+</DOC>
+
+<DOC>
+linear regression for business statistics
+regression analysis is perhaps the single most important business statistics tool used in the industry regression is the engine behind a multitude of data analytics applications used for many forms of forecasting and prediction this is the fourth in the business statistics and analysis the introduces you to the very important tool known as linear regression to apply various procedures such as dummy variable regressions transforming variables and interaction effects all these are introduced and explained using easy to understand examples in microsoft excel the focus of the is on understanding and application rather than detailed mathematical derivations note this uses the data analysis tool box which is standard with the windows version of microsoft excel it is also standard with the or later mac version of excel however it is not standard with earlier versions of excel for mac regression analysis an introduction get introduced to the linear regression model we will build a regression model and estimate it using excel we will use the estimated model to infer relationships between various variables and use the model to make predictions the also introduces the notion of errors residuals and rsquare in a regression model topics covered include introducing the linear regression building a regression model and estimating it using excel making inferences using the estimated model using the regression model to make predictions errors residuals and rsquare regression analysis hypothesis testing and goodness of fit this presents different hypothesis tests you could do using the regression output these tests are an important part of inference and the introduces them using excel based examples the pvalues are introduced along with goodness of fit measures rsquare and the adjusted rsquare towards the end of we introduce the dummy variable regression which is used to incorporate categorical variables in a regression topics covered include hypothesis testing in a linear regression goodness of fit measures rsquare adjusted rsquare dummy variable regression using categorical variables in a regression regression analysis dummy variables multicollinearity this continues with the application of dummy variable regression you get to understand the interpretation of regression output in the presence of categorical variables examples are worked out to reinforce various concepts introduced the also explains what is multicollinearity and how to deal with it topics covered include dummy variable regression using categorical variables in a regression interpretation of coefficients and pvalues in the presence of dummy variables multicollinearity in regression models regression analysis various extensions the extends your understanding of the linear regression introducing techniques such as meancentering of variables and building confidence bounds for predictions using the regression model a powerful regression extension known as interaction variables is introduced and explained using examples we also study the transformation of variables in a regression and in that context introduce the loglog and the semilog regression models topics covered include mean centering of variables in a regression model building confidence bounds for predictions using a regression model interaction effects in a regression transformation of variables the loglog and semilog regression models
+
+regression analysis an introduction
+
+meet the professor introducing linear regression building a model introducing linear regression estimating the model introducing linear regression interpreting the model introducing linear regression predictions using the model errors residuals and rsquare normality assumption on the errors
+
+regression analysis hypothesis testing and goodness of fit
+
+hypothesis testing in a linear regression hypothesis testing in a linear regression using pvalues hypothesis testing in a linear regression confidence intervals a regression application using housing data goodness of fit measures rsquare and adjusted rsquare categorical variables in a regression dummy variables
+
+regression analysis dummy variables multicollinearity
+
+dummy variable regression extension to multiple categories dummy variable regression interpretation of coefficients dummy variable regression estimation interpretation of pvalues a regression application using refrigerator data a regression application using refrigerator data continued multicollinearity in regression models what it is and how to deal with it
+
+regression analysis various extensions
+
+mean centering variables in a regression model building confidence bounds for prediction using a regression model interaction effects in a regression an introduction interaction effects in a regression an application transformation of variables in a regression improving linearity the loglog and the semilog regression models recap
+</DOC>
+
+<DOC>
+basic data descriptors statistical distributions and application to business decisions
+the ability to understand and apply business statistics is becoming increasingly important in the industry a good understanding of business statistics is a requirement to make correct and relevant interpretations of data lack of knowledge could lead to erroneous decisions which could potentially have negative consequences for a firm this is designed to introduce you to business statistics we begin with the notion of descriptive statistics which is summarizing data using a few numbers different categories of descriptive measures are introduced and discussed along with the excel functions to calculate them the notion of probability or uncertainty is introduced along with the concept of a sample and population data using relevant business examples this leads us to various statistical distributions along with their excel functions which are then used to model or approximate business processes you get to apply these descriptive measures of data and various statistical distributions using easytofollow excel based examples which are demonstrated throughout the courseto successfully complete students must have access to microsoft excel basic data descriptors get to understand calculate and interpret various descriptive or measures of data these descriptive measures summarize and present data using a few numbers appropriate excel functions to do these calculations are introduced and demonstrated topics covered include categories of descriptive data measures of central tendency the mean median mode and their interpretations and calculations measures of spreadindata the range interquartilerange standard deviation and variance box plots interpreting the standard deviation measure using the ruleofthumb and chebyshevs theorem descriptive measures of association probability and statistical distributions this presents the covariance and correlation measures and their respective excel functions you get to understand the notion of causation versus correlation the then introduces the notion of probability and random variables and starts introducing statistical distributions topics covered include measures of association the covariance and correlation measures causation versus correlation probability and random variables discrete versus continuous data introduction to statistical distributions the normal distribution this introduces the normal distribution and the excel function to calculate probabilities and various from the distribution topics covered include probability density function and area under the curve as a measure of probability the normal distribution bell curve normdist norminv functions in excel working with distributions normal binomial poisson see various applications of the normal distribution also get introduced to the binomial and poisson distributions the central limit theorem is introduced and explained in the context of understanding sample data versus population data and the link between the two topics covered include various applications of the normal distribution the binomial and poisson distributions sample versus population data the central limit theorem
+
+basic data descriptors
+
+meet the professor descriptive statistics descriptive statistics continued introduction to the box plot and standard deviation the standard deviation rule of thumb testing the rule of thumb chebyshevs theorem recap
+
+descriptive measures of association probability and statistical distributions
+
+covariance correlation causation probability and random variables statistical distributions recap
+
+the normal distribution
+
+probability density function and area under the curve the normal distribution the normdist function the normdist function continued the norminv function
+
+working with distributions normal binomial poisson population and sample data
+
+applying the normal distribution standard normal distribution population and sample data central limit theorem the binomial distribution business application of the binomial distribution poisson distribution weeks and recap
+</DOC>
+
+<DOC>
+business statistics and analysis capstone
+the business statistics and analysis capstone is an to apply various developed across the four courses in the to a real life data the capstone in collaboration with an industry partner uses publicly available housing data to pose various questions typically a client would pose to a data analystyour job is to do the relevant statistical analysis and report your findings in response to the questions in a way that anyone can understand please remember that this is a capstone and has a degree of difficultyambiguity higher than the previous four courses the aim being to mimic a real life application as close as possible
+
+business statistics and analysis capstone an introduction
+
+a of the four courses in the introducing the capstone a conversation with garfield fisher the industry partner for the capstone qa with garfield fisher data for the capstone merging and cleaning data for the capstone
+
+business statistics and analysis capstone assessments
+
+introducing differences in market value of housing units introducing fair market rent of housing units
+
+business statistics and analysis capstone assessment
+peer review
+
+business statistics and analysis capstone assessment
+peer review
+</DOC>
+

@@ -1,0 +1,205 @@
+<DOC>
+microsoft azure developer associate az exam prep
+this is intended for developers participating in all phases of cloud development from requirements definition and design to development deployment and maintenance to performance tuning and monitoring this teaches developers how to create endtoend solutions in microsoft azure students will how to implement azure compute solutions create azure functions implement and manage web apps develop solutions utilizing azure storage implement authentication and authorization and secure their solutions by using keyvault and managed identities students will also how to connect to and consume azure services and thirdparty services and include event and messagebased models in their solutions the also covers monitoring troubleshooting and optimizing azure solutions this consists of courses to help prepare you to take the exam az developing solutions for microsoft azure each teaches you the concepts and that are measured by the exam by the end of this be ready to take the az certification examapplied projectlearners will engage in interactive exercises throughout this that offers to practice and implement what they are they use the microsoft sandbox this is a free environment that allows learners to explore microsoft azure and get handson with live microsoft azure resources and services for example when you about integrating transforming and consolidating data in a temporary azure environment called the sandbox or directly in the azure portal the beauty about this is that be working with real technology but in a controlled environment which allows you to apply what you and at your own pace need a microsoft account if you dont have one you can create one for free the sandbox allows free fixedtime access to a cloud subscription with no credit card required learners can safely explore create and manage resources without the fear of incurring costs or breaking production
+</DOC>
+
+<DOC>
+deploy a website with azure virtual machines
+if your web hosting requirements arent directly supported by the azure web app platform you can leverage virtual machines to customize and control every aspect of ta webserver how to create configure and manage virtual machines on linux and windows that host web appsyou will look at the decisions made before creating a vm the options to create and manage the vm and the extensions and services you use to manage your vm how to create a linux virtual machine using the azure portal also see how azure virtual machines vms enable you to create dedicated compute resources in minutes that can be used just like a physical desktop or server machine finally build and run a web application with the mean stack on an azure linux virtual machine this will help you prepare for the microsoft certified azure developer associate certification take a practice exam that covers key measured in the exam this is the second in a of courses to help prepare you to take the exam each teaches you the concepts and that are measured by the exam this is part of a intended for developers who want to demonstrate their expertise in all phases of cloud development from requirements definition and design to development deployment and maintenance to performance tuning and monitoring it is ideal for anyone interested in preparing for the az developing solutions for microsoft azure exam by the end of this be ready to take and signup for the exam az developing solutions for microsoft azure
+
+introduction to azure virtual machines
+look at the decisions made before creating a vm the options to create and manage the vm and the extensions and services you use to manage your vm
+introduction to the lesson introduction compile a checklist for creating an azure virtual machine pricing model storage and operating system for the vm describe the options available to create and manage an azure virtual machine manage the availability of your azure vms back up your virtual machines lesson
+
+create a linux virtual machine in azure
+how to create a linux virtual machine using the azure portal
+lesson introduction create a linux virtual machine in azure size your vm azure virtual machines ip addresses and ssh options network and security settings lesson
+
+create a windows virtual machine in azure
+see how azure virtual machines vms enable you to create dedicated compute resources in minutes that can be used just like a physical desktop or server machine
+lesson introduction windows virtual machines in azure configure your windows vm use rdp to connect to windows azure virtual machines configure azure virtual machine network settings lesson
+
+build and run a web application with the mean stack on an azure linux virtual machine
+youve heard about the mean stack mongodb expressjs angularjs and nodejs and you know it uses javascript try it out by building a mean stack and a basic web application that stores information about books you can use what you learned to get a jumpstart on your new web site
+lesson introduction decide if mean is right for you lesson
+
+practice exam
+take a practice exam that covers key measured in the exam az developing solutions for microsoft azure
+recap congratulations
+</DOC>
+
+<DOC>
+connect your services with microsoft azure service bus
+azure lets you create applications composed of various components website frontends backend services and triggered functions that perform computeondemand services azure also includes various communication strategies to let these various components pass data to each other how to leverage these communication services to create scalable efficient solutions out of testable components this will help you prepare for the microsoft certified azure developer associate certification this is part of a intended for developers who want to demonstrate their expertise in all phases of cloud development from requirements definition and design to development deployment and maintenance to performance tuning and monitoring it is ideal for anyone interested in preparing for the az developing solutions for microsoft azure exam this is the second in a of courses to help prepare you to take the exam each teaches you the concepts and that are measured by the exam by the end of this be ready to take and signup for the exam az developing solutions for microsoft azure
+
+certification and exam preparation
+when you have an application that consists of components running on different computers servers and mobile devices reliable communications between those components can be difficult and unreliable azure provides several technologies that you can use to communicate more reliably including storage queues event hubs event grid and service bus this shows you how to choose the best technology for your communication task
+introduction lesson introduction choose whether to use messages or events messagebased delivery with queues choose a messagebased delivery with queues what is azure event grid what is an event source choose azure event hubs lesson
+
+implement messagebased communication workflows with azure service bus
+how to write c code in a custom application that sends and receives messages using azure service bus topics and queues
+lesson introduction decide between messages and events how to choose a communications technology write code that uses service bus queues write code that uses service bus topics lesson
+
+communicate between applications with azure queue storage
+how to use azure queue storage to handle high demand and improve resilience in your distributed applications
+lesson introduction create the azure storage infrastructure identify a queue programmatically access a queue lesson
+
+enable reliable messaging for big data applications using azure event hubs
+implement the publishsubscribe pattern in the cloud using azure queue storage
+lesson introduction what is an azure event hub create and configure new azure event hubs evaluate the performance of the deployed event hub using the azure portal lesson lesson introduction respond to azure events by using event grid lesson
+
+practice exam
+take a practice exam that covers key measured in the exam az developing solutions for microsoft azure
+recap congratulations
+</DOC>
+
+<DOC>
+deploy a website to azure with azure app service
+see how web apps in azure allow you to publish and manage your website easily without having to with the underlying servers storage or network assets instead you can focus on your website features and rely on the robust azure platform to provide secure access to your site see how azure app service enables you to build and host web applications in the programming language of your choice without managing infrastructure also how to create a website through the hosted web app platform in azure app service how to use the publishing features built into visual studio to deploy and manage aspnet core web applications hosted on azure use azure app service to scale a web app to match planned seasonal throughput requirements and also meet demand during shortterm peak events by the end of this be able to create and maintain web apps that use docker images that are stored in container registry this will help you prepare for the microsoft certified azure developer associate certification take a practice exam that covers key measured in the exam this is the sixth in a of courses to help prepare you to take the exam this is part of a intended for developers who want to demonstrate their expertise in all phases of cloud development from requirements definition and design to development deployment and maintenance to performance tuning and monitoring it is ideal for anyone interested in preparing for the az developing solutions for microsoft azure exam by the end of this be ready to take and signup for the exam az developing solutions for microsoft azure
+
+prepare a development environment and host a web application
+how to set up your development environment with several popular ides see how azure app service enables you to build and host web applications in the programming language of your choice without managing infrastructure also how to create a website through the hosted web app platform in azure app service
+introduction to the lesson introduction set up your development environment lesson lesson introduction create a web app in the azure portal prepare the web application code lesson
+
+publish a web app to azure with visual studio
+visual studio and azure app service provide a powerful mechanism for creating publishing and maintaining web apps in azure how to use the publishing features built in to visual studio to deploy and manage aspnet core web applications hosted on azure
+lesson introduction install the necessary workloads explore the azure app service explore your visual studio app lesson
+
+stage and scale apps
+to deploy an app without downtime or a service interruption you also how to rapidly roll back a new deployment to the previous version if it causes problems use azure app service to scale a web app to match planned seasonal throughput requirements and also meet demand during shortterm peak events this also describes how to scale up a web app onto more powerful hardware to meet future requirements
+lesson introduction create deployment slots deploy a web app by swapping deployment slots lesson lesson introduction scale a web app manually scale up a web app lesson
+
+deploy and run a containerized web app with azure app service
+this shows you how to create and store docker images in azure container registry see how to use these images to deploy a web app then how to configure continuous deployment so that the web app is redeployed whenever a new version of the image is released by the end of this be able to create and maintain web apps that use docker images that are stored in container registry
+lesson introduction build and store images by using azure container registry deploy a web app by using an image from an azure container registry repository update the image and automatically redeploy the web app lesson
+
+practice exam
+take a practice exam that covers key measured in the exam az developing solutions for microsoft azure
+recap congratulations
+</DOC>
+
+<DOC>
+prepare for az developing solutions for microsoft azure
+microsoft certifications give you a advantage by providing globally recognized and industryendorsed evidence of mastering in digital and cloud businesses prepare to take the exam az developing solutions for microsoft azure refresh your knowledge of hall phases of cloud development from requirements definition and design to development deployment and maintenance to performance tuning and monitoring test your knowledge in a practice exam mapped to all the main topics covered in the az exam ensuring youre well prepared for certification success y also get a more detailed overview of the microsoft certification and where you can go next in your also get tips and tricks testing strategies useful resources and information on how to sign up for the az proctored exam by the end of this be ready to signup for and take the certification exam this is the last in a of eight courses to help prepare you to take the exam so that you can have expertise in designing and implementing data solutions that use microsoft azure data services the developing solutions for microsoft azure exam is an to prove knowledge expertise in designing building testing and maintaining cloud applications and services on microsoft azure each teaches you the concepts and that are measured by the exam
+
+prepare for exam az developing solutions for microsoft azure
+also have access to resources that will help you to prepare for the proctored exam enhance your study techniques and help develop successful exam strategies have an to explore some other microsoft certifications paths that can help to advance your
+introduction to the lesson introduction jobs and careers lesson introduction exam strategy tips and tricks
+
+recap on key topics
+have an to recap some of the key points covered in the developing solutions for microsoft azure
+lesson introduction recap recap recap recap recap recap recap
+
+az practice exam
+take a practice exam that covers the measured in the examaz developing solutions for microsoft azure
+lesson introduction congratulations whats next
+</DOC>
+
+<DOC>
+data storage in microsoft azure for associate developers
+azure provides a variety of ways to store data unstructured archival relational and more the basics of storage management in azure how to create a storage account and how to choose the right model for the data you want to store in the cloudthis part of a intended for data engineers and developers who want to demonstrate their expertise in designing and implementing data solutions that use microsoft azure data services anyone interested in preparing for the exam dp data engineering on microsoft azure beta this is the second in a of courses to help prepare you to take the exam so that you can have expertise in designing and implementing data solutions that use microsoft azure data services the data engineering on microsoft azure exam is an to prove knowledge expertise in integrating transforming and consolidating data from various structured and unstructured data systems into structures that are suitable for building analytics solutions that use microsoft azure data services each teaches you the concepts and that are measured by the exam by the end of this be ready to take and signup for the exam dp data engineering on microsoft azure beta
+
+data storage in microsoft azure
+how using azure storage azure sql database and azure cosmos db or a combination of them for your business scenario is the best way to get the most performant solution also how to create an azure storage account with the correct options for your business needs
+introduction to the lesson introduction classify your data determine operational needs group multiple operations in a transaction choose a storage solution on azure lesson lesson introduction decide how many storage accounts you need choose your account settings choose an account creation tool lesson
+
+connect an app to azure storage
+create a simple application and add configuration client library references and code to connect it to azure storage
+introduction azure storage services interact with the azure storage apis connect to your azure storage account
+
+secure your azure storage account
+how azure storage provides multilayered security to protect your data find out how to use access keys to secure networks and to use advanced threat protection to proactively monitor your system
+introduction explore azure storage security features storage account keys shared access signatures control network access to a storage account advanced threat protection for azure storage azure data lake storage security features
+
+store application data with azure blob storage
+build an app that stores user files with azure blob storage
+introduction to blob storage what are blobs design a storage organization strategy
+
+practice exam on store data in microsoft azure
+take a practice exam that covers key measured in the exam dp data engineering on microsoft azure
+recap wrap up
+</DOC>
+
+<DOC>
+create serverless applications
+how azure functions enable the creation of eventdriven computeondemand systems that can be triggered by various external events earn how to leverage functions to execute serverside logic and build serverless architectures this will help you prepare for the microsoft certified azure developer associate certification this is part of a intended for developers who want to demonstrate their expertise in all phases of cloud development from requirements definition and design to development deployment and maintenance to performance tuning and monitoring it is ideal for anyone interested in preparing for the az developing solutions for microsoft azure exam this is the first in a of courses to help prepare you to take the exam each teaches you the concepts and that are measured by the exam by the end of this be ready to take and signup for the exam az developing solutions for microsoft azure
+
+automate business processes with microsoft azure
+microsoft azure provides several different ways to host and execute code or workflows without using virtual machines vms including azure functions microsoft power automate azure logic apps and azure webjobs about these technologies and how to choose the right one for a given scenario also see how azure functions allow developers to host business logic that can be executed without managing or provisioning infrastructure
+introduction to the exam az azure developer on microsoft azure certification lesson introduction identify the technology options codefirst technologies analyze the decision criteria choose the best designfirst technology to automate your business process when to choose azure functions to run your business logic lesson lesson introduction decide if serverless computing is right create a function in the azure portal lesson
+
+execute an azure function with triggers
+a trigger is responsible for executing an azure function and there are dozens of triggers to choose from this will show you some of the most common types of triggers and how to configure them to execute your logic
+lesson introduction determine the best trigger for your azure function run an azure function on a schedule lesson
+
+chain azure functions together using input and output bindings
+azure functions makes it easy for your function code to integrate with data and services to use bindings to declare the data sources to read and write and let azure functions take care of the rest
+lesson introduction explore input and output binding types read data with input bindings write data with output bindings lesson
+
+modernize workflow with azure functions
+how to orchestrate a longrunning workflow as a set of activities using durable functions use the azure functions core tools to create and run functions on a development computer and publish them to azure how to create test and deploy azure functions using visual studio and how to manage azure function code
+lesson introduction what is durable functions design a workflow based on durable functions control longrunning tasks using timers lesson lesson introduction create and run azure functions locally by using the core tools publish a function to azure by using the core tools lesson lesson introduction create and run azure functions locally by using the core tools publish a simple azure function lesson
+
+monitor github events by using a webhook with azure functions
+webhooks offer a lightweight mechanism for your app to be notified by another service when something of interest happens how to trigger an azure function with a github webhook and parse the payload for insights
+lesson introduction create a function that is triggered by a webhook set up a webhook for a github repository trigger an azure function with a github event secure webhook payloads with a secret lesson
+
+enable automatic updates and build apis
+how to update a web apps notification mechanism from polling to pushbased architecture with signalr service azure cosmos db and azure functions also how to combine multiple azure functions apps into a unified interface by importing them into a single azure api management instance
+lesson introduction analyze the limitations of a pollingbased web app enable automatic updates in a web application using signalr service use a storage account to host a static website lesson lesson introduction create a new api in api management from a function app the benefits of using azure api management to compose your api lesson
+
+practice exam
+take a practice exam that covers key measured in the exam az developing solutions for microsoft azure
+recap congratulations
+</DOC>
+
+<DOC>
+manage resources in azure
+how to with the azure command line and web portal to create manage and control cloudbased resourcesyou will look at all three approaches to deploying cloud resources and how to make an informed decision about which one to leverage for your services also quickly look at the service models supported by azure which can help you determine the services you should start with when planning out an azure deployment how to install the azure cli locally and use it to manage azure resources also use azure powershell interactively for oneoff tasks and write scripts to automate repeated tasks about the major factors that influence the cost of running in the cloud along the way get handson with some of the tools you can use to estimate the costs of running your workloads on azure to help ensure that you stay within budget and use only the services that you need azure resource manager has a number of features that you can use to organize resources enforce standards and protect critical azure resources from accidental deletion take a tour through these features and examine how you can use them to your advantage identify incorrectly assigned resources in azure also assess whether resources can be moved and validate a resource move operation then move and verify resources between azure resource groups this will help you prepare for the microsoft certified azure developer associate certification take a practice exam that covers key measured in the exam this is the fifth in a of courses to help prepare you to take the exam this is part of a intended for developers who want to demonstrate their expertise in all phases of cloud development from requirements definition and design to development deployment and maintenance to performance tuning and monitoring it is ideal for anyone interested in preparing for the az developing solutions for microsoft azure exam by the end of this be ready to take and signup for the exam az developing solutions for microsoft azure
+
+deploy cloud resources
+look at all three approaches to deploying cloud resources and how to make an informed decision about which one to leverage for your services also quickly look at the service models supported by azure which can help you determine the services you should start with when planning out an azure deployment how to install the azure cli locally and use it to manage azure resources
+introduction to the lesson introduction cloud service models infrastructure as a service platform as a service software as a service lesson lesson introduction what is the azure cli with the azure cli lesson
+
+automate azure tasks using scripts with powershell
+see how to manage azure resources using azure powershell use azure powershell interactively for oneoff tasks and write scripts to automate repeated tasks
+lesson introduction decide if azure powershell is right for your tasks install powershell lesson
+
+plan and manage your azure costs
+about the major factors that influence the cost of running in the cloud along the way get handson with some of the tools you can use to estimate the costs of running your workloads on azure to help ensure that you stay within budget and use only the services that you need
+lesson introduction compare costs by using the total cost of ownership calculator purchase azure services factors affecting cost manage and minimize total cost on azure lesson
+
+organize resources in microsoft azure
+azure resource manager has a number of features that you can use to organize resources enforce standards and protect critical azure resources from accidental deletion take a tour through these features and show how you can use them to your advantage identify incorrectly assigned resources in azure also assess whether resources can be moved and validate a resource move operation then move and verify resources between azure resource groups
+lesson introduction use tagging to organize resources use policies to enforce standards secure resources with rolebased access control lesson lesson introduction identify incorrectly assigned resources in azure assess resources that can move validate resources in azure identify steps to move resources between azure resource groups lesson
+
+practice exam
+take a practice exam that covers key measured in the exam az developing solutions for microsoft azure
+recap congratulations
+</DOC>
+
+<DOC>
+secure your cloud data
+azure was designed for security and compliance how to leverage the builtin services to store your app data securely to ensure that only authorized services and clients have access to it this will help you prepare for the microsoft certified azure developer associate certification this will help you prepare for the microsoft certified azure developer associate certification take a practice exam that covers key measured in the exam this is the fifth in a of courses to help prepare you to take the exam this is part of a intended for developers who want to demonstrate their expertise in all phases of cloud development from requirements definition and design to development deployment and maintenance to performance tuning and monitoring it is ideal for anyone interested in preparing for the az developing solutions for microsoft azure exam by the end of this be ready to take and signup for the exam az developing solutions for microsoft azure
+
+protect workloads in microsoft azure
+about some of the security tools that can help keep your infrastructure and data safe when you in the cloud this is the start of your journey into the world of application security with the top five defenses for web applications how to secure your web applications on azure and protect your apps against the most common and dangerous web application attacks
+introduction to the weekly introduction protect against security threats by using azure security center detect and respond to security threats by using azure sentinel store and manage secrets by using azure key vault host your azure virtual machines on dedicated physical servers by using azure dedicated host lesson introduction azure security center inputs and outputs secrets in key vault framework updates safe dependencies lesson
+
+protect data and accounts in microsoft azure
+how to set up policies to classify retain and protect your cloudbased data see how azure storage provides multilayered security to protect your data find out how to use access keys to secure networks and to use advanced threat protection to proactively monitor your system also look at how azure key vault provides a secure storage area for managing all your app secrets so you can properly encrypt your data in transit or while its being stored
+lesson introduction classify your data at rest in process and in transit explore data recovery retention and disposal understand data sovereignty lesson lesson introduction explore azure storage security features understand storage account keys understand shared access signatures control network access to a storage account understand advanced threat protection for azure storage explore azure data lake storage security features lesson
+
+secure resources in microsoft azure
+storing and handling secrets encryption keys and directly is risky and every usage introduces the possibility of unintentional data exposure how to use azure key vault to provide a secure storage area for managing all your app secrets so you can properly encrypt your data in transit or while its being stored also how to how to use azure rbac to manage access to resources in azure
+lesson introduction guidelines for using azure key vault azure key vault uses manage access to secrets and keys manage lesson lesson introduction what is azure rbac lesson
+
+secure your azure sql database
+azure sql database is a great service for the storage of relational data and there are a number of builtin capabilities you can use to ensure your data is secure and practice defense in depth look at ways to secure your sql database by configuring the database firewall securing access encrypting communication and other techniques for database security with this layered approach you can help ensure your data is secure
+lesson introduction lesson
+
+practice exam
+take a practice exam that covers key measured in the exam az developing solutions for microsoft azure
+recap congratulations
+</DOC>
+

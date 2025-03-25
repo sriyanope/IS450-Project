@@ -1,0 +1,107 @@
+<DOC>
+electronic music production
+in the electronic music production the tricks of the trade to create highquality sounding music begin by about the nature of sound and how a signal flows through a home studio setup additionally how to create your own custom musical sounds through music synthesis explore how to record midi and real instruments into the flexible and agile digital audio workstation ableton live also to professionally record produce edit and mix a vocal track with the grammywinning producer prince charles alexander applied projectin the first of this the technology of music production be asked to create a presentation on a topic of your choice next produce and record original music using real instruments midi custom synth patches and effects such as equalization compression and reverb
+</DOC>
+
+<DOC>
+creating sounds for electronic music
+what achievein this projectcentered create sounds and use them in your own musical compositions whether youre an aspiring producer composer or hobbyist this will help you gain in music production and confidence using software synthesizers along with your classmates create a massive database of designed sounds or patches to use in your compositions as part of the with a free version of fxpansion strobe what need to get started this is designed for learners who are familiar with music production basics and who have access to some basic music production equipment specifically you should have with a digital audio workstation that supports vst aax or au plugins introduction to music production or pro tools basics are recommended if you do not have this also need a midi keyboard or controller such as an oxygen a digital audio workstation such as pro tools and fxpansion strobe a free day demo will be provided for coursera learners about projectcentered courses this is a projectcentered which means it is designed specifically to help you complete a personally meaningful realworld with your instructor and a community of learners with similar goals providing guidance and suggestions along the way by actively applying new concepts as you master the content more efficiently also get a head start on using the you gain to make positive changes in your life and when you complete the have a finished that be proud to use and share
+
+welcome to creating sounds for electronic music
+welcome to your berklee before you begin the we will cover all the details about the and what need to know to get the most out of your berklee
+welcome overview what is unique about electronic music prep resource oscillators prep resource filters prep resource lfo prep resource amplifiers
+
+creating a mock up
+well start working in strobe and create a mock up of our song we will focus on creating drum and bass patches to use in our songs well also go over the form we will be using for our electronic etudes
+initializing strobe dr kick drum ba bass creating your mock up giving and receiving feedback
+
+creating draft
+well look at organ lead keys and arpeggiator patches well start researching and adding these patches to our etudes
+categories of synthesizer sounds or organs ld leads kb keyboards ar arpeggiator draft
+
+creating draft
+well about pads synths unison and chord patches well research these patches and add them to our second draft well also take a look at changing something drastic in our etudes
+from preset to perfect pd pad sy synchronized synths un unison ch chord draft
+
+creating draft
+well create our third draft well add special fx and texture to our etudes well also expand on the measure form and begin to develop our musical ideas further
+timbre as motive force sq sequence fx special fx tx texture draft where to go from here
+</DOC>
+
+<DOC>
+electronic music performance techniques
+from the moog analog synthesizers in the s to the contemporary usage of computers performance controllers and mobile devices electronic digital instruments edis have long been capable of offering artists a new range of musical expression oneofakind the essential you need to perform on an edi your instructor is edi musician and berklee college of music associate professor rishabh rajan he will take you through the basics of edi performance and give you pointers on how to build an arrangement on your edi whether you have just ordered your first padcontroller or have already been experimenting with electronic music the basics of performing and arranging on the edi start by building drum beats and reading drum notation then create bass lines and harmonic accompaniment finally how to live loop all of these elements and perform an arrangement for a live audience this utilizes ableton push for its demonstrations but can be completed with other daws and edis
+
+welcome to electronic music performance techniques
+welcome to the here we will cover all the details about the and what need to know to get the most out of your
+overview setting up your edi launch quantization and session view
+
+drum patterns
+first lesson we will practice several basic drum patterns as well as look at how to create more complex drum tracks for your original songs we will also discuss how you can a song into your edi to discover new ideas finally we will how to live loop drum patterns using ableton live
+what in lesson setup in ableton live basic drum patterns complex drum patterns sampling and slicing sounds performing and looping drum patterns
+
+harmonic accompaniment
+second lesson we will look at how to play harmonic accompaniment on the edi we will play through several basic chord progressions and to play extended chords such as ths and ths finally we will practice recording and looping harmonic parts
+what in lesson setup playing chords with the ableton push performing th chords performing th chords live looping on the ableton push
+
+melody and bass line
+now that we have learned some basics on the edi it is time to start building a composition lesson we will discuss how to develop an interesting bass line as well as how to improvise melodies using the minor blues scale by the end of the lesson be able to create your own bass line for your original composition and practice improvising melodies on top of it
+what in lesson developing bass parts developing melodies with an edi improvising using the minor blues scale
+
+performing an arrangement
+lesson we will put together everything we have learned so far to create an arrangement to perform in front of an audience we will discuss how to create our own sounds on ableton and we will practice creating arrangements that build and entertain our audience by the end of this lesson be able to perform your own arrangement
+what in lesson developing sounds real time performing arrangement for performance example performance wrapup
+</DOC>
+
+<DOC>
+the technology of music production
+about the music production processincluding recording editing and mixingand the tools available to you to create contemporary music on your computerwith the recent introduction of highqualitylowcost software and hardware the tools of music production are now available to the masses albums are made in bedrooms as well as studios on the surface this is liberating anyone can make an album for the low cost of a couple pieces of gear and a software package but if you dig deeper find that it is not so easy producing music requires knowledge dedication and creativity knowledge is where this comes in no matter what kind of music you are making there is a large set of tools that need to use each lesson of this will demonstrate a different set of music production tools loosely following along the music production process of recording editing and mixing we will start with some background on the nature of sound and how we perceive it we will then examine the components necessary to record audio into a computer so that you understand the devices that sound must travel through in a music production process once recorded sound must be organized along a timeline a process known as editing it allows us to give the impression of perfect performances and create many of the sounds we hear in contemporary music the contemporary editing tool is the digital audio workstation daw a piece of software that stores and organizes all the assets of a musical we will focus on the editing tools that are essential in contemporary music production and that all daws provide after editing sounds must be combined or mixed together so we look to the mixing boarda very creative place if you know how to use it we will explore the basic functionality of both hardware and software mixing boards including volume pan mute solo busses inserts sends and submixes the mixing process however includes more tools than the mixing board provides on its own sound must also be processed modified from its recorded state to fit the context of the music we will look at compression equalization and delay and examine the many audio effects that are offshoots of these devices and how they are used in a musical context in the end the music production process relies on your creativity creativity is a product of the mind and will stay there unexpressed until the right tools are used in the right way to share it with the world if you have an idea in your head it will take numerous steps each with an important tool to reach your audience you bring the dedication and creativity and this will bring you the knowledge to make that happen
+
+welcome to the technology of music production
+welcome to the here we will cover all the details about the and what need to know to get the most out of your
+
+sound and signal flow
+we will start with some background on the nature of sound and how we perceive it we will then examine the components necessary to record audio into a computer so that you understand the devices that sound must travel through in a music production process
+lesson overview propagation amplitude frequency visualizing sound connections overview microphone as a transducer microphone types microphone frequency response microphone polar patterns microphone placement line level and gain staging cables interface microphone connection and gain analog to digital converter pickup connections the digital audio workstation daw
+
+the daw
+the contemporary editing tool is the digital audio workstation daw a piece of software that stores and organizes all the assets of a musical we will focus on the editing tools that are essential in contemporary music production and that all daws provide
+lesson overview analog to digital conversion buffer size file types folder checklist multitrack recording audio zooming trimming separating and cutting nudging the grid fades cycling merging naming and coloring markers comping destructive editing midi midi controllers software instruments midi editing velocity midi editing quantization common midi recording and editing functions wrapup creating your reviewing your peers
+
+the mixer
+we will explore the basic functionality of both hardware and software mixing boards including volume pan mute solo busses inserts sends and submixes
+lesson overview the channel strip the bus concept effects categories inserts the submix sends automation wrapup
+
+dynamic effects
+sound must be processed modified from its recorded state to fit the context of the music we will focus on tools you can use to effect the dynamics of your tracks and how they are used in a musical context
+lesson overview noise distortion dynamic range manipulation dynamic processors overview dynamic processor parameters gate downward compressor limiter wrapup
+
+filter and delay effects
+sound can be modified from its recorded state using tools that effect the actual quality of the sound we will look at equalization and delay and examine the many audio effects that are offshoots of these devices
+lesson overview the delay concept the delay spectrum modulated short delays filters overview mixing eq medium delay slap back long delay reverb width in mixing space in mixing
+
+synthesis
+we will explore the synthesizer a major tool within the production of contemporary music how a synthesizer works will give you a language to describe sound music is a collaborative art form so there is nothing more powerful than effective communication
+lesson overview oscillators filters amplifiers lfo low frequency oscillator a language of timbre wrapup
+</DOC>
+
+<DOC>
+introduction to ableton live
+in the past digital audio workstations daws were programs used only by audio engineers with a highly specific knowledge base on machines inaccessible to most people but over the past years daws and the act of recording music have evolved from being a luxury of the few to being available to the masses ableton live is one such application used by an extremely broad range of music creators ableton live not only facilitates the of engineers producers and writers in home and mobile studio settings but it is also a powerful platform for musicians on stage in the dj booth and elsewherein this ableton certified training center developed by berklee online explore some of lives most powerful and useful functionality midi programming audio recording warping and processing looping editing mixing performing file management and troubleshooting meant to be a springboard for those who are new to ableton live andor daws in general this threeweek will provide you with a strong knowledge base for using live to take your musical ideas from conception to final recording the breaks down the many barriers of entry into music technology and encourages all those who wish to create fearlessly note if you do not own ableton live you can download the free fully featured ableton live trial the trial version will allow you to save and export your for days if you use the trial version do not download it until the is scheduled to begin
+
+welcome to introduction to ableton live
+welcome to the here we will cover all the details about the and what need to know to get the most out of your
+
+getting our hands dirty
+lesson im going to demonstrate how to get set up in live whether you have an audio interface or just your computer well also look at saving and submitting your sessions devices midi drums and midi synths
+what in lesson overview of ableton interface setting up hardware and software overview of nonlinear functionality midi sequencing audio clips clip properties session view and arrangement view quick tips creating and exporting an arrangement troubleshooting
+
+polishing the sound
+lesson well be moving from midi to audio and implementing effects which will give your sessions even more personality and depth well also be diving into audio warping which is one of abletons most powerful functionalities and is the cornerstone of remixing
+what in lesson recording audio warping and stretching sampling audio and midi file management quick tips
+
+the endless possibilities
+final lesson were going to dive into some more advanced production techniques the very basics of mixing and ill get into some valuable information regarding file management and troubleshooting hopefully with this new information be able to tie together a lot of what weve learned in the past two weeks and bring your music to the next level
+what in lesson audio effects serial vs parallel midi effects max for live devices mixing automation midi mapping quick tips final overview wrapup
+</DOC>
+

@@ -1,0 +1,89 @@
+<DOC>
+algorithms
+algorithms are the heart of computer science and the subject has countless practical applications as well as intellectual depth this is an introduction to algorithms for learners with at least a little programming the is rigorous but emphasizes the big picture and conceptual understanding over lowlevel implementation and mathematical details after completing this be wellpositioned to ace your technical interviews and speak fluently about algorithms with other programmers and computer scientistsabout the instructor tim roughgarden has been a professor in the computer science department at stanford university since he has taught and published extensively on the subject of algorithms and their applicationsapplied projectlearners will practice and master the fundamentals of algorithms through several types of assessments every there is a multiple choice quiz to test your understanding of the most important concepts there are also weekly programming where you implement one of the algorithms covered in lecture in a programming language of your choosing each concludes with a multiplechoice final exam
+</DOC>
+
+<DOC>
+graph search shortest paths and data structures
+the primary topics part of the are data structures heaps balanced search trees hash tables bloom filters graph primitives applications of breadthfirst and depthfirst search connectivity shortest paths and their applications ranging from deduplication to social network analysis
+
+
+breadthfirst and depthfirst search computing strong components applications
+graph search overview breadthfirst search bfs the basics bfs and shortest paths bfs and undirected connectivity depthfirst search dfs the basics topological sort computing strong components the algorithm computing strong components the analysis structure of the web optional
+
+
+dijkstras shortestpath algorithm
+dijkstras shortestpath algorithm dijkstras algorithm examples correctness of dijkstras algorithm dijkstras algorithm implementation and running time
+
+
+heaps balanced binary search trees
+data structures overview heaps operations and applications heaps implementation details advanced optional balanced search trees operations and applications binary search tree basics part i binary search tree basics part ii redblack trees rotations advanced optional insertion in a redblack tree advanced
+
+
+hashing bloom filters
+hash tables operations and applications hash tables implementation details part i hash tables implementation details part ii pathological data sets and universal hashing motivation universal hashing definition and example advanced optional universal hashing analysis of chaining advanced optional hash table performance with open addressing advanced optional bloom filters the basics bloom filters heuristic analysis
+</DOC>
+
+<DOC>
+divide and conquer sorting and searching and randomized algorithms
+the primary topics part of the are asymptotic bigoh notation sorting and searching divide and conquer master method integer and matrix multiplication closest pair and randomized algorithms quicksort contraction algorithm for min cuts
+
+
+introduction bigoh notation and asymptotic analysis
+why study algorithms integer multiplication karatsuba multiplication about the merge sort motivation and example merge sort pseudocode merge sort analysis guiding principles for analysis of algorithms the gist bigoh notation basic examples big omega and theta additional examples review optional
+
+
+divideandconquer basics the master method for analyzing divide and conquer algorithms
+on log n algorithm for counting inversions i on log n algorithm for counting inversions ii strassens subcubic matrix multiplication algorithm on log n algorithm for closest pair i advanced optional on log n algorithm for closest pair ii advanced optional motivation formal statement examples proof i interpretation of the cases proof ii
+
+
+the quicksort algorithm and its analysis probability review
+quicksort overview partitioning around a pivot correctness of quicksort review optional choosing a good pivot analysis i a decomposition principle analysis ii the key insight analysis iii final calculations probability review i probability review ii
+
+
+lineartime selection graphs cuts and the contraction algorithm
+randomized selection algorithm randomized selection analysis deterministic selection algorithm advanced optional deterministic selection analysis i advanced optional deterministic selection analysis ii advanced optional omegan log n lower bound for comparisonbased sorting advanced optional graphs and minimum cuts graph representations random contraction algorithm analysis of contraction algorithm counting minimum cuts
+</DOC>
+
+<DOC>
+shortest paths revisited npcomplete problems and what to do about them
+the primary topics part of the are shortest paths bellmanford floydwarshall johnson npcompleteness and what it means for the algorithm designer and strategies for coping with computationally intractable problems analysis of heuristics local search
+
+
+the bellmanford algorithm allpairs shortest paths
+singlesource shortest paths revisted optimal substructure the basic algorithm i the basic algorithm ii detecting negative cycles a space optimization internet routing i optional internet routing ii optional problem definition optimal substructure the floydwarshall algorithm a reweighting technique johnsons algorithm i johnsons algorithm ii
+
+
+npcomplete problems and exact algorithms for them
+polynomialtime solvable problems reductions and completeness definition and interpretation of npcompleteness i definition and interpretation of npcompleteness ii the p vs np question algorithmic approaches to npcomplete problems the vertex cover problem smarter search for vertex cover i smarter search for vertex cover ii the traveling salesman problem a dynamic programming algorithm for tsp
+
+
+approximation algorithms for npcomplete problems
+a greedy knapsack heuristic analysis of a greedy knapsack heuristic i analysis of a greedy knapsack heuristic ii a dynamic programming heuristic for knapsack knapsack via dynamic programming revisited ananysis of dynamic programming heuristic
+
+
+local search algorithms for npcomplete problems the wider world of algorithms
+the maximum cut problem i the maximum cut problem ii principles of local search i principles of local search ii the sat problem random walks on a line analysis of papadimitrious algorithm stable matching optional matchings flows and braesss paradox optional linear programming and beyond optional epilogue
+</DOC>
+
+<DOC>
+greedy algorithms minimum spanning trees and dynamic programming
+the primary topics part of the are greedy algorithms scheduling minimum spanning trees clustering huffman codes and dynamic programming knapsack sequence alignment optimal search trees
+
+
+two motivating applications selected review introduction to greedy algorithms a scheduling application prims mst algorithm
+application internet routing application sequence alignment introduction to greedy algorithms application optimal caching problem definition a greedy algorithm correctness proof part i correctness proof part ii handling ties advanced optional mst problem definition prims mst algorithm correctness proof i correctness proof ii proof of cut property advanced optional fast implementation i fast implementation ii
+
+
+kruskals mst algorithm and applications to clustering advanced unionfind optional
+kruskals mst algorithm correctness of kruskals algorithm implementing kruskals algorithm via unionfind i implementing kruskals algorithm via unionfind ii msts stateoftheart and open questions advanced optional application to clustering correctness of clustering algorithm lazy unions advanced optional unionbyrank advanced optional analysis of unionbyrank advanced optional path compression advanced optional path compression the hopcroftullman analysis i advanced optional path compression the hopcroftullman analysis ii advanced optional the ackermann function advanced optional path compression tarjans analysis i advanced optional path compression tarjans analysis ii advanced optional
+
+
+huffman codes introduction to dynamic programming
+introduction and motivation problem definition a greedy algorithm a more complex example correctness proof i correctness proof ii introduction weighted independent sets in path graphs wis in path graphs optimal substructure wis in path graphs a lineartime algorithm wis in path graphs a reconstruction algorithm principles of dynamic programming
+
+
+advanced dynamic programming the knapsack problem sequence alignment and optimal binary search trees
+the knapsack problem a dynamic programming algorithm example review optional optimal substructure a dynamic programming algorithm problem definition optimal substructure proof of optimal substructure a dynamic programming algorithm i a dynamic programming algorithm ii
+</DOC>
+

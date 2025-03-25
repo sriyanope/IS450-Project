@@ -1,0 +1,60 @@
+<DOC>
+ai for medicine
+ai is transforming the practice of medicine its helping doctors diagnose patients more accurately make predictions about patients future health and recommend better treatments this threecourse will give you practical in applying machine to concrete problems in medicinethese courses go beyond the foundations of deep to teach you the nuances in applying ai to medical use cases if you are new to deep or want to get a deeper foundation of how neural networks we recommend taking the deep specializationopens in a new tabapplied projectmedicine is one of the fastestgrowing and important application areas with unique challenges like handling missing data start by the nuances of working with d and d medical image data then apply treebased models to improve patient survival estimates also use data from randomized trials to recommend treatments more suited to individual patients finally explore how natural language extraction can more efficiently label medical datasets
+</DOC>
+
+<DOC>
+ai for medical diagnosis
+ai is transforming the practice of medicine its helping doctors diagnose patients more accurately make predictions about patients future health and recommend better treatments as an ai practitioner you have the to join transformation of modern medicine if youre already familiar with some of the math and coding behind ai algorithms and are eager to develop your further to tackle challenges in the healthcare industry then this is for you no prior medical expertise is required this will give you practical in applying cuttingedge machine techniques to concrete problems in modern medicine in create convolutional neural network image classification and segmentation models to make diagnoses of lung and brain disorders in build risk models and survival estimators for heart disease using statistical methods and a random forest predictor to determine patient prognosis in build a treatment effect predictor apply model interpretation techniques and use natural language processing to extract information from radiology reports these courses go beyond the foundations of deep to give you insight into the nuances of applying ai to medical use cases as a learner be set up for success if you are already comfortable with some of the math and coding behind ai algorithms you dont need to be an ai expert but a working knowledge of deep neural networks particularly convolutional networks and proficiency in python programming at an intermediate level will be essential if you are relatively new to machine or neural networks we recommend that you first take the deep offered by deeplearningai and taught by andrew ng the demand for ai practitioners with the and knowledge to tackle the biggest issues in modern medicine is growing exponentially join us and begin your journey toward building the future of healthcare
+
+disease detection with computer vision
+by the end of practice classifying diseases on chest xrays using a neural network
+welcome to the with andrew and pranav demo recommended prerequisites medical image diagnosis eye disease and cancer diagnosis building and training a model for medical diagnosis training prediction and loss image classification and class imbalance binary cross entropy loss function impact of class imbalance on loss calculation resampling to achieve balanced classes multitask multitask loss dataset size and cnn architectures working with a small training set generating more samples model testing splitting data by patient sampling ground truth and consensus voting additional medical testing
+
+evaluating models
+by the end of practice implementing standard evaluation metrics to see how well a model performs in diagnosing diseases
+sensitivity specificity and evaluation metrics accuracy in terms of conditional probability sensitivity specificity and prevalence ppv npv confusion matrix roc curve and threshold varying the threshold sampling from the total population confidence intervals confidence interval
+
+image segmentation on mri images
+by the end of prepare d mri data implement an appropriate loss function for image segmentation and apply a pretrained unet model to segment tumor regions in d brain mri images
+medical image segmentation mri data and image registration segmentation d unet and d unet data augmentation for segmentation loss function for image segmentation different populations and diagnostic technology external validation measuring patient congratulations
+</DOC>
+
+<DOC>
+ai for medical treatment
+ai is transforming the practice of medicine its helping doctors diagnose patients more accurately make predictions about patients future health and recommend better treatments this will give you practical in applying machine to concrete problems in medicinemedical treatment may impact patients differently based on their existing health conditions third recommend treatments more suited to individual patients using data from randomized control trials in the second apply machine interpretation methods to explain the decisionmaking of complex machine models finally use natural language entity extraction and questionanswering methods to automate the task of labeling medical datasets these courses go beyond the foundations of deep to teach you the nuances in applying ai to medical use cases if you are new to deep or want to get a deeper foundation of how neural networks we recommend that you take the deep
+
+treatment effect estimation
+how to analyze data from a randomized control trial interpreting multivariate models evaluating treatment effect models and interpreting ml models for treatment effect estimation
+intro to with andrew and pranav about absolute risk reduction randomized control trials causal inference average treatment effect conditional average treatment effect tlearner slearner evaluate individualized treatment effect cforbenefit cforbenefit calculation
+
+medical question answering
+how to extract disease labels from clinical reports and also question answering with bert
+medical question answering handling words with multiple meanings define the answer in a text automatic label extraction for medical imaging synonyms for labels isa relationships for labels presence or absence of a disease evaluating label extraction precision recall and f score evaluating on multiple disease categories
+
+ml interpretation
+how to interpret deep models and also feature importance in machine
+drop column method permutation method individual feature importance shapley values combining importances shapley values for all patients interpreting cnn models localization maps heat maps
+</DOC>
+
+<DOC>
+ai for medical prognosis
+ai is transforming the practice of medicine its helping doctors diagnose patients more accurately make predictions about patients future health and recommend better treatments this will give you practical in applying machine to concrete problems in medicinemachine is a powerful tool for prognosis a branch of medicine that specializes in predicting the future health of patients second walk through multiple examples of prognostic tasks then use decision trees to model nonlinear relationships which are commonly observed in medical data and apply them to predicting mortality rates more accurately finally how to handle missing data a key realworld challenge these courses go beyond the foundations of deep to teach you the nuances in applying ai to medical use cases this focuses on treebased machine so a foundation in deep is not required for this however a foundation in deep is highly recommended for and of this you can gain a foundation in deep by taking the deep offered by deeplearningai and taught by andrew ng
+
+linear prognostic models
+build a linear prognostic model using logistic regression then evaluate the model by calculating the concordance index finally improve the model by adding feature interactions
+intro with andrew and pranav prerequisites and medical prognosis examples of prognostic tasks atrial fibrillation liver disease mortality risk of heart disease risk score computation evaluating prognostic models concordant pairs risk ties permissible pairs cindex
+
+prognosis with treebased models
+tune decision tree and random forest models to predict the risk of a disease evaluate the model performance using the cindex identify missing data and how it may alter the data distribution then use imputation to fill in missing data in order to improve model performance
+decision trees for prognosis decision trees dividing the input space building a decision tree how to fix overfitting survival data different distributions missing data example missing completely at random missing at random missing not at random imputation mean imputation regression imputation calculate imputed values
+
+survival models and time
+with data where the time that a disease occurs is a variable instead of predicting just the year risk of a disease build more flexible models that can predict the year year or year risk
+survival models survival function valid survival functions collecting time data when a stroke is not observed heart attack data right censoring estimating the survival function died immediately or never die somewhere inbetween using censored data chain rule of conditional probability deriving survival calculating probabilities from the data comparing estimates kaplan meier estimate
+
+build a risk model using linear and treebased models
+fit a linear model and a treebased risk model on survival data to customize a risk score for each patient based on their health profile the risk score represents the patients relative risk of getting a particular disease then evaluate each models performance by implementing and using a concordance index that incorporates time to event and censored data
+hazard functions hazard survival to hazard cumulative hazard individualized predictions relative risk ranking patients by risk individual vs baseline hazard smoker vs nonsmoker effect of age on hazard risk factor increase per unit increase in a variable risk factor increase or decrease intro to survival trees survival tree nelson aalen estimator comparing risks of patients mortality score evaluation of survival model permissible and nonpermissible pairs possible permissible pairs example of harrells cindex example of concordant pairs congratulations
+</DOC>
+

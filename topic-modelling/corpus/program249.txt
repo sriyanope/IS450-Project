@@ -1,0 +1,102 @@
+<DOC>
+machine on google cloud
+what is machine and what kinds of problems can it solve how can you build train and deploy machine models at scale without writing a single line of code when should you use automated machine or custom training this teaches you how to build vertex ai automl models without writing a single line of code build bigquery ml models knowing basic sql create vertex ai custom training jobs you deploy using containers with little knowledge of docker use feature store for data management and governance use feature engineering for model improvement determine the appropriate data preprocessing options for your use case use vertex vizier hyperparameter tuning to incorporate the right mix of parameters that yields accurate generalized models and knowledge of the theory to solve specific types of ml problems write distributed ml models that scale in tensorflow and leverage best practices to implement machine on google cloud by enrolling you agree to the qwiklabs terms of service as set out in the faq and located at httpsqwiklabscomtermsofserviceopens in a new tab applied projectthis incorporates handson labs using our qwiklabs platformthese hands on components will let you apply the you in the lectures will incorporate topics such as google cloud platform products which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the
+</DOC>
+
+<DOC>
+build train and deploy ml models with keras on google cloud
+this covers building ml models with tensorflow and keras improving the accuracy of ml models and writing ml models for scaled use
+
+introduction to the
+this provides an overview of the and its objectives
+
+introduction to the tensorflow ecosystem
+this introduces the tensorflow framework and previews its main components as well as the overall api hierarchy
+introduction to the tensorflow ecosystem introduction to tensorflow tensorflow api hierarchy components of tensorflow tensors and variables
+
+design and build an input data pipeline
+data is the a crucial component of a machine model collecting the right data is not enough you also need to make sure you put the right processes in place to clean analyze and transform the data as needed so that the model can take the most signal of it as possible we discuss training on large datasets with tfdata working with inmemory files and how to get the data ready for training then we discuss embeddings and end with an overview of scaling data with tfkeras preprocessing layers
+introduction an ml recap training on large datasets with tfdata api working inmemory and with files getting the data ready for model training embeddings coursera getting started with google cloud and qwiklabs lab intro tensorflow dataset api scaling data processing with tfdata and keras preprocessing layers lab intro classifying structured data using keras preprocessing layers
+
+building neural networks with the tensorflow and keras api
+we discuss activation functions and how they are needed to allow deep neural networks to capture nonlinearities of the data we then provide an overview of deep neural networks using the keras sequential and functional apis next we describe model subclassing which offers greater flexibility in model building the ends with a lesson on regularization
+introduction activation functions training neural networks with tensorflow and the keras sequential api serving models in the cloud lab intro introducing the keras sequential api on vertex ai platform training neural networks with tensorflow and the keras functional api lab intro build a dnn using the keras functional api on vertex ai platform model subclassing regularization basics how can we measure model complexity l vs l regularization
+
+training at scale with vertex ai
+we describe how to train tensorflow models at scale using vertex ai
+introduction training at scale with vertex ai lab intro training at scale with the vertex ai training service
+
+
+this is a of the build train and deploy ml models with keras on google cloud
+</DOC>
+
+<DOC>
+machine in the enterprise
+this takes a realworld approach to the ml workflow through a case study an ml team faces several ml business requirements and use cases the team must understand the tools required for data management and governance and consider the best approach for data preprocessingthe team is presented with three options to build ml models for two use cases the explains why they would use automl bigquery ml or custom training to achieve their objectives
+
+introduction
+this provides an overview of the and its objectives
+</DOC>
+
+<DOC>
+feature engineering
+this explores the benefits of using vertex ai feature store how to improve the accuracy of ml models and how to find which data columns make the most useful features this also includes content and labs on feature engineering using bigquery ml keras and tensorflow
+
+introduction
+this provides an overview of the and its objectives
+
+introduction to vertex ai feature store
+this introduces vertex ai feature store
+introduction feature store benefits feature store terminology and concepts the feature store data model creating a feature store serving features batch and online
+
+raw data to features
+feature engineering is often the longest and most difficult phase of building your ml in the feature engineering process you start with your raw data and use your own domain knowledge to create features that will make your machine algorithms we explore what makes a good feature and how to represent them in your ml model
+introduction overview of feature engineering raw data to features good features versus bad features features should be known at predictiontime features should be numeric features should have enough examples bringing human insight representing features
+
+feature engineering
+this reviews the differences between machine and statistics and how to perform feature engineering in both bigquery ml and keras well also cover some advanced feature engineering practices
+introduction machine versus statistics basic feature engineering coursera getting started with google cloud platform and qwiklabs lab intro performing basic feature engineering in bigquery ml advanced feature engineering feature crosses bucketize and transform functions predict housing prices estimate taxi fare temporal and geolocation features lab intro basic feature engineering in keras lab intro advanced feature engineering in keras
+
+preprocessing and feature creation
+more about dataflow which is a complementary technology to apache beam and both of them can help you build and run preprocessing and feature engineering
+introduction apache beam and dataflow dataflow terms and concepts
+
+feature crosses tensorflow playground
+in traditional machine feature crosses dont play much of a role but in modern day ml methods feature crosses are an invaluable part of your toolkit how to recognize the kinds of problems where feature crosses are a powerful way to help machines
+introduction what is a feature cross discretization lab intro tensorflow playground use feature crosses to create a good classifier lab intro tensorflow playground too much of a good thing
+
+introduction to tensorflow transform
+tensorflow transform tftransform is a library for preprocessing data with tensorflow tftransform is useful for preprocessing that requires a full pass the data such as normalizing an input value by mean and stdev integerizing a vocabulary by looking at all input examples for values bucketizing inputs based on the observed data distribution we will explore use cases for tftransform
+introduction tensorflow transform analyze phase transform phase supporting serving
+
+
+this is a of the feature engineering
+</DOC>
+
+<DOC>
+introduction to ai and machine on google cloud
+this introduces the artificial intelligence ai and machine ml offerings on google cloud that support the datatoai lifecycle through ai foundations ai development and ai solutions it explores the technologies products and tools available to build an ml model an ml pipeline and a generative ai based on the different goals of users including data scientists ai developers and ml engineers
+
+introduction
+this covers the objective of helping learners navigate the ai development tools on google cloud it also provides an overview of the structure which is based on a threelayer ai framework including ai foundations development and solutions
+
+ai foundations
+this begins with a use case demonstrating the ai capabilities it then focuses on the ai foundations including cloud infrastructure like compute and storage it also explains the primary data and ai development products on google cloud finally it demonstrates how to use bigquery ml to build an ml model which helps transition from data to ai
+introduction why ai aiml architecture on google cloud google cloud infrastructure data and ai products ml model categories bigquery ml lab introduction coursera getting started with google cloud platform and qwiklabs
+
+ai development options
+this explores the various options for developing an ml on google cloud from readymade solutions like pretrained apis to nocode and lowcode solutions like automl and codebased solutions like custom training it compares the advantages and disadvantages of each option to help decide the right development tools
+introduction ai development options pretrained apis vertex ai automl custom training lab introduction
+
+ai development workflow
+this walks through the ml workflow from data preparation to model development and to model serving on vertex ai it also illustrates how to convert the workflow into an automated pipeline using vertex ai pipelines
+introduction ml workflow data preparation model development model serving mlops and workflow automation lab introduction how a machine learns
+
+generative ai
+this introduces generative ai gen ai the newest advancement in ai and the essential toolkits for developing gen ai it starts by examining the gen ai workflow on google cloud it then investigates how to use gen ai studio and model garden to access gemini multimodal design prompt and tune models finally it explores the builtin gen ai capabilities of ai solutions
+introduction generative ai and workflow gemini multimodal prompt design model tuning model garden ai solutions lab introduction
+
+
+this provides a of the entire by covering the most important concepts tools technologies and products
+</DOC>
+

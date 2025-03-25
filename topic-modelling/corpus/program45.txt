@@ -1,0 +1,98 @@
+<DOC>
+building nocode apps with appsheet
+this first introduces you to the fundamentals of nocode application development and the capabilities offered by google clouds nocode application development platform appsheet to organize and manage app data secure and customize apps and integrate with external services the courses also include topics on managing and upgrading your app improving app performance and troubleshooting recognize the need to implement business process automation and use appsheets automation capabilities to send notifications generate reports and parse documentsapplied projectthe courses that make up this teach you how to develop nocode apps and implement various capabilities that include data organization and management application security actions and integrations in your app using appsheet learners to version and upgrade an app improve app scalability and performance and troubleshoot common problems with the apprecognize the need to implement business process automation in your organization the on appsheet automation discusses automation patterns and use cases and how to use appsheet constructs to implement automation in your app about the various features of appsheet automation how to send notifications generate reports parse documents and integrate your app with google workspace products
+</DOC>
+
+<DOC>
+building nocode apps with appsheet foundations
+the fundamentals of nocode app development and recognize use cases for nocode apps the provides an overview of the appsheet nocode app development platform and its capabilities you how to create an app with data from spreadsheets create the apps user using appsheet views and publish the app to end users
+
+introduction
+introducing the appsheet
+
+appsheet overview
+define the fundamentals of nocode app development and provide an overview of appsheet capabilities
+overview history of apps fundamentals of nocode app development what is appsheet appsheet use cases demo review
+
+getting started
+how to get started using appsheet and understand the appsheet editor user interface
+overview signing in to appsheet creating your first app testing your app sharing your app lab creating a basic app using appsheet getting started with google cloud platform and qwiklabs review
+
+leveraging data
+using data sources with your app
+overview using data sources defining the data structure in your app using more than one table in your app demo lab configuring data for your app using appsheet review
+
+defining the user of your app
+using the appsheet editor define the user of the app
+overview introduction to appsheet views using views in appsheet customizing the ux of your app demo lab implementing the user for your app using appsheet review
+
+publishing your app
+describe the app publication process
+overview app deployment process deployment methods testing your app sharing your app lab publishing your app using appsheet review
+
+review
+review the building nocode apps with appsheet foundations
+</DOC>
+
+<DOC>
+building nocode apps with appsheet implementation
+this teaches you how to implement various capabilities that include data organization and management application security actions and integrations in your app using appsheet the also includes topics on managing and upgrading your app improving performance and troubleshooting issues with your app
+
+introduction
+introduction to the
+
+understanding data
+organize the data used by your app and add functionality with appsheet data types and expressions
+organizing data for your app using keys appsheet data types app column formulas appsheet expressions slices constraints data validation getting started with google cloud platform and qwiklabs lab working with data in appsheet review
+
+adding behaviors to your app
+add functionality to your app with appsheet actions and behaviors
+actions actions for app navigation actions for data changes actions for external communication composite actions lab adding actions to an app in appsheet automation using offline sync view events customizing input forms lab using view events and custom forms in appsheet review
+
+securing your app
+how to secure your app with appsheets security features
+appsheet security application access control data access control authentication and authorization security filters auditing lab securing your appsheet app private tables using sensitive information review
+
+integrations
+integrate your app with external applications and services providing access to the data used by the app
+appsheet rest api apigee rest api appsheet webhooks webhook to the appsheet api custom webhooks lab integrating your appsheet app with external services review
+
+advanced app design
+improve app scalability and performance with security filters and data partitioning
+data scalability appsheet user settings lab using data partitions with your appsheet app app performance using large datasets multilanguage app support app user feedback review
+
+managing your app
+perform management functions like versioning upgrading monitoring and authoring your app
+versioning your app upgrading your app monitoring your app app authoring team collaboration review
+
+troubleshooting your app
+troubleshoot errors and common problems with your app
+data access and sync errors troubleshooting common problems review
+
+review
+review and knowledge gained from the
+</DOC>
+
+<DOC>
+building nocode apps with appsheet automation
+this helps you recognize the need to implement business process automation in your organization you about automation patterns and use cases and how to use appsheet constructs to implement automation in your app you about the various features of appsheet automation and integrate your app with google workspace products you also how to send email push notifications and text messages from your app parse documents and generate reports with appsheet automation
+
+introduction
+introduction to the
+
+implementing business processes
+understand business process automation recognize patterns and use cases and about the capabilities and features of appsheet automation
+introduction to business process automation appsheet automation overview patterns for automation demo appsheet automation review
+
+appsheet automation
+implement appsheet automation capabilities in your app
+appsheet automation automation features auto constructs and looping getting started with google cloud and qwiklabs lab implementing automation in appsheet apps script integration lab using apps script with appsheet automation monitoring automation review
+
+notifications and reports
+use automation to send push notifications dynamic emails and text messages from your app
+push notifications template variables lab sending push notifications with appsheet automation embedded app view emails lab interacting with embedded app view emails in appsheet messaging from a bot generating files and reports lab generating reports with appsheet automation processing documents lab processing documents in appsheet review
+
+review
+review of content
+</DOC>
+

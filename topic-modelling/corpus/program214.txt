@@ -1,0 +1,107 @@
+<DOC>
+introduction to data science
+interested in more about data science but dont know where to start this from ibm will provide you with the key foundational any data scientist needs to prepare you for a in data science or further advanced in the field this will introduce you to what data science is and what data scientists do discover the applicability of data science across fields and how data analysis can help you make data driven decisions find that you can kickstart your path in the field without prior knowledge of computer science or programming languages this will give you the foundation you need for more advanced to support your goalsyoull grasp concepts like big data statistical analysis and relational databases and gain familiarity with various open source tools and data science programs used by data scientists like jupyter notebooks rstudio github and sql complete handson labs and to the methodology involved in tackling data science problems and apply your newly acquired and knowledge to real world data setsin addition to earning a completion from coursera also receive a digital badge from ibm recognizing you as a specialist in data science foundationsthis can also be applied toward the ibm data science opens in a new tabapplied projectall courses in the contain multiple handson labs and to help you gain practical and with a variety of data sets and tools like jupyter github and r studio build your data science portfolio from the artifacts you produce throughout this courseculminating includecreating and sharing a jupyter notebook containing code blocks and markdowndevising a problem that can be solved by applying the data science methodology and explain how to apply each stage of the methodology to solve itusing sql to query census crime and demographic data sets to identify causes that impact enrollment safety health and environment ratings in schools
+</DOC>
+
+<DOC>
+tools for data science
+in order to be successful in data science you need to be skilled with using tools that data science professionals employ as part of their jobs this teaches you about the popular tools in data science and how to use them become familiar with the data scientists tool kit which includes libraries packages data sets machine models kernels as well as the various open source commercial big data and cloudbased tools with jupyter notebooks jupyterlab rstudio ide git github and watson studio understand what each tool is used for what programming languages they can execute their features and limitations this gives plenty of handson in order to develop for working with these data science tools with the tools hosted in the cloud on network labs be able to test each tool and follow instructions to run simple code in python r or scala towards the end the create a final with a jupyter notebook demonstrate your proficiency preparing a notebook writing markdown and sharing your with your peers
+
+overview of data science tools
+about the different types and categories of tools that data scientists use and popular examples of each also become familiar with open source cloudbased and commercial options for data science tools
+introduction categories of data science tools open source tools for data science part open source tools for data science part commercial tools for data science cloud based tools for data science
+
+languages of data science
+for users who are just starting on their data science journey the range of programming languages can be overwhelming so which language should you first this will bring awareness about the criteria that would determine which language you should the benefits of python r sql and other common languages such as java scala c javascript and julia explore how you can use these languages in data science also look at some sites to locate more information about the languages
+languages of data science introduction to python introduction to r language introduction to sql other languages for data science
+
+packages apis data sets and models
+about the various libraries in data science in addition understand an api in relation to rest request and response further in the explore open data sets on the data asset exchange finally how to use a machine model to solve a problem and navigate the model asset exchange
+libraries for data science application programming interfaces apis data sets powering data science sharing enterprise data data asset exchange machine models from models to make predictions the model asset exchange
+
+jupyter notebooks and jupyterlab
+with the advancement of digital data jupyter notebook allows a data scientist to record their data experiments and results that others can reuse this introduces the jupyter notebook and jupyter lab how to with different kernels in a notebook session and about the basic jupyter architecture in addition identify the tools in an anaconda jupyter environment finally the gives an overview of cloud based jupyter environments and their data science features
+introduction to jupyter notebooks getting started with jupyter jupyter kernels jupyter architecture additional anaconda jupyter environments additional cloud based jupyter environments
+
+rstudio github
+r is a statistical programming language and is a powerful tool for data processing and manipulation this will start with an introduction to r and rstudio about the different r visualization packages and how to create visual charts using the plot function in addition distributed version control systems dvcs have become critical tools in software development and key enablers for social and collaborative coding while there are many distributed versioning systems git is amongst the most popular ones further in the develop the essential conceptual and handson to with git and github start with an overview of git and github followed by creation of a github account and a repository adding files to it and committing your changes using the web interface next become familiar with git workflows involving branches and pull requests prs and merges also complete a at the end to apply and demonstrate your newly acquired
+introduction to r and rstudio plotting in rstudio overview of gitgithub introduction to github github repositories github getting started github working with branches
+
+create and share your jupyter notebook
+on a final to demonstrate some of the learned in the also be tested on your knowledge of various components and tools in a data scientists toolkit learned in the previous
+
+optional ibm watson studio
+watson studio is a collaborative platform for the data science community and is used by data analysts data scientists data engineers developers and data stewards to analyze data and construct models about watson studio and ibm cloud pak for data as a service then create an ibm watson studio service and a in watson studio after creating the create a jupyter notebook and load a data file also explore the different templates and kernels in a jupyter notebook finally connect your watson studio account to github and publish the notebook in github note this part of the is optional and is not a mandatory requirement to complete the lab provided of the
+introduction to watsonxai creating an ibm cloud account and a watsonx service jupyter notebooks in watson studio part jupyter notebooks in watsonx part linking github to watson studio
+</DOC>
+
+<DOC>
+databases and sql for data science with python
+working knowledge of sql or structured query language is a must for data professionals like data scientists data analysts and data engineers much of the worlds data resides in databases sql is a powerful language used for communicating with and extracting data from databasesin this sql inside out from the very basics of select statements to advanced concepts like joins write foundational sql statements like select insert update and delete filter result sets use where count distinct and limit clauses differentiate between dml ddl create alter drop and load tables use string patterns and ranges order and group result sets and builtin database functions build subqueries and query data from multiple tables access databases as a data scientist using jupyter notebooks with sql and python with advanced concepts like stored procedures views acid transactions inner outer joins through handson labs and practice building sql queries with real databases on the cloud and use real data science tools in the final analyze multiple realworld datasets to demonstrate your
+
+getting started with sql
+be introduced to databases how to use basic sql statements like select insert update and delete also get an understanding of how to refine your query results with the where clause as well as using count limit and distinct
+introduction introduction to databases select statement count distinct limit insert statement update and delete statements
+
+introduction to relational databases and tables
+more about relational database concepts and their importance this helps you to understand the process of creating a table in your database on mysql using the graphical interface and sql scripts further also how to alter the entries or delete the entries for any table in the database or even delete the table itself
+relational database concepts types of sql statements ddl vs dml create table statement alter drop and truncate tables how to create a database instance on cloud
+
+intermediate sql
+this helps you how to use string patterns and ranges to search data and how to sort and group data in result sets also practice composing nested queries and execute select statements to access data from multiple tables
+using string patterns and ranges sorting result sets grouping result sets builtin database functions date and time builtin functions subqueries and nested selects working with multiple tables
+
+accessing databases using python
+the basic concepts of using python to connect to databases in a jupyter notebook create tables load data query data using sql magic and sqlite python library also how to analyze data using python
+how to access databases using python writing code using dbapi accessing databases with sql magic analyzing data with python connecting to a database using ibmdb api creating tables loading data and querying data
+
+
+be working with multiple realworld datasets for the city of chicago be asked questions that will help you understand the data just as you would in the real world be assessed on the correctness of your sql queries and results
+working with real world datasets getting table and column details
+
+bonus advanced sql for data engineer honors
+this covers some advanced sql techniques that will be useful for data engineers how to build more powerful queries with advanced sql techniques like views transactions stored procedures and joins if you are following the data engineering track you must complete this completion of this is not required for those completing the data science or data analyst tracks
+views stored procedures acid transactions join overview inner join outer joins
+</DOC>
+
+<DOC>
+what is data science
+do you want to know why data science has been labeled the sexiest profession of the st century after taking this be able to answer this question understand what data science is and what data scientists do and about paths in the field the art of uncovering insights and trends in data has been around since ancient times the ancient egyptians used census data to increase efficiency in tax collection and accurately predicted the nile rivers flooding every year since then people have continued to use data to derive insights and predict recently they have carved out a unique and distinct field for the they do this field is data science in todays world we use data science to find patterns in data and make meaningful datadriven conclusions and predictions this is for everyone and teaches concepts like how data scientists use machine and deep and how companies apply data science in business meet several data scientists who will share their insights and in data science by taking this introductory begin your journey into this thriving field
+
+defining data science and what data scientists do
+in you delve into some fundamentals of data science in lesson you listen to how other professionals in the field define what data science is to them and the paths they took to consider data science as a for themselves you explore different roles data scientists fulfill how data analysis is used in data science and how data scientists follow certain processes to answer questions with that data moving on to lesson the focus shifts to the daily activities of data scientists this encompasses about various realworld data science problems that professionals solve the and qualities needed to be a successful data scientist and opinions on how big data relates to those you also a little about various data formats data scientists with and algorithms used in the field to process data
+introduction what is data science fundamentals of data science the many paths to data science advice for new data scientists lesson defining data science a day in the life of a data scientist data science big data understanding different types of file formats data science topics and algorithms lesson what do data scientists do
+
+data science topics
+in the first lesson you gain insight into the impact of big data on various aspects of society from business operations to sports and develop an understanding of key attributes and challenges associated with big data about the big data fundamentals how data scientists use the cloud to handle big data and the data mining process lesson two delves into machine and deep and the relationship of artificial intelligence to data science
+how big data is driving digital transformation introduction to cloud cloud for data science foundations of big data data science and big data what is hadoop big data processing tools hadoop hdfs hive and spark lesson big data and data mining artificial intelligence and data science generative ai and data science neural networks and deep applications of machine lesson deep and machine
+
+applications and careers in data science
+in the first lesson you about the power of data science applications and how organizations leverage this power to drive business goals improve efficiency make predictions and even save lives you also reviewed the process follow as a data scientist to help your organization accomplish these ends in the second lesson you investigate what companies seek in a competent experienced data scientist how to position yourself to get hired as a data scientist amidst the diverse backgrounds from which data scientists emerge you identify the qualities they share and that consistently set them apart from other datarelated roles complete a peerreviewed final by looking at a job posting for data scientist and identifying commonalities between the job and what you learned also walk through a case study where you about sarah and her data science journey
+how should companies get started in data science old problems new data science solutions applications of data science how data science is saving lives lesson data science applications domain how can someone become a data scientist recruiting for data science careers in data science importance of mathematics and statistics for data science lesson careers and recruiting in data science
+
+data literacy for data science optional
+this optional focuses on understanding data and data literacy and is intended to supplement what you learned in the first three as a data scientist need to understand the ecosystem in which your data lives and how it gets manipulated to analyze it this introduces you to some of these fundamentals in lesson one you explore how data can be generated stored and accessed in lesson two you take a deeper dive into data repositories and processes for handling massive data sets
+understanding data data sources viewpoints working with varied data sources and types lesson understanding data data collection and organization relational database management system nosql data marts data lakes etl and data pipelines viewpoints considerations for choice of data repository data integration platforms lesson welcome to data literacy
+</DOC>
+
+<DOC>
+data science methodology
+if there is a shortcut to becoming a data scientist then to think and like a successful data scientist is it and then apply this methodology that you can use to tackle any data science scenario explore two notable data science methodologies foundational data science methodology and the sixstage crispdm data science methodology and how to apply these data science methodologies most established data scientists follow these or similar methodologies for solving data science problemsbegin by about forming the businessresearch problem how data scientists obtain prepare and analyze data discover how applying data science methodology practices helps ensure that the data used for problemsolving is relevant and properly manipulated to address the question next about building the data model deploying that model data storytelling and obtaining feedback think like a data scientist and develop your data science methodology using a realworld inspired scenario through progressive labs hosted within jupyter notebooks and using python
+
+from problem to approach and from requirements to collection
+discover what makes data science interesting what a data science methodology is and why data scientists need a data science methodology next gain more indepth knowledge of the first two data science methodology stages business understanding and analytic approach discover how to identify considerations and steps needed to define the data requirements for decision tree classification during the data requirements stage next about the processes and techniques data scientists use to assess data content quality and initial insights and how data scientists manage data gaps round out with practical handson how to approach the business understanding and the analytic approach stage tasks and the data requirements and collection stage tasks for any data science problem
+introduction data science methodology overview business understanding analytic approach data requirements data collection
+
+from understanding to preparation and from modeling to evaluation
+what data scientists do when their tasks and goals are to understand prepare and clean the data examine the purposes characteristics and goals of the data modeling process also explore how to prepare a data set by handling missing invalid or misleading data then check out the handson labs where you can gain completing tasks relevant to the data understanding data preparation and modeling and evaluation stages be able to apply the you to future data science problems
+data understanding data preparation concepts data preparation case study modeling concepts modeling case study evaluation
+
+from deployment to feedback and final evaluation
+when you complete this be able to describe the deployment and feedback stages of the data science methodology how to assess a data models performance impact and readiness be able to identify the stakeholders who usually contribute to model refinement also be able to explain why deployment and feedback should be an iterative process to complete your handson lab devise a business problem to solve using data related to email hospitals or credit cards demonstrate your understanding of data science methodology by applying it to a given problem construct responses that address each phase of the crispdm based on a chosen business problem after submitting your evaluate your peers final and provide constructive ideas and suggestions that fellow learners can apply right away
+deployment feedback storytelling
+
+final and assessment
+before completing your final how crispdm data science methodology compares to john rollins foundational data science methodology then apply what you learned to complete a peergraded using crispdm data science methodology to solve a business problem you define first take on both the client and data scientist role and describe how you would apply crispdm data science methodology to solve the business problem then take on the role of a data scientist and apply your knowledge of crispdm data methodology stages to describe how you would solve the business problem after you submit your grade the of one peer who is enrolled session lets get started
+</DOC>
+

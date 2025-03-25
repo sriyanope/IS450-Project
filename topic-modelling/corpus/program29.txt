@@ -1,0 +1,82 @@
+<DOC>
+architecting with google kubernetes engine
+the architecting with google kubernetes engine will teach you how to implement solutions using google kubernetes engine or gke including building scheduling load balancing and monitoring workloads as well as providing for discovery of services managing rolebased access control and security and providing persistent storage to these applications applied projectthis incorporates handson labs using our qwiklabs platformthese hands on components will let you apply the you in the lectures will incorporate topics such as google cloud platform products which are used and configured within qwiklabs you can expect to gain practical handson with the concepts explained throughout the
+</DOC>
+
+<DOC>
+architecting with google kubernetes engine production
+about kubernetes and google kubernetes engine gke security logging and monitoring and using google cloud managed storage and database services from within gkethis is the second of the architecting with google kubernetes engine series after completing this enroll in the reliable google cloud infrastructure design and process or the hybrid cloud infrastructure foundations with anthos
+
+production introduction
+introduction explore the goals and preview each section
+
+access control and security in kubernetes and google kubernetes engine
+section of the about kubernetes security focusing on authentication and authorization explore kubernetes rolebased access control rbac and its integration with iam to secure gke clusters also how to configure workload identity secure gke with pod security standards and pod security admission and implement rbac within your gke environment
+introduction authentication and authorization kubernetes rolebased access control workload identity kubernetes control plane security pod security
+
+google kubernetes engine logging and monitoring
+section of the how to monitor and log your kubernetes applications using google clouds observability tools configure google cloud observability to monitor the availability and performance of your applications and gain handson inspecting logs using both the kubectl command and the google cloud observability tools then how to configure gkenative monitoring and logging allowing you to proactively identify and troubleshoot issues within your kubernetes clusters
+introduction google cloud observability cloud logging cloud monitoring inspecting logs with the kubectl command inspecting logs with cloud logging and logging agents
+
+using google cloud managed storage services with google kubernetes engine
+section of the explore the storage and database options available for your kubernetes applications on google cloud compare managed and selfmanaged storage about cloud storage for kubernetes and get an overview of google clouds managed database services then how to securely connect to cloud sql from your gke clusters and gain handson integrating cloud sql with google kubernetes engine
+introduction using google cloud services using cloud storage using google cloud databases using cloud sql and sql auth proxy comparing storage options
+
+using cicd with google kubernetes engine
+section of the discover the benefits of continuous integration and continuous delivery cicd for streamlining your development and deployment workflows what cicd is why its important and how it can optimize application releases explore cicd tools supported by google cloud and googles best practices for building cicd pipelines on google kubernetes engine
+introduction what is cicd constructing a cicd pipeline cicd tools available in google cloud best practices for using cicd on google cloud
+
+production
+the closes with a of the key points covered in each section
+</DOC>
+
+<DOC>
+getting started with google kubernetes engine
+welcome to the getting started with google kubernetes engine if youre interested in kubernetes a software layer that sits between your applications and your hardware infrastructure then youre in the right place google kubernetes engine brings you kubernetes as a managed service on google cloud the goal of this is to introduce the basics of google kubernetes engine or gke as its commonly referred to and how to get applications containerized and running in google cloud the starts with a basic introduction to google cloud and is then followed by an overview of containers and kubernetes kubernetes architecture and kubernetes operations
+
+introduction
+the introduction explains the goals and previews each section
+
+introduction to google cloud
+the first section of this introduces cloud computing concepts learners explore fundamental terminology the google cloud network how google cloud resources are organized in an hierarchy for management and the tools available to connect to google cloud for allocating changing and releasing resources
+introduction cloud computing and google cloud google cloud compute offerings the google network resource management billing interacting with google cloud lab introduction accessing the cloud console and cloud shell coursera getting started with google cloud platform and qwiklabs
+
+introduction to containers and kubernetes
+the second section of this examines software containers and the benefit they bring to application deployment learners explore containers and container images cloud build kubernetes and google kubernetes engine
+introduction containers container images lab introduction working with cloud build kubernetes google kubernetes engine
+
+kubernetes architecture
+the third section of this explores the components of a kubernetes cluster and how they together learners deploy a kubernetes cluster by using google kubernetes engine deploy pods to a gke cluster and view and manage different kubernetes objects
+introduction kubernetes concepts kubernetes components gke autopilot and gke standard object management lab introduction deploying gke autopilot clusters
+
+kubernetes operations
+the final section of this introduces the kubectl command which is the command line utility used to interact with and manage the resources inside kubernetes clusters learners are introduced to the concept of introspection then get practice deploying google kubernetes engine clusters from cloud shell
+introduction the kubectl command introspection lab introduction deploying gke autopilot clusters from cloud shell
+
+
+the recaps the major concepts learners were introduced to during the
+</DOC>
+
+<DOC>
+architecting with google kubernetes engine workloads
+in architecting with google kubernetes engine workloads embark on a comprehensive journey into cloudnative application development throughout the explore kubernetes operations deployment management gke networking and persistent storage this is the first of the architecting with google kubernetes engine series after completing this enroll in the architecting with google kubernetes engine production
+
+workloads introduction
+introduction explore the goals and preview each section
+
+workloads deployments and jobs
+section of the to manage kubernetes deployments jobs and cronjobs to deliver applications and automate tasks also explore cluster scaling techniques to optimize performance and resource utilization
+introduction creating deployments inspecting deployments updating deployments other deployment strategies jobs and cronjobs cluster scaling controlling pod placement with labels and affinity rules controlling pod placement with taints and tolerations getting software into your cluster coursera getting started with google cloud platform and qwiklabs
+
+google kubernetes engine networking
+section of the gain a comprehensive understanding of kubernetes networking delve into how pods and clusters communicate create services to expose your applications to the network and configure load balancers for external access also examine containernative load balancing and master the configuration of google kubernetes engine networking for optimal performance and security
+introduction pod networking kubernetes services service type and load balancers ingress containernative load balancing network policies
+
+persistent data and storage
+section of the unlock the secrets of kubernetes storage how to define and with kubernetes storage abstractions ensuring your applications have access to persistent data also discover how to manage sets of pods efficiently using statefulsets decouple configuration from pods using configmaps and securely manage sensitive access and authentication data finally practice configuring persistent storage for google kubernetes engine ensuring your data remains safe and accessible
+introduction volumes ephemeral volumes durable volumes statefulsets configmaps secrets
+
+workloads
+the closes with a of the key points covered in each section
+</DOC>
+

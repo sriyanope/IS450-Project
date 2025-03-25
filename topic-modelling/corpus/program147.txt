@@ -1,0 +1,167 @@
+<DOC>
+financial reporting
+the financial reporting emphasizes the application of financial accounting principles and processes used to prepare an organizations financial statements the addresses the measurement of assets liabilities equity revenue expenses gains losses and the disclosure of additional information that allows users to understand the financial reports we will discuss the financial accounting structure and review the fundamental accounting process used to prepare the financial statements and analyze them in the decisionmaking process applied projectcourses include a mix of practice quizzes to selfassess understanding graded quizzes to validate knowledge of the lecture materials and peer review to apply concepts into realword scenarios these build towards a cumulative of developing the to fully analyze and evaluate an organizations financial statements
+</DOC>
+
+<DOC>
+accounting analysis ii accounting for liabilities and equity
+this is the fourth in a fivecourse financial reporting this focuses on the recognition measurement and subsequent accounting for equity pensions sharebased compensation and cash flows utilizing the fasb accounting standards codification and other resources
+
+introduction
+become familiar with the your instructor and your classmates and our environment this orientation will also help you obtain the technical required to navigate and be successful
+introduction meet your instructor the impact of the gies community
+
+deferred taxes part
+be introduced to the accounting by employers for employee postretirement benefits we will explore the basic features of accounting for defined benefit plans including benefit obligations plan assets and the components of net periodic benefit cost the discussion includes accounting for changes in net pension asset or liability that are recognized in other comprehensive income
+tax introduction permanent versus temporary differences demonstration permanent versus temporary differences deferred tax liability demonstration deferred tax liability deferred tax asset demonstration deferred tax asset valuation allowance demonstration valuation allowance
+
+deferred taxes part
+continue your study of the employers accounting for employee retirement benefits including health care plans multiemployer plans and defined contribution plans we will the definitions of curtailment and settlement and the impact of each on the financial statements the also describes defined contribution plans and multiemployer plans the will wrap up with a brief discussion of some of the major differences between us gaap and ifrs
+multiple temporary differences tax rate changes demonstration tax rate changes net operating losses demonstration net operating losses tax reporting demonstration tax reporting tax differences us gaap vs ifrs
+
+equity
+the conversation changes from liabilities to equity how to account for the issuance of common stock and basic transactions such as cash dividends stock dividends stock splits and the purchase and reissuance of treasury stock the also includes a discussion of preferred stock and accumulated other comprehensive income
+introduction to equity share issuances demonstration share issuances share repurchases demonstration share repurchases dividends demonstration dividends stock dividends demonstration stock dividends equity us gaap vs ifrs
+
+sharebased payments
+be introduced to sharebased payments such as stock options we will the different models used in valuing equity instruments this will begin with a simple example for the accounting of employee stock options and will then build on that to include forfeitures and graded vesting the will conclude with a discussion of stock appreciation rights and restricted shares
+introduction to sharebased compensation restricted stock demonstration restricted stock stock options demonstration stock options graded vesting and forfeitures demonstration graded vesting and forfeitures stock appreciation rights demonstration stock appreciation rights sharebased compensation us gaap vs ifrs
+
+earnings per share
+be introduced to the concept of earnings per share eps how to account for basic eps and diluted eps the includes discussion of how preferred stock options and conversion features affect the numerator and denominator when calculating basic and diluted eps the continues with the discussion of the mechanics of the ifconverted and treasury stock methods and the accounting for antidilutive securities
+basic earnings per share eps demonstration basic earnings per share eps diluted earnings per share eps diluted eps treasury stock method demonstration diluted eps treasury stock method diluted eps ifconverted method demonstration diluted eps ifconverted method antidilutive securities demonstration antidilutive securities eps financial statement presentation
+
+accounting changes
+be introduced to the accounting for changes in accounting principles changes in accounting estimates and correction of errors from a previous period the will discuss the three techniques used when a new standard is adopted retrospective modified retrospective and prospective
+introduction to accounting changes change in estimate demonstration change in estimate change in accounting principle demonstration change in accounting principle error correction demonstration error correction demonstration inventory misstatement
+
+statement of cash flows
+be introduced to the statement of cash flows we will how to classify cash flows as investing financing or operating activities the will conclude with a comparison of the statement of cash flows prepared using the direct and indirect methods
+introduction to the case flow statement converting revenues into inflows converting expenses into outflows demonstration direct method operating activities indirect method operating activities demonstration indirect method operating activities investing financing and noncash activities demonstration investing financing and noncash activities cash flow statement us gaap vs ifrs
+
+evaluation
+this is for you to tell us what you think of the
+</DOC>
+
+<DOC>
+accounting analysis ii measurement and disclosure of liabilities
+this focuses on the recognition measurement and subsequent accounting for various types of liabilities the content includes current liabilities and contingencies such as accounts payable accrued expenses warranties and pending litigation accounting for longterm debt including the issuance payment of interest amortization and extinguishment of debt instruments lease accounting from the perspective of both the lessee and the lessor pension accounting including the calculation of benefit obligations plan assets and net periodic benefit cost we will discuss the relevant accounting standards and principles used to measure and disclose these items in the financial statements this is the third in the financial reporting offered by the university of illinois at urbanachampaign
+
+about the
+become familiar with the your instructor and your classmates and our environment this orientation will also help you obtain the technical required to navigate and be successful
+introduction meet your instructor on your terms the impact of the gies community
+
+current liabilities and contingencies
+be introduced to the concepts of current liabilities and contingencies how to classify liabilities as current or longterm including consideration of refinancing arrangements the also describes the criteria for recognizing andor disclosing contingencies
+current liabilities demonstration current liabilities classification of liabilities into current and longterm demonstration classification of liabilities into current and longterm contingencies demonstration contingencies subsequent events demonstration subsequent events liabilities us gaap vs ifrs
+
+longterm debt part
+be introduced to the concept of longterm debt about the different types of bonds and how each type results in different accounting including bonds sold at a premium or discount the also explains the recognition of interest and bond extinguishment
+longterm debt notes payable demonstration longterm debt notes payable various types of bonds bond issuance demonstration bond issuance bond periodic interest demonstration bond periodic interest bond extinguishment demonstration bond extinguishment
+
+longterm debt part
+longterm debt will be discussed in more detail students will how to account for other aspects of bond accounting including bond issue costs fair value accounting convertible debt troubled debt restructuring issuances between interest dates and differences between us gaap and ifrs
+bond issue costs demonstration bond issue costs bond fair value accounting demonstration bond fair value accounting convertible debt demonstration convertible debt troubled debt restructuring demonstration troubled debt restructuring bond issuance between interest dates demonstration bond issuance between interest dates longterm debt us gaap vs ifrs
+
+lease accounting part
+be introduced to the most recent lease accounting standards issued by the financial accounting standards board fasb starting with the definition of a lease this will discuss features of the model related to both lessors and lessees it will also illustrate the classification of leases initial recognition and subsequent measurement
+introduction to lease accounting lessee accounting for a finance lease demonstration lessee accounting for a finance lease lessor accounting for a salestype lease demonstration lessor accounting for a salestype lease operating leases demonstration operating leases
+
+lease accounting part
+we continue the discussion of the lease accounting model how to account for leased asset purchase options leased asset residual values sale leaseback accounting and the differences between us gaap and ifrs when accounting for leases
+accounting for lease contracts with a purchase option demonstration accounting for lease contracts with a purchase option lease contracts with a residual value demonstration lease contracts with a residual value lease contracts with a guaranteed residual value demonstration lease contracts with a guaranteed residual value sale leaseback arrangements demonstration sale leaseback arrangements lease accounting us gaap vs ifrs
+
+pension accounting part
+be introduced to accounting for pension benefits we will explore the basic features of accounting for defined benefit plans including benefit obligations plan assets and the components of net periodic benefit cost
+introduction to employee benefit plans main elements in accounting for pensions demonstration main elements in accounting for pensions pension assets and liabilities demonstration pension assets and liabilities pension journal entries demonstration pension journal entries
+
+pension accounting part
+continue your study of accounting for employee retirement benefits we will how to account for plan amendments and the recognition of pension gains and losses we will also discuss a comprehensive recognition of pension activities the will conclude with a discussion of the major differences between us gaap and ifrs with respect to pension accounting
+prior service costs demonstration prior service costs pension gains losses demonstration pension gains losses completing the pension puzzle demonstration part completing the pension puzzle demonstration part completing the pension puzzle pension accounting us gaap vs ifrs
+
+evaluation
+this is for you to tell us what you think of the
+</DOC>
+
+<DOC>
+accounting analysis i the role of accounting as an information system
+this is the first in a fivecourse financial reporting that covers the collection processing and communication of accounting information via financial reports about economic entities to interested parties ie managers and external stakeholders such as stockholders and creditors to gain the most relevant knowledge from these courses learners should have taken a basic accounting prior to this which can be done through coursera courses such as any accounting from the fundamentals of accounting httpswwwcourseraorgspecializationsaccountingfundamentals this focuses on accounting concepts principles and theory with an emphasis on problems that arise in applying these concepts for external reporting purposes specific emphasis is placed on measurement of assets liabilities equities and income as well as disclosure of additional information that may assist users understand the financial reports after a brief introduction to the we will spend time understanding the overall financial accounting structure and standards as well as review the fundamental accounting process used to prepare the financial statements which will establish a framework for the study of the concepts in the remaining courses in the financial reporting we will begin our review of key information included in the balance sheet and income statement and their related financial disclosures the statement of cash flows will be introduced briefly with more discussion to follow in later courses of the also we will provide a cursory review of key concepts involving time value of money as we will finish this with focus on revenue recognition including discussion of the new revenue standard we will review the general approach for recognizing revenue special issues affecting revenue recognition including longterm construction contracts in addition we will discuss and review common ratios used in profitability analysis the university of illinois at urbanachampaign consistently ranked as one of the nations top three accounting programs now offers a masters in accounting at a very affordable tuition rate and is completely online the imsa is a full master of accountancy and students graduate with an ms that is highly recognized try an open or two then apply for admission into the creditbearing version as you may be eligible to take creditbearing courses during the application process if you are missing any prerequisites for the full degree you can complete coursera courses to demonstrate readiness and strengthen your application for the imsa for more information on this exciting imsa online refer to this link httpswwwcourseraorgdegreesimsa
+
+orientation
+become familiar with the your classmates and our environment the orientation will also help you obtain the technical required for the
+meet your instructor gerlando lima phd the impact of the gies community
+
+financial accounting structureenvironment
+we will the primary focus of financial accounting and about general accepted accounting principles gaap and their key assumptions as well as compare them to international financial reporting standards ifrs
+introduction to financial accounting structureenvironment importance and introduction to financial accounting us gaap ifrs cash and accrual accounting wrapup to financial accounting structureenvironment
+
+accounting process
+we will use the accounting equation to complete the processing cycle we will also the basic types of monthend adjusting entries more importantly we will describe the basic financial statements and how they relate to one another
+introduction to the accounting process the accounting processing cycle processing cycle and journal entries examples processing cycle adjustments taccounts financial statements and the accounting process wrapup to the accounting process
+
+the balance sheet and financial disclosures
+we will the nuances of the balance sheet as well as various forms of disclosures associated with financial statements including the auditors report and mda we will also review several key liquidity and financing ratios lastly we will whats included in the operating segment reporting
+introduction to the balance sheet and financial disclosure some characteristics and assets liabilities and stockholders equity financial disclosures and audit report ratio analysis segment information us gaap x ifrs wrapup to the balance sheet and financial disclosure
+
+income statement comprehensive income and statement of cash flows
+we will the key components of the income statement eg eps and its impact on shareholders equity we will also distinguish income from continuing operations vs discontinued operations we will the key components of the comprehensive income and statement of cash flows
+introduction to income statement comprehensive income and statement of cash flows income statement and its key components discontinued operations and earnings per share other important issues comprehensive income cashflow statement ratio analysis us gaap x ifrs wrapup to income statement comprehensive income and statement of cash flows
+
+time value of money tvom
+we will some of the key concepts and variables related to time value of money
+introduction to time value of money tvom variables and models used annuities applications wrapup to time value of money tvom
+
+revenue recognition part i
+we will the key issues involving revenue recognition including the five key steps next we will determine when to recognize revenue including involvement of multiple performance obligations and special issues related to steps and lastly we will discuss the presentation and disclosure requirements of revenue
+introduction to revenue recognition part first steps for revenue recognition multiple performance obligations special revenue recognition issues wrapup to revenue recognition part i
+
+revenue recognition part ii
+we will understand the two methods of revenue recognition for longterm contracts and also with losses on these kind of contracts in the end we will review the convergence and differences between usgaap and ifrs
+introduction to revenue recognition part ii accounting for longterm contracts accounting for losses on longterm contracts us gaap x ifrs wrapup to revenue recognition part ii
+
+wrapup case study
+if you would like to earn an honors badge on your for this you must complete a peer reviewed case study that will serve as a refresher of all of the concepts that you have learned over the past seven the case study will involve analysis of a publicly held fortune company in which analyze the annual report or k report
+wrapup on your terms
+</DOC>
+
+<DOC>
+accounting analysis i measurement and disclosure of assets
+note you should complete the accounting analysis i the role of accounting as an information system or be familiar with the concepts taught there before beginning this coursethis is the second in a fivecourse financial reporting that covers the collection processing and communication of accounting information via financial reports about economic entities to interested parties ie managers and external stakeholders such as stockholders and creditors to gain the most relevant knowledge from these courses learners should have taken a basic accounting prior to this which can be done through coursera courses such as any accounting from the fundamentals of accounting httpswwwcourseraorgspecializationsaccountingfundamentals this focuses on accounting concepts principles and theory with an emphasis on problems that arise in applying these concepts for external reporting purposes specific emphasis is placed on measurement of assets liabilities equities and income as well as disclosure of additional information that may assist users understand the financial reports we will begin our review of key asset categories underlying the balance sheet concepts that were introduced in the previous we will begin our trek down the balance sheet by reviewing cash and receivables which are normally the two assets listed first we will continue our trek down the balance sheet by looking at inventory and longlived assets which are normally two of the largest asset values we will review the measurement and reporting issues involving inventories and the corresponding cost of goods sold expense in the income statement in the latter half of this we will conclude our review of key asset categories by looking at both tangible and intangible longlived assets that are so vital to the production of goods and services this will entail discussion of both acquisition and disposition of property plant and equipment as well as cost allocation next we will discuss possible impairment of these assets as well as the proper treatment of expenditures made after acquisition lastly we will review how to identify and account for debt and equity investments the university of illinois at urbanachampaign consistently ranked as one of the nations top three accounting programs now offers a masters in accounting at a very affordable tuition rate and is completely online the imsa is a full master of accountancy and students graduate with an ms that is highly recognized try an open or two then apply for admission into the creditbearing version as you may be eligible to take creditbearing courses during the application process if you are missing any prerequisites for the full degree you can complete coursera courses to demonstrate readiness and strengthen your application for the imsa for more information on this exciting imsa online refer to this link httpswwwcourseraorgdegreesimsa
+
+orientation
+become familiar with the your classmates and our environment the orientation will also help you obtain the technical required for the
+meet your instructor gerlando lima phd the impact of the gies community
+
+cash accounts receivable
+we will about internal controls including bank reconciliations as well as restrictions over cash next we will introduce the approaches to estimate bad debt expense related to accounts receivable lastly we will discuss notes receivable and various methods of financing with receivables
+introduction to cash accounts receivable cash and cash equivalents internal controls and cash restrictiondiscounts receivables uncollectable receivables and bad debt expense estimation methods notes receivable and receivables financing and management bank reconciliations us gaap x ifrs wrapup to cash accounts receivable
+
+inventory measurement
+we will about the types of inventory systems as well as the costs that should be included in inventory next we will understand the various inventory costing methods as well as key factors on choice of these methods lastly we will discuss inventory ratio analysis as well as methods of simplifying lifo
+introduction to inventory measurement types of inventory systems and costs included inventory costing methods and factors influencing choice inventory ratio analysis and methods of simplifying lifo wrapup to inventory measurement
+
+inventory additional issues
+we will about the subsequent measures of inventory such as lcnrv and lcm next we will understand the various inventory estimation methods when we are unable to take a physical count then we will discuss the various types of inventory cost flow methods lastly we will discuss how to handle changes in inventory methods as well as inventory errors
+introduction to inventory additional issues inventory estimation methods cost flow methods changes in inventory methods and errors in inventory subsequent measure of inventory us gaap x ifrs wrapup to inventory additional issues
+
+ppe and intangible assets acquisition
+we will about the types of longlived assets as well as the basic costs to be capitalized next we will understand the various complex issues of determining capitalized costs as well as discuss asset dispositions and exchanges lastly we will about the costs associated with selfconstructed assets and rd
+introduction to ppe and intangible assets acquisition recognition and measurement lumpsum purchases noncash acquisition and exchanges selfconstructed assets research and development wrapup to ppe and intangible assets acquisition
+
+ppe and intangibles utilization impairment
+we will about the various cost allocation methods as well as key factors on the decision makers perspective on selecting a depreciation method next we will understand depletion of natural resources and amortization of intangible assets lastly we will discuss how to account for expenditures after asset acquisition and ratio analysis
+introduction to ppe and intangibles utilization impairment depreciation depletion and amortization change in estimates errors and impairment subsequent expenditures us gaap x ifrs wrapup to ppe and intangibles utilization impairment
+
+debt investments
+we will discuss recognition measurement and disclosure of debt investments
+introduction to debt investments concepts characteristics and classifications identifying and classifying debt investments us gaap x ifrs wrapup to debt investments
+
+equity investments
+we will about equity investments next we will understand how to recognize measure and disclose the two types of equity investments lastly we will discuss fair value adjustments for investments
+introduction to equity investments equity investments concepts characteristics and classifications measuring and reporting equity investments us gaap x ifrs wrapup
+
+wrapup case study
+if you would like to earn an honors badge on your for this you must complete a peerreviewed case study that will serve as a cumulative recap of the concepts you have learned throughout this the case study will involve a review of a letter to shareholders in which discuss key topics covered that are mentioned in the letter
+gies online programs on your terms
+</DOC>
+

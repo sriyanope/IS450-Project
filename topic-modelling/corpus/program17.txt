@@ -1,0 +1,106 @@
+<DOC>
+agile leadership
+constant fast change has become a reality of our time agile has become a popular leadership philosophy and a management methodology for addressing this reality while the theory is simple its much more challenging to become agile in practice to bridge the gap between an easy theory and complex application three critical success components for executing the complexity of agile in practice the neuroscience of change social psychology and change managementin this how to become an agile leader how to build agile teams by using agile philosophy and scrum tools and how to approach transforming a traditional organization into agilethis will prepare you to build changeresiliency within yourself your team and your organization and implement agile practices where appropriate to leverage its maximum benefitsapplied projectlearners will evaluate themselves their team and the organization for agility by creating a set of baseline assessments they will identify and design a comprehensive transformation roadmap at a leader team and organizational level by applying the psychology of change scrum and change management in their business setting
+</DOC>
+
+<DOC>
+agile leadership capstone
+this capstone takes you through a guided journey of putting together a comprehensive agile transformation packet to create this packet be creatively applying the concepts and tools we have covered in the first four courses of this specializationin the capstone scenario you were hired as a senior scrum master at nike understand what a fortune company would be looking for in a candidate by analyzing a real nike job posting if you aspire to in a similar role this exercise should give you an idea of where you stand today and what you might want to hone on in the future you then will be completing a probationary as a part of the requirement of this new role your plan should help you answer the question of what steps take in your first days at nike to develop yourself your team and the enterprise the packet be developing consists of the following four elements transformation roadmap onemonthlong sprint plan for personal development onemonthlong sprint plan for developing a brand new agile team change management plan to strengthen nikes internal culture support innovation and fend off intense competition alternatively you may choose to create a plan for the company you are working for the capstone will provide you with a handson of strategically planning for change and applying scrum tools dont forget to have fun with it
+
+planning for personal transformation
+in the first focus on your personal transformation your completed agile leader workbook will be your starting point complete the personal transformation section of the roadmap develop a product and sprint backlog or in other words plan a sprint even though this exercise is focused on you you can easily apply the same steps and planning process to mentoring and coaching situations
+capstone and artifact overview agile transformation map leader creating productsprint backlog leader envisioning scrum terminology planning a sprint
+
+planning for team transformation
+in the second focus on training your newly formed team be leading at nike on principles of agile and scrum how would you teach someone who has no and knowledge about agility change resiliency and scrum prepare for leading this change based on the background information presented in the case study complete the team section of the transformation roadmap and develop your product and sprint backlog for training your team to become agile this part of the exercise will give you the of planning a transformation of a brandnewtoagile team
+agile transformation map team creating productsprint backlog team case study introduction envisioning scrum terminology planning a sprint
+
+planning for enterprise transformation
+in the third your goal is to develop a change management plan for advancing agile within nike develop your plan based on the information about the company and where it stands on its agile journey presented in the case study needless to say there are some and its your job to help capitalize on these that will propel nike to the next level of agile adoption complete the last section of the transformation roadmap and create a page transformation plan by applying change management theories and tools you have previously learned you may choose to create a plan for the company you for or do both if you choose to do both use nike case study as a practice
+agile transformation map enterprise how to use a rubric key concepts key concepts stages of agile adoption part a stages of agile adoption part b scaling agile part scaling agile part key concepts
+</DOC>
+
+<DOC>
+agile leadership introduction to change
+this is a foundational in the agile leadership by the end of this build an understanding of key agile leadership concepts begin building a toolbox that will give you an ability to evaluate and create a baseline for yourself as an agile leader access your teams readiness for change also analyze to what degree an organization is agile and evaluate its ability to respond to change triggers
+
+introduction to change
+agile was born out of necessity driven by a changing business environment but what triggered this change exactly define change and transformation and examine change intensity levels and the reasons behind change acceleration because change management plays a critical role in helping us successfully transform organizations from traditional to agile be introduced to a brief history and the reasons behind the creation of change management theories
+introduction introduction meet oxana trotsenko definition of change change intensity levels deconstructing covid as an example of change pace of change difference between transformation and change agile transformation change management theories overview behavior and psychology of change introduction to change key concepts
+
+agile leader
+agile leadership is a fairly new concept and it is typically used in contrast to traditional leadership continue to build the foundational vocabulary for this by defining a traditional and agile leader and identifying their key characteristics are you wondering which one is better be able to answer this question by the end of the answer might surprise you complete the by analyzing yourself as a leader to understand where you fall on the agility scale be using this assessment in to benchmark your personal transformation
+introduction traditional leader agile leader good or bad agile leader key concepts
+
+agile team
+we will transition into the realm of the team in order to transform your team you need to understand the difference between a traditional and agile one the definitions and key characteristics of both also be introduced to the role and responsibility of a leader in leading an agile team conclude the by assessing your teams level of agility similarly to your own assessment be using your teams baseline assessment to design an agile transformation plan later in the
+introduction traditional team agile team agile leader for an agile team agile team key concepts
+
+agile organization
+in the last of this we will expand the concepts of traditional and agile to an organizational level the definitions and key characteristics of a traditional and agile organization at the end of the analyze an organization for its agility by the end of the last have a strong foundational knowledge of concepts for the continued journey of agile leadership use the three completed assessments when building a comprehensive roadmap for agile transformation as a part of the capstone
+introduction traditional organization agile organization agile organization key concepts
+</DOC>
+
+<DOC>
+agile organization
+the theory of agile is simple however it takes knowledge and expertise to scale it successfully focus on leading change at an organizational level and scaling agile appropriately when studying agile application success stories and theory its easy to think in terms of adopting best practices however whats best for one industry company and most importantly culture is not always the best for another not every aspect of the business is suitable for the application of agile not every organization will benefit from adopting agile and not every leader will facilitate yet another change to success be introduced to seven different change management theories and how to best use and apply them in practice also how to scale agile in your organization what to look for when looking for best use cases and what signs serve as clear indicators that agile is not an appropriate philosophy to apply
+
+change management theories part i
+knowing how to lead change in an organization is a critical for any leader to have regardless of the scope complexity and size of a particular change you must be able to create a clear path to get buyin from others on your team and in your organization where do you start you start at the beginning of when i say at the beginning i mean understanding conceptually how to look at change chunk it into manageable pieces and plan for its complexity begin to various change management models my goal is to help you develop a wellrounded understanding of change leadership and change management we will begin with a straightforward model proposed by kurt lewin and transition to mckinsey s framework
+introduction lewins change management mckinsey s theory mckinsey s theory use cases key concepts
+
+change management theories part ii
+we will continue to expand on change management add five additional change management models to your toolbelt they are nudge theory adkar kotters step model bridges transition model and kublerross five stages model i will be sharing practical examples of how and when you use each model and when to use them together by the end of the you should begin recognizing themes and patterns across all seven theories and start developing comfort and ease applying them to any
+introduction nudge theory adkar change management model bridges transition model kotters step model part kotters step model part kblerross five stage model key concepts
+
+scaling agile
+agile is a relatively simple theory but how and where do you begin transforming a traditional organization i will share a simple framework for starting on the path to an agile enterprise and will explain three stages of agile adoption as you start to scale it by the end of the be able to identify commonalities and differences between companies that successfully adopted agile by looking at case studies of amazon tesla target spotify netflix and salesforce
+introduction stages of agile adoption part a stages of agile adoption part b scaling agile part scaling agile part agile company case study amazon agile company case study tesla key concepts
+</DOC>
+
+<DOC>
+agile leader training
+the neuroscience of change why we are so changeaverse how to train for change resilience and most importantly begin developing a practice to help you be prepared for changes in personal life and in your specific strategies and tools for overcoming fear anxiety and managing stress related to these changes by the end of this know what you need to do to become truly unshakable build a practice for getting stronger emotionally and mentally by understanding neuroscience and building awareness of yourself build a solid foundation for understanding your team and the greater behavior of the business world remember these changes wont happen if you dont take action you might be uncomfortable you might find some of the exercises silly you might have doubts and you might want to quit babies dont quit trying to walk because they fall a lot and neither should you the only way to truly change is to practice consistently
+
+neuroscience of change
+we use the brain to understand the world around us change is no exception except for we are biologically wired to process change at the primal level first to understand how to become agile we have to understand what happens in our brain automatically the foundations of the neuroscience of change by the end of it be able to articulate the innermechanics that have a major impact on how we perceive any change event
+introduction introduction survival system seeking system conditioning mirror neurons negativity bias
+
+deconstructing your fears
+every action begins with figuring out the end goal and the current state through the materials and the exercises that will help you determine where you want to be as a leader and where you are today as it relates to change also begin developing an action plan to bridge the gap between those two journey points and will begin addressing the psychological aspects of fear that might be holding you back today
+introduction tips for success envisioning deconstructing fears mindmapping wcs modeling key concepts of
+
+building a new mindset
+you now know the end goal and the current state but how do you change the things youve been thinking and doing for a long time and how do you consciously design a new agile mindset you gain additional insight into your own pattern formation and practical tools for overcoming established ways of thinking and building a new mindset
+introduction stories we tell ourselves agile leader mindset habit forming reframing anchoring pdsa cycle key concepts of
+
+leader selfcare
+every thought begins in our brain as you are developing a new mindset its important to support it until it becomes second nature the tools of positive psychology that will help you create healthy mental hygiene which will be key to sustaining the mindset of an agile leader building personal change resiliency and being at ease with change
+introduction positive psychology your source of energy stillness reflection gratitude key concepts
+
+building resilience
+action is the driver of transformation after you have established your end goal determined where you are today broke down your psychological barriers and fears associated with change and designed a practice to support an agile mindset be challenged to take it one step further by taking action continue to reset and raise your initial changetolerance baseline little by little by the end of the build awareness of the most common pitfalls that could get in your way of reaching your highest changetolerance potential and will understand how to overcome these
+action overcoming pitfalls daily rituals power of association pleasure and pain new key concepts of
+</DOC>
+
+<DOC>
+developing an agile team
+now that you have undergone personal information be better prepared to empathize understand and mentor individual members of your team on a similar journey leading teams towards changeresilience is not as simple as knowing and understanding the psychology of individuals multiplied by a number of team members it requires a different approach what influences human behavior in teams by looking at social psychology evaluate your teams level of change resilience and agility and be applying practical tools for building agile teams by applying scrum management framework you wont stop there how to be a servant leader practical tools for organizing leading and facilitating a scrum team parts of the content are written from a scrum master perspective and even though not be able to use it as a scrum master certification i will be sharing tools and best practices learned through my own of being a scrum master
+
+social psychology
+when we lead change we typically rely on change management theories for help they bring structure ease and they provide context for the psychology of an individual and also organizational psychology this leaves a gap which manifests in how others influence individual behavior or in other words social psychology even though the domain of social psychology is often overlooked it provides key insights for the successful execution of change management theories the basics of social psychology which is instrumental as you begin implementing change management theories at the team and organizational levels
+introduction introduction social psychology overview belonging and understanding how to build belonging and understanding controlling trusting selfenhancing leader tools for influencing controlling trusting and selfenhancing key concepts
+
+agile team
+you have a team and youd like it to become agile where do you start you start at the beginning by developing a team working agreement empathy map and introducing the basic concepts of scrum to your team which through
+introduction team working agreement empathy map scrum overview key concepts
+
+agile team collaboration
+scrum is a lightweight agile framework it can be applied across different industries it is simple and it can be adopted fairly quickly if the team is open to it scrum terminology and tools for transforming your team into an agile one be introduced to the concept of sprint planning daily scrum velocity and retrospective as you begin implementing these tools invite your team to take a journey with you you can suggest it as a pilot and see if it works well for your industry company and your team
+introduction scrum terminology planning a sprint daily scrum velocity facilitating a retrospective key concepts
+
+agile team leadership
+when leading a team a lot of key moments are discovered through the art of facilitation its a key for any leader regardless of rank tools for facilitating teams virtually and inperson how to break down team psychological barriers facilitate brainstorming sessions and cultivate the culture of innovation in a sustainable manner
+introduction servant leadership building shared understanding facilitation facilitating in an online environment live facilitation principles of sustainable innovation guest speaker building blocks of innovation guest speaker key concepts
+</DOC>
+

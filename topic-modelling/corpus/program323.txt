@@ -1,0 +1,80 @@
+<DOC>
+scrum master certification
+about managing tasks and events within a sprint scrum terminology and roles scrum reporting and managing risks well discuss story points and user stories scaling scrum continuous integration testdriven development tdd and behavior driven development bdd applied projectthroughout this create a plan for continuous integration define your crossfunctional team functions and design a plan for practicing devops using cloud and virtualization because scrum is a collaborative effort be working and communicating with others in the to discuss approaches and styles
+</DOC>
+
+<DOC>
+introduction to scrum master training
+this is designed to help scrum beginners the foundational knowledge to become proficient with agile scrum throughout the learners will explore agile methodologies and benefits of building incrementally they will also about the roles within scrum teams events that happen during a sprint agile artifacts and the definition of done for a sprint
+
+welcome to the certified scrum master courses
+we will explore the courses included within this and discuss the outline of the scrum and agile curriculum we will also take a look at what first as well as introduce your instructor for this journey
+certified scrum master introduction and curriculum welcome to this
+
+agile and scrum basics
+we will discuss the agile methodologies agile manifesto values and principles and agile economics well compare agile and waterfall and explain some of the benefits of building incrementally
+introduction agile methodologies agile manifesto values agile manifesto principles agile economics agile versus waterfall more agile manifesto concepts agile myths and benefits
+
+agile basics and roles
+we will take a look at the scrum pillars and values we will also discuss scrum teams and the roles within a scrum team lastly well explore user stories and task management
+introduction scrum pillars and values scrum roles scrum terminology scrum teams scrum team roles roles the scrum master scrum master behavior facilitation and duties roles the product owner user stories task management scrum master and strong questions
+
+scrum events the sprint vision planning review and retrospective
+well explore the sprint and what events happen during the sprint we will also discuss these events individually and list what happens during each meeting
+the sprint the vision meeting and product backlog the sprint planning meeting the daily standup and backlog refinement the sprint review and retrospective meetings the sprint calendar
+
+agile artifacts vision product backlog sprint backlog and product increment
+we will discuss the different agile artifacts the product increment and the agile vision we will also explore the sprint backlog the product backlog and the release backlog lastly well take a look at story points and how they are calculated as well and the definition of done for the sprint
+sprint artifacts the product increment and vision backlogs product release and sprint story points the definition of done dod
+</DOC>
+
+<DOC>
+scrum master certification scaling agile and the teamofteams
+prior to starting this we recommend that you complete the first two courses introduction to scrum master training and scrum methodologythis is the third in the certified scrum master scaling agile and the teamofteams
+
+scaling agile and the teamofteams
+we will take a look at the topics covered we will introduce scaling scrum and agile discuss some prompts for change and starting the scrum journey well also explore scaled agile planning methods and the agile including agile portfolios and solution integration lastly well discuss test driven development and behavior driven development
+introduction introduction to scaling scrum and agile teamofteams starting the scrum journey the agile testing and quality in the agile
+
+custom software for custom hardware
+were going to take a look at developing and delivering custom hardware for custom software as well as the opposite custom software for custom hardware
+scrum and agile hardware and software solutions device testing and integration delivering hardware and software solutions
+</DOC>
+
+<DOC>
+scrum master certification scrum methodologies
+this is designed to help scrum beginners the foundational knowledge to become proficient with agile scrum throughout the learners will explore user stories and how they are prioritized in agile velocity backlog refinement and market actions learners will also about different scrum reports and methods of managing risks
+
+introduction
+in the following we will introduce the and discuss what we will be exploring
+
+user stories
+well discuss user stories what they are how they are used and created and how to estimate story points as well as methods of doing so
+introduction to user stories planning user stories
+
+velocity tracking backlog refinement and backlog prioritization
+well explore velocity and how it is tracked as well as take a look at backlog refinement and backlog prioritization
+velocity based planning backlog refinement backlog prioritization
+
+scrum reporting team swarming and risk management
+we will discuss the different charts used in scrum reporting how team swarming helps during the sprint and evaluating the environment to manage risks
+scrum reporting team swarming and workflow management managing risks with roam
+</DOC>
+
+<DOC>
+combining scrum with other agile methodologies
+this is designed to help scrum beginners become more proficient with agile scrum this explores layering other agile methodologies on top of scrumthis is the fourth in the certified scrum master we recommend completing the first three courses before beginning this one
+
+creating an agile solution with scrum with xp
+we are going to discuss testdriven development tdd and continuous integration with xp well also take a look at pair programming and behavior driven development
+introduction building the unique agile solution test driven development example example continuous integration adding specialty agile principles and practices to scrum pair programming behavior driven development
+
+lean agile solutions and scrum
+well discuss combining lean practices and scrum implementing kanban and crossfunctional teams
+lean practices combined with scrum crossfunctional teams
+
+scrum and the devops methodology
+we are going to delve into devops well explore the devops mindset devsecops virtualization and continuous deployment
+the devops methodology devops and virtualization devops in continuous deployment and releasing
+</DOC>
+

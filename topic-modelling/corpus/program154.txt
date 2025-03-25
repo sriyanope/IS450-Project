@@ -1,0 +1,89 @@
+<DOC>
+foundations of data structures and algorithms
+building fast and highly performant data science applications requires an intimate knowledge of how data can be organized in a computer and how to efficiently perform operations such as sorting searching and indexing this will teach the fundamentals of data structures and algorithms with a focus on data science applications this is targeted towards learners who are broadly interested in programming applications that process large amounts of data expertise in data science is not required and are familiar with the basics of programming in python we will about various data structures including arrays hashtables heaps trees and graphs along with algorithms including sorting searching traversal and shortest path algorithms this can be taken for academic credit as part of cu boulders ms in data science or ms in computer science degrees offered on the coursera platform these fully accredited graduate degrees offer targeted courses short sessions and payasyougo tuition admission is based on performance in three preliminary courses not academic history cu degrees on coursera are ideal for recent graduates or working professionals more ms in data science httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder ms in computer science httpscourseraorgdegreesmscomputerscienceboulderapplied projectlearners will solve datastructure problems by analyzing and designing algorithms for searching sorting and indexing creating trees and graphs and addressing intractability courses also include conceptual algorithm design problems as well as to datastructuresalgorithms in the python programming language
+</DOC>
+
+<DOC>
+dynamic programming greedy algorithms
+this covers basic algorithm design techniques such as divide and conquer dynamic programming and greedy algorithms it concludes with a brief introduction to intractability npcompleteness and using linearinteger programming solvers for solving optimization problems we will also cover some advanced topics in data structuresthis can be taken for academic credit as part of cu boulders ms in data science or ms in computer science degrees offered on the coursera platform these fully accredited graduate degrees offer targeted courses short sessions and payasyougo tuition admission is based on performance in three preliminary courses not academic history cu degrees on coursera are ideal for recent graduates or working professionals more ms in data science httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder ms in computer science httpscourseraorgdegreesmscomputerscienceboulder
+
+divide and conquer algorithms
+we will formally cover divide and conquer algorithms as a design scheme and look at some divide and conquer algorithms we have encountered in the past we will some divide and conquer algorithms for integer multiplication karatsubas algorithm matrix multiplication strassens algorithm fast fourier transforms ffts and finding closest pair of points
+what are divide and conquer algorithms max subarray problem using divide and conquer karatsubas multiplication algorithm master method revisited fft part introduction and complex numbers fft part definition and interpretation of discrete fourier transforms fft part divide and conquer algorithm for fft application fast polynomial multiplication using fft application data analysis using fft
+
+dynamic programming algorithms
+about dynamic programming as a design principle for algorithms we will provide a stepbystep approach to formulating a problem as a dynamic and solving these problems using memoization we will cover dynamic programming for finding longest common subsequences knapsack problem and some interesting dynamic programming applications
+introduction to dynamic programming rod cutting problem rod cutting problem memoization coin changing problem knapsack problem when optimal substructure fails dynamic programming longest common subsequence
+
+greedy algorithms
+we will about greedy algorithms we will understand the basic design principles for greedy algorithms and about a few algorithms for greedy scheduling and huffman codes we will also some interesting cases when being greedy provides a guaranteed approximation to the actual solution
+introduction to greedy algorithms greedy interval scheduling prefix codes huffman codes huffman codes proof of optimality
+
+intractability and supplement on quantum computing
+p vs np examples such as travelling salesperson problem vertex cover coloring and others integer linear programming and translating problems into integer programming
+decision problems and languages polynomial time problems np definition np completeness and reductions np complete problems examples computation and physics qubits and operations bells inequality grovers search algorithm
+</DOC>
+
+<DOC>
+advanced data structures rsa and quantum algorithms
+introduces numbertheory based cryptography basics of quantum algorithms and advanced datastructures this can be taken for academic credit as part of cu boulders masters of science in computer science mscs degrees offered on the coursera platform this fully accredited graduate degree offer targeted courses short sessions and payasyougo tuition admission is based on performance in three preliminary courses not academic history cu degrees on coursera are ideal for recent graduates or working professionals more ms in computer science httpscourseraorgdegreesmscomputerscienceboulder
+
+rsa public key cryptography and basics of quantum computing
+this covers a brief recap of elementary number theory gcd euclids algorithm bezout coefficients and presents the rsa public key cryptosystem it then shows how the security of rsa relies on the supposed hardness of the factoring problem for numbers that are semiprimes
+introduction to public key cryptography euclids algorithm and gcd extended euclid bezout coefficients rsa cryptography quantum physics computing basics
+
+quantum computing qubits quantum gates and grovers search algorithm
+this covers the basics of quantum computing with an introduction to qubits the concept of a superposition the effect of measuring a qubit elementary quantum gates directtensor products entanglements quantum parallelism and ends with a presentation of grovers search algorithm we will have a brief introduction to ibm qiskit package for exploring quantum circuits
+qubits and super positions unitary operators and reversible computation multi qubit quantum states multi qubit quantum gates quantum parallelism no cloning theorem bells inequality power of entangled states grover search algorithm
+
+quantum computing phase estimation and shors algorithm
+we will describe shors algorithm and as part of shors algorithm show how quantum fourier transform a very useful operation for quantum systems is computed we will show how the power of quantum parallelism combines with the divideandconquer paradigm for algorithm design to yield exponential speedups for computing quantum fourier transforms
+order finding and factoring order finding on a quantum computer recap fft basics of complex numbers and roots of unity recap discretetime fourier transforms recap fft divide and conquer algorithm quantum fourier transform part quantum fourier transform part
+
+btrees and tries
+we will two important and interesting data structures to round off this the first data structure will be the widely used btree data structure which is used in indexing and storing large amounts of data on a disk next we will study algorithms on strings esp string search algorithm we will study the suffix trie data structure a very useful data structure for fast searching over strings
+introduction to btrees structure and properties of btrees simple example searching for a key in a btree btree key insertion algorithm btree key deletion algorithm tries basics suffix tries generalized suffix tries ukkonens algorithm part ukkonens algorithm part concluding remarks
+</DOC>
+
+<DOC>
+trees and graphs basics
+basic algorithms on tree data structures binary search trees selfbalancing trees graph data structures and basic traversal algorithms on graphs this also covers advanced topics such as kdtrees for spatial data and algorithms for spatial datatrees and graphs basics can be taken for academic credit as part of cu boulders master of science in data science msds degree offered on the coursera platform the msds is an interdisciplinary degree that brings together faculty from cu boulders departments of applied mathematics computer science information science and others with performancebased admissions and no application process the msds is ideal for individuals with a broad range of undergraduate education andor in computer science information science mathematics and statistics more about the msds at httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder
+
+binary search trees and algorithms on trees
+about binary search trees and basic algorithms on binary search trees we will also become familiar with the problem of balancing in binary search trees and study some solutions for balanced binary search trees such as redblack trees
+binary search trees introduction and properties binary search trees insertion and deletion redblack trees basics redblack trees rotationsalgorithms for insertion and deletion skip lists
+
+basics of graphs and graphs traversals
+about graphs and various basic algorithms on graphs such as depth firstbreadth first traversals finding strongly connected components and topological sorting
+graphs and their representations graph traversals and breadth first traversal depth first search topological sorting and applications strongly connected components definitions strongly connected components properties strongly connected components algorithm
+
+unionfind data structures and spanning tree algorithms
+union find datastructure with rank compression spanning trees and properties of spanning trees prims algorithm for finding minimal spanning trees kruskals algorithm for finding minimal spanning trees
+amortized analysis of data structures amortized analysis potential functions spanning trees and minimal spanning trees with applications kruskals algorithm for finding minimal spanning trees unionfind data structures and rank compression
+
+shortest path algorithms
+about shortest path problem basics bellmanford algorithm for single source shortest path dijkstras algorithm algorithms for allpairs shortest path problem floydwarshall algorithm
+shortest path problems and their properties bellmanford algorithm for single source shortest paths dijkstras algorithm for single source shortest paths with nonnegative edge weights proof of dijkstras algorithm shortest path on dags all pairs shortest path problems and floydwarshalls algorithm
+</DOC>
+
+<DOC>
+algorithms for searching sorting and indexing
+this covers basics of algorithm design and analysis as well as algorithms for sorting arrays data structures such as priority queues hash functions and applications such as bloom filtersalgorithms for searching sorting and indexing can be taken for academic credit as part of cu boulders master of science in data science msds degree offered on the coursera platform the msds is an interdisciplinary degree that brings together faculty from cu boulders departments of applied mathematics computer science information science and others with performancebased admissions and no application process the msds is ideal for individuals with a broad range of undergraduate education andor in computer science information science mathematics and statistics more about the msds at httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder
+
+basics of algorithms through searching and sorting
+the student will the very basics of algorithms through three examples insertion sort sort an array in ascendingdescending order binary search search whether an element is present in a sorted array and if yes find its index and merge sort a faster method for sorting an array through these algorithms the student will be introduced to the analysis of algorithms ie proving that the algorithm is correct for the task it has been designed for and establishing a bound on how the time taken to execute the algorithm grows as a function of input the student is also exposed to the notion of a faster algorithm and asymptotic complexity through the o bigomega and bigtheta notations
+what is an algorithm an introduction through the insertion sort algorithm time and space complexity asymptotic notation binary search merge sort algorithm analysis and proof of correctness pitfalls and logarithms
+
+heaps and hashtable data structures
+the student will about the basics of data structures that organize data to make certain types of operations faster the starts with a broad introduction to data structures and talks about some simple data structures such as firstin first out queues and lastin first out stack next we introduce the heap data structure and the basic properties of heaps this is followed by algorithms for insertion deletion and finding the minimum element of a heap along with their time complexities finally we will study the priority queue data structure and showcase some applications
+a simple data structure the dynamic array heap minmaxheaps and properties of heaps heap primitives bubble upbubble down priority queues heapify and heapsort hashtables introduction
+
+randomization quicksort quickselect and hashtables
+we will go through the quicksort and quickselect algorithms for sorting and selecting the kth smallest element in an array efficiently this will also be an introduction to the role of randomization in algorithm design next we will study hashtables a highly useful data structure that allows for efficient search and retrieval from large amounts of data we will about the basic principles of hashtable and operations on hashtables
+introduction to randomization average case analysis recurrences partition and quicksort algorithm detailed design of partitioning schemes analysis of quicksort algorithm quickselect algorithm and its applications selecting hash functions universal hash functions and analysis
+
+applications of hashtables
+we will randomized pivot selection for quicksort and quickselect we will how to analyze the complexity of the randomized quicksortquickselect algorithms we will open address hashing a technique that simplifies hashtable design next we will study the design of hash functions and their analysis finally we present and analyze bloom filters that are used in various applications such as querying streaming data and counting
+open address hashing perfect hashing and cuckoo hashing bloom filters and analysis countmin sketching using hashing string matching using hashing
+</DOC>
+

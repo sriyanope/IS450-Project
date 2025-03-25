@@ -1,0 +1,89 @@
+<DOC>
+introduction to scripting in python
+developed by rice universitys worldclass computer scienceopens in a new tab data scienceopens in a new tab faculty this is intended for beginners who would like to master essential programming through four courses cover key programming concepts in python which will prepare you to use python to perform common scripting tasks this knowledge will provide a solid foundation towards a in data scienceopens in a new tab software engineeringopens in a new tab or other disciplines involving programmingapplied projecteach ends with a practical utilizing python scripting skillsopens in a new tab the introductory will focus on typical core scripting problems such as processing dates and finding differences in similar files later in the to with data stored in files to do sports analytics and data visualization these include reading historical data on baseball computing statistics from this data and analyzing the results finally the culminates in a where import economic data from the world bank process that data and visualize this data overlaid on a world map
+</DOC>
+
+<DOC>
+python data visualization
+this if the final in the which builds upon the knowledge learned in python programming essentials python data representations and python data analysis we will how to install external packages for use within python acquire data from sources on the web and then we will clean process analyze and visualize that data this will combine the learned throughout the to enable you to write interesting practical and useful programsby the end of the be comfortable installing python packages analyzing existing data and generating visualizations of that data this will complete your education as a scripter enabling you to locate install and use python packages written by others be able to effectively utilize tools and packages that are widely available to amplify your effectiveness and write useful programs
+
+
+this will discuss the importance of using and writing documentation the python documentation is a valuable resource for about language features you havent seen yet
+welcome class structure using python documentation writing documentation python builtin installing packages in thonny
+
+
+this will teach you about packages and in python including how to install packages and how to create your own also to use the pygal plotting library
+python packages and importing your own code line plots with pygal installing packages using pip part installing packages using pip part
+
+
+this will teach you about python sets sets are used to hold unordered collections of data without duplicates we will also discuss efficiency
+python sets analyzing the efficiency of your code comparing two methods for joining csv files
+
+
+the final of the will enable you to demonstrate mastery of the concepts you have learned up to this point also be able to understand and compare different approaches to reconciling two data sets
+growing as a scripter wrapup
+</DOC>
+
+<DOC>
+python programming essentials
+this will introduce you to the wonderful world of python programming well about the essential elements of programming and how to construct basic python programs we will cover expressions variables functions logic and conditionals which are foundational concepts in computer programming we will also teach you how to use python which enable you to benefit from the vast array of functionality that is already a part of the python language these concepts and will help you to begin to think like a computer programmer and to understand how to go about writing python programsby the end of the be able to write short python programs that are able to accomplish real practical tasks this is the foundation for building expertise in python programming as the first in a it provides the necessary building blocks for you to succeed at to write more complex python programs this uses python while many python programs continue to use python python is the future of the python programming language this first will use a python version of the codeskulptor development environment which is specifically designed to help beginning programmers quickly codeskulptor runs within any modern web browser and does not require you to install any software allowing you to start writing and running small programs immediately in the later courses we will help you to move to more sophisticated desktop development environments
+
+python as a calculator
+this will expose you to python so that you can run your first simple programs use python to compute the results of arithmetic expressions as you would when using a calculator
+welcome overview hello world python development environments numbers simple expressions compound expressions variables and handling errors in python
+
+functions
+this will teach you how to define and call functions functions allow you to write code once that you can execute repeatedly with different inputs
+what is a function calling functions defining functions local variables understanding function evaluation using print and return in functions
+
+logic and conditionals
+this will teach you how to use logic and conditionals to change the behavior of the based upon values within the
+boolean logic logical expressions comparisons conditionals more conditionals using python documentation following coding standards
+
+python
+this will introduce you to the concept of python allow code to be divided up into different files and reused in different programs python provides many that you can use within your programs
+python the datetime coding the practice part coding the practice part rpsls
+</DOC>
+
+<DOC>
+python data analysis
+this will continue the introduction to python programming that started with python programming essentials and python data representations well about reading storing and processing tabular data which are common tasks we will also teach you about csv files and pythons support for reading and writing them csv files are a generic plain text file format that allows you to exchange tabular data between different programs these concepts and will help you to further extend your python programming knowledge and allow you to process more complex databy the end of the be comfortable working with tabular data in python this will extend your python programming expertise enabling you to write a wider range of scripts using python this uses python while most python programs continue to use python python is the future of the python programming language this uses basic desktop python development environments allowing you to run python programs directly on your computer
+
+dictionaries
+this will teach you about pythons dictionary data type and its capabilities dictionaries are used to map keys to values within programs
+welcome class structure python dictionaries defining a dictionary dictionary lookup and update checking keys handling dictionary errors
+
+tabular data and nested data structures
+this will teach you about storing tabular data within python programs using lists and dictionaries
+iteration over dictionaries tabular data as a nested list tabular data as a nested dictionary displaying dictionaries
+
+tabular data and csv files
+this will teach you the basics of csv files and how to read them from python programs we will discuss the use of pythons csv to help you access tabular data in csv files
+tables and csv files parsing csv files pythons csv csv dictreader csv reader options experimenting with csv methods part experimenting with csv methods part for part
+
+organizing data
+this will teach you how to sort data in python organize and analyze tabular data
+sorting lambda advanced sorting refactoring your code part refactoring your code part for part
+</DOC>
+
+<DOC>
+python data representations
+this will continue the introduction to python programming that started with python programming essentials well about different data representations including strings lists and tuples that form the core of all python programs we will also teach you how to access files which will allow you to store and retrieve data within your programs these concepts and will help you to manipulate data and write more complex python programsby the end of the be able to write python programs that can manipulate data stored in files this will extend your python programming expertise enabling you to write a wide range of scripts using python this uses python while most python programs continue to use python python is the future of the python programming language this introduces basic desktop python development environments allowing you to run python programs directly on your computer this choice enables a smooth transition from online development environments
+
+strings
+this will teach you about pythons string data type and its capabilities strings are used to represent text within programs
+welcome class structure python strings indexing strings searching strings slicing strings answering common python questions
+
+basics of lists
+this will teach you the basics of pythons list data type lists are used to hold a sequence of data within programs
+lists list indexing and slicing splitting and joining strings list searching iteration over lists using thonnys debugger debugging an example
+
+list manipulation
+this will dive further into the use of lists how about mutating the contents of a list and the implications of doing so
+list mutation tuples objects and references understanding list references diagnosing list reference issues
+
+file access
+this will teach you how to access files in python
+opening and reading files reading files using iteration writing files working with file paths
+</DOC>
+

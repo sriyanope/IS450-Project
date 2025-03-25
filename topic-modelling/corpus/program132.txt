@@ -1,0 +1,70 @@
+<DOC>
+exam prep mlsc aws certified specialty machine
+gain to understand the fundamentals of machine learninglearn working with various aws services necessary for machine learninghands on working with aws management consoleprepare for aws certified machine specialty certificationapplied projectlearners will e provided with lab demonstrations based on the topics discussed in the courses that are part of this they will also have the to practice labs on their aws console for hands on demonstrations however these hands on labs are optional to be performed by learners
+</DOC>
+
+<DOC>
+machine implementation and operations in aws
+machine implementation operations in aws is the fifth in the aws certified machine specialty the has a major focus on designing and implementing machine solutions for performance availability scalability resiliency and fault tolerance this is divided into two and each is further segmented by lessons and lectures this facilitates learners with approximately hours lectures that provide both theory and hands on knowledge also graded and ungraded quiz are provided with every in order to test the ability of learners machine implementation operations in awspart machine implementation operations in awspart minimum two year of handson in architecting building or running mldeep workloads on the aws cloud by the end of this learners will be able to design machine solutions for performance availability scalability resiliency and fault tolerance implement appropriate machine services and features for a given problem develop machine solutions with lab
+
+machine implementation and operations in awspart
+welcome to of machine implementation operations in aws well get introduction to the concept of building machine solutions well build machine solutions for performance availability scalability resiliency and fault tolerance by the end of well recommend and implement the appropriate machine services and features for a given problem
+introduction machine implementation and operations build machine solutions for performance availability scalability resiliency and fault tolerance recommend and implement the appropriate machine services and features for a given problempart recommend and implement the appropriate machine services and features for a given problempart amazon fraud detector amazon fraud detector build train and deploy the fraud detector model amazon fraud detector generate fraud detector
+
+machine implementation and operations in awspart
+welcome to of machine implementation operations in aws well apply basic aws security practices to machine solutionswell also deploy and operationalize machine solutions with lab by the end of last well be in position to summarise overall of machine implementation operations in aws
+apply basic aws security practices to machine solutions deploy and operationalize machine solutions with labpart deploy and operationalize machine solutions with labpart aws iot greengrass amazon connect amazon connect demo exam tips of the exam day tips
+</DOC>
+
+<DOC>
+ml algorithms
+ml algorithms is the fourth in the aws certified machine specialty this enables learners to deep dive machine algorithms this is divided into two and each is further segmented by lessons and lectures this facilitates learners with approximately hours lectures that provide both theory and hands on knowledge also graded and ungraded quiz are provided with every in order to test the ability of learners ml algorithms part ml algorithms part minimum two year of handson in architecting building or running mldeep workloads on the aws cloud by the end of this learners will be able to determine algorithm concepts in ml design regression algorithms and classification based algorithms examine reinforcement algorithms and forecasting algorithms
+
+ml algorithms part
+welcome to ofml algorithms well describe algorithm concepts in machine well demonstrate working of regression algorithms ad clustering algorithms additonally well also demonstrate working of classification based algorithms
+introduction to training and evaluating the model algorithm concepts regression algorithmspart regression algorithmspart regression algorithms lab part regression algorithms lab part clustering algorithms clustering algorithms lab classification algorithmspart classification algorithmspart classification algorithms continued classification algorithms lab
+
+ml algorithms part
+welcome to of ml algorithm well describe image analysis algirithms with demonstration on text analysis algorithms by the end of well be able to describe reinforcement algorithms and forecasting algorithms
+image analysis algorithms text analysis algorithms part text analysis algorithms part text analysis algorithms lab reinforcement algorithms forecasting algorithms exam tips
+</DOC>
+
+<DOC>
+modeling in aws
+modeling in aws is the third in the aws certified machine specialty the major focus of this is to train machine models by analyzing modeling concepts in aws this is divided into two and each is further segmented by lessons and lectures this facilitates learners with approximately hours hours lectures that provide both theory and hands on knowledge also graded and ungraded quiz are provided with every in order to test the ability of learners modeling and training machine models in aws machine models performance evaluation and tuning by the end of this learners will be able to analyze modeling concepts and train machine models examine performance of machine models implement automatic model tuning by training a model
+
+modeling and training machine models in aws
+welcome to of modeling in aws well introduce modeling concepts in machine in the beginning well also describe the concept of training machine models the will end with a demonstration on how to train machine models
+introduction to aws machine modeling modeling conceptspart modeling conceptspart train machine model load data eda preprocess train machine models split the dataset train test amazon forecast amazon forecast training forecast amazon forecast generate forecast
+
+machine models performance evaluation and tuning
+welcome to of modeling in aws well deploy and evaluate performance of ml models well also perform automatic model tuning in ml by the end of well train a model after automatic model tuning
+deploy and evaluate performance of machine models lab perform automatic model tuning perform automatic model tuning lab train model after automatic model tuning lab exam tips part exam tips part
+</DOC>
+
+<DOC>
+data engineering in aws
+data engineering in aws is the first in the aws certified machine specialty this helps learners to analyze various data gathering techniques they will also gain insight to handle missing data this is divided into two and each is further segmented by lessons and lectures this facilitates learners with approximately hours lectures that provide both theory and hands on knowledge also graded and ungraded quiz are provided with every in order to test the ability of learners introduction to data engineering feature extraction and feature selection candidate should have at least two years of handson architecting and running ml workloads in the aws cloud one should have basic ml algorithms knowledge by the end of this a learner will be able to understand various datagathering techniques analyze techniques to handle missing data implement feature extraction and feature selection with principal component analysis and variance thresholds
+
+introduction to data engineering
+welcome to of data engineering in aws will begin with understanding sagemaker jupyter notebooks setup well also get an overview of handling and dropping missing datathis will end by analyzing information about gathering data
+welcome to the aws machine specialty certification exam overview of the exam goals of the machine terminology categories machine terminology data engineeringadvanced introduction to machine cycle machine cycle continued how to setup amazon sagemaker environment gathering data
+
+feature extraction and feature selection
+welcome to of data engineering in aws well to perform feature extraction and feature selection with principal component analysis and variance thresholds well also explore feature extraction and feature selection techniques by the end of well analyze aws migration services and tools
+feature extraction and feature selection with principal component analysis and variance thresholds encoding categorical valuespart encoding categorical valuespart numerical engineeringpart numerical engineeringpart text feature editing amazon mechanical turk aws migration services and tools exam tips
+</DOC>
+
+<DOC>
+exploratory data analysis in aws
+exploratory data analysis in aws is the second in the aws certified machine specialty the main focus of this is to analyze data streams and data analytics services in aws along with exploring data analysis in aws this is divided into two and each is further segmented by lessons and lectures this facilitates learners with approximately hours lectures that provide both theory and hands on knowledge also graded and ungraded quiz are provided with every in order to test the ability of learners introduction to data streams and data analytics services in aws exploring data analysis in aws by the end of this a learner will be able to demonstrate the implementation of kinesis data streams analyze and visualize data for machine examine aws glue service with creation of crawler and transform job
+
+introduction to data streams and data analytics services in aws
+introduction to data streams and data analytics services in aws welcome to of exploratory data analysis in aws well analyze working of kinesis data streams and kinesis data firehose well also gain demonstrations on kinesis data streams and kinesis data firehose finally the will end by implementing kinesis streams and kinesis data analytics
+introduction to kinesis data streams and kinesis data firehose kinesis data streams create kinesis streams s bucket lambda hands on building realtime data streaming systemkinesis data stream kinesis data firehose kinesis data firehose create s vpc vpc flow logs kinesis data firehose internet gateway subnet ec instance kinesis data firehose ec logs create subscription filter data delivery to s amazon emr amazon emr launch emr cluster amazon emr submit validate kinesis streams amazon managed service for apache flink
+
+exploring data analysis in aws
+welcome to of the exploratory data analysis in aws we will about aws glue service which is a fully managed extract transform and load etl service that can be used to perform data analysis on aws we will and implement amazon reshift and aws data exchange by the end of the well demonstrate aws glue crawler and create a transform job
+aws glue perform etl with aws glue create glue crawler run glue crawler create glue job validate the output from glue job amazon redshift amazon redshift demo aws data exchange aws data exchange demo analyze and visualize data for machine amazon quicksight analyze and visualize data for machine exam tipspart exam tipspart
+</DOC>
+

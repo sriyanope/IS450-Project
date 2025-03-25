@@ -1,0 +1,110 @@
+<DOC>
+risk management
+this from the new york institute of finance nyif is intended for stem undergraduates finance practitioners bank and investment managers business managers regulators and policymakers this will teach you how to measure assess and manage risk in your organization by the end of the understand how to establish a risk management process using various frameworks and strategies provided throughout the this is intended for those who have an understanding of the foundations of risk management at a beginner level to successfully complete the exercises within the you should have a basic knowledge of statistics and probability and familiarity with financial instruments stocks bonds foreign exchange etc with ms excel recommended applied projectlearners will complete a in the third covering the estimation and analysis of risk in a globally diversified equity portfolio the portfolio will include allocations of equity indexes from the us japan hong kong and germany data for the two years prior to march will be used to convert daily returns in each indexes currency into dollar returns valueatrisk and expected shortfall for the portfolio will be calculated using an equalweighted sample and an exponentially weighted sample learners will then be given a new year data set that includes the market data through august of they will be asked to reevaluate risk for the portfolio using valueatrisk and expected shortfall
+</DOC>
+
+<DOC>
+operational risk management frameworks strategies
+in the final from the risk management be introduced to the different roles in risk governance and the benefits of establishing an operational risk management at your own workplace this will highlight key elements of an operational risk management framework and help you identify the appropriate elements to incorporate in your own by the end of the be able to capture report and investigate operational risk events produce meaningful key risk indicator kri data and trend analysis assess organizational risk appetite and design an operational risk control and selfassessment to be successful you should have a basic knowledge of statistics and probability and familiarity with business operations with ms excel and python recommended
+
+getting started
+in the final from the risk management be introduced to the different roles in risk governance and the benefits of establishing an operational risk management at your own workplace this will highlight key elements of an op risk management framework and help you identify the appropriate elements to incorporate in your own by the end of the be able to capture report and investigate operational risk events produce meaningful key risk indicator kri data and trend analysis assess organizational risk appetite and design an operational risk control and selfassessment to be successful you should have a basic knowledge of statistics and probability and familiarity with business operations with ms excel and python recommended
+welcome to the objectives
+
+operational risk management setup
+well begin by looking at the operational risk management setup
+lesson what is operational risk and how is it managed lesson operational risk as a discipline
+
+operational risk identification tools
+we will look at the tools that operational risk managers use to flag and identify risks
+lesson risk and control selfassessment rcsa lesson key risk performance and control indicators lesson riskbased business process management
+
+operational risk measurement and analysis
+in well look at how you collect operational risk data to measure and analyze risk well also look at how you calculate regulatory risk capital requirements for unexpected losses and how to create scenario analyses
+lesson risk event data collection lesson capital requirements lesson scenario analysis
+
+operational risk framework and governance
+four will cover the management and governance framework of operational risk
+lesson operational risk framework lesson operational risk corporate governance benefits of operational risk governance
+
+end of
+reading plugin
+</DOC>
+
+<DOC>
+introduction to risk management
+what is risk why do firms manage risk be introduced to the different types of business and financial risks their sources and best practice methods for measuring risk this will help you gauge different risk types and set risk limits describe the key factors that drive each type of risk and identify the steps needed to choose probability distributions to estimate risk explore the history and development of risk management as a science and financial and business trends that have shaped the practice of risk management by the end of the have the essential knowledge to measure assess and manage risk in your organization to be successful you should have a basic knowledge of statistics and probability and familiarity with financial instruments stocks bonds foreign exchange etc with ms excel recommended
+
+getting started
+this will introduce you to different types of business and financial risk how these risks are measured and also gain an understanding of the goals and benefits of risk management the that gain by the end of this will enable you to measure and manage risk in your organization
+
+overview of risk management
+about financial and business risks also get introduced to the various types of financial risks and about their sources and how firms manage risks well also look at the difference between risk measurement and risk management lets get started
+what is risk measuring different types of risk
+
+types of business and financial risks
+about the four main types of financial risk then about the best measures to use to gauge different risk types and set risk limits also how investment managers maximize portfolio returns while keeping risk within their tolerances and then apply these techniques to a portfolio construct
+market risk measuring market risk portfolio construction capital asset pricing model capm introduction presettlement and settlement risk credit risk components overview of credit risk introduction to operational risk introduction to enterprise risk
+
+money capital markets and regulatory
+the difference between money and capital markets also to differentiate among the regulatory structures us uk and eu and understand how regulatory structures impact your firm
+the financial system money and capital markets us regulatory structures uk regulatory structures eu regulatory structures
+
+introduction to risk modeling
+about the factors that drive each type of risk and then use these factors to create distributions density functions explore nonparametric measures of loss distributions such as scenario analysis and stress testing
+what is scenario analysis scenario example what is stress testing purpose of stress testing case study when unconventional becomes conventional
+
+end of
+youve come to the end of the lets wrap up with a quick of the key takeaways of this
+</DOC>
+
+<DOC>
+credit risk management frameworks and strategies
+use business and industry analysis to understand companies business models and financing proposals then prepare qualitative risk analysis for specific companies to use as the basis for financial analysis analysis and risk decisions lastly understand how to use financial ratios and financial metrics to evaluate a company or profitability balance sheet capital structure and cash flow to assess overall financial performance and risk profile
+
+getting started
+this will introduce you to the credit risk management principles and concepts also about default trends market indicators and portfolio management
+
+principles and concepts
+well cover the principles and concepts of credit risk management well review the purpose benefits and analytical approaches to credit analysis and explore the integrated financial story conclusions and risk decisionmaking well also cover corporate balance sheets and analyze credit exposures well look at credit risk outlook and strategy expected loss risks and rewards and finally wrap up with a look at debt investors and debt and funding products
+topic the basics topic credit and financial analysis topic understanding ratings topic products and exposures topic expected loss topic understanding defaults topic risks vs rewards topic debt investors topic assigning ratings
+
+default trends and market indicators
+well cover credit markets trends and recent activity well look at credit spreads default rates default frequencies and default probabilities well also look at market indicators bond spreads credtdefaultswap markets and credit models well wrap up this with a look at credit markets and analysis during the pandemic defaults and bankruptcies
+topic understanding default trends topic defaults and bankruptcies in a review topic credit deterioration vs credit default topic introduction to market indicators topic overview of credit models
+
+credit portfolio management
+well cover principles concentration risks and correlation risks well cover credit deterioration vs credit default and creditrisk mitigation well wrap up this with a look at credit derivatives and review the lessons learned from past crises
+topic an introduction topic understanding credit value at risk topic introduction to risk mitigation topic various riskmitigation tools topic credit mitigation securitization creditdefaultswap
+
+end of
+youve come to the end of the lets wrap up with a quick of the key takeaways of this
+</DOC>
+
+<DOC>
+market risk management frameworks strategies
+this provides the foundation for understanding the frameworks used to develop market risk management strategies identify the market risks associated with each type of financial instrument be introduced to techniques for estimating the risk associated with each class of investments by the end of the be able to select the most effective derivatives for managing risk of a single asset and a portfolio of assets develop asset selection strategies for managing risk in a portfolio and model risk associated with a single asset and a portfolio of assets learners will complete a covering the estimation and analysis of risk in a globally diversified equity portfolio the portfolio will include allocations of equity indexes from the us japan hong kong and germany data for the two years prior to march will be used to convert daily returns in each indexes currency into dollar returns valueatrisk and expected shortfall for the portfolio will be calculated using an equalweighted sample and an exponentially weighted sample learners will then be given a new year data set that includes the market data through august of they will be asked to reevaluate risk for the portfolio using valueatrisk and expected shortfall
+
+getting started
+this provides the foundation for understanding the frameworks used to develop market risk management strategies identify the market risks associated with each type of financial instrument be introduced to techniques for estimating the risk associated with each class of investments by the end of the be able to select the most effective derivatives for managing risk of a single asset and a portfolio of assets develop asset selection strategies for managing risk in a portfolio and model risk associated with a single asset and a portfolio of assets
+
+financial instruments
+in one well look at the different types of financial instruments that are the source of market risk well first look at bonds and then at equities and lastly well explore derivatives
+welcome to financial instruments bonds equities derivatives and managing market risk
+
+measuring and analyzing market risk
+now that weve had a complete look at different financial instruments and derivatives take a look at measuring and analyzing market risk first from the perspective of probabilistic measures and then second from the perspective of statistical measures
+welcome to measuring and analyzing market risk determining probability of a loss statistical measures
+
+managing and modeling market risk
+now you have a good understanding of the risks that are inherent in different types of financial instruments and also of the derivatives that you can use to hedge those risks you also are familiar with different methods for measuring and analyzing each type of market risk now we will look at how risk managers model and manage market risk
+welcome to managing and modeling market risk market risk measurement systems downside risk measures stress testing and scenario analysis
+
+
+reading
+market risk management part i market risk management part ii market risk management part iii
+
+end of
+reading plugin
+</DOC>
+

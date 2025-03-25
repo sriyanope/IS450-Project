@@ -1,0 +1,89 @@
+<DOC>
+financial technology fintech innovations
+this is intended to familiarize learners with a broad range of financial technologies while finance has always been at the forefront of technological innovation the financial industry is changing rapidly in the face of new technology in the past at the forefront of innovation in finance were central governments and financial institutions today information technology firms and professionals are leading innovation in the financial industryour goal is to show learners the genesis and use cases of the technology we hope to familiarize professionals sufficiently with the technology that they can utilize and adapt the technologies in their careersapplied projectstories are a part of the human we all have our own stories to tell but they are also excellent tools for these courses will utilize a storytelling approach that will invite you into the role of a character embedded in a context directly related to the content with which be engaging this approach will help you relate to the information presented push you to apply your knowledge and to a novel context and give you and other learners a shared on which to reflect
+</DOC>
+
+<DOC>
+raising capital credit tech coin offerings and crowdfunding
+consider the benefits and challenges of disruptive capitalraising technologyadvances in technology have both systematized and democratized consumers and business access to capital explore the ways in which technology has transformed access to consumer credit and access to seed capital for business examine disruptive technologies in credit scoring raising capital through tokenization and the evolution of crowdfunding for both debt and equity financing also how to differentiate between cryptobased capitalraising models
+
+introduction and what is fintech
+discussion prompt
+fintech innovations series map and goals fintech innovations series introduction
+
+what is credittech
+discussion prompt
+credit and its price credit analysis and scoring data analysis and credit part data analysis and credit part
+
+crowdfunding icos
+discussion prompts
+capital structure in the age of fintech platform lendingtechnology and business models platform lending types and risks crowdfunding reward based models crowdfunding equity based models crowdfunding crypto based models ico pricing compliance and returns
+
+smart banking fintech banks and bankingasservice
+discussion prompt
+bankingasaservice baas concept bankingasaservice baas implementation
+</DOC>
+
+<DOC>
+the future of payment technologies
+discover the future of payment technology from mobile payments to tokenizationin this new ways of making payments from consumertobusiness cb from consumertoconsumer cc and from businesstobusiness bb explore current payment system technologies to examine their strengths and weaknesses and understand the ways technological innovation is changing these traditional systems about new frontend innovations like digital wallets and mobile payments and also discover backend innovations like tokenization mobile money and new payment infrastructure
+
+introduction and what is fintech
+discussion prompt
+fintech innovations series map and goals fintech innovations series introduction
+
+digital wallets
+discussion prompt
+introduction to fintech innovations in the payment sector the checking system and the importance of financial intermediation electronic fund transfers using automated clearing house ach pure digital wallets from pure wallet to payment ecosystem socialnetworkbased payment innovations
+
+credit card innovations
+discussion prompt
+origin of the credit card network credit card network key stakeholders and business models the credit card network advantages and inefficiencies innovations that make credit card transactions more secure innovations that make credit card transactions more secure cont innovations that expand credit cards customer base
+
+payment technology in emerging markets
+discussion prompt
+mpesa paytech in developing markets mpesa business model mpesa business model continued paytech in india
+</DOC>
+
+<DOC>
+blockchain and cryptocurrency explained
+the sudden rise in the value of bitcoin and other cryptocurrencies and its subsequent decline focused the worlds attention on cryptocurrencies as a means of payment blockchain technology powers bitcoin and has been hyped as the next new transformative technologyin this we first discuss the technical underpinnings of blockchain and review key concepts such as decentralization and consensus algorithms we then examine blockchain as an asset and review the dynamics of the cryptocurrency markets finally we examine blockchain as a business solution with a focus on understanding business cases in which blockchain does and does not make sense
+
+introduction
+discussion prompt
+fintech innovations series map and goals fintech innovations series introduction
+
+introduction to blockchain and crypto
+discussion prompt
+introduction introduction to blockchain classifying blockchain technologies identities on the blockchain blockchain data blockchain network and data processing blockchain consensus what is it and why do we need it blockchain consensus generic consensus models putting the concepts together reading an actual blockchain
+
+blockchain as an asset
+discussion prompt
+introduction to bitcoin proofofwork mining concept proofofwork mining implementation proofofwork mining business models examples of alternative consensus protocols proofofstake introduction to ethereum smart contract the concept smart contract the application
+
+blockchain as a business
+discussion prompt
+blockchain as an asset overview of the cryptocurrency market buying and selling cryptocurrencies overview wallet key storage buying and selling cryptocurrencies using crypto exchanges key crypto risk factors exchange risks key crypto risk factors supply cybersecurity and centralization crypto risk factors utility and sentiment
+</DOC>
+
+<DOC>
+innovations in investment technology artificial intelligence
+explore the evolution of ai investing and online wealth managementinvesting and managing your wealth online has never been easier but how does ai investing and what are the challenges on this explore how technology has changed the way we invest money consider the evolution of aidriven online wealth management platforms roboadvisors and how they and why theyre successful moving from humanbased datadriven investing strategies to neural networks assess the ability of artificial intelligence to make investment decisions and discover the role of ai and machine in making trading decisions
+
+introduction
+discussion prompt
+fintech innovations series map and goals fintech innovations series introduction
+
+robo advising
+discussion prompt
+expected returns standard deviations and correlation building an efficient portfolio diversified investments exchange traded funds roboadvisors how do pure advisors roboadvisors actually roboadvising the value add of robo advisors
+
+stock selection asset management
+discussion prompt
+stock selection fundamental analysis the passive benchmark stock selection fundamental analysis manager performance stock selection screening stock selection screening discovering signals and data issues stock selection neural networks stock selection smart beta what is smart beta stock selection smart beta creating a smart beta index stock selection smart beta tilts
+
+big data
+discussion prompt
+demystifying the business of ai machine big data aiml in investment management current applications aiml in investment management key value drivers and pitfalls
+</DOC>
+

@@ -1,0 +1,70 @@
+<DOC>
+cloudnative development with openshift and kubernetes
+this is intended for application developers system administrators and architects seeking to develop their understanding of container technology threecourse explore a range of foundational concepts from various use cases for containerized technology to understanding the differences between kubernetes and red hat openshift to how to scale deployed applicationsapplied projectthese courses include detailed handson exercises stepbystep guides which teach a range of concepts from the foundation concepts of containerized applications to deploying containerized applications to kubernetes and openshift after completing this you should have a foundational understanding of how to develop deploy scale and troubleshoot containerized applications to kubernetes and openshift
+</DOC>
+
+<DOC>
+managing cloudnative applications with kubernetes
+managing cloudnative applications with kubernetes dob is designed for it professionals without previous cloud application deployment to basic kubernetes this is the second of a threecourse run deploy and test containerized applications with zerodowntime releases
+
+deploying managed applications
+introduce the deployment resource and link to container management
+introduction managing containers creating a deployment understanding the schema of a deployment resource guided exercise deploying managed applications
+
+configuring networking in kubernetes
+introduce communication between kubernetes applications and the rest of the world
+kubernetes networking introducing kubernetes services discovering kubernetes services guided exercise exposing applications for external access kubernetes ingress kubernetes ingress controller ingress resource configuration testing your ingress guided exercise exposing applications for external access ingress resources
+
+customize deployments for application requirements
+advanced container management features
+defining resource requests and limits for pods viewing requests limits and actual usage applying quotas applying limit ranges guided exercise limiting resource usage proving liveness readiness and startup methods of checking application health creating probes guided exercise proving liveness readiness and startup externalizing application configuration in kubernetes using secret and configuration map resources creating and managing secrets and configuration maps injecting data from secrets and configuration maps into applications application configuration options exploring environment variables guided exercise configuring cloud applications
+
+implementing cloud deployment strategies
+compare different cloud deployment strategies
+deployment strategies in kubernetes implementing advanced deployment strategies using the kubernetes router guided exercise implementing cloud deployment strategies next steps
+</DOC>
+
+<DOC>
+foundations of red hat cloudnative development
+foundations of red hat cloudnative development doa is designed for it professionals without previous cloud application deployment to basic kubernetes this is a part of a threecourse run deploy and test containerized applications with zerodowntime releases
+
+introducing containers and kubernetes
+describing containers and container orchestration with kubernetes
+introduction introducing containers and container engines introducing kubernetes and container orchestration
+
+running containerized applications
+spinup your first application in kubernetes
+contrasting kubernetes distributions guided exercise contrasting kubernetes distributions introducing kubectl guided exercise introducing kubectl running and interacting with your first application guided exercise running and interacting with your first application next steps
+</DOC>
+
+<DOC>
+advanced application management with red hat openshift
+this explores red hat openshift container platform rhocp as a container orchestration platform students will deploy applications to openshift students will how to let rhocp containerize their source code how to scale the deployments and how to troubleshoot issues with the deployments
+
+configuring a cloud application developer environment
+configure a developer environment with a modern integrated developer environment and version control
+introduction developing applications with vscode guided exercise developing applications with vscode software version control source control in vscode guided exercise initializing a git repository managing application source code with git collaboration strategies using git git branching in vs code guided exercise managing application source code with git
+
+deploying applications to red hat openshift container platform
+deploy an application to openshift
+introducing openshift container platform introducing the developer web console for openshift guided exercise deploying an application to red hat openshift container platform
+
+configuring application builds in openshift
+manage application builds in red hat openshift container platform
+updating an application guided exercise updating an application configuring application secrets guided exercise configuring application secrets connecting an application to a database guided exercise connecting an application to a database
+
+scaling applications in openshift
+scale and test an application with red hat openshift container platform
+
+troubleshooting applications in openshift
+identify and resolve common problems in red hat openshift container platform
+troubleshooting and fixing an application guided exercise troubleshooting and fixing an application
+
+deploying containerized applications on openshift
+deploy single container applications on openshift container platform
+describing kubernetes and openshift architecture creating kubernetes and openshift resources guided exercise deploying a database server on openshift creating routes guided exercise exposing a service as a route creating applications with sourcetoimage guided exercise creating a containerized application with sourcetoimage
+
+comprehensive review
+reading
+</DOC>
+

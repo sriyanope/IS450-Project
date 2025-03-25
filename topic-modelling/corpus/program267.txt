@@ -1,0 +1,90 @@
+<DOC>
+microsoft azure ai fundamentals ai exam prep
+this is intended for anyone interested in preparing for the certified ai microsoft azure ai fundamentals exam this consists of courses to help prepare you to take the certification examyou will acquire foundational knowledge of the core concepts related to artificial intelligence ai and the services in microsoft azure that can be used to create ai solutions this is an to demonstrate knowledge of common ml and ai workloads and how to implement them on azureby the end of this be ready to take and signup for the ai exam the ai fundamentals exam is an to demonstrate your knowledge of how to create ai solutions on microsft azure each teaches you the core concepts and that are measured by the examazure ai fundamentals can be used to prepare for other azure rolebased certifications like azure data scientist associate or azure ai engineer associate but its not a prerequisite for any of themthis will prepare you to take the ai microsoft azure ai fundamentals exam upon completion of the be offered a discount to the microsoft azure ai fundamentals certification exam to be redeemed at pearson vue microsofts proctor exam site limited discount vouchers are available on firstcomefirstserve basis coursera and microsoft may end the offer at any timeapplied projectyou will engage in interactive exercises throughout this that offers to practice and implement what you are use the microsoft sandbox and directly with services and resources on microsoft azure portal explore microsoft azure and get handson with live microsoft azure resources and services the beauty about this is that be working with real technology but in a controlled environment which allows you to apply what you and at your own paceyou will need a microsoft account to sign into the sandbox and use azure services if you dont have one you can create one for free the sandbox allows free fixedtime access to a cloud subscription with no credit card required learners can safely explore create and manage resources without the fear of incurring costs or breaking production
+</DOC>
+
+<DOC>
+natural language processing in microsoft azure
+natural language processing supports applications that can see hear speak with and understand users using text analytics translation and language understanding services microsoft azure makes it easy to build applications that support natural languagein this how to use the text analytics service for advanced natural language processing of raw text for sentiment analysis key phrase extraction named entity recognition and language detection how to recognize and synthesize speech by using azure cognitive services gain an understanding of how automated translation capabilities in an ai solution enable closer collaboration by removing language barriers be introduced to the language understanding service and shown how to create applications that understand language this will help you prepare for exam ai microsoft azure ai fundamentals this is the fourth in a fivecourse that prepares you to take the ai certification exam this teaches you the core concepts and that are assessed in the ai fundamentals exam domains this beginner is suitable for it personnel who are just beginning to with microsoft azure and want to about microsoft azure offerings and get handson with the product microsoft azure ai fundamentals can be used to prepare for other azure rolebased certifications like microsoft azure data scientist associate or microsoft azure ai engineer associate but it is not a prerequisite for any of them this is intended for candidates with both technical and nontechnical backgrounds data science and software engineering is not required however some general programming knowledge or would be beneficial to be successful you need to have basic computer literacy and proficiency in the english language you should be familiar with basic computing concepts and terminology general technology concepts including machine and artificial intelligence concepts
+
+text and speech processing with azure ai services
+how to use the text analytics service for advanced natural language processing over raw text for sentiment analysis key phrase extraction named entity recognition and language detection also how to recognize and synthesize speech by using azure cognitive services
+introduction to explore natural language processing what is text analytics get started with text analytics on azure recognize and synthesize speech get started with speech on azure weekly
+
+with language in azure ai
+well introduce you to the language understanding service and show how to create applications that understand language
+what is literal and semantic translation get started with translation in azure what is language understanding getting started with language understanding weekly
+
+explore conversational ai
+how to use conversational ai ito create artificial intelligence workloads that deals with dialogs between ai agents and human users
+what is conversational ai get started with qna maker and azure bot service weekly
+</DOC>
+
+<DOC>
+computer vision in microsoft azure
+in microsoft azure the computer vision cognitive service uses pretrained models to analyze images enabling software developers to easily build applicationssee the world and make sense of it this ability to process images is the key to creating software that can emulate human visual perception explore some of these capabilities as you how to use the computer vision service to analyze imagesthis will help you prepare for exam ai microsoft azure ai fundamentals this is the third in a fivecourse that prepares you to take the ai certification exam this teaches you the core concepts and that are assessed in the ai fundamentals exam domains this beginner is suitable for it personnel who are just beginning to with microsoft azure and want to about microsoft azure offerings and get handson with the product microsoft azure ai fundamentals can be used to prepare for other azure rolebased certifications like microsoft azure data scientist associate or microsoft azure ai engineer associate but it is not a prerequisite for any of them this is intended for candidates with both technical and nontechnical backgrounds data science and software engineering is not required however some general programming knowledge or would be beneficial to be successful you need to have basic computer literacy and proficiency in the english language you should be familiar with basic computing concepts and terminology general technology concepts including concepts of machine and artificial intelligence
+
+analyze and classify images with the computer vision service
+the computer vision cognitive service uses pretrained models to analyze images enabling software developers to easily build applications explore some of its capabilities as you how to use the computer vision service to analyze images
+introduction to computer vision in microsoft azure what is computer vision get started with image analysis on azure what is image classification get started with image classification on microsoft azure weekly
+
+detect objects in images with the custom vision service
+image classification is a common workload in artificial intelligence ai applications how to harnesses the predictive power of machine to enable ai systems to identify realworld items based on images
+what is object detection get started with object detection on microsoft azure weekly
+
+analyze faces text and receipts with azure ai
+face detection analysis and recognition is an important capability for artificial intelligence ai solutions the face cognitive service in azure makes it easy integrate these capabilities into your applications optical character recognition ocr enables artificial intelligence ai systems to read text in images enabling applications to extract information from photographs scanned documents and other sources of digitized text processing invoices and receipts is a common task in many business scenarios increasingly organizations are turning to artificial intelligence ai to automate data extraction from scanned receipts how you can use a mix of these services in microsoft azure to solve problems
+what is face detection get started with face analysis on microsoft azure what is optical character recognition get started with ocr on microsoft azure what is receipt analysis get started with receipt analysis on azure weekly
+</DOC>
+
+<DOC>
+microsoft azure machine
+machine is at the core of artificial intelligence and many modern applications and services depend on predictive machine models training a machine model is an iterative process that requires time and compute resources automated machine can help make it easier how to use azure machine to create and publish models without writing codethis will help you prepare for exam ai microsoft azure ai fundamentals this is the second in a fivecourse that prepares you to take the ai certification exam this teaches you the core concepts and that are assessed in the ai fundamentals exam domains this beginner is suitable for it personnel who are just beginning to with microsoft azure and want to about microsoft azure offerings and get handson with the product microsoft azure ai fundamentals can be used to prepare for other azure rolebased certifications like microsoft azure data scientist associate or microsoft azure ai engineer associate but it is not a prerequisite for any of them this is intended for candidates with both technical and nontechnical backgrounds data science and software engineering is not required however some general programming knowledge or would be beneficial to be successful you need to have basic computer literacy and proficiency in the english language you should be familiar with basic computing concepts and terminology general technology concepts including concepts of machine and artificial intelligence
+
+use automated machine in azure machine
+training a machine model is an iterative process that requires time and compute resources automated machine can help make it easier how to identify different kinds of machine model and how to use the automated machine capability of azure machine to train and deploy a predictive model
+introduction to create nocode predictive models with azure machine azure machine to train and deploy a predictive model weekly
+
+create a regression model with azure machine designer
+regression is a supervised machine technique used to predict numeric values how to create regression models using azure machine designer
+what is regression weekly
+
+create a classification model with azure ai
+classification is a supervised machine technique used to predict categories or classes how to create classification models using azure machine designer
+what is classification weekly
+
+create a clustering model with azure ai
+clustering is an unsupervised machine technique used to group similar entities based on their features how to create clustering models using azure machine designer
+what is clustering weekly
+</DOC>
+
+<DOC>
+preparing for ai microsoft azure ai fundamentals exam
+microsoft certifications give you a advantage by providing globally recognized and industryendorsed evidence of mastering in digital and cloud businesses prepare to take the ai microsoft azure ai fundamentals certification exam refresh your knowledge of fundamental principles of machine on microsoft azure go back over the main consideration of ai workloads and the features of computer vision natural language processing nlp and conversational ai workloads on azure in short recap all the core concepts and that are measured by the exam test your knowledge in a series of practice exams mapped to all the main topics covered in the ai exam ensuring youre well prepared for certification success prepare to pass the certification exam by taking practice tests with similar formats and content also get a more detailed overview of the microsoft certification and where you can go next in your also get tips and tricks testing strategies useful resources and information on how to sign up for the ai proctored exam by the end of this be ready to signup for and take the az exam this is intended for candidates with both technical and nontechnical backgrounds data science and software engineering is not required however some general programming knowledge or would be beneficial to be successful you need to have basic computer literacy and proficiency in the english language you should be familiar with basic computing concepts and terminology general technology concepts including concepts of machine and artificial intelligence
+
+prepare for the ai microsoft azure ai fundamentals exam
+also have access to resources that will help you to prepare for the proctored exam enhance your study techniques and help develop successful exam strategies have an to explore some other microsoft certifications paths that can help to advance your
+introduction lesson introduction jobs and careers lesson introduction testing strategy tips and tricks
+
+exam prep
+have an to recap some of the key points from courses of the microsoft ai ai fundamentals and take a practice exam that covers the related measured in the ai certification exam
+lesson introduction recap of topics and key concepts covered in artificial intelligence on microsoft azure lesson introduction recap of topics and key concepts covered in microsoft azure machine
+
+exam prep
+have an to recap some of the key points from courses of the microsoft ai ai fundamentals and take a practice exam that covers the related measured in the ai certification exam
+lesson introduction recap of topics and key concepts covered in computer vision in microsoft azure lesson introduction recap of topics and key concepts covered in natural language processing in microsoft azure
+
+exam prep
+take a practice exam that covers the measured in the exam ai microsoft azure ai fundamentals
+lesson introduction support information congratulations whats next now that youve passed the exam
+</DOC>
+
+<DOC>
+artificial intelligence on microsoft azure
+whether youre just beginning to with artificial intelligence ai or you already have ai and are new to microsoft azure this provides you with everything you need to get started artificial intelligence ai empowers amazing new solutions and and microsoft azure provides easy to use services to help you build solutions that seemed like science fiction a short time ago enabling incredible advances in health care financial management environmental protection and other areas to make a better world for everyonein this the key ai concepts of machine anomaly detection computer vision natural language processing and conversational ai see some of the ways that ai can be used and explore the principles of responsible ai that can help you understand some of the challenges facing developers as they try to create ethical ai solutions this will help you prepare for exam ai microsoft azure ai fundamentals this is the first in a fivecourse that prepares you to take the ai certification exam this teaches you the core concepts and that are assessed in the ai fundamentals exam domains this beginner is suitable for it personnel who are just beginning to with microsoft azure and want to about microsoft azure offerings and get handson with the product microsoft azure ai fundamentals can be used to prepare for other azure rolebased certifications like microsoft azure data scientist associate or microsoft azure ai engineer associate but it is not a prerequisite for any of them this is intended for candidates with both technical and nontechnical backgrounds data science and software engineering is not required however some general programming knowledge or would be beneficial to be successful you need to have basic computer literacy and proficiency in the english language you should be familiar with basic computing concepts and terminology general technology concepts including concepts of machine and artificial intelligence
+
+artificial intelligence workloads and considerations
+artificial intelligence ai empowers amazing new solutions and and microsoft azure provides easytouse services to help you get started see how artificial intelligence enables the creation of powerful solutions to many kinds of problems ai systems can exhibit human characteristics to analyze the world around them make predictions or inferences and act on them in ways that we could only imagine a short time ago also see how with this power comes responsibility as developers of ai solutions we must apply principles that ensure that everyone benefits from ai without disadvantaging any individual or section of society
+introduction to the ai fundamentals introduction to artificial intelligence on azure careers in ai the ai certification microsoft expert interview lesson introduction the features of machine anomaly detection computer vision natural language processing conversational ai responsible ai weekly
+</DOC>
+

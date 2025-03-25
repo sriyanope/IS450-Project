@@ -1,0 +1,156 @@
+<DOC>
+privacy and standardisation
+welcome to this about privacy and standardisation we are thrilled to see that you are interested and will provide you with a comprehensive study of the intriguiging subject of privacy and standardisation in the context of technological innovation we hope this will enthuse you to look further into privacy personal data regulation and standardisation especially in the light of recent events it becomes more important to know about your alleged rights and freedoms the courses on privacy provide you with a historical perspective on the developments of privacy rights in an international context the on standardisation shows you the legal context and the scalable power of standardisation both topics are presented in a technological context the on privacy in the western world provides you with the differences between the usa and europe and the details of europe and usa will be explained extensively in the followup coursesthe will help you build a comprehensive opinion and it will challenge you in all areas of presentday privacy protection it will link historic milestones to current limitations and offer you a journey through jurisdictions and technological fields alikethrough lectures and quizzes we endeavor to build a solid foundation for you to construct a wellfounded opinion on privacy and standardisation last but not least we sincerely hope you enjoy the profmrdr jan smitsapplied projectthe capstone will require you to carefully consider all you have learned in the courses about privacy and standardisation and detail your opinion the assessment will mainly be done by indepth use the few practice exercises well to give you a head start in the graded
+</DOC>
+
+<DOC>
+privacy in europe
+explore the intricacies of european privacy law focused designed as a followup to privacy in the western world this places a strong focus on the european legal framework which bases its privacy protection on seminal human rights treaties such as the un declaration on human rightsyoull gain insights into the historical context that shaped europes approach to privacy beginning with economic cooperation initiatives set up to prevent another conflict after the devastating effects of world war ii as you progress how this cooperative framework expanded to address critical issues including the paramount importance of respecting human rights and increasingly the protection of individual privacya subject that has attracted substantial global attention dive into the legal elements that have played a key role in formalizing the notion of privacy and its legal protection specifically examine the rules governing the exchange of personal data between the usa and europe and delve into the foundational legal components that make up the general data protection regulation gdpr upon completing this have a thorough understanding of both the key legal elements and the historical context that led to the development of privacy protection in europe ready to expand your knowledge and become proficient in european privacy law enroll now to ensure you dont miss this
+
+human rights and economic cooperation in europe
+european privacy protection is based upon human rights treaties both on a european level as well global level such as eg the un declaration on human rights first we deal with how the european cooperation came into being after the devastating effects of world war ii economic cooperation was deemed necessary to prevent another war from economic cooperation other issues became part of the negotiations and to this day more and more policy fields have become part of the european cooperation
+introduction council of europe european convention on human rights economic cooperation charter of fundamental rights of the european union privacy within european union context
+
+european legal system
+this european legal system is based on ancient roman law and as such one of the oldest in the world this focuses on the privacy aspects of the european legal system and explains some of its history its first legislation on data protection and privacy and their link to human rights finally the enforcement institutes and their role are discussed
+european legal system introduction oecd privacy principles legal system enactments echr charter of the european union european court of human rights court of justice podcast civil protection
+
+case law
+european privacy law was and continues to be shaped by rulings and judgements by national and european courts we travel through the historically most impactful cases trending from the human rights aspect towards the complete data protection nowadays
+case law introduction human dignity leserbrief case informational selfdetermination census case eu law and human rights right to be forgotten protection against government klass case protection against government digital ireland case protection against government schrems vs facebook case
+
+gdpr main elements
+nowadays privacy and data in europe is protected by the general data protection regulation gdpr all previous treaties directives and regulations have led towards this regulation as a result the gdpr is very comprehensive this will introduce the principles the regulation is based on and discuss most of its main elements as one of the most progressive piece of legislation globablly it inspires other law makers to apply similar approaches in their legal system the californian state for example in
+gdpr main elements introduction gdpr principles gdpr personal data gdpr parties gdpr data protection officer data protection authority gdpr consent gdpr lawful processing gdpr privacy impact assessment gdpr privacybydesign gdpr sanctions
+
+individual rights
+one of the unique approaches the gdpr takes is the rights it gives individuals to protect their data we shortly introduce each of them providing you with the framework of the european privacy protection
+individual rights introduction right to be informed right of access right to rectification right to erasure right to restrict processing right to data portability right to object rights related to automated decision making personal data breaches
+
+additional reading
+this is entirely dedicated to delve deeper in the subject of data protection and privacy we provide you with additional reading material that will not be graded or required in the final examination however we strongly advise you to scan or read through this not only help you gain a better understanding of data protection law but also form a independent opinion on the subject
+
+examination
+the final quiz and for you to demonstrate that you mastered the content of this good luck
+</DOC>
+
+<DOC>
+privacy in the usa
+enhance your understanding of privacy laws with our focused on american privacy law a natural progression after completing privacy in the western world this is designed to give you a comprehensive view of how privacy is protected within the american legal frameworkthe begins by examining the constitutional protection afforded by the th amendment which acts as a critical safeguard against unwarranted governmental intrusion further explore a range of consumer protection laws that encompass various sectors like health and finance additionally the details specific laws designed to protect the privacy of multiple forms of communication including mobile telephony email and online searches upon successful completion be wellprepared to understand and follow ongoing legal developments in the american context of privacy protection elevate your understanding of privacy in the american context enroll today to get started
+
+introduction
+after having followed privacy in the western world you have become acquinted with the overall global legal system and the origins of privacy as a concept as well as privacy as a human right this deals with the constitutional and the overall legal system of privacy protection in the usa
+introduction why privacy matters privacy issues in the usa
+
+overview history usa
+before we dive into the current situation of privacy and personal data protection we visit the roots of the us legal system related to privacy by taking you through some of the most iconic and important american laws and rights we hope you realize the tremendous depth and range of the subject also we provide valuable insight in the development and basics of privacy law and regulation in the united states
+introduction and franklin bill of rights warren brandeis kennedy origins
+
+the legal system
+the american legal system can seem quite complex and confusing however to grasp the intricacies of privacy and data protection regulation it is important to know the basic concepts of american law we will start with the foundation of all legislation the declaration of independence and the us constitution from there we will advance to the consumer laws and internet service provider laws to complete your background knowledge
+legal introduction constitution consumer protection laws isp laws
+
+constitution and bill of rights
+this will delve deeper into the constitution and the bill of rights here privacy and data protection stemming from these rights and also how the legal development originated from their texts go through various cases important verdicts andor implications that shaped privacy and data protection will be dealt with
+th amendment reasonable expectation of privacy consent and third party principle automobile exception content noncontent public and private
+
+consumer rights
+we hope you have realized the huge role of consumer rights and consumer protection laws in the united states their essential property they only apply to the area they are designed for this means there can be huge discrepancies in privacy protection between for example your health care data financial data online data we will explore the wild west of the privacy legislation and their current place in personal data protection
+general privacy as economic good consumer protection elements notice and choice
+
+telecommunications and internet service providers
+the st century is perhaps most aptly characterized by the rise and huge societal importance of the internet and social media accompanying this rise of popularity also sparked the discussion of the all personal data that is suddenly online and how peoples privacy should be respected and protected nonetheless this final chapter deals with the issues and limitations and even visits the intelligence services use and rights to your online data
+correspondance fisa fisc sca patriot freedom cloud privacy shield
+
+examination
+the final quiz and for you to demonstrate that you mastered the content of this good luck
+</DOC>
+
+<DOC>
+privacy standardisation capstone
+embark on the concluding in our privacy standardisation with this comprehensive capstone building on your existing expertise from previous coursesincluding standardisation technology privacy in the western world privacy in the usa and privacy in europethis capstone aims to deepen your understanding of contemporary privacy challengesmove beyond the quizzes that marked your progress in earlier courses here engage with thoughtprovoking designed to bring together all your acquired knowledge through these comprehensive tasks examine the evolution of privacy norms bridge historical milestones with current limitations and analyze privacy across jurisdictions and technological fields take full advantage of the preliminary practice exercises to prepare for the graded that will be your main form of assessment are you prepared to consolidate your understanding of privacy issues in a global context enroll now to solidify your expertise and become proficient in the complexities of modern privacy standards
+
+introduction
+welcome to the capstone on the on privacy standardisation this capstone will build on the knowledge you obtained in the courses standardisation technology privacy in the western world privacy in the usa and privacy in europe the capstone will help you build a comprehensive opinion and it will challenge you in all areas of presentday privacy protection the invite you to use and revisit the material of all the courses this capstone will link historic milestones to current limitations and offer you a journey through jurisdictions and technological fields alike whereas in the previous courses you were assessed by quizzes the capstone will require you to carefully consider all you have learned so far and detail your opinion the assesment will mainly be done by indepth use the few practice exercises well to give you a head start in the graded
+
+how to read through legal documents
+before diving into the legal elements of privacy and data protection it is important to recognize the structure of legal documents and relevance of passages first we encourage you to scan through the text and ensure you know what the different recitals and articles encompass remember in which articles specific information can be found the following instruction and exercises will help you to find specific information and give you tools to study the reasoning in legal documents often hidden in plain sight
+
+what are the differences
+different companies value your privacy differently and for some companies your personal data has even become the most important part of their business model and while you have probably encountered plenty of cookies and terms of services while navigating the web all companies also online should oblige to the rule of law these laws are designed to protect individuals and originate from basic constitutional rights and freedoms see also the mooc privacy in the western world we revisit the origin of our most important freedoms and use these for comparison in the modernday field of privacy and data protection
+
+health care and pseudonymisation
+special kind of data require special kind of attention in both the usa and europe regulations for processing personal medical data are very strict we will challenge you to find the differences between both jurisdictions and determine the strictness of their regulations the courses privacy in the usa and privacy in europe provide background to the historic societal and legal differences whereas many differences are present pseudonymisation is key to protection of medical data in both regions the international standardisation organisation provides a standard to do this how is this intertwined with the obligations imposed by the healthcare regulations revisit the standardisation technology
+
+just a bunch of numbers
+hardware numbers software numbers object numbers identification numbers telephone numbers order numbers which number are you searching algorithms machine artificial intellingence computers use binary language to process store and communicate data as such it is not surprising that most of what we know in everyday life can be quantified but do we realise how thoroughly impersonal and standardised our life can be described in numbers what are the implications of the technological development and how do we fit humanity in explore the world of numbers
+
+designing your own contract
+le grande finale use your knowledge from the entire to switch position with the clerks and lawmakers the intricacies and difficulties of designing watertight contracts and terms yourself
+the terms of cookies your data
+</DOC>
+
+<DOC>
+privacy in the western world
+welcome to this about privacy we are thrilled to see that you are interested and will provide you with a comprehensive study of this intriguiging subject we hope this will enthuse you to look further into privacy and personal data regulation especially in the light of recent events it becomes more important to know about your alleged rights and freedoms after showing you a number of interesting examples of privacy in recent events this continues to provide you with an historic introduction and varying cases and court decisions it will guide you through the cultural and legal changes in perception of privacy over time sometimes with a more technological perspective notably in the western world differences have accumulated over time and the differences between the usa and europe will be explained extensively in the followup courses through lectures and quizzes we endeavor to build a solid foundation for you to construct a wellfounded opinion on privacy last but not least we sincerely hope you enjoy the profmrdr jan smits
+
+introduction
+this is the introduction to the on privacy this first we start with a number of introduction to demonstrate the importance of privacy in examples from all over the world it is interesting to see how privacy has been put under pressure because of increased security of freedom of enterprise of social media and of technological possibilities after this weeks lessons we dive deeper in history to see where privacy legislation is coming from how it relates to human rights and the recent developments to its current status we hope you enjoy this
+introduction interview with the vicepresident communication of facebook along the banks of the yangtze chinas privacy tradeoff privacy issues in the usa
+
+a historic perspective
+while privacy and personal space are being debated more and more over the of the information age personal data was stored long before the rise of the internet in the first we will address the collectors and overseers of our historic data
+library of the university of utrecht the dutch national archive
+
+expert view
+we visit an expert on cybercrime cyberinvestigation privacy and data protection
+privacy model of profdr bert jaap koops from his interview additional interview with profdr bertjaap koops
+
+history communality
+many differences exist between european and american society nowadays however when looking closely at the establishment of an independent people with constitutional rights we may also see some similarities
+obama visiting the plakkaat van verlatinghe plakkaat van verlatinghe declaration of independence motely the rise of the dutch republic
+
+th century specialized international treaties
+with increasing crossborder travel and services countries realised that in order to handle them effectively deals had to brokered by drafting and signing treaties on specific subjects they managed while not giving up too much of their own sovereignty
+the need for treaties origins of the red cross development of telecommunications prepaid postal system protecting submarine cables the internet rights for literary and artistic
+
+international cooperation and human rights
+after agreeing on specific subjects countries learned that in order to avoid conflict more safeguards and cooperation was required the two world wars showed that absence of good arbitration over conflicts and lacking international cohesiveness could lead to humanic atrocities this focuses on the response the world made to avoid these events from ever happening again to protect human live and to protect human rights
+arbitration between countries countries around the table building a legacy in wwii un declaration of human rights protection from your government
+
+last three decades
+the rise of the computers also brought along a need to protect privacy in the digital environment conceptualizing proper protection of personal data and pursuing infringement still provides a great challenge for policy makers
+the eight principles international criminal court budapest cybercrime treaty
+
+examination
+the final quiz and for you to demonstrate that you mastered the content of this good luck
+</DOC>
+
+<DOC>
+standardisation technology
+welcome to the standardisation and technology do you already know what standards are could you image a world without standards it is certainly not easy to visualize a world without standards and the huge importance of standards is often underestimated in our society that is because such a vast amount are common to us and have been for ages we dont even realise they are standards anymore we are excited to see you join and explore the world of standards that goes unnoticed by so many first we visit historic examples of standards and see that even before christ standards were ever present but since then standards have grown and evolved alongside societies and we need to discuss the fundamentals of standards and standard setting nowadays technology is rapidly advancing and standards play an ever increasing role have you ever wondered what happens under the hood of your mobile phone how are we able to orchestrate something so huge as the internet without technical agreements and protocols without standards we take a look at the organisations that develop and maintain these standards and even take a brief glimpse in the future of this ever evolving field each lectures and reading material according to the bibliography in in the introduction will be provided practice tests will help you to prepare for the graded assessment at the end of each good luck and we hope you enjoy the
+
+introduction
+welcome to the standardisation and technology first we will go through history and find that standards have always been part of human society even if you maybe had not realised it yet but the world has since developed into the current information age and standards had to develop accordingly we will discuss the fundamentals the organisations that draft oversee and exercise standards nd the societal necessity and dependance on good standards already have a look at the reading materials be using throughout the we hope you join and enjoy the and realise what an impact standards have on our and your daytoday life
+
+history
+how many decades can we go back to still see standards used by humans or maybe go back even more how many ages or how many millennia before we dive into this have you ever thought about how you knew how far back a decade is right time is indeed a prime example of standardisation even moreso our time zones but there are many more examples let us discuss a few can you think of any other historic examples of standards
+history overview being on time telegraph alphabets the baltimore fire paper sizes and weights
+
+fundamentals
+now that you have become acquainted with standards throughout history it is important to recognize what defines a standard we will walk you through the fundamentals of standardisation the different parties that are involved in the development the parties that require standards the parties that impose regulations altogether the development process takes a lot of consideration and we aim to shine light on the basics to good standards
+fundamentals overview eu policy industry expectations
+
+standards developing organisations
+according to the free internet encyclopedia a standards organisation standards body standards developing organisation sdo or standards setting organisation sso is an organisation whose primary activities are developing coordinating promulgating revising amending reissuing interpreting or otherwise producing technical standards that are intended to address the needs of a group of affected adopters so sdos essentially do everything with regard to standardisation we will show you exactly what sdos do and more importantly how different sdos operate
+standard development organisations participationmembership decision making voting
+
+consortia
+what happens when technological progress severely outpaces the development of new standards by the sdos new products need new guidelines or standards to abide to but if there are no suitable standards technological process is hindered around the s the technological advancement was too quick for the alleged bureacratic sluggish sdos in response the industry started consortia to fill this lack of standards and start developing themselves find out more and also get acquainted with some of the most recognised consortia
+consortia overview gpp ieee ietf ecma
+
+future use and role of standards
+finally we arrive at the crossroads of present day standardisation since the s technological advancement has not slowed down moreover technology that was previously thought impossible is already right around the corner areas like smart mobility articifical intelligence and machine not only require standards to function but also to remain within ethical boundaries how should or even can we define ethics in standards and what about privacy technology tends to infringe on this human right more and more can we rely on standards alone to set the stage form your opinion and more about the intricacies between these two subjects
+future role and use of standard privacy connected cars ai machine
+</DOC>
+

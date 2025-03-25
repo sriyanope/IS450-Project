@@ -1,0 +1,174 @@
+<DOC>
+user research and design
+integrate ux research and ux design to create great products through understanding user needs rapidly generating prototypes and evaluating design concepts learners will gain handson with taking a product from initial concept through user research ideation and refinement formal analysis prototyping and user testing applying perspectives and methods to ensure a great user at every stepapplied projectthis coursera in ux research and ux design concludes with a capstone in which learners will incorporate ux research and design principles to design a complete product taking it from an initial concept to an interactive prototype
+</DOC>
+
+<DOC>
+introduction to user principles and processes
+this ux provides an introduction to the fields of ux research and design learners will gain an understanding of what is involved in ux research including conducting interviews evaluating systems and analyzing systems using principles of good design learners will also about the involved in ux design including the generation of promising design solutions and the creation of prototypes at multiple levels of fidelity by interleaving successive phases of ux research and design learners will see how to from inevitable mistakes and improve towards a product with a great uxwhat the needed for ux research and design how ux researchers discover and assess user needs and assess possible designs how to conduct a microusability test how ux designers use sketching and prototyping to develop design concepts how to incorporate a usercentered focus into the design process key features of human behavior and describe their impact on the design of interactive systems techniques for critiquing and designing interactive systems based on human capabilities and behavior
+
+what is ux what are ux research and design
+discussion prompt
+welcome what is user the ux process components of ux
+
+ux design overview
+peer review discussion prompts
+ux design overview prototypes sketching a brief incomplete history of ux
+
+how do people perceive information
+discussion prompt
+visual perception part visual perception part memory part memory part
+
+how do people act in the world
+discussion prompt
+seven stages of action gulfs of execution and evaluation design principles
+
+design heuristics
+discussion prompt
+heuristics for design visibility of system status match between system and real world user control and freedom consistency and standards error prevention recognition over recall flexibility and efficiency of use aesthetic and minimalist design error recovery help and documentation
+
+heuristic evaluation and wrapup
+peer reviews discussion prompt
+heuristic evaluation wrapup next steps basic methods of ux research interview ux designer matt martin interview with ux researcher lija hogan
+</DOC>
+
+<DOC>
+ux research at scale surveys analytics online testing
+this ux will provide an overview of survey methodology from the perspective of ux research ux surveys typically focus on uncovering user needs connecting needs to user characteristics and gaining insight into user attitudes towards systems they use learners will the basics of ux survey research and conduct a survey of their own designlearners will be introduced to techniques for gaining ux insights from large numbers of users including web analytics ab testing and remote unmoderated studies we will discuss how these techniques when they can be applied and what can be learned by using them what how web analytics works and how to analyze analytics data understand how to develop ab tests beforeafter and multivariate experiments how to set up and analyze remote unmoderated testing studies analyze and report on large scale user studies about the different types and uses of surveys in ux research understand the survey population when to sample when to recruit develop a survey instrument that meets your requirements analyze and report on surveys to critique user surveys
+
+when and how to use surveys
+discussion prompt
+introduction the basics of ux research ethics and ux research survey terms understanding error four sources of error
+
+asking the right people coverage error
+
+defining your population probability vs nonprobability nonprobability samples nonprobability samples panels survey modes
+
+getting answers nonresponse error
+
+nonresponse the respondent mindset nonresponse increasing benefits nonresponse reducing cost nonresponse establishing trust
+
+writing questions measurement error
+reading peer review discussion prompts
+questions the respondent state of mind defining your concept anatomy of a survey question basic guidelines for writing questions openended questions closedended questions designing nominal questions designing ordinal questions common ux survey questions visual design of survey questions ethics of survey research
+
+about research at scale
+
+what is ux research at scale a maturity model findings versus reports interview how do people practice ux research at scale now
+
+behavioral analytics
+peer review
+website analytics for ux all about metrics research questions and website analytics search analytics lets talk the practice of user research
+
+remote testing
+discussion prompt
+remote testing remote moderated testing remote unmoderated testing example remote unmoderated test
+
+ab testing and preference testing
+peer review discussion prompt
+about ab testing ab testing vs preference testing conducting preference testing conducting an ab study between vs within subjects ethics of ab testing
+</DOC>
+
+<DOC>
+ux user capstone
+ux capstone conduct a multistage user to design a product from scratch employ interviews inspection methods and user testing along with ideation design and prototyping methods to gain and communicate valuable insight that can be used to deliver a compelling productyou will how to design and carry out an integrated multiphase user research and design gain conducting user research in a realworld setting gain handson with a realistic ux design improve ability to communicate design concepts and actionable research findings
+
+introduction milestone
+app item
+introduction getting started milestone overview
+
+milestone
+reading app item
+
+milestone
+reading app item
+
+milestone
+reading app item
+
+milestone
+reading app item
+
+final report
+peer review plugin
+final report overview wrapup
+</DOC>
+
+<DOC>
+evaluating designs with users
+when designing systems that for users there is no substitute for watching them try to use the system to see what works and what doesntin this ux how to design and conduct tests with users that will tell you how effective your design is for helping users do what they need to do and how they feel about using your system this is part of the user ux research and design offered on coursera what identify different approaches to user testing and their appropriate use understand how to design an effective user test understand how to run an effective user test to get the most information possible out of each encounter analyze and report on user testing
+
+what is user testing
+discussion prompt
+introduction to user testing types of tests what to look for what you
+
+user test basics
+discussion prompt
+recruiting test participants task design think aloud some practical challenges
+
+getting more out of user testing
+reading peer review discussion prompt
+questionnaires interview data moderating
+
+analysis and reporting
+
+observing user tests analysis and reporting
+
+user test report
+peer review
+</DOC>
+
+<DOC>
+understanding user needs
+designing effective interactive systems requires understanding the needs and capabilities of the people who will be using them ux we will focus on how to interact with users or potential users to understand what they need what they currently do what they love and hate and examine human capabilities and behavior as they relate to ux designlearners will be introduced to numerous techniques to gather data from and about users this is part of the user ux research and design offered on coursera what find out what user needs assessments are what qualitative research is and how the two are related an endtoend methodology for qualitative research that is suited for understanding user needs the methodology includes knowledge of semistructured interviews insitu observation and affinity walls be exposed to good practices for conducting semistructured interviews insitu observation and affinity walls gain some with semistructured interviews insitu observations and affinity walls
+
+lesson introduction and qualitative research overview
+peer review discussion prompts
+introduction to user needs assessment overview of qualitative research user needs assessment miniproject
+
+lesson interview protocols
+peer review discussion prompt
+semistructured interviews components of an interview protocol good practices for interview protocols
+
+lesson interviews observation and data extraction
+peer review discussion prompt
+sample interview tips for interviewing observing users sample thinkaloud protocol extracting data from interview
+
+lesson affinity walls and analysis
+peer review discussion prompt
+analyzing qualitative data affinity walls
+
+lesson conclusion
+discussion prompt
+variations on user needs assessments conclusion
+</DOC>
+
+<DOC>
+ux design from concept to prototype
+great design doesnt come out of nowhere it is born nurtured and grownall through a systematic learnable process ux explore the process of taking a basic concept grounded in user needs and developing it into a design that will address those needs in the gain handson with techniques such as sketching scenario development storyboarding and wireframing that will help you transform your understanding of what your users need into a compelling user then how to turn wireframes and interaction architecture into interactive prototypes that can be tested with prospective users and iteratively refined into a high quality design that that is ready for a handoff to the development team for implementationwhat define and scope the design problem try to address create user stories and storyboards to transform information about user needs into design concepts produce sketches and conduct brainstorming sessions to generate many design ideas from which you can construct a highquality design solution develop interface wireframes to concretize the design and enable early user testing conduct user tests with paper prototypes to get preliminary user feedback on the design concept and interactions develop highfidelity mockups that specify visual design elements create wizard of oz prototypes to efficiently test complex interactions and interactive systems that are not screenbased eg smart assistants
+
+introduction to the design process
+be introduced to the nature of design the design process and methods of formative research you are expected to spend to hours on this workload by the end of this understand the user design process and how to conduct formative research
+lesson what is design lesson design process an overview lesson framing design problems lesson formative research
+
+ideation
+this will cover one of the practical topics ideation brainstorm and sketch possible solutions to your design problem also share your sketches with your fellow learners hear their thoughts about your designs and provide feedback on their by the end of this gain an understanding of various methods of ideation as well as the structure developed by haakon faste and eric paulos for brainstorming
+lesson introduction to ideation lesson sketching lesson brainstorming
+
+design constraints and making choices
+this will introduce the other practical topics creation of early design representations like scenarios personas and storyboards that illuminate findings about user needs discovered through your formative research by the end of this how designers move from formative research to a design solution how the questions options criteria framework can help us make design decisions and gain handson in creating personas scenarios and storyboards
+lesson personas lesson scenarios lesson storyboards lesson design rationale
+
+building blocks of user interaction
+we will start with understanding the conceptual underpinnings of user interactions by introducing the basic building blocks of user interaction in addition to lectures quizzes and discussions this involves actual design planning out the kinds of information the system you are designing will need to take in and the kinds of feedback it will need to provide to users by the end of this be able to define the elements of user interaction and types of data input also be able to design effective inputs and outputs to enable users to complete tasks successfully as well as conceptualize design problems by using the building blocks of user interaction
+lesson lesson introduction lesson elements of user interaction data input lesson elements of user interaction output state and mode lesson introduction to prototyping
+
+low to hifidelity prototyping
+will provide an overview of different forms of prototyping your design for this will be wireframing the main screens of your application by the end of this be able to identify the characteristics and applications of lowfidelity and hifidelity prototypes and apply the most effective prototype for answering a particular design question also how to test design concepts and functionality by utilizing wireframes and create lowfidelity and hifidelity prototypes to assess and improve your design
+lesson wireframes lesson lowfidelity interactive prototypes lesson testing lofi prototypes lesson adding realism to prototypes
+
+conceptual issues in prototyping and design
+this introduces some of the issues that designers need to think about when prototyping such as defaults and mental models create a functional lowfidelity prototype of your design by the end of this understand the affordances and limitations of interface formats to evaluate how the default features of a design impact the user identify potential consequences of usage beyond a designs intentions and describe the gulfs of execution and evaluation
+lesson key design concepts lesson defaults lesson reflective design lesson new directions in ux design wrapup
+</DOC>
+

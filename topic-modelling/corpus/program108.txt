@@ -1,0 +1,66 @@
+<DOC>
+digital health
+this introduces students to the emerging and multidisciplinary field of digital health and the role and application of digital health technologies including mobile applications wearable technologies health information systems telehealth telemedicine machine artificial intelligence and big data these digital health technologies are assessed in terms of their and challenges to address realworld public health and health care system challenges in order to improve the quality safety and efficiency of these services the aim of this is to prepare learners for the new era of digitalisation in public health and health care globally the design and implementation of digital health interventions aspect of this address topics to include design thinking regulatory approaches ethical considerations technology adoption implementation and strategy as applied to digital health the evaluation component of this focuses on data considerations in digital health data management and the evaluation of digital health interventions with a focus on experimental and quasiexperimental design approaches to evaluation and the economic evaluation of digital health interventionsapplied projectlearners will be able to apply and assess their knowledge through interactive quizzes and peerreviewed to critique innovative digital health interventions for social isolation for covid and to develop an evaluation plan for a hospital seeking to pilot and implement a digital monitoring alert system for sepsis
+</DOC>
+
+<DOC>
+evaluation of digital health interventions
+this focuses on data evaluation methods and the economic evaluation of digital health interventions this focuses on key data considerations for digital health including data management data visualisation and methods for evaluating digital health interventions the key focus is on experimental and quasiexperimental design approaches that can be applied to evaluating digital health interventions and key considerations for the economic evaluation of digital health interventions
+
+data considerations for digital health
+during the focus will be on data considerations for digital health this will be illustrated through examples around electronic disease surveillance and strategies for the extraction of medical data and how to present it we will get you to think about what aspects of this would be challenging in your own context the focus of the then moves onto data visualisation with key case studies and examples of how to interrogate large datasets to examples of data visualisation there will be a specific activity for you to do in tableau on visualising data
+interrogating large healthcare datasets interview with james scottbrown data visualisation
+
+real world research a proofofconcept study and translational research
+about real world case studies to improve realtime data collection and monitoring for ebola building and the use of process evaluation to evaluate this intervention then hear about interesting ways that data can be routinely used in healthcare with examples from the uk national health service
+introduction to the ebola contact tracing study the ebola contact tracing study process evaluation in digital health interview with ben glampson routinely captured data
+
+methods for evaluating digital health interventions
+this focuses on methods for evaluating digital health interventions and focus on experimental and quasiexperimental evaluation approaches that can be applied to evaluating digital health interventions then be introduced to realworld examples of some of these approaches and key considerations for randomised control trials then focus on a specific example of methodological concerns of an evaluation of a digital medicine system the limitations of this study and the nice evidence framework
+evaluating digital health interventions economic evaluation in healthcare health economics and digital health interventions
+
+frameworks and models for evaluation
+about frameworks and models for evaluation what robust trials are and examples of these logic models and how to design a statistical analysis plan
+logic models evaluating an implemented digital health intervention interview with maxine mackintosh
+</DOC>
+
+<DOC>
+introduction to digital health
+this introduces the field of digital health and the key concepts and definitions emerging field the key topics include health systems and electronic health records and various types of digital health technologies to include mobile applications wearable technologies health information systems telehealth telemedicine machine artificial intelligence and big data these technologies are assessed in terms of the key and challenges to their use and the evidence of their effectiveness in the field of digital health in relation to public health and healthcare globally the use and application of digital health for covid forms a case study demonstrating the use of different types of digital health technologies to address key aspects of the response to the virus globally
+
+introduction to digital health
+this will introduce the key concepts and definitions in digital health soon that it is a rapidly changing and emerging field we will also ask for your thoughts early about your own understanding of digital health then be introduced to the growth in digital health technologies the global distribution of these technologies and the inequalities that exist in terms of access to and usage of different forms of digital health technologies to include smartphones social media and access to the internet given this introduction then be introduced to key examples of how digital health have been implemented badly with an example from the uk through the national programme for it npfit and examples of where it has been extremely successful for example estonia
+growth in digital health technologies personalised and population digital health approaches doing digital health badly the digital healthcare system in estonia interview
+
+electronic health records and health systems
+firstly be introduced to electronic health records and will about what they are how they have been used and the and challenges to their use the focus will then turn to healthcare systems identifying the key components of a good health system and analyse some examples of a health system through strong and weak examples then hear from an expert working at the interface of statistics data science and digital health through his on improving health care safety and quality interoperability a key concept describing how data can be shared across health systems is examined there will be a variety of activities including and interactive activities to complement your
+introduction to electronic health records interview with professor alex bottle
+
+introduction to digital health technologies part i
+start to be introduced to a range of digital health technologies and their use and application in public health and healthcare globally the focus of will be on mobile applications wearable technologies and health information systems about what they are examples of how they have been used and advantages and disadvantages to their use also be provided with a realworld case study on the use of a mobile application for ebola contact tracing and monitoring in sierra leone in during the ebola epidemic and will be introduced to the and challenges of applying digital health technologies for epidemic preparedness and response there will be a variety of activities to complement what you have learnt including and interactive activities
+mobile applications and wearable technologies apps and wearables and the healthcare system introduction to the ebola contact tracing study practical examples of the use of mhealth applications in india and sierra leone podcast the use of digital tools for data collection for public health
+
+introduction to digital health part ii
+be introduced to other digital health technologies such as telehealth and telemedicine social media machine artificial intelligence gamification and behavioural sciences and big data explore these areas through supported reflective questions and interactive activities that assess the role uses advantages and disadvantages of these technologies in public health and healthcare globally this builds on the digital health technologies that you about in the previous
+telehealth and telemedicine artificial intelligence gamification behavioural science big data
+</DOC>
+
+<DOC>
+design and implementation of digital health interventions
+this covers various themes around design regulatory approaches ethics technology adoption implementation and strategy as applied to digital health these session cover areas to include data regulations examples of data breaches in digital health the challenges and of technology adoption and implementation with a focus on the nonadoption abandonment scaleup spread and sustainability framework nasss framework the strategy part of this focuses on understanding a simple strategy for digital health through pestle and swot analysis and examples of their application in digital health
+
+design development and delivery of digital health interventions
+this introduces and analyses various themes around the role of design this includes humancentred design design thinking and design then be introduced to digital delivery and agile methodologies and how they relate to design there will be to supplement activities and a formative quiz to test your knowledge of key areas
+human centered design in practice design thinking design interoperability introduction to digital delivery
+
+regulatory approaches and ethics
+this will focus on identifying the appropriate regulatory processes associated with digital health and personalised and population digital health approaches also be introduced to important topics to include the value of data and health care data data regulations to include areas on data security ownership and access and lastly data breaches and fake news where assess contemporary examples
+example on data regulations value of data in digital health example of a cyberattack
+
+technology adoption and implementation
+about the digital health landscape and why healthcare digitalisation is so slow and difficult be introduced to the nasss framework and how you can use it to identify understand and address challenges associated with digital health interventions in health this will help inform your understanding and knowledge of the barriers and facilitators in digital health and also about why technology programmes fail there is an example of developing an implementation strategy for a digital health intervention based on an example from routine healthcare and there will also be an example of evaluating a digital alert for sepsis in a clinical setting in the united kingdom
+
+contextual analysis strategies applied to digital health design
+the focus will be on explaining strategy as applied to digital health provide an example of strategy in relation to digital health and analyse strategy in relation to healthcare and information technology through realworld examples also focus on a case study of a swot analysis based on information technology and the healthcare industry
+</DOC>
+

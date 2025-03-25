@@ -1,0 +1,82 @@
+<DOC>
+sas statistical business analyst
+this is for those who want to enhance their predictive and statistical modeling to drive datainformed business if modeling data for business is relevant in your job role or industry this is a valuable indication of your proficiency applied projectthere are numerous handson practices integrated throughout the three courses of the data examples are general enough to be applicable to a broad range of subject areas specific examples see in the courses address agriculture manufacturing health care banking retail and nonprofit
+</DOC>
+
+<DOC>
+regression modeling fundamentals
+this introductory is for sas software users who perform statistical analyses using sasstat software the focus is on t tests anova and linear regression and includes a brief introduction to logistic regression
+
+overview review from introduction to statistics hypothesis testing
+you about the and the data you analyze then you set up the data you need to do the practices in the
+welcome and meet the instructor demo exploring ames housing data
+
+model building and effect selection
+you explore several tools for model selection these tools help limit the number of candidate models so that you can choose an appropriate model thats based on your expertise and research priorities
+overview scenario approaches to selecting models the allpossible regressions approach to model building the stepwise selection approach to model building interpreting pvalues and parameter estimates demo performing stepwise regression using proc glmselect scenario information criteria adjusted rsquare and mallows cp demo performing model selection using proc glmselect
+
+model postfitting for inference
+you to verify the assumptions of the model and diagnose problems that you encounter in linear regression you to examine residuals identify outliers that are numerically distant from the bulk of the data and identify influential observations that unduly affect the regression model finally you to diagnose collinearity to avoid inflated standard errors and parameter instability in the model
+overview scenario assumptions for regression verifying assumptions using residual plots demo examining residual plots using proc reg scenario identifying influential observations checking for outliers with student residuals checking for influential observations detecting influential observations with dfbetas demo looking for influential observations using proc glmselect and proc reg demo examining the influential observations using proc print handling influential observations scenario exploring collinearity visualizing collinearity demo calculating collinearity diagnostics using proc reg using an effective modeling cycle
+
+model building for scoring and prediction
+you how to transition from inferential statistics to predictive modeling instead of using pvalues you about assessing models using honest assessment after you choose the best performing model you about ways to deploy the model to predict new data
+overview scenario predictive modeling terminology model complexity building a predictive model model assessment and selection demo building a predictive model using proc glmselect scenario preparing for scoring methods of scoring demo scoring data using proc plm
+
+categorical data analysis
+you look for associations between predictors and a binary response using hypothesis tests then you build a logistic regression model and about how to characterize the relationship between the response and predictors finally you how to use logistic regression to build a model or classifier to predict unknown cases
+overview scenario associations between categorical variables demo examining the distribution of categorical variables using proc freq and proc univariate scenario the pearson chisquare test odds ratios demo performing a pearson chisquare test of association using proc freq scenario the mantelhaenszel chisquare test the spearman correlation statistic demo detecting ordinal associations using proc freq scenario modeling a binary response demo fitting a binary logistic regression model using proc logistic interpreting the odds ratio comparing pairs to assess the fit of a logistic regression model scenario specifying a parameterization method demo fitting a multiple logistic regression model with categorical predictors using proc logistic scenario interactions between variables demo fitting a multiple logistic regression model with interactions using proc logistic demo fitting a multiple logistic regression model with all odds ratios using proc logistic demo generating predictions using proc plm
+</DOC>
+
+<DOC>
+introduction to statistical analysis hypothesis testing
+this introductory is for sas software users who perform statistical analyses using sasstat software the focus is on t tests anova and linear regression and includes a brief introduction to logistic regression
+
+overview and data setup
+you about the and the data you analyze then you set up the data you need to do the practices in the
+welcome and meet the instructor demo exploring ames housing data
+
+introduction and review of concepts
+you about the models required to analyze different types of data and the difference between explanatory vs predictive modeling then you review fundamental statistical concepts such as the sampling distribution of a mean hypothesis testing pvalues and confidence intervals after reviewing these concepts you apply onesample and twosample t tests to data to confirm or reject preconceived hypotheses
+overview statistical modeling types of variables overview of models explanatory versus predictive modeling population parameters and sample statistics normal gaussian distribution standard error of the mean confidence intervals statistical hypothesis test pvalue effect size and sample size influence scenario performing a t test demo performing a onesample t test using proc ttest scenario assumptions for the twosample t test testing for equal and unequal variances demo performing a twosample t test using proc ttest
+
+anova and regression
+you to use graphical tools that can help determine which predictors are likely or unlikely to be useful then you to augment these graphical explorations with correlation analyses that describe linear relationships between potential predictors and our response variable after you determine potential predictors tools like anova and regression help you assess the quality of the relationship between the response and predictors
+overview scenario identifying associations in anova with box plots demo exploring associations using proc sgplot identifying associations in linear regression with scatter plots demo exploring associations using proc sgscatter scenario the anova hypothesis partitioning variability in anova coefficient of determination f statistic and critical values the anova model demo performing a oneway anova using proc glm scenario multiple comparison methods tukeys and dunnetts multiple comparison methods diffograms and control plots demo performing a post hoc pairwise comparison using proc glm scenario using correlation to measure relationships between continuous variables hypothesis testing for a correlation avoiding common errors when interpreting correlations demo producing correlation statistics and scatter plots using proc corr scenario the simple linear regression model how sas performs simple linear regression comparing the regression model to a baseline model hypothesis testing and assumptions for linear regression demo performing simple linear regression using proc reg
+
+more complex linear models
+you expand the oneway anova model to a twofactor analysis of variance and then extend simple linear regression to multiple regression with two predictors after you understand the concepts of twoway anova and multiple linear regression with two predictors have the to fit and interpret models with many variables
+overview scenario applying the twoway anova model demo performing a twoway anova using proc glm interactions demo performing a twoway anova with an interaction using proc glm demo performing postprocessing analysis using proc plm scenario the multiple linear regression model hypothesis testing for multiple regression multiple linear regression versus simple linear regression adjusted rsquare demo fitting a multiple linear regression model using proc reg
+</DOC>
+
+<DOC>
+predictive modeling with logistic regression using sas
+this covers predictive modeling using sasstat software with emphasis on the logistic procedure this also discusses selecting variables and interactions recoding categorical variables based on the smooth weight of evidence assessing models treating missing values and using efficiency techniques for massive data sets you to use logistic regression to model an individuals behavior as a function of known inputs create effect plots and odds ratio plots handle missing data values and tackle multicollinearity in your predictors you also to assess model performance and compare models
+
+overview and logistics
+
+
+understanding predictive modeling
+you review the fundamentals of predictive modeling then you explore the business scenario data that is used throughout the finally you about common analytical challenges that you might encounter as a modeler
+overview introduction goals of predictive modeling terms for elements in predictive modeling basic steps of predictive modeling applications of predictive modeling demonstration scenario target marketing for a bank demo examining the code for generating descriptive statistics and frequency tables introduction data challenges analytical challenges separate sampling avoiding the optimism bias honest assessment splitting the data for model training and assessment demo splitting the data
+
+fitting the model
+you investigate the concepts behind the logistic regression model then you to use the logistic procedure to fit a logistic regression model finally you how to score new cases and adjust the model for oversampling
+overview introduction understanding the logistic regression model constraining the posterior probability using the logit transformation understanding the fitted surface interpreting the model by calculating the odds ratio understanding logistic discrimination estimating unknown parameters using maximum likelihood estimation interpreting concordant discordant and tied pairs using proc logistic to fit logistic regression models demo fitting a basic logistic regression model part demo fitting a basic logistic regression model part scoring new cases demo scoring new cases introduction understanding the effect of oversampling understanding the offset demo correcting for oversampling
+
+preparing the input variables part
+you how to deal with common problems with your predictor variables such as missing values categorical predictors with many levels a high number of redundant predictors and nonlinear relationships with the response variable
+overview introduction reasons for missing data complete case analysis methods for imputing missing values missing value imputation with missing value indicator variables demo imputing missing values cluster imputation introduction problems caused by categorical inputs solutions to problems caused by categorical inputs linking to other data sets collapsing categories by thresholding collapsing categories by using greenacres method demo collapsing the levels of a nominal input part demo collapsing the levels of a nominal input part replacing categorical levels by using smoothed weightofevidence coding demo computing the smoothed weight of evidence introduction problem of redundancy variable clustering method understanding principal components divisive clustering proc varclus syntax selecting a representative variable from each cluster demo reducing redundancy by clustering variables
+
+preparing the input variables part
+you how to select the most predictive variables to use in your model
+introduction detecting nonlinear relationships demo performing variable screening part demo performing variable screening part univariate binning and smoothing demo creating empirical logit plots remedies for nonlinear relationships demo accommodating a nonlinear relationship part demo accommodating a nonlinear relationship part introduction specifying a subset selection method in proc logistic bestsubsets selection stepwise selection backward elimination scalability of the subset selection methods in proc logistic detecting interactions bicbased significance level demo detecting interactions demo using backward elimination to subset the variables demo displaying odds ratios for variables involved in interactions demo creating an interaction plot demo using the bestsubsets selection method demo using fit statistics to select a model
+
+measuring model performance
+you how to assess the performance of your model and how to determine allocation rules that maximize profit finally you how to generate a family of increasingly complex predictive models and how to select the best model
+overview introduction fit versus complexity assessing models when target event data is rare demo preparing the validation data introduction understanding the confusion matrix measuring performance across cutoffs by using the roc curve choosing depth by using the gains chart effects of oversampled data on performance measures adjusting a confusion matrix for oversampling demo measuring model performance based on commonlyused metrics introduction understanding the effect of cutoffs on confusion matrices understanding the profit matrix choosing the optimal cutoff by using the profit matrix using the central cutoff using profit to assess fit calculating sampling weights demo using a profit matrix to measure model performance introduction plotting class separation assessing overall predictive power demo using the ks statistic to measure model performance introduction comparing roc curves of several models demo comparing roc curves to measure model performance using macros to compare many models demo comparing and evaluating many models part demo comparing and evaluating many models part
+
+sas certification practice exam statistical business analysis using sas regression and modeling
+reading app item
+</DOC>
+

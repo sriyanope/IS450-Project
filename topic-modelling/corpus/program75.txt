@@ -1,0 +1,94 @@
+<DOC>
+construction management
+the construction management is curated for professionals in the construction and civil engineering industry looking to advance their careers through this students will gain comprehensive industry knowledge along with the latest trends and development within the industry this will cover the major facets of construction management including initiation and planning scheduling techniques and procedures cost estimating and control and construction financials after students complete this they will have gained significant and tools to stay relevant and ahead of the curve in the world of construction managementthis is designed to build on the foundational developed in the google management earn a dual credential when you complete a google and this applied projectrealworld will be included in each of the to reinforce the being taught the will build on information you have learned in the courses and allow you to add your own research will be peerreviewed by your classmates and peerreview the of others instructions on how to conduct peerreviews will be included in the upon completing the series be able create a workbreakdown structure build a schedule on a plan create a budget identify risk and assign responsibility for those risks
+</DOC>
+
+<DOC>
+construction cost estimating and cost control
+this introduces the types of cost estimation from the conceptual design phase through the more detailed design phase of a construction in addition the highlights the importance of controlling costs and how to monitor cash flow learners will on a breakeven analysis of construction tasks in a the begins with professor odeh providing an overview of what will be covered next learners explore the stages of design in a construction professor odeh then describes the types of cost estimates in a construction and the tools and methods used to create estimatesby the end of this be able to acquire the fundamentals of cost estimation and the design phase to perform cost estimation about cost control and cost control methods emphasizing the earned value method or evm understand the close out period of the by exploring the punch lists final approval and turnover to the client
+
+construction cost estimating and cost control overview
+professor odeh describes the and provides an overview of what will be covered also covered is an introduction to construction cost estimating and cost controls
+</DOC>
+
+<DOC>
+the construction industry the way forward
+this final in the provides an introduction on types of the construction as well as the main concern of the productivity challenge in the construction industry through case studies the industry characteristics and its unique environment that led to such productivity performance as well as touch base on other several examples of challenges we are facing internally in the industryin the nd part of the professor odeh will give an overview of mega trends that are making us change the way we think about construction furthermore professor odeh will discuss the main role of three levels on what needs to be done an industry collaborative effort and role a government role and last but not least a company role discussion professor odeh will also touch base on several technological and innovative trends that are rising in our construction industry by the end of this be able to understand the overall history of construction industry analyze the optimal ways to respond to the and challenges brought by current industrial trends such as aging infrastructure climate change sustainability trends and tools the rise of urbanization and an agingshrinking workforce recognize the importance of collaborating with governments and public officials in pursuit of industry transformation comprehend the rising technological trends in the aec industry and give examples of how to apply technology to the construction industry
+
+introduction
+welcome to the professor odeh will give an overview of the construction industry and its history this will be followed by an exploration of the various characteristics of the construction industry globally as well as common internal challenges
+overview history and development of construction industry common construction industry characteristics internal challenges of the industry
+
+trends in the construction industry
+the second highlights ten examples of trends that are reshaping the way we deliver construction such as aging infrastructure climate change sustainability trends and tools the rise of urbanization and an agingshrinking workforce along the way the optimal ways to respond to the and challenges brought by these trends respectively
+ten examples of the trends aging in infrastructure gap in investment climate change sustainability urbanization the workforce shortage complex regulation
+
+transformations needed industry and government level
+professor odeh discusses the way forward for the construction industry based on his with the world economic forum moreover professor odeh will discuss the importance of collaborating with governments and public officials in pursuit of industry transformation
+transformations needed to move forward industry transformation on marketing government transformation on regulations and policies government transformation on procurement
+
+transformations needed companies level
+this builds on the previous one by digging deeper into the role of companies at the aec industry by covering the areas of innovative strategy dealing with the workforce dilemma and culture as well as business operations and processes
+companies transformation on strategy companies transformation on workforce companies transformation on process and operation i companies transformation on process and operation ii
+
+new and rising innovative technologies
+the final covers rising technological trends in the aec industry by giving an introduction to topics such as the use of big data machine in construction d printing robotics virtualaugmented reality and the rise of digital twin the concludes by connecting the four industrial revolutions to our modern day construction industry
+rising technology and materials new technologies innovation big data aiml and d printing drones and robotics vr ar digital twin digital technologies four industrial revolutions wrap up global leader in construction management
+</DOC>
+
+<DOC>
+construction management
+construction management introduces learners to initiation and planning columbia university professor ibrahim odeh along with industry experts join together to provide a comprehensive overview of the construction industry there are that allow learners to become knowledgeable of construction management within the dynamic construction industry professor odeh teaches learners about the fundamentals of the development cycle while guest lecturers discuss lean delivery method and lean design behaviors technological advances such as building information modeling bim will be introduced with real world examples of the uses of bim during the lifecycle of the the concludes with professor odeh discussing the importance of planning and scheduling and an to develop a breakdown structure by the end of this be able to about construction management including an understanding of the construction industry the role of a manager construction contract types and delivery methods explain the fundamental principles to establish environment health and safety in the construction industry detail the principles and application of sustainability development in construction industry summarize the breakdown structure wbs and estimate the construction activity duration
+
+overview
+welcome to construction initiation and planning meet your instructor dr ibrahim odeh and what will be covered in the construction management and more specifically construction initiation and planning the first of the series
+introduction to the part introduction to the part
+</DOC>
+
+<DOC>
+construction finance
+this expands the knowledge of a construction manager to include an understanding of economics and the mathematics of money an essential component of every construction topics covered include the time value of money the definition and calculation of the types of interest rates and the importance of cash flow diagramsthe covers these topics in three sections the first section focuses on the foundation of building the mathematics of money often referred to as value of money it also highlights the present value techniques and the internal rate of return from a construction manager point of view the second section of the focuses on vertical construction finance and the last part focuses on horizontal construction finance under the vertical construction finance the instructor discusses real estate finance and how that has been done with more indepth details and gives examples for students to solve with instructions the last topic horizontal finance is divided into two parts to begin the instructor introduces vast details about public private partnership this highlights around three case studies about ppp which would be an introduction to financing in horizontal after introducing case studies the instructor demonstrates the risks associated with construction finance after that similar to the previous three courses the finishes with emphasizing the importance of construction finance
+
+introduction to the construction finance
+professor ibrahim odeh provides an overview of the construction finance and introduces the guest speakers
+
+the mathematics of money
+professor ibrahim odeh discusses the mathematics of money beginning with a definition of the time value of money calculating simple and compound interest rates are covered along with distinguishing between nominal and effective interest rates illustrated is drawing a cash flow diagram
+mathematics of money evaluation computing interest simple interest calculations compound interest calculations simple vs compound interest rate example nominal and effective rate nominal interest rate example and minimum attractive rate of return present and future value of money future value of a uniform series uniform series uniform series a deeper dive equations for uniform series net present value npv example internal rate of return irr example
+
+real estate finance for development
+professor anthony webster introduces real estate finance providing an overview of the real estate lifecycle a discussion on zoning code parameters and examples of estimating the sales price of a property
+introduction to financing development feasibility study example parameters development costs comps based property sale tax gain and return cap rate based sale tax gain and return preview of discounted cash flow methods for gain and return framework for discounted cash flow dcf analysis net present value dcf method for evaluation net present value npv examples internal rate of return irr method for evaluation npv and irr analysis with excel changing and comparing compounding periods
+
+financial plans for development
+professor anthony webster provides an indepth look at designing and building commercial real estate by looking at financial plans the ends with a deep dive into decision tree analysis
+introduction to financial plans for development debt financing of real estate construction loan example net comprehensive cash flows for sponsor and lender dcf evaluation for sponsor and lender introduction to decision tree analysis introduction to decision tree analysis decision tree example overview solving the example in excel analysis of the tree results decision tree example with time value of cash analysis of the tree results with time value considered
+
+finance
+professor bob dewing discusses finance and provides an overview of global finance the roles of stakeholders in finance is reviewed in depth
+global finance overview and by sector stakeholders in finance stakeholder roles principles of financing risk and risk allocation categories of risk allocation sponsor perspectives structuring and documentation completion risks government perspectives contract parties contracts and agreements
+
+risk in finance
+eduardo gamez discusses risk in financing outlining the different entities involved in a transaction for a
+parties timeline and finance borrowing vs partnering case study revenue generating case case study developer land swap case identifying and allocating risk
+
+public private partnerships
+karl reichert introduces public and private partnerships
+public private partnerships p concept and key elements types drivers value and typical structures of p responsibilities and risk transfer in various p structures pursuits through full lifecycle and p success factors benefits of p getting on board with p case studies a deeper dive into p case studies
+
+lean in construction financing
+sam spata provides an overview of lean in construction financing and describes how to identify and mitigate risk using lean delivery systems
+identifying risk waste concept in lean mitigating risk through lean delivery systems how to assess probability and mitigate
+
+wrapup
+professor ibrahim odeh wrapsup the construction finance and discuss the construction management
+</DOC>
+
+<DOC>
+construction scheduling
+this focuses on how to develop and manage a schedule the first provides an overview of the construction scheduling the second introduces bar or gantt charts and how they are used as scheduling tools during the third learners will create activity precedence diagrams also referred to as activity on node diagrams which graphically represent the construction activities in a and their relationships the fourth provides an overview of the types of construction activity relationships encountered in a construction and how to represent them in an activity precedence diagram forward and backward pass calculations are covered in the fifth and during the sixth professor odeh discusses the importance of critical paths including what it is and why it is importantby the end of this be able to discover key scheduling techniques and procedures how to develop and manage a schedule and understand scheduling tools such as bar charts activity on arrow and activity on nodes explore the multiple relationships that connect all the construction activities in our from start to finish about creating a network diagram defining the importance of the critical path in a network and defining activities float understand the fundamentals of bar charts precedence diagrams activity on arrow evaluation and review technique pert range estimating linear operations and the line of balance lob
+
+introduction to construction scheduling
+the first provides an overview of the construction scheduling and the topics that will be covered learners will discover the relationships connecting construction activities how to perform scheduling procedures how to determine critical path and more professor odeh will describe the differences between calendar dates and dates and teach how to deal with uncertainty in construction
+</DOC>
+

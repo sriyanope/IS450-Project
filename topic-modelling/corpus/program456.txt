@@ -1,0 +1,126 @@
+<DOC>
+meta data analyst
+prepare for a in the highgrowth field of data analytics build indemand technical like python statistics and sql in spreadsheets to get jobready in months or less no prior needed also have the option to how generative ai tools and techniques are used in data analyticsdata analysis involves collecting processing and analyzing data to extract insights that can inform decisionmaking and strategy across an organizationin this basic data analysis principles how data informs decisions and how to apply the osemn framework to approach common analytics questions also how to use essential tools like sql python and tableau to collect connect visualize and analyze relevant datayoull how to apply common statistical methods to writing hypotheses through scenarios to gain practical with designing experiments and analyzing results when you complete this full have a portfolio of handson and a from meta to showcase your expertise applied projectthroughout the get to practice your new data analysis through handson including identifying data sourcesusing spreadsheets to clean and filter datausing python to sort and explore datausing tableau to visualize resultsusing statistical analysesby the end have a portfolio that you can show to prospective employers or utilize for your own business
+</DOC>
+
+<DOC>
+introduction to data analytics
+this provides a practical understanding and framework for basic analytics tasks including data extraction cleaning manipulation and analysis it introduces the osemn cycle for managing analytics and examine realworld examples of how companies use data insights to improve decisionmakingby the end of this be able to formulate business goals kpis and associated metrics apply a data analysis process using the osemn framework identify and define the relevant data to be collected for marketing compare and contrast various data formats and their applications across different scenarios identify data gaps and articulate the strengths and weaknesses of collected data you dont need marketing or data analysis but should have basic internet navigation and be eager to participate ideally you have already completed marketing analytics foundation
+
+working with data
+what data analytics are and what a data analyst does be introduced to the osemn framework as well as important business metrics kpis and their value to a business
+introduction to the introduction introduction to anke audenaert weekly introduction what is data analytics introduction the power of data what is data analytics what does a data analyst do a framework as a helpful tool the osemn framework start with a goal in mind understand the kpis using the osemn framework example weekly review working with data
+
+obtaining and scrubbing data
+in the second how to discover different sources of data and how to evaluate their validity also explore different data formats begin to apply the osemn framework by the steps in the data cleaning process as well as how to handle missing or incorrect data in your datasets
+introduction obtaining and scrubbing data its a data world where to look for data common data formats sampled data first and third party data evaluating the validity of data sources scrubbing your data clean remove duplicate records format your records handle missing values check for wrong values a real world example case study obtaining data case study scrubbing data weekly review obtaining and scrubbing data
+
+exploring and modeling data
+moves onto the exploring and modeling phases of osemn how to inspect and summarize your data as well as evaluate data relationships discover the purpose of data modeling and common types of data models and data visualizations
+introduction exploring and modeling data getting to know your data better the language of data creating visualizations examine data distributions examine data relationships feature engineering make predictions from your data with modeling what are models and why use them how do models different types of models a real world example case study exploring data case study modeling data weekly conclusion
+
+interpreting data
+how to interpret the data you have working with and relate the results of your analysis back to a specific business goal also how to create a story for a presentation of your data in order to explain and engage an audience
+introduction interpreting data answer your business question with your data understand the results of your model explain your findings the power of stories explain enlighten and engage telling a compelling story introduction obtaining data scrubbing data exploring data modeling data interpreting data weekly review interpreting data congratulations
+
+optional genai in data analytics
+optional you what generative ai is and how it functions you also discover how genai can be applied in different business scenarios as well as navigating the concerns around its usage then you explore how to incorporate genai into your data analytics efforts to streamline processes and improve data quality
+understanding generative ai an overview exploring different genai technologies applications of generative ai in business navigating the challenging concerns with ai integrating genai with data analytics improving data quality and generation with genai genai in predictive analytics case studies genai in data analytics
+</DOC>
+
+<DOC>
+statistics foundations
+this takes a deep dive into the statistical foundation upon which data analytics is built the first part of this will help you to thoroughly understand your dataset and what the data actually means then it will go into sampling including how to ask specific questions about your data and how to conduct analysis to answer those questionsmany of the mistakes made by data analysts today are due to a lack of understanding the concepts behind the tests they run leading to incorrect tests or misinterpreting the results this is tailored to provide you with the necessary background knowledge to comprehend the what and why of your actions in a practical sense by the end of this be able to understand the concept of dependent and independent variables identify variables to test understand the null hypothesis pvalues and their role in testing hypotheses formulate a hypothesis and align it to business goals identify actions based on hypothesis validationinvalidation explain descriptive statistics mean median standard deviation distribution and their use cases understand basic concepts from inferential statistics explain the different levels of analytics descriptive predictive prescriptive in the context of marketing create basic statistical models for regression using data create timeseries forecasts using historical data and basic statistical models understand the basic assumptions use cases and limitations of linear regression fit a linear regression model to a dataset and interpret the output using tableau explain the difference between linear and multivariate regression run a segmentation cluster analysis describe the difference between observational methods and experiments this is designed for people who want to the basics of descriptive and inferential statistics
+
+descriptive statistics
+get an overview of the statistics for marketing and the basics of descriptive statistics and when to use them also be introduced to bayesian statistics also get an overview of your capstone and at the end of the complete part one
+introduction to the introduction to statistics foundations introduction to speaker careers in marketing and marketing analytics capstone introduction introduction measures of central tendency using measures of central tendency to find the middle when to use different measures of central tendency finding the middle with spreadsheets introduction measures of spread variance and range in data analytics standard deviation in data analytics using zscores to judge a value standard deviation in spreadsheets introduction frequency tables frequency tables in marketing analytics how to use contingency tables conditional probability bayesian statistics understanding scatter plots and correlation review
+
+inferential statistics
+be introduced to inferential statistics and how to define samples and populations for marketing also be introduced to the concept of variables at the end of the complete part two of your capstone
+introduction sampling why use sampling sample size in statistics practical sampling techniques introduction distributions finding a distribution finding a distribution in a spreadsheet common distributions in data analytics data shapes introduction variable types quantitative variables qualitative variables independent and dependent variables review
+
+designing experiments and testing hypotheses
+in three dig into how to formulate and test appropriate hypotheses for your business goals wrap up the with part three of your capstone
+introduction experimental design and hypotheses research question hypothesis writing observational vs experimental studies experimental design for data analysis introduction hypothesis and ab testing hypothesis testing and ab testing understanding pvalues confidence intervals in data analytics confidence intervals in a spreadsheet hypothesis testing in a spreadsheet introduction common mistakes in statistics being fair avoiding bias types of errors types i and ii assumptions review
+
+data modeling
+be introduced to various model families and how to create them using tableau also how to interpret the results of these models complete the fourth and final part of your capstone
+introduction statistical modeling what is statistical modeling modeling in data analytics common types of statistical modeling introduction simple linear regression and classification methods simple linear regression simple linear regression in tableau simple linear regression in tableau screencast classification methods in data modeling introduction cluster analysis cluster analysis cluster analysis in tableau introduction time series time series time series in tableau introduction choosing a model choosing a model data analysis case studies weekly review data modeling
+
+using statistics in realworld settings
+combine and apply all the information you have learned throughout the and finalize your capstone finish out the by hearing from a marketing analyst about how they apply the principles you learned in the realworld
+introduction capstone marketing analyst on descriptive statistics marketing analyst on sampling distributions and variables marketing analyst on questions and hypotheses marketing analyst on modeling congratulations
+</DOC>
+
+<DOC>
+python data analytics
+this introduces the use of the python programming language to manipulate datasets as an alternative to spreadsheets follow the osemn framework of data analysis to pull clean manipulate and interpret data all while foundational programming principles and basic python functions be introduced to the python library pandas and how you can use it to obtain scrub explore and visualize data by the end of this be able to use python to construct loops and basic data structures sort query and structure data in pandas the python library create data visualizations with python libraries model and interpret data using python this is designed for people who want to the basics of using python to sort and structure data for data analysis you dont need marketing or data analysis but should have basic internet navigation and be eager to participate
+
+introduction to python
+be introduced to python and how it can be used in data analytics also how to use the jupyter notebook programming environment
+introduction to the instructor introduction approaching data analysis with the osemn framework why python for data analysis jupyter notebook where we write our code basics of using jupyter notebook using jupyter notebook on coursera reviewing example of a typical notebook on coursera activity
+
+basic python concepts
+basic programming principles such as variables and variable types using python also delve into basic python statements such as booleans and conditional statements
+what does a variable mean in python variable types working with types in python reviewing variables in python activity lists tuples reviewing lists tuples activity dictionaries reviewing dictionaries activity booleans in python reviewing using booleans activity conditional statements reviewing using conditionals activity
+
+obtaining and scrubbing data with pandas
+is focused on using a python library called pandas how to use pandas to load select and clean data
+introduction to libraries what is pandas working with pandas series dataframes reviewing pandas activity subsets with pandas reviewing selective subsets activity what is scrubbing removing data reviewing removing data activity modifying values replacing values reviewing replacing values activity
+
+exploring data with python
+further explore and analyze datasets with python how to calculate basic statistics and create data visualizations with pandas and matplotlib another python library
+why exploration exploring relates to scrubbing exploration basic statistics exploration filtering data reviewing basic exploration activity a picture is worth a thousand words introduction to the purpose of visualizations types of exploratory visualizations distributions types of exploratory visualizations category types of exploratory visualizations relationship using pandas and matplotlib to create visualizations reviewing creating visualizations activity understanding visualizations for exploration reviewing exploring with visualization activity where aggregations help us understand data working with groups in pandas reviewing aggregations activity
+
+modeling and interpreting data with python
+focus on modeling data with python and interpreting the model results you complete a data analytics challenge that applies the knowledge of python and the application of the osemn framework you have gained throughout the
+modeling interpreting data overview of modeling modeling with python overview of interpreting interpreting model results exploratory vs explanatory visualizations creating explanatory visualizations osemn tying it all together reviewing full osemn activity
+</DOC>
+
+<DOC>
+introduction to data management
+this explores the basics of data management the role that data plays in making decisions and the standard methods of data collection and quality management gain an understanding of data storage systems and data storage architecture examine the fundamentals of data privacy and compliance as well as the basics of machine learningby the end of this be able to describe the fundamentals of data collection and data quality management explain data storage solutions and architectures including big data management define data security privacy and governance principles this is for learners who want to gain foundational knowledge of data management
+
+collecting data
+the basics of data collection and quality management discover how data supports decisionmaking identify common data sources and explore various data collection methods and tools also gain in managing data quality to ensure its reliability and accuracy empowering you to make better datadriven decisions
+introduction to the introduction instructor introduction overview collecting data what is data importance of data in decisionmaking types of data data sources surveys and questionnaires web scraping and apis sensor data collection common tools for data collection data acquisition best practices data quality dimensions data preprocessing and cleaning data profiling and validation tools conclusion collecting data
+
+storing data
+explore the critical role of data storage in todays datadriven world about different types of data storage systems and how they are used dive into the complexities of managing big data and understand the architecture behind data storage solutions
+overview storing data importance of data storage data storage formats data models relational databases sql document nosql databases data warehousing what is big data hadoop ecosystem distributed data storage data lakes vs data warehouses data storage in the cloud data storage tools and frameworks conclusion storing data
+
+securing data
+delve into the principles of data privacy and compliance understanding their importance in protecting information explore the fundamentals of data governance and how it ensures data is managed effectively additionally how data is secured both in transit and at rest safeguarding it from potential threats and breaches
+overview securing data data security vs data privacy security threats and vulnerabilities encryption and access control data classifications gdpr ccpa and other data privacy regulations data anonymization and pseudonymization compliance best practices data governance framework data stewardship and data ownership data cataloging and metadata management secure communication protocols data encryption methods secure storage solutions conclusion securing data
+
+using data
+the essentials of data analysis and exploration discovering techniques to uncover meaningful insights from your data explore different types of data visualizations and understand how data visualizations can be used to effectively present data to tell compelling stories additionally be introduced to the basics of machine gaining an understanding of how it can be used to automate data analysis and make predictions
+overview data analysis and exploration data analysis vs data analytics exploratory data analysis eda statistical analysis and hypothesis testing common tools used in data analysis and exploration importance of data visualization types of data visualization data visualization tools machine concepts supervised and unsupervised machine tools conclusion using data congratulations
+</DOC>
+
+<DOC>
+data analysis with spreadsheets and sql
+this introduces you to how to use spreadsheets and sql queries to analyze and extract data how to practically apply the osemn data analysis framework and spreadsheet functions to clean data calculate statistics evaluate correlations and more also dive into common data visualization techniques and how to use dashboards to tell a story with your databy the end of this be able to clean data with spreadsheets use common spreadsheet formulas to calculate statistics identify data trends and patterns write foundational sql statements and queries to extract data in spreadsheets create charts in google sheets and use tableau to visualize data use dashboards to create data visualizations you dont need marketing or data analysis but should have basic internet navigation and be eager to participate ideally you have already completed marketing analytics foundation and introduction to data analytics
+
+working with data in spreadsheets
+you the basics of spreadsheets and their usefulness in data analysis also identify how to apply the osemn framework when working with data in spreadsheets
+introduction to the introduction instructor introduction weekly introduction what are spreadsheets and what can they do uses of spreadsheets recap of the osemn framework the use of spreadsheets in data analysis weekly review working with data in spreadsheets
+
+data analysis with spreadsheets
+how to clean data in spreadsheets using foundational spreadsheet functions also how to calculate statistics in spreadsheets as well as how to identify data trends and relationships between variables
+weekly introduction accessing and labeling data filtering and sorting data cleaning data formatting data introduction to functions calculating a total the average and median functions finding minimum and maximum values evaluating correlations compare variables with charts evaluating trends inspecting relationships between variables modeling and functions examples of modeling using spreadsheets limitations of spreadsheets for modeling
+
+extracting data with sql
+be introduced to sql and how it is used in spreadsheets utilize basic queries and functions for handling data with sql
+introduction extracting data with sql why use sql examples using sql sql in google sheets select statements and or and where clauses order by and limit clauses sql commands walkthrough writing functions in sql arithmetic functions aggregate functions group by functions sql functions walkthrough weekly review extracting data with sql
+
+data visualization
+about common chart types and how to determine the best type of chart for the dataset you want to present also how to create these charts using both google sheets and tableau
+introduction data visualization why visualization different tools for data visualization introduction to common chart types bar charts pie charts trend charts scatter plots walkthrough data visualization in google sheets tableau introduction connecting data creating your first chart creating more complex charts in tableau walkthrough data visualization in tableau weekly review data visualization
+
+creating dashboards
+in the final be introduced to dashboards and how to use them to report on progress within a business setting also how to create dashboards in tableau and use these to tell a story when presenting your data findings
+introduction creating dashboards the power of dashboards dashboards and business goals designing a dashboard building a dashboard in tableau adding interactivity introduction storytelling with data visualizations case study dos and donts of storytelling with data visualizations crafting a story weekly review creating dashboards conclusioncongratulations
+</DOC>
+

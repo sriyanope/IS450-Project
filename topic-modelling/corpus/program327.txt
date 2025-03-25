@@ -1,0 +1,141 @@
+<DOC>
+selfdriving cars
+be at the forefront of the autonomous driving industry with market researchers predicting a billion market and more than million selfdriving cars on the road by the next big job boom is right around the cornerthis gives you a comprehensive understanding of stateoftheart engineering practices used in the selfdriving car industry get to interact with real data sets from an autonomous vehicle avall through handson using the open source simulator carlathroughout your courses hear from industry experts who at companies like oxbotica and zoox as they share insights about autonomous technology and how that is powering job growth within the fieldyoull from a highly realistic driving environment that features d pedestrian modelling and environmental conditions when you complete the successfully be able to build your own selfdriving software stack and be ready to apply for jobs in the autonomous vehicle industryit is recommended that you have some background in linear algebra probability statistics calculus physics control theory and python programming need these specifications in order to effectively run the carla simulator windows bit or later or ubuntu or later quadcore intel or amd processor ghz or faster nvidia geforce gtx or amd radeon hd series card or higher gb ram and opengl or greater for linux computersapplied projectyoull from a highly realistic driving environment that features d pedestrian modelling and environmental conditions when you complete the successfully be able to build your own selfdriving software stack and be ready to apply for jobs in the autonomous vehicle industry
+</DOC>
+
+<DOC>
+motion planning for selfdriving cars
+welcome to motion planning for selfdriving cars the fourth in university of torontos selfdriving cars specializationthis will introduce you to the main planning tasks in autonomous driving including mission planning behavior planning and local planning by the end of this be able to find the shortest path over a graph or road network using dijkstras and the a algorithm use finite state machines to select safe behaviors to execute and design optimal smooth paths and velocity profiles to navigate safely around obstacles while obeying traffic laws also build occupancy grid maps of static elements in the environment and how to use them for efficient collision checking this will give you the ability to construct a full selfdriving planning solution to take you from home to while behaving like a typical driving and keeping the vehicle safe at all times for the final implement a hierarchical motion planner to navigate through a sequence of scenarios in the carla simulator including avoiding a vehicle parked in your lane following a lead vehicle and safely navigating an intersection face realworld randomness and need to to ensure your solution is robust to changes in the environment this is an intermediate intended for learners with some background in robotics and it builds on the models and controllers devised in of this to succeed you should have programming in python and familiarity with linear algebra matrices vectors matrix multiplication rank eigenvalues and vectors and inverses and calculus ordinary differential equations integration
+
+welcome to motion planning for selfdriving cars
+this introduces the motion planning as well as some supplementary materials
+welcome to the selfdriving cars welcome to the meet the instructor steven waslander meet the instructor jonathan kelly
+
+the planning problem
+this introduces the richness and challenges of the selfdriving motion planning problem demonstrating a working example that will be built toward throughout this the focus will be on defining the primary scenarios encountered in driving types of loss functions and constraints that affect planning as well as a common decomposition of the planning problem into behaviour and trajectory planning subproblems this introduces a generic hierarchical motion planning optimization formulation that is further expanded and implemented throughout the subsequent
+lesson driving missions scenarios and behaviour lesson motion planning constraints lesson objective functions for autonomous driving lesson hierarchical motion planning
+
+mapping for planning
+the occupancy grid is a discretization of space into fixedsized cells each of which contains a probability that it is occupied it is a basic data structure used throughout robotics and an alternative to storing full point clouds this introduces the occupancy grid and reviews the space and computation requirements of the data structure in many cases a d occupancy grid is sufficient learners will examine ways to efficiently compress and filter d lidar scans to form d maps
+lesson occupancy grids lesson populating occupancy grids from lidar scan data part lesson populating occupancy grids from lidar scan data part lesson occupancy grid updates for selfdriving cars lesson high definition road maps
+
+mission planning in driving environments
+this develops the concepts of shortest path search on graphs in order to find a sequence of road segments in a driving map that will navigate a vehicle from a current location to a destination the covers the definition of a roadmap graph with road segments intersections and travel times and presents dijkstras and a search for identification of the shortest path across the road network
+lesson creating a road network graph lesson dijkstras shortest path search lesson a shortest path search
+
+dynamic object interactions
+this introduces dynamic obstacles into the behaviour planning problem and presents learners with the tools to assess the time to collision of vehicles and pedestrians in the environment
+lesson motion prediction lesson mapaware motion prediction lesson time to collision
+
+principles of behaviour planning
+this develops a basic rulebased behaviour planning system which performs high level decision making of driving behaviours such as lane changes passing of parked cars and progress through intersections the defines a consistent set of rules that are evaluated to select preferred vehicle behaviours that restrict the set of possible paths and speed profiles to be explored in lower level planning
+lesson behaviour planning lesson handling an intersection scenario without dynamic objects lesson handling an intersection scenario with dynamic objects lesson handling multiple scenarios lesson advanced methods for behaviour planning
+
+reactive planning in static environments
+a reactive planner takes local information available within a sensor footprint and a global objective defined in a map coordinate frame to identify a locally feasible path to follow that is collision free and makes progress to a goal learners will develop a trajectory rollout and dynamic window planner which enables path finding in arbitrary static d environments the limits of the approach for true selfdriving will also be discussed
+lesson trajectory propagation lesson collision checking lesson trajectory rollout algorithm lesson dynamic windowing
+
+putting it all together smooth local planning
+parameterized curves are widely used to define paths through the environment for selfdriving this introduces continuous curve path optimization as a two point boundary value problem which minimized deviation from a desired path while satisfying curvature constraints
+lesson parametric curves lesson path planning optimization lesson optimization in python lesson conformal lattice planning lesson velocity profile generation final overview final solution locked congratulations for completing the congratulations on completing the
+</DOC>
+
+<DOC>
+state estimation and localization for selfdriving cars
+welcome to state estimation and localization for selfdriving cars the second in university of torontos selfdriving cars we recommend you take the first in the prior to taking this this will introduce you to the different sensors and how we can use them for state estimation and localization in a selfdriving car by the end of this be able to understand the key methods for parameter and state estimation used for autonomous driving such as the method of leastsquares develop a model for typical vehicle localization sensors including gps and imus apply extended and unscented kalman filters to a vehicle state estimation problem understand lidar scan matching and the iterative closest point algorithm apply these tools to fuse multiple sensor streams into a single state estimate for a selfdriving car for the final implement the errorstate extended kalman filter esekf to localize a vehicle using data from the carla simulator this is an advanced intended for learners with a background in mechanical engineering computer and electrical engineering or robotics to succeed you should have programming in python familiarity with linear algebra matrices vectors matrix multiplication rank eigenvalues and vectors and inverses statistics gaussian probability distributions calculus and physics forces moments inertia newtons laws
+
+welcome to state estimation and localization for selfdriving cars
+this introduces you to the main concepts discussed in the and presents the layout of the the describes and motivates the problems of state estimation and localization for selfdriving cars an accurate estimate of the vehicle state and its position on the road is required at all times to drive safely
+welcome to the selfdriving cars welcome to the meet the instructor jonathan kelly meet the instructor steven waslander meet diana firmware engineer meet winston software engineer meet andy autonomous systems architect meet paul newman founder oxbotica professor at university of oxford the importance of state estimation
+
+least squares
+the method of least squares developed by carl friedrich gauss in is a well known technique for estimating parameter values from data this provides a review of least squares for the cases of unweighted and weighted observations there is a deep connection between least squares and maximum likelihood estimators when the observations are considered to be gaussian random variables and this connection is established and explained finally the develops a technique to transform the traditional batch least squares estimator to a recursive form suitable for online realtime estimation applications
+lesson part squared error criterion and the method of least squares lesson part squared error criterion and the method of least squares lesson recursive least squares lesson least squares and the method of maximum likelihood
+
+state estimation linear and nonlinear kalman filters
+any engineer working on autonomous vehicles must understand the kalman filter first described in a paper by rudolf kalman in the filter has been recognized as one of the top algorithms of the th century is implemented in software that runs on your smartphone and on modern jet aircraft and was crucial to enabling the apollo spacecraft to reach the moon this derives the kalman filter equations from a least squares perspective for linear systems the also examines why the kalman filter is the best linear unbiased estimator that is it is optimal in the linear case the kalman filter as originally published is a linear algorithm however all systems in practice are nonlinear to some degree shortly after the kalman filter was developed it was extended to nonlinear systems resulting in an algorithm now called the extended kalman filter or ekf the ekf is the bread and butter of state estimators and should be in every engineers toolbox this explains how the ekf operates ie through linearization and discusses its relationship to the original kalman filter the also provides an overview of the unscented kalman filter or ukf a more recently developed and very popular member of the kalman filter family
+lesson the linear kalman filter lesson kalman filter and the bias blues lesson going nonlinear the extended kalman filter lesson an improved ekf the error state extended kalman filter lesson limitations of the ekf lesson an alternative to the ekf the unscented kalman filter
+
+gnssins sensing for pose estimation
+to navigate reliably autonomous vehicles require an estimate of their pose position and orientation in the world and on the road at all times much like for modern aircraft this information can be derived from a combination of gps measurements and inertial navigation system ins data this introduces sensor models for inertial measurement units and gps and more broadly gnss receivers performance and noise characteristics are reviewed the describes ways in which the two sensor systems can be used in combination to provide accurate and robust vehicle pose estimates
+lesson d geometry and reference frames lesson the inertial measurement unit imu lesson the global navigation satellite systems gnss why sensor fusion
+
+lidar sensing
+lidar light detection and ranging sensing is an enabling technology for selfdriving vehicles lidar sensors can see farther than cameras and are able to provide accurate range information this develops a basic lidar sensor model and explores how lidar data can be used to produce point clouds collections of d points in a specific reference frame learners will examine ways in which two lidar point clouds can be registered or aligned in order to determine how the pose of the vehicle has changed with time ie the transformation between two local reference frames
+lesson light detection and ranging sensors lesson lidar sensor models and point clouds lesson pose estimation from lidar data optimizing state estimation
+
+putting it together an autonomous vehicle state estimator
+this combines materials from together with the goal of developing a full vehicle state estimator learners will build using data from the carla simulator an errorstate extended kalman filterbased estimator that incorporates gps imu and lidar measurements to determine the vehicle position and orientation on the road at a high update rate there will be an to observe what happens to the quality of the state estimate when one or more of the sensors either drop out or are disabled
+lesson state estimation in practice lesson multisensor fusion for state estimation lesson sensor calibration a necessary evil lesson loss of one or more sensors the challenges of state estimation final lesson overview final solution locked congratulations on completing
+</DOC>
+
+<DOC>
+visual perception for selfdriving cars
+welcome to visual perception for selfdriving cars the third in university of torontos selfdriving cars specializationthis will introduce you to the main perception tasks in autonomous driving static and dynamic object detection and will survey common computer vision methods for robotic perception by the end of this be able to with the pinhole camera model perform intrinsic and extrinsic camera calibration detect describe and match image features and design your own convolutional neural networks apply these methods to visual odometry object detection and tracking and semantic segmentation for drivable surface estimation these techniques represent the main building blocks of the perception system for selfdriving cars for the final develop algorithms that identify bounding boxes for objects in the scene and define the boundaries of the drivable surface with synthetic and real image data and evaluate your performance on a realistic dataset this is an advanced intended for learners with a background in computer vision and deep to succeed you should have programming in python and familiarity with linear algebra matrices vectors matrix multiplication rank eigenvalues and vectors and inverses
+
+welcome to visual perception for selfdriving cars
+this introduces the main concepts from the broad and exciting field of computer vision needed to progress through perception methods for selfdriving vehicles the main components include camera models and their calibration monocular and stereo vision projective geometry and convolution operations
+welcome to the selfdriving cars welcome to the meet the instructor steven waslander meet the instructor jonathan kelly
+
+basics of d computer vision
+this introduces the main concepts from the broad field of computer vision needed to progress through perception methods for selfdriving vehicles the main components include camera models and their calibration monocular and stereo vision projective geometry and convolution operations
+lesson part the camera sensor lesson part camera projective geometry lesson camera calibration lesson part visual depth perception stereopsis lesson part visual depth perception computing the disparity lesson image filtering
+
+visual features detection and matching
+visual features are used to track motion through an environment and to recognize places in a map this describes how features can be detected and tracked through a sequence of images and fused with other sources for localization as described in feature extraction is also fundamental to object detection and semantic segmentation in deep networks and this introduces some of the feature detection methods employed in that context as well
+lesson introduction to image features and feature detectors lesson feature descriptors lesson part feature matching lesson part feature matching handling ambiguity in matching lesson outlier rejection lesson visual odometry
+
+feedforward neural networks
+deep is a core enabling technology for selfdriving perception this briefly introduces the core concepts employed in modern convolutional neural networks with an emphasis on methods that have been proven to be effective for tasks such as object detection and semantic segmentation basic network architectures common components and helpful tools for constructing and training networks are described
+lesson feed forward neural networks lesson output layers and loss functions lesson neural network training with gradient descent lesson data splits and neural network performance evaluation lesson neural network regularization lesson convolutional neural networks
+
+d object detection
+the two most prevalent applications of deep neural networks to selfdriving are object detection including pedestrian cyclists and vehicles and semantic segmentation which associates image pixels with useful labels such as sign light curb road vehicle etc this presents baseline techniques for object detection and the following introduce semantic segmentation both of which can be used to create a complete selfdriving car perception pipeline
+lesson the object detection problem lesson d object detection with convolutional neural networks lesson training vs inference lesson using d object detectors for selfdriving cars
+
+semantic segmentation
+the second most prevalent application of deep neural networks to selfdriving is semantic segmentation which associates image pixels with useful labels such as sign light curb road vehicle etc the main use for segmentation is to identify the drivable surface which aids in ground plane estimation object detection and lane boundary assessment segmentation labels are also being directly integrated into object detection as pixel masks for static objects such as signs lights and lanes and moving objects such cars trucks bicycles and pedestrians
+lesson the semantic segmentation problem lesson convnets for semantic segmentation lesson semantic segmentation for road scene understanding
+
+putting it together perception of dynamic objects in the drivable region
+the final of this focuses on the implementation of a collision warning system that alerts a selfdriving car about the position and category of obstacles present in their lane the is comprised of three major segments estimating the drivable space in d semantic lane estimation and filter wrong output from object detection using semantic segmentation
+overview using carla for object detection and segmentation final hints final solution locked congratulations for completing the
+</DOC>
+
+<DOC>
+introduction to selfdriving cars
+welcome to introduction to selfdriving cars the first in university of torontos selfdriving cars this will introduce you to the terminology design considerations and safety assessment of selfdriving cars by the end of this be able to understand commonly used hardware used for selfdriving cars identify the main components of the selfdriving software stack vehicle modelling and control analyze the safety frameworks and current industry practices for vehicle development for the final develop control code to navigate a selfdriving car around a racetrack in the carla simulation environment construct longitudinal and lateral dynamic models for a vehicle and create controllers that regulate speed and path tracking performance using python test the limits of your control design and the challenges inherent in driving at the limit of vehicle performance this is an advanced intended for learners with a background in mechanical engineering computer and electrical engineering or robotics to succeed you should have programming in python familiarity with linear algebra matrices vectors matrix multiplication rank eigenvalues and vectors and inverses statistics gaussian probability distributions calculus and physics forces moments inertia newtons laws also need certain hardware and software specifications in order to effectively run the carla simulator windows bit or later or ubuntu or later quadcore intel or amd processor ghz or faster nvidia geforce gtx or amd radeon hd series card or higher gb ram and opengl or greater for linux computers
+
+welcome to the selfdriving cars
+this will introduce you to the main concepts and layout of the and discusses the major advances made in the field over the last two decades highlighting the most recent progress made by major players in terms of safety and performance metrics where available
+welcome to the selfdriving cars welcome to the the story of autonomous vehicles meet the instructor steven waslander meet the instructor jonathan kelly meet diana firmware engineer meet winston software engineer meet andy autonomous systems architect meet paul newman founder oxbotica professor at university of oxford why should you take this
+
+the requirements for autonomy
+selfdriving cars present an extremely rich and interdisciplinary problem this introduces the language and structure of the problem definition defining the most salient elements of the driving task and the driving environment
+lesson taxonomy of driving lesson requirements for perception lesson driving decisions and actions advice for breaking into the selfdriving cars industry
+
+selfdriving hardware and software architectures
+system architectures for selfdriving vehicles are extremely diverse as no standardized solution has yet emerged this describes both the hardware and software architectures commonly used and some of the tradeoffs in terms of cost reliability performance and complexity that constrain autonomous vehicle design
+lesson sensors and computing hardware lesson hardware configuration design lesson software architecture lesson environment representation the future of autonomous vehicles
+
+safety assurance for autonomous vehicles
+as the selfdriving domain matures the requirement for safety assurance on public roads become more critical to selfdriving developers evaluate the challenges and approaches employed to date to tackle the immense challenge of assuring the safe operation of autonomous vehicles in an uncontrolled public road driving environment
+lesson safety assurance for selfdriving vehicles lesson industry methods for safety assurance and testing lesson safety frameworks for selfdriving meet professor krzysztof czarnecki safety assurance expert prof krzysztof czarnecki on assessing and validating autonomous safety an impossible task prof krzysztof czarneckis lessons from aerospace can the av industry collaborate on safety paul newman on the trolley problem how companies approach autonomous vehicle safety
+
+vehicle dynamic modeling
+the first task for automating an driverless vehicle is to define a model for how the vehicle moves given steering throttle and brake commands this progresses through a sequence of increasing fidelity physicsbased models that are used to design vehicle controllers and motion planners that adhere to the limits of vehicle capabilities
+lesson kinematic modeling in d lesson the kinematic bicycle model lesson dynamic modeling in d lesson longitudinal vehicle modeling lesson lateral dynamics of bicycle model lesson vehicle actuation lesson tire slip and modeling challenges for the industry
+
+vehicle longitudinal control
+longitudinal control of an autonomous vehicle involves tracking a speed profile along a fixed path and can be achieved with reasonable accuracy using classic control techniques how to develop a baseline controller that is applicable for a significant subset of driving conditions which include most nonevasive or highlydynamic motions
+lesson proportionalintegralderivative pid control lesson longitudinal speed control with pid lesson feedforward speed control zooxs approach to selfdriving cars
+
+vehicle lateral control
+about how lateral vehicle control ensures that a fixed path through the environment is tracked accurately see how to define geometry of the path following control problem and develop both a simple geometric control and a dynamic model predictive control approach
+lesson introduction to lateral vehicle control lesson geometric lateral control pure pursuit lesson geometric lateral control stanley lesson advanced steering control mpc
+
+putting it all together
+for the last of the now get hands on with a simulation of an autonomous vehicle that requires longitudinal and lateral vehicle control design to track a predefined path along a racetrack with a given speed profile you are encouraged to modify the speed profile andor path to improve their lap time without any requirement to do so and play
+lesson carla overview selfdriving car simulation lesson final overview final solution congratulations on completing
+</DOC>
+

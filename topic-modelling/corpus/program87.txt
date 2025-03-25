@@ -1,0 +1,93 @@
+<DOC>
+data analytics in the public sector with r
+every government entity collects and stores millions of data points to perform administrative and legislative duties allocate resources and make decisions professionals in the public sector need the necessary to accurately interpret and inform administrators and policymakers about the meaning behind these datathis will equip you with fundamental technical using the r programming language to gather manipulate analyze visualize and interpret data to inform public policy and public administrative functions throughout four courses gain new using the popular tidyverse packages such as dplyr for data manipulation and ggplot for visualization identify and address common political and ethical challenges in data analysis and better understand public administration and public policy concepts using handson activities with realworld data setsthis series is ideal for current or earlycareer professionals in the public sector looking to gain in analyzing public data effectivelythere are no prerequisites though programming ideally with the r language and basic applied statistics knowledge are recommended the google data analytics offers such foundational earn a dual badge when you complete the google and this all coursework is completed in rstudio in coursera without the need to install additional software applied projectthere is an to practice all of your r within handson exercises for each in the capstone exercise of learners will analyze data as part of policy options analysis create a visualization of the results of the analysis and make a recommendation based on the results
+</DOC>
+
+<DOC>
+exploratory data analysis for the public sector with ggplot
+about the core pillars of the public sector and the core functions of public administration through statistical exploratory data analysis eda analytical and technical using the r programming language to explore visualize and present data with a focus on equity and the administrative functions of planning and reporting technical will focus on the ggplot library of the tidyverse and include developing bar line and scatter charts generating trend lines and understanding histograms kernel density estimations violin plots and ridgeplots these are enhanced with lessons on best practices for good information visualization design upon completing this understand the layered grammar of graphics and its implementation in ggplot all while exploring a diverse set of authentic public datasetsall coursework is completed in rstudio in coursera without the need to install additional software this is the second of four courses within the data analytics in the public sector with r the series is ideal for current or earlycareer professionals working in the public sector looking to gain in analyzing public data effectively it is also ideal for current data analytics professionals or students looking to enter the public sector
+
+introduction to visualization with ggplot
+welcome to the second in the data analytics in the public sector with rexploratory data analysis for public administration with ggplot begin to develop the of exploratory data analysis through constructing ggplot plots and line plots in rstudio also get to recognize the importance of data visualization for public administration and how powerful data visualization are in the profession of a data analyst
+introduction to exploratory data analysis with ggplot a layered grammar of graphics factors in r our first ggplot plot our first ggplot plot a little more aesthetic exploring ggplot line plots the power of data visualization for public administration one more thing for case study of eda of a disturbing trend
+
+fundamentals of exploratory data analysis eda
+welcome to about the importance of exploratory data analysis eda for the core principle of equity building on the previous also continue to develop of exploratory data analysis through understanding frequencies and distributions and how to construct trendlines and histograms using rstudio
+equity as a core principle of public administration example digital equity the importance of equity in public health interview with dr joneigh khaldun trendlines the basics trendlines understanding trends going further with them distributions and histograms getting started a deep dive into histograms making a population pyramid the base improving the visuals of a population pyramid
+
+visualizing populations and trends with r
+welcome to start exploring distributions and develop the of visualizing different distributions such as boxplots violin plots and ridgeplots also how to develop scale coord faceats across layers in ggplot using rstudio
+lets go fishing boxplots boxplots increasing variables violin plots ridgeplots
+
+best practices for data visualization
+welcome to the last the best practices for data visualization through communication principles and also about information visualization theory and how to apply that in developing data visualization in rstudio
+beware misleading data visualization communication principles for data analysts introduction to design of visual information graphical heuristics dataink ratio edward tufte graphical heuristics chart junk edward tufte graphical heuristics lie factor and spark lines edward tufte the truthful art alberto cairo tools for thinking about design small multiples sploms one more thing for world data visualization prize in congratulations on completing the
+</DOC>
+
+<DOC>
+assisting public sector decision makers with policy analysis
+develop data analysis that support public sector decisionmakers by performing policy analysis through all phases of the policymaking process how to apply data analysis techniques to the core public sector principles of efficiency effectiveness and equity through authentic case studies and data sets develop analytical commonly used to analyze and assess policies and programs including policy options analysis microsimulation modeling and research designs for and policy evaluation also intermediate technical such as chisquared tests and contingency tables comparing samples through ttests and anova applying tukeys honest significant difference to correct for multiple tests understanding pvalues and visualizing simulations of statistical functions to help answer questions policymakers ask such as what should we do and did it in addition practice statistical testing and create ggplot visuals for two realworld datasets using the r programming languageall coursework is completed in rstudio in coursera without the need to install additional software this is the third of four courses within the data analytics in the public sector with r the series is ideal for current or early professionals working in the public sector looking to gain in analyzing public data effectively it is also ideal for current data analytics professionals or students looking to enter the public sector
+
+policy frameworks types of policy analysis
+welcome to the third in the data analytics in the public sector with r assisting public sector decision makers with data and policy analysis begin to develop a competent understanding of different policy frameworks and types of policy analyses also get to recognize the important role of data analytics in the policy analysis process
+introduction to assisting public sector decision makers with data and policy analysis what is policy and why it matters policy typology facts about public policy policy typologyexamples the policy making process policy analysis definitions examples policy analysis role of data analytics in the policy analysis
+
+prospective policy analysis what should we dopart
+welcome to will be your introduction to prospective policy analysis to develop analytical to choose appropriate policy options and develop in forecasting and policy simulation methods first the steps in the policy options analysis process and then dive deeper into inferential statistical analysis in r
+framework for policy options analysispart framework for policy options analysispart introduction to inferential statistical analysis in r chisquared tests of association ttests of difference in means anova models pvalues simulation
+
+prospective policy analysis what should we dopart
+welcome to continue about prospective policy analysis to develop analytical to choose appropriate policy options and develop in forecasting and policy simulation methods about policy microsimulation modeling through authentic examples and case studies
+introduction to policy simulation modeling examples of policy simulation models economic analysis in simulation modeling costbenefit analysis economic analysis in simulation modeling costeffectiveness analysis dealing with uncertainty sensitivity analysis example of sensitivity analysis to deal with uncertainty policy microsimulation what is a compartmental model a basic tobacco control compartment model tobacco control compartmental model menthol cigarette example
+
+programpolicy evaluation did it workpart
+welcome to dive into and policy evaluation first the basics of policy and evaluation the fundamentals of research designthe core of evaluation and the different research designs for you can use for evaluation
+what is evaluation and why it matters types of evaluation evaluation framework focusing the design and gathering credible evidence example of a research design internal and external validity the basics internal and external validity examples common research designs for evaluation in public sector experimental designs examples of randomizedcontrolled trials rcts of public programs coming up next the dc garbage can case study the dc garbage can intervention data analysis the dc garbage can intervention joining data the dc garbage can intervention wrapup one more thing for random vs random selection
+
+programpolicy evaluation did it workpart
+welcome to the last about the quasiexperimental research designs for and policy evaluation the basics of timeseries design and develop specific for data analytics
+quasi experimental designs the basics of timeseries design timeseries design examples coming up next the sicily smoking ban case study the sicily smoking ban case study a worked example of epidemiology congratulations on completing the
+</DOC>
+
+<DOC>
+fundamentals of data analytics in the public sector with r
+gain a foundational understanding of key terms and concepts in public administration and public policy while foundational programming techniques using the r programming language how to execute functions to load select filter mutate and summarize data frames using the tidyverse libraries with an emphasis on the dplyr package by the end of the create custom functions and apply them to population data which is commonly found in public sector analyticsthroughout the with authentic public datasets and all programming can be completed in rstudio on the coursera platform without additional software this is the first of four courses within the data analytics in the public sector with r the series is ideal for current or early professionals working in the public sector looking to gain in analyzing public data effectively it is also ideal for current data analytics professionals or students looking to enter the public sector
+
+introduction to data analytics in the public sector with r
+welcome to the data analytics in the public sector with r and the first coursefundamentals of public sector data analysis with r will be your orientation to the and the first also get to several fundamental terms and their definitions that we will frequently use throughout the and the
+welcome from the university of michigan what is the public sector what are public goodsservices data science and data analytics an introduction what does public administration public policy mean introduction to rstudio
+
+core functions of public administration and r basics
+welcome to start about the core functions of public administration and the role of data analytics in these functions also start developing your with rstudio
+general organization of government bureaucracies examples of government bureaucracies core functions of public administration planning organizing staffing directing core functions of public administration coordinating reporting budgeting applications of data analytics to public administration functions getting started with r the basics getting started with r the basics of vectorized language getting started with r attributes of data exploring r dataframes columns as variables using vectors to select and analyze data exploring r dataframes dealing with missing values through boolean masking exploring r dataframes creating statistics from cleaned dataframe one more thing for
+
+survey data analysis with the tidyverse
+welcome to several analysis for survey dataone of the most common types of data in the public sector these will allow you to not only understand how survey data could be designed and collected but also how to analyze such data in rstudio and how to interpret them
+survey data analytics importance types and examples of survey data analytics in the public sector what analysts need to know about survey designs types what analysts need to know about survey deployment what analysts need to know in understanding survey data part what analysts need to know in understanding survey data part example reading a codebook example dashboards example of a codebook the behavioral risk factor surveillance system data manipulation with dplyr tidyverse exploring the data data manipulation with dplyr pipe operator adding variables data manipulation with dplyr formulas in r data analysis grouping by variable data analysis grouping by multiple variables one more thing for
+
+population data analysis with custom r functions
+welcome to several analysis for population dataone of the most common types of data in the public sector that allow answering basic population questions these will allow you to not only understand the sources of population data but also how to analyze such data in rstudio and how to interpret them
+importance of population data analytics the three main demographic processes population data analytics key population data sources population data analytics the answer to a basic population question creating custom analytics applying custom analytics to groups writing functions alternative analytics for tdr
+
+public sector data analytics in practice
+welcome to the last get to hear stories from public sector data analysts with the goal of recognizing the challenges associated with the profession of a data analyst
+daytoday role of public health data interview with joneigh khaldun interview with javed ali part national security government bureaucracy interview with javed ali part the role of data in national security as a public good one more thing for congratulations
+</DOC>
+
+<DOC>
+politics and ethics of data analytics in the public sector
+deepen your understanding of the power and politics of data in the public sector including how values in addition to data and evidence are always part of public sector decisionmaking explore common ethical challenges associated with data data analytics and randomized controlled trials in the public sector also navigate and understand the ethical issues related to data systems and data analysis by understanding frameworks codes of ethics and guidelines using two technical case studies understand common ethical issues including participation bias in populations and how slicing analysis is used to identify bias in predictive machine models this also serves as a capstone for the data analytics in the public sector with r where conduct an applied policy options analysis using authentic data from a realworld case study capstone exercise review data as part of policy options analysis create a visualization of the results and make a recommendationall coursework is completed in rstudio in coursera without the need to install additional software this is the fourth and final within the data analytics in the public sector with r the series is ideal for current or earlycareer professionals working in the public sector looking to gain in analyzing public data effectively it is also ideal for current data analytics professionals or students looking to enter the public sector
+
+the power and politics of data
+welcome to the fourth and the last in the data analytics in the public sector with r politics and ethics of data analytics in the public sector begin to develop a competent understanding of politics and ethical challenges in data analytics
+introduction to the politics of data in the public sector review of politicsethics terminology politics values and ethics why ethics for data analytics matter examples of ethics situations for data analytics the tenets of the united states data ethics framework one more thing for principles of open government data
+
+ethics for data analysts
+welcome to dive deeper into the ethical challenges in the profession of data analyst and how to respond to these ethical challenges get through authentic examples and case studies
+measuring population bias measuring population bias the study measuring population bias the results ethical issues in rcts ethical issues in rcts shadow interventions considering model bias measuring and detecting bias in machine algorithms measuring model bias with slicing common ethical issues in policy analysis ethics responding to challenges ethics example of a responding to challenges cancer staging system wisconsin case study
+
+bringing it all together in a case study
+welcome to the last of this get to apply all that you learned and the data analytics in the public sector with r through a capstone with an authentic case study of providing pensions for the poor in mexico
+case study providing pensions for the poor in mexico part case study providing pensions for the poor in mexico part case study providing pensions for the poor in mexico part congratulations on earning the data analytics in the public sector
+</DOC>
+

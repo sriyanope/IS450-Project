@@ -1,0 +1,97 @@
+<DOC>
+network automation engineering fundamentals
+the network automation engineering fundamentals takes mid to expertlevel network engineers through the primary topics of network automation and programmability and prepares them for the netdevops environment this serves as a wellrounded survey of topics and core that a network automation engineer should know to effectively deploy and operate a netdevops environmentcompleting this will help you prepare to operate as a network automation engineer with the needed to advance your careerapplied projectwe do not have any handson curriculum on completion of this be prepared to operate as a network automation engineer with the necessary needed to advance in your this serves as a wellrounded survey of topics and core that a network automation engineer should know to effectively deploy and operate a netdevops environment
+</DOC>
+
+<DOC>
+using apis for network automation
+this will provide a solid foundation for understanding how apis are utilized in network automation by discussing important topics such as data encoding formats rest apis and the python requests library upon completion of the be equipped with the necessary to utilize apis in your network automation solution and be able to describe the usefulness of apis contextthis is primarily intended for network engineers systems engineers network architects and managers interested in the fundamentals of network automation and network apis by the end of the be able to describe the need for data encoding formats and study various data encoding formats interpret and construct httpbased apis calls to network devices construct and interpret python scripts using the python requests to automate devices that have httpbased apis to be successful you should be proficient in fundamental network routing switching technologies understand the basics of python programming mos exp and have some familiarity with linux
+
+introduction for using apis for network automation
+we will review the topics and what
+
+reviewing data formats and data encoding
+the foundational programming topic of data encoding formats is an essential for understanding the more advanced concepts like apis application programming interfaces and python programmability first about the two main data encoding formats xml extensible markup language and json javascript object notation which are commonly used in apis this also introduces yaml a structured data format and markup language commonly used for configuration files in automation and is gaining popularity due to its ease of readability for humans
+introduction for reviewing data formats and data encoding data encoding formats javascript object notation extensible markup language yaml data serialization standard ask the expertdata encoding formats
+
+introducing http network apis
+the application programming interface api enables unrelated applications to interface with each other without having to understand how each other works or share the same programmatic language apis are becoming more commonplace in todays digital age and are enabling a world of automation and interactivity network engineers need to understand how to leverage apis as vendors like cisco are designing apis for many of their products enabling the ease of network automation and creating more possibilities to interact with rd party nonnetworking products
+introduction to introducing http network apis api overview httpbased apis restful apis vs nonrestful apis common api constraints postman streaming telemetry
+
+using python requests to automate httpbased apis
+nearly any platform or commercial product comes with some sort of application programming interface api capability many of which are http apis these apis can be used for machinetomachine communication for network automation and can be the catalyst that you need to fully accelerate your network automation journey you have seen how you can use postman for testing and exploring http apis but to do anything with the api while in a programming language like python you need to use an http client one such client which is presented section is the requests for python
+introduction to using python requests to automate httpbased apis python requests overview http authentication part http authentication part
+</DOC>
+
+<DOC>
+ansible for network automation
+this will train you on the fundamentals of ansible an opensource extensible configuration management tool that streamlines infrastructure management in modern networking environments also about jinja a templating language that expands flexibility in automation tasks upon completing this have an essential understanding of ansible and its application to network automation enabling you to effectively automate network tasks and improve network operationsthis is primarily intended for network engineers systems engineers network architects and managers interested in the fundamentals of network automation and ansible by the end of this be able to construct ansible playbooks to configure network devices and retrieve operational state data from network devices build jinja templates and yaml data structures to generate desired state configurations proficiency in fundamental network routing switching technologies basics of python programming mos exp and basic linux knowledge
+
+introduction for ansible for network automation
+we will review the topics and what
+
+introducing ansible for network automation
+be introduced to some of the basics of ansible become familiar with some of ansibles fundamental architecture and components like inventory files variables and most importantly playbooks also be introduced to the iosconfig which is explicitly built for cisco ios devices and makes creating plays and tasks for your cisco devices easier ansible has numerous available for many different vendors operating systems and technologies and this will discuss how to look up more information about them also be introduced to ansible galaxy a rd party repository for ansible
+introduction to introduction to introducing ansible for network automation use the cisco ios core configuration ansible documentation gather cisco ios device facts use the cisco ios core command ask the expertnetwork automation with ansible
+
+templating configurations with jinja
+typically network engineers perform countless manual network operations and changes the most common workflow is to build a microsoft notepad file or microsoft word document and call it a template however that template is only a set of instructions for building a configurationit is not a real template jinja is a templating engine that is purposebuilt for python about the jinja templating engine and start to build programmatic templates and command data with real configuration templates
+introduction templating configurations with jinja jinja overview basic yaml configuration templating with ansible
+</DOC>
+
+<DOC>
+introduction to network automation
+the network infrastructure industry has undergone a significant transformation in recent years with an increasing need for automation due to factors such as a demand for faster and more reliable network deployments therefore there is a growing need for network engineers skilled in automation and programmabilitythis is primarily intended for network engineers systems engineers network architects and managers interested in the fundamentals of network automation by the end of the be able to articulate the role network automation and programmability plays in the context of endtoend network management and operations interpret python scripts with fundamental programming constructs built for network automation use cases to be successful you should be proficient in fundamental network routing switching technologies understand the basics of python programming mos exp and have some familiarity with linux
+
+introduction for introduction to network automation
+we will review the topics and what
+
+examining network management and operations
+network operations have not changed in decades for years the console telnet and secure shell ssh along with the cli were the primary methods for managing and operating networks of any size with the rise of programmatic interfaces on network devices and the growing need for enhanced reliability assurance and predictability network operations are now in the midst of a radical shift in how devices are deployed and operated this section reviews how devices have been managed historically and provides a glimpse into the future of network operations
+introduction to examining network management and operations traditional network management network automation and programmability network automation use cases multidomain network automation modeldriven programmability controllerlevel vs devicelevel management and programmability
+
+using python for network automation
+network automation is the future of network operation today network engineers need to know how to interact with their network devices using application programming interfaces apis and programmatic interfaces and at a minimum they must understand some fundamentals of coding section explore a programming language that is widely used in network automationpython start by different data types that python supports and then the differences between and packages and how to use them to your benefit next about a that lets you interact with devices with code finally create your own and interact with the code inside it
+model introduction to using python for network automation python fundamentals network libraries inside python python package management netmiko
+</DOC>
+
+<DOC>
+introducing modeldriven programmability
+about modeldriven programmability and its use of yang data models to provide a standardized way to access network devices and their capabilities be introduced to yangs terminology and structures and the tools and protocols that rely on yang including netconf and restconf additionally how to use python libraries to interact with netconf and restconfenabled systems by the end of the have a comprehensive understanding of modeldriven programmability and yangs importance in network automationby the end of this be able to explain the role yang plays within a network automation context describe the tools that exist to simplify working with yang models describe the functionality of restconf and netconf and the differences between them proficiency in fundamental network routing switching technologies basics of python programming mos exp and basic linux knowledge
+
+introduction for introducing modeldriven programmability
+we will review the topics and what
+
+exploring yang
+data models are abstract entities that organize elements of the data and standardize how the elements relate to each other network engineers interact with data models indirectly on a daily basis as they navigate a command line to change or retrieve information knowing the structure and capabilities of these data models is crucial to unlocking the maximum potential of these new digitalready network devices yang is the common language that is used to describe the capabilities of network devices and to create data models this begins to explore yang and how it is used
+introduction for exploring yang introduction to yang types of yang models
+
+using yang tools
+yet another next generation yang is a very sophisticated and sometimes daunting concept to to understand it better the opensource community and manufacturers like cisco have created tools and environments that can help you better understand and use yang section examine the tools that can be used to about and ease the consumption of yang
+introduction for using yang tools yang tool types pyang yang suite
+
+automating modeldriven apis with python
+netconf and restconf are programmatic interfaces for network devices that allow you to manage network infrastructure programmatically using yang data models netconf and restconf provide a standardized way to programmatically read and modify the configuration data of a network device and perform general operations on networking devices
+introduction to automating modeldriven apis with python netconf overview python ncclient restconf overview
+</DOC>
+
+<DOC>
+devops for network automation netdevops
+this will introduce students to various devops tools such as git and virtual environments for python development and explain the concept of continuous integration the topics of how different development methodologies are used in devops such as the agile process by the end of the students will have a broad understanding of devops and how they can relate to netdevops which leads to improved efficiency and success in network operationsthis is primarily intended for network engineers systems engineers network architects and managers interested in the fundamentals of network automation and netdevops by the end of the be able to define and differentiate between waterfall and agile software development methodologies describe how devops principles tools and pipelines can be applied to network operations explain the role of network automation development environments and associated technologies such as python virtual environments vagrant and docker to be successful you should be proficient in fundamental network routing switching technologies understand the basics of python programming mos exp and have some familiarity with linux
+
+introduction for devops for network automation netdevops
+we will review the topics and what
+
+exploring software development methodologies
+optimizing production processes is importantthis priority is best seen in companies like toyota and ford that know how to efficiently manage mass production of complex systems this emphasis on optimization is also true for software development these days software needs to be delivered as rapidly as possible at extremely high quality business requirements are changing and industries are changing software development now resembles manufacturing as it was decades ago while software development is like other industries the it industry possesses some unique operational requirements that must be met this section explores the related methodologies in it from the most classic to the most innovative ones
+introduction to exploring software development methodologies impact of software waterfall development process part of waterfall development process part of agile methodology
+
+describing netdevops devops for networking
+the principles of devops have been around for quite some time now its initial applicability was toward applications and bridging the gap between application developers and the operations teams who supported those applications however over the past few years a concept that is called network development and operations netdevops has emerged that covers the applicability of devops principles processes and tools for it networking professionals with the goal of increasing uptime reliability and predictability while also benefiting from automation this explores common tools that are used within a netdevops pipeline
+introduction for describing netdevops devops for networking development and operations exploring devops tools git fundamentals part of git fundamentals part of git branches merge conflicts continuous integration
+
+managing automation development environments
+automation development environments allow developers and network automation engineers to in consistent and reproducible environments these environments accommodate the software dependencies and versions that vary from one system to another by using isolated environments containers and tools that manage multiple virtual machines vms
+introduction to managing automation development environments need for reproducible development environments python virtual environments vagrant docker
+</DOC>
+

@@ -1,0 +1,104 @@
+<DOC>
+aws cloud solutions architect
+this provides the knowledge and you need to start building your in cloud architecture and helps you prepare for the aws certified solutions architect associate exam start by key aws services for compute storage database networking monitoring and security then dive into how to design architectural solutions how to create and operate a data lake and how to prepare for the certification examthe aws certified solutions architect associate certification showcases knowledge and in aws technology across a wide range of aws services the certification focuses on the design of cost and performance optimized solutions and demonstrating a strong understanding of the aws wellarchitected framework this aws certification is one of the toppaying it certifications per the skillsoft it and salary reportopens in a new tab per enterprise strategy groupopens in a new tab surveyed aws certification holders credited their certification for their higher earnings increased confidence and increased influence among coworkers to prepare for your aws certification exam we recommend that in addition to attaining this candidates review the free exam guide sample questions and aws technical documentation eg white papers and product faqs on the aws certified solutions architect associate exam pageopens in a new tab to understand what content and services are covered by the examapplied projectthrough handson labs use the aws management console to apply learned in the for example in architecting solutions on aws use amazon api gateway aws lambda amazon sqs amazon dynamodb and amazon sns to build a serverless web backendin introduction to designing data lakes use amazon s amazon opensearch service aws lambda and amazon api gateway to create an amazon opensearch service cluster also use amazon s amazon ec amazon kinesis data firehose amazon kinesis data analytics amazon elasticsearch service to create a data ingestion pipeline with the use of highscale aws managed services in cloud technical essentials design a tier architecture using services like amazon vpc amazon ec amazon rds with high availability and elastic load balancing following aws best practices upload an architecture diagram laying out your design including the networking layer
+</DOC>
+
+<DOC>
+exam prep aws certified solutions architect associate
+this new intermediatelevel from amazon web services aws is designed to help you to assess your preparedness for the aws certified solutions architect associate exam how to prepare for the exam by exploring the exams topic areas and how they map to architecting on aws review sample certification questions in each domain practice with handson exercises test your knowledge with practice question sets and strategies for identifying incorrect responses by interpreting the concepts that are being tested in the exam at the end of this have all the knowledge and tools to help you identity your strengths and weaknesses in each certification domain areas that are being tested on the certification exam the aws certified solutions architect associate exam is intended for individuals who perform in a solutions architect role the exam validates a candidates ability to design secure and robust solutions by using aws technologies the exam also validates a candidates ability to complete the following tasks design a solution by using appropriate aws services and by following architectural principles based on requirements provide implementation guidance based on best practices to the organization throughout the workload lifecycle this covers material specific to the saac version of the aws certified solutions architect associate exam in the new version of the exam many of the domains and task statements were reordered or renumbered however most of the content is the same only one task statement for the new version of the exam is not included domain design highperforming architectures task statement determine highperforming data ingestion and transformation solutions at the end of the materials find a new section saac updates that contains additional information about differences between the exam versions saac versus saac saac new material
+
+welcome to the
+welcome to exam prep aws certified solutions architect associate we present content on all four knowledge domains that are covered in the exam its important to understand that on the exam questions from all domains are presented in random order
+introduction to aws certification fundamentals
+
+domain
+get an overview of relevant concepts and services for designing resilient architectures domain for this domain question walkthroughs cover designing a multitier architecture solution designing highly available or faulttolerant architectures and decoupling mechanisms by using aws services
+domain introduction design secure access to aws resources walkthrough question design secure workloads and applications walkthrough question determine appropriate data security controls walkthrough question domain wrap up
+
+domain
+welcome to review relevant concepts and services for designing highperforming architectures domain so you can get a benchmark of your knowledge area question walkthroughs for this domain address the topics of identifying and selecting storage network and database solutions that are elastic scalable and high performing
+domain introduction design scalable and loosely coupled architectures walkthrough question design highly available andor faulttolerant architectures walkthrough question domain wrap up
+
+domain
+welcome to get an overview of relevant concepts and services for designing secure applications and architectures domain so you can get a benchmark of your knowledge area for this domain the question walkthroughs focus on designing secure access to aws resources designing secure application tiers and selecting the appropriate data security options
+domain introduction determine highperforming andor scalable storage solutions walkthrough question design highperforming and elastic compute solutions walkthrough question determine highperforming database solutions walkthrough question determine highperforming andor scalable network architecture walkthrough question determine highperforming data ingestion and transformation solutions domain wrap up
+
+domain
+welcome to review relevant concepts and services on designing costoptimized architectures domain so you can get a benchmark of your knowledge area the question walkthroughs for this domain cover identifying costeffective storage solutions selecting compute and database services and designing costoptimized network architectures
+domain introduction design costoptimized storage solutions walkthrough question design costoptimized compute solutions walkthrough question design costoptimized database solutions design costoptimized network architectures walkthrough question domain wrapup
+
+determine exam readiness
+includes a practice assessment that includes questions from all exam domains
+</DOC>
+
+<DOC>
+aws cloud technical essentials
+are you in a technical role and want to the fundamentals of aws do you aspire to have a job or as a cloud developer architect or in an operations role if so aws cloud technical essentials is an ideal way to start this was designed for those at the beginning of their cloudlearning journey no prior knowledge of cloud computing or aws products and services requiredthroughout the students will build highly available scalable and cost effective application stepbystep upon completion be able to make an informed decision about when and how to apply core aws services for compute storage and database to different use cases also about cloud security with a review of aws shared responsibility model and an introduction to aws identity and access management iam and know how aws services can be used to monitor and optimize infrastructure in the cloud aws cloud technical essentials is a fundamentallevel and will build your competence confidence and credibility with practical cloud that help you innovate and advance your future enroll in aws cloud technical essentials and start the technical fundamentals of aws today note this was designed for learners with a technical background if you are new to the cloud or come from a business background we recommend completing aws cloud practitioner essentials httpswwwcourseraorglearnawscloudpractitioneressentials before enrolling
+
+aws overview and security
+welcome to aws cloud technical essentials the definition of cloud computing and how to describe the cloud value proposition how to differentiate between workloads that run onpremises versus in the cloud and how to create an aws account also get an overview of amazon web services including how to differentiate between aws regions and availability zones and the different ways that you can interact with aws finally best practices for using aws identity and access management iam
+welcome to aws cloud technical essentials meet the instructors feedback introduction to aws global infrastructure interacting with aws security and the aws shared responsibility model protect the aws root user introduction to aws identity and access management role based access in aws introduction to lab demo aws iam hosting the employee directory application on aws
+
+compute networking
+welcome to where how aws compute services differ from other aws services the content for covers the basic components of amazon elastic compute cloud amazon ec architecture and how to differentiate between a container and a virtual machine also about the features and advantages of using serverless technologies basic networking concepts and the features of amazon virtual private cloud amazon vpc
+introduction to compute as a service on aws introduction to amazon elastic compute cloud amazon ec instance lifecycle demonstration launching the employee directory application container services on aws introduction to serverless serverless with aws fargate introduction to aws lambda choose the right compute service networking on aws introduction to amazon vpc amazon vpc routing secure your network with amazon vpc security hybrid connectivity with aws introduction to lab demo relaunching employee directory app
+
+storage databases on aws
+welcome to important concepts for aws storage servicessuch as buckets and objects for amazon simple storage service amazon s and how amazon elastic block store amazon ebs is used on aws also explore databases on aws and the use cases for each aws storage service
+introduction to storage types on aws amazon ec instance storage and amazon elastic block store object storage with amazon s choose the right storage service demo creating an amazon s bucket explore databases on aws amazon relational database service purpose built databases on aws introduction to amazon dynamodb introduction to exercise demo creating an amazon dynamodb table
+
+monitoring optimization
+welcome to where about the benefits of monitoring on aws and how to optimize solutions on aws also about the function of elastic load balancing elb and how to differentiate between vertical scaling and horizontal scaling
+introduction to monitoring on aws introduction to amazon cloudwatch optimizing solutions on aws amazon ec auto scaling route traffic with amazon elastic load balancing introduction to lab demo making employee directory application redesigning the employee directory introduction to amazon bedrock introduction to amazon q amazon q developer basics amazon q developer demonstration amazon q developer security scanning
+</DOC>
+
+<DOC>
+building data lakes on aws
+the fundamentallevel is typically designed for individuals with a basic understanding of data storage and processing concepts but little to no prior with building data lakes on aws specifically after a brief introduction to data lakes well introduce data ingestion cataloging and preparation concluding with an overview of querying data with amazon athena the will continue with an aws lake formation overview including a handson lab where build a data lake well then introduce data processing and analytics leveraing aws glue before diving into automated data lake creatiokn using lake formation blueprints finally well close with modern data architectures on aws with a lab that covers publishing and consuming data products as a service
+
+introduction to data lakes
+this provides an overview of data lakes their purpose and how they differ from data warehouses it also covers the components and architectures involved in data lakes
+introduction and overview objectives why data lakes data lake vs data warehouse components and architectures
+
+data ingestion cataloging and preparation
+this focuses on the processes of ingesting data into a data lake cataloging the data and preparing it for analysis it covers topics such as data lake storage data ingestion methods crawling and cataloging data data formatting partitioning compression and querying data with amazon athena
+objectives data lake storage data ingestion crawl and catalog data demo creating and running a glue crawler formatting the data in the lake partitioning compressing and compacting the data in the lake query data with amazon athena demo querying csv data with amazon athena demo columnar data formats with amazon athena a performance and cost comparison
+
+building a data lake with aws lake formation
+this introduces aws lake formation a service that helps build and manage data lakes on aws it covers the basic permission model and provides an overview of the services features and capabilities
+moule objectives aws lake formation overview aws lake formation basic permission model
+
+data processing and analytics
+this covers data transformation techniques and tools like aws glue for processing and analyzing data in the data lake it includes handson demos and a technical talk on glue and athena federated queries
+objectives data transformation data processing with aws glue aws glue jobs and workflows demo glue databrew demo glue studio tech talk glue athena federated queries
+
+aws lake formation additional configurations and capabilities
+this explores advanced features and configurations of aws lake formation including blueprints workflows and finegrained access control it also covers data visualization with amazon quicksight
+objectives using blueprints and workflows finegrained access control demo lftags visualizing data with quicksight demo
+
+modern data architecture on aws
+this introduces the concept of modern data architecture and its implementation on aws it covers data movement scenarios data sharing models and relevant
+objectives modern data architecture data movement scenarios data sharing models tech talk whats your favorite data lake feature recapkey takeaways
+</DOC>
+
+<DOC>
+architecting solutions on aws
+are you looking to get more technical are you looking to begin working in the cloud but dont know where to go next are you looking to up your game by prepping for the aws solutions architect associate exam do you see yourself as a cloud consultant but cant quite envision how your days would be are you puzzled how to match a customers requirements with the right aws servicessolutions if so you are in the right place how to plan think and act like a solution architect in a reallife customer scenarioin this get prepared to begin your architecting solutions on aws through a series of use case scenarios and practical to identify services and features to build resilient secure and highly available it solutions in the aws cloud each a fictional customer will present a different need we will then review the options choose the best one for the use case and walk you through the architecture design on a whiteboard about eventdriven architectures with a focus on performance efficiency and cost then gain knowledge on how to architect a solution using many purposebuilt aws services with this understanding get a sense of hybrid architectures with a refined focus on reliability and operational efficiency finally wrap up your by understanding a multiaccount strategy centered on security and cost
+
+designing a serverless web backend on aws
+the first follows a customer use case where an ecommerce company needs to migrate a backend web service to aws first hear from the customer about their requirements and the problems that they are trying to solve with this migration then how to design the solution for this use case step by step by using services such as amazon api gateway aws lambda amazon simple queue service amazon sqs amazon simple notification service amazon sns and amazon dynamodb
+introduction feedback introduction customer use case and requirements customer requirements breakdown selecting a serverless compute service aws lambda exploration choosing an aws database service dynamodb exploration building eventdriven architectures sns exploration decoupling aws solutions sqs exploration customer solution overview wrapup taking this architecture to the next level exercise walkthrough
+
+designing a serverless data analytics solution on aws
+the second follows a customer use case where a software company needs a data analytics solution in aws so that they can derive insights from clickstream data first hear from the customer about their requirements and the problems that they are trying to solve with this solution then how to design the solution for this use case step by step by using services such as amazon simple storage service amazon s amazon kinesis data firehose amazon athena amazon quicksight and more
+introduction customer use case and requirements customer requirements breakdown an overview of data analytics on aws why amazon s for storage exploring amazon s choosing a service for data ingestion exploring amazon kinesis accessing the ingested data exploring amazon athena visualizing the data customer solution overview wrapup taking this architecture to the next level exercise walkthrough part exercise walkthrough part
+
+designing a hybrid solution for container based workloads on aws
+the third follows a customer use case where an enterprise insurance company needs to migrate some of their container workloads to aws by using a hybrid model first hear from the customer about their requirements and the problems that they are trying to solve with this migration then how to design the solution for this use case step by step by using services such as aws direct connect amazon elastic container service amazon ecs amazon ecs anywhere amazon relational database service amazon rds aws systems manager and more
+introduction customer use case and requirements customer requirements breakdown hybrid networking and connectivity services running containers on aws amazon relational database service amazon rds exploration where should our customer store their data storage gateway exploration hybrid solutions on aws aws systems manager exploration customer solution overview wrapup taking this architecture to the next level
+
+designing a solution following account governance and management best practices
+the fourth follows a customer use case where a startup company needs guidance about how to set up an accountmanagement strategy that follows best practices for account governance and standards first hear from the customer about their requirements and the problems that they are trying to solve with this strategy then how to design the solution for this use case step by step by using services such as aws organizations aws iam identity center successor to aws single signon aws cloudtrail and more
+introduction customer use case and requirements customer requirements breakdown why multiaccount strategies iam roles the aws authentication core mechanism organizing your accounts together using ous organizational units moving from one account to another choosing services for logging automating account provisioning and maintenance customer solution overview wrapup taking this architecture to the next level closing
+</DOC>
+

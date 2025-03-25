@@ -1,0 +1,143 @@
+<DOC>
+value chain management
+the purpose of organizations is to produce and deliver goods and services of value to customers while generating a surplus for owners value chain management focuses on understanding what different customers value measuring inputs and outputs to assess value and generating higher value for customers and surpluses for organizations gain competencies that are critical for managers in any functional area you will to create model analyze and maximize value in accounting operations and marketingthis is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree hereopens in a new tab
+</DOC>
+
+<DOC>
+operations management organization and analysis
+about the role of operations and how they are connected to other business functions in manufacturing and servicefocused organizations and practice the use of decisionmaking frameworks and techniques applicable at all levels from managementlevel strategic decisions such as connecting process to the needs of various customer segments to frontline tactical decisions such as choosing between ordering larger quantities vs ordering more frequently be able to relate underlying principles to operations management frameworks and techniques synthesize information to make strategic operations decisions evaluate processes on different dimensions apply analytical techniques for tactical operations decision this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
+
+orientation operations strategy
+first be introduced to the instructors and the next about the significance of operations management and how to formulate and implement an operations strategy that is aligned with the business strategy and with market requirements
+welcome to operations management organization and analysis meet professor gopesh anand meet professor ujjal mukherjee on your terms defining operations management inputprocessoutput model application of ipo strategy and alignment implementation steps investments and organization tradeoffs and combinations manufacturing and service orientation managing service operations
+
+process configurations and analysis
+about types of process arrangements and the implications of adopting each one to analyze the performance of processes and of the activities within the processes and to recognize the impacts of variability on processes
+process arrangements and operations strategy types of process arrangements process arrangements for competitive differentiatiaon process mapping metrics to assess performance littles law littles law applications activities within processes capacity utilization
+
+inventory management concepts
+we will about the importance of inventory management in operations settings inventories entail several costs such as holding and ordering costs these costs depend on key decisions such as order quantity and reorder point we will how the different types of costs depend on inventory decisions we will also discuss the tradeoffs associated with inventory decisions and how to make optimal decisions related to inventory management this is focused on simple inventory scenarios where demand is fixed and known the learnings from this are important because it provides key basics of inventory management which are important in and mastering more complex decision scenarios
+inventory concepts and functions types and classifications of inventories inventory cycle inventory process cash cycle and inventory metrics inventory costs inventory models eoq eoq costs and reorder point robustness of eoq sensitivity analysis
+
+inventory management applications
+we extend the learnings from the previous to more complex scenarios of inventory management namely when demand is uncertain and cannot be predicted with certainty first we how to measure uncertainty in demand using demand distributions particularly the normal distribution which is the more common demand distribution used in practice second we will about the decision tradeoffs in managing inventory with uncertainty namely between service levels and costs of inventory the key decisions related to managing inventory with demand uncertainty are order quantity reorder point safety or buffer stock levels and frequency of inventory review and ordering upon completion of this we will gain knowledge and expertise in making these decisions optimally using different inventory policies such as continuous review policy and periodic review policy this is important for managing inventories in most operations settings in an efficient and effective manner
+understanding demand uncertainty normal distribution one shot inventory decisions newsvendor model multiple inventory ordering review policies continuous review policy periodic review policy of inventory management conclusion
+</DOC>
+
+<DOC>
+developing a winning marketing strategy
+how businesses create value for customers we will examine the process by which marketing builds on a comprehensive understanding of buyer behavior to create value the major elements of the marketing mix product policy channels of distribution communication and pricing and see how they fit within different analytical frameworks that are useful to managers this will enhance your understanding of how marketing works in the business world be able to define marketing and describe how marketing creates value describe the elements of the marketing mix explain how these elements interact to create value for consumers use different analytical frameworks to examine how managers solve business problems evaluate brand extensions develop a marketing plan proposal this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
+
+orientation
+become familiar with the your classmates and our environment the orientation will also help you obtain the technical required for the
+welcome to creating a winning marketing strategy meet professor hayden noel meet professor maria rodas the impact of the gies community what is marketing uncovering needs and wants the theory of needs on your terms
+
+the marketing process
+to define marketing we will explore consumer needs and see how marketing plays a role in value creation through researching and satisfying of these customer needs
+the marketing strategy process an overview scanning the environment professor noels board walk swot analysis the netflix story creating value professor noels board walk creating and capturing value sustaining value nonprofit organizations the importance of market research conducting market research part conducting market research part
+
+segmentation targeting positioning
+an important element of the marketing process is the value creation stage value creation begins with the process of stp about segmentation targeting and positioning and what it accomplishes in the value creation stage
+value proposition and differentiation introduction to segmentation targeting and positioning segmentation perceptual mapping levels of market segmentation profitable segmentation targeting segmentation and targeting in practice positioning for competitive advantage part positioning for competitive advantage part professor noels board walk crafting a positioning statement
+
+the power of branding
+effective branding strategy allows companies to distinguish themselves from their competitors in the market we will how to build a strong brand explore how brand equity affects profitability and understand how strong brands can leverage their equity to create successful extensions
+customer relationship management crm introduction to branding the power of branding brand mantra brand equity attributes of strong brands brand brand and line extensions making extensions professor noels board walk evaluating brand and line extensions
+
+influencing consumer behavior the marketing plan
+we will study the meaning of consumer behavior and the factors that influence it we will explore the various factors that impact consumer perception of a product and those that affect the adoption of a new product we will also about the different variables that influence consumer buying behavior
+understanding consumer behavior what influences consumer behaviorculture what influences consumer behaviorsocial class what influences consumer behaviorreference groups what influences consumer behaviorpsychological factors theories of consumer decision making the consumer decision journey new product adoption barriers to adoption part barriers to adoption part professor noels board walk barriers to adoption in practice the marketing plan part the marketing plan part the marketing plan part student interviews discussions with the experts melanie millar on your terms
+</DOC>
+
+<DOC>
+operations management quality and supply chain
+focus on process improvement how to set organizational priorities for continuous process improvement how to execute process improvement and how to sustain the initiative for continuous improvementsyou will be able to relate underlying principles to frameworks and techniques used for process improvement synthesize information to make decisions for organizational initiatives and process improvement apply analytical techniques for tactical decisions in a process improvement this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
+
+orientation
+become familiar with the your classmates and our environment the orientation will also help you obtain the technical required for the
+welcome to operations management quality and supply chain on your terms meet professor gopesh anand meet professor ujjal mukherjee
+
+infrastructure for organizational
+about the connection between product quality and process quality and how to put in place an organizational infrastructure for continuous process improvement
+service quality cost of quality meaning of quality proactive quality management process quality evolution of pi initiatives selected lean practices origin and evolution of six sigma origin and evolution of lean selected six sigma practices infrastructure for organizatonal
+
+process control and capability
+about assessing variation in processes and deriving insights from such assessments to apply statistical analysis techniques to track and improve process performance and to communicate it with buyers and suppliers
+variation in processes basis for statistical process control xbar r charts for measurement data xbar r chart illustration xbar r chart recomputation of limits p chart for proportion defective p chart illustration process capability analysis process capability analysis illustration digging deeper into cpk values root cause analysis techniques
+
+supply chain management
+supply chains are increasingly becoming global and complex about the primary functions involved in managing a complex supply chain next about supply chain strategy and how to align supply chain strategy with product characteristics also about building agility and adaptability in supply chains about contracting in supply chains to align the different entities of supply chains specifically about wholesale price contracts buyback contracts and revenuesharing contracts finally we will about the bullwhip effect in supply chains the courses of the bullwhip effect and the mitigation strategies of the bullwhip effect
+what is supply chain management global supply chain risks formulating a supply chain strategy supply chain alignment and contracts supplier selection development and monitoring bullwhip effect value of information
+
+operations resilience
+we will about advanced concepts in supply chain management first about network planning in supply chains and supply chain network design then about remanufacturing closedloop supply chains and reverse supply chains we will also about green supply chains and strategies for building environmental friendliness in supply chains we will then about it systems of supply chains and aligning it systems with business processes finally we will about emerging advanced technologies in supply chains and their uses specifically we will discuss the roles of artificial intelligence radio frequency identification devices rfid blockchains and the internet of things iot in supply chain management
+developing a distribution strategy remanufacturing and reverse logistics green supply chain management information technology in supply chains emerging and advanced technologies conclusion
+</DOC>
+
+<DOC>
+managerial accounting cost behaviors systems and analysis
+how to use accounting to facilitate and align decisions made by owners managers and employees how accountants create organize interpret and communicate information that improves internal processes and allows organizations to identify and leverage to create value within the supply chain and with customers be able to understand what managerial accounting is and why it is an important function for successful businesses identify problems associated with relying on financial accounting information for internal decision making organize cost information according to the decisionmaking needs of the organization apply activitybased costing abc and recognize circumstances and decisions for which abc systems are relevant address common whatif questions using costvolumeprofit cvp analysis and apply cvp in a variety of scenarios this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
+
+overview and introduction to managerial accounting
+become familiar with the your instructor your classmates and our environment then be introduced to managerial accounting and costing concepts
+welcome and overview the impact of the gies community objectives and what is managerial accounting the difference between financial and managerial accounting contemporary issues what weve learned in lesson objectives and terminology cost framework objects cost framework behavior cost framework behavior example what weve learned in lesson review
+
+costing systems i elements and design
+organizations can organize cost information however best suits their decisions we introduce the role of costing systems identify some example systems and settings in which they are most useful and explore how accounting for overhead costs influences the value of cost information
+objectives and flow of costs through financial statements two traditional systems extension overhead costs what weve learned in lesson objectives and example scenario the manager did what what weve learned in lesson review
+
+costing systems ii activitybased costing
+activitybased costing systems adopt a more refined view of the organization and can increase the accuracy of cost information we introduce the fundamentals of activitybased costing systems identify related advantages and disadvantages and demonstrate how such systems are implemented using an indepth example
+objectives and general approach and overview fundamental components abc organization and steps to implementation what weve learned in lesson objectives and steps through an example other considerations what weve learned in lesson review
+
+costvolumeprofit cvp analysis
+costvolumeprofit cvp analysis is the tool that managers can use to better understand the answers to whatif questions in order to make better decisions for their companies explore the power of cvp analysis
+objectives and costvolumeprofit analysis intro costvolumeprofit analysis example costvolumeprofit analysis example taxes what weve learned in lesson objectives and costvolumeprofit example multiple products what weve learned in lesson review on your terms
+</DOC>
+
+<DOC>
+managerial accounting tools for facilitating and guiding business decisions
+explore how to use accounting to allocate resources and incentivize manager and employee behaviors with these resources also how financial and nonfinancial accounting information facilitates strategic performance measurement and how to integrate this information to continuously improve strategyyou will be able to understand the role of managerial accounting information and use it to avoid common pitfalls in business decisions understand the iterative and interrelated nature of budgeting and apply the key components to preparing a master budget evaluate capital investments via a variety of measures calculate interpret and investigate variances understand decentralization and its advantages and disadvantages communicate the role of nonfinancial measures and strategic performance measurement systems compute and interpret financial performance measures and identify associate issues this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
+
+overview and relevant information for decision making
+become familiar with the your instructor your classmates and our environment decisions are at the heart of all organizations also explore the nature and role of relevant information in common business decisions and how such information facilitates these decisions and helps managers and employees avoid common pitfalls also consider how the financial perspective adopted by accountants complements other qualitative perspectives
+welcome and overview the impact of the gies community fundamental concepts sunk costs costs common mistakes what weve learned in lesson objectives and overview keep or drop a product line make or buy replace or retain equipment additional considerations what weve learned in lesson objectives and overview sell asis or process further accepting a special order what weve learned in lesson review
+
+standard costing and variance analysis
+after establishing goals setting targets and the budget upper management uses variance analysis to compare assess and investigate differences between actual and expected performance how upper management uses variance analysis to motivate and monitor managers and employees how to perform variance analysis on any aspect of the organization and ultimately understand the power of this important tool for planning and control
+fundamentals and concepts cost variance classification and general framework causes of variances an example scenario and direct materials variances direct labor variances variable overhead variances fixed cost variances production volume variances what weve learned in lesson fundamentals and general framework an example scenario what weve learned in lesson review
+
+performance measurement and evaluation
+accountants help implement communicate and evolve organizational strategy via the information they provide to owners managers and employees specifically they help plan monitor and control decisions via the performance measurement evaluation and compensation system explore many aspects of this important system including decentralization financial and nonfinancial performance measurement strategic performance measurement systems and subjective performance evaluation
+fundamentals and concepts what weve learned in lesson why is financial performance measurement important return on investment the underinvestment problem residual income what weve learned in lesson nonfinancial measures strategic performance measurement systems performance measurement issues subjective performance evaluation what weve learned in lesson review
+
+budgeting for planning and control
+at the heart of an organizations planning and control function is its budget explore the purpose of budgeting the role of managers and employees in budgeting and related implications also develop an organizations budget ultimately understanding the iterative nature among the budgets key components the operations financing and capital investments budgets
+fundamental concepts basic terminology implications what weve learned in lesson master budget overview sales budget production budget component budgets budgeted income statement what weve learned in lesson financing budget overview cash budget cash budget cash budget extending the example what weve learned in lesson capital budgeting overview example scenario payback accounting rate of return time horizon and implications discounted cash flow and net present value internal rate of return what weve learned in lesson review on your terms
+</DOC>
+
+<DOC>
+developing a marketing mix for growth
+further examine how businesses create value for customers in developing a winning marketing strategy you learned the major elements of the marketing mix product policy channels of distribution communication and pricing and saw how they fit within different analytical frameworks that are useful to managers complete a more detailed analysis of these elements in order to conduct a thorough strategic analysis of marketing and to communicate marketing decisions this will enable you to see marketing in action in the business worldyou will be able to define all elements of the marketing mix and explain the role each element plays in creating value compare different pricing models evaluate the use of different channels of distribution by existing businesses critique advertising execution create a persuasive advertising piece this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
+
+orientation
+become familiar with the your classmates and our environment the orientation will also help you obtain the technical required for the
+developing a marketing mix for growth meet professor hayden noel using the marketing mix to create value the impact of the gies community
+
+creating value product
+behind every successful brand is a strong product and effective product strategy products can be of different types and have different levels companies must make appropriate decisions regarding the product mix this will provide you with insights into all of these concepts and also introduce the different stages of the product life cycle
+what is product what is service the services marketing triangle how the product delivers value five product levels product classifications the product life cycle businesstobusiness bb marketing professor noels board walk product mix decisions
+
+delivering value place
+what is meant by the term distribution and its importance for companies we will explore the different channel strategies and channel decisions that marketers need to make based on the product or service they are offering
+what is a distribution channel lesson how channel members add value channel design channel management disintermediation disintermediation in action professor noels board walk zara supply chain distribution channel
+
+capturing value pricing
+an important element of the ps is pricing while all the other ps focus on creating value pricing helps companies to extract the value created about pricing in marketing and the different considerations and steps involved in the pricing process
+what is it worth to you customized pricing strategy consumer psychology and pricing setting price the impact of demand and elasticity lesson initiating and responding to price change professor noels board walk new product pricing strategy
+
+communicating value promotion
+a strong brand allows companies to distinguish themselves from their competitors in their target market to build a strong brand marketers need to ensure that their messages to consumers are clear and consistent we will how integrated marketing communications imc help companies achieve this objective
+introduction to promotion the communications model the elements of the communications mix consumer buying process integrated marketing communications developing a communications plan is your advertising effective personal selling and public relations sales promotion digital marketing professor noels board walk evaluating advertising discussions with the experts steve raquel on your terms
+</DOC>
+

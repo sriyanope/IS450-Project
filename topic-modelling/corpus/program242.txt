@@ -1,0 +1,99 @@
+<DOC>
+matlab programming for engineers and scientists
+this aims to take learners with little to no programming to being able to create matlab programs that solve realworld problems in engineering and the sciences the focus is on computer programming in general but the numerous language features that make matlab uniquely suited to engineering and scientific computing are also covered in depth topics presented range from basic programming concepts in the first through more advanced techniques including recursion efficiency object oriented programming graphical user interfaces in the second to data and image analysis data visualization and machine in the third courseapplied projectthe includes two the first one is the final of the second it is about creating an object oriented application with a graphical user interface that visualizes covid related data from around the world the second is part of the third and it focuses on image processing
+</DOC>
+
+<DOC>
+introduction to programming with matlab
+this teaches computer programming to those with little to no previous it uses the programming system and language called matlab to do so because it is easy to versatile and very useful for engineers and other professionals matlab is a specialpurpose language that is an excellent choice for writing moderatesize programs that solve problems involving the manipulation of numbers the design of the language makes it possible to write a powerful in a few lines the problems may be relatively complex while the matlab programs that solve them are relatively simple relative that is to the equivalent written in a generalpurpose language such as c or java as a result matlab is being used in a wide variety of domains from the natural sciences through all disciplines of engineering to finance and beyond and it is heavily used in industry hence a solid background in matlab is an indispensable in todays job marketnevertheless this is not a matlab tutorial it is an introductory programming that uses matlab to illustrate general concepts in computer science and programming students who successfully complete this will become familiar with general concepts in computer science gain an understanding of the general concepts of programming and obtain a solid foundation in the use of matlab students taking the will get a matlab online license free of charge for the duration of the the students are encouraged to consult the ebook that this is based on more information about these resources can be found on the resources menu on the right
+
+pages
+
+
+the matlab environment
+we will how to start matlab and will familiarize ourselves with its user interface we will how to use matlab as a sophisticated calculator we will about syntax and semantics we will see ways in which matlab provides help finally we will how to create plots in matlab
+introduction running matlab the matlab desktop matlab as a calculator syntax and semantics help plotting
+
+matrices and operators
+the basic unit with which we in matlab is the matrix we solve problems by manipulating matrices and operators are the primary means by which we manipulate them we will how to define matrices extract parts of them and combine them to form new matrices we will how to use operators to add subtract multiply and divide matrices and we will that there are several different types of multiplication and division finally we will matlabs rules for determining the order in which operators are carried out when more than one of them appear in the same expression
+introduction to matrices and operators the colon operator accessing parts of a matrix combining and transforming matrices arithmetic part arithmetic part
+
+functions
+functions let us break up complex problems into smaller more manageable parts we will how functions let us create reusable software components that can be applied in many different programs we will how the environment inside a function is separated from the outside via a well defined interface through which it communicates with that outside world we will how to define a function to allow input to it when it initiates its execution and output from it when it is done
+introduction to functions function io formal definition of functions subfunctions scope advantages of functions scripts
+
+programmers toolbox
+matlab has useful builtin functions and we will explore many of them section we will about polymorphism and how matlab exploits it to change a functions behavior on the basis of the number and type of its inputs because random numbers play an important role in computer programming we will how to use the matlab random number generator we will how to get input from the keyboard how to print to the command window and how to plot graphs in a figure window finally we will how to find programming errors with the help of the debugger
+introduction to programmers toolbox matrix building input output plotting debugging
+
+selection
+selection is the means by which matlab makes decisions about the order in which it executes its statements we will how to use the ifstatement which is the most important method of selection we will how to use relational operators and logical operators we will how to write polymorphic functions and how to make functions resistant to error
+selection ifstatements continued relational and logical operators nested ifstatements variable number of function arguments robustness persistent variables
+
+loops
+loops give computers their power we will how to use both of matlabs loop constructs the forloop and the whileloop we will how the breakstatement works and we will use nested loops we will how to make loops more efficient we will about logical indexing and will see how to use it to produce implicit loops that are efficient and easy for a user to understand
+forloops whileloops break statements logical indexing preallocation
+
+data types
+computers operate on bits but humans think in terms of numbers words and other types of data like any good language matlab organizes bits into convenient data types we will study those types section we will that there are ten types of numbers and that there are conversion functions to change one type into another we will much more about strings and how the characters in them are encoded as numbers we will how to produce heterogeneous collections of data via structs and cells and we will how to store points in time and time durations
+introduction to data types character arrays structs cells the string type introduced in a the datetime and duration types introduced in b
+
+file inputoutput
+files are named areas in permanent memory for storing data that can be used as input or output to matlab and to other programs we will be introduced to matlabs most important methods for reading and writing files we will how to create read from and write into matfiles excel files text files and binary files we will how to navigate among folders with matlab commands
+file inputoutput excel files text files binary files
+</DOC>
+
+<DOC>
+mastering programming with matlab
+the builds on the foundation laid by the first of the called introduction to programming with matlab it covers more advanced programming concepts such as recursion vectorization function handles algorithm efficiency and others at the same time it presents many features that make matlab a powerful programming environment for engineering and scientific computing such as its support for object oriented programming the new user interface design environment and live scriptsby the end of this be familiar with more advanced computer programming concepts able to write more efficient code and able to create object oriented matlab applications with graphical user interfaces
+
+introduction
+
+
+functions revisited
+app items
+recursion part recursion part recursion part variable number of arguments function handles and nested functions
+
+potpourri
+app items
+mixed mode arithmetic linear equations live scripts error handling
+
+how to write efficient code
+app items
+algorithmic complexity part algorithmic complexity part algorithmic complexity part efficiency in practice vectorization and other speedups
+
+object oriented programming
+
+introduction to object oriented programming handle classes more on oop tying it all together
+
+applications
+
+graphical user interfaces part graphical user interfaces part standalone applications wrapup
+
+final
+peer review
+</DOC>
+
+<DOC>
+introduction to data signal and image analysis with matlab
+welcome to introduction to data signal and image analysis with matlab matlab is an extremely versatile programming language for data signal and image analysis tasks this provides an introduction on how to use matlab for data signal and image analysis after completing the learners will understand how machine methods can be used in matlab for data classification and prediction how to perform data visualization including data visualization for high dimensional datasets how to perform image processing and analysis methods including image filtering and image segmentation and how to perform common signal analysis tasks including filter design and frequency analysis
+
+introduction
+
+
+data analysis in matlab
+app items
+data representation statistical data analysis data visualization dimensionality reduction data classification data prediction
+
+signal analysis in matlab
+app items
+signals as time dependent data signal interpolation audio analysis convolution filtering signal frequency analysis sampling and aliasing
+
+image analysis in matlab
+app items
+image representation image resampling image intensity color distributions image filtering image segmentation
+
+final
+app items
+</DOC>
+

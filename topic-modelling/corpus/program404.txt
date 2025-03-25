@@ -1,0 +1,89 @@
+<DOC>
+deeplearningai tensorflow developer
+tensorflow is one of the most indemand and popular opensource deep frameworks available today the deeplearningai tensorflow developer teaches you applied machine with tensorflow so you can build and train powerful models handson fourcourse the necessary tools to build scalable aipowered applications with tensorflow after finishing this be able to apply your new tensorflow to a wide range of problems and this can help you prepare for the google tensorflow examopens in a new tab and bring you one step closer to achieving the google tensorflow certificateready to deploy your models to the world how to go live with your models with the tensorflow data and deployment specializationopens in a new tablooking to customize and build powerful realworld models for complex scenarios check out the tensorflow advanced techniques specializationopens in a new tab applied projectin the deeplearningai tensorflow developer get handson through python programming by the end of this be ready to build and train neural networks using tensorflow improve your networks performance using convolutions as you train it to identify realworld images teach machines to understand analyze and respond to human speech with natural language processing systems process text represent sentences as vectors and train a model to create original poetry create forecasts for univariate time series using deep neural networks
+</DOC>
+
+<DOC>
+natural language processing in tensorflow
+if you are a software developer who wants to build scalable aipowered algorithms you need to understand how to use the tools to build them this will teach you best practices for using tensorflow a popular opensource framework for machine learningin of the deeplearningai tensorflow developer build natural language processing systems using tensorflow to process text including tokenizing and representing sentences as vectors so that they can be input to a neural network also to apply rnns grus and lstms in tensorflow finally get to train an lstm on existing text to create original poetry the machine and deep from andrew ng teach the most important and foundational principles of machine and deep this new deeplearningai tensorflow developer teaches you how to use tensorflow to implement those principles so that you can start building and applying scalable models to realworld problems to develop a deeper understanding of how neural networks we recommend that you take the deep
+
+sentiment in text
+the first step in understanding sentiment in text and in particular when training a neural network to do so is the tokenization of that text this is the process of converting the text into numeric values with a number representing a word or a character about the tokenizer and padsequences apis in tensorflow and how they can be used to prepare and encode text and sentences to get them ready for training neural networks
+introduction a conversation with andrew ng introduction word based encodings using apis notebook for lesson text to sequence padding outofvocabulary words notebook for lesson sarcasm really preprocessing the sarcasm dataset notebook for lesson wrap up
+
+word embeddings
+last you saw how to use the tokenizer to prepare your text to be used by a neural network by converting words into numeric tokens and sequencing sentences from these tokens about embeddings where these tokens are mapped as vectors in a high dimension space with embeddings and labelled examples these vectors can then be tuned so that words with similar meaning will have a similar direction in the vector space this will begin the process of training a neural network to understand sentiment in text and begin by looking at movie reviews training a neural network on texts that are labelled positive or negative and determining which words in a sentence drive those meanings
+a conversation with andrew ng introduction the imdb dataset looking into the details how can we use vectors more into the details notebook for lesson remember the sarcasm dataset building a classifier for the sarcasm dataset lets talk about the loss subword tokenization diving into the code
+
+sequence models
+in the last couple of weeks you looked first at tokenizing words to get numeric values from them and then using embeddings to group words of similar meaning depending on how they were labelled this gave you a good but rough sentiment analysis words such as fun and entertaining might show up in a positive movie review and boring and dull might show up in a negative one but sentiment can also be determined by the sequence in which words appear for example you could have not fun which of is the opposite of fun start digging into a variety of model formats that are used in training models to understand context in sequence
+a conversation with andrew ng introduction lstms implementing lstms in code accuracy and loss a word from laurence looking into the code using a convolutional network going back to the imdb dataset tips from laurence
+
+sequence models and literature
+taking everything that youve learned in training a neural network based on nlp we thought it might be a bit of fun to turn the tables away from classification and use your knowledge for prediction given a body of words you could conceivably predict the word most likely to follow a given word or phrase and once youve done that to do it again and again with that in mind build a poetry generator its trained with the lyrics from traditional irish songs and can be used to produce beautifulsounding verse of its own
+a conversation with andrew ng introduction looking into the code preparing the training data more on the training data finding what the next word should be example predicting a word notebook for lesson poetry looking into the code laurence the poet your next task a conversation with andrew ng
+</DOC>
+
+<DOC>
+convolutional neural networks in tensorflow
+if you are a software developer who wants to build scalable aipowered algorithms you need to understand how to use the tools to build them this is part of the deeplearningai tensorflow developer and will teach you best practices for using tensorflow a popular opensource framework for machine learningin of the deeplearningai tensorflow developer advanced techniques to improve the computer vision model you built in explore how to with realworld images in different shapes and sizes visualize the journey of an image through convolutions to understand how a computer sees information plot loss and accuracy and explore strategies to prevent overfitting including augmentation and dropout finally will introduce you to transfer and how learned features can be extracted from models the machine and deep from andrew ng teach the most important and foundational principles of machine and deep this new deeplearningai tensorflow teaches you how to use tensorflow to implement those principles so that you can start building and applying scalable models to realworld problems to develop a deeper understanding of how neural networks we recommend that you take the deep
+
+exploring a larger dataset
+in the first you had an introduction to tensorflow and how with its high level apis you could do basic image classification and you learned a little bit about convolutional neural networks convnets go deeper into using convnets with realworld data and about techniques that you can use to improve your convnet performance particularly when doing image classification in get started by looking at a much larger dataset than youve been using thus far the cats and dogs dataset which had been a kaggle challenge in image classification
+introduction a conversation with andrew ng a conversation with andrew ng training with the cats vs dogs dataset working through the notebook fixing through cropping visualizing the effect of the convolutions looking at accuracy and loss wrap up
+
+augmentation a technique to avoid overfitting
+youve heard the term overfitting a number of times to this point overfitting is simply the concept of being over specialized in training namely that your model is very good at classifying what it is trained for but not so good at classifying things that it hasnt seen in order to generalize your model more effectively of need a greater breadth of samples to train it on thats not always possible but a nice potential shortcut to this is image augmentation where you tweak the training set to potentially increase the diversity of subjects it covers all about that
+a conversation with andrew ng introducing augmentation coding augmentation with the layers api demonstrating overfitting in cats vs dogs adding augmentation to cats vs dogs exploring augmentation with horses vs humans wrap up
+
+transfer
+building models for yourself is great and can be very powerful but as youve seen you can be limited by the data you have on hand not everybody has access to massive datasets or the compute power thats needed to train them effectively transfer can help solve this where people with models trained on large datasets train them so that you can either use them directly or you can use the features that they have learned and apply them to your scenario this is transfer and look into that
+a conversation with andrew ng understanding transfer the concepts coding transfer from the inception model coding your own model with transferred features exploring dropouts exploring transfer with inception wrap up
+
+multiclass classifications
+youve come a long way congratulations one more thing to do before we move off of convnets to the next and thats to go beyond binary classification each of the examples youve done so far involved classifying one thing or another horse or human cat or dog when moving beyond binary into categorical classification there are some coding considerations you need to take into account look at them
+a conversation with andrew ng moving from binary to multiclass classification explore multiclass with rock paper scissors dataset train a classifier with rock paper scissors test the rock paper scissors classifier a conversation with andrew ng
+</DOC>
+
+<DOC>
+sequences time series and prediction
+if you are a software developer who wants to build scalable aipowered algorithms you need to understand how to use the tools to build them this will teach you best practices for using tensorflow a popular opensource framework for machine learningin this fourth how to build time series models in tensorflow first implement best practices to prepare time series data also explore how rnns and d convnets can be used for prediction finally apply everything youve learned throughout the to build a sunspot prediction model using realworld data the machine and deep from andrew ng teach the most important and foundational principles of machine and deep this new deeplearningai tensorflow developer teaches you how to use tensorflow to implement those principles so that you can start building and applying scalable models to realworld problems to develop a deeper understanding of how neural networks we recommend that you take the deep
+
+sequences and prediction
+hi learners and welcome to this on sequences and prediction well take a look at some of the unique considerations involved when handling sequential time series data where values change over time like the temperature on a particular day or the number of visitors to your web site well discuss various methodologies for predicting future values in these time series building on what youve learned in previous courses
+introduction a conversation with andrew ng time series examples machine applied to time series common patterns in time series introduction to time series train validation and test sets metrics for evaluating performance moving average and differencing trailing versus centered windows forecasting
+
+deep neural networks for time series
+having explored time series and some of the common attributes of time series such as trend and seasonality and then having used statistical methods for projection lets now begin to teach neural networks to recognize and predict on time series
+a conversation with andrew ng preparing features and labels preparing features and labels screencast feeding windowed dataset into neural network single layer neural network machine on time windows prediction more on single layer neural network deep neural network training tuning and prediction deep neural network
+
+recurrent neural networks for time series
+recurrent neural networks and long short term memory networks are really useful to classify and predict on sequential data well explore using them with time series
+a conversation with andrew ng conceptual overview shape of the inputs to the rnn outputting a sequence lambda layers adjusting the rate dynamically lstm coding lstms
+
+realworld time series data
+on top of dnns and rnns lets also add convolutions and then put it all together using a realworld data series one which measures sunspot activity over hundreds of years and see if we can predict using it
+a conversation with andrew ng convolutions bidirectional lstms convolutions with lstm real data sunspots train and tune the model prediction sunspots combining our tools for analysis congratulations wrap up a conversation with andrew ng
+</DOC>
+
+<DOC>
+introduction to tensorflow for artificial intelligence machine and deep
+if you are a software developer who wants to build scalable aipowered algorithms you need to understand how to use the tools to build them this is part of the deeplearningai tensorflow developer and will teach you best practices for using tensorflow a popular opensource framework for machine the machine and deep from andrew ng teach the most important and foundational principles of machine and deep this new deeplearningai tensorflow developer teaches you how to use tensorflow to implement those principles so that you can start building and applying scalable models to realworld problems to develop a deeper understanding of how neural networks we recommend that you take the deep
+
+a new programming paradigm
+welcome to this on going from basics to mastery of tensorflow were excited youre here in get a soft introduction to what machine and deep are and how they offer you a new programming paradigm giving you a new set of tools to open previously unexplored scenarios all you need to know is some very basic programming and pick the rest up as you go along to get started check out the first a conversation between andrew and laurence that sets the theme for what study
+introduction a conversation with andrew ng a primer in machine the hello world of neural networks working through hello world in tensorflow and python
+
+introduction to computer vision
+welcome to of the in you learned all about how machine and deep is a new programming paradigm youre going to take that to the next level by beginning to solve problems of computer vision with just a few lines of code check out this conversation between laurence and andrew where they discuss it and introduce you to computer vision
+a conversation with andrew ng an introduction to computer vision writing code to load training data coding a computer vision neural network walk through a notebook for computer vision using callbacks to control training walk through a notebook with callbacks
+
+enhancing vision with convolutional neural networks
+welcome to in you saw a basic neural network for computer vision it did the job nicely but it was a little naive in its approach well see how to make it better as discussed by laurence and andrew here
+a conversation with andrew ng what are convolutions and pooling implementing convolutional layers implementing pooling layers improving the fashion classifier with convolutions walking through convolutions
+
+using realworld images
+last you saw how to improve the results from your deep neural network using convolutions it was a good start but the data you used was very basic what happens when your images are larger or if the features arent always in the same place andrew and laurence discuss this to prepare you for what handling complex images
+a conversation with andrew ng understanding the tfdata api defining a convnet to use complex images training the convnet walking through developing a convnet walking through training the convnet adding automatic validation to test accuracy exploring the impact of compressing images a conversation with andrew
+</DOC>
+

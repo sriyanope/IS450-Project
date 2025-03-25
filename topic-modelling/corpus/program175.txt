@@ -1,0 +1,127 @@
+<DOC>
+graphic design
+graphic design is all around us in a myriad of forms both on screen and in print yet it is always made up of images and words to create a communication goal this fourcourse sequence exposes students to the fundamental required to make sophisticated graphic design process historical context and communication through imagemaking and typography the sequence is completed by a capstone that applies the of each and peer feedback in a finished branding suitable for a portfoliothe goal of this is to equip learners with a set of transferable formal and conceptual tools for making and communicating in the field of graphic design this core set will equip learners for formal studies in graphic design and a starting point for further in interface design motion graphics and editorial design
+</DOC>
+
+<DOC>
+introduction to typography
+typography is the art of manipulating the visual form of language to enrich and control its meaning its an essential area of and knowledge for graphic designers typography predates modern graphic design by around years it is rich in rules conventions and esoteric terminologybut it remains an exciting space for invention and expressionin this rigorous introductory we will study name and measure the characteristics of letterforms well consider the pragmatic concerns involved in selecting and combining type well peek into the rich historical cultural and aesthetic histories of familiar typefaces well discuss timetested conventions and best practices in setting type as governed by principles of hierarchy and spatial organization and well explore the expressive meaningmaking potential of type informative lectures will be complemented by a series of three peerassessed culminating in an to design a fullscale typographic poster please note that this is not a software a basic working knowledge of adobe indesign or other page layout software will be assumed need access to a computer and page layout software such as indesign to complete the
+
+talking type
+well take an upclose look at typefaces both as physical artifacts and as works of design we will study the formal elements that define and give character to type and understand where they came from and why they look the way they do we will review the terminology and measuring system used to describe type and look at the way the form and proportion of letters relate to the practical concerns of selecting and combining typefaces the will wrap up with a graded quiz
+welcome why peer review peer review tips how to apply feedback font versus typeface stroke and proportion type anatomy measuring type choosing a typeface
+
+typefaces and their stories
+well explore the way typefaces express connotative meaningtell storiesthrough their association with different time periods aesthetics and ideas through six short case studies we will look at the way a typefaces connotations are shaped by its context understand the historic evolution of typographic forms and familiarize ourselves with the way typefaces are classified extend your exploration through some independent research into a typeface of your choosing
+typefaces and their stories bembo humanist letters didot enlightened refinement clarendon type for the masses futura the typographic avantgarde helvetica international modern scala sans typographic remix
+
+putting type to
+we will engage the visual principles and conventions of typesetting we will look at how the spaces between letters lines and blocks of type can be manipulated to refine the appearance and control the meaning of type well explore the ways typographic hierarchy and grid systems can further organize and clarify type and well survey the rules and conventions that can add polish to your typesetting apply your and knowledge in a peerreviewed typesetting exercise at the end of the
+working with type typographic space page space the grid creating hierarchy typographic conventions
+
+making meaningful type
+in our final well examine the ways typographic form can dramatically shape the meaning of written language well survey and analyze possibilities for type treatmentsfrom subtle typesetting choices to dramatic manipulationsby looking at examples of expressive and unconventional typography at the end of the bring together and apply everything you have learned in the design of a fullscale typographic poster
+making meaningful type typesetting with expression beyond typesetting the typographic poster
+</DOC>
+
+<DOC>
+introduction to imagemaking
+this for serious makers and for students new to imagemaking imagemaking is a fluid and exciting area of graphic design that comes out of practice and process experimenting fearlessly showing and sharing ideas and giving and receiving knowledgeable and constructive inputfor the sake of this online platform we have applied some structure to our investigations but for the most part imagemaking is loose and unstructured if we must adopt a rule it is only this not become a graphic designer by watching alone or dont just make stuff just in your head so here the focus here is on making and you are expected to devote serious time and intellectual energy to that activity specifically experiment with a range of materials and techniques to make images for graphic design expand your visual vocabulary both in terms of making and talking about in order to discuss your and of others how to make manipulate and arrange images to create compositions eventually culminating in the design and production of animagebased book the first half of the is an to experiment and explore imagemaking in order to expand your visual vocabulary create pieces that are expressive meditative or designy to instigate evoke experiment record explain or try out a media in the second two weeks well invite the images to deliberately and intentionally carry meaning and communication through relational moves like juxtaposition composition and context well look at developing and expanding the range of approaches for putting things together by composing page spreads with your images since nothing exists without context we look at how to intentionally drive the images connotations meanings and associations generated through elements of composition and visual contrasts ultimately we will take the images that you create and make a book from them the results of your and experiments may generate something completely unknowable now or in the futureand thats the goal
+
+imagebased research
+welcome we will introduce imagebased research and investigate these images in a design context using a range of techniques then choose a subject of your own to research that will become the basis for your experiments and designs in the coming weeks
+welcome why peer review peer review tips how to apply feedback practice what images do considering the book in a graphic design context
+
+making images
+is a making session take the subject you selected last and think about it in different ways from simple to complex hand to digital realistic to abstract and everything in between well explore and experiment freely well also consider different modes of representation and try a hand at creating our own ranges of representation with images
+making methods and techniques denotation connotation range of representation
+
+composition is relational
+third we will define and investigate core principles of composition and begin to compose simple spreads for your book
+composition is relational about hierarchy scale space composition figureground from introduction to imagemaking narrative simple composition creating page spreads
+
+designing a book with your images
+final we will pull together your from the previous weeks to make spreads using of your favorite images from your and compile them into a page book i am also sharing with you a few imagebased books to give you some ideas on how to structure your book note that for the final i am asking you to submit a digital book through issuu instructions are included in the if you choose to create your images by hand still need a computer loaded with indesign or a similar to clean up the images and prepare the files for upload to the coursera platform
+bookishness complex composition putting your book together lazy mom lazy wow katharina pierinisming sming books night moves laura owens hey what laura owens new bruno munari a tale of three little birds two simple bookbinding techniques
+</DOC>
+
+<DOC>
+brand new brand
+this is the culmination of the graphic design and gives you an to tie together your knowledge and into a single a brand development guide for a company inventthis takes you through the entire design process from ideation to creation to presentation through the guide be creating and giving a visual identity to an imaginary startup company and applying that visual identity to a number of forms also develop a logotype and accompanying graphic palette to visually represent your company as well as apply that design to a number of different applications to see it at note only learners who have earned a in the four previous courses in the are eligible to take the capstone
+
+overview
+
+welcome example submission for final
+
+ideation invent your client
+choose an area your startup company works in create a written fake history of your company define company idealogical goals and philosophy brainstorm for naming ideas and name your company
+overview of invent your client fake your history unpack your adjectives the name game
+
+visualization make your fake
+carry out visual research of reference material for your startups identity create digital mood boards to show the look and feel and visual direction of your companys identity
+in the mood developing your identity manual
+
+logotype brand your brand
+how to create a logotype for your company with emphasis on finessing typographic forms
+choosing a typeface typographic space typesetting with expression beyond typesetting shapes of letters shapes of words typographic skeletons customizing letters variations and refinement
+
+palette expand your brand
+be extending the palette of your brand identity by creating a suite of elements for your startup company color palette visual mark secondary typefaces imageryforms and a secret ingredient
+marks icons and symbols working with color creating hierarchy making methods and techniques range of representation adding color adding a markicon adding a secondary typeface adding imagery adding a secret ingredient
+
+application apply your brand
+be using your extended palette or suite of elements to create a set of design pieces that showcase the identity for your imaginary startup company
+
+publication display your brand
+be reworking and refining your identity components be finishing and refining the design of your brand development guide and submitting it for the final we will be wrapping things up and reviewing our peers
+principles of composition page space the grid simple composition creating page spreads complex composition putting your book together brand development guide
+</DOC>
+
+<DOC>
+ideas from the history of graphic design
+this condensed survey focuses on four key periods or themes from the history of design in the west together well trace the emergence of design as a recognized practice why things look the way they do and how designers approached specific design problems in their students will develop an understanding of where the wide variety of todays design practice comes from by participating survey of the works of innovative groups and individuals we outline the process by which graphic design moved from a purely instrumental practice to becoming a demanding creative and hybridized field each a short quiz will test your knowledge of concepts and a short reflective will give you the to analyze the questions designers ask themselves today this is an essential for emerging designers entering the field or for students interested in more about visual culture and analysis no previous is required a note about this this is taught from the perspective of contemporary design to connect ideas that helped formulate design practice from the s through the s to the ways that designers think today the relationship of words and pictures in graphic design is looked at through the everchanging social and cultural contexts technologies aesthetics and politics of their eras the definition and practice of graphic design includes all public visual communications which is a global practice it was the evolution of mass production and communication in the west that specifically redefined graphic design as a practice and is this courses particular narrative we hope students will consider how to connect the themes and ideas offered to your own culture
+
+early mass marketing
+we are going to take a look at the effects of industrialization in the late th century and how goods were produced sold and marketed
+introduction why peer review peer review tips how to apply feedback introduction to early mass marketing form follows function a democratization of choice a revival of styles style mashup an exaggeration of type branding a household name text and image words doing the
+
+the bauhaus
+well look at how the and teachings of the bauhaus and how design emerged as a recognized practice
+introduction to the bauhaus founding the bauhaus the foundation year the bauhaus and architecture klee schlemmer albers lszl moholynagy herbert bayer color image textiles ceramics typography publications
+
+modernism in america
+modernism in midcentury america through the eyes of four key designers
+introduction to modernism in america the bauhaus influence a symbolic language case study scope magazine developing corporate identities a new subjectivity case study fortune magazine play and humor case study the mechanized mule brochure duality simplicity case study el producto cigars rands logo designs a clear identity
+
+graphic design radicalism
+design practice in the late s to early s was new radical and divergent to show you just how varied it was well look at the of four key playersmovements
+introduction to graphic design radicalism the objectivity of swiss design incorporating abstraction josef muellerbrockmann the grid emil ruder compositional strategies the subjectivity of push pin milton glaser the south the psychedelic poster and looking to the past the diggers sister coritas aesthetics sister coritas politics
+</DOC>
+
+<DOC>
+fundamentals of graphic design
+graphic design is all around us words and picturesthe building blocks of graphic designare the elements that carry the majority of the content in both the digital world and the printed world as graphic design becomes more visible and prevalent in our lives graphic design as a practice becomes more important in our culturethrough visual examples this will teach you the fundamental principles of graphic design imagemaking typography composition working with color and shape foundational that are common in all areas of graphic design practice i dont just want you to watch a of someone talking about design i want you to make design if you want to be a designer you have to be a maker and a communicator so this will offer you lots of to get your hands dirty with exercises and with more practical at the end of this have learned how to explore and investigate visual representation through a range of imagemaking techniques understand basic principles of working with shape color and pattern been exposed to the language and of typography and understand and have applied the principles of composition and visual contrast if you complete the along with its optional but highly recommended briefs have a core set of graphic design that you can apply to your own or to more deeply investigate a specialized area of graphic design to succeed need access to a computer you can complete this without one but it will be tougher access to and a beginners level knowledge of adobe creative suite programs such as illustrator photoshop and indesign will help you especially if you want to complete the optional briefs
+
+overview
+welcome first i will summarize the and expectations of this
+
+fundamentals of imagemaking
+we are going to look at how images function in terms of conveying denotative and connotative messages ill show you a range of analog and digital imagemaking techniques and discuss how they in the first peer review create your own series of images experimenting with formal techniques later have the to rework those images to enhance their ability to communicate an idea through connotation in an optional give it a try itll help you develop your communication as well as your formal
+introduction to imagemaking denotative imagemaking denotative imagemaking techniques of imagemaking techniques of imagemaking techniques of imagemaking process generation iteration imagemaking demo printing with an object imagemaking demo duct tape prints imagemaking demo improvised light table why peer review peer review tips how to apply feedback example submissions from brief explorations in imagemaking connotative imagemaking connotative imagemaking
+
+fundamentals of typography
+we are going to look at typographic terminology and the basic rules for creating typography ill show you a range of tips and techniques for working with type in both a functional and expressive manner and find out about the process involved in making and controlling typography complete a quiz to make sure you understand the language of typographythis is required i also highly recommend you complete the two optional peer review in the first create your own typographic monogram and use that as a central element in designing a typographic business card in the second give them a try they are the place where you can demonstrate and apply your formal and the place where you get to play with type
+introduction to typography the anatomy of letters words and spacing type size the point system typesetting text typefaces fonts and type families typeface categories denotation in type connotation in type looking at letterforms experimenting with letterforms typographic composition
+
+fundamentals of shape and color
+we are going to look at how designers with shape and color as their fundamental building blocks about visual contrast color rhythm and pattern in design ill be showing you the process involved in making an abstract design from shapes and how to use that element to create a repeating pattern design be completing a quiz required to make sure you understand how visual contrast and color and i also highly recommend you complete the two optional peer review in the first create your own simple and complex design motifs and use them as the central elements in designing a repeating pattern in the second the are optional but they are the place where you get to demonstrate and apply your formal so well worth taking the extra time to complete
+introduction to shape color graphic shapes visual contrast marks icons and symbols negativepositive figureground working with color the color wheel mixing color paint print and screen rhythm and pattern rhythm and pattern
+
+fundamentals of composition
+we are going to look at how designers with visual contrasts cropping hierarchy and direction in single images and complex compositions find out how to control and use scale weight direction texture and space in a composition and how to compose that ranges from the complex to the minimal in the first peer review create your own abstract compositions that demonstrate your knowledge and control of visual contrast in the final optional you can use all your from the entire to create experimental compositions in the form of a poster for a mythical band this last is optional but i strongly suggest you try it out itll let you grow and apply your design knowledge and really enjoy and express yourself in your design
+introduction to composition principles of composition visual contrasts single contrasts multiple contrasts type contrasts image contrasts example submissions from brief single contrasts composition in a single image cropping and hierarchy composition in context conclusion
+
+continuing your graphic design studies
+section weve provided some useful resources for students wishing to further their studies in graphic design the information was authored by calvin rye mfa alumnus of the graphic design at calarts in consultation with calarts graphic design faculty and our office of admissions in addition to some advice about selecting the right of study weve also included some tips for creating and presenting a strong organized portfolio and writing your artist statement these are essential components of any application to a graphic design as well as a freelance graphic designers toolkit regardless if you are applying to schools or looking for in the field we hope you find these tips and resources useful to your goals
+</DOC>
+

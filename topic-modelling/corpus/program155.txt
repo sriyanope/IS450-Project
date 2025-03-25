@@ -1,0 +1,113 @@
+<DOC>
+foundations of management
+good management is equal parts knowing and doing no matter what industry you in or where you are in your a basic understanding of financial marketing and decisionmaking principles and other management fundamentals will help you achieve your goals be it getting promoted in your current job getting ready for a mba or starting your own company this will give you a comprehensive introduction to the practice of management through the lens of four key disciplines accounting finance marketing and organizational behavior in each analyze real business cases from these four perspectives in the final capstone apply what youve learned to develop a holistic solution to a realworld business dilemma this will provide you with the set needed to help achieve the next step in your
+</DOC>
+
+<DOC>
+finance for managers
+when it comes to numbers there is always more than meets the eye in operational finance how to read the story that the balance sheet and income statement tells about the companys operations the insights you gain from this financial story will then become a tool for shortterm decisionmaking at the top management level relating to current assets current liabilities and the management of working capital finally by the end of the understand the financial consequences of managerial decisions on operations marketing etc
+
+overview
+welcome to operational finance finance for managers the basics of operational finance to help you make sound financial decision or to run a robust business before you get started with this weeks content please have a look at the syllabus first well discuss what operational finance is all about by looking at a business case what do the numbers on the balance sheet and pl statement tell us about its performance and future prospects if you were a bank would you approve a half million euro loan for this business why or why not objective to get an overview of operational finance and the types of analyses necessary to develop solid financing decisions
+welcome to the intro operational finance outline introduction operational finance polypanel case what to do polypanel case what to do continued business analysis part sales business analysis part sales continued business analysis part strategy and management pl analysis part sales and gross margin pl analysis part sales and gross margin continued pl analysis part opex ebitda and financial results pl analysis part opex ebitda and financial results continued what is a balance sheet polypanels balance sheet polypanels balance sheet continued brief recap
+
+operational ratios and forecasting
+in we looked at polypanels balance sheet and pl statement in the balance sheet we noted that receivables increased from in to in we left off with the question is this difference due to an increase in sales or delays in payments from customers in we will introduce operational ratios the tools we need to disentangle both effects and understand whats going on below the surface we will also conduct a forecasting exercise of polypanel to understand how well it will be positioned to pay back a potential credit line in the future objectives by the end of the session understand the different types of operational ratios days of collection days of inventory and days of payables in order to analyze how well a business is performing also how to use forecasting to support financing decisions
+recap from recap from continued operational ratios days of collection operational ratios days of collection continued operational ratios days of inventory operational ratios days of inventory continued operational ratios days of payment operational ratios days of payment continued forecast of the pl forecast of the balance sheet theory forecast of the balance sheet theory continued forecast of the balance sheet polypanel forecast of the balance sheet polypanel continued brief recap
+
+diagnosis and action plan
+by now you have a pretty good grasp of the polypanel case and the main issues that could impact future financing its time to roll up our sleeves and out a diagnosis for these issues well discuss need of funds for operations nfo and working capital wc two concepts that will help us better understand the companys problems finally with a solid diagnosis we can develop an action plan that will lead to sustainable growth objectives by the end of the session have a framework for diagnosing a companys financial health also gain insights into how to develop an action plan to address its problems
+recap from recap from continued diagnosis i need of funds nfo and working capital wc need of funds nfo and working capital wc continued diagnosis ii action plan i action plan i continued action plan ii action plan ii continued sustainable growth sustainable growth continued brief recap
+
+negative nfo and dupont analysis
+final we will introduce the final pieces of the puzzle to give you a complete overview of operational finance well discuss tools like sensitivity analysis that will help you consider the potential of a decision given different variables session we will also look at other crucial concerns for the firm and its shareholders like sustainable growth and roe return on equity plus revisit nfo need of funds for operations and other topics objectives by the end of this session you should have a complete overview of the key aspects of operational finance also understand what tools financial professionals use in order to make decisions to strengthen a companys position
+conclusion congratulations recap from recap from part sensitivity analysis sensitivity analysis part an example of sustainable growth minimum cash and other elements in the nfo seasonal companies building up the roe part building up the roe part building up the roe part blind financial statements blind financial statements part blind financial statements part brief recap conclusions
+</DOC>
+
+<DOC>
+analysis of business problems
+when does an to increase the bottom line become a liability for longterm brand sustainability and profitability that is the question that gas gas an offroad motorcycle manufacturer is confronting culminating its time to use the business tools you have learned throughout the to solve this real business problem to help you as you develop a solution to the gas gas dilemma in the capstone also a sixstep analysis of business problems methodology by the end of the understand how to weave together considerations from accounting finance marketing and organizational behavior in order to arrive at a sound decision that will positively impact the firms future
+
+overview and analysis of business problems capstone
+welcome before you start todays please have a look at the syllabus first session ill introduce you to ieses sixstep analysis of business problems abp methodology this methodology is a very useful tool to help managers in their principal responsibility making decisions because most business problems involve financial technical and human issues they are by nature complex no matter how much thought you put into it there is no correct solution and certainly no guarantee that your decision will yield the desired this sixstep methodology is therefore a great help to many mangers as they take on their decisionmaking challenges such as the one that gas gas faces objectives to give learners a relevant and effective tool to make managerial decisions
+introduction to capstone what is gas gas company promo intro the role of the manager structured vs unstructured problems finding solutions to unstructured problems introducing six steps to solving problems criteria and alternatives from analysis to action hamlet othello whats next interview with ramon puente
+
+gas gas marketing problem
+now that you understand a bit of the history of gas gas its time to analyze the situation from a marketing perspective the decision to manufacture bikes for ktm will undoubtedly have an impact on consumers branding pricing and channels will that impact be positive or negative are the risks worth the longterm benefit what should the ceo take into consideration when making a decision by the end of the session you should have enough information to advise ramon puente about the relevant marketing issues objective to apply the marketing concepts acquired in marketing understanding your customers in order to evaluate and make a decision about gas gas
+intro consumer considerations and branding pricing and channel considerations interview with ramon puente the marketing problem
+
+gas gas finance problem
+session we will evaluate gas gas history and current situation and discuss the potential financial effect of partnering with ktm after looking at some of the concepts we discussed in need of funds for operations nfo working capital wc sustainable growth and more the learner will be able to understand how the financial outlook will influence the ultimate decision objective to apply the financial concepts acquired in operational finance building a robust business in order evaluate the gas gas problem from a financial perspective
+intro understand gas gas the financial effect of partnering with ktm integrate finance in strategy interview with ramon puente the finance problem
+
+gas gas organizational behavior problem
+all business decisions have a direct impact on people so that the board makes the best decision possible it is important to examine whether they have the most effective tools at their disposal from an organization behavior perspective who are the people on the board and how well do they together as a team whatever they decide will affect gas gas employees this is a critical consideration for leadership to take into account as they weigh the financial and marketing issues you have already discussed objective to apply the organizational behavior concepts acquired in organizational behavior managing people in order to evaluate and help ramon puente make a decision about gas gas
+board as team degree of teamness on board gas gas employees recap interview with ramon puente the managing people problem
+
+conclusion and final question
+peer review
+</DOC>
+
+<DOC>
+accounting principles of financial accounting
+financial accounting is often called the language of business it is the language that managers use to communicate the firms financial and economic information to external parties such as shareholders and creditors nobody working in business can afford financial illiteracy whether you run your own business as a manager or are just starting your you want to understand financial information and be able to interact with accountants controllers and financial managers you want to talk business this will provide you with the accounting languages essentials upon completion you should be able to read and interpret financial statements for business diagnosis and decisionmaking more importantly possess the conceptual base to keep more sophisticated accounting and finance on your own do not forget that as with any other language becoming proficient with accounting requires constant practice
+
+overview introduction to accounting the balance sheet
+welcome before you start todays please have a look at the syllabus first session ill give you an overview of what accounting is all about and why its important to have a basic proficiency language in addition ill introduce one of the most important financial reports the balance sheet and a practical realworld case so you can put theory into practice objectives to gain insight into the essence of accounting and become familiar with the balance sheet and its purpose
+introduction welcome to the accounting the language of business practice case the campus bookstore i practice case the campus bookstore ii accounting for our first transactions accounting for more transactions explaining the balance sheet defining an asset defining a liability recap
+
+the income statement
+now that you are familiar with the balance sheet in two well how to account for a variety of transactions in addition ill introduce you to another key financial report the income statement objectives to be able to recognize a broader range of transactions on the balance sheet and to become familiar with the income statement
+introduction to recap of purchasing more inventory sales and cost of goods sold selling general and administrative expenses some collections and payments of cash depreciation and amortization interest from bank loan and taxes preparing the balance sheet introducing the income statement recap of and conclusions
+
+the cash flow statement
+now that you have a good grasp of the balance sheet and income statement ill help you master how to recognize the transactions we went over in two ill also introduce a third financial report the cash flow statement and discuss liquidity objectives to understand the difference between liquidity and profitability become familiar with taccounts and gain insight into the purpose of the cash flow report
+introduction to recap of taccounts and journal entries setting up taccounts for the campus bookstore sales cost of goods sold collections from customers and payment to suppliers other operating costs transactions with noncurrent assets bank loans and interest taxes closing entries and payments of dividends preparing the balance sheet preparing the income statement introducing the cash flow statement i introducing the cash flow statement ii recap of and conclusions
+
+accrual accounting
+by using accrual accounting we can measure performance when a financial transaction takes place even if no cash has actually changed hands final session well discuss the difference between accrual and cash accounting and also read and interpret a real enterprises financial statements objectives by the end of the session be able to handle numerous transactions for the purposes of financial reporting and understand the advantages of accrual accounting
+introduction to recap of accrual accounting vs cash accounting measuring performance with accrual accounting a few examples prepaid insurance accrued interest and advances from customers performance evolution of the campus bookstore i performance evolution of the campus bookstore ii reading and interpreting real financial statements i reading and interpreting real financial statements ii advanced topics you can explore on your own conclusions
+</DOC>
+
+<DOC>
+marketing customer needs and wants
+understanding who your customers are and what they need and want is at the heart of successful marketing strategies explore how to identify and classify customers and the different methods that marketing professionals use to shed light on how they make purchase decisionsthe will cover the following marketing fundamentals product pricing and channel decisions building strong brands communication strategy
+
+overview
+welcome before you start todays please have a look at the syllabus first session ill give you an overview of what marketing is all about and why its key to communicating a companys value proposition also get a grasp of marketing essentials particularly how to frame challenges and what to think about when making decisions objectives to gain insight into the basic pillars of marketing
+introduction to the outline overview framing marketing challenges part framing marketing challenges part the marketing process part the marketing process part segmentation part segmentation part segmentation part segmentation part marketing research part marketing research part marketing research part targeting and positioning part targeting and positioning part
+
+product pricing channel design
+its hard to remember what the world was like before ipods iphones and ipads but when apple released the first ipod in it was not an automatic blockbuster the product was great but it took a lot of marketing savvy to set it on its successful path all companies whether selling electronics gastronomic or credit cards need to worry about making product pricing and channel decisions second session we will explore what a product really is how to estimate its demand and manage it in addition well discuss the fundamentals of pricing channel design and channel management objective to gain an understanding of what a product really is how to manage pricing and make decisions about channels
+intro product definition part product definition part estimating product demand part estimating product demand part managing products part managing products part managing products part pricing fundamentals part pricing fundamentals part pricing fundamentals part pricing fundamentals part pricing fundamentals part channel design part channel design part channel management recap
+
+building strong brands
+strong brands make a great impact on individuals and society they are key to communicating value and getting the word out about a product or service session we will explore the importance of brands as assets and branding in general we will define the concept of brand equity and the essence of managing brands for value objective to understand how branding contributes to a companys value and how to go about developing a strong brand
+intro defining brands what things can be branded why are brands important part why are brands important part the value of a brand part the value of a brand part brand equity the branding process part the branding process part brand extensions part brand extensions part recap
+
+communication strategy
+once a company has a good grasp of its customers it can now develop a communication strategy to appeal directly to their interests and needs session i will introduce a framework that will show you how to organize your communication strategy in order to successfully launch a product or service we will also discuss what the objectives and target market of that strategy should be mapping the decisionmaking process is also key since need to to adapt the message and content to each stage of the customer journey objective to define the elements and list the steps for building a sound communication strategy
+intro communications framework mission and market map the decision making process part map the decision making process part message and content media part media part measurement recap conclusion to the
+</DOC>
+
+<DOC>
+organizational behavior how to manage people
+peter drucker a pioneer in the field of management once said that people have a perverse tendency to behave like human beings of we are not machines and certainly not programmable but through the study of organizational behavior we can gain insights into what makes people tick within a context increasing your understanding of your own behavior and that of your colleagues teams and leaders is an important first step to bringing positive change to how you and your organization workthe objective of this is therefore to provide insight into four key areas motivation segment we will understand the concept of motivation and review various perspectives that will help you understand how we can motivate others leadership part of the we will analyze the concept of leadership and consider various perspectives and approaches to help shed light on leadership emergence and effectiveness teamwork here we look at team functioning and effectiveness using the widely used input process output model of team effectiveness we consider such topics as team diversity team processes and team culture finally well move to the level of the organization and consider the concept of organizational culture also touching upon the concept of national culture we look at the various ways in which culture is expressed and discuss the implications of culture for people within organizations and crosscultural collaborations
+
+overview motivation
+welcome before you start todays please have a look at the syllabus first session ill introduce you to one of the central topics of organizational behavior motivation well explore why people act as they do so that we can better understand their motivations on the job these insights will help you understand how managers can influence the people on their teams toward a common goal in the context of organizations objectives to gain insight into human motivation from the different perspectives offered by the diverse prevailing theories area
+welcome to the intro content theories part content theories part the nature of our jobs part the nature of our jobs part the goals we want to achieve process theories part process theories part comparisons to others and selfefficacy theories part theories part
+
+leadership
+type the word leadership into amazons search engine and find related books this is indeed a popular topic but what is leadership really are leaders born or made what traits and makes some people able to influence people to direct their energy towards a common objective we will discuss all of these questions and explore some of the theories behind the study of leadership objective to understand what leadership is what makes a good leader and how managers may develop the relevant to evolve in their roles
+intro what is leadership trait theories trait theories part behavioral theories contingency theories part contingency theories part contingency theories part neocharismatic theories current perspectives
+
+teamwork
+teamwork is more than a business school buzz word its a key element on the job today teams can be working sidebyside or spread across the world what are the dynamics at play on different teams what happens when conflict arises can teams evolve and overcome conflict to yield productive well address all of these questions to help you understand the complexity and importance of teamwork objective to offer you some key insights so that you can take a step back from your own team at and look back in with a fresh perspective
+intro team design part team design part team composition part team composition part team processes part team processes part teams over time part teams over time part recap
+
+culture
+culture exists on many more levels than one would immediately assume each organization can have a unique culture and this in turn can be greatly influenced by the country in which it operates we will look at how our culture influences how we think and act on the job objective to understand the crucial role culture plays in understanding peoples attitudes and actions in a environment
+intro introduction to rijk zwaan what is culture the three levels of culture rijk zwaans levels of culture organizational culture national culture part national culture part national culture part recap organizational behavior recap part organizational behavior recap part rijk zwaan company
+</DOC>
+

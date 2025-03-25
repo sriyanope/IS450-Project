@@ -1,0 +1,85 @@
+<DOC>
+power electronics
+design modern switchedmode power converters create highperformance control loops around power converters understand efficiency power density and cost tradeoffsby of all electrical energy will be processed by power electronics advantages continue to grow for technical engineers who understand the fundamental principles and technical requirements of modern power conversion systems this covers designoriented analysis modeling and simulation techniques leading to practical engineering of highperformance power electronics systems
+</DOC>
+
+<DOC>
+magnetics for power electronic converters
+this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degreethis covers the analysis and design of magnetic components including inductors and transformers used in power electronic converters the starts with an introduction to physical principles behind inductors and transformers including the concepts of inductance core material saturation airgap and energy storage in inductors reluctance and magnetic circuit modeling transformer equivalent circuits magnetizing and leakage inductance multiwinding transformer models are also developed including inductance matrix representation for series and parallel structures modeling of losses in magnetic components covers core and winding losses including skin and proximity effects finally a complete procedure is developed for design optimization of inductors in switchedmode power converters after completing this understand the fundamentals of magnetic components including inductors and transformers be able to analyze and model losses in magnetic components and understand design tradeoffs know how to design and optimize inductors and transformers for switchedmode power converters this assumes prior completion of courses and introduction to power electronics and converter circuits
+
+basic magnetics
+magnetics are an integral part of every switching converter often the design of the magnetic devices cannot be isolated from the converter design the power electronics engineer must not only model and design the converter but must model and design the magnetics as well modeling and design of magnetics for switching converters is the topic of this basic magnetics theory is reviewed including magnetic circuits inductor modeling and transformer modeling this provides the technical tools needed in the remainder of the to understand operation of magnetic devices model their losses and design magnetic devices for switching converters
+a brief introduction to the basic relationships lecture magnetic circuits lecture transformer modeling loss mechanisms in magnetic devices
+
+ac copper losses
+eddy currents also cause power losses in winding conductors this can lead to copper losses significantly in excess of the value predicted by the dc winding resistance the specific conductor eddy current mechanisms are called the skin effect and the proximity effect these effects are most pronounced in highcurrent conductors of multilayer windings particularly in highfrequency converters this explains these physical mechanisms and provides practical methods to compute these losses
+introduction to the skin and proximity effects leakage flux in windings foil windings and layers power loss in a layer example power loss in a transformer winding interleaving the windings pwm waveform harmonics
+
+inductor design
+the goal of this chapter is to design inductors for switching converters specifically magnetic elements such as filter inductors are designed using the geometric constant kg method the maximum flux density bmax is specified in advance and the element is designed to attain a given copper loss both singlewinding inductors and multiplewinding elements such as coupled inductors and flyback transformers are considered
+several types of magnetic devices their bh loops and core vs copper loss filter inductor design constraints a firstpass design window area allocation coupled inductor design constraints firstpass design procedure coupled inductor example coupled inductor for a twooutput forward converter example ccm flyback transformer
+
+transformer design
+in a substantial class of magnetic applications the operating flux density is limited by core loss rather than saturation for example in a conventional highfrequency transformer usually it is necessary to limit the core loss by operating at a reduced value of the peak ac flux density hence design of corelosslimited magnetic devices is characterized by finding the ac flux density that minimizes total core plus copper lossthis considers the design of transformers and ac inductors for switching converters including minimization of total loss design examples include the isolation transformers of a full bridge twooutput converter and of an isolated cuk converter
+transformer design basic constraints firstpass transformer design procedure example singleoutput isolated cuk converter example multipleoutput full bridge buck converter ac inductor design
+</DOC>
+
+<DOC>
+introduction to power electronics
+this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degreethis introduces the basic concepts of switchedmode converter circuits for controlling and converting electrical power with high efficiency principles of converter circuit analysis are introduced and are developed for finding the steady state voltages current and efficiency of power converters include simulation of a dcdc converter analysis of an inverting dcdc converter and modeling and efficiency analysis of an electric vehicle system and of a usb power regulator after completing this understand what a switchedmode converter is and its basic operating principles be able to solve for the steadystate voltages and currents of stepdown stepup inverting and other power converters know how to derive an averaged equivalent circuit model and solve for the converter efficiency a basic understanding of electrical circuit analysis is an assumed prerequisite for this
+
+ch introduction
+an introduction to power electronics and to the coursera
+applications and examples of power electronics sect preliminaries and grading sect what will be covered sect technical introduction sect simulation of a buck converter using ltspice
+
+ch steadystate converter analysis
+how to find the ideal steadystate voltages and currents of a switchedmode converter
+sect introduction sect voltsec balance and the small ripple approximation sect boost converter example sects and additional topics
+
+ch steadystate equivalent circuit modeling losses and efficiency
+equivalent circuit modeling of switching converters to predict their power conversion functions and efficiency under steadystate conditions
+sect the dc transformer model sect supplement review of circuits with ideal transformers sect inductor copper loss sect construction of equivalent circuit model sect how to obtain the input port of the model sect example semiconductor conduction losses in boost converter
+</DOC>
+
+<DOC>
+converter control
+this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degreethis teaches how to design a feedback system to control a switching converter the equivalent circuit models derived in the previous courses are extended to model smallsignal ac variations these models are then solved to find the important transfer functions of the converter and its regulator system finally the feedback loop is modeled analyzed and designed to meet requirements such as output regulation bandwidth and transient response and rejection of disturbances upon completion of this be able to design and analyze the feedback systems of switching regulators this assumes prior completion of courses introduction to power electronics and converter circuits
+
+ch ac equivalent circuit modeling
+how to extend the converter steadystate equivalent circuits derived in the previous courses to obtain smallsignal ac equivalent circuits that model the important converter and regulator system dynamics
+sect introduction to ac modeling sects averaged ac modeling sect discussion of averaging sect perturbation and linearization sects construction of equivalent circuit sect modeling the pulsewidth modulator sect the canonical model sect statespace averaging
+
+ch converter transfer functions part
+a review of the construction of bode plots of the magnitude and phase of firstorder secondorder and higherorder transfer functions with emphasis on techniques needed for design of regulator systems designoriented analysis techniques to make approximations and gain insight into how to design ac systems having significant complexity
+introduction to designoriented analysis review of bode diagrams pole other basic terms combinations secondorder response resonance the lowq approximation analytical factoring of higherorder polynomials
+
+ch converter transfer functions part
+designoriented analysis techniques to make approximations and gain insight into how to design ac systems having significant complexity graphical construction techniques
+analysis of converter transfer functions transfer functions of basic converters graphical construction of impedances graphical construction of parallel and more complex impedances graphical construction of converter transfer functions
+
+ch controller design
+application of the material of chapters and to design closedloop regulators that employ switching converters how to design a feedback system that accurately regulates its output while rejecting disturbances
+introduction construction of closedloop transfer functions stability phase margin vs closedloop q regulator design design example opamp compensator design another example pointofload regulator
+</DOC>
+
+<DOC>
+converter circuits
+this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degreethis introduces more advanced concepts of switchedmode converter circuits realization of the power semiconductors in inverters or in converters having bidirectional power flow is explained power diodes power mosfets and igbts are explained along with the origins of their switching times equivalent circuit models are refined to include the effects of switching loss the discontinuous conduction mode is described and analyzed a number of wellknown converter circuit topologies are explored including those with transformer isolation the homework include a boost converter and an hbridge inverter used in a gridinterfaced solar inverter system as well as transformerisolated forward and flyback converters after completing this understand how to implement the power semiconductor devices in a switching converter understand the origins of the discontinuous conduction mode and be able to solve converters operating in dcm understand the basic dcdc converter and dcac inverter circuits understand how to implement transformer isolation in a dcdc converter including the popular forward and flyback converter topologies completion of the first introduction to power electronics is the assumed prerequisite for this
+
+ch switch realization
+how to implement the switches using transistors and diodes including applications having bidirectional power flow or ac outputs
+sect singlequadrant switches sect currentbidirectional switches sects two and fourquadrant switches synchronous rectifiers
+
+ch power semiconductor switches
+basics of power semiconductor switches including the origins of switching times and switching loss how to incorporate switching loss into equivalent circuit models mosfets igbts and gate driver considerations
+sect introduction to power semiconductors sect diode rectifiers sect equivalent circuit modeling of switching loss sect boost converter example sect more about rectifiers sect power mosfets sect mosfet gate drivers sect bjts and igbts sect more about switching loss wide bandgap power semiconductors simulation of a synchronous boost converter
+
+ch discontinuous conduction mode
+the discontinuous conduction mode dcm arising from unidirectional switch realization analysis of mode boundaries and output voltage
+sect origin of dcm and mode boundary sect analysis of the conversion ratio mdk sect boost converter example
+
+ch converter circuits
+some wellknown converter circuits and their origins how to incorporate transformer isolation into a dcdc converter analysis and equivalent circuit modeling of transformerisolated converters
+sect dcdc converter topologies sect how to synthesize an inverter sect a short list of nonisolated converters sect transformers sect the forward converter sect the flyback converter
+</DOC>
+

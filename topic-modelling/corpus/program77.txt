@@ -1,0 +1,60 @@
+<DOC>
+cost accounting
+view the trailer httpswwwyoutubecomwatchvxerxbdywopens in a new tabmany corporate decisions need cost accounting information when you know the costs of your products make better pricing decisions and you can better choose which products to offer when you know the costs of your departments you can better detect inefficiencies and you can better incentivize your employeesin this the fundamentals of cost accounting three courses cover the basics of cost accounting we will start with an introduction to product costing how can you figure out the costs of your individual products next we will discuss how to connect cost information with revenue information to calculate profits and profitability finally we focus on how to use the information provided by cost accounting systems to optimize your business decisionswe have created the courses of this for interdisciplinary young professionals seeking to develop cost accounting at the same time the courses can help students in management and business administration to repeat the content of their introductory cost accounting courseapplied projectthis is structured along with lecture and uses as well as a series of quizzes and interactive elements to help learners gain an understanding of the basics of cost accounting the also applies practical elements like building an excel spreadsheet to determine cost functions and includes numerous illustrative examples from a variety of industries the coursework teaches learners to plan control monitor and document cost information from product and service costing to profit and loss calculation and leveraging of cost information as the basis for decisionmaking the provides a sound foundation to cost accounting
+</DOC>
+
+<DOC>
+cost accounting decision making
+in the third how to use information from cost accounting to improve managerial decisionmaking we discuss business decisions and suggest how cost information can support them best for example how will costs change if managers adjust cost drivers how many units do companies need to sell in order to avoid losses or to achieve a targeted profit how can managers improve pricing or product programs with information from cost accounting
+
+cost functions and determining how costs behave
+cost accountants want to support decision making to do so they should not only calculate current costs and income but they should also be able to tell managers how costs might change depending on managers decisions how would costs change if we produced more or less products how would they change if we produce more or less variants of products how would they change if we increase the quality of our products cost functions help to answer these questions and we make you familiar with them first we show you some typical cost functions and second we introduce a variety of methods that cost accountants can use to determine cost functions finally we show you how accountants can document cost forecasts
+elementary cost functions combinations of elementary cost functions cost function cost drivers and the time horizon simplifying cost functions and the relevant range analytical methods statistical methods documenting cost forecasts
+
+costvolume profit analysis
+when companies consider offering a new product they might want to know how many units they need to sell in order to avoid losses or to achieve a targeted profit costvolume profit analysis is a simple tool that helps answer these questions it illustrates how costs revenues and profits depend on sold quantities
+objectives of costvolume profit analysis cvpa for a single product considering target profits in cvpa costvolume profit analyses for multiple products costvolume profit analyses with a constant sales mix assumptions of costvolume profit analysis sensitivity analysis margin of safety percentage insourcing versus outsourcing
+
+cost and revenue information for operative decisions
+in the beginning of this you learned that companies use cost accounting to support managers decisionmaking we outline some business decisions and discuss how cost information can support them best for example we discuss pricing decisions and productmix decisions under capacity constraints
+the decision making process planning objects horizon objectives and constraints quantitative and qualitative information characteristics of decisions under uncertainty requirements for information from accounting sunk costs costs and operative decisions the effects of using fullcost information determining the optimal product mix price setter vs price taker lower price limits for negotiations and tenders longterm pricing decisions
+</DOC>
+
+<DOC>
+cost accounting profit and loss calculation
+companies do not only need to know the costs of different products but they also need to know whether they gain a profit or realize a loss we explain how companies use cost information to calculate their profit and assess their profitability depending on how companies account for changes in inventories we distinguish absorption costing and variable costing in addition some companies structure their income statement according to the nature of expense method while others structure it according to the costofsales method we explain both methods and discuss their advantages and disadvantages
+
+methods for preparing an income statement
+companies do not only need to know costs of different products but they also need to know their operating income did we make a profit or did we face a loss to calculate the operating income companies prepare an income statement that compares total revenues and total costs we show you how companies prepare income statements to link costs and revenues and to assess the companys profitability
+tasks of profit and loss calculation nature of expense method costofsales method
+
+absorption and variable costing
+depending on how companies account for changes in inventories we distinguish absorption costing and variable costing in addition some companies structure their income statement according to the nature of expense method while others structure it according to the costofsales method we explain both methods and discuss their advantages and disadvantages
+comparison of income statements and financial accounting comparing operating income under absorption and variable costing comparing operating income for multiple periods incentives for undesirable buildup of inventory under absorption costing
+
+contributionmargin accounting
+many companies use contribution margin accounting to measure success instead of the incomestatement formats contribution margin accounting is a special incomestatement format that displays variable and fixed costs separately we discuss the advantages of contribution margin accounting over traditional income statements further we outline the differences of simple contribution margin accounting and multileveled contribution margin accounting
+simple contribution margin accounting multileveled contribution margin accounting
+</DOC>
+
+<DOC>
+basics of cost accounting product costing
+the core of the first is to how companies record total costs and calculate unit costs for their individual products or services for example how can a car manufacturer figure out the costs of an individual car series during the first weeks participants what costs are and how to distinguish them from expenses or cash flows participants will understand how companies record total costs and distinguish important cost types such as material costs personnel costs or depreciation at the core of their costaccounting system companies allocate overhead costs to individual products we show participants how to allocate the costs incurred to the companys products and introduce them to the most important methods and challenges of product costing
+
+introduction to cost accounting
+welcome to cost accounting we will introduce you to the basic concepts of cost accounting what cost accounting is and how cost accounting relates to corporate accounting thereafter get familiar with some basic cost terms that are essential for cost accountants finally we will introduce you to a framework that distinguishes three subsystems of cost accounting this framework will guide us through the following
+introduction cost accounting and corporate management cost accounting management accounting and financial accounting definition of costs cost terms and their meaning total and unit costs direct and indirect costs fixed and variable costs cost terms and their meaning inventoriable and period costs and sunk costs three subsystems of cost accounting absorption costing vs variable costing
+
+costtype accounting
+we will introduce you to costtype accounting the first of the three cost accounting subsystems costtype accounting helps companies to make their cost structure transparent it gives companies an overview of which costs have been incurred we will take a closer look at three important cost items namely material costs personnel costs and machine costs how companies record and calculate them
+tasks of costtype accounting linkage to financial accounting and important cost types introduction to material costs recording material consumption valuing material consumption personnel costs types of machine costs depreciation interest costs
+
+costcenter accounting
+we will dive into costcenter accounting costcenter accounting creates transparency about where ie in which cost center the overhead costs of a company have been incurred it connects costtype accounting with product costing by performing three allocation steps first overhead costs from costtype accounting are assigned to cost centers however ultimately cost accountants want to assign the costs to cost objects because this is easier for costs of productionrelated cost centers direct cost centers than for costs of indirect cost centers such as the it or the canteen companies allocate overhead costs from indirect to direct cost centers first finally they determine overhead rates for the allocation of overhead costs from direct cost centers to cost objects we will introduce you to each of these steps
+tasks of costcenter accounting and structure of cost centers the three steps of costcenter accounting primary cost allocation overview of the methods for the allocation of servicedepartment costs reciprocal method based on equations reciprocal method based on iterations method of credits and debits stepladder method direct method determining overhead rates
+
+product and service costing
+we introduce you to product and service costing product and service costing provides companies with information about the costs of individual products or services it is the final of the three cost accounting subsystems we will sometimes just refer to product and service costing as product costing but of some companies offer physical products while others offer services we explain how companies design product costing systems and we make you familiar with important methods of product costing we also discuss how well the costing methods are suited for different production processes and types to this end we will distinguish job shop production and mass and batch production
+tasks of product and service costing classification of cost objects the relationship between type product characteristics and costing method the general approach to job costing job costing with multiple overhead rates machinehour costing actual costing interim costing and normal costing book keeping for job shop production singlestage process costing multistage process costing equivalence number method cost allocation for joint products and byproducts
+</DOC>
+

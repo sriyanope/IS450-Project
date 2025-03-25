@@ -1,0 +1,105 @@
+<DOC>
+django for everybody
+this introduces python programmers to building websites using the django library across the four courses html css sql django javascript jquery and json web services during the build online websites using django and those working websites are graded throughout the this series is excellent preparation for other ways to build web applications using technologies like php web applications for everybody flask or ruby on rails this is a great first in any web development curriculumlearners are encouraged to take the python for everybody or equivalent before beginning this some may find it helpful to take the web design for everybody before or after this seriesapplied projectin this students will how to build django applications and by the end of the they will have built a simple web site to store and view classified ads with features like photos search and favourites this web site will be in production and could be added to a students portfolio
+</DOC>
+
+<DOC>
+web application technologies and django
+explore the basic structure of a web application and how a web browser interacts with a web server be introduced to the hypertext transfer protocol http requestresponse cycle including getpostredirect also gain an introductory understanding of hypertext markup language html as well as the overall structure of a django application we will explore the modelviewcontroller mvc pattern for web applications and how it relates to django how to deploy a django application using a service like pythonanywhere so that it is available over the internet this is the first in the django for everybody it is recommended that you complete the python for everybody or an equivalent before beginning this series
+
+introduction to dynamic web content
+we look at the basic structure of a web application and how a web browser interacts with a web server we explore the requestresponse cycle that is the basis of the hypertext transfer protocol http
+why django welcome to the introduction to dynamic web content network sockets and connections hypertext transfer protocol building a simple web browser in python building a simple http server in python walkthrough browser developer mode welcome from guido van rossum face to face office hours bletchley park len kleinrock the first two packets on the internet
+
+installing django on pythonanywhere
+this walks through the installation steps for django on pythonanywhere if you cannot use pythonanywhere you can also install django locally and submit your local computer for grading installing django locally will be described in an upcoming lesson
+installing django on pythonanywhere understanding the dje autograder guido van rossum the early years of python dr chuck goes racing joliet illinois face to face office hours tokyo
+
+hypertext markup language from wae
+we briefly cover the basics of the hypertext markup language html that is the markup for web pages for some students this material will be relatively easy and mostly review
+wae html hypertext markup language part wae html hypertext markup language part wae html code walkthrough tim berners lee inventor of html and http face to face office hours new orleans la
+
+cascading style sheets from wae
+we briefly cover the basics of cascading style sheets css that allow us to style the markup for web pages for some students this material will be relatively easy and mostly review
+waecss cascading style sheets part waecss cascading style sheets part waecss cascading style sheets part wae code walkthrough css part wae code walkthrough css part mitchell baker the mozilla foundation face to face office hours iit techfest mumbai india
+
+introducing structured query language sql
+this is a quick look at databases in general and the basic operations crud in structured query language sql we dont go too far into sql because we will be using djangos model capabilities to build the databases for our application the primary goal is to examine how django uses sql
+how databases introduction to structured query language sql walkthrough basic sql liz fong creating the sql standards face to face office hours kitchener ontario
+</DOC>
+
+<DOC>
+building web applications in django
+how django communicates with a database through model objects explore objectrelational mapping orm for database access and how django models implement this pattern we will review the objectoriented oo pattern in python basic structured query language sql and database modeling including onetomany and manytomany relationships and how they in both the sql and django models how to use the django console and scripts to with your application objects interactively
+
+data models
+this section explores how we define models in django and then we build the data models and explore the administration interface for our application data models are how django interacts with the underlying database to store and retrieve data
+welcome to the understanding model view controller mvc django data models django migrations walkthrough using a django model in the shell resetting your sqlite database dr chuck sings with the jango james band ann arbor mi face to face office hours in san francisco ca
+
+django views
+views are the aspect of django applications that produce the web pages that are shown to our users views are one of several core elements of django applications
+url routing in django django views inside django views and html escaping in django using templates in django the django template language dtl inheritance in django templates reversing django views and urls face to face office hours orlando fl face to face office hours breda nl
+
+django generic views
+we review python object orientation and look at the generic views capability within django we use generic views by extending django classes to make a new view class
+python objects pye chapter part python objects pye chapter part python objects pye chapter part python objects pye chapter part django generic views bjarne stroustrup the inventor of c face to face office hours capetown south africa
+
+forms in http and html
+we cover how get and post how forms are constructed from html how we protect our applications against crosssite scripting forgery csrf and how we handle browser refreshes after post
+forms get post and http building html forms forms and cross site request forgery csrf csrf support in django the post refresh pattern implementing post redirect in django face to face office hours london england face to face office hours kyoto japan
+</DOC>
+
+<DOC>
+using javascript and json in django
+final well look at the javascript language and how it supports the objectoriented pattern with a focus on the unique aspects of javascripts approach to oo well provide an introduction to the jquery library which is widely used for inbrowser manipulation of the document object model dom and event handling also about javascript object notation json which is commonly used as a syntax to exchange data between code running on the server ie in django and code running in the browser javascriptjquery continue to develop your classified ads application adding features that make use of javascript jquery and json this assumes you have completed the first three courses in the
+
+javascript
+as we begin to add interactive elements to our web pages we need to javascript for students with a javascript background this will be a bit of review as we javascript from a django perspective
+welcome to the javascript overview and history javascript in the browser the javascript language javascript functions and arrays javascript control structures brendan eich inventing javascript facetoface office hours barcelona spain
+
+object oriented javascript
+the objectoriented approach in javascript is different from object orientation in python in some important ways so we look at the unique features of the oo pattern in javascript the high level concepts are the same between python and javascript but the implementation details are different in important and subtle ways
+javascript object oriented concepts javascript object oriented classes walkthrough dje pictures pics sample code walkthrough dje forums forums sample code facetoface office hours atlanta ga dr chuck pretends to be an cnn anchor
+
+javascript and the browser
+we look at particular aspects of the javascript runtime in a browser including manipulation of the document object modeldom timers and event handling
+the javascript execution model in the browser working with the document object model dom in javascript modifying the document object model dom in javascript javascript events in the browser using fetch to make network requests in javascript facetoface office hours boston ma
+
+json ajax
+json and ajax allow web pages to add interactivity and interact with the backend without sending entire web pages back and forth to the server
+json javascript object notation walking through the dje json fetch fetch sample code json ajax and chat walking through the dje json chat sample code walkthrough dje favicon sample code walkthrough dje social login code walkthrough dje favorites favs sample code douglas crockford discovering json facetoface office hours zagreb croatia
+
+ads search
+we extend our application to add search to our classified ads application
+walkthrough dje search well sample code facetoface office hours mountain view ca graduation ceremony guest speaker dr curt bonk
+</DOC>
+
+<DOC>
+django features and libraries
+how to build djangobased web applications suitable for use by end users about cookies sessions and authentication processes in django build navigation into your applications and explore ways to easily improve the look and feel of django applications begin to develop a simple application to support a classified ads website that will walk you through many of the issues and techniques that you encounter in website development also how to move an application from development to production
+
+cookies and sessions
+we explore how cookies in the browser and how to set and read cookies in django we then explore how cookies are used to support sessions in django and how we use sessions in django
+welcome to the cookies and sessions django sessions face to face office hours seoul korea
+
+users and authentication
+django has a built in capability to create and make use of user accounts the builtin authentication and authorization system is quite robust more advanced applications can replace the user model with their own model as long as thy meet the requirements of the rest of django with respect to the authentication and authorization system
+creating and managing users in django login and logout urls in django using django login in views facetoface office hours houston texas
+
+django forms
+forms are the way that web applications present users with pages that areas to be filled in and sent to the server as data django has extensive support to simplify how we write code to interact with html forms
+using django forms capabilities data validation with django forms walkthrough samples autos face to face office hours den haag nl
+
+one to many data models
+as we design our data models it is important to follow normalform and not replicate string data we do this by using multiple tables and making link between rows of two tables the onetomany pattern is one technique to replace data replication using links between rows in different tables
+onetomany models overview removing replication in onetomany models storing primary and foreign keys in a database representing onetomany models in django using the django shell to explore onetomany models loading onetomany data using a django batch script face to face office hours portland or
+
+owned rows
+this covers the important technique of marking rows in a data model as belonging to a particular user with this information we can decide who can edit or view particular rows we look at how we can use django with objectoriented python to build a reusable owned rows feature
+owned rows in django overview owned rows in django generic views review owned rows in django ownerpy walkthrough dje crispy forms walkthrough dje my articles myarts sample code walkthrough dje bootstrap menu menu sample code facetoface office hours seattle wa facetoface office hours perth australia
+
+manytomany models
+the more advanced data modeling approach to remove replication of string data is the manytomany data model sometimes a onetomany model is not flexible enough to represent structures like rosters a manytomany model in essence models two ontomany relationships
+manytomany overview a simple manytomany example in django manytomany data models for courses and membership building a django batch script to load data from csv face to face office hours bletchley park uk dr chuck pretends he has a show on the travel channel
+</DOC>
+

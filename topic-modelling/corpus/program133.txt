@@ -1,0 +1,133 @@
+<DOC>
+excel for business
+this is intended for anyone who seeks to develop one of the most critical and fundamental digital today spreadsheet software remains one of the most ubiquitous pieces of software used in workplaces across the world to confidently operate this software means adding a highly valuable asset to your employability portfolio in the united states alone millions of job advertisements requiring excel are posted every day research by burning glass technologies and capital oneopens in a new tab shows that digital lead to higher income and better employment at a time when digital jobs are growing much faster than nondigital jobs completing this will position you way ahead of othersin this learners develop advanced excel for business upon completing the four courses learners can design sophisticated spreadsheets including dashboards and perform complex calculations using advanced excel features and techniques learners have acquired the to manage large datasets efficiently extract meaningful information from datasets present data and extract information effectively in addition learners have mastered the needed to validate data and prevent errors in spreadsheets create automation apply advanced formulas and conditional logic to help make decisions and create spreadsheets that help forecast and model dataapplied projectthe best way to excel is to use excel learners will solve a broad range of business problems as they apply the excel and techniques they along the way this uses downloadable excel workbooks and full data sets with applied examples and practical challenge exercises this provides learners with countless to practice their excel while discovering new and useful productivity features of excel for a variety of business contexts
+</DOC>
+
+<DOC>
+excel for business intermediate ii
+spreadsheet software remains one of the most ubiquitous pieces of software used in workplaces across the world to confidently operate this software means adding a highly valuable asset to your employability portfolio third of our excel excel for business delve deeper into some of the most powerful features excel has to offer when you have successfully completed the be able tocheck for and prevent errors in spreadsheets create powerful automation in spreadsheets apply advanced formulas and conditional logic to help make informed business decisions and create spreadsheets that help forecast and model data once again we have brought together a great teaching team that will be with you every step of the way nicky prashan and myself will guide you through each as we are exploring these more advanced topics we are following alex who is an excel consultant called in by businesses that issues with their spreadsheets
+
+data validation
+we kick off this with data validation and conditional formatting this takes you through creating and applying data validation as well as working with formulas in data validation this is followed by basic and advanced conditional formatting
+introduction discussion practice data validation practice creating dropdown lists practice using formulas in data validation practice working with data validation practice advanced conditional formatting wrapup
+
+conditional logic
+excel has several logical functions and this explores some of them start by the concept of conditional logic in formulas followed by how to conduct logic tests and use conditional operations to your benefit we will also look at nested if functions to evaluate data
+introduction discussion practice logical functions i if practice logical functions ii and or practice combining logical functions i if and or practice combining logical functions ii nested ifs practice handling errors iferror ifna wrapup
+
+automating lookups
+how do you find information from different parts of a workbook this introduces you to functions like choose vlookup index match and other dynamic lookups to find and display data from several sources
+introduction discussion practice introduction to lookups choose practice approximate matches range vlookup practice exact matches exact match vlookup practice finding a position match practice dynamic lookups index match wrapup
+
+formula auditing and protection
+if you are worried that errors have crept into your worksheet this will show you how to check for errors trace precedents and dependents resolve circular references and finally protect your worksheets and workbooks from further harm
+introduction discussion practice error checking practice formula calculation options practice trace precedents and dependents practice evaluate formula watch window practice protecting workbooks and worksheets wrapup
+
+data modelling
+this is all about data modelling to model different scenarios based on input assumptions andor also the use of functionalities like goal seek data tables and the scenario manager to make your models more robust
+introduction discussion practice modelling functions sumproduct practice data tables practice goal seek practice scenario manager practice solver wrapup
+
+recording macros
+we all love a bit of automation and this teaches you just that by the time you have completed this be able to identify the uses of macros as well as create edit and manage them to increase your efficiency
+introduction discussion practice record a macro practice run a macro practice edit a macro practice working with macros practice relative reference macros wrapup
+
+final assessment
+
+</DOC>
+
+<DOC>
+excel for business intermediate i
+spreadsheet software remains one of the most ubiquitous pieces of software used in workplaces across the world to confidently operate this software means adding a highly valuable asset to your employability portfolio in the united states alone millions of job advertisements requiring excel are posted every day research by burning glass technologies and capital one shows that digitals lead to higher income and better employment at a time when digital job are growing much faster than nondigital jobsin this second of our excel excel for business build on the strong foundations of the essentials intermediate i will expand your excel knowledge to new horizons you are going to discover a whole range of and techniques that will become a standard component of your everyday use of excel build a solid layer of more advanced so you can manage large datasets and create meaningful reports these key techniques and tools will allow you to add a sophisticated layer of automation and efficiency to your everyday tasks in excel once again we have brought together a great teaching team that will be with you every step of the way prashan and nicky will guide you through each and i am even going to make a guest appearance in to help you about my favourite tool in excel shh no spoilers through each new challenge stepbystep and in no time surprise yourself by how far you have come this time around we are going to follow umas trials and tribulations as she is trying to find her feet in a new position in the fictitious company pushpin for those of you who have done the essentials already be familiar with the company working through her challenges which are all too common ones that we encounter everyday will help you to more easily relate to the and techniques learned in each and apply them to familiar and new contexts
+
+working with multiple worksheets workbooks
+this is all about working with multiple worksheets and workbooks how you can combine data manage datasets and perform calculations across multiple sources and dont forget the toolbox with handy shortcuts and ninja tips
+introduction discussion practice multiple worksheets practice d formulas practice linking workbooks practice consolidating by position practice consolidating by category reference wrapup
+
+text and date functions
+by the end of this be an expert in date and text functions this discusses ways you can extract information and manipulate data to fulfil specific business requirements
+introduction discussion practice combining text concat practice changing text case upper lower proper practice extracting text left mid right practice finding text find practice date calculations now today yearfrac wrapup
+
+named ranges
+how you can create manage and apply named ranges to enhance your calculations
+introduction discussion practice introducing named ranges practice creating named ranges practice managing named ranges practice named ranges in formulas practice apply names wrapup
+
+summarising data
+graduate to advanced formulas how you can use functions like countifs to extract information from data as well as generate graphical representations of it
+introduction discussion practice count functions practice counting with criteria countifs practice adding with criteria sumifs practice sparklines practice advanced charting practice trendlines wrapup
+
+tables
+tables tables tables start with creating formatting and managing tables and then move on to sorting and filtering tables to get the data you need finally wrap up this automating your tables to make your more efficient
+introduction discussion practice creating and formatting tables practice working with tables practice sorting and filtering in tables practice automation with tables practice converting to range and subtotaling wrapup
+
+pivot tables charts and slicers
+this deep dives into the popular and very useful pivot tables how you can create and modify them to solve a variety of business problems then gain to create interactive dashboards with pivot charts and slicers
+introduction discussion practice creating and modifying a pivot table practice value field settings practice sorting and filtering a pivot table practice reporting filter pages practice pivoting charts practice pivoting slicers wrapup
+
+final assessment
+
+</DOC>
+
+<DOC>
+excel for business advanced
+spreadsheet software remains one of the most ubiquitous pieces of software used in workplaces around the world to confidently operate this software means adding a highly valuable asset to your employability portfolio across the globe millions of job advertisements requiring excel are posted every day at a time when digital jobs are growing much faster than nondigital jobs completing this will position you ahead of others so keep readingin this last of our excel for business build on the strong foundations of the first three courses essentials intermediate i ii in the advanced we will prepare you to become a power user of excel this is your last step before specializing at a level the topics we have prepared will challenge you as you how to use advanced formula techniques and sophisticated lookups clean and prepare data for analysis and how to with dates and financial functions an indepth look at spreadsheet design and documentation will prepare you for our big finale where how to build dashboards in excel
+
+spreadsheet design and documentation
+as an intermediate excel user you have the basics down the first of the advanced focusses on creating and maintaining accurate flexible responsive and userfriendly spreadsheets how to design flexible and auditable spreadsheets construct transparent calculations create userfriendly navigation and use styles themes and formatting to tie it all up in a nice bow
+introduction discussion practice spreadsheet design principles practice calculations practice formatting practice documentation practice interface and navigation
+
+advanced formula techniques
+excel often requires you to perform complex analysis on large sets of data this can be made a lot easier using array formulas which can perform multiple calculations simultaneously and ensure the accuracy of your spreadsheet this covers the use of array formulas how to build them and use them effectively
+introduction discussion practice tables and structured referencing practice using functions to sort data practice introduction to array formulas practice working with an array function transpose practice solving problems with array formulas
+
+data cleaning and preparation
+been handed a messy spreadsheet this focuses on data cleaning and preparation how to use dynamic and automated fixes clean messy data automate these processes through functions and ensure data remains clean dynamically we will use functions to fix dates replaces blanks and remove unwanted characters from data all to help us build an efficient solution that lasts
+introduction discussion practice replace blanks with repeating values practice fix dates date month year day text practice remove unwanted spaces trim clean practice diagnostic tools isnumber len code practice remove unwanted characters substitute char value
+
+financial functions and working with dates
+this introduces financial functions into our excel knowledge base financial functions are often used in businesses and excel has a variety of tools to help you with that to apply date formulas in calculations create loan schedules with financial functions as well as use depreciation functions
+introduction discussion practice working with dates eomonth edate workdayintl practice financial functions fv pv pmt practice loan schedule pmt edate practice net present value and internal rate of return npv irr practice depreciation functions sln syd ddb
+
+advanced lookup functions
+it is always a good idea to make your spreadsheets and more automated automated lookups can make your fast and efficient this builds on your array capabilities and explores a range of functions to create dynamic lookup ranges indirect address offset and index
+introduction discussion practice indirect practice address practice introduction to offset practice solving problems with offset
+
+building dashboards
+to bring it home this guides you through the steps of building a dashboard data is meaningless unless it tells a story and can be used as business intelligence this will help you set up a dashboard how to visualise data through graphs and charts create data models and add interactivity
+introduction discussion practice dashboard design practice prepare data practice construct dashboard practice creative charting practice interactive dashboard
+
+final assessment
+
+</DOC>
+
+<DOC>
+excel for business essentials
+first of the excel for business the essentials of microsoft excel within six weeks be able to expertly navigate the excel user interface perform basic calculations with formulas and functions professionally format spreadsheets and create visualizations of data through charts and graphswhether you are selftaught and want to fill in the gaps for better efficiency and productivity or whether you have never used excel before this will set you up with a solid foundation to become a confident user and develop more advanced in later courses the best way to excel is to use excel learners will solve a broad range of business problems as they apply the excel and techniques they along the way this uses downloadable excel workbooks and full data sets with applied examples and practical challenge exercises this provides learners with countless to practice their excel while discovering new and useful productivity features of excel for a variety of business contexts spreadsheet software is one of the most ubiquitous pieces of software used in workplaces across the world to confidently operate this software means adding a highly valuable asset to your employability portfolio at a time when digital jobs are growing much faster than nondigital jobs make sure to position yourself ahead of the rest by adding excel to your employment portfolio
+
+critical core of excel
+about key foundational features of excel the excel user interface basic excel terminology how to operate essential navigational controls in excel and how to perform basic data entry with excel spreadsheets
+introduction discussion practice taking charge of excel practice navigating and selecting practice view options practice data entry data types editing and deleting practice fill handle wrapup copy and paste templates
+
+performing calculations
+the syntax of formulas is very important in excel get introduced to formulas and functions how to write them use them to perform calculations and understand the different cell references
+introduction discussion practice formulas practice formulas in context practice functions i sum and autosum practice functions ii average min and max discussion absolute cell references practice absolute cell references practice calculations across sheets wrapup excel options
+
+formatting
+formatting helps to highlight key messages and make the data presentable this covers several formatting tools like font formatting borders alignment number formatting as well as the excel styles and themes
+introduction discussion practice formatting practice borders practice alignment tools practice format painter practice number formats practice styles and themes wrapup graphics
+
+working with data
+this is all about working with data and making it easy to with how you can manage your spreadsheets find data with filter and sort retrieve and change data using find and replace and use conditional formatting to highlight specific data
+introduction discussion practice managing rows and columns practice find and replace practice filtering practice sorting practice conditional formatting wrapup accessibility
+
+printing
+sometimes you need to print your spreadsheets and this will help you with that how you can optimise your spreadsheet for printing by managing margins orientation headers footers and more
+introduction discussion practice print preview practice orientation margins and scale practice page breaks practice print titles practice headers and footers wrapup save options
+
+charts
+charts are one of the most common ways to present data visually this walks you through creating and modifying charts in excel
+introduction discussion practice basic chart types pie column and line charts practice move and resize charts practice change chart style type practice modify chart elements wrapup sharing charts
+
+final assessment
+
+</DOC>
+

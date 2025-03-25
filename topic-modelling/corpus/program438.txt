@@ -1,0 +1,210 @@
+<DOC>
+microsoft cybersecurity analyst
+learners who complete this will receive a discount voucher to take the sc certification exam organizations rely on cybersecurity experts to protect themselves from threats but nearly report security talent shortages prepare for a new highdemand field with training from microsoft an industryrecognized leader in cybersecurity also have the option to how generative ai tools and techniques are used in cybersecurity analysisthe role of a cybersecurity analyst includes monitoring networks for vulnerabilities or potential threats mitigating attacks on the network infrastructures and implementing strategies for data protection with of fortune companies using azure its critical for cybersecurity professionals to to protect data within an azure environmentthrough a mix of assessments and handson activities apply and discuss threat mitigation strategies from an enterprise perspective apply effective cybersecurity policy measures within an azure environment practice on tools like ms defender azure active directory morewhen you graduate have tangible examples to talk about in job interviews and also be prepared to take the microsoft sc certification exammckinsey company securing your organization to reduce cyber risk june microsoft azure microsoft azurethe only consistent comprehensive hybrid cloud sept applied projectthis has been uniquely mapped to key job required in cybersecurity analyst roles in each be able to consolidate what you have learned by completing a capstone that simulates realworld cybersecurity scenarios also complete a final capstone where create your own cybersecurity proposal for the creation and protection of a business network and infrastructure the will include practicing ona realworld scenario focused on penetration testing building configuration and testing strategy for white box testing of a penetration test on virtual networksa realworld capstone that enables you to demonstrate your cybersecurity analyst to round off your take a mock exam that has been set up in a similar style to the industryrecognized microsoft exam sc microsoft security compliance and identity fundamentals
+</DOC>
+
+<DOC>
+microsoft sc exam preparation and practice
+this helps you practice your exam techniques and refresh your knowledge in all the key areas assessed in the microsoftcertified exam sc microsoft security compliance and identity fundamentals test your knowledge in a series of practice exams mapped to all the main topics covered in the sc exam ensuring youre well prepared for certification success prepare by taking practice tests with similar formats and content also get tips and tricks testing strategies and useful resources on how to sign up for the microsoft sc proctored exam this is also a great way to prepare for the microsoft sc exam by passing the sc exam earn the microsoft security compliance and identity fundamentals certification earning a microsoft certification is globally recognized evidence of realworld after completing this be able to describe the concepts of security compliance and identity describe the capabilities of microsoft azure active directory part of microsoft entra describe the capabilities of microsoft security solutions describe the capabilities of microsoft compliance solutions
+
+concepts of security compliance and identity
+discover the fundamental concepts of security compliance and identity within the framework of microsoft solutions
+introduction microsoft sc exam preparation and practice introduction to preparing for the exam overview of security compliance business continuity management zero trust model in depth publicprivate key and hashing hashing techniques encryption techniques identity as the primary security perimeter centralized access management id and active directory identity management and single signon sso group policies and identity management identity scope concepts of security compliance and identity
+
+the capabilities of microsoft azure active directory
+delve into the essential features of azure active directory azure ad a key component of microsoft entra by the end of the gain a comprehensive understanding of azure ad enabling you to articulate its fundamental aspects
+authentication methods in azure ad azure security mfa recovery conditional access azure ad roles azure access policy and management identity governance in azure ad azure ad identity protection the capabilities of microsoft azure active directory
+
+microsoft security solutions
+uncover the intricacies and strengths of microsofts security solutions will empower you to articulate these solutions diverse capabilities providing a solid foundation for implementing effective security measures across various microsoft platforms
+azure ddos protection azure firewall firewalls in depth azure bastion and jit access cloud security posture management cspm microsoft defender for cloud defender for cloud in depth security baselines for azure siem and soar microsoft sentinel sentinel in depth microsoft defender services defender for endpoint defender for identity microsoft defender portal microsoft security solutions
+
+the capabilities of microsoft compliance solutions
+explore microsoft compliance solutions focusing on essential aspects such as the service trust portal privacy principles and compliance management features in microsoft purview
+capabilities of service trust portal trust and privacy microsoft purview compliance portal compliance manager purview and compliance data classification capabilities benefits of content explorer and activity explorer purview policies data and labels purview data lifecycle capabilities of microsoft compliance solutions
+
+risk and resource governance
+review the risk and resource governance features of microsoft purview and gain insights into insider risk management communication compliance and information barriers
+insider risk management information barriers information management azure policy azure blueprints resources and compliance risk and resource governance
+
+practice exam
+prepare yourself for success in the sc exam gain indepth knowledge about the exam structure and content focusing on security compliance and identity concepts
+introduction to the sc exam introduction to log analysis leveraging generative ai for security log analysis leveraging generative ai for password attack detection leveraging generative ai for directory traversal attack analysis congratulations a day in the life
+</DOC>
+
+<DOC>
+cybersecurity management and compliance
+about data and record management information security standards and policy formation and implementation also explore cloud adoption frameworks and regulatory compliance frameworks this will take you one step closer to the microsoft cybersecurity analyst which requires no degree or prior experienceafter completing this be able to explain the principles of cloud security planning identify security requirements for cloud architecture explain microsofts privacy principles use available tools for compliance management this is also a great way to prepare for the microsoft sc exam by passing the sc exam earn the microsoft security compliance and identity fundamentals certification
+
+security administration
+this covers the areas of security planning and disaster recovery as well as data management and availability
+introduction to the identity disaster recovery and training data network and physical security enterprise application integration log collection analysis and retention azure security services azure cloud adoption framework caf the points of security privacy principles service trust portal cloud security posture management cspm resource governance introduction to availability and continuity business continuity management region and availability zones availability and resiliency reliability monitoring availability and resiliency by design security administration
+
+compliance solutions
+this covers the importance of data and records management as well as insider risk threat detection and mitigation it also deals with data mapping and the data lifecycle
+introduction to compliance management risk assessment microsoft purview and data microsoft purview and record management purview portal data mapping microsoft purview policy concepts understanding insider risk insider risk management insider threat response identifying and mitigating insider threats data lifecycle purview and the data lifecycle data concerns information governance labeling and classifying data compliance solutions
+
+laws and standards
+this focuses on understanding that regulations are industry and geopolitical specific as well as knowing what the trust portal is and how it is utilized to ensure laws are adhered to another goal is developing a working knowledge of the steps that can be taken to ensure company compliance
+federal information security management act fisma cybersecurity framework nist national institute of standards and technology sarbanesoxley sox regulations general data protection regulation gdpr introduction to iso standards for security azure blueprint blueprint simplifies compliance stage one blueprint simplifies compliance stage two what is cobit nist cobit and the microsoft azure audit defining steps nist cobit and the microsoft azure audit monitoring change laws and standards
+
+final and assessment cybersecurity management and compliance
+be assessed on the key covered in the this provides a of the and reflects on the primary objectives the also contains the for the which encapsulates the into a practical whole
+recap cybersecurity management and compliance congratulations
+</DOC>
+
+<DOC>
+cybersecurity threat vectors and mitigation
+this provides a comprehensive overview of threat vectors and the strategies for mitigating them and aims to equip you with the necessary and knowledge to safeguard against cyber threats gain a deep understanding of the threat vectors used by attackers discover encryption techniques and explore different compliance concepts this will get you one step closer to the microsoft cybersecurity analyst which requires no degree or prior after completing this be able to describe the active threat landscape describe common types of cyber attacks classify different types of encryption algorithms explain security and compliance concepts this is also a great way to prepare for the microsoft sc exam by passing the sc exam earn the microsoft security compliance and identity fundamentals certification
+
+threats and attacks
+dive into the world of cyber threats and attacks and get to know the active threat landscape
+introduction to the cybersecurity threat vectors and mitigation introduction to cyber attacks trojans and viruses introduction to threat vectors malware and ransomware phishing and social engineering threats personal mitigation strategies security software threats and attacks
+
+cryptography
+explore the cryptographic methods and standards used to protect data and secure communication
+introduction to encryption modern encryptions private key and symmetric encryption public key and asymmetric encryption hashing the power of encryption digital signing and authorities signed urls centralized authentication and authorization systems authentication and authorization methods cryptography
+
+network and devicebased threats
+examine the various types of threats that can occur during data transmission the importance of security controls in protecting against these threats and the importance of keeping applications and devices updated to mitigate these risks
+data transmission threats virtual private network advanced persistent threats apt firewall optimization network segmentation intrusion detection and prevention system introduction to application updates bring your own device risks network and devicebased threats
+
+security compliance and identity
+explore the different laws regulations and industry standards that organizations must adhere to in order to ensure the security of their systems and data
+overview of security compliance risk management and compliance browser cookies and gdpr identity management single signon sso active directory and group policy defense in depth zero trust model security compliance and identity
+
+cybersecurity threat vectors and mitigation
+put your into practice by creating your own compliance strategy for the endofcourse and reinforce your understanding of the key concepts youve learned
+recap cybersecurity threat vectors and mitigation congratulations
+</DOC>
+
+<DOC>
+introduction to computers and operating systems and security
+if youre interested in a cybersecurity but dont know where to start youve arrived at the right place this forms part of a series of courses that offers a good starting point for a in cybersecurity it will help you gain knowledge and related to computers and operating systems enterprise systems and security including business systems applications this gets you one step closer to the microsoft cybersecurity analyst which requires no degree or prior after completing this be able to identify the various components of a computer system explain how the various components of a computer system interact with an operating system describe the basics of the cybersecurity landscape describe the various business computing environments this is also a great way to prepare for the microsoft sc exam by passing the sc exam earn the microsoft security compliance and identity fundamentals certification
+
+introduction to computers and operating systems
+computer basics are explained including hardware and operating systems also where threats to cybersecurity can originate in the computing landscape and cover a broad overview of how these threats can result in a security breach
+introduction to the microsoft cybersecurity analyst introduction to the introduction to computers and operating systems and security a day in the life welcome to generative ai for everyone understanding the capabilities of generative ai for business functions generative ai under the hood the potential pitfalls and shortcomings of gen ai threat landscape overview linked threats what is a computer and what is inside it how does a computer operate what is an operating system and what does it do popular operating systems introduction to computers and operating systems
+
+enterprise systems and security
+we consider servers storage and backups computing environments and the process of maintenance and patching in the context of enterprise systems and security
+infrastructure and servers risk mitigation backup frequency what are computing environments security in computing environments what is maintenance and patching patch management pros cons and challenges enterprise systems and security
+
+business systems applications
+this provides an introduction to software in the business context that facilitates the performance of various tasks enhancing productivity
+what is business software a day in the life of a business computer how email changed the world email app functions growing your knowledge on storage processing data machine and data artificial intelligence and machine business systems applications
+
+computers operating systems and security
+this provides a recap of the
+recap introduction to computers and operating systems and security congratulations
+</DOC>
+
+<DOC>
+cybersecurity identity and access solutions using azure ad
+upon completing the first three courses of the you should have some foundational knowledge about computers operating systems networking and cyberthreats all of which put you in a good position to explore cybersecurity in greater detail explore the world of authorization and authentication and understand the concepts of twostep authentication and single signon policies also become familiar with the features and capabilities of azure active directory azure ad particularly those relating to the benefits of using azure ad to manage an enterprises security requirements including access management identity governance and management this will take you one step closer to the microsoft cybersecurity analyst which requires no degree or prior after completing this be able to explain the concept of active directory describe authentication methods discuss access management this is also a great way to prepare for the microsoft sc exam by passing the sc exam earn the microsoft security compliance and identity fundamentals certification
+
+identity services
+examine azure active directory identity services about the various subscription packages managing users and groups azure active directory identity types and how azure active directory facilitates saas
+introduction to the introduction to aad migration implementing azure ad in your organization lets talk about azure active directory comparing azure ad editions choosing the right azure ad edition for your organization overview of azure ad identity types azure ad bb and bc identity services
+
+active directory authentication
+about the different authentication methods and features available in azure active directory to help improve and secure signin events how to use authentication to verify and control access and permissions to various resources to better security overall
+aad authentication introduction introduction to hybrid identities variations on authentication introduction to vaults set up a sso in the free azure portal introduction to mfa managing multifactor authentication in azure active directory recovery for the mfa introducing selfservice password reset enabling and configuring selfservice password reset password validation active directory authentication
+
+active directory access protection and governance management
+explore azure active directory as a tool for identity and access management in microsoft cloud about azure ad services and identity principals secure authentication access management capabilities as well as identity protection and governance
+conditional access policies using conditional access in azure ad rolebased access roles in action introduction to identity governance designing identity governance managing identities justintime and just enough access privileged identity management pim active directory access protection and governance management
+
+identity and access solutions
+put your into practice by configuring identity and access policies for the endofcourse and reinforce your understanding of the key concepts youve learned
+recap identity and access solutions congratulations
+</DOC>
+
+<DOC>
+cybersecurity tools and technologies
+this engages you in the world of cybersecurity attack and defense dealing with both sides and working with the tools associated with security testing within a cloud environment gain knowledge on the penetration testing strategies employed by the industry to assess the integrity of their network also interpret the results of security scans and deal with mitigation strategies such as vulnerability management this will take you one step closer to the microsoft cybersecurity analyst which requires no degree or prior after completing this be able to explain the concept of system testing create a penetration test plan execute penetration testing on a cloud platform this is also a great way to prepare for the microsoft sc exam by passing the sc exam earn the microsoft security compliance and identity fundamentals certification
+
+penetration testing
+discover the essential concepts and practices for effective penetration testing including its stages like reconnaissance enumeration and exploitation
+introduction to the security testing and ethical hacking blue team responsibilities red team responsibilities penetration testing overview stage reconnaissance stage enumeration stage exploitation stage escalation stage reporting and remediation attck adversarial tactics techniques and common knowledge framework black box testing white box testing grey box testing penetration testing
+
+preventative tools
+delve into crucial security tools and techniques for averting and identifying network threats the material includes understanding intrusion detection and prevention systems idps firewall setup virtual private networks vpns and managing vulnerabilities
+introduction to intrusion detection and prevention systems idps unpacking internet packets azure firewall premium intrusion detection and prevention system idps azure idps in action idps use cases introduction to firewall design in azure azure firewall rule design and configuration network security group and azure firewall integration vpn gateway how azure vpn can help your business configure vpns on azure azure pointtosite vpn ip addressing and subnets introduction to vulnerability management vulnerability management process security control vulnerability management vulnerability management in azure preventative tools
+
+azure penetration testing
+discover how to conduct penetration tests on the azure platform and external servers about the concepts and best practices of penetration testing setting up and configuring test environments running and analyzing tests and reporting and documenting results
+introduction to command line command line in action introduction to windows powershell windows powershell script in action introduction to penetration testing on azure how does azure penetration testing azure penetration test overview getting azure ready penetration testing framework azure security settings running the penetration test and analyzing the result penetration testing and azure security center configuring security center automation cold wars at sams scoops azure penetration testing
+
+final and assessment cybersecurity tools and technologies
+put your into practice by completing endofcourse and reinforce your understanding of the key concepts youve learned provides a of the reflects on the primary objectives and provides the for you to consolidate your in a handson activity
+recap cybersecurity tools and technologies congratulations
+</DOC>
+
+<DOC>
+cybersecurity solutions and microsoft defender
+about the types of cloud security policies that protect against ddos attacks firewall breaches and unauthorized access explore tools like ms defender for cloud security information and event management sicm and security orchestration automation and response soaryoull gain an understanding of security features available in azure and best practices for protecting azure resources as well as azure security standards and compliance also how to protect your organizations assets from various types of threats including malware phishing and identitybased attacks this will take you one step closer to the microsoft cybersecurity analyst which requires no degree or prior after completing this be able to explain cloudbased security concepts discuss security information and event management siem define defender capabilities this is also a great way to prepare for the microsoft sc exam by passing the sc exam earn the microsoft security compliance and identity fundamentals certification
+
+azure basic security capabilities
+this provides a comprehensive overview of azure networking and security it covers essential topics such as azures builtin security measures recommended practices for securing azure resources and protection against distributed denial of service ddos attacks firewall breaches and unauthorized access gain a deep understanding of how to secure azure resources against malicious threats and gain insight into justintime access and encryption
+introduction to the azure ddos protection overview azure ddos protection configuration azure ddos protection features and best practices azure and virtual machines spinning up a virtual machine azure networking introduction to azure firewall azure firewall standard and basic web application firewall azure firewall deployment azure firewall rule configuration hackers and firewalls justintime access jit key management and encryption implementing justintime access azure basic security capabilities
+
+security management in azure
+this provides an overview of cloud security and security management in azure it covers key concepts such as azure security standards use of the security information and event management siem and security orchestration automation and response soar capabilities of microsoft sentinel on completion of this have a thorough understanding of the security features available in azure and best practices for protecting azure resources as well as azure security standards and compliance
+overview of cloud security advanced cloud security azure security azure security best practices microsoft defender interface azure bastion bastion and virtual machines introduction to azure policies custom policy definition azure blueprints siem microsoft sentinel microsoft sentinel data connectors introducing soar security management in azure
+
+microsoft defender threat protection
+this covers the different threat protection services available in microsoft including azure defender azure advanced threat protection and azure information protection the is designed to help you understand how to protect an organizations assets from various types of threats including malware phishing and identitybased attacks the covers key concepts such as defender services endpoint and cloud app protection and identity defence it also provides best practices for implementing these threat protection services in an organization
+introduction to microsoft defender microsoft defender portal microsoft defender incidents and alerts managing users introduction to endpoint security endpoint modernization deployment methods for waas and microsoft apps defender portal for endpoint capabilities and services threat technologies endpoint encryption introduction to identity defense microsoft purview azure active directory identity protection microsoft defender for identity deploy microsoft defender for identity with microsoft defender preparation identity theft microsoft defender threat protection
+
+graded assessment and wrap up
+be assessed on the key covered in the gain a reallife example of demonstrating protection strategies by completing a scenariobased also complete a graded quiz that will test your knowledge of all the topics you covered lastly get the to reflect on your and explore the next steps in your cybersecurity journey
+recap security solutions congratulations
+</DOC>
+
+<DOC>
+introduction to networking and cloud computing
+this forms part of a series of courses that offers a good starting point for a in cybersecurity it will help you gain knowledge and related to networking and cloud computing and get you one step closer to the microsoft cybersecurity analyst which requires no degree or prior experienceafter completing this be able to identify the main concepts of networking explain common network infrastructure and monitoring describe network security components approaches and mitigation define and explain key concepts of the cloud computing environment virtual machines and cloud services this is also a great way to prepare for the microsoft sc exam by passing the sc exam earn the microsoft security compliance and identity fundamentals certification
+
+computer networking
+discover the basics of computers including hardware and operating systems where threats to cybersecurity can originate in the computing landscape and gain a broad overview of how these threats can result in a security breach
+introduction to the introduction to networking and cloud computing network types topologies what is ip and whats an ip address using ip addresses on a network computer networking
+
+network devices and protocols
+gain insights into devices found on their networks and the underlying architecture that allows these devices to communicate about various protocols as well as the ports to which they connect
+hybrid networking introduction to cloud computing what is the osi model tcpip what is a port ports and protocols dns and networking health and metric analysis network devices and protocols
+
+network security
+expand upon your knowledge of networks by studying their operations in greater depth about the role of the server as the central point of the network additionally investigate the role of the firewall in protecting the users
+clientserver network remote access introduction to authentication types of authorization authentication versus authorization common network attacks network security firewalls security tools network security
+
+cloud computing and networking
+about azures functionalities and supplementary services and how to leverage them within a network gain insight into the digital transformation process for business enterprises from a networking perspective explore the cloud networking landscape including virtualization machine ai and various cloud services
+what is azure business enterprise use case what is virtualization virtual world azure virtual desktop cloud capabilities machine services ai business uses business benefits of xaas what is software as a service cloud computing and networking
+
+networking and cloud computing
+this details any specified for the as well as the particulars of the assessment to be completed this also provides a recap of the aims and objectives you are directed to reflect on this courses content and on the achieved and to consider the next steps in your journey
+recap introduction to networking and cloud computing congratulations
+</DOC>
+
+<DOC>
+advanced cybersecurity concepts and capstone
+about threat mitigation by following the three stages of threat modeling the steps are decomposing the application determining and ranking threats and determining countermeasures and mitigation about access control secure development cryptography as well as asset management also be introduced to the types of attacks that iot internet of things devices and services faceat the end of this also complete a focused security mitigation strategy plan for a given business this capstone integrates the knowledge have gained from the previous courses into a standalone portfolio piece demonstrating your new cybersecurity the will take you one step closer to the microsoft cybersecurity analyst which requires no degree or prior after completing this be able to explain threat modeling discuss security conscious design plan threat mitigation strategies this is also a great way to prepare for the microsoft sc exam by passing the sc exam earn the microsoft security compliance and identity fundamentals certification
+
+threat modeling
+introduces common threat modeling and mitigation steps and the processes and procedures used to manage and reduce the risk of threats to an organization or system it also covers the steps of threat modeling each of which requires different tools and approaches additionally various threat modeling frameworks will be introduced
+introduction to the threat modeling process decompose the application determine and rank threats stride threat list benefits of threat modeling ensure application security sans approach process for attack simulation and threat analysis pasta common vulnerability scoring system cvss visual agile and simple threat vast microsoft threat modeling tool threat modeling for azure virtual networks four question framework for effective threat modeling threat modeling
+
+advanced threats and mitigation
+covers threat vectors ransomware defense in depth security cloud security network security data security and monitoring security in azure it also includes understanding the mitre attck matrix and iot security the aims to provide you with an understanding of common cyberthreats and how to mitigate them using various tools and strategies by the end of the have a comprehensive understanding of the different components of cybersecurity and the measures you can take to protect your infrastructure from cyberthreats
+understanding susceptible infrastructure mitre attck matrix overview mitre attck matrix key points attack techniques types of malicious software prevention detection and countermeasures what is an iot device iot attacks iot attack risk iot attack prevention strategies azure iot defender for iot defender for iot deployment and integration advanced threats and mitigation
+
+security conscious modeling
+provides an overview of various cybersecurity concepts and practices it covers the basics of threat vectors entry points and prevention methods in cybersecurity it also explains defense in depth security azure security network security data security and monitoring security gain a deeper understanding of these concepts how to identify and mitigate security threats and develop strategies to protect data and applications from unauthorized access by the end of this have a comprehensive understanding of cybersecurity and be able to create an effective defense in depth security strategy for an organization
+threat landscape and vectors access brokers mitigation approaches defense in depth did defending your cloud infrastructure azure security building a network with did modern authentication identity mitigation strategy azure security mitigation strategies implementing network security on azure securing data on azure network security security conscious modeling
+
+capstone
+be assessed on the key covered throughout this and the other courses in the cybersecruity analyst this contains the final capstone of the which encapsulates the into a practical whole the final capstone consists of several stages and graded selfreviews this also includes the final graded quiz
+recap advanced cybersecurity concepts capstone introduction congratulations
+</DOC>
+

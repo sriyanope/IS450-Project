@@ -1,0 +1,101 @@
+<DOC>
+information systems
+this provides a robust introduction to the key principles and practices of information systems management the first describes how information systems address business problems this takes the form of an it alignment model that describes how information systems provide capabilities that enable or support organizational strategy this component also includes an economic analysis of the information system the second in the entails the practice of modeling information systems the goal of this is to describe the information system defined in the first so that the information system can be developed the third provides an overview of the capabilities of modern enterprise systems the goal of this is to understand the capabilities of enterprise systems so that the firm can decide if the requirement identified in the second can be met by an enterprise system managerial aspects related to the selection and implementation of enterprise systems will also be discussed the fourth in the describes the it infrastructure choices available to a modern enterprise and the tradeoffs associated with each alternative any large information system implementation is a significant organizational change initiative that requires careful stewardship all the courses will deal with the issue of change management and discuss strategies and approaches for achieving a successful implementationapplied projectthe will enable a student to take a business problem conceptualize an it solution define the specifications of the it system and evaluate enterprise system options or develop a custom solution to address the business problem way the will provide a practical manifestation of the key by enabling a student to apply the core lessons from the four courses to solve a business problem
+</DOC>
+
+<DOC>
+analysis for business systems
+most often organizations acquire information systems as part of a larger focus on process improvement and efficiency these organizations need to invest in the right system to meet their needs right functionality right size and for the right price the business systems analyst role in most organizations is responsible for translating the organizations needs into requirements which are then used to select or build the right system for the organizationduring the analysis for business systems about the standard model for systems development the systems development lifecycle or sdlc how to read and even create the specific deliverables that business systems analysts prepare during the sdlc these documents provide guidance to the organization as they determine whether to build or buy and configure a system that meets the organizations needs
+
+introduction to business systems
+discussion prompts
+overview personal introduction what is a business process business process characteristics sdlc overview sdlc variance role of the business analyst system request feasibility analysis change management organizational readiness plan
+
+analysis phase documentation
+reading discussion prompt
+analysis phase to system proposal a wellformed requirements b individual requirements c requirements language functional vs nonfunctional requirements a methods b traceability a use cases part b use cases part use case diagrams test cases
+
+analysis phase diagrams
+reading
+data flow diagrams dfd data flow diagram levels data flow diagram types decomposing data flow diagrams business process model and notation bpmn entity relationship diagram erd introduction erd intersection entities erd subtype and supertype erd modeling hierarchies
+
+design phase overview
+
+object orientation oo introduction oo inheritance and unified modeling language uml oo additional diagrams acquisition strategies alternative analysis architectural options design logical to physical develop test document transition maintenance and total cost of ownership tco wrap up
+
+
+peer review
+</DOC>
+
+<DOC>
+it infrastructure and emerging trends
+today organizations are either embracing digital technologies to improve their businesses or being disrupted by entrants with such capabilities therefore it is important for managers and executives of all organizations to about various technologies and apply them in innovative ways some of the most important trends in information technology are in mobile cloud security and blockchainsthis gives you an overview of the fundamental technical aspects of information technology after taking this be familiar with the basic knowledge of itis solutions needed to help with decisionmaking in the real world we will first about issues in cloud computing and various realizations of serviceoriented computing we will then discuss the range of mobile technologies available to modern enterprises and how these can be used to create innovative business models we will look at cybersecurity threats that organizations need to be aware of and about the various defense mechanisms available to them finally we will talk about the innovation that emerging technologies like blockchains can bring about using this knowledge of various technologies it managers can better overcome technical challenges evaluate tradeoffs unlock new revenue streams and implement change in the organizations information systems capabilities
+
+cloud computing
+
+personal introduction overview a features of the cloud part b features of the cloud part considerations in cloud adoption cloud computing realizations terminal services virtualization saas paas iaas saas iaas paas public private and hybrid clouds data center fog computing
+
+mobile communications
+
+basics of wireless communications how wireless systems how cellular networks applications of mobile technologies short range communications barcodes qr codes short range communications rfid nfc bluetooth local area networks long range communications of mobile technologies whats special about mobile mobile marketing data insights mobile marketing mobile experiments pricing issues pricing experiments
+
+information security
+
+threats and attacks software attacks part software attacks part cyber defense shared private key encryption public key encryption cyber defense systems encryption benefits cyber security best practices vulnerability disclosure process future of data security
+
+emerging trends
+discussion prompt
+blockchain the basics blockchain and bitcoin the cryptography behind bitcoin bitcoin mining creating smart contracts with blockchain do you need a blockchain blockchain mining rigs
+
+
+peer review
+</DOC>
+
+<DOC>
+isit governance
+firms make significant investments in it in the isit governance we will discuss how to govern it to make sure that the it investments contribute to organizational goals and strategiesfirms need to formally evaluate significant it investments it investments are also risky so firms need to consider the risk associated with the investments to appropriately evaluate the investment we will discuss how to evaluate it investments firms usually make multiple it investments in a given year we will discuss how to evaluate a portfolio of it investments firms need a mechanism to charge users for the it investments made to encourage prudent consumption of it resources we will discuss different mechanisms for charging for it that incents users to spend it dollars wisely finally it investments are made to generate value for the firm this requires that employees actually use the new it systems that is developed thus in the isit governance we will discuss strategies to make sure that users use the new system so that the firm derives value from its it investments
+
+it alignment
+firms make significant investments in it however the returns from these investments are varied we will how to align it investment decisions with the goals and strategies of the organization
+an introduction to the information systems introduction personal introduction overview it alignment part it alignment part it alignment part a framework for it governance who makes the decisions how it decisions are made key principles and practices operating model and enterprise architecture application silo stage implications of enterprise stages
+
+evaluating it investments
+we will how to evaluate individual it investments large it investments face significant risks we will also about how to incorporate risk in the it investment decision
+a evaluating it investments part b net profit value part c net profit value part d net proft value part e net profit value part evaluating it investments part evaluating it investments part evaluating it investments part incorporating risk in it investment evaluation part incorporating risk in it investment evaluation part system implementation problem system implementation problem analysis incorporating risk in it investment evaluation part
+
+evaluating it investments continued
+a firm may make multiple it investments in a given year we will how to evaluate a portfolio of it investments we will also about how to charge users for it investments
+definition of it investment portfolio characteristics of different it asset classes strategic orientation and portfolio management it chargeback compare alternative approaches to it chargeback explore implications of it chargeback
+
+change management
+firms dont derive value from it investments if users dont adopt new it systems we the different levers firms can use to increase the adoption of it innovation we will also how different it systems may require different strategies for the implementation of it systems
+understanding user resistance different models of user adoption different levers for affecting user adoption evolutionary vs revolutionary change management vs approach
+
+
+peer review
+</DOC>
+
+<DOC>
+enterprise systems
+this provides you with an understanding of what enterprise systems also commonly termed as enterprise resource planning systems erps are after about what these systems are we would touch upon why these systems are useful to companies through which you would get to see the various jobs and positions that are associated with the use and deployment of erps you would also develop an appreciation of the managerial aspects related to the selection and implementation of erps specifically we would touch on the important points to consider when shortlisting and purchasing an erp the approaches taken in erp implementation and change management techniques to utilize when an organization is undergoing erp implementation at the end of this class be endowed with practical knowledge that would help you to address real world business problems associated with erp usage and implementation
+
+enterprise resource planning erp fundamentals
+discussion prompt
+a personal introduction b introduction to enterprise resource planning erp c overview business process concept a business functions part b business functions part a brief history of sap
+
+business processes in erp
+discussion prompt
+a companies and business processes b procurement process c production process d business fulfillment process sales organization master data example fulfillment process
+
+software selection considerations
+reading discussion prompt
+a erp selection process part b erp selection process part c erp selection process part magic quadrant tool erp possibilities
+
+change management
+discussion prompt
+erp implementation considerations defending against pitfalls a erp implementation best practices part b erp implementation best practices part erp implementation partner considerations
+
+
+peer review
+</DOC>
+

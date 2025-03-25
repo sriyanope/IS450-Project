@@ -1,0 +1,318 @@
+<DOC>
+getting started with google workspace
+this training equips students with the they need to become productive with google workspace by the end of this the student will be proficient in the use of the core google workspace applications gmail google calendar google drive google docs google sheets google slides google meet and google chatthey will how to manage mail and schedules effectively create manage and share content in google drive and become more productive through the use of the collaboration features that are an integral and defining part of google workspaceit is recommended that students engage with this content using a chromebook windows or mac os computer with google chrome installed plus a managed google workspace accountapplied projectprojects will challenge students to solve business challenges using gmail google calendar google drive google docs google sheets google slides google meet and google chatit is recommended that students engage with this content using a chromebook windows or mac os computer with google chrome installed plus a managed google workspace account
+</DOC>
+
+<DOC>
+google sheets advanced topics
+this builds on some of the concepts covered in the earlier google sheets coursein this how to apply and customize themes in google sheets and explore conditional formatting options about some of google sheets advanced formulas and functions explore how to create formulas using functions and also how to reference and validate your data in a google sheet spreadsheets can hold millions of numbers formulas and text making sense of all of that data can be difficult without a or visualization this explores the data visualization options in google sheets such as charts and pivot tables google forms are online surveys used to collect data and provide the for quick data analysis explore how forms and sheets together by connecting collected form data to a spreadsheet or by creating a form from an existing spreadsheet
+
+introduction
+this covers the agenda it also introduces students to on the rise and the business challenge
+introduction agenda
+
+advanced formatting in a google sheet
+there are many advanced formatting options that help you customize your google sheets and leverage your data we are going to talk about applying themes and conditional formatting options
+advanced formatting in a google sheet conditional formatting activity explained
+
+advanced formulas and functions
+formulas and functions allow you to make quick calculations and better use your data google sheets supports many of the formulas found in other spreadsheet applications we are going to look at creating a formula using functions and referencing and validating data we will also discuss how using named ranges can assist you when working with data sets
+advanced formulas and functions using if and ifs to analyze data activity explained data validation and named ranges activity explained
+
+analyze and report
+spreadsheets can hold millions of numbers formulas and text making sense of all of that data can be difficult without a or visualization especially when presenting the data to colleagues partners prospects or clients we are going to explore the data visualization options in google sheets such as charts and pivot tables we will discuss how google workspace integration makes it easy to share your charts and tables in google docs and google slides we also look at ways to automate repetitive tasks using macros
+analyze and report exploring charts activity explained pivot tables create a pivot table activity explained integration and publishing in google sheets activity explained macros apply a macro
+
+populate data using a google form
+google forms are online surveys used to collect data and provide the for quick data analysis were going to explore how google forms and google sheets together by connecting collected form data to a spreadsheet or by creating a form from an existing spreadsheet
+populate data using a google form activity explained form settings and sharing a google form activity explained managing feedback
+
+business challenge
+put everything you have learned into practice by helping our fictional google workspace customer solve their business challenge
+business challenge overview business challenge explained wrap up
+</DOC>
+
+<DOC>
+google sheets
+we will introduce you to google sheets googles cloudbased spreadsheet software included with google workspacewith google sheets you can create and edit spreadsheets directly in your web browserno special software is required multiple people can simultaneously you can see peoples changes as they make them and every change is saved automatically how to open google sheets create a blank spreadsheet and create a spreadsheet from a template add import sort filter and format your data using google sheets and how to across different file types formulas and functions allow you to make quick calculations and better use your data we will look at creating a basic formula using functions and referencing data also how to add a chart to your spreadsheet google sheets spreadsheets are easy to share we will look at the different ways you can share with others we will also discuss how to track changes and manage versions of your google sheets spreadsheets google workspace makes it easy to collaborate with your team clients and others wherever they are we will look at some of the collaboration options available to you in google sheets examples include commenting action items and notifications
+
+introduction
+this covers the agenda it also introduces students to on the rise and the business challenge
+introduction agenda
+
+introduction to google sheets
+we will introduce google sheets and discuss how to open and create a new spreadsheet we will also look at importing an existing spreadsheet into google sheets
+introduction to google sheets activity explained
+
+manage data using google sheets
+we will talk about adding and organizing data with google sheets how to add paste and import data also how to sort and filter data in your spreadsheets which is especially useful when working with large datasets
+manage data using google sheets activity explained
+
+format a google sheets spreadsheet
+we will explore some of the ways you can format your spreadsheets this includes some of the basic formatting options such as cell colors and text wrapping and options to freeze cells and protect data in your google sheet
+format a google sheets spreadsheet format a sheet cell types rows and columns activity explained manage multiple sheets
+
+basic formulas functions and charts
+we will look at creating a basic formula using functions named ranges and referencing data also how to create a chart and be introduced to google explore a powerful tool that can be used to answer questions and make suggestions based on insights gained from your data
+basic formulas functions and charts basic functions activity explained summarize data with charts create a chart import export date types and more activities and explained
+
+share your google sheets spreadsheets
+we will look at the different ways to share your spreadsheets with others how to add collaborators and assign them roles and permissions and also how you can share your google sheets spreadsheet with a link understand how to transfer ownership of your spreadsheets to another collaborator track changes and manage versions
+share your google sheets spreadsheets activity explained
+
+collaborate with google sheets
+we will look at some of the collaboration options available to you with google sheets examples include commenting action items and notifications
+collaborate with google sheets activity explained chat and gmail integration
+
+business challenge
+put everything you have learned into practice by helping our fictional google workspace customer solve their business challenge
+business challenge overview business challenge explained wrap up
+</DOC>
+
+<DOC>
+gmail
+gmail is googles cloud based email service that allows you to access your messages from any computer or device with just a web browserin this how to compose send and reply to messages also explore some of the common actions that can be applied to a gmail message and how to organize your mail using gmail labels explore some common gmail settings and features for example how to manage your own personal contacts and groups customize your gmail inbox to suit your way of working and create your own email signatures and templates google is famous for search gmail also includes powerful search and filtering explore gmails advanced search and how to filter messages automatically
+
+introduction
+this covers the agenda it also introduces students to on the rise and the business challenge
+introduction agenda
+
+introduction to gmail
+be introduced to gmail and how to access it through your browser also how to send email manage gmail conversations and explore some common actions that can be taken on your messages
+introduction to gmail conversation view create and send a message activity explained email replies gmail actions message actions
+
+organize your email
+labels in gmail allow you to organize messages based on different contexts how to create and manage labels and how to apply them to your messages
+organize your email activity explained apply and manage labels
+
+gmail integration
+how gmail integrates with other google workspace apps to help make you more productive and effective
+gmail integration create a calendar event from gmail activity explained integration with calendar meet and chat
+
+protect your inbox
+gmail provides many ways to protect your inbox explore how gmail automatically protects you and how you can customize settings to ensure that you are only receiving the content you need
+
+contacts
+explore how to effectively use contacts in gmail well discuss the differences between directory and personal contacts and how to create and manage your own personal contacts and groups
+contacts create a personal group activity explained import export and merge contacts
+
+manage gmail settings
+this explores unique features in gmail that are designed to save you time and improve your productivity how to create your own gmail signatures email templates out of office alerts and more
+manage gmail settings activities and explained other settings
+
+become more productive with gmail
+how to personalize your gmail and use features to enhance your productivity and speed up your workflow explore how to create filters search for messages delay the sending of messages until a specified time use keyboard shortcuts apply different inbox types and enable desktop notifications
+become more productive with gmail create a filter activity explained search gmail activity explained other productivity settings
+
+business challenge
+put everything you have learned into practice by helping our fictional google workspace customer solve their business challenge
+business challenge overview business challenge explained wrap up
+</DOC>
+
+<DOC>
+google slides
+with google slides you can create and present presentations for sales training and much more google slides presentations are stored safely in the cloud you build presentations right in your web browserno special software is required even better multiple people can on your slides at the same time you can see peoples changes as they make them and every change is automatically saved how to open google slides create a blank presentation and create a presentation from a template explore themes layout options and how to add and format content and speaker notes in your presentations how to enhance your slides by adding tables images charts and more also how to use slide transitions and object animations in your presentation for visual effects we will discuss how to organize slides and explore some of the options including duplicating and ordering your slides importing existing slides copying slides and hiding slides how to share your presentation with others and will also about collaborator permissions tracking changes and version management google slides offers many features that make team collaboration easy how to collaborate with your team using comments and action items presenting your slides is the ultimate goal so how to present your slides to others and explore the presentation tools available
+
+introduction
+this covers the agenda it also introduces students to on the rise and the business challenge
+introduction agenda
+
+introduction to google slides
+we will open google slides and explore the options available to you for creating a new presentation
+introduction to google slides create a new presentation activity explained
+
+manage google slides
+google slides can contain many different types of content including text images and well explore some of the ways you can create and manage slides using the formatting tools available
+manage google slides activity explained adding and formatting content position objects on a slide speaker notes activity explained
+
+enhance google slides
+using visuals to tell your story is a great way to capture your audience summarize information illuminate processes and highlight key findings with google slides you have the option of adding shapes tables images charts and more you can also add transitions and animations well look at some of the enhancements available in google slides
+enhance google slides add images and tables inserting objects into slides activity explained transitions and animations activity explained background options activity explained
+
+organize google slides
+there are many ways to speed up your workflow when working with google slides well look at some of the options including duplicating and ordering your slides importing existing slides copying slides and hiding or skipping slides
+organize google slides activity explained
+
+share your google slides
+we will look at the different ways to share your google slides presentations with others we will discuss collaborator roles permissions and how to track changes and manage versions of your presentations we will also look at how you can publish your presentations to the web and google slides download options
+share your google slides share your presentation version management activity explained publication and download options activity explained
+
+collaborate with google slides
+well discuss how to use comments effectively to support the development of your presentations how to add comments to your slides assign an action item resolve a comment and view the comment history
+collaborate with google slides activity explained notification settings and dynamic emails
+
+present google slides
+creating slides is only half of the story presenting them is the ultimate goal we will talk about presenting your slides
+present google slides present your google slides activity explained present from a conference
+
+business challenge
+put everything you have learned into practice by helping our fictional google workspace customer solve their business challenge
+business challenge overview business challenge explained wrap up
+</DOC>
+
+<DOC>
+google chat
+we introduce you to google chat googles chat software included with google workspaceyou will about messaging individuals and groups in google chat also discover customization options collaboration features and how google chat integrates with other google workspace products we will explore the use of spaces in google chat showing you how to create manage search and join them additionally understand the distinctions between using a space and a group chat you also explore google chat apps and how to search for and use apps within google chat aside from complete handson activities to practice what youve learned consider inviting a colleague or two to interact with you in google chat as you complete the activities
+
+introduction
+this covers the agenda it also introduces students to on the rise and the business challenge
+introduction agenda
+
+introduction to google chat
+we will introduce you to google chat
+introduction to google chat opening google chat
+
+messaging in google chat
+in about messaging individuals and groups in google chat also discover customization options collaboration features and how google chat integrates with other google workspace products
+messaging in google chat send a message use group conversations activity explained set a status in google chat manage your conversations message requests manage your google chat settings collaborate in google chat
+
+spaces in google chat
+about the different uses of spaces and compare them with individual and group chats
+spaces in google chat uses for spaces create a space join a space inline threading activity explained collaborate in spaces space management options manage a space activity explained
+
+apps in google chat
+this introduces you to apps in google chat how to find apps and add them to spaces and conversations also explore common actions that you can take with the apps that google creates and manages
+apps in google chat using apps adding apps to spaces common apps in google chat activity explained
+
+business challenge
+put everything you have learned into practice by helping our fictional google workspace customer solve their business challenge
+business challenge overview business challenge wrap up
+</DOC>
+
+<DOC>
+google drive
+google drive is googles cloudbased file storage service google drive lets you keep all your in one place view different file formats without the need for additional software and access your files from any devicein this how to navigate your google drive how to upload files and folders and how to across file types also how you can easily view arrange organize modify and remove files in google drive google drive includes shared drives you can use shared drives to store search and access files with a team how to create a new shared drive add and manage members and manage the shared drive content google workspace is synonymous with collaboration and sharing explore the sharing options available to you in google drive and about the various collaborator roles and permissions that can be assigned also explore ways to ensure consistency and save time with templates google drive has several tools and options available this discusses some of these options including how to offline use drive file stream and install apps from the google workspace marketplace
+
+introduction
+this covers the agenda it also introduces students to on the rise and the business challenge
+introduction agenda
+
+introduction to google drive
+we will introduce you to google drive and discuss its main uses we will also talk about key differences between personal and shared drives
+introduction to google drive activity explained
+
+share with google drive
+we will look at collaborator roles and permissions and what these mean for sharing with google drive
+share with google drive activity explained
+
+my drive
+how to upload files and folders in my drive and across file types we will also discuss how you can easily view arrange organize modify and remove files in my drive
+my drive activity explained with drive files and folders my drive walkthrough options menu activity explained more my drive features
+
+shared drives
+shared drives are shared spaces in google drive for sharing content with a team we will look at how to organize manage and share folders and files using a google shared drive
+shared drives add members to a shared drive activity explained more shared drive features
+
+templates
+to ensure consistency when creating content and to save time when creating the same document repeatedly you can create a template were going to talk about creating and using templates and how to save and search for them in google drive
+templates activity explained create and use a template
+
+google drive tools and options
+google drive offers several additional tools addons and options that can be enabled in order to meet your needs we will talk about some of these options including offline viewing drive file stream and the google workspace marketplace
+google drive tools and options google workspace addons
+
+business challenge
+put everything you have learned into practice by helping our fictional google workspace customer solve their business challenge
+business challenge overview wrap up
+</DOC>
+
+<DOC>
+google docs
+with google docs your documents are stored in the cloud and you can access them from any computer or device you create and edit documents right in your web browser no special software is required even better multiple people can at the same time you can see peoples changes as they make them and every change is saved automaticallyin this how to open google docs create and format a new document and apply a template to a new document how to enhance your documents using a table of contents headers and footers tables drawings images and more how to share your documents with others we will discuss your sharing options and examine collaborator roles and permissions how to manage versions of your documents google docs allows you to in real time with others on the same document how to create and manage comments and action items in your documents we will review a few of the google docs tools understand how to set your preferences to suit your own style and explore how to use tools such as google explore to add value to your content
+
+introduction
+this covers the agenda it also introduces students to on the rise and the business challenge
+introduction agenda
+
+introduction to google docs
+many of us have worked with word processing tools we will discuss how google docs documents are created and how google docs works across other file formats allowing you to edit and save revisions seamlessly and collaboratively
+
+compose a google doc
+after you create a document want to format and add styles so the document meets your needs we will show you how you can format and name your document and then print it or move it to where you and your team can collaboratively access it
+compose a google doc activities and explained
+
+enhance your google docs
+how to make the document even more functional by creating a table of contents adding headers and footers and inserting links and bookmarks
+enhance your google docs add links and bookmarks images tables and drawings activity explained insert a linked chart
+
+share your google docs
+well explore how to share a document with the appropriate permissions manage versions of the document and if necessary transfer its ownership and while there are many reasons to keep the document in the cloud well discuss the options available to download your document
+share your google docs activity explained publish and download a google doc activity explained
+
+collaborate with google docs
+well discuss how to use comments effectively to support the development of a document how to add comments to a document assign someone to an action item resolve a comment and view the comment history also how google docs comments integrate with gmail
+collaborate with google docs activity explained integration with gmail and chat
+
+google docs tools
+well take some time to understand how you can set your preferences to increase your productivity and explore how to use tools such as google explore and dictionaries to add value to your content how to translate content and to ensure the document is accessible to your audience also how to compare documents to quickly identify differences
+google docs tools use google explore other google docs features
+
+business challenge
+put everything you have learned into practice by helping our fictional google workspace customer solve their business challenge
+business challenge overview business challenge explained wrap up
+</DOC>
+
+<DOC>
+google meet
+we introduce you to google meet googles conference software included with google workspace you how to create and manage conference meetings using google meet you explore different ways to open google meet and add people to a conference you also how to join meetings from different sources like calendar events or meeting links we discuss how google meet can help you better communicate exchange ideas and share resources with your team wherever they are you how to customize the google meet environment to fit your needs and how to effectively use chat messages during a conference you also explore different ways to share resources such as by using calendar invites or attachments you about using host controls in google meet to manage participants and utilize interactive moderation features you also how to record and live stream conferences
+
+introduction
+this covers the agenda it also introduces students to on the rise and the business challenge
+introduction agenda
+
+introduction to google meet
+we will introduce you to google meet
+
+using google meet
+explore the google meet environment so that you can become more familiar with it explore the different ways that you can open google meet and add people to a conference also how to join a meeting from different sources such as a calendar event or a meeting link
+using google meet start a conference activity explained join a conference activity explained adding participants to an active meeting
+
+collaborate in google meet
+this focuses on how google meet can help you communicate better and exchange ideas we explore the different ways to share relevant documents with your team before and during meetings we discuss how to customize the google meet environment to fit your needs and how to effectively collaborate with participants during a conference
+collaborate in google meet manage audio and use meet controls view and chat with participants change meeting layout google calendar event options activity explained use companion mode present and share resources in meetings
+
+host management in google meet
+explore how you can customize meeting access and moderation settings before and during google meet conferences how to use collaborative features like breakout rooms polls qas and whiteboarding to quickly get opinions and questions and facilitate smaller discussions for meeting attendees also explore the capabilities of google meet that support different meeting use cases like live streaming recording and the transcripts feature
+host management in google meet host controls preconfigure host controls engage with participants record a meeting activity explained live stream a meeting whiteboarding
+
+business challenge
+put everything you have learned into practice by helping our fictional google workspace customer solve their business challenge
+business challenge overview business challenge wrap up
+</DOC>
+
+<DOC>
+google calendar
+with google calendar you can quickly schedule meetings and events and create tasks so you always know whats next google calendar is designed for teams so its easy to share your schedule with others and create multiple calendars that you and your team can use togetherin this how to create and manage google calendar events how to update an existing event delete and restore events and search your calendar understand when to apply different event types such as tasks and appointment schedules explore the google calendar settings that are available for you to customize google calendar to suit your way of working during the how to create additional calendars share your calendars with others and access other calendars in your organization
+
+introduction
+this covers the agenda it also introduces students to on the rise and the business challenge
+introduction agenda
+
+introduction to google calendar
+google calendar enables you to easily schedule meetings and events create tasks and collaborate on shared calendars so you always know whats next how to open and navigate google calendar
+introduction to google calendar calendar walkthrough
+
+manage google calendar
+google calendar makes it easy to set up events and share information well explore how to schedule events add conferencing with google meet attach documents from google drive and set visibility and notifications
+manage google calendar activity explained event properties activity explained event visibility and notifications
+
+respond to and manage events
+with google calendar you can easily reply to event invitations and manage the events that you create this explores how the features of google calendar allow you to update events check guest attendance delete and restore events and search google calendar
+respond to and manage events activity explained
+
+other event types
+google calendar offers multiple ways to help you enhance your productivity and communicate about scheduling more effectively well cover how to use other event types and features including out of office tasks and appointment schedules
+other event types activity explained
+
+sharing calendars
+google calendar is designed for collaboration this explores how to share your schedule with others and create and manage multiple calendars that you and your team can use together
+sharing calendars calendar sharing visibility and access permissions delegation options share calendar with specific people multiple calendars activity explained
+
+customize google calendar
+google calendar allows you to adjust settings to match the way you now that weve covered the key features of google calendar well look at how to customize it further using a few of the different settings available
+
+business challenge
+put everything you have learned into practice by helping our fictional google workspace customer solve their business challenge
+business challenge overview business challenge explained wrap up
+</DOC>
+

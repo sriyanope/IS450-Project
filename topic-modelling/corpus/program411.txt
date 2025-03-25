@@ -1,0 +1,177 @@
+<DOC>
+google cybersecurity
+new ai skillsprepare for a new in the highgrowth field of cybersecurity no degree or required get training designed and delivered by subject matter experts at google and have the to connect with top employersorganizations must continuously protect themselves and the people they serve from cyberrelated threats like fraud and phishing they rely on cybersecurity to maintain the confidentiality integrity and availability of their internal systems and information cybersecurity analysts use a collection of methods and technologies to safeguard against threats and unauthorized access and to create and implement solutions should a threat get throughduring the courses from cybersecurity experts at google and gain indemand that prepare you for entrylevel roles like cybersecurity analyst security operations center soc analyst and more at under hours per you can complete the in less than months upon completion of the you can directly apply for jobs with google and over us employers including american express deloitte colgatepalmolive mandiant now part of google cloud tmobile and walmartthe google cybersecurity helps prepare you for the comptia security exam the industry leading certification for cybersecurity roles earn a dual credential when you complete bothapplied projectthis includes hours of instruction and hundreds of practicebased assessments and activities that simulate realworld cybersecurity scenarios that are critical for success in the workplace through a mix of assessments and handson labs become familiar with the cybersecurity tools platforms and required for an entrylevel jobskills gain will include python linux sql security information and event management siem tools intrusion detection systems ids communication collaboration analysis problem solving and more additionally each includes portfolio activities through which showcase examples of cybersecurity that you can share with potential employers acquire concrete that top employers are hiring for right now
+</DOC>
+
+<DOC>
+foundations of cybersecurity
+this is the first in the google cybersecurity these courses will equip you with the you need to prepare for an entrylevel cybersecurity job be introduced to the world of cybersecurity through an interactive curriculum developed by google identify significant events that led to the development of the cybersecurity field explain the importance of cybersecurity in todays business operations and explore the job responsibilities and of an entrylevel cybersecurity analyst google employees who currently in cybersecurity will guide you through provide handson activities and examples that simulate common cybersecurity tasks and help you build your to prepare for jobs learners who complete the eight courses in the google cybersecurity will be equipped to apply for entrylevel cybersecurity roles no previous is necessary by the end of this identify how security attacks impact business operations explore the job responsibilities and core of an entrylevel cybersecurity analyst recognize how past and present attacks on organizations led to the development of the cybersecurity field the cissp eight security domains identify security domains frameworks and controls explain security ethics recognize common tools used by cybersecurity analysts
+
+welcome to the exciting world of cybersecurity
+begin your journey into cybersecurity explore the cybersecurity field and about the job responsibilities of cybersecurity professionals
+welcome to the google cybersecurity welcome to introduction to cybersecurity toni my path to cybersecurity responsibilities of an entrylevel cybersecurity analyst nikki a day in the life of a security engineer core for cybersecurity professionals veronica my path to working in cybersecurity the importance of cybersecurity wrapup
+
+the evolution of cybersecurity
+explore how cybersecurity threats have appeared and evolved alongside the adoption of computers also understand how past and present cyber attacks have influenced the development of the security field in addition get an overview of the eight security domains
+welcome to past cybersecurity attacks attacks in the digital age sean keep your cool during a data breach introduction to the eight cissp security domains part introduction to the eight cissp security domains part wrapup
+
+protect against threats risks and vulnerabilities
+about security frameworks and controls which are used to mitigate organizational risk cover principles of the cia triad and various national institute of standards and technology nist frameworks in addition explore security ethics
+welcome to introduction to security frameworks and controls secure design heather protect sensitive data and information ethics in cybersecurity holly the importance of ethics as a cybersecurity wrapup
+
+cybersecurity tools and programming languages
+discover common tools used by cybersecurity analysts to identify and mitigate risk about security information and event management siem tools network protocol analyzers and programming languages such as python and sql
+welcome to common cybersecurity tools introduction to linux sql and python wrapup wrapup
+</DOC>
+
+<DOC>
+assets threats and vulnerabilities
+this is the fifth in the google cybersecurity these courses will equip you with the you need to apply for an entrylevel cybersecurity job build on your understanding of the topics that were introduced in the fourth google cybersecurity coursein this explore the concepts of assets threats and vulnerabilities first build an understanding of how assets are classified next become familiar with common threats and vulnerabilities and the security controls used by organizations to protect valuable information and mitigate risk develop an attacker mindset by practicing the threat modeling process and tactics for staying ahead of security breaches google employees who currently in cybersecurity will guide you through provide handson activities and examples that simulate common cybersecurity tasks and help you build your to prepare for jobs learners who complete this will be equipped to apply for entrylevel cybersecurity roles no previous is necessary by the end of this effective data handling processes discuss the role of encryption and hashing in securing assets describe how to effectively use authentication and authorization explain how common vulnerability exposures are identified by mitre analyze an attack surface to find risks and vulnerabilities identify threats such as social engineering malware and webbased exploits summarize the threat modeling process
+
+introduction to asset security
+be introduced to how organizations determine what assets to protect about the connection between managing risk and classifying assets by exploring the unique challenge of securing physical and digital assets also be introduced to the national institute of standards and technology nist framework standards guidelines and best practices to manage cybersecurity risk
+introduction to daqueshia my path to cybersecurity welcome to the what why and how of asset security tri life in asset security security starts with asset classification assets in a digital world elements of a security plan the nist cybersecurity framework wrapup
+
+protect organizational assets
+focus on security controls that protect organizational assets explore how privacy impacts asset security and understand the role that encryption plays in maintaining the privacy of digital assets also explore how authentication and authorization systems help verify a users identity
+welcome to security controls heather the importance of protecting pii fundamentals of cryptography public key infrastructure nonrepudiation and hashing access controls and authentication systems the mechanisms of authorization why we audit user activity tim finding purpose in protecting assets wrapup
+
+vulnerabilities in systems
+build an understanding of the vulnerability management process about common vulnerabilities and develop an attacker mindset by examining the ways vulnerabilities can become threats to asset security if they are exploited
+welcome to vulnerability management defense in depth strategy common vulnerabilities and exposures vulnerability assessments omad my journey into cybersecurity protect all entry points niru adopt an attacker mindset pathways through defenses wrapup
+
+threats to asset security
+explore common types of threats to digital asset security also examine the tools and techniques used by cybercriminals to target assets in addition be introduced to the threat modeling process and ways security professionals stay ahead of security breaches
+welcome to the criminal art of persuasion phishing for information malicious software the rise of cryptojacking crosssite scripting xss exploitable gaps in databases a proactive approach to security chantelle the value of diversity in cybersecurity pasta the process for attack simulation and threat analysis wrapup wrapup
+</DOC>
+
+<DOC>
+sound the alarm detection and response
+this is the sixth in the google cybersecurity these courses will equip you with the you need to apply for an entrylevel cybersecurity job build on your understanding of the topics that were introduced in the fifth google cybersecurity coursein this focus on incident detection and response define a security incident and explain the incident response lifecycle including the roles and responsibilities of incident response teams analyze and interpret network communications to detect security incidents using packet sniffing tools to capture network traffic by assessing and analyzing artifacts explore the incident investigation and response processes and procedures additionally practice using intrusion detection systems ids and security information event management siem tools google employees who currently in cybersecurity will guide you through provide handson activities and examples that simulate common cybersecurity tasks and help you build your to prepare for jobs learners who complete this will be equipped to apply for entrylevel cybersecurity roles no previous is necessary by the end of this explain the lifecycle of an incident describe the tools used in documentation detection and management of incidents analyze packets to interpret network communications perform artifact investigations to analyze and verify security incidents identify the steps to contain eradicate and recover from an incident determine how to read and analyze logs during incident investigation interpret the basic syntax and components of signatures and logs in intrusion detection systems ids and network intrusion detection systems nids tools perform queries in security information and event management siem tools to investigate an event
+
+introduction to detection and incident response
+detection and incident response are an important part of a cybersecurity analysts explore how cybersecurity professionals verify and respond to malicious threats and become familiar with the steps involved in incident response
+introduction to dave grow your cybersecurity with mentors welcome to introduction to the incident response lifecycle incident response teams fatima the importance of communication during incident response incident response plans incident response tools the value of documentation intrusion detection systems alert and event management with siem and soar tools wrapup
+
+network monitoring and analysis
+explore network analysis tools commonly referred to as packet sniffers in particular sniff the network and analyze packets for malicious threats also craft filtering commands to analyze the contents of captured packets
+welcome to casey apply soft in cybersecurity the importance of network traffic flows data exfiltration attacks packets and packet captures interpret network communications with packets reexamine the fields of a packet header packet captures with tcpdump wrapup
+
+incident investigation and response
+about the various processes and procedures in the stages of incident detection investigation analysis and response then analyze the details of suspicious file hashes about the importance of documentation and evidence collection during the detection and response stages finally approximate an incidents chronology by mapping artifacts to reconstruct an incidents timeline
+welcome to the detection and analysis phase of the lifecycle mk changes in the cybersecurity industry the benefits of documentation document evidence with chain of custody forms the value of cybersecurity playbooks the role of triage in incident response robin foster crossteam collaboration the containment eradication and recovery phase of the lifecycle the postincident activity phase of the lifecycle wrapup
+
+network traffic and logs using ids and siem tools
+explore logs and their role in intrusion detection systems ids and security information event management siem systems how these systems detect attacks also be introduced to some ids and siem products in addition write basic ids rules to provide alerts for malicious network traffic
+welcome to the importance of logs rebecca new tools and technologies variations of logs security monitoring with detection tools grace security mindset in detection and response components of a detection signature examine signatures with suricata examine suricata logs reexamine siem tools query for events with splunk query for events with google secops wrapup wrapup
+</DOC>
+
+<DOC>
+connect and protect networks and network security
+this is the third in the google cybersecurity these courses will equip you with the you need to apply for an entrylevel cybersecurity job build on your understanding of the topics that were introduced in the second google cybersecurity coursein this explore how networks connect multiple devices and allow them to communicate start with the fundamentals of modern networking operations and protocols for example about the transmission control protocol internet protocol tcpip model and how network hardware like routers and modems allow your computer to send and receive information on the internet then about network security organizations often store and send valuable information on their networks so networks are common targets of cyber attacks by the end of this be able to recognize networklevel vulnerabilities and explain how to secure a network using firewalls system hardening and virtual private networks google employees who currently in cybersecurity will guide you through provide handson activities and examples that simulate common cybersecurity tasks and help you build your to prepare for jobs learners who complete this will be equipped to apply for entrylevel cybersecurity roles no previous is necessary by the end of this describe the structure of different computer networks illustrate how data is sent and received over a network recognize common network protocols identify common network security measures and protocols explain how to secure a network against intrusion tactics compare and contrast local networks to cloud computing explain the different types of system hardening techniques
+
+network architecture
+be introduced to network security and explain how it relates to ongoing security threats and vulnerabilities about network architecture and mechanisms to secure a network
+introduction to welcome to chris my path to cybersecurity what are networks tina working in network security emmanuel useful for network security network tools cloud networks introduction to network communication the tcpip model the four layers of the tcpip model ip addresses and network communication wrapup
+
+network operations
+explore network protocols and how network communication can introduce vulnerabilities in addition about common security measures like firewalls that help network operations remain safe and reliable
+welcome to network protocols antara working in network security wireless protocols firewalls and network security measures virtual private networks vpns security zones proxy servers wrapup
+
+secure against network intrusions
+understand types of network attacks and techniques used to secure compromised network systems and devices explore the many ways that malicious actors exploit vulnerabilities in network infrastructure and how cybersecurity professionals identify and close potential loopholes
+welcome to the case for securing networks matt a on dealing with attacks denial of service dos attacks malicious packet sniffing ip spoofing wrapup
+
+security hardening
+become familiar with network hardening practices that strengthen network systems how security hardening helps defend against malicious actors and intrusion methods also how to use security hardening to address the unique security challenges posed by cloud infrastructures
+welcome to security hardening os hardening practices network hardening practices network security in the cloud kelsey cloud security explained wrapup wrapup
+</DOC>
+
+<DOC>
+put it to prepare for cybersecurity jobs
+this is the eighth and final in the google cybersecurity together these eight courses will equip you with the you need to apply for an entrylevel cybersecurity jobin this focus on making decisions and escalating incidents to stakeholders develop the communication and collaboration needed to inform and influence stakeholders within an organization in addition explore how to ethically operate as a cybersecurity discover how to engage with the cybersecurity community explore jobs in the cybersecurity field and complete practice interviews also write a resume and cover letter to prepare for applying and interviewing for jobs in cybersecurity google employees who currently in cybersecurity will guide you through provide handson activities and examples that simulate common cybersecurity tasks and help you build your to prepare for jobs learners who complete this will be equipped to apply for entrylevel cybersecurity roles no previous is necessary by the end of this determine when and how to escalate a security incident explain how having an ethical mindset supports a cybersecurity professionals ability to protect assets and data communicate sensitive information with care and confidentiality use reliable sources to remain current on the latest cybersecurity threats risks vulnerabilities and tools engage with the cybersecurity community find and apply for cybersecurity jobs prepare for job interviews
+
+protect data and communicate incidents
+recognize the importance of security professionals in the workplace discover how proper detection and escalation can impact an organizations security posture
+introduction to dion my personal journey welcome to security as a mindset detect and protect without neglect wrapup
+
+escalate incidents
+explore the importance of incident prioritization and escalation how the decisions security professionals make help to keep business operations safe
+welcome to the importance of escalation prepare to escalate through security recognition from simple activity to major data breach when and how to escalate a security incident wrapup
+
+communicate effectively to influence stakeholders
+about important stakeholders in cybersecurity in addition create clear and concise communications to stakeholders
+welcome to stakeholders in cybersecurity clear and concise communication building blocks of cybersecurity communications visual storytelling in cybersecurity how to create a visual dashboard wrapup
+
+engage with the cybersecurity community
+prepare to stay uptodate on the latest cybersecurity trends and explore how to engage with the security community
+welcome to helpful cybersecurity resources victoria continue your journey engage with the cybersecurity community in a meaningful way sarah network in the cybersecurity community wrapup
+
+find and apply for cybersecurity jobs
+prepare for the job search by creating a resume developing an elevator pitch and getting ready for the interview process in addition ai that you can use as a cybersecurity
+welcome to find cybersecurity jobs what is your identity create a resume garvey cover letter tips explore the interview process garvey technical interview tips conduct preinterview research build rapport with interviewers use strategies to answer interview questions ask the interviewer questions karan interview tips from a hiring manager develop an elevator pitch emily overcome imposter syndrome wrapup wrapup luis driving impact with ai in the workplace boost your cybersecurity with ai decode complex security frameworks with ai use ai to help identify bugs refine code with help from ai understand system vulnerabilities with ai prioritize alerts with ai introducing google ai essentials recap of the google cybersecurity congratulations on completing the google cybersecurity
+</DOC>
+
+<DOC>
+play it safe manage security risks
+this is the second in the google cybersecurity these courses will equip you with the you need to apply for an entrylevel cybersecurity job build on your understanding of the topics that were introduced in the first google cybersecurity coursein this take a deeper dive into concepts introduced in the first with an emphasis on how cybersecurity professionals use frameworks and controls to protect business operations in particular identify the steps of risk management and explore common threats risks and vulnerabilities additionally explore security information and event management siem data and use a playbook to respond to identified threats risks and vulnerabilities finally take an important step towards becoming a cybersecurity and practice performing a security audit google employees who currently in cybersecurity will guide you through provide handson activities and examples that simulate common cybersecurity tasks and help you build your to prepare for jobs learners who complete this will be equipped to apply for entrylevel cybersecurity roles no previous is necessary by the end of this identify the common threats risks and vulnerabilities to business operations understand the threats risks and vulnerabilities that entrylevel cybersecurity analysts are most focused on comprehend the purpose of security frameworks and controls describe the confidentiality integrity and availability cia triad explain the national institute of standards and technology nist framework explore and practice conducting a security audit use a playbook to respond to threats risks and vulnerabilities
+
+security domains
+gain understanding of the cissps eight security domains then about primary threats risks and vulnerabilities to business operations in addition explore the national institute of standards and technologys nist risk management framework rmf and the steps of risk management
+introduction to welcome to explore the cissp security domains part explore the cissp security domains part ashley my path to cybersecurity threats risks and vulnerabilities key impacts of threats risks and vulnerabilities herbert manage threats risks and vulnerabilities nists risk management framework wrapup
+
+security frameworks and controls
+focus on security frameworks and controls along with the core components of the confidentiality integrity and availability cia triad about open web application security owasp security principles and security audits
+welcome to frameworks controls explore the cia triad nist frameworks explore the six functions of the nist cybersecurity framework owasp security principles wajih stay uptodate on the latest cybersecurity threats plan a security audit complete a security audit wrapup
+
+introduction to cybersecurity tools
+explore industry leading security information and event management siem tools that are used by security professionals to protect business operations how entrylevel security analysts use siem dashboards as part of their every day
+welcome to logs and siem tools siem dashboards parisa the parallels of accessibility and security explore common siem tools talya myths about the cybersecurity field wrapup
+
+use playbooks to respond to incidents
+about the purposes and common uses of playbooks also explore how cybersecurity professionals use playbooks to respond to identified threats risks and vulnerabilities
+welcome to phases of an incident response playbook zack incident response and the value of playbooks use a playbook to respond to threats risks or vulnerabilities erin the importance of diversity of perspective on a security team wrapup wrapup
+</DOC>
+
+<DOC>
+automate cybersecurity tasks with python
+this is the seventh in the google cybersecurity these courses will equip you with the you need to apply for an entrylevel cybersecurity job build on your understanding of the topics that were introduced in the sixth google cybersecurity coursein this be introduced to the python programming language and apply it in a cybersecurity setting to automate tasks start by focusing on foundational python programming concepts including data types variables conditional statements and iterative statements also to with python effectively by developing functions using libraries and and making your code readable in addition with string and list data and how to import parse and debug files google employees who currently in cybersecurity will guide you through provide handson activities and examples that simulate common cybersecurity tasks and help you build your to prepare for jobs learners who complete this will be equipped to apply for entrylevel cybersecurity roles no previous is necessary by the end of this explain how the python programming language is used in cybersecurity write conditional and iterative statements in python create new userdefined python functions use python to with strings and lists use regular expressions to extract information from text use python to open and read the contents of a file identify best practices to improve code readability practice debugging code
+
+introduction to python
+get an introduction to the python programming language and how python is used in cybersecurity also explore foundational python concepts including data types variables conditional statements and iterative statements
+introduction to ngel my personal journey welcome to python and cybersecurity create a basic python script akash python and the cybersecurity data types in python with variables in python conditional statements in python for loops while loops wrapup
+
+write effective python code
+expand your ability to with python about prebuilt and userdefined python functions also explore how help provide access to reusable code finally make your code readable
+welcome to introduction to functions create a basic function use parameters in functions return statements explore builtin functions and libraries code readability dorsa use python efficiently on a cybersecurity team wrapup
+
+with strings and lists
+more options for working with strings and lists in python and discover methods that can be applied to these data types apply this knowledge to write a short algorithm finally use regular expressions to search for patterns in strings
+welcome to string operations string indices and slices list operations in python write a simple algorithm regular expressions in python wrapup
+
+python in practice
+put python into practice and focus on automating cybersecurityrelated tasks which requires working with files be introduced to opening and reading files then to parse files and structure their contents finally focus on strategies for debugging code
+welcome to automate cybersecurity tasks with python clancy continual and python access a text file in python parse a text file in python develop a parsing algorithm in python debugging strategies matt from mistakes apply debugging strategies wrapup wrapup
+</DOC>
+
+<DOC>
+tools of the trade linux and sql
+this is the fourth in the google cybersecurity these courses will equip you with the you need to apply for an entrylevel cybersecurity job build on your understanding of the topics that were introduced in the third google cybersecurity coursein this explore computing that use onthejob as a cybersecurity analyst first practice using linux an operating system commonly used by cybersecurity professionals for example use the linux command line through the bash shell to navigate and manage the file system and authenticate users then use sql to communicate with a database google employees who currently in cybersecurity will guide you through provide handson activities and examples that simulate common cybersecurity tasks and help you build your to prepare for jobs learners who complete this will be equipped to apply for entrylevel cybersecurity roles no previous is necessary by the end of this explain the relationship between operating systems applications and hardware compare a graphical user interface to a command line interface identify the unique features of common linux distributions navigate and manage the file system using linux commands via the bash shell use linux commands via the bash shell to authenticate and authorize users describe how a relational database is organized use sql to retrieve information from a database apply filters to sql queries and use joins to combine multiple tables
+
+introduction to operating systems
+about the relationship between operating systems hardware and software and become familiar with the primary functions of an operating system recognize common operating systems in use today and understand how the graphical user interface gui and commandline interface cli both allow users to interact with the operating system
+introduction to welcome to kim my journey into computing introduction to operating systems inside the operating system resource allocation via the os gui versus cli ellen my path into cybersecurity wrapup
+
+the linux operating system
+be introduced to the linux operating system and how it is commonly used in cybersecurity also about linux architecture and common linux distributions in addition be introduced to the linux shell and how it allows you to communicate with the operating system
+welcome to introduction to linux phil and grow in the cybersecurity field linux architecture linux distributions kali linux introduction to the shell input and output in the shell wrapup
+
+linux commands in the bash shell
+be introduced to linux commands as entered through the bash shell use the bash shell to navigate and manage the file system and to authorize and authenticate users also where to go for help when working with new linux commands
+welcome to linux commands via the bash shell core commands for navigation and reading files find what you need with linux create and modify directories and files file permissions and ownership change permissions add and delete users damar my journey into linux commands the linux community man pages within the shell wrapup
+
+databases and sql
+practice using sql to communicate with databases how to query a database and filter the results also how sql can join multiple tables together in a query
+welcome to introduction to databases query databases with sql adedayo sql in cybersecurity basic queries basic filters on sql queries filter dates and numbers filters with and or and not join tables in sql types of joins wrapup wrapup
+</DOC>
+

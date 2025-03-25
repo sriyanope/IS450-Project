@@ -1,0 +1,85 @@
+<DOC>
+software design and architecture
+in the software design and architecture how to apply design principles patterns and architectures to create reusable and flexible software applications and systems how to express and document the design and architecture of a software system using a visual notationpractical examples and to apply your knowledge will help you develop employable and relevant expertise in the software industryapplied projectthe capstone involves a javabased android application that evaluate and develop throughout the four courses of the this application will evolve from a single user app that stores data locally to a multiuser app that stores data remotely in each be given a java codebase as a starting point and will have to document and implement new features using your knowledge gained in the coursetutorials are provided to help you understand the starter codebase and the basics of android developmentprerequisitesyou are expected to have basic java programming knowledge the capstone application will require you to use android studio an integrated development environment to more about android studio please review the tutorials for windowsopens in a new tab or macopens in a new tab
+</DOC>
+
+<DOC>
+design patterns
+this extends objectoriented analysis and design by incorporating design patterns to create interactive applications through a survey of established design patterns gain a foundation for more complex software applications finally identify problematic software designs by referencing a catalog of code smellsyou will be challenged in the capstone to redesign an existing javabased android application to implement a combination of design patterns also critique a given java codebase for code smells after completing this be able to demonstrate how to use design patterns to address user interface design issues identify the most suitable design pattern to address a given application design problem apply design principles eg openclosed dependency inversion least knowledge critique code by identifying and refactoring antipatterns apply the modelviewcontroller architectural pattern
+
+introduction to design patterns creational structural patterns
+design patterns help to solve common design issues in objectoriented software what they are and how they can be applied the creational and structural design patterns continue to and practice expressing designs in uml and code some of these patterns in java
+what is a design pattern creational structural and behavioural patterns singleton pattern factory method pattern facade pattern adapter pattern composite pattern proxy pattern decorator pattern
+
+behavioural design patterns
+continue useful design patterns and add them to your toolbox the behavioural patterns this will include communicating them in uml and coding them in java
+template method pattern chain of responsibility pattern state pattern command pattern observer pattern
+
+working with design patterns antipatterns
+a design pattern that is very useful for user interfaces modelviewcontroller or mvc then some principles underlying the design patterns to create software that is flexible reusable and maintainable finally some of the symptoms of bad design which we call code smells or antipatterns
+mvc pattern openclosed principle dependency inversion principle composing objects principle interface segregation principle principle of least knowledge part code smells part code smells
+
+capstone challenge
+in the previous you were introduced to a variety of design patterns and applied two of these to the example android code base now in the final of the identify and fix specific code smells code base after completing these tasks be ready to complete the final exam
+</DOC>
+
+<DOC>
+objectoriented design
+this takes java beginners to the next level by covering objectoriented analysis and design discover how to create modular flexible and reusable software by applying objectoriented design principles and guidelines and be able to communicate these designs in a visual notation known as unified modelling language umlyou will be challenged in the capstone to apply your knowledge of objectoriented design by evolving and documenting the java codebase for an android application with corresponding uml documentation after completing this be able to apply the class responsibility collaborator crc technique to analyze and design the objectoriented model for a problem explain and apply objectoriented modeling principles and their purpose eg abstraction encapsulation decomposition generalization explain and apply different types of inheritance explain the difference between association aggregation and composition dependencies express objectoriented models as unified modeling language uml class diagrams translate between uml class diagrams and equivalent java code apply design guidelines for modularity separation of concerns information hiding and conceptual integrity to create a flexible reusable maintainable design explain the tradeoff between cohesion and coupling
+
+objectoriented analysis and design
+good software design begins before coding after establishing the initial software requirements design practices involve two main activities conceptual design and technical design realize the importance of design and objectoriented thinking and how to design software using techniques like crc cards
+welcome to software design and architecture software architect and design roles in industry objectoriented modeling software requirements conceptual and technical designs competing qualities and tradeoffs record organize and refine components
+
+objectoriented modeling
+best software design practices have evolved alongside programming languages today all developers should be familiar with abstraction encapsulation decomposition and generalization which are fundamental principles in objectoriented design all of these principles and how they are expressed in java and communicated visually in unified modelling language
+models bridging concepts and solutions languages evolution abstraction encapsulation decomposition generalization abstraction in java and uml encapsulation in java and uml decomposition in java and uml generalization with inheritance in java and uml generalization with interfaces in java and uml
+
+design principles
+additional design principles will help you to create code that is flexible reusable and maintainable about coupling and cohesion separation of concerns information hiding and conceptual integrity also to avoid common pitfalls with inheritance and ways to express software behavior in uml
+coupling and cohesion separation of concerns information hiding conceptual integrity inheritance issues uml sequence diagram uml state diagram model checking
+
+capstone challenge
+in the previous you were introduced to objectoriented analysis and design objectoriented modeling and design principles to cement your understanding of this material you created a uml class diagram from an example android code base and used your understanding of the code base to make sequence and state diagrams to model its behavior now in the final of the given a of new functionality and an updated uml class diagram implement the updated design into the android code base after completing this development task be ready to complete the final exam
+</DOC>
+
+<DOC>
+serviceoriented architecture
+based on an understanding of architectural styles review architectures for web applications then explore the basics of serviceoriented architecture soa in two approaches web services ws and representational state transfer rest architecture in the capstone connect a javabased android application with elasticsearch a web service with a rest application programmer interface api after completing this be able to describe soa serviceoriented architecture to structure webbased systems explain ws services ie soap over http wsdl uddi bpel apply rest architecture ie json over http uri identify rest design principles create a system using rest interfaces apply microservice architecture
+
+web technologies
+we will introduce you to serviceoriented architectures and their basic principles then get a crash on the technologies that underpin the web so that you are ready to about web services in the next this also covers some earlier precursors of serviceoriented architecture
+introduction to serviceoriented architecture service principles web systems evolution web systems architecture html xml json http javascript remote procedure call rpc object brokers
+
+web services
+wsstyle web services are a first generation group of specifications that together to allow developers to develop and use web services they are all based on xml some of the most important specifications of wsstyle web services soap wsdl uddi and bpel
+introduction to web services service invocation soap service wsdl service publication and discovery uddi service composition bpel
+
+rest architecture for soa
+restful web services are another style of web services based on lightweight http methods they have largely superseded wsstyle services because of their relative simplicity about restful services and how to design them also a bit about microservices a software architecture for applications that is based on services
+introduction to rest designing a rest service introduction to microservices
+
+capstone challenge
+in the previous you determined an android applications information needs when storing data remotely now in the final of the fully connect the application to a remote elasticsearch server to allow users to share information across their devices after completing this task be ready to complete the final exam
+</DOC>
+
+<DOC>
+software architecture
+the way that software components subroutines classes functions etc are arranged and the interactions between them is called architecture study the ways these architectures are represented both in uml and other visual tools we will introduce the most common architectures their qualities and tradeoffs we will talk about how architectures are evaluated what makes a good architecture and an architecture can be improved well also talk about how the architecture touches on the process of software developmentin the capstone document a javabased android application with uml diagrams and analyze evaluate the applications architecture using the architecture tradeoff analysis method atam after completing this be able to compare and contrast the components connections protocols topologies constraints tradeoffs and variations of different types of architectural styles used in the design of applications and systems eg main and subroutine objectoriented interpreters pipes and filters database centric eventbased describe the properties of layered and ntier architectures create uml ipackage component and deployment diagrams to express the architectural structure of a system explain the behaviour of a system using uml activity diagrams document a multiapplication system with a layered architecture
+
+uml architecture diagrams
+about software architecture why architecture is important what perspectives need to be considered and how to communicate architecture using uml
+architecture overview and process kruchtens model view uml component diagram uml package diagram uml deployment diagram uml activity diagram
+
+architectural styles
+software comes in all shapes and sizes the architecture you choose will affect every part of your software from its security and efficiency to its modularity and maintainability we will examine the different architectures that you have to choose from to shape your software
+abstract data types and objectoriented main and subroutine databases layered systems client server ntier interpreters pipes and filters event based process control
+
+architecture in practice
+the architecture is the most fundamental aspect of software how development teams describe architectures plan successful architectures based on quality attributes and evaluate the resulting architecture also how architecture relates to organization structure and even product planning
+quality attributes analyzing and evaluating an architecture relationship to organizational structure product lines and product families
+
+capstone challenge
+now in the final of the evaluate the proposed architecture to extend the functionality of the example android code base
+</DOC>
+

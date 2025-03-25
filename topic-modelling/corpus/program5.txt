@@ -1,0 +1,60 @@
+<DOC>
+ai for good
+the ai for good showcases how ai can be part of the solution when it comes to addressing some of the worlds biggest challenges in areas like public health climate change and disaster managementin these courses from instructor robert monarch who has over years of building ai products in industry and working at the intersection of ai and public health and disaster management robert is also the author of humanintheloop machine learningopens in a new tab a book focused on humancentered ai applications throughout the courses hear from experts working on ai for good initiatives aimed at addressing social and environmental issues by combining human and machine intelligence realworld datasets best practices around data privacy and ethical considerations develop the knowledge and fundamental to tackle your own ai for good these courses were built in partnership with researchers at the microsoft ai for good labopens in a new tab who offered their subject matter expertise throughout the development of the we are also grateful to sasha luccioniopens in a new tab climate lead and researcher at huggingface for her help in forming the highlevel structure outlining what kinds of topics and case studies would best for these courses and recruiting many of the experts that either appear in guest speaker or have contributed behind the scenes applied projectuse neural networks and other ai techniques to estimate air quality throughout the city of bogot colombiadevelop an ai model to make wind power generation more predictable by providing forecasts hours into the futureapply computer vision techniques to detect and classify animals for the purpose of biodiversity monitoringbuild an image classification pipeline to perform damage assessment using satellite images taken after hurricane harvey in the us in use natural language processing techniques to analyze trends in a corpus of text messages sent in the aftermath of the earthquake in haiti
+</DOC>
+
+<DOC>
+ai and disaster management
+be introduced to the four phases of the disaster management cycle mitigation preparation response and recovery through two case studies in the first use computer vision to analyze satellite imagery from hurricane harvey in to identify damage in affected areas in the second use natural language processing techniques to explore trends in aid requests in the aftermath of the earthquake in haiti
+
+introduction to ai and disaster management
+
+welcome to ai and disaster management what is a disaster the disaster management cycle cyclones idai kenneth cyclones idai kenneth response and recovery cyclones idai kenneth mitigation and preparation ai and disaster management helping communities help themselves working toward impactful solutions data privacy and related risks getting involved and doing no harm mark belinsky misinformation and hate speech detection
+
+satellite imagery to detect disaster locations
+ungraded labs
+welcome to ai for good framework damage assessment explore phase damage assessment explore the data damage assessment explore phase checkpoint damage assessment design phase damage assessment design phase checkpoint damage assessment implement phase damage assessment wrap up shahrzad gholami damage assessment with satellite imagery
+
+analyzing text data to gain insights
+ungraded labs
+welcome to haiti earthquake topic modeling explore phase topic modeling explore the data topic modeling visualize the data topic modeling explore phase checkpoint processing text data topic modeling process text messages topic modeling latent dirichlet allocation lda topic modeling wrap up jacqueline oriscar lee fostering sustainable impact in haiti and
+</DOC>
+
+<DOC>
+ai and public health
+be introduced to the basics of artificial intelligence and machine and how they are applied in realworld scenarios in the ai for good space also be introduced to a framework for problem solving where ai is part of the solution the concludes with a case study featuring three jupyter notebook labs where create an air quality monitoring application for the city of bogot colombia
+
+introduction to ai for good
+app item
+welcome to ai for good what is ai for good the courses charles onu identifying asphyxiation in babies cries quick what is ai quick how supervised works considering the impact of your ai for good juan lavista ferres microsoft ai for good lab felipe oviedo anomaly detection in breast cancer imaging
+
+ai for good framework
+ungraded lab
+ai for good framework maternal and infant health in nigeria explore phase problem definition and stakeholders explore phase could ai add value design phase implement phase evaluate phase iva gumnishka building an ethical supply chain air quality sources of air pollution measuring air quality bogot air quality monitoring network rmcab bogot district secretariat of environment tackling air pollution air quality explore phase introduction to jupyter notebook labs air quality explore and visualize missing data air quality explore correlations air quality explore phase checkpoint
+
+air quality in bogot colombia
+ungraded labs
+air quality design and implement phases air quality establish a baseline air quality train and test a neural network air quality nearest neighbor method air quality design phase checkpoint air quality implement phase air quality wrap up tapiwa chiwewe air pollution in south africa wrap up
+</DOC>
+
+<DOC>
+ai and climate change
+start with a review of the mechanisms behind anthropogenic climate change and its impact on global temperatures and weather patterns through two case studies one using time series analysis for wind power forecasting and another using computer vision for biodiversity monitoring both case studies are examples of where ai techniques can be part of the solution when it comes to the mitigation of and adaptation to climate change
+
+introduction to ai and climate change
+ungraded lab
+welcome to ai and climate change what is climate change introduction to jupyter notebook labs global temperature change impacts of climate change ai and climate change caleb robinson siting renewable energy sources
+
+wind power forecasting
+ungraded labs
+introduction to wind power jack kelly predicting solar energy with machine ai for good framework wind power explore phase wind power explore the data wind power visualize the data wind power explore phase checkpoint wind power establish a baseline model wind power improve the baseline model wind power train a neural network model what is a sequence model wind power establish baseline forecasts wind power improve performance with sequence models wind power include wind speed forecasts wind power design phase checkpoint wind power wrap up lester mackey climate modeling and prediction
+
+monitoring biodiversity
+ungraded lab
+welcome to climate change and biodiversity monitoring biodiversity snapshot karoo biodiversity explore the data biodiversity visualize the data sara beery why monitoring biodiversity biodiversity explore phase checkpoint
+
+monitoring biodiversity loss
+ungraded labs
+welcome to convolutional neural networks and pretraining biodiversity megadetector transfer and finetuning biodiversity transfer biodiversity design phase checkpoint biodiversity implement phase biodiversity wrap up priya donti tackling climate change with machine and
+</DOC>
+
