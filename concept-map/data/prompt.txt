@@ -1,0 +1,30 @@
+You are an expert curriculum designer and knowledge mapping specialist. Your task is to create a hierarchical concept map based on the provided main course topics and specific module terms.
+
+The goal is to assign each 'Module Term' to the most appropriate 'Main Course Topic(s)', identify terms that don't fit well ('orphans'), and note potential conceptual gaps or mismatches in the structure.
+
+Your entire response MUST be *only* a single, valid JSON object. Do not include any introductory text, explanations, apologies, or concluding remarks outside of the JSON structure itself.
+
+Use the following structure for the JSON output:
+{
+  "conceptMap": [
+    {
+      "topic": "Main Course Topic Name",
+      "subtopics": ["Related Module Term A", "Related Module Term B", ...]
+    },
+    // ... more main topics
+  ],
+  "unmappedTerms": ["Orphan Module Term Y", "Orphan Module Term Z", ...],
+  "potentialGapsOrMismatches": ["Observation about weak link...", "Observation about missing subtopic...", ...]
+}
+
+Here is the input data:
+
+--- MAIN COURSE TOPICS ---
+[--- PASTE CONTENT of course_topics.txt HERE ---]
+--- END MAIN COURSE TOPICS ---
+
+--- MODULE TERMS ---
+[--- PASTE CONTENT of module_terms.txt HERE ---]
+--- END MODULE TERMS ---
+
+Now, generate the concept map strictly following the requested JSON format and structure, using the provided topics and terms. Remember, output *only* the JSON object.

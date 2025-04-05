@@ -1,0 +1,51 @@
+{
+    "conceptMap": [
+    {
+    "topic": "ai for medical diagnosis",
+    "subtopics": ["ai", "medical", "diagnostic", "imaging", "clinical", "healthcare"]
+    },
+    {
+    "topic": "advanced machine learning algorithms",
+    "subtopics": ["machine", "learning", "algorithms", "neural", "deep", "supervised", "classification"]
+    },
+    {
+    "topic": "data analysis and visualization foundations",
+    "subtopics": ["data", "analytics", "visualization", "python", "sql", "statistics", "exploratory"]
+    },
+    {
+    "topic": "cybersecurity management and compliance",
+    "subtopics": ["cybersecurity", "security", "risk", "threats", "compliance", "network", "encryption"]
+    },
+    {
+    "topic": "accounting principles of financial accounting",
+    "subtopics": ["accounting", "financial", "assets", "liabilities", "cost", "tax", "compensation"]
+    },
+    {
+    "topic": "agile project management",
+    "subtopics": ["agile", "project", "management", "team", "scrum", "devops", "iteration"]
+    },
+    {
+    "topic": "digital marketing strategy and planning",
+    "subtopics": ["digital", "marketing", "social", "content", "seo", "campaigns", "analytics"]
+    },
+    {
+    "topic": "cloud-native development with openshift and kubernetes",
+    "subtopics": ["cloud", "aws", "azure", "docker", "kubernetes", "devops", "automation"]
+    },
+    {
+    "topic": "healthcare data security privacy and compliance",
+    "subtopics": ["healthcare", "patient", "data", "privacy", "compliance", "safety", "clinical"]
+    },
+    {
+    "topic": "supply chain management and analytics",
+    "subtopics": ["supply", "chain", "logistics", "inventory", "forecasting", "optimization", "analytics"]
+    }
+    ],
+    "unmappedTerms": ["able", "bonus", "fascinating", "eye", "dig", "draft", "war", "warm", "zn", "ni"],
+    "potentialGapsOrMismatches": [
+    "No clear mapping for creative arts terms (music, game, art)",
+    "Insufficient coverage of automotive/autonomous vehicle topics despite module terms like 'cars'",
+    "Limited alignment for food/cooking-related terms like 'food', 'cooking'",
+    "Mismatch between advanced AI topics and basic module terms like 'think', 'messages'"
+    ]
+    }

@@ -1,0 +1,105 @@
+{
+  "conceptMap": [
+    {
+      "topic": "Accounting and Finance",
+      "subtopics": [
+        "Accounting Analysis I: Measurement and Disclosure of Assets",
+        "Accounting Analysis II: Accounting for Liabilities and Equity",
+        "Accounting Principles of Financial Accounting",
+        "Assets in Accounting",
+        "Cost Accounting",
+        "Corporate Finance Essentials",
+        "Corporate Finance I: Measuring and Promoting Value Creation",
+        "Corporate Finance II: Financing Investments and Managing Risk"
+      ]
+    },
+    {
+      "topic": "Artificial Intelligence and Machine Learning",
+      "subtopics": [
+        "Artificial Intelligence Algorithms, Models, and Limitations",
+        "Artificial Intelligence and Legal Issues",
+        "Artificial Intelligence Data Fairness and Bias",
+        "Artificial Intelligence Ethics in Action",
+        "Artificial Intelligence on Microsoft Azure",
+        "Machine Learning",
+        "Advanced Machine Learning Algorithms",
+        "Advanced Machine Learning on Google Cloud"
+      ]
+    },
+    {
+      "topic": "Business and Management",
+      "subtopics": [
+        "Business Analysis Fundamentals",
+        "Business Analytics",
+        "Business Strategy",
+        "Business Strategy in Practice Project-Centered",
+        "Competitive Strategy",
+        "Competitive Strategy and Organization Design"
+      ]
+    },
+    {
+      "topic": "Cloud Computing",
+      "subtopics": [
+        "Cloud Computing Foundations",
+        "Cloud Computing Law",
+        "Cloud Computing Law: Data Protection and Cybersecurity",
+        "Cloud Data Engineering",
+        "Cloud Machine Learning Engineering and MLOps"
+      ]
+    },
+    {
+      "topic": "Computer Science and Programming",
+      "subtopics": [
+        "C Programming: Getting Started",
+        "C Programming: Modular Programming and Memory Management",
+        "C Programming: Pointers and Memory Management",
+        "Algorithms",
+        "Data Structures",
+        "Computer Networks and Network Security"
+      ]
+    },
+    {
+      "topic": "Data Science and Analytics",
+      "subtopics": [
+        "Data Analysis and Visualization",
+        "Data Science",
+        "Data Science Capstone",
+        "Data Visualization",
+        "Statistical Analysis"
+      ]
+    },
+    {
+      "topic": "Healthcare and Medical Sciences",
+      "subtopics": [
+        "Anatomy",
+        "Bioinformatics",
+        "Clinical Trials Analysis, Monitoring, and Presentation",
+        "Health Informatics"
+      ]
+    },
+    {
+      "topic": "Marketing and Sales",
+      "subtopics": [
+        "Marketing Analytics",
+        "Marketing Strategy",
+        "Sales Force Design",
+        "Customer Analytics"
+      ]
+    }
+  ],
+  "unmappedTerms": [
+    "Aromatherapy: Clinical Use of Essential Oils",
+    "Becoming an EMT",
+    "Construction Cost Estimating and Cost Control",
+    "Creative Writing: The Craft of Character",
+    "Creative Writing: The Craft of Plot",
+    "Creative Writing: The Craft of Setting and Description",
+    "Creative Writing: The Craft of Style",
+    "Culinary Arts"
+  ],
+  "potentialGapsOrMismatches": [
+    "Some topics, such as 'Agile Leadership' and 'Scrum Methodology', seem to be missing from the concept map.",
+    "Some subtopics, such as 'Accounting for Mergers and Acquisitions', seem to be too specific and might be better categorized under a broader topic.",
+    "Some topics, such as 'Artificial Intelligence and Machine Learning', seem to be too broad and might be better broken down into more specific subtopics."
+  ]
+}

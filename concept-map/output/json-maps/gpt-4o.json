@@ -1,0 +1,151 @@
+{
+    "conceptMap": [
+      {
+        "topic": "accounting analysis i measurement and disclosure of assets",
+        "subtopics": ["accounting", "asset"]
+      },
+      {
+        "topic": "advanced data visualization with tableau",
+        "subtopics": ["visualization", "tableau"]
+      },
+      {
+        "topic": "ai for medicine",
+        "subtopics": ["ai", "medicine"]
+      },
+      {
+        "topic": "android app development",
+        "subtopics": ["android", "app", "development"]
+      },
+      {
+        "topic": "big data modeling and management systems",
+        "subtopics": ["big", "data", "modeling", "systems"]
+      },
+      {
+        "topic": "cloud data engineering",
+        "subtopics": ["cloud", "data", "engineering"]
+      },
+      {
+        "topic": "deep learning",
+        "subtopics": ["deep", "learning"]
+      },
+      {
+        "topic": "introduction to algorithms",
+        "subtopics": ["algorithms", "introduction"]
+      },
+      {
+        "topic": "machine learning",
+        "subtopics": ["machine", "learning"]
+      },
+      {
+        "topic": "marketing analytics foundation",
+        "subtopics": ["marketing", "analytics"]
+      },
+      {
+        "topic": "medical terminology",
+        "subtopics": ["medical", "terminology"]
+      },
+      {
+        "topic": "python for everybody",
+        "subtopics": ["python"]
+      },
+      {
+        "topic": "reinforcement learning",
+        "subtopics": ["reinforcement", "learning"]
+      },
+      {
+        "topic": "sql for data science",
+        "subtopics": ["sql", "data", "science"]
+      },
+      {
+        "topic": "web design for everybody basics of web development coding",
+        "subtopics": ["web", "design", "coding", "development"]
+      }
+    ],
+    "unmappedTerms": [
+      "able",
+      "activation",
+      "ad",
+      "adaptive",
+      "ads",
+      "alignment",
+      "amazon",
+      "american",
+      "analog",
+      "analyst",
+      "analysts",
+      "anatomy",
+      "animation",
+      "annual",
+      "apache",
+      "apis",
+      "applications",
+      "apps",
+      "arguments",
+      "artificial",
+      "assessment",
+      "audio",
+      "auto",
+      "automated",
+      "automation",
+      "autonomous",
+      "aws",
+      "azure",
+      "balance",
+      "bb",
+      "benefits",
+      "bias",
+      "biases",
+      "blockchain",
+      "board",
+      "boards",
+      "body",
+      "bonus",
+      "brand",
+      "branding",
+      "brands",
+      "building",
+      "buyers",
+      "camera",
+      "campaigns",
+      "cancer",
+      "capital",
+      "capstone",
+      "care",
+      "cars",
+      "case",
+      "cases",
+      "cell",
+      "cells",
+      "center",
+      "certification",
+      "chain",
+      "change",
+      "channels",
+      "chapter",
+      "characters",
+      "chart",
+      "charts",
+      "check",
+      "children",
+      "chronic",
+      "class",
+      "classes",
+      "classification",
+      "classmates",
+      "clients",
+      "climate",
+      "clinical",
+      "cluster",
+      "clustering",
+      "code",
+      "collection",
+      "color",
+      "commands"
+    ],
+    "potentialGapsOrMismatches": [
+      "Terms like 'data', 'ai', and 'machine' map to many topics and may reduce clarity in mapping.",
+      "Common language terms such as 'able', 'case', and 'code' appear too vague for meaningful alignment.",
+      "Modules covering 'blockchain', 'aws', and 'azure' do not map clearly, suggesting missing or overly broad topic categories."
+    ]
+  }
+  

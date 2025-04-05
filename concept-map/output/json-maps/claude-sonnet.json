@@ -1,0 +1,52 @@
+{
+    "conceptMap": [
+    {
+    "topic": "data science and analytics",
+    "subtopics": ["data", "analytics", "analysis", "big", "mining", "visualization", "machine", "learning", "algorithms", "statistical", "predictive", "modeling", "python", "r", "sql", "tableau", "excel", "descriptive", "exploratory", "regression", "classification", "clustering", "neural", "deep", "ai", "artificial", "intelligence"]
+    },
+    {
+    "topic": "business and management",
+    "subtopics": ["business", "management", "strategic", "strategy", "leadership", "organizational", "marketing", "sales", "finance", "accounting", "economics", "entrepreneurship", "consulting", "project", "agile", "operations", "supply", "chain", "retail", "customer", "stakeholder", "decision", "decisionmaking"]
+    },
+    {
+    "topic": "technology and computing",
+    "subtopics": ["programming", "code", "software", "web", "cloud", "aws", "azure", "google", "devops", "cybersecurity", "security", "network", "database", "databases", "api", "apis", "git", "github", "linux", "windows", "mobile", "app", "apps", "infrastructure", "computing"]
+    },
+    {
+    "topic": "healthcare and medicine",
+    "subtopics": ["health", "healthcare", "medical", "clinical", "patient", "anatomy", "disease", "treatment", "drug", "cancer", "nursing", "palliative", "care"]
+    },
+    {
+    "topic": "design and user experience",
+    "subtopics": ["design", "ux", "ui", "user", "experience", "interface", "usability", "prototype", "wireframe", "visual", "graphic", "interactive"]
+    },
+    {
+    "topic": "education and learning",
+    "subtopics": ["teaching", "learning", "education", "students", "school", "courses", "training", "certification", "academic"]
+    },
+    {
+    "topic": "financial services",
+    "subtopics": ["financial", "investment", "investing", "portfolio", "risk", "banking", "insurance", "tax", "accounting", "capital", "assets", "equity", "credit"]
+    },
+    {
+    "topic": "digital marketing",
+    "subtopics": ["marketing", "digital", "social", "content", "advertising", "brand", "branding", "ecommerce", "seo", "campaigns", "media"]
+    },
+    {
+    "topic": "engineering and manufacturing",
+    "subtopics": ["engineering", "manufacturing", "design", "industrial", "production", "quality", "mechanical", "electrical", "process", "product"]
+    },
+    {
+    "topic": "communication and soft skills",
+    "subtopics": ["communication", "presentation", "writing", "speaking", "negotiation", "conflict", "resolution", "teamwork", "leadership", "interpersonal"]
+    }
+    ],
+    "unmappedTerms": ["capstone", "case", "lab", "project", "introduction", "advanced", "foundation", "fundamentals", "practitioner", "specialist", "professional", "manager", "engineer", "scientist", "analyst", "developer", "consultant", "certification", "exam", "assessment", "review", "test", "assignment", "milestone", "module"],
+    "potentialGapsOrMismatches": [
+    "Many terms are generic and could fit into multiple categories (e.g., 'project', 'advanced', 'introduction')",
+    "Role-based terms (analyst, engineer, etc.) don't map cleanly to subject areas",
+    "Missing dedicated categories for emerging fields like blockchain, IoT, and renewable energy",
+    "Assessment and certification-related terms form their own category but aren't subject matter",
+    "The main course topics are much more specific than the module terms, creating a mismatch in granularity"
+    ]
+    }
