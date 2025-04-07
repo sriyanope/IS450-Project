@@ -51,14 +51,23 @@ def create_and_save_network_visualization(nodes_csv_path, edges_csv_path, output
     print(f"Graph created with {G.number_of_nodes()} nodes and {G.number_of_edges()} edges.")
 
     # 3. Prepare Visual Properties
-    print("Calculating layout...")
-    k_val = 0.9 / math.sqrt(G.number_of_nodes()) if G.number_of_nodes() > 0 else 0.1
+    # print("Calculating layout...")
+    # k_val = 0.3 / math.sqrt(G.number_of_nodes()) if G.number_of_nodes() > 0 else 0.1
+    # try:
+    #     pos = nx.spring_layout(G, k=k_val, iterations=50, seed=42)
+    #     print("Layout calculated.")
+    # except Exception as e:
+    #      print(f"Error during layout calculation: {e}. Using random layout.")
+    #      pos = nx.random_layout(G, seed=42)
+    print("Calculating Kamada-Kawai layout...")
     try:
-        pos = nx.spring_layout(G, k=k_val, iterations=50, seed=42)
+        pos = nx.kamada_kawai_layout(G)
         print("Layout calculated.")
-    except Exception as e:
-         print(f"Error during layout calculation: {e}. Using random layout.")
-         pos = nx.random_layout(G, seed=42)
+    except Exception as e: 
+        # Fallback if kamada_kawai fails
+        print(f"Kamada-Kawai failed: {e}. Using spring_layout as fallback.")
+        k_val = 0.5 / math.sqrt(G.number_of_nodes()) if G.number_of_nodes() > 0 else 0.1
+        pos = nx.spring_layout(G, k=k_val, iterations=75, seed=42)
 
     color_map = {'Main Topic': 'skyblue', 'Subtopic': 'lightgreen', 'Unmapped': 'salmon'}
     node_colors = [color_map.get(G.nodes[node].get('type', 'Unknown'), 'gray') for node in G.nodes()]
@@ -76,7 +85,7 @@ def create_and_save_network_visualization(nodes_csv_path, edges_csv_path, output
     plt.figure(figsize=(25, 25))
     nx.draw_networkx_edges(G, pos, alpha=0.2, edge_color="gray")
     nx.draw_networkx_nodes(G, pos, node_color=node_colors, node_size=node_sizes, alpha=0.9)
-    nx.draw_networkx_labels(G, pos, labels=labels, font_size=8, font_color="black")
+    nx.draw_networkx_labels(G, pos, labels=labels, font_size=10, font_color="black")
     plt.title(f"Concept Map Visualization ({model_name})", size=20)
     plt.axis('off')
 
