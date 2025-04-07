@@ -1,0 +1,4 @@
+program_id,course_title,url,learning_objective,max_similarity,best_match_content,is_covered
+455,Business Analysis Fundamentals,https://www.coursera.org/learn/business-analysis-fundamentals,Gain an understanding of basic concepts and principles of business analysis.,0.63880545,Course Introduction: Business analysis fundamentals,True
+455,Business Analysis Fundamentals,https://www.coursera.org/learn/business-analysis-fundamentals,Learn to explain the role of a business analyst within an organization.,0.73265874,What is the role of a Business Analyst?,True
+455,Business Analysis Fundamentals,https://www.coursera.org/learn/business-analysis-fundamentals,Identify and analyze business problems and stakeholders in a project.,0.5141117,Types of Business Analysis Problems,True
