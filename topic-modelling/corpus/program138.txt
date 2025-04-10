@@ -11,77 +11,86 @@ learners will complete quizzes in each of the courses in order to test their und
 integral calculus and numerical analysis for data science
 are you interested in data science but lack the math background for it has math always been a tough subject that you tend to avoid this will provide an intuitive understanding of foundational integral calculus including integration by parts area under a curve and integral computation it will also cover rootfinding methods matrix decomposition and partial derivatives
 this is designed to prepare learners to successfully complete statistical modeling for data science application which is part of cu boulders master of science in data science msds logo courtesy of thisisengineering raeng on unsplashcom
-
-area under the curve
+</DOC>
+<DOC>area under the curve
 explore the notion of area under a curve how that relates to the integral and compute basic integrals
 integrals and area under the curve fundamental theorem of calculus and computing simple integrals computing area bounded by lines and curves indefinite integrals integration by parts
+</DOC>
 
-numerical analysis intro
+<DOC>numerical analysis intro
 introduction to numerical analysis using rootfinding methods
 rootfinding using bisection method rootfinding using newtons method
+</DOC>
 
-diagonalization svd
+<DOC>diagonalization svd
 explore general matrix decomposition as as a specialized and useful version called singular value decomposition
 diagonalization introduction diagonalization diagonalization example x symmetric matrix diagonalization of symmetric matrix x singular value decomposition singular value decomposition example
+</DOC>
 
-partial derivatives steepest descent
+<DOC>partial derivatives steepest descent
 a core calculus concept called partial derivatives as as delving into directional derivatives and their usefulness in higher level statistics
 partial derivatives introduction partial derivatives examples part i partial derivatives examples part ii directional derivatives with example gradient vectors steepest descent
 </DOC>
-
 <DOC>
 algebra and differential calculus for data science
 are you interested in data science but lack the math background for it has math always been a tough subject that you tend to avoid this will teach you the most fundamental calculus concepts that need for a in data science without a ton of unnecessary proofs and techniques that you may never use consider this an expressway to data science with approachable methods and friendly concepts that will guide you to truly understanding the most important ideas in differential calculus review some algebra basics talk about what a derivative is compute some simple derivatives and apply the basics of derivatives to graphing and maximizing functions
 this is designed to prepare learners to successfully complete statistical modeling for data science application which is part of cu boulders master of science in data science msds logo courtesy of thisisengineering raeng on unsplashcom
-
-functions and algebra review
+</DOC>
+<DOC>functions and algebra review
 review of algebra concepts including functions and logarithms
 what is a function algebraically and graphically domain and range piecewise functions what can you do to a function multiplying binomials rationalizing denominators exponent rules logarithms applications of logarithms
+</DOC>
 
-induction proofs limits and continuity
+<DOC>induction proofs limits and continuity
 simple induction proofs and limits at infinity for functions
 proof by induction limits at infinity limits at a specific point continuity of a function
+</DOC>
 
-definition of a derivative
+<DOC>definition of a derivative
 what is a derivative calculate simple derivatives from the definition of a derivative
 intro to derivatives derivative of a simple function derivative of an exponential function derivative of a constant
+</DOC>
 
-product and chain rule
+<DOC>product and chain rule
 use the product and chain rules to calculate the derivatives of more complicated functions
 product rule part product rule part quotient rule chain rule
+</DOC>
 
-using derivatives to graph functions
+<DOC>using derivatives to graph functions
 use where derivatives are positive and negative to help graph a function
 using the derivative to graph functions finding concavity with the second derivative comparing the graphs of fx and fx graphing functions a more complicated example
+</DOC>
 
-finding maximums and minimums
+<DOC>finding maximums and minimums
 use derivatives to find the maximum and minimum values of functions
 maxima and minima of functions applications of maxima and minima graphing using maxima and minima rate of change
 </DOC>
-
 <DOC>
 essential linear algebra for data science
 are you interested in data science but lack the math background for it has math always been a tough subject that you tend to avoid this will teach you the most fundamental linear algebra that need for a in data science without a ton of unnecessary proofs and concepts that you may never use consider this an expressway to data science with approachable methods and friendly concepts that will guide you to truly understanding the most important ideas in linear algebra
 this is designed to prepare learners to successfully complete statistical modeling for data science application which is part of cu boulders master of science in data science msds logo courtesy of dancristian pdure on unsplashcom
-
-linear systems and gaussian elimination
+</DOC>
+<DOC>linear systems and gaussian elimination
 what a matrix is and what it represents explore how a system of linear equations can be expressed in a neat package via matrices lastly delve into coordinate systems and provide visualizations to help you understand matrices in a more wellrounded way
 introduction to the linear system and definition three solution options and coordinate system visualization linear system matrix coefficient and augmented rules of ge and solving a linear system ge intuition and simple example ge example single solution part ge example single solution part ge example single solution part meaning ge example infinite solutions ge example no solutions ge advanced example part ge advanced example part
+</DOC>
 
-matrix algebra
+<DOC>matrix algebra
 how to solve a linear system of equations with matrix algebra
 matrix algebra sum matrix algebra scale identity matrix multiplication small example matrix multiplication general rules matrix multiplication example identity matrix example
+</DOC>
 
-properties of a linear system
+<DOC>properties of a linear system
 explore concepts and properties of linear systems this includes independence basis rank row space column space and much more
 introduction to vectors coordinates introduction to linear combinations linear combinations linear combinations example span span example ax b linear independence linear independence example part linear independence example part columns of a matrix being linearly independent linear transformations linear transformations example matrix inverse matrix inverse example
+</DOC>
 
-determinant and eigens
+<DOC>determinant and eigens
 discuss projections and how they build on a foundation using dimensional projections and explore the concept in higher dimensions over time
 determinant intro and x example inverse of x matrix quick method determinant of x matrix determinant of x matrix example with st row determinant of x matrix example with nd row eigenvalue and eigenvector finding eigenvector if given eigenvalue characteristic polynomic finding eigenvalues
+</DOC>
 
-projections and least squares
+<DOC>projections and least squares
 how to compute the determinant of a matrix afterwards eigenvalues and eigenvectors will be covered
 transpose and inner dot product norm length of a vector unit vector creation distance between two vectors orthogonal vectors orthogonal projections part i orthogonal projections part ii least squares least squares example
 </DOC>
-

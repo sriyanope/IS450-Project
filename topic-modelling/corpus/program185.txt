@@ -9,104 +9,118 @@ throughout this practice and perform various guitar techniques and including sca
 guitar scales and chord progressions
 youve got the guitar basics down you can strum your guitar and play a few of your favorite songs but youre ready to take the tunes to the next level in guitar scales and chord progressions expand your knowledge of scales chord fingerings and common chord progressions also important for soloing creating melodies and adding depth and dimension to your guitar playing
 this is not only for the aspiring guitarist who has taken berklees guitar for beginners but also for guitarists who have let their sixstring gather dust for too long and want to brush up on techniques each lesson covers the four basic aspects need to sharpen your guitar chops scales arpeggios chord progressions and rhythm amandas practical approach to learning these important elements is fun and helps you to use what youre learning and practicing in a real musical setting improve your playing and creativity whether it be as a singersongwriter a guitarist accompanying a singer or a player in the band by the end of this be more comfortable playing throughout the neck and gain a better understanding of chord structure and how each chord relates to tonal centers or keys also be able to solo and improvise by playing simple lead guitar lines based on the minor pentatonic scale whether your preference is for acoustic or electric the curriculum is designed to turn you into a real guitarist
-
-welcome to guitar scales and chord progressions
+</DOC>
+<DOC>welcome to guitar scales and chord progressions
 welcome to guitar scales and chord progressions here cover all the details about the and what need to know to get the most out of your
+</DOC>
 
-scales
+<DOC>scales
 lesson be learning and practicing the pentatonic scale first the b pentatonic scale then the b pentatonic scale and then how to play the scale on one string also on improvising using a single string finally practice playing scales in a moveable open position
 what lesson the b pentatonic scale the b pentatonic scale the major scale and improvising on one string the pentatonic scale on one string playing a scale in a moveable open position putting it all together
+</DOC>
 
-arpeggios
+<DOC>arpeggios
 this lesson be working with arpeggios which means playing the notes in a chord one at a time be learning and practicing major minor diminished and augmented arpeggiated chords
 what lesson major arpeggios minor arpeggios diminished arpeggios augmented arpeggios putting it all together
+</DOC>
 
-chords and progressions
+<DOC>chords and progressions
 lesson begin practicing chords and popular chord progressions also begin practicing these progressions with both open and barre chords
 what lesson i iv v and i v iv i vi ii v and i vi iv v i v vi iv the bar blues putting it all together
+</DOC>
 
-rhythm
+<DOC>rhythm
 final lesson focus on arpeggiated chords and playing them in different rhythms also practice blues scales and finally put all of these aspects together
 what lesson rhythm and blues scales arpeggios with rhythm strumming patterns with chords arpeggios and chords putting it all together review
 </DOC>
-
 <DOC>
 guitar chord voicings playing up the neck
 many beginning guitarists have learned the basics of open and movable chord shapes but want to further expand this chord knowledge how to construct and play triads and basic th chords start by creating major and minor triad inversions and move on to power chords drop voicings and how to substitute common chords to create a richer harmonic for listeners throughout the focus on the notes that chords are made up of rather than the shape of individual chords with this knowledge be able to create inversions and different chord voicings up and down and across the entire fretboard of the guitar thus unlocking new ways of playing the guitar
-
-welcome to guitar chord voicings playing up the neck
+</DOC>
+<DOC>welcome to guitar chord voicings playing up the neck
 welcome to the here cover all the details about the and what need to know to get the most out of your
+</DOC>
 
-triad inversions
+<DOC>triad inversions
 lesson how to rearrange the notes in a triad to create inversions inversions can be difficult to conceptualize on the guitar since the same pitch can be found on different frets and different strings to make this concept as easy as possible by inverting triads from the high strings to low and from the lower range of the neck up to the higher frets the more you know about chords on the guitar the larger the number of options for you to use
 lesson technique tips triad inversions up the fretboard minor triad inversions up the fretboard part minor triad inversions up the fretboard part triad inversions across the fretboard
+</DOC>
 
-barre and power chords
+<DOC>barre and power chords
 power chords and barre chords represent a huge amount of the vocabulary used by guitarists in rock and pop music although they may be a bit tough on your fretting fingers at first the many applications of these shapes make the effort worthwhile lesson cover various exercises that will give you greater facility and command of these chords
 lesson power chords big sound two tones grooving with a backing track
+</DOC>
 
-seventh chords drop
+<DOC>seventh chords drop
 there are several ways to new voicing shapes on the guitar drop is a term used at berklee to describe a configuration of chord tones pleasing to the ear and more importantly to guitarists relatively easy to execute on the fretboard its the best way to play seventh chords on four consecutive strings this lesson is going to give you plenty of practice in creating new voicing shapes on the fretboard and will help you develop the ability to play various seventh chords in all keys
 lesson drop voicings four adjacent strings drop chord qualities
+</DOC>
 
-chord substitutions diatonic chords and gospel chords
+<DOC>chord substitutions diatonic chords and gospel chords
 weve learned many guitar voicings for triads and seventh chords this lesson will help you to solidify your grasp of drop seventh chords also explore some new ways of using what weve already learned finally look at how to substitute chords using a standard lead sheet
 lesson technique tips iiimin over imaj in all keys gospel chords
 </DOC>
-
 <DOC>
 guitar for beginners
 grasp the essentials needed to begin playing acoustic or electric guitar an easy approach to get you playing quickly through a combination of exploring the instrument performance technique and basic music theory
 for students who have long thought about picking up the acoustic or electric guitar this will provide an easyaccess foundation that will get you playing when first learning guitar it is important to have the material presented in stages in an enjoyable way that allows you to grasp the basics of the instrument and music the begins simply with the parts of the guitar the names of the strings tuning and techniquewhether fingerstyle or pick it then explores the basics of music theory with such topics as scales triads power chords and fingering and shapes at the end of this students will understand the structure parts and accessories of the instrument in addition to an understanding of its basic maintenance electric guitar players will the operation of their instrument along with basic options for amplification effect pedals and sounds students will also to develop correct technique and apply theory concepts to their playing they will have the foundational knowledge necessary to pursue most intermediate guitar courses
-
-welcome to introduction to guitar
+</DOC>
+<DOC>welcome to introduction to guitar
 welcome to guitar for beginners before you begin the cover all the details about the and what need to know to get the most out of your berklee massive online
+</DOC>
 
-acoustic electric guitar and the basics
+<DOC>acoustic electric guitar and the basics
 first lesson take things slow focus on how to choose the right guitar for you and what accessories are essential for any guitar player also the parts of the guitar and get you comfortable with your instrument
 choosing acoustic or electric guitar choosing the right guitar righthanded vs lefthanded essential accessories for acoustic guitar essential accessories for electric guitar parts of the guitar electric chord block diagrams and fretboard maps a minor and e major chords
+</DOC>
 
-getting started fundamental guitar
+<DOC>getting started fundamental guitar
 lesson how to tune and start playing your instrument from the ground up be patient and remember focus on being accurate and play in consistent time with your metronome these things are far more important than playing with speed
 string names and numbers tuning your guitar with a tuner tuning your guitar by matching tuning your guitar with harmonics picking technique finger picking strumming the guitar
+</DOC>
 
-the twelve half steps and basic notation
+<DOC>the twelve half steps and basic notation
 while you dont need to be an expert on music theory to play guitar it is important to know the basic building blocks of music with this understanding music will no longer be shrouded in mystery or complexity this lesson presents fundamental musical ideas in a fun nonintimidating way
 twelve frets and twelve half steps notes on the fretboard rhythm basics music notation and tablature
+</DOC>
 
-scales construction and fingerings
+<DOC>scales construction and fingerings
 lesson dig into scales dont be intimidated some of you may have heard of or practiced scales it might have been during piano lessons most likely it wasnt very exciting for you hopefully find the approach to scales in lesson much easier and even fun
 position playing the chromatic scale on a single string the chromatic scale in first position the chromatic scale in other positions major scales more on major scales
+</DOC>
 
-chords building easy triads and power chords
+<DOC>chords building easy triads and power chords
 lesson use all of the youve gained from the previous lessons to build the foundation of harmony play certain scale notes at the same time to create chords lets look at why chords sound like they do how to build them how to easily play chords in open position and how to play chords that you can move all around the neck
 major triad chords minor triad chords barre chords power chords reading chord charts playing chords exercise example
+</DOC>
 
-putting it all together the pentatonic scale and songs
+<DOC>putting it all together the pentatonic scale and songs
 now that you have the science of the guitar in your fingers a couple of songs do this by using melody from the scales and harmony from the chords we have learned also an essential scale for playing melodies and soloing
 what is the pentatonic scale soloing with the pentatonic scale essential electric guitar effects and amplification pentatonic song blue guitar blues jp lullaby
 </DOC>
-
 <DOC>
 guitar performance techniques
 your favorite guitarist didnt become your favorite guitarist without the support of other musicians the most important for a guitarist to is the exact same that was so important in kindergarten playing with others guitar performance techniques gives guitarists the essential and practical to play with others in any ensemble situation this begins with daily warmup techniques that help you prepare for rehearsals jam sessions and stage performances from there explore chords time accuracy tone production ear training and the many aspects of jamming with other musicians upon successful completion of this be able to confidently interact with other musicians in a group setting and bring your agame to any jam session you join
-
-welcome to guitar performance techniques
+</DOC>
+<DOC>welcome to guitar performance techniques
 welcome to the here cover all the details about the and what need to know to get the most out of your
-
-warming up
-lesson we begin by learning how to warm up for a rehearsal or performance warming up effectively is essential to play your best and find that it will enhance all of your in an ensemble setting it will help you to play more relaxed get a better tone improve your time intonation articulation and allow you to focus on listening
-warming up your mind and visualizing warming up your body warming up your picking hand warming up your fretting hand synchronizing your picking and fretting hands warming up in tempo minor triad arpeggios warming up in tempo major augmented and diminished arpeggios
-
-developing your ears
-this lesson focuses on the needed to develop good ears musicians who develop good ears are able to adapt to any musical situation even when they do not know the song key or form go over exercises to improve our ears and practice learning melodies and identifying chords by ear
-transcribing phrases by ear transcribing chords by ear
-
-tone production essentials developing your touch on the guitar
-this lesson will focus on key elements to develop your unique and personal sound on the guitar discuss how the pick can be used to adjust four essential elements of your guitar sound timbre dynamics note duration and intonation these four essential elements when practiced with focus will take you on the path to having a great touch and unique approach to sound and tone
-timbre dynamics note duration playing in tune vibrato
-
-performance preparation
-lesson prepare for a performance being prepared for a rehearsal or gig can help to create a relaxed atmosphere and better overall performance discuss developing a performance checklist as the importance of knowing your gear finally highlight the importance of listening and blending on stage
 </DOC>
 
+<DOC>warming up
+lesson we begin by learning how to warm up for a rehearsal or performance warming up effectively is essential to play your best and find that it will enhance all of your in an ensemble setting it will help you to play more relaxed get a better tone improve your time intonation articulation and allow you to focus on listening
+warming up your mind and visualizing warming up your body warming up your picking hand warming up your fretting hand synchronizing your picking and fretting hands warming up in tempo minor triad arpeggios warming up in tempo major augmented and diminished arpeggios
+</DOC>
+
+<DOC>developing your ears
+this lesson focuses on the needed to develop good ears musicians who develop good ears are able to adapt to any musical situation even when they do not know the song key or form go over exercises to improve our ears and practice learning melodies and identifying chords by ear
+transcribing phrases by ear transcribing chords by ear
+</DOC>
+
+<DOC>tone production essentials developing your touch on the guitar
+this lesson will focus on key elements to develop your unique and personal sound on the guitar discuss how the pick can be used to adjust four essential elements of your guitar sound timbre dynamics note duration and intonation these four essential elements when practiced with focus will take you on the path to having a great touch and unique approach to sound and tone
+timbre dynamics note duration playing in tune vibrato
+</DOC>
+
+<DOC>performance preparation
+lesson prepare for a performance being prepared for a rehearsal or gig can help to create a relaxed atmosphere and better overall performance discuss developing a performance checklist as the importance of knowing your gear finally highlight the importance of listening and blending on stage
+</DOC>

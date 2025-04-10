@@ -8,105 +8,119 @@ learners will be given the to apply the they with several projects for example l
 <DOC>
 armvm architecture fundamentals
 the includes fundamental architecture topics that are key to understanding how any cortexm processor functions internally the focuses specifically on the armvm version of the arm architecture which processors like the cortexm and cortexm are based on however even if youre working with older processors based on earlier versions of the architecture like armvm or armvm a lot of the information is mostly still very relevant and useful
-
-introduction
+</DOC>
+<DOC>introduction
 the includes fundamental architecture topics that are key to understanding how any cortexm processor functions internally the focuses specifically on the armvm version of the arm architecture which processors like the cortexm and cortexm are based on however even if youre working with older processors based on earlier versions of the architecture like armvm or armvm a lot of the information is mostly still very relevant and useful
+</DOC>
 
-programmers model
+<DOC>programmers model
 this is an essential foundation for any armvm mainline implementation training it introduces the programmers model for the armvm architecture
 a brief history of mprofile architecture armvm profile part armvm profile part data types core registers armvm mainline registers core registers stack pointer link register and counter specialpurpose registers part specialpurpose registers part modes privilege and stacks exceptions instruction set part instruction set part instruction set examples programming standards programming standards cmsis part programming standards cmsis part
+</DOC>
 
-assembly programming
+<DOC>assembly programming
 this is an essential foundation for any armvm mainline implementation it introduces the syntax and functionality of the assembly instructions used on all armvm processors which is crucial for configuration and debugging
 introduction to assembly programming part introduction to assembly programming part introduction to assembly programming part introduction to assembly programming quiz data processing instructions part data processing instructions part shift and rotate operations flexible second operand loading constants into registers multiply divide and bit manipulation instructions data processing instructions quiz loadstore instructions part loadstore instructions part loadstore instructions part loadstore instructions quiz flow control instructions part flow control instructions part flow control instructions quiz miscellaneous instructions part miscellaneous instructions part miscellaneous instructions quiz arm custom instructions part arm custom instructions part
+</DOC>
 
-memory model
+<DOC>memory model
 this is an essential foundation for any armvm mainline implementation training it introduces the memory model for the armvm architecture
 memory address space part memory address space part memory types normal memory part normal memory part device memory part device memory part address map endianness barriers barriers examples
+</DOC>
 
-memory protection
+<DOC>memory protection
 this is an optional with the following learning objectives of describing the need for a memory protection unit mpu understanding how the armvm mpu differs to previous armvm and armm mpus describing the different memorymapped mpu registers configuring memory regions by programming the mpu registers explaining how to optimise mpu programming
 memory protection introduction memory protection unit mpu memory regions mpu registers part mpu registers part mpu configuration and programming demo memory management fault handling
+</DOC>
 
-exception handling
+<DOC>exception handling
 this is an essential foundation for any armvm mainline implementation training it introduces the exception handling model for the armvm architecture
 introduction to exception handling part introduction to exception handling part exception types processor mode usage external interrupts preemption exception handling example exception model properties vector table for armvm mainline reset exception behavior exception priorities exception states exception entry behavior part exception entry behavior part stacking on exception entry part stacking on exception entry part exception return behavior nmi exception entry and return examples nesting tail chaining and latearriving examples execution priority priority boosting new armvm mainline priority grouping interrupt control and status bits interrupt sensitivity pulsesensitive interrupts levelsensitive interrupts pending the interrupt again cmsiscore vector table writing interrupt handlers interrupt management internal exceptions part internal exceptions part priority escalation internal interrupt registers fault exceptions fault escalation fault handling the lockup state synchronous and asynchronous exceptions references congratulations
 </DOC>
-
 <DOC>
 advanced armvm features
 the final covers more advanced and optional features that might be configured in a cortexm system these features could help with particular project requirements such as security and performance not all of these topics might be relevant for any given cortexm project so feel free to pick and choose which topics if any apply to you
-
-introduction
+</DOC>
+<DOC>introduction
 the final covers more advanced and optional features that might be configured in a cortexm system these features could help with particular project requirements such as security and performance not all of these topics might be relevant for any given cortexm project so feel free to pick and choose which topics if any apply to you
+</DOC>
 
-synchronization
+<DOC>synchronization
 this describes the mechanism in the armvm architecture to to share resources like peripherals between different threads and processors in an mprofile system
 introduction the exclusive monitor examples of lock unlock and multithread mutex noncoherent multiprocessor part noncoherent multiprocessor part examples of multiprocessor mutex memory ordering
+</DOC>
 
-cache management
+<DOC>cache management
 this is aimed to be a toplevel on caches for mprofile systems that covers fundamental cache terminology all the way through to configuring and utilising the cache for improved performance in mprofile systems involving more complex implementations like cortexm and cortexm
 what is a cache how is a cache accessed how is a cache populated direct mapped cache set associative cache cache terminology cortexm and cortexm caches level caches data cache policies caching and memory attributes part data cache policies caching and memory attributes part cache coherency l memory system buffers point of coherency and point of unification cache maintenance operations initializing and enabling l caches cache discovery code what should i cache nondeterministic cache behavior cache optimizations error correcting code for caches
+</DOC>
 
-dsp extension
+<DOC>dsp extension
 the dsp extension is an optional feature for armvm mainline implementations that allows allows dsp operations to be executed by a dedicated instructions
 dsp part dsp part dsp extension instruction set part dsp extension instruction set part dsp tools and library support
+</DOC>
 
-floatingpoint extension
+<DOC>floatingpoint extension
 the floatingpoint extension is an optional feature for armvm mainline implementations that allows allows floatingpoint operations to be executed by a dedicated floatingpoint unit fpu hardware
 floatingpoint extension dataprocessing floatingpoint registers floatingpoint status and control register floatingpoint default status control register floatingpoint context control r enabling the fpu floatingpoint instructions floatingpoint exceptions exception handling floatingpoint context control lazy context save interaction with security extension
+</DOC>
 
-systick timer extension
+<DOC>systick timer extension
 this is about the systick timer which is mandatory in armvm and armvm mainline implementations and optional in armvm and armvm baseline implementations
 the systick timer systick operation using cmsis for systick
+</DOC>
 
-security extension trustzone for armm
+<DOC>security extension trustzone for armm
 this is about the optional security extension in armvm mainline implementations the security extension is also an option for armvm baseline implementations
 armvm security extension memory security secure and nonsecure views of the system control space sau configuration function calls calling nonsecure code from secure code calling secure code from nonsecure code toolchain support interrupts and exceptions taking an exception
+</DOC>
 
-pacbti extension
+<DOC>pacbti extension
 this describes the pointer authentication code pac and branch target identification bti extension introduced as a part of armvm architecture
 introduction to pacbti extension part introduction to pacbti extension part pointer authentication code pac pac generation cryptographic keys pac operations pointer authentication in use branch target identification bti bti across security states bti with pac and with implied branches debugging pac and bti
+</DOC>
 
-mprofile vector extension mve
+<DOC>mprofile vector extension mve
 this is an essential foundation for mve training it introduces the story architecture features software and tools support for mve
 mve vector extension operation vector register file mve features lanes mve features beats exception state loop tail predication describe why arm introduced mve to the armvm architecture vpt predication summarize the main features of mve interleaving and deinterleaving loads and stores part interleaving and deinterleaving loads and stores part how to use mve cmsisdsp and cmsisnn libraries automatic vectorization intrinsics part intrinsics part congratulation
 </DOC>
-
 <DOC>
 arm cortexm processors
 this is designed for anyone wishing to about the range of cortexm processors and the different resources that can help you with your cortexm project the begins with a bit of history about arm processors and the arm architecture covering the differences between the mprofile and other architecture profiles like aprofile and rprofile this is suitable for beginners or people without an engineering or computer science background the introductory material also sets the scene for the courses and
-
-introduction to the arm cortexm architecture and software development
+</DOC>
+<DOC>introduction to the arm cortexm architecture and software development
 this is an introduction for students undertaking the
 welcome objectives
+</DOC>
 
-arm cortexm processors
+<DOC>arm cortexm processors
 this is designed for anyone wishing to about the range of cortexm processors and the different resources that can help you with your cortexm project the begins with a bit of history about arm processors and the arm architecture covering the differences between the mprofile and other architecture profiles like aprofile and rprofile this is suitable for beginners or people without an engineering or computer science background the introductory material also sets the scene for the courses and
 introduction to the cortexm processors arm introduction part arm introduction part arm introduction part arm resources and support part arm resources and support part cortexm armvm cortex processors armvm cortex processors part armvm cortex processors part armvm cortex processors part armvm cortex processors part processor selection end of message
 </DOC>
-
 <DOC>
 cortexm software development fundamentals
 this delves into software development topics such as working with arm cc compilers and arm debug tools to optimize your software whether its for performance or code size this also looks more closely at the common microcontroller software interface standard and how it helps ensure that software targeted at cortexm devices can be written using a consistent approach
-
-introduction
+</DOC>
+<DOC>introduction
 this delves into software development topics such as working with arm cc compilers and arm debug tools to optimize your software whether its for performance or code size this also looks more closely at the common microcontroller software interface standard and how it helps ensure that software targeted at cortexm devices can be written using a consistent approachthis describes the essential compiler and linker options required in order to develop applications targeted at different arm embedded systems the presentation includes information about arm compiler for embedded and the gnu toolchain
+</DOC>
 
-compiler linker fundamentals
+<DOC>compiler linker fundamentals
 
 building a project compiler support for arm architecture functional safety introduction to arm compiler language support variable types c support procedure call standard for the arm architecture aapcs parameter passing part parameter passing part optimization level algorithms selecting a target mixing cc with assembly part mixing cc with assembly part linker and optimization targeting your systems memory map scatterloading libraries linker diagnostics arm compiler troubleshooting gnu toolchain arm compiler appendix
+</DOC>
 
-debug trace
+<DOC>debug trace
 this describes the debug and trace features available in the armvm mainline architecture
 introduction to armvm debug trace debugging with breakpoints watchpoints semihosting vector catch introduction to trace micro trace buffer instrumentation trace macrocell dwt trace capture embedded trace macrocell trace port interface unit trace port and bandwidth trace clock considerations profiling
+</DOC>
 
-booting initialisation
+<DOC>booting initialisation
 the booting and initialization takes you through essential startup code that can ensure that the processor and system are configured and initialised appropriately before the main function is reached in the c
 introduction embedded development process default startup and initialization sequence default memory map default linker placement rules c libraries reset and initialization possible initialization sequence cmsis startup and initialization cmsiscore startup system initialization files post startup initialization writing memory files part writing memory files part placing the stacks and heap accessing memorymapped registers ordering objects in a scatter file root regions mpu initialization retargeting c library building an image ready for booting
+</DOC>
 
-cortexm walkthrough
+<DOC>cortexm walkthrough
 this introduces tarmac trace from fast models and uses that to walk through everything a cortexm device would do if used with cmsis code from reset to the main function to triggering an interrupt using the nvic although the is related to a cortexm device the details presented also apply to any armvm armvm device acting as a recap of all the content covered mprofile
 what is tarmac trace tarmac trace example tarmac trace quiz startup step reset reset handler step main and scatterloading step application code in main exception handling recap congratulations
 </DOC>
-

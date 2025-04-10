@@ -18,92 +18,101 @@ explore generative deep learning and how ais can create new content from style t
 custom models layers and loss functions with tensorflow
 
 compare functional and sequential apis discover new models you can build with the functional api and build a model that produces multiple outputs including a siamese network build custom loss functions including the contrastive loss function used in a siamese network in order to measure how a model is doing and help your neural network from training data build off of existing standard layers to create custom layers for your models customize a network layer with a lambda layer understand the differences between them what makes up a custom layer and explore activation functions build off of existing models to add custom functionality how to define your own custom class instead of using the functional or sequential apis build models that can be inherited from the tensorflow model class and build a residual network resnet through defining a custom model class the deeplearningai tensorflow advanced techniques introduces the features of tensorflow that provide learners with more control over their model architecture and tools that help them create and train advanced ml models this is for early and midcareer software and machine learning engineers with a foundational understanding of tensorflow who are looking to expand their knowledge and set by learning advanced tensorflow features to build powerful models
-
-functional apis
+</DOC>
+<DOC>functional apis
 compare how the functional api differs from the sequential api and see how the functional api gives you additional flexibility in designing models practice using the functional api and build a siamese network
 a conversation with andrew ng of the a conversation with andrew ng of welcome to the introduction to the functional apis declaring and stacking layers branching models creating a multioutput model multioutput code walkthrough siamese network a multipleinput model coding a multiinput siamese network siamese network code walkthrough
+</DOC>
 
-custom loss functions
+<DOC>custom loss functions
 loss functions help measure how a model is doing and are used to help a neural network from the training data how to build custom loss functions including the contrastive loss function that is used in a siamese network
 welcome to creating a custom loss function coding the huber loss function huber loss code walkthrough adding hyperparameters to custom loss functions turning loss functions into classes huber object loss code walkthrough contrastive loss coding contrastive loss
+</DOC>
 
-custom layers
+<DOC>custom layers
 custom layers give you the flexibility to implement models that use nonstandard layers practice building off of existing standard layers to create custom layers for your models
 intro custom layers introduction to lambda layers custom functions from lambda layers exploring custom relu with lambda layers architecture of a custom layer coding your own custom dense layer training a neural network with your custom layer custom layer code walkthrough activating your custom layer custom layer with activation code walkthrough
+</DOC>
 
-custom models
+<DOC>custom models
 you can build off of existing models to add custom functionality extend the tensorflow model class to build a resnet model
 intro to custom models complex architectures with the functional api coding a wide and deep model using the model class to simplify architectures understanding residual networks coding a residual network with the model class resnet code walkthrough
+</DOC>
 
-bonus content callbacks
+<DOC>bonus content callbacks
 custom callbacks allow you to customize what your model outputs or how it behaves during training implement a custom callback to stop training once the callback detects overfitting
 builtin callbacks custom callbacks custom callbacks code walkthrough
 </DOC>
-
 <DOC>
 generative deep learning with tensorflow
 
 a neural style transfer using transfer learning extract the content of an image eg swan and the style of a painting eg cubist or impressionist and combine the content and style into a new image b build simple autoencoders on the familiar mnist dataset and more complex deep and convolutional architectures on the fashion mnist dataset understand the difference in results of the dnn and cnn autoencoder models identify ways to denoise noisy images and build a cnn autoencoder using tensorflow to output a clean image from a noisy one c explore variational autoencoders vaes to generate entirely new data and generate anime faces to compare them against reference images d about gans
 their invention properties architecture and how they vary from vaes understand the function of the generator and the discriminator within the model the concept of training phases and the role of introduced noise and build your own gan that can generate faces the deeplearningai tensorflow advanced techniques introduces the features of tensorflow that provide learners with more control over their model architecture and gives them the tools to create and train advanced ml models this is for early and midcareer software and machine learning engineers with a foundational understanding of tensorflow who are looking to expand their knowledge and set by learning advanced tensorflow features to build powerful models
-
-style transfer
+</DOC>
+<DOC>style transfer
 how to extract the content of an image such as a swan and the style of a painting such as cubist or impressionist and combine the content and style into a new image this is called neural style transfer and how to extract these kinds of features using transfer learning
 welcome to style transfer intro style transfer conceptual preprocessing inputs extracting style and content features total loss and content loss style loss update the generated image optional gram matrix optional einstein notation optional einsum in code total variation loss fast neural style transfer
+</DOC>
 
-autoencoders
+<DOC>autoencoders
 get an of autoencoders and how to build them with tensorflow how to build a simple autoencoder on the familiar mnist dataset before diving into more complicated deep and convolutional architectures that build on the fashion mnist dataset get to see the difference in results of the dnn and cnn autoencoder models and then identify ways to denoise noisy images finish the building a cnn autoencoder using tensorflow to output a clean image from a noisy one
 introduction first autoencoder mnist autoencoder mnist deep autoencoder convolutional autoencoder denoising with an autoencoder
+</DOC>
 
-variational autoencoders
+<DOC>variational autoencoders
 explore variational autoencoders vaes to generate entirely new data weeks generate anime faces and compare them against reference images
 variational autoencoders vae architecture and code sampling layer and encoder decoder loss function and model definition train the vae model
+</DOC>
 
-gans
+<DOC>gans
 about gans what they are who invented them their architecture and how they vary from vaes get to see the function of the generator and the discriminator within the model and the concept of training phases and the role of introduced noise then end the building your own gan that can generate faces how cool is that
 introduction first gan architecture first gan training loop dcgans face generator face generator discriminator conclusions
 </DOC>
-
 <DOC>
 advanced computer vision with tensorflow
 
 a explore image classification image segmentation object localization and object detection apply transfer learning to object localization and detection b apply object detection models such as regionalcnn and resnet customize existing models and build your own models to detect localize and label your own rubber duck images c implement image segmentation using variations of the fully convolutional network fcn including unet and d maskrcnn to identify and detect numbers pets zombies and more d identify which parts of an image are being used by your model to make its predictions using class activation maps and saliency maps and apply these ml interpretation methods to inspect and improve the design of a famous network alexnet the deeplearningai tensorflow advanced techniques introduces the features of tensorflow that provide learners with more control over their model architecture and tools that help them create and train advanced ml models this is for early and midcareer software and machine learning engineers with a foundational understanding of tensorflow who are looking to expand their knowledge and set by learning advanced tensorflow features to build powerful models
-
-introduction to computer vision
+</DOC>
+<DOC>introduction to computer vision
 get a conceptual of image classification object localization object detection and image segmentation also be able to describe multilabel classification and distinguish between semantic segmentation and instance segmentation in the rest of this apply tensorflow to build object detection and image segmentation models
 welcome to classification and object detection intro segmentation intro why transfer learning what is transfer learning options in transfer learning transfer learning with resnet resnet in code network architecture for object localization evaluating object localization
+</DOC>
 
-object detection
+<DOC>object detection
 get an of some popular object detection models such as regionalcnn and resnet use object detection models that retrieve from tensorflow hub download your own models and configure them for training and also build your own models for object detection by using transfer learning train a model to detect and localize rubber duckies using just five training examples also get to manually label your own rubber ducky images
 object detection and sliding windows rcnn fast rcnn faster rcnn getting the model from tensorflow hub running the model on an image installation and of apis visualization with apis loading a retinanet model loading weights data prep and training custom training loop code
+</DOC>
 
-image segmentation
+<DOC>image segmentation
 is all about image segmentation using variations of the fully convolutional neural network with these networks you can assign class labels to each pixel and perform much more detailed identification of objects compared to bounding boxes build the fully convolutional neural network unet and mask rcnn to identify and detect numbers pets and even zombies
 image segmentation popular image segmentation architectures fcn architecture details upsampling methods encoder in code decoder in code evaluation with iou and dice score unet unet code encoder unet code decoder instance segmentation
+</DOC>
 
-visualization and interpretability
+<DOC>visualization and interpretability
 about the importance of model interpretability which is the understanding of how your model arrives at its decisions also implement class activation maps saliency maps and gradientweighted class activation maps to identify which parts of an image are being used by your model to make its predictions also see an example of how visualizing a models intermediate layer activations can help to improve the design of a famous network alexnet
 why interpretation matters class activation maps fashion mnist class activation map code walkthrough saliency gradcam zfnet
 </DOC>
-
 <DOC>
 custom and distributed training with tensorflow
 
 about tensor objects the fundamental building blocks of tensorflow understand the difference between the eager and graph modes in tensorflow and how to use a tensorflow tool to calculate gradients build your own custom training loops using gradienttape and tensorflow datasets to gain more flexibility and visibility with your model training about the benefits of generating code that runs in graph mode take a peek at what graph code looks like and practice generating this more efficient code automatically with tensorflows tools harness the power of distributed training to process more data and train larger models faster get an of various distributed training strategies and practice working with a strategy that trains on multiple gpu cores and another that trains on multiple tpu cores the deeplearningai tensorflow advanced techniques introduces the features of tensorflow that provide learners with more control over their model architecture and tools that help them create and train advanced ml models this is for early and midcareer software and machine learning engineers with a foundational understanding of tensorflow who are looking to expand their knowledge and set by learning advanced tensorflow features to build powerful models
-
-differentiation and gradients
+</DOC>
+<DOC>differentiation and gradients
 get a detailed look at the fundamental building blocks of tensorflow tensor objects for example be able to describe the difference between eager mode and graph mode in tensorflow and explain why eager mode is very user friendly for you as a developer also use tensorflow tools to calculate gradients so that you dont have to look for your old calculus textbooks next time you need to get a gradient
 a conversation with andrew ng of what is a tensor creating tensors in code math operations with tensors basic tensors code walkthrough broadcasting operator overloading and numpy compatibility evaluating variables and changing data types gradient tape gradient descent using gradient tape calculate gradients on higher order functions persistenttrue and higher order gradients gradient tape basics code walkthrough
+</DOC>
 
-custom training
+<DOC>custom training
 build custom training loops using gradienttape and tensorflow datasets being able to write your own training loops will give you more flexibility and visibility with your model training also use a function to calculate the derivatives of functions so that you dont have to look to your old calculus textbooks to calculate gradients
 custom training loop steps loss and gradient descent define training loop and validate model training basics code walkthrough training steps and data pipeline define the training loop gradients metrics and validation fashion mnist custom training loop code walkthrough
+</DOC>
 
-graph mode
+<DOC>graph mode
 about the benefits of generating code that runs in graph mode take a peek at what graph code looks like and practice generating this more efficient code automatically with tensorflows tools so that you dont have to write the graph code yourself
 benefits of graph mode generating graph code autograph basics code walkthrough control dependencies and flows loops and tracing variables autograph code walkthrough
+</DOC>
 
-distributed training
+<DOC>distributed training
 harness the power of distributed training to process more data and train larger models faster get an of various distributed training strategies and then practice working with two strategies one that trains on multiple gpu cores and the other that trains on multiple tpu cores get your cape ready because youre going to get some superpowers
 intro to distribution strategies types of distribution strategies converting code to the mirrored strategy mirrored strategy code walkthrough custom training for multiple gpu mirrored strategy multi gpu mirrored strategy code walkthrough tpu strategy tpu strategy code walkthrough other distributed strategies
 </DOC>
-

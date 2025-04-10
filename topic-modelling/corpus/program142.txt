@@ -9,85 +9,93 @@ the role of an analyst is dynamic complex and driven by a variety of these range
 <DOC>
 introduction to corporate finance
 this provides a brief introduction to the fundamentals of finance emphasizing their application to a wide variety of realworld situations spanning personal finance corporate decisionmaking and financial intermediation key concepts and applications include time value of money riskreturn tradeoff cost of capital interest rates retirement savings mortgage financing auto leasing capital budgeting asset valuation discounted cash flow dcf analysis net present value internal rate of return hurdle rate payback period
-
-time value of money
+</DOC>
+<DOC>time value of money
 welcome to introduction to corporate finance this first will introduce you to one of the most important foundational concepts in finance the time value of money before diving into the lectures i encourage you to take a look at the brief prereading for the specifically have a look at big picture motivation for additional motivation and context for the time value of money for a motivation and context for our first topic and quiz problem answer input this last note is particularly important to avoid confusion with the problem sets then go to the lectures and start learning finance
 intuition and discounting compounding useful shortcuts taxes
+</DOC>
 
-interest rates
+<DOC>interest rates
 we wrap up the time value of money topic with a discussion of inflation before moving on to our second topic interest rates and introducing our third topic discounted cash flow analysis by the end of this you should feel comfortable with discounting and compounding arbitrary cash flow streams in order to value different claims and make better financial decisions
 inflation apr and ear term structure discounted cash flow decision making
+</DOC>
 
-discounted cash flow analysis
+<DOC>discounted cash flow analysis
 this continues our discussion of discounted cash flow analysis by way of a capital budgeting case you might want to download or view the excel file tablet case spreadsheetxlsx that i use in the lectures but it is not necessary for understanding the material by the end of this you should feel comfortable valuing claims and making financing decisions in which the timing of the cash flows and compounding of interest is arbitrary eg annual semiquarterly monthly etc having worked through the problems you should also be more comfortable with real world financial decision making related to retirement savings home financing and refinancing auto leases and other scenarios
 free cash flow forecast drivers forecasting free cash flow
+</DOC>
 
-return on investment
+<DOC>return on investment
 this closes out our discussion of discounted cash flow analysis and caps off the with a discussion of return on investment by the end of this you should feel comfortable with the notion of free cash flow and the ability to apply a set of forecast drivers to project free cash flows into the future these are some of the elements of a basic financial model which use to come to a decision about the tablet project and to analyze the assumptions behind our valuation
 decision criteria sensitivity analysis return on investment
 </DOC>
-
 <DOC>
 fundamentals of quantitative modeling
 how can you put data to for you specifically how can numbers in a spreadsheet tell us about present and past business activities and how can we use them to forecast the future the answer is in building quantitative models and this is designed to help you understand the fundamentals of this critical foundational business through a series of short lectures demonstrations and the key ideas and process of quantitative modeling so that you can begin to create your own models for your own business or enterprise by the end of this have seen a variety of practical commonly used quantitative models as as the building blocks that will allow you to start structuring your own models these building blocks will be put to use in the other courses
-
-introduction to models
+</DOC>
+<DOC>introduction to models
 how to define a model and how models are commonly used examine the central steps in the modeling process the four key mathematical functions used in models and the essential vocabulary used to describe models by the end of this be able to identify the four most common types of models and how and when they should be used also be able to define and correctly use the key terms of modeling giving you not only a foundation for further study but also the ability to ask questions and participate in conversations about quantitative models
 introduction definition and uses of models common functions how models are used in practice key steps in the modeling process a vocabulary for modeling mathematical functions
+</DOC>
 
-linear models and optimization
+<DOC>linear models and optimization
 this introduces linear models the building block for almost all modeling through close examination of the common uses together with examples of linear models how to apply linear models including cost functions and production functions to your business the also includes a presentation of growth and decay processes in discrete time growth and decay in continuous time together with their associated present and future value calculations classical optimization techniques are discussed by the end of this be able to identify and understand the key structure of linear models and suggest when and how to use them to improve for your business also be able to perform present value calculations that are foundational to valuation metrics in addition understand how you can leverage models for your business through the use of optimization to really fine tune and optimize your business functions
 introduction to linear models and optimization growth in discrete time constant proportionate growth present and future value optimization
+</DOC>
 
-probabilistic models
+<DOC>probabilistic models
 this explains probabilistic models which are ways of capturing risk in process need to use probabilistic models when you dont know all of your inputs examine how probabilistic models incorporate uncertainty and how that uncertainty continues through to the outputs of the model also discover how propagating uncertainty allows you to determine a range of values for forecasting the mostwidely used models for risk including regression models treebased models monte carlo simulations and markov chains as as the building blocks of these probabilistic models such as random variables probability distributions bernoulli random variables binomial random variables the empirical rule and perhaps the most important of all of the statistical distributions the normal distribution characterized by mean and standard deviation by the end of this be able to define a probabilistic model identify and understand the most commonly used probabilistic models know the components of those models and determine the most useful probabilistic models for capturing and exploring risk in your own business
 introduction to probabilistic models examples of probabilistic models regression models probability trees monte carlo simulations markov chain models building blocks of probability models the bernoulli distribution the binomial distribution the normal distribution the empirical rule
+</DOC>
 
-regression models
+<DOC>regression models
 this explores regression models which allow you to start with data and discover an underlying process regression models are the key tools in predictive analytics and are also used when you have to incorporate uncertainty explicitly in the underlying data more about what regression models are what they can and cannot do and the questions regression models can answer examine correlation and linear association methodology to fit the best line to the data interpretation of regression coefficients multiple regression and logistic regression also see how logistic regression will allow you to estimate probabilities of success by the end of this be able to identify regression models and their key components understand when they are used and be able to interpret them so that you can discuss your model and convince others that your model makes sense with the ultimate goal of implementation
 introduction to regression model use of regression models interpretation of regression coefficients rsquared and root mean squared error rmse fitting curves to data multiple regression logistic regression of regression models
 </DOC>
-
 <DOC>
 financial acumen for nonfinancial managers
 explore how financial statement data and nonfinancial metrics can be linked to financial performance professors rick lambert and chris ittner of the wharton school have designed this to help you gain a practical understanding of how data is used to assess what drives financial performance and forecast future financial scenarios more about the frameworks of financial reporting income statements and cash reporting and apply different approaches to analyzing financial performance using reallife examples to see the concepts in action by the end of this have honed your in understanding how financial data and nonfinancial data interact to forecast events and be able to determine the best financial strategy for your organization
-
-introduction balance sheet and income statement
+</DOC>
+<DOC>introduction balance sheet and income statement
 this was designed to give you a foundational of financial reporting and income statements identify and analyze balance sheet equations and its key components such as assets liabilities and shareholders equity through examining a sample realworld financial statement how to calculate income revenue and expenses transactions and see how the income statement is linked to changes in the balance sheet by the end of this have a better understanding of the key components in financial reporting and how to craft an accurate income statement for your organization
 introduction an of accounting and the financial reporting environment the balance sheet equation assets liabilities shareholders equity case part balance sheet transactions application to realworld financial statements large usbased multinational consumer goods company part income revenue and expenses case part revenue and expense transactions adjusting entries case part adjusting entries application to realworld financial statements large usbased multinational consumer goods company part
+</DOC>
 
-cash flow statement
+<DOC>cash flow statement
 examine cash flow statements further and take a closer look at methods of creating cash flow statements using your understanding of financial reporting be able to classify different business activities into separate categories such as operating investing and financing activities through analyzing the realworld financial statement from the previous about both direct and indirect methods of creating cash flow statements by the end of this be able to differentiate between various business activities and effectively utilize both direct and indirect methods of creating cash flow statements for your organization
 financing cash flows case part cash flow statement direct method cash flow statement indirect method case part cash flow statement indirect method application to realworld financial statements large usbased multinational consumer goods company part
+</DOC>
 
-financial statement analysis
+<DOC>financial statement analysis
 examine a systematic approach to ratio analysis and other common tools of financial statement analysis develop an understanding of ratios and liquidity measures so you can accurately assess risk within your organizations financial activities discover different approaches to profitability measures such as earnings per share eps return on equity roe and the dupont analysis be able to match return on assets roa to various types of companies and gain a better understanding of the drivers of roa then explore the concepts of sales revenue and different qualities of earnings by the end of this understand the theoretical basis behind ratio analysis and be able to employ different ratio analyses and accurately calculate profitability measures for your organization
 of ratio analysis profitability measures drilling deeper into return on assets sales and earnings quality a more sophisticated calculation of roa
+</DOC>
 
-linking nonfinancial metrics to financial performance
+<DOC>linking nonfinancial metrics to financial performance
 discover how to determine which nonfinancial performance measures predict financial results through asking these fundamental questions of the hundreds of nonfinancial measures which are the key drivers of financial success how do you rank or weight nonfinancial measures which dont share a common denominator and what performance targets are desirable examine comprehensive examples of how companies have used accounting data to show how investments in nonfinancial dimensions pay off in the future and important organizational issues that commonly arise using these models by the end of this know how predictive analytics can be used to determine what you should be measuring how to weight different performance measures when trying to analyze potential financial results how to make tradeoffs between shortterm and longterm objectives and how to set performance targets for optimal financial performance
 step identifying the right drivers step setting targets comprehensive examples incorporating analysis results in financial models using analytics to choose action plans organizational issues
 </DOC>
-
 <DOC>
 introduction to spreadsheets and models
 the simple spreadsheet is one of the most powerful data analysis tools that exists and its available to almost anyone major corporations and small businesses alike use spreadsheet models to determine where key measures of their success are now and where they are likely to be in the future but in order to get the most out of a spreadsheet you have the knowhow to use it this is designed to give you an introduction to basic spreadsheet tools and formulas so that you can begin harness the power of spreadsheets to map the data you have now and to predict the data you may have in the future through short easytofollow demonstrations how to use excel or sheets so that you can begin to build models and decision trees in future courses
 basic familiarity with and access to excel or sheets is required
-
-spreadsheets a tool for thinking with numbers
+</DOC>
+<DOC>spreadsheets a tool for thinking with numbers
 this was designed to introduce you to the history of spreadsheets their basic capabilities and how they can be used to create models the different types of data used in spreadsheets spreadsheet notations for mathematical operations common builtin formulas and functions conditional expressions relative and absolute references and how to identify and correct circular references by the end of this understand the context of spreadsheets be able to navigate a spreadsheet use builtin formulas and functions in spreadsheets create your own simple formulas and identify and correct common errors so you can put spreadsheets to for you
 objectives and a little spreadsheet history navigating a spreadsheet and crafting formulas using functions using conditional expressions in formulas common errors in spreadsheets differences between sheets and excel
+</DOC>
 
-from spreadsheet to model
+<DOC>from spreadsheet to model
 move from spreadsheet to model so you can begin to create your own models that reflect realworld events how to organize and lay out model elements as as the types of objective functions and their use also whatif analysis and scenarios sensitivity analysis and other classic models by the end of this be able to design a spreadsheet reflecting assumptions decision variables and create a basic cashflow model evaluate a small business conduct whatif analysis identify key variables using sensitivity analysis and linear programming models and deterministic models
 introduction using assumptions and decision variables in spreadsheet models structuring a spreadsheet to model variables objectives and objective functions constructing simple cashflow model whatif analysis and sensitivity analysis limits to simple deterministic models
+</DOC>
 
-addressing uncertainty and probability in models
+<DOC>addressing uncertainty and probability in models
 this was designed to introduce you to how you can use spreadsheets to address uncertainty and probability about random variables probability distributions power exponential and log functions in model formulas models for calculating probability trees and decision trees how to use regression tools to make predictions as as multiple regression by the end of this be able to measure correlations between variables using spreadsheet statistical functions understand the results of functions that calculate correlations use regression tools to make predictions and improve forecasts with multiple regression
 introduction random variables and probability distributions changes in discrete and continuous time power exponential and log functions probability trees and decision trees correlation and regression
+</DOC>
 
-simulation and optimization
+<DOC>simulation and optimization
 to use spreadsheets to implement monte carlo simulations as as linear programs for optimization examine the purpose of monte carlo simulations how to implement monte carlo simulations in spreadsheets the types of problems you can address with linear programs and how to implement those linear programs in spreadsheets by the end of this be able to model uncertainty and risk in spreadsheets and use excels solver to optimize resources to reach a desired also be able to identify the similarities and differences between excel and sheets and be prepared for the next in the business and financial modeling
 introduction monte carlo simulations linear programming next steps and differences between excel and sheets
 </DOC>
-

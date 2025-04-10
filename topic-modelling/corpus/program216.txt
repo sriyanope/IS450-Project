@@ -21,65 +21,71 @@ and one graded quiz per
 environmental science
 the introduction to environmental science explores the field of environmental science and encourages participants to understand how environmental scientists think it addresses some important questions such as
 what is the difference between environmental science and environmental studies how do both differ from environmentalism why is energy so important in environmental science what do you mean by biodiversity also explore what global cycles are and how they impact our lives you must be aware that the human impact on biodiversity and global change are two of the most important discussion points in environmental science have you ever wondered how we are affecting global change and biodiversity how can we reconcile human population growth resource demands and sustainability the effects of global change on humans and natural ecosystems and additional factors in evaluating personal environmental impact will also be discussed
-
-basics of environmental science
+</DOC>
+<DOC>basics of environmental science
 this explores the importance of environmental science the water pollution problems and how cycling of matter takes place
 environmental science definitions and terms rock snot matter and energy
+</DOC>
 
-biodiversity systems and feedback
+<DOC>biodiversity systems and feedback
 this gives an of the three different levels of biodiversity genetic species ecosystem and explores concepts such as system system analysis mrt and positive and negative feedback loop
 biodiversity systems and feebacks hydrologic cycle
+</DOC>
 
-global cycles
+<DOC>global cycles
 this explores the carbon nitrogen and hydrogen cycles and analyzes a local environmental problem
 carbon cycle nitrogen cycle review
+</DOC>
 
-basics of global change
+<DOC>basics of global change
 this explores global climate change and global warming it also examines how solar radiation and greenhouse gasses warm our planet
 global change basics greenhouse gases
 </DOC>
-
 <DOC>
 population food and soil
 this explores the populationenvironment relationship about the human population and the ways in which changes in the population affect the environment agriculture soils and the environmental implications of eating meat vegetables local organic sustainable industrial and other types of food are discussed too
 we explore questions such as how many people live on earth right now what is the carrying capacity of earth what is the relationship between the number of people where they live the resources they consume and their environmental impact what types of agriculture are used right now what is the difference between organic and conventional agriculture why would you want to dig a soil pit a conversation with phil connors an australian environmental scientist will explore the topic of human population and sustainability also listen to the conversations with danielle allen an organic farmer and justin richardson a soil scientist
-
-population and the world
+</DOC>
+<DOC>population and the world
 this explores the global population trends how and why population changes and concepts related to population numbers including growth rate doubling time crude birth and date rates etc
 introduction the world today population numbers how and why populations change
+</DOC>
 
-global population
+<DOC>global population
 this explores the global population dynamics
 global population dynamics a conversation with phil connors human population review
+</DOC>
 
-agriculture and environment
+<DOC>agriculture and environment
 this deals with the major environmental issues related to global human nutrition some common practices of modern industrial agriculture and the potential environmental costs associated with each practice it also explores sustainable farming practices
 agriculture and human nutrition modern agriculture effects part modern agriculture effects part modern agriculture alternatives
+</DOC>
 
-soil and environment
+<DOC>soil and environment
 this explores the role of soils in ecosystems soil horizons and soilforming processes through a about the soils of a particular landscape and about various soilforming processes
 the soil resource a soil profile a conversation with danielle allen food and soils review
 </DOC>
-
 <DOC>
 energy and environment
 this deals with both renewable and nonrenewable energy by applying scientific principles and considering realworld examples examine
 nonrenewable fossil fuels with a focus on coal petroleum and natural gas and the benefits and consequences of using each renewable fuels such as wind and solar and identify that even renewable green energy sources have impacts as as benefits biodiversity and global change which are the integrating units of environmental science additionally explore answers to the following questions how do we evaluate coal oil and natural gas from an environmental science perspective what regulates energy conversions and losses in humanbuilt systems how much energy flows through your fingertips how do we evaluate hydro solar wind and biomass from an environmental science perspective how can we increase efficiency and conservation you also take a tour of the dartmouth powerplant and listen to a conversation with dartmouth sustainability director rosi kerr furthermore take a field trip to a pv tracker solar system visit a straw bale house and have a conversation about waste vegetable oil as an energy source in india
-
-an of nonrenewable energy
+</DOC>
+<DOC>an of nonrenewable energy
 this explores some concepts related to energy such as its forms conservation with a special stress on nonrenewable energy
 the dartmouth powerplant energy concepts
+</DOC>
 
-fossil fuel and future of energy
+<DOC>fossil fuel and future of energy
 this describes how energy use and energy resources specifically coal oil and natural gas have varied over time
 coal oil and natural gas coalfired powerplant a conversation with rosi kerr nonrenewable energy review
+</DOC>
 
-the world of renewable energy
+<DOC>the world of renewable energy
 this explores the patterns of renewable energy use and explains the hydro solar wind and biomass energy it also discusses how energy use can be decreased and efficiency can be increased
 renewable energy resources hydro solar wind and biomass a conversation with sarah alexander a conversation with mike wood a conversation with franny and aaron review of renewable energy
+</DOC>
 
-effects of global change
+<DOC>effects of global change
 this explores the impacts of global environmental changes including feedback loops ocean acidification sea level rise and human equity issues
 global change effects synthesizing global change and environmental science global change and review
 </DOC>
-

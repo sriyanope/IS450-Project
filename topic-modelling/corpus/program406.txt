@@ -20,195 +20,216 @@ learners will be able to apply structured problemsolving techniques to dissect a
 structured approach to problem solving
 this is an introductory that equips you with the concepts and tools of problem thinking by the end of this be able to
 explain the different stages of a data science project discuss some of the tools and techniques used in data science apply structured thinking to solving problems and avoid the common traps while doing so apply humancentric design in problemsolving this also acts as the first steppingstone for aspiring data scientists this is a part of the titled fractal data science this is tailored for learners seeking to enhance their analytical and critical thinking abilities ideal for students professionals and anyone intrigued by systematic approaches this empowers you with the foundational needed to approach problems with clarity and confidence
-
-structured thinking
+</DOC>
+<DOC>structured thinking
 this teaches you how to use structured thinking to solve problems at and in everyday life also about the different stages and roles in data science as as the tools used in data science
 what is data science introduction a day in the life of a data scientist stages of a data science project roles in a data science project tools of the trade applications of data science introduction to structured thinking frameworks of structured thinking structured thinking and problem solving structured thinking in solving business problems framing the problem statement the common pitfalls the loop trap the common pitfalls the complexity trap the common pitfalls the obvious trap
+</DOC>
 
-solving problems with structured thinking
+<DOC>solving problems with structured thinking
 this teaches structured thinking for solving business problems and covers tools and frameworks used in the process it also highlights common mistakes to avoid
 defining a problem statement worksheet psw how the psw helps in defining a problem statement mutually exclusive and collectively exhaustive mece what is an issue tree creating an issue tree documenting the implementation phase the adoption plan metrics for evaluation metrics for evaluation creating user research for insights common design pitfalls common strategic pitfalls phases of testing a ds project
+</DOC>
 
-humancentered design
+<DOC>humancentered design
 humancentered design is an approach that prioritizes the endusers needs by understanding them and creating products that cater to their preferences and behaviors the goal is to design products that are userfriendly effective and enjoyable to use this would help you understand why and how you should also keep your usershumans at the center of solving your business problems
 humancentered design hcd and empathy what is hcd the discovery phase the solution phase fireside chat with biju dominic empathy in design three strategies to build empathy
 </DOC>
-
 <DOC>
 foundations of machine learning
 in a world where datadriven insights are reshaping industries mastering the foundations of machine learning is a valuable that opens doors to innovation and informed decisionmaking comprehensive be guided through the core concepts and practical aspects of machine learning complex algorithms and techniques will be demystified and broken down into digestible knowledge empowering you to wield the capabilities of machine learning confidently by the end of this
 grasp the fundamental principles of machine learning and its realworld applications construct and evaluate machine learning models transforming raw data into actionable insights navigate through diverse datasets extracting meaningful patterns that drive decisionmaking apply machine learning strategies to varied scenarios expanding your problemsolving toolkit this equips you with the foundation to thrive as a machine learning enthusiast datadriven or someone ready to explore the dynamic possibilities of machine learning
-
-introduction to machine learning
+</DOC>
+<DOC>introduction to machine learning
 learners will unravel the magic of machine learning as they explore the significance of making predictions in various domains they will gain a solid introduction to machine learning and its applications in different industries the will also cover essential concepts such as rulebased prediction and evaluation metrics providing learners with a strong foundation for the rest of the
 gateway to the and instructor introduction introduction to problem statement how do we make predictions methodology of evaluating predictions introduction to data division building benchmark models and evaluating it introduction to machine learning applications of machine learning types of machine learning
+</DOC>
 
-building your first machine learning ml model for synergix solutions
+<DOC>building your first machine learning ml model for synergix solutions
 this focuses on guiding learners through the complete workflow of building their first machine learning model learners will dive into data preparation exploratory data analysis eda and feature engineering techniques they will to build a knearest neighbors knn model understand model evaluation and explore crucial considerations for deploying an ml model in realworld applications
 ml workflow tasks to be performed combining product attribute data with pos data combining all the tables in the dataframe understanding the combined data treating missing values part treating missing values part outlier detection and treatment preparing the dataset for supervised and unsupervised models generative ai for data analysis introduction to knn building a knn model choosing the optimal k different ways to calculate distance problems with distance based algorithm sklearn to build optimal process to build an ml model building a knn classification model and evaluating it choosing the right k value bias and variance
+</DOC>
 
-evaluating prediction models
+<DOC>evaluating prediction models
 learners will delve into the intricacies of prediction models they will explore evaluation metrics for both regression and classification models gaining handson with practical implementations the will also cover data division techniques and benchmark performance providing learners with a comprehensive understanding of how to effectively evaluate prediction models
 understanding confusion matrix and accuracy a deep dive into precision recall and f score understanding the auroc curve why do we calculate rmse understanding r score and adjusted r score traintest split traintest split ratio and limit cross validation implementing cross validation benchmark models
+</DOC>
 
-linear and logistic regression
+<DOC>linear and logistic regression
 learners will embark on a comprehensive exploration of regression techniques from understanding the principles of linear and logistic regression to their practical application they will gain valuable insights into predictive modeling with a focus on realworld scenarios they will how to make predictions interpret results and optimize models
 introduction to linear regression significance of slope and intercept in the linear regression how model decides the bestfit line lets build a simple linear regression model model understanding using descriptive approach model understanding using descriptive approach ii model building using predictive approach introduction lines to curves with logistic regression reading between the curves with log loss stats model feature selection and scaling predictive model in logistic regression
+</DOC>
 
-decision trees for synergix solution
+<DOC>decision trees for synergix solution
 learners will navigate the intricate paths of decision trees decision trees offer a transparent yet powerful approach to classification and regression tasks learners will delve into the mechanisms of decision tree construction to handle overfitting through pruning and regularization and discover the art of finetuning decision trees for optimal results
 introduction to decision trees lets visualize the decision tree how do decision trees decide how decision trees make predictions hands on building the decision tree classification model hyperparameters of decision trees hands on building the decision tree classification model part building a decision tree regression model handling imbalanced datasets handling imbalanced datasets hands on
+</DOC>
 
-introduction to unsupervised learning
+<DOC>introduction to unsupervised learning
 learners will unlock the mysteries of unsupervised machine learning as they dive into clustering techniques they will discover the power of kmeans and densitybased spatial clustering of applications with noise dbscan in grouping similar data points together they will also explore how unsupervised learning revolutionizes data exploration customer segmentation and anomaly detection
 setting the context choosing clustering algorithms solving our problem using kmeans part solving our problem using kmeans part finding optimal k value analysis and insights based on the plot introduction to hierarchical clustering analysis hca solving our problem using hierarchical clustering introduction to dbscan solving our problem using dbscan clustering
 </DOC>
-
 <DOC>
 advanced machine learning algorithms
 in a world where datadriven solutions are revolutionizing industries mastering advanced machine learning techniques is a pivotal that empowers innovation and strategic decisionmaking this equips you with the expertise needed to harness advanced machinelearning algorithms delve into the intricacies of cuttingedge machinelearning algorithms complex concepts will be simplified making them accessible and actionable for you to harness the potential of advanced algorithms effectively by the end of this to
 employ regularization techniques for enhanced model performance and robustness leverage ensemble methods such as bagging and boosting to improve predictive accuracy implement hyperparameter tuning and feature engineering to refine models for realworld challenges combine diverse models for superior predictions expanding your predictive toolkit strategically select the right machine learning models for different tasks based on factors and parameters
-
-getting familiar with regularisation
+</DOC>
+<DOC>getting familiar with regularisation
 in the fastevolving field of machine learning overfitting and underfitting are persistent challenges that can hinder the performance of models the regularization delves deep into the techniques that address these challenges headon over a span of hours learners will develop a profound understanding of how regularization techniques can enhance model generalization and robustness
 introduction to the introduction to problem statement division of the dataset overfitting and underfitting introduction to the apex dataset l regularization l regularization elastic net regularization finetuning logistic regression l regularization l regularization elastic net regularization
+</DOC>
 
-ensemble learning bagging algorithms
+<DOC>ensemble learning bagging algorithms
 learners will explore bagging algorithms which are techniques that group models together for more accurate predictions learners will start by learning the basics of bagging and why its better they will discover how these algorithms and why bootstrapping is a powerful idea next they will dive deeper into types of bagging algorithms they will explore random forests extra trees and how to use bagging with classifiers
 understanding ensemble learning introducing bagging algorithms handson to bagging meta estimator introduction to random forest understanding outofbag score random forest vs classical bagging vs decision tree
+</DOC>
 
-ensemble learning boosting algorithms
+<DOC>ensemble learning boosting algorithms
 learners will grasp the essence of boosting techniques and their transformative impact on model accuracy the focus then shifts to adaboost with an exploration of its underlying algorithm and the pivotal role it plays in boostings iterative approach then they will about gradient boosting machines gbm the final lesson introduces learners to advanced boosting algorithm variants xgboost lightgbm and catboost
 introduction to boosting adaboost stepbystep explanation handson adaboost gradient boosting machines gbm handson gradient boost other algo xgboost lightboost catboost
+</DOC>
 
-feature engineering and hyperparameter tuning
+<DOC>feature engineering and hyperparameter tuning
 this navigates learners through the process of refining models for increased performance and precision they will explore the critical roles that hyperparameter tuning and feature engineering play in model enhancement they will delve into the significance of datetime features and the techniques to harness text data for improved predictions further they will explore the strategies for optimizing models by carefully selecting features they will master the art of leveraging techniques like grid search and random search to find optimal parameter configurations
 introduction to feature engineering and hyperparameter tuning spliting the dataset feature transformation feature generation feature seletion introduction to hyperparameter and grid search cv grid search cv random search cv bayesan optimization bayesian optimization in synergix dataset
+</DOC>
 
-combining models
+<DOC>combining models
 this dedicated to combining models offers learners a concise yet insightful exploration into the realm of leveraging multiple models for superior performance learners will explore why mixing models is a great idea they will delve into fundamental concepts of stacking blending and aggregation
 introduction to the understanding voting leveraging the voting understanding stacking ensemble learning understanding hold out methodblending
+</DOC>
 
-model selection
+<DOC>model selection
 learners will dive into the important process of picking the right machine learning model for the job the begins by showing why choosing the right model matters learners will get to know about the factors they need to consider while choosing the model they will get a handy guide that will help them in selecting the right model they will about the essential things they need to look at while selecting a model including performance metrics
 the stepping stones in model selection factors to consider while selecting a model
 </DOC>
-
 <DOC>
 python for data science
 understanding the importance of python as a data science tool is crucial for anyone aspiring to leverage data effectively this is designed to equip you with the essential and knowledge needed to thrive in the field of data science
 this teaches the vital to manipulate data using pandas perform statistical analyses and create impactful visualizations to solve realworld business problems and prepare data for machine learning applications get ready for some challenging assessments in the python where apply your to realworld scenarios ensuring a rewarding learning join us and enroll and take a step into the world of datadriven discoveries no previous required
-
-introduction to python for data science
+</DOC>
+<DOC>introduction to python for data science
 in the first of the python for data science learners will be introduced to the fundamental concepts of python programming the begins with the basics of python covering essential topics like introduction to pythonnext the delves into working with jupyter notebooks a popular interactive environment for data analysis and visualization learners will how to set up jupyter notebooks create run and manage code cells and integrate text and visualizations using markdown additionally the will showcase reallife applications of python in solving datarelated problems learners will explore various data science projects and case studies where python plays a crucial role such as data cleaning data manipulation statistical analysis and machine learningby the end of this learners will have a good understanding of python be proficient in using jupyter notebooks for data analysis and comprehend how python is used to address realworld data science challenges
 welcome to python for data science expert talk a data scientists with python what is python working with jupyter notebooks introduction to the problem solution approach preparing tables and charts solution approach gaining insights solution approach airline traffic analysis solution expert talk why python is the language of choice for data science professionals introduction to the problem exploring the problem
+</DOC>
 
-data wrangling with python
+<DOC>data wrangling with python
 by the end of this learners will acquire essential in working with various types of data they will have a solid grasp of python programming fundamentals including data structures and libraries they will be proficient in loading cleaning and transforming data and will possess the ability to perform exploratory data analysis employing data visualization techniques they will also gain insights into basic statistical concepts such as probability distributions and hypothesis testing
 introduction diving into csv data data inspection finding missing data in the pos data deleting missing data and saving the cleaned data set lab data and problem a note on assessments basic data structures lists and dictionaries basic data structures series creating a data frame using lists dictionaries and series slicing with precision changing the indices and saving the new dataframe navigating data insights selecting data that match certain criteria selecting data that match multiple criteria expert talk understanding your data what are the unique products in the pos data set finding specific values in the data how much did we sell per category finding totals and averages by brand and by category grouping by multiple attributes displaying aggregated data in a pivot table expert talk how insights and data analysis guide each other working with dates how much did we sell each month what is the monthly average of sales were there specific dates when sales were high what if we have more than one dataset merging some simple data sets merging pos data with the online data walkthrough how to approach a graded
+</DOC>
 
-exploratory data analysis
+<DOC>exploratory data analysis
 by the end of this learners will gain a comprehensive understanding of statistical concepts data exploration techniques and visualization methods learners will develop the to identify patterns outliers and relationships in data making informed decisions and formulating hypotheses ultimately they will emerge with the ability to transform raw data into meaningful insights effectively communicate their findings through data storytelling and apply eda across diverse realworld applications
 introduction expert talk why eda is a superpower finding the average of the data understanding the spread of the data quantiles how to understand and visualize them exploring variability in the pos data what shape is my data understanding the distributions of features in the pos data understanding data distributions some other common shapes of data part i some other common shapes of data part i some other common shapes of data part ii some other common shapes of data part iii what chance of revenue falls in a given range how are the features related to each other part i how are the features related to each other part i how are the features related to each other part ii how are the features related to each other part ii visualizing categorical features visualizing proportions expert talk power of visualization its importance in storytelling using boxplots to compare revenues across segments in the pos data making better visuals part iii communicating insights better by creating multiple subplots within the same plot comparing the distribution of revenue for each sector by overlaying their kde plots sampling our data part i sampling our data part ii introduction to hypothesis testing part i introduction to hypothesis testing part ii hypothesis testing using z test part i hypothesis testing using z test part ii hypothesis testing using t test hypothesis testing using chisquare test
+</DOC>
 
-data preprocessing
+<DOC>data preprocessing
 by the end of this learners will acquire the essential to effectively transform raw and often messy data into a structured and suitable format for advanced analysis they will master the techniques for handling missing values identifying and dealing with outliers encoding categorical variables scaling and normalizing numerical features and handling textual or unstructured data learners will also be proficient in detecting and addressing data inconsistencies such as duplicates and errors learners will be able to treat data to make it suitable for further analysis upon completion of this upon completion
 introduction expert talk handling missing data what to do with missing values missing values in the pos data missing values within a hierarchy missing values within a hierarchy contd what if parts of the hierarchy are also missing finishing up missing value treatment in the pos data missing values another simpler example working with categoric features transforming features binning and discretization transforming features binning and discretization contd encoding categoric features onehot and label encoding encoding features in the pos data finishing up the encoding and saving the encoded data what is data normalization and why do we need it data normalization using minmax scaling data normalization using zscore scaling other types of data transformation applying log transformation to the online data finding outlying data removing outliers by dropping them how to deal with outliers imputation how to deal with outliers capping
+</DOC>
 
-feature engineering
+<DOC>feature engineering
 by the end of this learners will develop a profound understanding of how to craft and enhance features to optimize the performance of machine learning models they will be adept at identifying relevant variables creating new features through techniques such as onehot encoding binning and polynomial expansion and extracting valuable information from existing data like dates or text using methods like feature extraction and text vectorization learners will also grasp the concept of feature scaling and normalization to ensure the consistency and comparability of feature ranges with these they will possess the ability to shape data effectively amplifying its predictive power and contributing to the construction of robust highperforming machine learning pipelines
 introduction reducing the dimensionality of data sets exploring the features of the obesity data set what is principal component analysispca applying pca to the obesity data creating a transformed version of the data through feature engineering expert talk gen ai in python introduction to gen ai in python for data science some quick data analysis using pandasai some quick data visualization using pandasai
 </DOC>
-
 <DOC>
 human decision making and its biases
 this discusses the biases and limitations of the human brain strategies to overcome these biases and critically analyzes data while making decisions and recommendations
 analyzing data effectively and objectively is a long journey and the first step is to be aware of these biases prejudices and perceptions by the end of this you would develop a deep understanding of the biases that affect human decision making and the methodologies to apply in countering these biases also be equipped with frameworks for effective decisionmaking enroll to uncover the intricacies of human decision making and embark on an exploration of human decision making no previous required
-
-why decision making is hard
+</DOC>
+<DOC>why decision making is hard
 perceptions prejudices and biases greatly impact human decision making these factors influence how we interpret information and can lead to errors in judgment when presented with data humans tend to selectively process it based on their existing beliefs resulting in biased decision making overcoming these challenges is essential for making better decisions by recognizing the need for assistance and utilizing tools to mitigate biases individuals can improve their decisionmaking abilities and make more informed choices
 introduction introduction to human decision making making better decisions an introduction mathematical thinking the brain on decisions everyday decisions the vuca world
+</DOC>
 
-data in decision making
+<DOC>data in decision making
 this equips the learner with knowledge on how data which is available and unavailable affects our decision making further it provides information on how algorithms can help decode some of this data making decision making easier
 case the art of data and war armoring planes for additional safety how algorithms can help but algorithms arent the panacea simpsons paradox and significance of business intuition bringing data to intuition and vice versa
+</DOC>
 
-group decision making perceptions prejudices and biases
+<DOC>group decision making perceptions prejudices and biases
 this takes angry men as a case study due to its focus on diverse perspectives logical analysis and group dynamics influencing a jurys verdict highlighting biases and critical thinking
 angry men exploring human nature angry men unpacking the case angry men the challenge of dissenting voices angry men confirmation bias and the complexities angry men ten decisionmaking lessons part a angry men ten decisionmaking lessons part b
+</DOC>
 
-group decision making role of context hierarchy and emotional dynamics
+<DOC>group decision making role of context hierarchy and emotional dynamics
 this empowers learners by providing knowledge about responsible decision making and giving them with a personalized mental checklist for enhanced decisionmaking capabilities
 challenger launch case a tragic beginning challenger launch case analyzing the data challenger launch case resulting vs decision quality challenger launch case uncovering critical data challenger launch case normalization of deviant behavior context and decision environments challenger launch case vs angry men advocacy vs inquiry shaping decisionmaking type one and type two decisions organizational decision making assumptions and myths building a decision making framework conclusion
 </DOC>
-
 <DOC>
 insights of power bi
 todays business world is becoming increasingly datadriven small and large businesses use data to make decisions about sales hiring goals and all areas they have data for while most businesses have access to data of one type or another it can be intimidating for an average business user to understand the data without a background in data analytics
 microsofts power bi takes the intimidation and hassle out of data analysis and visualization throughout this identify errors in the datasets and diagnose them using data cleaning and transformation techniques to prepare them for reporting purposes with a focus on practical applications solve complex visualizations using the dax operator and assess the visualizations to plan businessrelated decisions whether you aspire to be a data analyst a business intelligence or a decisionmaker relying on datadriven insights this will provide you with the necessary tools and knowledge to succeed
-
-introduction to power bi and data visualization
+</DOC>
+<DOC>introduction to power bi and data visualization
 this provides a comprehensive introduction to power bi and data visualizations learners will explore the capabilities of power bi and gain proficiency in creating impactful visualizations topics covered include installation and getting started with power bi various chart types power bi interface comparison of reports and dashboards and building a basic power bi report throughout the learners will progress from understanding power bi fundamentals to applying their knowledge in creating meaningful visualizations
 introduction to data visualization gateway to the power bi interface and its capabilities charts and graphs in power bi part charts and graphs in power bi part charts and graphs in power bi part building your first dashboard part building your first dashboard part
+</DOC>
 
-transforming the data using insights
+<DOC>transforming the data using insights
 this operations on multiple tables covers essential techniques for handling and analyzing data across multiple tables by delving into different cleaning techniques students will gain proficiency in efficiently retrieving datasets that can be directly used for visualizations the goes beyond theoretical concepts by providing practical exercises using a realworld case study allowing users to apply their problemsolving abilities in a handson manner at the end of this students will discover how to enhance data models by gaining an understanding of fact tables and dimension tables upon completion of the students will be able to acquire the to effectively perform operations on multiple tables ensuring clean transformed and relationshipdriven data models for analysis
 why do we need to clean data preliminary investigations of data understanding relationships between tables understanding data model cleaning and transforming the data transforming the data using pivot table updating data with new information
+</DOC>
 
-getting started with dax
+<DOC>getting started with dax
 dax operator students will gain valuable to perform advanced calculations and data manipulations in power bi students will explore various dax functions and operators understand their syntax and structure and how to apply them effectively in power bi additionally they will also differentiate between calculated columns and measures gaining insights into when to use each approach in the end students will have an indepth understanding of the row context and filter context through practical examples and problemsolving exercises students will develop a solid understanding of dax fundamentals and their significance in data analysis
 introduction to dax function introduction to calculated columns and row context introduction to measures and filter context understanding the aggregation function understanding the logical function understanding the text function understanding the filter functions calculate and filter part understanding filter functions all part
+</DOC>
 
-building customized reports and dashboard
+<DOC>building customized reports and dashboard
 students will delve deeper and acquire and knowledge to create comprehensive reports and expanding their knowledge of utilizing dax operators they will essential to utilize diverse visualizations and address problem statements to deliver actionable insights furthermore this will emphasize the importance of designing and structuring the report to make it relevant for businesses by mastering these students will acquire the necessary tools to become an expert in the field of business intelligence and contribute to datadriven decisionmaking
 introduction to the global problem statement identifying the relationship between units sold revenue and online understanding the web traffic understanding click through rate understanding cost per click comparing marketing spent with total revenue building the sales and marketing dashboard part building the sales and marketing dashboard part
 </DOC>
-
 <DOC>
 data storytelling
 in todays datadriven world the ability to transform complex information into compelling narratives is essential this equips you with the principles and techniques of storytelling coupled with data visualization to craft captivating stories that engage and influence diverse audiences
 through handson exercises and realworld case studies to distill intricate data into clear and concise narratives enabling you to drive organizational impact and make informed decisions data storytelling bridges the gap between data analysis and human interpretation enhancing communication transparency and decisionmaking enroll to unlock the transformative power of data narratives and become a proficient data storyteller this welcomes everyone with a desire to unlock the power of data storytelling whether youre a business navigating the world of data analysis a student embarking on your data journey or a marketer looking to make your presentations soar this beginnerfriendly lays the foundation for effective data communication technical expertise not required while the doesnt teach specific visualization tools like tableau or power bi it rather shares knowledge about storytelling principles that breathe life into visualizations and analyses for those already wellversed in technical this acts as a bridge transforming your data and charts into a captivating narrative that resonates with any audience for nontechnical learners this journey equips you to contribute confidently to datadriven projects and understand what goes behind impactful presentations discover how to frame your data as a compelling story ensuring your voice is heard clearly and your insights take center stage
-
-introduction to data storytelling
+</DOC>
+<DOC>introduction to data storytelling
 welcome to the data storytelling explore the relevance and potential of data storytelling in the present and future delve into the uses of data storytelling today and how it can impact decisionmaking processes through engaging and insightful gain a comprehensive understanding of the significance of data storytelling and its critical role in effective decisionmaking get ready to unlock the potential of data and harness it to drive impactful narratives and informed choices
 introduction introduction to datastorytelling key elements of a good data story characteristics of a good data story relevance of data storytelling in present and future times
+</DOC>
 
-role of data in data storytelling
+<DOC>role of data in data storytelling
 understanding the importance of relevant data in data storytelling learners gain the ability to effectively identify the relevance of their data and make informed decisions they to assess their data sources critically considering factors such as credibility accuracy and timeliness by aligning their data with the narrative they aim to convey learners ensure that their storytelling is wellsupported and impactful however if they find that their data is not relevant for the data story learners are equipped with strategies to address this challenge they explore alternative data sources conduct further research or adapt their storytelling approach to better align with the available data through this process learners develop the to create compelling data stories that are backed by credible and pertinent information enabling them to effectively engage and inform their audience
 role of data in data storytelling is your data relevant data quality data cleaning summarizing the role of data in storytelling
+</DOC>
 
-visualization and data storytelling
+<DOC>visualization and data storytelling
 visualization plays a vital role in data storytelling enabling learners to effectively communicate complex information in a visually compelling manner learners delve into various techniques and tools that empower them to transform raw data into engaging visual narratives they gain an understanding of different visualization types such as charts graphs and infographics and how to select the most appropriate format to convey specific messages learns will develop deep understanding of common design principles that must be applied on data visualizations use of color in data visualizations and techniques to reduce cognitive load in data visualizations they will an interesting concept of adding interactivity in data visualizations through various examples and techniques the equips learners with the knowledge and expertise to leverage visualization as a powerful storytelling tool enabling them to present datadriven narratives with impact and clarity
 an introduction to data visualization selecting right visualization for your data common design principles for effective visualizations use of colors in graphs cognitive load in visualization design interactivity in data visualization summarizing common principles for creating compelling data visualizations
+</DOC>
 
-narrative in data storytelling
+<DOC>narrative in data storytelling
 learners would dive into the topic of narrative and its significance in crafting compelling datadriven stories they would explore the fundamental elements of storytelling including plot characters conflict and resolution and understand how to apply these principles to data narratives learners would how to structure their stories effectively creating a clear beginning middle and end that engage and captivate their audience they would also delve into techniques for incorporating data seamlessly into narratives using it as evidence to support key points and enhance the overall story finally learns will understand how to tell a data story upholding the ethical standards and what would that mean in a reallife scenario through multiple reallife examples and applications learners will develop a deep understanding of the role of narrative in data storytelling and how to craft a compelling narrative
 what makes a compelling narrative selecting a narrative a data story from narrative to story presenting your data story ethical considerations in data storytelling summarizing key considerations for an engaging data narrative expert talk the journey from data to insights
 </DOC>
-
 <DOC>
 data analysis using sql
 comprehensive embark on a transformative journey to master the art of analyzing data through sql
 sql is a powerful tool used for managing and manipulating data in relational databases throughout this acquire the essential to efficiently extract relevant data from databases empowering you to navigate through vast amounts of information with ease with a focus on practical application delve into the world of data analysis discovering how to derive meaningful insights from large datasets housed within complex relational databases by the end of this gain to create and modify databases equipping you with the ability to solve realworld business problems to filter and clean datasets ensuring the accuracy and reliability of your analysis whether you aspire to be a data analyst a business intelligence or a decisionmaker relying on datadriven insights this will provide you with the necessary tools and knowledge to succeed
-
-introduction to data analysis using sql
+</DOC>
+<DOC>introduction to data analysis using sql
 this aims to introduce the key aspects and applications of sql the first will cover the limitations of excel via the story of a data scientist as as define the different types of databases post installation the learners will go through a pseudo code exercise wherein the learner will also elementary sql queries to retrieve data using keywords such as select from count distinct etc
 gateway to the database and why relational database choosing the right rdbms introduction to the ui of mysql case study foodhunter import data writing your first code to explore orders table part writing your first code to explore orders table part
+</DOC>
 
-data analysis with sql on a single table
+<DOC>data analysis with sql on a single table
 this is designed to empower users with comprehensive in analysing data within a single table using sql queries by delving into various sql querying techniques students will gain proficiency in efficiently retrieving manipulating and aggregating data the students will get acquainted with keywords such as where limit avg max min etc the goes beyond theoretical concepts by providing practical exercises and a case study allowing users to apply what theyve learnt in a realworld scenario
 understanding the monthly sales analyzing the trend in sales for foodhunter various factors affecting revenue hypothesis generation did discounts have any impact on sales did day have any impact on sales
+</DOC>
 
-advanced functions on single tables in sql
+<DOC>advanced functions on single tables in sql
 this will enhance a learners proficiency in utilising advanced sql functions for comprehensive data analysis throughout this students will delve into a diverse range of robust sql functions including string functions such as substring concat datetime functions like dateadd and datediff case operators and branching logic the will also incorporate practical exercises and an engaging case study enabling students to further strengthen their problemsolving and gain handson in applying these functions in reallife scenarios
 understand percentage change in sales over months understanding window functions compare monthonmonth change in revenue insights based on delivery time
+</DOC>
 
-analyzing multiple tables in sql
+<DOC>analyzing multiple tables in sql
 the learner will gain valuable to navigate complex data structures harness the power of join operations grasp the intricacies of subqueries and comprehend the significance of different types of keys additionally they will be introduced to the fundamental concept of normalisation which plays a vital role in database design by the conclusion of this students will possess the expertise to make informed decisions by extracting insights from joined datasets
 a sneak peek into the combine information from different tables using joins analysing the food preferences of customers finding restaurants with no items ordered
+</DOC>
 
-crud operations in sql
+<DOC>crud operations in sql
 learners will dive deeper into various table operations expanding their knowledge beyond just querying they will essential including creating tables modifying table structures adding and deleting columns and implementing table constraints these essential concepts and techniques will empower learners to handle data manipulation tasks maintain robust databases and optimise data organisation
 complete recall and a gist of the converting raw data into a structured relational dataset importing data using the table import wizard understanding percentage change in competitor revenue vs foodhunter revenue introduction to the global problem statement basic querying of data product based analysis of sales impact of campaign on sales of products
 </DOC>
-

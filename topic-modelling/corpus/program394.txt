@@ -9,65 +9,71 @@ these courses include detailed handson exercises stepbystep guides which teach a
 linux system administration with ibm power systems
 this introduces administrative tasks that a system administrator can perform with linux hosted on ibm power servers this includes virtualization concepts such as logical partitioning installation of linux commandline operations and more interesting administration and device management tasks
 this includes handson exercises with systems from an ibm data center
-
-virtualization with ibm power
+</DOC>
+<DOC>virtualization with ibm power
 test
 welcome introducing the ibm power family ibm power naming convention virtualizing your servers managing virtualization the hypervisor hardware management console processor concepts and management additional processor concepts and management resource
+</DOC>
 
-installing red hat enterprise linux
+<DOC>installing red hat enterprise linux
 app item discussion prompt
 running linux on ibm power configurating ibm power for linux installation planning installation details installation demo
+</DOC>
 
-system management strategies
+<DOC>system management strategies
 reading app item
 basic administration differences and console access command line acccess non console graphical user interface for linux networking in linux software repositories creating a local repository software installation part software installation part yum and vnc setup demo virtual optical media virtual media repository
+</DOC>
 
-all about systemd
+<DOC>all about systemd
 reading app item
 startup managers introduction to systemd systemd units and services systemd targets and ancillary components system initialization process system initialization deepdive systemd management operations log management more log management
+</DOC>
 
-ibm service and productivity tools
+<DOC>ibm service and productivity tools
 app items
 installing service and productivity tools src and rmc services rsct and electronic support services service aids and tools
+</DOC>
 
-cloud computing
+<DOC>cloud computing
 
 what is cloud computing cloud service and deployment models multitenancy and the benefits of cloud cloud adoption moving to cloud openstack a private cloud for you rest apis and ibm powervc
 </DOC>
-
 <DOC>
 private cloud management on ibm power systems
 ibm powervc an infrastructure as a service iaas enabling software provides a selfservice cloud console for managing ibm power systems it is built on openstack openstack is a collection of opensource software projects that enterprises can use to run their own private cloud infrastructure
 this explains most cloud management features starting with setting up a private cloud environment from the ground up it then covers planning sizing and other advanced administrative tasks you can perform to become an efficient system administrator
-
-introduction to private cloud
+</DOC>
+<DOC>introduction to private cloud
 discussion prompt
 introduction openstack components openstack in detail openstack introduction to ibm powervc the need for ibm powervc introduction to ibm cloud powervc manager planning for ibm powervc setup planning for storage storage usage and configuration storage network planning ethernet network planning security and performance planning
+</DOC>
 
-working with your private cloud
+<DOC>working with your private cloud
 app items discussion prompt
 ibm powervc installation procedure the installation update and upgrade of ibm powervc registering resources to be managed by powervc hosts adding storage resources introduction to storage providers configuring storage providers adding existing virtual machines performing management tasks on vms ibm powervc gui of ibm powervc gui of ibm powervc cli
+</DOC>
 
-system administration on private cloud
+<DOC>system administration on private cloud
 app item
 security and user management messages and logs rest apis ibm powervc commands to manage services backup and restore ibm powervc settings of ibm powervc settings of
+</DOC>
 
-images and virtual machines
+<DOC>images and virtual machines
 app items
 introduction to cloud images cloudinit concepts installing cloudinit on linux and aix creating an image
+</DOC>
 
-advanced features of ibm cloud powervc manager
+<DOC>advanced features of ibm cloud powervc manager
 app items
 active memory expansion and automated remote restart dynamic resource optimizer volume lifecycle and internal database managing projects in your private cloud other features
 </DOC>
-
 <DOC>
 fundamentals of red hat enterprise linux
 this will provide you with a basic introduction to linux using red hat enterprise linux it will show you how a linux system is organized and will demonstrate introductory system administration tasks
 the highlights the significance of linux and the open source development framework in the current it landscape linux systems are omnipresent powering the internet retail pointofsale setups global stock exchanges and more find linux at the heart of smart tvs airplane entertainment setups and the majority of leading supercomputers worldwide learning linux offers numerous advantages in the it sector proficiency in linux is highly sought after whether youre an app developer working with cloudbased solutions engaged in mobile or edge computing projects or dealing with windows systems requiring linux interoperability linux knowledge is crucial upon completing this participants will have a foundational understanding of operating linux through the command line with red hat enterprise linux serving as the basis these are vital for carrying out basic operational tasks whether on a local linux machine or a remote system accessed via the internet
-
-what is linux
+</DOC>
+<DOC>what is linux
 define open source linux linux distributions and red hat enterprise linux
 introduction of linux and red hat installing and accessing red hat enterprise linux
 </DOC>
-

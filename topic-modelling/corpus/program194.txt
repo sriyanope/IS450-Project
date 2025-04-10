@@ -10,123 +10,139 @@ throughout the five courses within this have the to undertake a series of assess
 immunology adaptive immune system
 about the role of immune responses of the adaptive acquired immune system which provides specialised immunity against pathogens
 guided by our researchers in the department of immunity and inflammation take a closer look at the lymphocyte subsets and mechanisms involved delayed finely tuned response occurring days to weeks after the initial exposure to microbial antigens also focus on the versatile cellular components which can distinguish between self and nonself antigens and on how age affects the immune responses
-
-b cell effector functions and tolerance
+</DOC>
+<DOC>b cell effector functions and tolerance
 in one learners will discover who b lymphocytes are and how they contribute to our immune response against pathogens together explore how they develop commit to becoming functional effector cells and what their effector mechanisms are also investigate how the immune system prevents them from overreacting against health cells
 introduction the innate and adaptive immune systems working together the adaptive responses the response strategies of adaptive immunity b cell effector functions part b cell effector functions part b cell tolerance
-
-t cell activation t helper subsets and receptors
-in two learners will discover how t lymphocytes develop differentiate into two main subtypes and how these contribute to the orchestration of the adaptive immune response and the direct destruction of infected cells also discuss the mechanism that our body has put in place to prevent these very powerful cells from turning against the hosts healthy cells
-t helper cells subsets th th and beyond the thymus and t cell repertoire selection
-
-cytotoxic killing
-in three explore the ability of some t lymphocytes to directly kill infected and tumour cells about the mechanisms that activate them contrast this with other complementary immune mechanisms of direct killing and understand how their activation is kept under tight control to avoid the destruction of healthy cells
-
-regulatory t cells
-in four explore the development and function of a particular type of t lymphocytes regulatory t cells whose main role is to regulate the overall immune response to avoid serious detrimental for the host look at their mechanisms of action in more details and discuss their therapeutic application for human health
-
-lymphocyte recirculation and homing
-in five learners will be taken on a travel journey into our body to understand how the correct immune cells get to the correct site of infection this will involve understanding the mechanisms by which immune cells migrate from the blood stream to infected tissues and sites of activation importantly together with our expert here at imperial also explore the importance for this ability to be tightly regulated
-lymphocyte recirculation lymphocyte homing to tissues
-
-the effect of age on the function of the immune system
-in six explore the impact ageing has on the immune system identify what inflammaging is its causes and its consequences on the immune system reflect on what this means in terms of therapeutical approaches for human health
 </DOC>
 
+<DOC>t cell activation t helper subsets and receptors
+in two learners will discover how t lymphocytes develop differentiate into two main subtypes and how these contribute to the orchestration of the adaptive immune response and the direct destruction of infected cells also discuss the mechanism that our body has put in place to prevent these very powerful cells from turning against the hosts healthy cells
+t helper cells subsets th th and beyond the thymus and t cell repertoire selection
+</DOC>
+
+<DOC>cytotoxic killing
+in three explore the ability of some t lymphocytes to directly kill infected and tumour cells about the mechanisms that activate them contrast this with other complementary immune mechanisms of direct killing and understand how their activation is kept under tight control to avoid the destruction of healthy cells
+</DOC>
+
+<DOC>regulatory t cells
+in four explore the development and function of a particular type of t lymphocytes regulatory t cells whose main role is to regulate the overall immune response to avoid serious detrimental for the host look at their mechanisms of action in more details and discuss their therapeutic application for human health
+</DOC>
+
+<DOC>lymphocyte recirculation and homing
+in five learners will be taken on a travel journey into our body to understand how the correct immune cells get to the correct site of infection this will involve understanding the mechanisms by which immune cells migrate from the blood stream to infected tissues and sites of activation importantly together with our expert here at imperial also explore the importance for this ability to be tightly regulated
+lymphocyte recirculation lymphocyte homing to tissues
+</DOC>
+
+<DOC>the effect of age on the function of the immune system
+in six explore the impact ageing has on the immune system identify what inflammaging is its causes and its consequences on the immune system reflect on what this means in terms of therapeutical approaches for human health
+</DOC>
 <DOC>
 immunology autoimmunity allergy and transplants
 explore the mechanisms and immune responses involved in autoimmune diseases and in hyperresponsive phenomena such as asthma examine in detail the potential causes and factors behind an overactive immune system and the disorders that might ensue if the response is not adequately controlled also analyse the effects of overactive immune response in transplant rejection
-
-introduction to autoimmunity
+</DOC>
+<DOC>introduction to autoimmunity
 autoimmunity characterised by selfaggression by the immune system is a series of highly complex and multifactorial conditions which result from uncontrolled immune responses in one explore the mechanisms involved in autoimmunity investigate autoimmune disease types and discuss novel treatments
 introduction stimulating and winding down immune responses immune tolerance mechanisms and their failure introduction to autoimmunity
+</DOC>
 
-systemic lupus erythematosus sle
+<DOC>systemic lupus erythematosus sle
 in the company of our worldwide expert two will present a common autoimmune condition systemic lupus erythematosus in more details together explore the causes and risks factors at the origin of the condition focus on the immune origins of the diseases and touch on the impact of environmental factors
+</DOC>
 
-haematological autoimmune conditions
+<DOC>haematological autoimmune conditions
 in three explore two autoimmune conditions affecting specific blood components using these two conditions our expert will illustrate their causative immune dysregulation their pathogenesis and current treatment strategies finally the will illustrate additional autoimmune blood condition and detail their immunological cause
+</DOC>
 
-asthma and allergic reactions
+<DOC>asthma and allergic reactions
 asthma and allergic diseases constitute the most common chronic inflammatory disorders particularly in children with constantly increasing prevalence in westernised countries four will explore these complex conditions the interactions between genetic and environmental factors as as the involvement of immune players notably the cells subsets that are involved and the research that is being conducted to develop novel treatment strategies
 inappropriate immune responses and hyperresponsiveness introduction to asthma t follicular helper cells in allergy and asthma
+</DOC>
 
-antibodymediated transplant rejection
+<DOC>antibodymediated transplant rejection
 last one will focus on transplantation and the role of the immune system lifesaving intervention by exploring the involvement of both innate and adaptive immune cells and molecules your will ultimately better understand the therapeutic measures taken to ultimately prevent graft rejection
 tissue transplant and the immune systems antibodymediated transplant rejection
 </DOC>
-
 <DOC>
 immunology immune failures and cancer immunology
 our immune system is a powerful network it protects us from external threats such as harmful substances and pathogenic agents as as cellular changes which could lead to diseases complications emerge when our natural defences do not function properly which can result in immune disorders these can take the form of less severe issues such as insect allergy others are more harmful such as auto aggressive immune reactions that lead to localised or systemic tissue damage
 about immune system failures which can cause insufficient responses to internal or external threats look at immune deficiencies these weaken an individuals immunity and leave them unable to effectively fight infections or manage disease examine the consequences of chronic inflammation on the immune system in the context of ectopic lymphoid organs also examine immune system malfunctions in tumour development and the role of viral infections in human cancer
-
-immunodeficiencies
+</DOC>
+<DOC>immunodeficiencies
 in one explore the genetic regulation of our immune system through the example of primary immuno deficiencies and looking at their detrimental effect on our innate andor adaptive responses discuss their individual pathological manifestation and some potential therapeutic avenues of investigation
 introduction immune response regulation and disorders primary and secondary immunodeficiencies human immune deficiencies
+</DOC>
 
-tertiary lymphoid structures
+<DOC>tertiary lymphoid structures
 in two our expert will take you on a journey to explore tertiary lymphoid structures these are immunological organisations that develop in tissues affected by chronic inflammation in response to various alienations interestingly explore why these structures can sometime hinder or benefit disease resolution
+</DOC>
 
-tumour immunology
+<DOC>tumour immunology
 in three discover that the of cancer heavily relies on the crosstalk and relationship between the tumour and immune cells found in its microenvironment explore this relationship from the point of view of tumour escape mechanisms and how these manipulate our immune response finally about therapies that use our immune system to combat this deadly disease
 tumour cells cancer and immune mechanisms introduction to tumour immunology part introduction to tumour immunology part
+</DOC>
 
-viral persistence and human cancer
+<DOC>viral persistence and human cancer
 with approximately ten percent of the global cancer burden potentially attributed to viruses our last of the four will explore the relationship between viral persistence on cancers importantly as viral infection is not sufficient for cancer to develop investigate the physiological contribution of our immune system complex landscape
 virus persistence and human cancer part virus persistence and human cancer part
 </DOC>
-
 <DOC>
 immunology innate immune system
 our immune system relies on an innate and an adaptive arm that communicate and collaborate to provide us with an optimal response against pathogens this focuses on our innate immunity which provides us our first fast and inherited defence against infections
 take a closer look at the mechanisms and cellular components involved swift response that occurs within minutes of exposure to a threat throughout the and guided by our active researchers have to recognise its key protective mechanisms and to explain their importance for our overall health about the mechanisms it uses to inform our adaptive immune system of the presence of a threat and understand how some environmental factors such as our own internal microbiome influences it finally have to reflect on current related issues and controversies fascinating field of research
-
-components of the innate immune system
+</DOC>
+<DOC>components of the innate immune system
 in one explore the main component of the innate immune system start by looking at the surfaces that are first exposed to potential pathogens and how they prevent most pathogens from entering our body then about our main innate protective mechanisms and discuss how this inherited system is able to recognise and combat infection by the end of this learners will be able to describe these actors and mechanisms in detail
 introduction introduction to innate immunity the evolution of our immune systems components of the innate immune system
-
-the complement system
-in two explore a key soluble component of our innate immune system the complement about its main components how it gets activated by pathogens and how the leads to pathogens destruction also explore how the complement system contributes to other innate immune activities such as phagocytosis that is the uptake of microorganisms by immune cell for destruction
-
-programming of innate immunity by the microbiota
-in three investigate how our microbiota plays a protective role in our health first define the human microbiome in more details and explore its influence on various common pathologies such as asthma diabetes or cancer the ends on an for learners to reflect and share with others on the effects of probiotics on our health
-the protective role of the microbiota programming host defences to infection by the microbiota part programming host defences to infection by the microbiota part
-
-antigen processing mhc class i and class ii
-in four understand how the innate system communicates with the adaptive immune cells explore which cells oversee this essential function and how they capture digest and present pathogenic molecules to the adaptive immune cells to for their activation importantly also investigate how the innate immune response helps this second phase of response to adapt to the nature of the infection
-antigen presentation mhc class and antigen processing mhc class and antigen processing
-
-natural killer cells
-in five look at one example of innate cells called natural killers that are directly able to destroy infected and tumour cells explore how they interact with other immune cells how they recognise their target cells and the mechanisms they use to lead to their death importantly also discover the mechanisms that prevent their misactivation to prevent the disastrous destruction of health host cells
 </DOC>
 
+<DOC>the complement system
+in two explore a key soluble component of our innate immune system the complement about its main components how it gets activated by pathogens and how the leads to pathogens destruction also explore how the complement system contributes to other innate immune activities such as phagocytosis that is the uptake of microorganisms by immune cell for destruction
+</DOC>
+
+<DOC>programming of innate immunity by the microbiota
+in three investigate how our microbiota plays a protective role in our health first define the human microbiome in more details and explore its influence on various common pathologies such as asthma diabetes or cancer the ends on an for learners to reflect and share with others on the effects of probiotics on our health
+the protective role of the microbiota programming host defences to infection by the microbiota part programming host defences to infection by the microbiota part
+</DOC>
+
+<DOC>antigen processing mhc class i and class ii
+in four understand how the innate system communicates with the adaptive immune cells explore which cells oversee this essential function and how they capture digest and present pathogenic molecules to the adaptive immune cells to for their activation importantly also investigate how the innate immune response helps this second phase of response to adapt to the nature of the infection
+antigen presentation mhc class and antigen processing mhc class and antigen processing
+</DOC>
+
+<DOC>natural killer cells
+in five look at one example of innate cells called natural killers that are directly able to destroy infected and tumour cells explore how they interact with other immune cells how they recognise their target cells and the mechanisms they use to lead to their death importantly also discover the mechanisms that prevent their misactivation to prevent the disastrous destruction of health host cells
+</DOC>
 <DOC>
 immunology immune system and infectious diseases
 the constant struggle between pathogens and the human immune system has been posing a significant threat to our health for thousands of years
 infectious diseases remain the leading cause of death worldwide these are typically caused by bacteria intra and extracellular viruses fungi parasites wormshelminths and prions under normal circumstance the immune response orchestrates a robust protection against these pathogens using both molecular and cellular mechanisms this usually leads to direct or indirect inactivation of the infectious agent so the disease symptoms may not appear however numerous pathogens have devised immune evasion strategies which allow them to play hide and seek with our immune system the avoidance of human natural defences may result in host colonisation by a pathogen and thus an infection this can manifest as disease when the infectious agent replicates and inflicts damage about the different types of pathogens their confrontation with human immune system and the dramatic consequences of their evasive strategies
-
-immune response to bacteria
+</DOC>
+<DOC>immune response to bacteria
 in one explore the innate and adaptive mechanisms of defence against bacterial infections in the human host as they differ the responses to both intracellular and extracellular bacteria will be discussed in particular about the specific cell subsets that are involved and the molecules and mechanisms they deploy to provide protection against these pathogenic infections
 introduction pathogens and the resources they seek immune responses to specific pathogens immune diversity in different populations and ages the immune response to bacteria mechanical chemical and innate immune responses the immune response to bacteria cellular responses to extracellular bacteria the immune response to bacteria cellular responses to intracellular bacteria
-
-viral immunity and evasion
-in two explore both innate and adaptive mechanisms of defence against viral infections in the human host the specific cellular and molecular immune mechanisms involved protection will be discussed finally our experts will explain the plethora of strategies developed by the viruses to evade from our immune system and that ultimately allow them to survive and sometimes thrive in their mammalian host some examples will be discussed including sarscov
-viral immunity and evasion part virology and immunology viral immunity and evasion part viral evasion type interferon responses during respiratory viral infections
-
-immunity against fungal infections
-three of this will explore in detail the immune mechanisms deployed by the mammalian host to combat this particular eukaryotic type of pathogen in particular discuss the role of specific cells and molecules involved and using specific examples you understand how our immune system responds to the various types of fungus its host encounters
-immunodeficiency and fungal infection part immunodeficiency and fungal infection part
-
-immune responses to leishmania parasites
-in four explore the innate and adaptive immune responses to this neglected parasitic infection the specific cells and molecules and their interactions will be explored using the different forms of the diseases our expert will discuss how the parasite is able to use the immune system to evade destruction
-immunity to leishmania parasites part immunity to leishmania parasites part immunity to leishmania parasites part
-
-malaria infection and immunity
-five will investigate our immune response to this deadly parasite presented by our experts in the field this will cover the cells and molecules involved as as the different phases of immune response deployed in the various phases of the parasites life cycle in the host the will also cover immune resistance to the clinical symptoms of the disease and will explain the difficulties encountered in the development of efficient prevention and treatment options
-malaria immune response and immunity malaria immunopathogenesis
-
-tuberculosis and human immunity
-six our last in the is dedicated to understanding tuberculosis led by our experts in the field discover the symptomatic diversity of this bacterial infection the primary cause of death worldwide resulting from a single pathogen explore our immune response against this pathogen the factors contributing to the ongoing tuberculosis epidemic and the immunopathology of the disease
 </DOC>
 
+<DOC>viral immunity and evasion
+in two explore both innate and adaptive mechanisms of defence against viral infections in the human host the specific cellular and molecular immune mechanisms involved protection will be discussed finally our experts will explain the plethora of strategies developed by the viruses to evade from our immune system and that ultimately allow them to survive and sometimes thrive in their mammalian host some examples will be discussed including sarscov
+viral immunity and evasion part virology and immunology viral immunity and evasion part viral evasion type interferon responses during respiratory viral infections
+</DOC>
+
+<DOC>immunity against fungal infections
+three of this will explore in detail the immune mechanisms deployed by the mammalian host to combat this particular eukaryotic type of pathogen in particular discuss the role of specific cells and molecules involved and using specific examples you understand how our immune system responds to the various types of fungus its host encounters
+immunodeficiency and fungal infection part immunodeficiency and fungal infection part
+</DOC>
+
+<DOC>immune responses to leishmania parasites
+in four explore the innate and adaptive immune responses to this neglected parasitic infection the specific cells and molecules and their interactions will be explored using the different forms of the diseases our expert will discuss how the parasite is able to use the immune system to evade destruction
+immunity to leishmania parasites part immunity to leishmania parasites part immunity to leishmania parasites part
+</DOC>
+
+<DOC>malaria infection and immunity
+five will investigate our immune response to this deadly parasite presented by our experts in the field this will cover the cells and molecules involved as as the different phases of immune response deployed in the various phases of the parasites life cycle in the host the will also cover immune resistance to the clinical symptoms of the disease and will explain the difficulties encountered in the development of efficient prevention and treatment options
+malaria immune response and immunity malaria immunopathogenesis
+</DOC>
+
+<DOC>tuberculosis and human immunity
+six our last in the is dedicated to understanding tuberculosis led by our experts in the field discover the symptomatic diversity of this bacterial infection the primary cause of death worldwide resulting from a single pathogen explore our immune response against this pathogen the factors contributing to the ongoing tuberculosis epidemic and the immunopathology of the disease
+</DOC>

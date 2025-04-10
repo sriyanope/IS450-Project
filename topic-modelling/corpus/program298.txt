@@ -12,79 +12,85 @@ students may also further their involvement with this material by opening a trad
 us bond investing basics
 fixed income to distinguish between different types of us dollardenominated corporate and municipal debt issuance identify corporate and municipal bonds available to purchase and sell on an online trading platform grasp the market mechanics underlying each type of fixed income instrument as as conduct basic analyses and flag critical investment risks
 at the end of the you should be able to describe different types of corporate and municipal bond products available to buy and sell some of the related risks you as an investor are likely to face certain ways of mitigating them as as how to use an online trading platform to identify available securities to invest in conduct due diligence and much more
-
-introduction to municipal bonds
+</DOC>
+<DOC>introduction to municipal bonds
 to differentiate different types of municipal debtidentify different features of municipal bonds available to purchase and sell on an online trading platform track the trading performance of municipal bonds in the secondary market grasp the market mechanics underlying municipal bond issuance conduct fundamental governance and default risk analyses and calculate debt service coverage ratios
 fixed income introduction to municipal bonds general obligation bonds revenue bonds shortterm notes secondary market
+</DOC>
 
-municipal bond analysis tax considerations
+<DOC>municipal bond analysis tax considerations
 determine how taxes are applied to different types of fixed income issuance including instate and out ofstate municipal bond purchases build america bonds babs corporate bonds and us treasuries as as examine recent tax law changes and how taxes apply to capital gains and losses how to compare the yields of taxexempt and taxable debt issuance as as explore how taxes are applied to different types of municipal bonds how to access detailed municipal bond reports through an online trading platform as as consult resources such as the msrbs emma which houses critical municipal bond documentation and data including official statements and continuing disclosures
 due diligence part of due diligence part of due diligence part of tax considerations
+</DOC>
 
-introduction to us corporate bonds
+<DOC>introduction to us corporate bonds
 what it means for a company to fail to honor its debt obligations and what this portends for its creditors define the recourse corporate bondholders have in the wake of a companys default or bankruptcy filing as as describe certain default risk mitigation methodsexplore how investors of corporate bonds may commit a tremendous amount of time to fundamental analysis to inform their investment decisions conducting analyses on credit market liquidity operational and political risks among countless others when considering the potential for default examine how interest rate changes and central bank monetary policies can affect corporate bond prices as as influence levels of supply and demand in the market identify the steps involved in the creation of a corporate bond issuance as as examine some of the regulatory rules that govern this process examine the differences between yields and prices of corporate bonds trading in the secondary market as as explore the nature of basis point spreads
 corporate bond default risk fundamental analysis interest rate risk and central bank support credit ratings primary market practical intro to the ibkr global bond scanner understanding prices and yields fixed income conclusion
 </DOC>
-
 <DOC>
 derivatives options futures
 while investing and trading in the options market may seem somewhat more daunting than other asset classes such as stocks bonds exchangetraded funds currencies and commodities ultimately find that their complexity can be boiled down to simple concepts be able to understand and use the more youre exposed to and have handson with the material our aim is for you to acquire these as as the knowhow to invest and trade in these oftencomplex financial instruments
 explore the mechanics of futures market where introduce you to some of the risks faced by investors in the futures market how certain of those risks are mitigated as as the difference between spot and forward prices and contango and backwardation also provide you with other insights about the mechanics of trading futures including the roles of commoditized contracts as as margin requirements students may also further their involvement with this material by opening a free demo trader workstation paper trading account enabling them to enjoy a handson in a safe simulated trading environment while being fully immersed in the fundamentals that underpin the capital markets options involve risk and are not suitable for all investors for more information read the characteristics and risks of standardized options also known as the options disclosure document odd to receive a copy of the odd call or copy and paste this link into your browser httpwwwoptionsclearingcomaboutpublicationscharacterrisksjsp multiple leg strategies including spreads will incur multiple commission charges
-
-all about options
+</DOC>
+<DOC>all about options
 of options which includes distinguishing between call and put options identifying the components of an options contract on a trading platform making certain decisions in the options market as a contract writer or owner viewing different stock options positions examining whether a given position is in or outofthemoney and understanding some of the benefits and critical risks faced by equity options traders options involve risk and are not suitable for all investors for more information read the characteristics and risks of standardized options also known as the options disclosure document odd to receive a copy of the odd call or copy and paste this link into your browser httpwwwoptionsclearingcomaboutpublicationscharacterrisksjsp
 all about options what is an option stock option buyers sellers terms types stock options contract components stock options benefits risks
+</DOC>
 
-options market mechanics
+<DOC>options market mechanics
 about the options market mechanics by introducing topics such as putcall parity pricing payout of an option trade and certain risk variables referred to as the greeks options involve risk and are not suitable for all investors for more information read the characteristics and risks of standardized options also known as the options disclosure document odd to receive a copy of the odd call or copy and paste this link into your browser httpwwwoptionsclearingcomaboutpublicationscharacterrisksjsp multiple leg strategies including spreads will incur multiple commission charges
 options market mechanics understanding putcall parity option valuation and input variables introduction to options the greeks
+</DOC>
 
-basic option strategies
+<DOC>basic option strategies
 this will focus on some basic strategies to use in bull markets when prices rise and in bear markets where prices fall as you may have gathered from earlier lessons the characteristics of options requires and precision when making investment decisions these strategies are displayed to give you an idea of what might when making investing decisions offer an explanation of several strategies for either type of market outlook and also walk you through what they are designed to achieve further provide a practical demonstration of how to set up each trade using ibkrs trader workstation options involve risk and are not suitable for all investors for more information read the characteristics and risks of standardized options also known as the options disclosure document odd to receive a copy of the odd call or copy and paste this link into your browser httpwwwoptionsclearingcomaboutpublicationscharacterrisksjsp
 basic option strategies bull market long call practical usage bull market long call bull market short put practical usage bull market short put bull market covered call practical usage bull market covered call bear market long put practical usage bear market long put bear market covered put practical usage bear market covered put
+</DOC>
 
-neutral market strategies
+<DOC>neutral market strategies
 in the previous we introduced you to several trades designed to be of use in either up or down markets explore a couple of strategies that may be used by option traders to take advantage of a lull in the markets
 neutral market strategies neutral market short straddle practical usage neutral market short straddle neutral market short strangle practical usage neutral market short strangle
+</DOC>
 
-mechanics of the futures market
+<DOC>mechanics of the futures market
 introducing the mechanics of futures market where introduce you to some of the risks faced by investors in the futures market how certain of those risks are mitigated as as the difference between spot and forward prices and contango and backwardation also provide you with other insights about the mechanics of trading futures including the roles of commoditized contracts as as margin requirements
 mechanics of the futures market a word about risk new futures prices contango backwardation a closer look at contracts futures margin futures contract demo derivatives conclusion conclusion of
 </DOC>
-
 <DOC>
 fundamentals of equities
 will look at industries and economic sectors that neatly define an economy also introduce you to fundamental concepts involved in a companys annual statements such as balance sheets cash flows and its income statement plus explore popular fundamental values used to filter vast amounts of corporate stocks and finally examine mutual funds and etfs as alternatives to individual stocks for investing
 to facilitate a comprehensive understanding of essential concepts discussed this includes a series of practical examples quizzes reading materials and a final project
-
-stocks the business cycle
+</DOC>
+<DOC>stocks the business cycle
 familiarize yourself with some common terms and concepts surrounding investments such as capital types of investors equilibrium risks and diversification identify the different stages of growth and what happens during each introduce a couple of tools to improve your grasp of different industries and sectors within the economy also to help you visualize what you have learned about the business cycle
 about this fundamental of equities intro to the stock market introduction to the business cycle sectors using state streets select sector spdr exchange traded funds the economy in investable sectors
+</DOC>
 
-fundamental analysis
+<DOC>fundamental analysis
 lets walk through the basic fundamental accounting concepts covering the income statement balance sheet and statement of cash flows this will be followed by a practical demo of additional fundamental tools
 practical demo of stock fundamentals balance sheet income statement cash flow statement
+</DOC>
 
-funds
+<DOC>funds
 acquire certain and understanding related to mutual funds and etfs including how to identify various product types as as their benefits and drawbacks gain handson knowhow through a practical demonstration of how to use market scanners an online trading platform
 introduction to mutual funds mutual fund trading pricing and fees fundamental of equities conclusion
 </DOC>
-
 <DOC>
 forex trading around the world
 introduce you to the foreign currency market including who participates in it and some of their reasons for doing so also gain an understanding of the complex nature of certain trading products as as some of the risks investors typically face
 also explore the use of margin in your account and provide you with a case study showing how to invest in the stock of a nondomestic company listed on a foreign exchange as as guide you through entering an overseas trade on an online trading platform by the end of this you should gain a broad of the foreign exchange market understand certain major currency products and acquire some practical that will help you to divein and make trades on your own
-
-trading around the world
+</DOC>
+<DOC>trading around the world
 acquire the to make stock transactions in the foreign currency market on an online trading platform understand market mechanics including major and minor currency pairs trading products risks market participants and their motives as as the foreign exchange marketplace and margin accounts
 trading around the world intro to the fx market pairs major currency products fx rate and drivers
+</DOC>
 
-intro to fx stock trading
+<DOC>intro to fx stock trading
 understand how to trade shares of overseaslisted companies in foreign currencies
 intro to fx stock trading case study fx stock trades trading forex using tws fxtrader
+</DOC>
 
-entering an overseas trade
+<DOC>entering an overseas trade
 acquire the to trade in the overseas equities markets on an online trading platform as as understand how to manage currency exposure
 practical demo entering an overseas trade trading around the world conclusion
 </DOC>
-

@@ -22,213 +22,235 @@ at the end of the there will be a capstone project where bring all of your knowl
 coding interview preparation
 the final will help prepare you for the unique aspects of a coding job interview with approaches to problemsolving and computer science foundations needed to land the job ultimately gain strategic insights and tips for successful interviewing
 by the end of this have knowledge of appropriate communication during a coding interview successful interviewing strategies using pseudocode the fundamentals of computer science the capabilities of data structures and how to implement them how to review data structures in the context of coding interviews the concept of algorithms and common approaches to working with them how to visualize an algorithm combining new and previously learned coding patterns to solve problems ideally you should have completed all the courses
-
-introduction to the coding interview
+</DOC>
+<DOC>introduction to the coding interview
 introductory about a coding interview what it could consist of and the types of coding interviews you might encounter about how to prepare for a coding interview focusing on communication and working with pseudocode also get an introduction to computer science including the fundamental concepts of binary big o notation and time and space complexity
 introduction to the introduction to the technical recruitment process what is a coding interview communication what to expect from a technical interview binary memory time complexity space complexity introduction to the coding interview
+</DOC>
 
-introduction to data structures
+<DOC>introduction to data structures
 the second of this covers data structures about the implementation and capabilities of data structures between various programming languages and the similar patterns of the overarching architecture about basic data structures such as strings integers arrays and objects before moving on to collection data structures including lists stacks and trees and advanced data structures such as hash tables heaps and graphs
 basic data structures lists and sets stacks and queues trees hash tables heaps graphs introduction to data structures
+</DOC>
 
-introduction to algorithms
+<DOC>introduction to algorithms
 about algorithms cover common approaches to sorting and searching with algorithms also explore the time and space complexity aspects of both sorting and searching then more about working with algorithms demonstrating how to visualize and problem solve with algorithmic approaches such as divide and conquer greedy algorithms and dynamic programming
 sorting algorithms searching algorithms divide and conquer recursion dynamic programming greedy algorithms introduction to algorithms
+</DOC>
 
-final project
+<DOC>final project
 be assessed on the key concepts and topics covered in the
 recap wrap up
 </DOC>
-
 <DOC>
 backend developer capstone
 the capstone project enables you to demonstrate multiple by solving an authentic realworld problem test your abilities in fullstack backend development in a reallife scenario by composing a django web app each includes a brief recap of and links to content that you have covered in previous courses
 use clean and bugfree coding to create a django web server with multiple api endpoints and connect it to a mysql database also create a template system driven by django views by the end of the be able to compose a backend application using multiple use django to serve static html content commit the project to a git repository connect the backend to the database implement the menu and table booking apis set up user registration and authentication test the application with unit tests and insomnia synthesize the from this and evaluate other learners reflect on this projects content and on the learning path that lies ahead on completion of the capstone project have a projectbased portfolio that you can show to potential employers when interviewing for an engineering role to complete this need backend developer additionally it always helps to have a cando attitude
-
-starting the project
+</DOC>
+<DOC>starting the project
 get practical handson using the django web framework
 introduction to the setting up the project what you know about urls and routes
+</DOC>
 
-project functionality
+<DOC>project functionality
 revise models revisit the concepts of working with databases and models in django set up the mysql connection and create the required models for the web application then build the menu and table booking apis using the django rest framework
 working with databases and models building an api
+</DOC>
 
-security and testing
+<DOC>security and testing
 focus on user authentication and testing the api revisit the concepts to help you secure your app and apis add user authentication by setting up user registration login and logout functionality then implement the code to secure the table booking api next test your application code using unit testing and test the api endpoints using the insomnia rest client finally push your commits to github
 securing your app testing your application
+</DOC>
 
-project assessment
+<DOC>project assessment
 be assessed on the fundamental covered as you build the capstone projects functionality have a chance to compare your code and your designs with your peers via a peer review and have the to through a solution to some of the most challenging parts of the capstone project at the end of this complete a graded assessment reflect on your learning and be guided to the next steps in your coding journey
 recap for capstone project congratulations you have completed the capstone project
 </DOC>
-
 <DOC>
 django web framework
 its time to build something bigger use the django web framework to build secure and administer a web server have the to create design and configure a web app using the django framework inline with best practices
 explore the usage of models in django and their relationship to databases use views to render requested data to meaningful template structures for a composed user interface ui implement proactive security practices and mitigate common security risks by the end of the be able to design a django web application using python html and css describe and implement the http request response cycle by creting views routes and templates describe and build a data model to create database tabless and dynamic web forms explore the django template language to create dyanamic webpages that display data stored in a database create share and test your web application by using industry standard best practice and guidelines to succeed you are required to have a fundamental knowledge of the following html and css python mysql you also require basic internet navigation and an eagerness to get started with coding in django
-
-introduction to django
+</DOC>
+<DOC>introduction to django
 get to know django and its uses and how to set up your projects and applications
 introduction to django web framework what is django how is django used in the real world projects and apps creating your first project djangoadmin managepy commands creating an app what is a web framework mvt example introduction to django
+</DOC>
 
-views
+<DOC>views
 delve further into the http request object to get a better understanding of how it maps to the common crud operations
 views creating views and mapping to urls creating views and view logic http requests creating requests and responses understanding urls mapping urls with params regular expressions in urls error handling demo handle errors in views classbased views views
+</DOC>
 
-models
+<DOC>models
 synthesize your new to with data across different layers and store the data in a mysql database
 models creating models migrations working with migrations a history of changes models using foreign keys using orm forms working with django form fields and data types creating forms model form django admin adding groups and users permissions users and permissions database options setting up a mysql connection models
+</DOC>
 
-templates
+<DOC>templates
 how to create a basic django template using bestpractice principles to ensure an efficient and maintainable build
 templates creating templates working with template language dynamic templates in django mapping model objects to a template template inheritance working with template inheritance debugging django applications testing in django templates
+</DOC>
 
-and graded project assessment
+<DOC>and graded project assessment
 practice and reflect on the you learned
 recap for django web framework solution part create the menu page solution part create the menu item page solution part how to create the footer congratulations
 </DOC>
-
 <DOC>
 the full stack
 as you prepare for your role in backend development practice bringing together multiple to build a fullstack django app start by setting up an environment for a local practical project and refactoring the front and backends of an existing application then have the to create the front and backends of a new application using your fullstack developer
 by the end of this be able to explain common concepts related to full stack development use html css and javascript to develop wellstructured interactive and responsive websites build a full stack application using django that stores its data in models on a mysql database and updates its pages with forms and api endpoints describe the different environments that web applications are deployed to to complete this need previous with backend development python version control databases django web framework and apis
-
-introduction to the full stack
+</DOC>
+<DOC>introduction to the full stack
 introduction to the concept of full stack developer about the roles and responsibilities of a full stack developer and n tier architecture
 introduction to the a day in the life of a full stack developer what is full stack development ntier architecture introduction to the full stack
+</DOC>
 
-frontend technologies
+<DOC>frontend technologies
 about the frontend technologies html css and javascript
 how are html and css used in the real world semantic tags and why we need them what is hyper text markup language semantic tags in action forms and validation form submission css web layout widely used selectors document flow block vs inline basic flexbox css grids pseudoclasses why javascript programming in javascript variables data types operators numbers strings booleans javascript selectors scoping with var let and const functions javascript dom manipulation event handling frameworks and libraries frontend technologies
+</DOC>
 
-the full stack using django
+<DOC>the full stack using django
 build a full stack application using django
 recap what you know about django recap what you know about apis recap what you know about databases and mysql configuring django to connect to mysql recap what you know about forms and modelforms fetching data using javascript the full stack using django
+</DOC>
 
-production environments
+<DOC>production environments
 explore the different environments that web applications are deployed to
 server and serverless virtual machines and containerization what is cloud computing key elements of cloud computing what is scaling load balancing production environments
+</DOC>
 
-final project
+<DOC>final project
 be assessed on the key covered in the
 recap the full stack wrap up
 </DOC>
-
 <DOC>
 introduction to databases for backend development
 backend developers write applications that endusers use to interact with databases some common tasks that endusers carry out using these applications include storing searching extracting and manipulating data
 therefore its essential that all backend developers possess strong knowledge and with how databases receive an introduction to databases and explore the different ways in which they can be used to store and manage data also to distinguish between different types of database management systems then practice basic creation and data selection tasks with the use of structured query language sql commands by the end of this be able to demonstrate a working knowledge of the concepts and principles that underpin how databases identify and explain the different types of core technology and management systems used in databases identify and interpret basic sql statements and commands manipulate records in a database with the use of sql statements and commands outline alternatives to sql and plan and design a simple relational database system also gain with the following fundamental concepts in database basic mysql syntax and commands database management systems relational databases
-
-introduction to databases
+</DOC>
+<DOC>introduction to databases
 receive an introduction to the and explore possible roles that you could follow as a database engineer also review some tips on how to take this successfully and discuss what it is that you hope to as part of your introduction about the basics of databases and data and how they then receive an introduction to sql or standard query language the coding syntax used to interact with databases finally explore the basic structure of databases and discover the different types of keys they use
 introduction to databases a day in the life of a database engineer what is a database how is data related alternative types of databases what is structured query language sql usage advantages of sql sql syntax introduction what are tables in databases types of keys in a database table introduction to databases
+</DOC>
 
-create read update and delete crud operations
+<DOC>create read update and delete crud operations
 explore crud or create read update and delete operations begin with an exploration of sql data types and how to differentiate between numeric data string data and default values also embark upon several exercises in which how to utilize these different data types within your database projects then move on to how to create and read data within a database discover how to create databases and tables and populate them with data using sql statements lastly explore the sql statements used for updating and deleting data in a database and to demonstrate your ability with crud operations complete exercises that will task you with creating and managing data
 numeric data types string data types default values create and drop database create table statement alter table statement insert statement select statement insert into select statement updating data deleting data create read update and delete crud operations
+</DOC>
 
-sql operators and sorting and filtering data
+<DOC>sql operators and sorting and filtering data
 explore sql operators and how to sort and filter data begin this with a lesson on sql operators as part of this first lesson explore the syntax and process steps used to deploy sql arithmetic and comparison operators within a database next discover how to sort and filter data using clauses the clauses that about include the order by clause where clause and select distinct clause in each lesson item receive an of how each clause is used to sort and filter data in a database also view demonstrations of these clauses and then receive an to try them for yourself
 sql arithmetic operators operators in use sql comparison operators order by clause where clause select distinct clause sql operators and sorting and filtering data
+</DOC>
 
-database design
+<DOC>database design
 about database design in the first lesson receive an of how to design a database schema as part of this about basic database design concepts like schema and find out about different types of schemas the next lesson focuses on relational database design lesson explore how to establish relationships between tables in a database using keys also about the different types of keys that are used in relational database design such as primary keys and foreign keys
 database schema schema in use types of database schema table relationships primary key foreign key finding entitites what is database normalization first normal form nf second normal form nf third normal form nf database design
+</DOC>
 
-graded assessment
+<DOC>graded assessment
 have an to recap what you learned and identify your strengths as as target topics that you would like to revisit
 recap introduction to databases for backend development congratulations you have completed intro to databases for backend development
 </DOC>
-
 <DOC>
 programming in python
 be introduced to foundational programming with basic python syntax how to use code to solve problems dive deep into the python ecosystem and popular libraries and tools for python
 also get handson with objects classes and methods in python and utilize variables data types control flow and loops functions and data structures how to recognize and handle errors and write unit tests for your python code and practice testdriven development by the end of this be able to prepare your computer system for python programming show understanding of python syntax and how to control the flow of code demonstrate knowledge of how to handle errors and exceptions explain objectoriented programming and the major concepts associated with it explain the importance of testing in python and when to apply particular methods this is a beginner for learners who would like to prepare themselves for a in backend development or database engineering to succeed you do not need prior web development only basic internet navigation and an eagerness to get started with coding
-
-getting started with python
+</DOC>
+<DOC>getting started with python
 get started with the python programming language and associated foundational concepts
 introduction to the how is python used in the real world introduction to programming why python environment check for windows environment check for mac running code command line vs ide python syntax spaces matter variables basic data types strings type casting user input console output math and logical operators control flow if else else if switch statement looping constructs nested loops and the effect on algorithmic complexity getting started with python
+</DOC>
 
-basic programming with python
+<DOC>basic programming with python
 basic python syntax to use control flow and loops and with functions and data structures also how to recognise possible errors their causes and how to handle them
 functions variable scope lists tuples sets dictionaries kwargs what are exceptions exception handling file handling in python creating files reading files basic programming with python
+</DOC>
 
-programming paradigms
+<DOC>programming paradigms
 about the paradigms of procedural programming and the associated logical concepts explore functional and objectoriented programming and get an introduction to algorithms
 what is procedural programming algorithms algorithmic complexity what is functional programming pure functions recursion reversing a string on python map filter introduction to object oriented programming python classes and instances instantiate a custom object instance methods parent classes vs child classes abstract classes and methods method resolution order programming paradigms
+</DOC>
 
-packages libraries and tools
+<DOC>packages libraries and tools
 supercharge your coding environment with popular libraries and tools for python also about the different types of testing and how to write a test
 what is a in python accessing the import statement writing import statements namespacing and scoping reload function popular packages numpy pandas matplotlib etc data analysis packages machine learning deep learning and ai pytorch tensorflow python web frameworks what is testing types of testing test automation packages writing tests with pytest testdriven development tdd applying tdd packages libraries and tools
+</DOC>
 
-endofcourse graded assessment
+<DOC>endofcourse graded assessment
 practice and reflect on the you learned
 recap programming in python congratulations you have completed programming in python
 </DOC>
-
 <DOC>
 apis
 delve deeper into the processes and concepts behind apis and their infrastructure explore the key concepts that underpin api development and the principles of representational state transfer architectural style rest architecture build basic api and rest data backbones for web apps using django discover emerging api technology and practice other ways to build and with apis finally test optimize and develop documentation for an api
 by the end of this be able to with and build apis build basic api and rest data backbones for web apps using django discover emerging api technology test optimize and develop documentation for an api to complete this need django additionally it always helps to have a cando attitude
-
-rest apis
+</DOC>
+<DOC>rest apis
 get to know restful api development
 introduction to the how are apis used in the real world what you know about http restfulness naming conventions essential tools for api development create a django project using pipenv rest best practices security and authentication in rest api access control book list api project organizing an api project debugging your api browser tools and extensions for api development rest apis
+</DOC>
 
-django rest framework
+<DOC>django rest framework
 use the django rest framework to create apis efficiently then to serialize your database models and convert validate and render data
 what is the django rest framework drf installing and setting up drf better api view with decorators function and classbased views django debug toolbar restaurant menu api project with drf serializers model serializers relationship serializers deserialization and validation renderers django rest framework
+</DOC>
 
-advanced api development
+<DOC>advanced api development
 control access to your apis and put systems in place to ensure you maintain their health
 filtering and searching ordering pagination caching tokenbased authentication in drf user roles setting up api throttling introduction to djoser library for better authentication registration and authentication endpoints with jwt user account management securing an api in django rest framework
+</DOC>
 
-final project assessment
+<DOC>final project assessment
 practice and reflect on the you learned
 recap apis project introduction creating models wrap up
 </DOC>
-
 <DOC>
 introduction to backend development
 welcome to introduction to backend development the first in the meta backend developer
 this is a good place to start if you want to become a web developer about the daytoday responsibilities of a web developer and get a general understanding of the core and underlying technologies that power the internet how frontend developers create websites and applications that and are easy to maintain be introduced to the core web development technologies like html and css and get to practice using them also be introduced to modern ui frameworks such as bootstrap and react that make it easy to create interactive user by the end of the be able to describe the frontend developer role explain the core and underlying technologies that power the internet use html to create a simple webpage use css to control the appearance of a simple webpage explain what react is describe the applications and characteristics of the most popular ui frameworks for the final project create and edit a webpage using html and the bootstrap css framework using a responsive layout grid construct a responsive webpage containing text and images that looks great on any size screen this is a beginner intended for learners eager to the fundamentals of web development to succeed you do not need prior web development only basic internet navigation and an eagerness to get started with coding
-
-get started with web development
+</DOC>
+<DOC>get started with web development
 about the different types of web developers and the roles and responsibilities of frontend backend and fullstack developers take a first look at the core technologies of html css and javascript and explore the concepts that underpin how the internet works
 introduction to the introduction to the frontend backend and fullstack developer roles a day in the life of a backend developer how the internet works what is a web server and how does it what are websites and webpages what is a web browser and how does it web hosting introduction to internet protocols introduction to http intro to html css and javascript webpages websites and web apps developer tools frameworks and libraries apis and services what is a an ide get started with web development
+</DOC>
 
-introduction to html and css
+<DOC>introduction to html and css
 how to construct html documents and add basic styling and layout using css
 what is hyper text markup language html documents linking documents adding images to a webpage with html use html to with data in tables what are forms introduction to the dom web accessibility selecting and styling box model introduction document flow block vs inline introduction to html and css
+</DOC>
 
-ui frameworks
+<DOC>ui frameworks
 how to use the bootstrap framework to build responsive interfaces and the benefits of working with ui frameworks
 working with libraries introduction to responsive design getting started with bootstrap using bootstrap styles bootstrap grid bootstrap components static and dynamic content single page applications what is react how react works component hierarchy ui frameworks
+</DOC>
 
-endofcourse graded assessment
+<DOC>endofcourse graded assessment
 be assessed on the key covered in the
 recap introduction to web development congratulations you have completed introduction to web development
 </DOC>
-
 <DOC>
 version control
 how modern software developers collaborate across the world without messing up each others code look at the different version control systems and how to create an effective software development workflow be introduced to some of the most commonly used linux commands that you can use to with files on your hard drive and create powerful workflows that will automate your saving you time and effort
 finally see how git can be used in software development projects to manage team files and create a repository that can manage code revisions
-
-software collaboration
+</DOC>
+<DOC>software collaboration
 about how modern software developers collaborate across the world without messing up each others code this involves using version control or subversion to bring order to the chaos of massive software projects that have the potential for mistakes and bugs look at the different version control systems and how to create an effective software development workflow
 introduction to the how do developers collaborate in the real world what is version control case study how meta engineers collaborate systems of version control and tools a history of revisions software collaboration
+</DOC>
 
-command line
+<DOC>command line
 how to use the command line to execute commands in linux be introduced to some of most commonly used commands that traverse create rename and delete files on your hard drive how easy it is to use piping and redirection to create powerful workflows that will automate your saving you time and effort
 the command line what are unix commands using bash on windows change directories and list contents creating and moving directories and files pipes redirection grep command line
+</DOC>
 
-working with git
+<DOC>working with git
 this will help you to develop a strong conceptual understanding of the git technology and how it is used in software development projects to manage team files install git create a local repository create a commit create a remote repository and push commits to a remote repository
 what is git and github creating and cloning a repository how git works add and commit branches remote vs local push and pull example workflow head diff commands blame working with git
+</DOC>
 
-graded assessment
+<DOC>graded assessment
 be assessed on the key covered in the
 recap version control congratulations you have completed version control
 </DOC>
-

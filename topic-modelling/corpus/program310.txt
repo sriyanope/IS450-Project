@@ -8,93 +8,100 @@ learners will acquire the technical needs to develop custom python scripts to au
 <DOC>
 credential access discovery lateral movement collection
 this covers credential access discovery lateral movement collection
-
-python for credential access
+</DOC>
+<DOC>python for credential access
 a look at credentials and python
 mitre attck credential access introduction to credentials from password stores credentials from web browsers introduction to network sniffing network sniffing
+</DOC>
 
-python for discovery
+<DOC>python for discovery
 exploring python and mitres discovery technique
 mitre attck discovery introduction to account discovery user account discovery introduction to file and directory discovery file and directory discovery
+</DOC>
 
-python for lateral movement
+<DOC>python for lateral movement
 the use of python for lateral movement in a target network
 mitre attck lateral movement introduction to remote services smbwindows admin shares introduction to use alternative authentication material web session cookie
+</DOC>
 
-python for collection
+<DOC>python for collection
 exploring python and data collection
 mitre attck collection introduction to clipboard data clipboard data introduction to email collection local email collection
 </DOC>
-
 <DOC>
 python for active defense
 this covers python for active defense
-
-python for active defense decoys
+</DOC>
+<DOC>python for active defense decoys
 python and decoy development
 introduction to decoys decoy processes for active defense decoy processes decoy content for active defense decoy content decoy credentials for active defense decoy credentials
+</DOC>
 
-python for active defense network
+<DOC>python for active defense network
 python has uses for defense and attack
 active defense on the network pcap collection for active defense pcap collection protocol decoding for active defense protocol decoding burnin for active defense burnin
+</DOC>
 
-python for active defense monitoring
+<DOC>python for active defense monitoring
 explore the uses for python for monitoring
 monitoring for active defense network monitoring for active defense network monitoring system activity monitoring for active defense system activity monitoring behavioral analytics for active defense behavioral analytics
 </DOC>
-
 <DOC>
 python for commandandcontrol exfiltration and impact
 this covers python for commandandcontrol exfiltration and impact
-
-python for commandandcontrol
+</DOC>
+<DOC>python for commandandcontrol
 explore python commandandcontrol
 mitre attck command and control introduction to encrypted channels encrypted channel introduction to protocol tunneling protocol tunneling
+</DOC>
 
-python for exfiltration
+<DOC>python for exfiltration
 explore the uses of python for data exfiltration
 mitre attck exfiltration introduction to exfiltration over alternative protocols alternative protocol introduction to nonapplication layer protocol nonapplication layer protocol
+</DOC>
 
-python for impact
+<DOC>python for impact
 explore the details of using python for attack and exfiltration
 mitre attck impact introduction to data encrypted for impact data encryption introduction to account access removal account access removal
 </DOC>
-
 <DOC>
 execution persistence privilege escalation and evasion
 this is a continuation of python for cybersecurity the topics covered are execution persistence privilege escalation and evasion
-
-python for execution
+</DOC>
+<DOC>python for execution
 a look at python and code execution
 mitre attck execution introduction to user execution malicious links introduction to scheduled tasks and jobs scheduled execution
+</DOC>
 
-python for persistence
+<DOC>python for persistence
 explore the details of using python for persistence
 mitre attck persistence introduction to boot or logon autostart execution registry autorun introduction to hijack execution flow hijacked execution flow
+</DOC>
 
-python for privilege escalation
+<DOC>python for privilege escalation
 exploring privilege escalation with python
 mitre attck privilege escalation introduction to boot or logon autostart execution logon scripts introduction to process injection python library injection
+</DOC>
 
-python for defense evasion
+<DOC>python for defense evasion
 explore the details of using python for defense evasion
 mitre attck defense evasion introduction to impair defenses impair avs introduction to hide artifacts alternate data streams
 </DOC>
-
 <DOC>
 introduction to python for cybersecurity
 this it the first part of the python for cybersecurity learners will get an introduction and of the format and learning objectives
-
-introduction to python for cybersecurity
+</DOC>
+<DOC>introduction to python for cybersecurity
 reading
 introduction to python for cybersecurity introduction to python introduction to mitre attck and shield
+</DOC>
 
-python for preattck
+<DOC>python for preattck
 an exploration of python for the preattck matrix
 mitre preattck introduction to network scanning introduction to scapy network scanning introduction to open technical databases dns exploration
+</DOC>
 
-python for initial access
+<DOC>python for initial access
 explore using python for initial access
 mitre attck initial access introduction to valid accounts default account discovery introduction to replication through removable media autorun scripts
 </DOC>
-

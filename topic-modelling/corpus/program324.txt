@@ -9,106 +9,116 @@ also build practical realworld that you can apply to a in digital marketing or o
 introduction to google seo
 unlock the secrets of seo dive into the fascinating world of search engine optimization seo and discover how major search engines like google rank websites and content this introductory is your gateway to mastering the art of seo offering a thrilling blend of theory and handson practice to boost your visibility on google
 highlights demystifying seo uncover the inner workings of google the worlds most popular search engine gain insider knowledge on how search algorithms evaluate and rank content giving you a competitive edge in the digital landscape seo evolution and future trends stay ahead of the curve by exploring the everchanging seo landscape to anticipate and adapt to future developments ensuring your remain cuttingedge and relevant proven strategies and tactics master core seo techniques to drive organic search traffic to your websites discover powerful methods to improve your search rankings while avoiding google penalties handson put theory into practice with exciting exercises designed to enhance your google visibility these engaging activities will solidify your understanding and provide immediate realworld application of seo principles or help you create your own portfolio so you can get started with a in seo this is the first in our comprehensive seo by the end have a solid foundation in seo and delve deeper into this exciting field get ready to transform your digital presence and unlock new in the world of search engine optimization
-
-introduction to google seo
+</DOC>
+<DOC>introduction to google seo
 welcome to the first of the be able to define search engine optimization and about the basics of seo and how it helps users and website owners discuss and identify paths and options for both seos and complementary roles also identify key areas of seo and their differences finally summarize how seo has evolved and its future lets get started
 introduction introduction to google seo seo as a seo in nonseo specific roles how search engines search engine evolution key areas of seo
+</DOC>
 
-current seo best practices
+<DOC>current seo best practices
 be discussing items that seos spend a great deal of time dealing with seo best practices the algorithm updates that look for them and potential penalties for not adhering to them by the end of this be able to illustrate the concept of relevancy as it applies to search results discuss algorithm updates to keep search engine results high quality and understand why a proactive mindset is beneficial review and understand the different types of updates and how they might impact your website then how to identify potential reasons your site was impacted by an update lets get started
 best practices for seo algorithm updates history part algorithm updates important algorithms part seo resources optional
+</DOC>
 
-seo of today tomorrow and beyond
+<DOC>seo of today tomorrow and beyond
 be able to analyze the role of social media and other emerging technologies on the landscape of seo today tomorrow and beyond explain how concepts like topic association and semantic analysis relate to the relevancy and trustworthiness of search results then discuss the continued importance that speed and user play in search and how googles core web vitals help to monitor and manage performance in these areas also analyze two updates eeat ymyl and how these updates together to provide an improved search then compare and contrast how rich results featured snippets and rich snippets to better understand the differences and how to incorporate these into your seo strategy review ai overviews and how it might impact search behavior write your own content for a website that will improve search results finally develop an optimization strategy that will increase traffic from search engines and demonstrate the impact of brands and branding on search results we have a lot to cover so lets get started
 seo of today tomorrow and beyond core web vitals eeat ymyl part eeat ymyl part featured snippets and rich snippets rich results and structured data part rich results and structured data part the everchanging appearance of search results ai overviews aio how does branding influence website rank
+</DOC>
 
-your audience and building personas
+<DOC>your audience and building personas
 youve made it to about and understand common behaviors of web searchers that can help you market to different types of consumers identify the best ways to build a persona and gather user data discuss how seo can with a wider marketing team and other stakeholders in the persona development process close out this by using a variety of research methods and tools to develop a persona of an ideal buyer lets get started
 your audience and building personas persona development marketing to your persona understanding user intent and its role in persona creation crafting your buyer persona part crafting your buyer persona part
 </DOC>
-
 <DOC>
 google seo capstone project
 seo is a dynamic and growing field that demands knowledge and in a variety of website optimization strategies and tactics in order to be successful this is designed to provide you with a solid foundation in seo including the different elements comprising a website optimization client report and arm you with you need to develop a tactical approach to seo
 whether you have successfully completed the other courses in the search engine optimization or are taking just this this project is your chance to apply the knowledge youve acquired to practice important seo tactics and optimize a site of your choice from the groundup identify optimization on a site and discover valuable tips for pitching your plan and managing your relationship with your client then develop a customized seo solution for the website you chose and go through each of the major steps needed to execute your strategy including keyword research competitive analysis improving the sites metadata and onpage elements along the way receive feedback through the peer review process this community of fellow learners will provide additional input to help you refine your approach to seo and present your findings to clients and management
-
-getting started and milestone gauging a sites for improvement
+</DOC>
+<DOC>getting started and milestone gauging a sites for improvement
 first milestone identify an existing section of your or outside website by using your to gauge a websites for improvement and higher ranking once you have selected a website create an seo pitch to internal stakeholders or potential client on why or how the website should be improved finally develop a list of metrics that will help gather the information you need to begin to develop your seo strategy to monitor and engage success lets get started
 project welcome and milestone
+</DOC>
 
-milestone initial research phase
+<DOC>milestone initial research phase
 milestone focus on the initial research required to begin optimizing a website this milestone has three main activities including developing a buyer persona conducting keyword research and performing competitive research these activities will help you identify your target audience frame your keyword research and gain insight into your competition the information you gather from this research process will help you develop a successful strategy for the website
+</DOC>
 
-milestone conducting a content audit and technical review
+<DOC>milestone conducting a content audit and technical review
 third milestone examine the content of your competitors sites through a content audit to better position your own seo campaign also conduct an internal content audit to compare your site to those of your competitors and identify areas for improvement also milestone develop a keyword matrix to help you determine which keywords should be assigned to specific pages on your site in the final part of the milestone perform a technical review of the site to identify any technical factors that may impact the ranking of the website each of these activities is critical to onpage seo
+</DOC>
 
-milestone presenting your findings
+<DOC>milestone presenting your findings
 final milestone develop a comprehensive presentation representing all the you have done throughout the using a standard outline create one cohesive word document and present your findings analysis and recommendations to your peers the final presentation will also include a in which you present your case to a potential client or employer outlining how your seo strategy will improve ranking and business
 milestone project
 </DOC>
-
 <DOC>
 advanced content and social tactics to optimize seo
 discover the content marketing and social media ecosystems and how these interconnected channels drive search results to a website leverage content marketing and social media as part of your seo strategy and how to use influence marketing to establish a websites authority
-
-introduction to advanced content and social tactics to optimize seo
+</DOC>
+<DOC>introduction to advanced content and social tactics to optimize seo
 welcome to explore the content marketing ecosystem begin by recapping some basics of seo to recall how onpage and offpage seo together then discuss basics of content marketing including details on five different types of content marketing programs by the end of this be able to identify and demonstrate the dos and donts of obtaining links and attract your own optimized links build your reputation and visibility online by developing a content marketing campaign as as build your own audience im excited about this topic so lets dive in
 introduction basics of seo how links are valued links google doesnt like dos and donts of attracting links basics of content marketing skyscrapers and experts interviews and datadriven content guest posting building audience the content marketing ecosystem
+</DOC>
 
-social media marketing
+<DOC>social media marketing
 discuss indepth how social media supports the development of a companys online reputation and visibility which ultimately helps with seo by the end of this practice tips on building your social media presence including social media influencers analyze your audience demographics and choose the appropriate social media platforms for your intended audience and finally use successful social media strategies to build your audience and create audience engagement
 introduction introduction to social media marketing social media demographics building audiences through social media social media case studies
+</DOC>
 
-influencer marketing
+<DOC>influencer marketing
 influencer marketing is the focus of this weeks topic at the end of this be able to define what influencer marketing is and the role it plays in driving reputation and visibility examine what influencers can do for you and the best approaches in building a relationship with an influencer hint its not about manipulation but building a strong positive relationship
 introduction introduction to influencer marketing building the relationship first steps in collaboration using social media to network with influencers connecting with the media
+</DOC>
 
-creating outstanding content
+<DOC>creating outstanding content
 this weeks topic focuses on why world class content is a must at the end of this be able to identify great content analyze which content gets the most shares and create world class content of your own also create successful partnerships that can help develop your content and ultimately drive your content marketing efforts did we mention that content is king
 introduction market data on content marketing anchor content types of enhanced content partnerships content marketing case studies review of what we learned
 </DOC>
-
 <DOC>
 optimizing a website for google search
 the ins and outs of optimizing a website from conducting an initial audit to presenting your findings and recommendations handson activities include learning how to select and apply appropriate keywords throughout a website incorporating keyword research in a content marketing strategy and optimizing a site for local search also strategies for setting goals and clientstakeholder expectations building effective analytics and reports and communicating seo improvements
-
-introduction to optimizing a website for google search
+</DOC>
+<DOC>introduction to optimizing a website for google search
 welcome to as you may remember from within the last search engine optimization fundamentals keywords are an extremely important tool for helping your customers find you in an often crowded field effective use of keywords on your optimized website can result in free targeted traffic to your site helping you to reach your business goals use the keyword research you conducted in the last and a process for selecting the best keywords to optimize your website in search results look at concepts like relevancy to the site keyword intent how competitive the keyword is in organic search and how that term might convert once it receives traffic also discuss how to identify and evaluate competitors how to map keywords to pages and how to create a keyword map for your clients and your own site there is a lot to discuss in our first so if you are taking this without learning the materials of within the seo fundamentals i highly recommend you complete that before diving into this one so lets get started learning how to apply keyword research
 applying keyword research introduction why do a competitive analysis how to perform a competitive keyword analysis analyzing your competition develop a plan to compete competing with page level information dealing with larger sites mapping keywords to pages questions to ask keyword mapping processes creating a keyword map for clients
+</DOC>
 
-advanced seo strategies
+<DOC>advanced seo strategies
 welcome to while keywords help users locate relevant web pages its the content itself that determines whether a click converts to a sale or increased site traffic in many corners of the seo world the expression content is king is a generally accepted rule and examine content from many perspectives how to analyze it organize it create it make it great and build it into our strategies also how to conduct effective competitive content analysis and internal content audits how to create a sitewide content strategy building on the data we uncover in our study and analysis of content and finally review the topic of local seo what local seo is and how it is both similar to and different from regular seo tactics and best practices lets get started
 advanced onpage seo benefits of a competitive content analysis dissecting the competitive content analysis what kind of content will resonate with your customers conducting an internal content audit how to begin your content analysis organizing and evaluating content creating a strategy for optimizing content domain level content strategy what makes content great different types of content and how to use them creating impactful content local seo part local seo part
+</DOC>
 
-mobileapp seo and metrics kpis
+<DOC>mobileapp seo and metrics kpis
 welcome to go over mobileapp seo and metrics and kpis how to optimize your app in app stores and incorporate keywords and keyword tags also understand what ab testing is and how it applies to app optimization discuss the value of screenshots and how they play a role in user downloads then review reasons why kpis impact seo efforts and how roi is used to determine if a project was profitable lastly discuss survey findings and how they help prepare you for successes and challenges in a in seo and why forecasting seo impact is vital we have a lot to cover so lets get started
 mobileapp seo external app optimization app store optimization app ab testing optimizing your screenshots kpis for seo part kpis for seo part return on investment roi seo survey findings forecasting seo impact part forecasting seo impact part forecasting seo impact part
+</DOC>
 
-creating an seo campaign
+<DOC>creating an seo campaign
 welcome to we are going to discuss the human factor of seo how to manage your relationship with clients talk about what should be discussed in the critical first meetings how to manage your clients expectations and how to track and report on progress toward your clients goals by the end of this have developed a solid approach for achieving a productive and successful relationship with your client
 creating an seo campaign scoping an seo project proving your value to potential clients managing client expectations asking the right questions importance of achieving quick wins developing smart project goals establishing benchmarks and tracking metrics reporting progress to your client
 </DOC>
-
 <DOC>
 google seo fundamentals
 gain an understanding of search engine algorithms and how they affect organic search results and websites building on this knowledge the key elements for creating an effective seo strategy including how to select keywords and perform keyword research
 consumer psychology and search behavior
 and how to conduct onpage seo analysis to identify to improve a websites search optimization
-
-getting started and introduction to onpage seo
+</DOC>
+<DOC>getting started and introduction to onpage seo
 welcome to this will introduce you to onpage seo the lessons will start with introducing you to key areas of seo so have a strong understanding of the differences amongst the strategies then dive into using onpage seo techniques so that know how to optimize keywords in meta data as as perform competitive analysis on a web page by the end of this know how to identify metatags and use these to make recommendations for onpage seo
 introduction introduction to onpage seo key areas of seo meta data and meta tags title tags meta descriptions help too a note about meta keywords url optimization how to use heading tags creating and optimizing unique content analyzing a website using a web crawler
+</DOC>
 
-introduction to offpage seo
+<DOC>introduction to offpage seo
 welcome to this will introduce you to offpage seo while these strategies are more indirect than onpage seo theyre still important to maximize page authority this will clarify what offpage seo is as as help you understand building links to your site and understanding brand recognition through social media once you complete this be able to understand link analysis as as how social media can help improve your page authority
 introduction to offpage seo offsite seo elements who is linking to your content social media help or hinder
+</DOC>
 
-introduction to technical seo
+<DOC>introduction to technical seo
 welcome to in the lessons that follow take a close look at the third leg of a solid seo strategy technical seo see how important structural components like sitemaps redirects and other components lay a foundation for your content that will help your site get noticed by the end of this you should be able to define technical seo and explain some of the basic aspects of this strategy as you begin creating sitemaps and robottxt files as as planning redirects and managing site errors how to employ best practices in your technical seo strategy
 introduction to technical seo laying the structural foundation with technical seo html sitemap vs xml sitemap the robotstxt file protocol overcoming pesky error codes redirects pages best practices
+</DOC>
 
-keyword theory research
+<DOC>keyword theory research
 welcome to we are going to discover a variety of strategies for developing keywords for your site this critical step is what helps direct your ideal buyer to the content that meets his or her needs in the lessons that follow about keyword theory and how understanding the common behaviors of web searchers can help you hone your list of keywords also see how you can use a variety of seo tools to conduct an audience and use this data to develop personas of your ideal buyer once youve completed this you should be able to craft a list of optimal keywords that will help get your site recognized
 keyword theory research introduction choosing the right keywords stages of search heads tails and long tail keywords the science of how users conduct searches and wrapup
 </DOC>
-

@@ -13,81 +13,89 @@ the entire is constructed around realworld problems both while learning various 
 stocks and bonds
 apply the central concept and applications of time value of money tvm to explore the structure and pricing of stocks and bonds at an introductory level about bonds different types of bonds zero coupon bonds government bonds about bond pricing calculations and see their direct connection to market data on bonds also about stocks and their pricing and valuation about growth and dividend stocks and how to use market data
 after completing this have an understanding of the two fundamental and pervasive ways in which savers transfer money to governments and corporations be able to apply all this knowledge to personal investing decisions and importantly these same tools and frameworks are applicable to corporate decisions this is part of the fourcourse foundational finance for strategic decision making
-
-bond valuation
+</DOC>
+<DOC>bond valuation
 this is focused on understanding the two most commonly used vehiclesinstruments by corporations for raising money introduce you to the basic language and mechanics of bond pricing though introductory we attempt to cover a fair amount of content and with real world applications
 about this bonds zerocoupon government bonds government coupon bonds bond pricing calculations
-
-bond prices market data
-after understanding both the terminology of bonds and their pricing spend both looking at real data to see the close connection between the concepts and reality and submitting the first graded one of the major takeaways of this weeks efforts will be the similarity between how borrowing works for individuals and corporations
-
-stock valuation
-during provide you an exposure to the characteristics and the valuation of stocks again with an eye toward real world applications see how understanding stocks is key to learning how companies and how pricing them is more art than detailed calculations
-what is a stock stock pricingvaluation dividend growth stocks the engine of growth
-
-stock prices market data
-wrap up this by understanding the relationship between basics of stock pricing and real stock markets the idea here is to make you realize how foundational principles of finance are so applicable to the real world and even a basic knowledge of key principles help you understand how the world works also test your knowledge by submitting the second for the
 </DOC>
 
+<DOC>bond prices market data
+after understanding both the terminology of bonds and their pricing spend both looking at real data to see the close connection between the concepts and reality and submitting the first graded one of the major takeaways of this weeks efforts will be the similarity between how borrowing works for individuals and corporations
+</DOC>
+
+<DOC>stock valuation
+during provide you an exposure to the characteristics and the valuation of stocks again with an eye toward real world applications see how understanding stocks is key to learning how companies and how pricing them is more art than detailed calculations
+what is a stock stock pricingvaluation dividend growth stocks the engine of growth
+</DOC>
+
+<DOC>stock prices market data
+wrap up this by understanding the relationship between basics of stock pricing and real stock markets the idea here is to make you realize how foundational principles of finance are so applicable to the real world and even a basic knowledge of key principles help you understand how the world works also test your knowledge by submitting the second for the
+</DOC>
 <DOC>
 advanced understanding of stocks and bonds
 this final will cover more advanced aspects of bonds and stocks that will help you make smart personal decisions and develop a keen understanding of how governments and companies borrow from us better understand stocks and bonds valuation and take a deeper dive using realworld problems for stocks review what you have already learned and understand valuation about growth different types of growth both bad and good also get an to apply these concepts in practice for bonds review what you have already learned about different sources of risk in bonds lastly get an to apply these concepts in practice
 after completing this have a deeper understanding of how bonds and stocks are valued and the risks involved in both be able to apply this knowledge to understand the workings of a company and how it creates value this will enable you to invest with more confidence and also bring a special and critical lens to a companys decisions this is part of the fourcourse foundational finance for strategic decision making
-
-bond valuation advanced issues
+</DOC>
+<DOC>bond valuation advanced issues
 this follows the same pattern as the second did relative to the first in we covered the basics of bonds and stocks with simpler applications delve deeper into bond and stocks with an emphasis on applications in the first two weeks be focused on bonds also the practice and graded in weeks and are deliberately structured to contain ten questions with some overlap with followed by increasing complexity
 about this sources of risk in bonds recap bonds
-
-bond valuation advanced applications
-is all about practicing applications and attempting the graded i would encourage you to also revisit yahoo finance and review the data on bonds and read articles on bond markets
-
-stock valuation advanced issues
-this is probably the most interesting because it shows you how any idea adds value by relating it to the price of a stock gain a deep understanding of how firms create value and how growth may not be a good policy all the concepts are introduced using applications this conveys the essence of value creation you are encouraged to start practicing the
-valuation the big picture what is growth good or bad growth recap stocks
-
-stock valuation advanced applications
-is again devoted entirely to financial analysis and each has ten questions and some are quite complex you must take this to finance all the you develop will help you both personally and professionally the beauty of finance is that the frameworks are the same regardless of whether you are making a personal or a decision
 </DOC>
 
+<DOC>bond valuation advanced applications
+is all about practicing applications and attempting the graded i would encourage you to also revisit yahoo finance and review the data on bonds and read articles on bond markets
+</DOC>
+
+<DOC>stock valuation advanced issues
+this is probably the most interesting because it shows you how any idea adds value by relating it to the price of a stock gain a deep understanding of how firms create value and how growth may not be a good policy all the concepts are introduced using applications this conveys the essence of value creation you are encouraged to start practicing the
+valuation the big picture what is growth good or bad growth recap stocks
+</DOC>
+
+<DOC>stock valuation advanced applications
+is again devoted entirely to financial analysis and each has ten questions and some are quite complex you must take this to finance all the you develop will help you both personally and professionally the beauty of finance is that the frameworks are the same regardless of whether you are making a personal or a decision
+</DOC>
 <DOC>
 introduction to time value of money tvm
 the strength of finance is that it takes a structured approach to decision making with one key building block underlying all decisions understanding the value of time or the time value of money tvm develop this building block using introductory and simple applications about the time value of money tvm simple future value fv simple present value pv future value of annuity loans compounding and valuing perpetuities introduce the framework in a carefully structured and replicable way to prepare you to explore more advanced applications in the rest of the in the followon courses expand the applications to more complex realworld decisions
 after completing this have an understanding of how the value of money changes over time understand the implications of all your financial decisions including saving for the future through different channels and borrowing for future needs leave with the practical knowledge needed to make informed decisions on a wide range of financial decisions this is part of the fourcourse foundational finance for strategic decision making
-
-time value of money simple concepts applications
+</DOC>
+<DOC>time value of money simple concepts applications
 we introduce the framework of time value of money tvm in a carefully structured way with a focus on future value using relatively simple applications as mentioned in the syllabus all concepts are introduced using examples and you are strongly encouraged to pause the and do every problem
 about this time value of money simple future value fv simple fv simple fv example simple fv example
+</DOC>
 
-time value of money simple concepts applications cont
+<DOC>time value of money simple concepts applications cont
 during this second we build on and move to the much more often used concept of present value we again use simple examples focusing on situations we confront on a daily basis all concepts are introduced using examples that you need to do yourself to stay on top of the concepts the second also provides you an to test your knowledge up to this point with a required submission of the first graded
 simple present value pv recap of tvm
+</DOC>
 
-time value of money annuities
+<DOC>time value of money annuities
 during progress to more complex concepts and applications of finance
 fv of annuity concept fv of annuity example fv of annuity example pv of annuity concept pv of annuity examples
+</DOC>
 
-time value of money complex applications
+<DOC>time value of money complex applications
 ends the with relatively complex applications of finance we spend a lot of time on understanding how borrowing and lending really works also get an to test your understanding of the basic principles of time value of money by submitting the second for the also how top use excel and show your competence in doing so
 a loan the power of finance compounding valuing perpetuities mega example putting it all together
 </DOC>
-
 <DOC>
 advanced concepts in time value of money tvm
 this builds upon the fundamental concept of time value of money tvm using more advanced applications and questions apply the tvm concept in reallife problems of financial planning and saving for college also more about loans and apply tvm concepts to borrowing and lending realize that while the applications are seemingly more complex but when seen and brokenup into bitesize components the framework principles and tools remain the same
 after completing this have an understanding of the detailed mechanics and reasoning behind any decision you make that has consequences for the future the deeper exposure to financial transactions be applicable in anyall decisions the great news is that these concepts and will transfer to your professionalbusiness decisions this is part of the fourcourse foundational finance for strategic decision making
-
-mega application i saving for college
+</DOC>
+<DOC>mega application i saving for college
 start this with the first mega application that will expose us to more realworld situations confronted by us all you are strongly encouraged to think through an application and draw timelines to realize that complex applications are a collection of the simpler ones we dealt with as you through the four mega applications look to find the common themes application start with a classic example of saving for a future need to attend college
 about this saving for college part i saving for college part ii
-
-mega application ii financial planning
-this weeks second mega example is about financial planning agin something that can serve very useful because we typically for some time and then want to maintain a standard of living the key concepts here are again the same as those developed in the first but the issue is one of breaking down more difficult problems into bitesize pieces that resemble the simpler applications and in you are strongly encouraged to start attempting the practice and graded each has ten questions with deliberate overlap with and then some challenging scenarios in the later part of the
-
-mega application iii a loan
-this weeks mega application is my favorite because it shows you both the power of finance and its ability to simplify seemingly complex transactions we all borrow and lend though at different points in time and even at the same time this application is very detailed because it is meant to demonstrate the intuitive power of finance that makes calculations easy
-a loan part i a loan part ii a loanpart iii
-
-mega application iv making complex simple
-this is a mega application that will help you understand the power of simplicity in conducting financial examples you are again encouraged to keep practicing and attempting the
 </DOC>
 
+<DOC>mega application ii financial planning
+this weeks second mega example is about financial planning agin something that can serve very useful because we typically for some time and then want to maintain a standard of living the key concepts here are again the same as those developed in the first but the issue is one of breaking down more difficult problems into bitesize pieces that resemble the simpler applications and in you are strongly encouraged to start attempting the practice and graded each has ten questions with deliberate overlap with and then some challenging scenarios in the later part of the
+</DOC>
+
+<DOC>mega application iii a loan
+this weeks mega application is my favorite because it shows you both the power of finance and its ability to simplify seemingly complex transactions we all borrow and lend though at different points in time and even at the same time this application is very detailed because it is meant to demonstrate the intuitive power of finance that makes calculations easy
+a loan part i a loan part ii a loanpart iii
+</DOC>
+
+<DOC>mega application iv making complex simple
+this is a mega application that will help you understand the power of simplicity in conducting financial examples you are again encouraged to keep practicing and attempting the
+</DOC>

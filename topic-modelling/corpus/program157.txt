@@ -16,117 +16,135 @@ these hands on components will let you apply the you in the lectures projects wi
 creating new bigquery datasets and visualizing insights
 this is the second in the data to insights series here cover how to ingest new external datasets into bigquery and visualize them with looker studio also cover intermediate sql concepts like multitable joins and unions which will allow you to analyze data across multiple data sources
 note even if you have a background in sql there are bigquery specifics like handling query cache and table wildcards that may be new to you after completing this enroll in the achieving advanced insights with bigquery
-
-introduction
+</DOC>
+<DOC>introduction
 of what
 introduction recap of google analytics ecommerce dataset
-
-storing and exporting data
-create new permanent and temporary tables from your query results
-creating permanent tables temporary tables and query results performance preview query cache creating logical views lab intro creating permanent tables and accesscontrolled views in bigquery getting started with google cloud platform and qwiklabs
-
-ingesting new datasets into bigquery
-load and create new datasets inside bigquery
-ingesting new data into bigquery lab intro ingesting new datasets into bigquery
-
-joining and merging datasets
-understand the differences between sql joins and unions and when to use each
-introducing joins and unions use table wildcards for easy merges linking data across multiple tables sql join examples avoiding pitfalls when merging datasets recap of google analytics ecommerce dataset lab intro unioning and joining datasets
-
-data visualization
-create dashboards and visualizations with looker studio
-of data visualization principles comparing good and bad visualizations dimensions measures and reports introducing looker studio lab intro explore and create reports with looker studio
-
-
-of the ley learning points
 </DOC>
 
+<DOC>storing and exporting data
+create new permanent and temporary tables from your query results
+creating permanent tables temporary tables and query results performance preview query cache creating logical views lab intro creating permanent tables and accesscontrolled views in bigquery getting started with google cloud platform and qwiklabs
+</DOC>
+
+<DOC>ingesting new datasets into bigquery
+load and create new datasets inside bigquery
+ingesting new data into bigquery lab intro ingesting new datasets into bigquery
+</DOC>
+
+<DOC>joining and merging datasets
+understand the differences between sql joins and unions and when to use each
+introducing joins and unions use table wildcards for easy merges linking data across multiple tables sql join examples avoiding pitfalls when merging datasets recap of google analytics ecommerce dataset lab intro unioning and joining datasets
+</DOC>
+
+<DOC>data visualization
+create dashboards and visualizations with looker studio
+of data visualization principles comparing good and bad visualizations dimensions measures and reports introducing looker studio lab intro explore and create reports with looker studio
+</DOC>
+
+<DOC>
+of the ley learning points
+</DOC>
 <DOC>
 exploring and preparing your data with bigquery
 we see what the common challenges faced by data analysts are and how to solve them with the big data tools on google cloud pick up some sql along the way and become very familiar with using bigquery and dataprep to analyze and transform your datasets
 this is the first of the from data to insights with google cloud series after completing this enroll in the creating new bigquery datasets and visualizing insights
-
-welcome to from data to insights with google cloud exploring and preparing your data
+</DOC>
+<DOC>welcome to from data to insights with google cloud exploring and preparing your data
 the courses content and technologies that are part of this data analyst series
+</DOC>
 
-introduction to data on google cloud
+<DOC>introduction to data on google cloud
 understand the core principles behind google cloud and how to leverage them for big data analysis
 analytics challenges faced by data analysts big data onpremises versus in the cloud realworld use cases google cloud project basics
+</DOC>
 
-big data tools
+<DOC>big data tools
 what are the key big data tools on google cloud that use to analyze prepare and visualize data
 data analyst tasks and challenges and google cloud data tools fundamental bigquery features walkthrough data architecture diagram google cloud tools for analysts data scientists and data engineers coursera getting started with google cloud platform and qwiklabs
+</DOC>
 
-exploring your data with sql
+<DOC>exploring your data with sql
 how to query your data with the basics of sql structured query language and practice writing queries in bigquery
 introduction to the google analytics ecommerce dataset common data exploration techniques query basics introduction to functions filters aggregates and duplicates data types date functions and nulls wildcard filters with like
+</DOC>
 
-bigquery pricing
+<DOC>bigquery pricing
 understand how pricing works in bigquery and how you can best optimize your queries
 bigquery jobs sizing and cost management optimize queries for cost
+</DOC>
 
-cleaning and transforming your data
+<DOC>cleaning and transforming your data
 understand the importance of creating high quality datasets and the tools that will help you transform your data
 principles of dataset integrity dataset shape and skew clean and transform data using sql clean and transform data using a new ui introducing dataprep components of data fusion building a pipeline exploring data using wrangler
-
-
-of the key learning points
 </DOC>
 
 <DOC>
+of the key learning points
+</DOC>
+<DOC>
 applying machine learning to your data with google cloud
 we define what machine learning is and how it can benefit your business see a few demos of ml in action and key ml terms like instances features and labels in the interactive labs practice invoking the pretrained ml apis available as as build your own machine learning models using just sql with bigquery ml
-
-introduction
+</DOC>
+<DOC>introduction
 of what
-
-introduction to machine learning
-we define what machine learning is and how it can benefit your business see a few demos of ml in action and key ml terms like instances features and labels
-introduction to machine learning demo google photos what is deep learning ml applications for business ml terms instances features labels the spectrum of ml tools
-
-pretrained ml apis
-dive into prebuilt and pretrained ml models that we can access like image recognition and sentiment analysis within cloud datalab
-pretrained ml models demo cloud translate and vision apis demo natural language processing api getting started with google cloud platform and qwiklabs
-
-creating ml datasets in bigquery
-understand how to create ml datasets with bigquery
-what makes a dataset good for ml choosing good features exploring and preprocessing data other tools for creating data pipelines knowing the unknowable creating repeatable dataset splits
-
-creating ml models in bigquery
-how to create machine learning models directly inside of bigquery the new syntax and through the phases of building evaluating and testing an ml model
-introducing bigquery machine learning phases of model building lab intro predicting visitor return purchases with bigquery
-
-end of recap
-youve made it to the end lets review the lessons learned in the and what resources are available for continued learning
 </DOC>
 
+<DOC>introduction to machine learning
+we define what machine learning is and how it can benefit your business see a few demos of ml in action and key ml terms like instances features and labels
+introduction to machine learning demo google photos what is deep learning ml applications for business ml terms instances features labels the spectrum of ml tools
+</DOC>
+
+<DOC>pretrained ml apis
+dive into prebuilt and pretrained ml models that we can access like image recognition and sentiment analysis within cloud datalab
+pretrained ml models demo cloud translate and vision apis demo natural language processing api getting started with google cloud platform and qwiklabs
+</DOC>
+
+<DOC>creating ml datasets in bigquery
+understand how to create ml datasets with bigquery
+what makes a dataset good for ml choosing good features exploring and preprocessing data other tools for creating data pipelines knowing the unknowable creating repeatable dataset splits
+</DOC>
+
+<DOC>creating ml models in bigquery
+how to create machine learning models directly inside of bigquery the new syntax and through the phases of building evaluating and testing an ml model
+introducing bigquery machine learning phases of model building lab intro predicting visitor return purchases with bigquery
+</DOC>
+
+<DOC>end of recap
+youve made it to the end lets review the lessons learned in the and what resources are available for continued learning
+</DOC>
 <DOC>
 achieving advanced insights with bigquery
 the third series is achieving advanced insights with bigquery here build on your growing knowledge of sql as we dive into advanced functions and how to break apart a complex query into manageable steps
 cover the internal architecture of bigquery columnbased sharded storage and advanced sql topics like nested and repeated fields through the use of arrays and structs lastly dive into optimizing your queries for performance and how you can secure your data through authorized views after completing this enroll in the applying machine learning to your data with google cloud
-
-introduction
+</DOC>
+<DOC>introduction
 of what
-
-advanced functions and clauses
-deepen your knowledge of sql on bigquery by learning about more advanced functions like statistical approximations analytical window queries userdefined functions and with clauses
-advanced functions statistical analytic userdefined analytic functions with clause and rank bigquery userdefined functions udfs subquery and cte design lab intro deriving insights from advanced sql functions getting started with google cloud platform and qwiklabs
-
-schema design and nested data structures
-walkthrough the evolution of how traditional databases handle dataset scale and compare how bigquery was developed to address scaling limitations deep dive into nested and repeated fields which are a key part of denormalized bigquery data structures
-bigquery versus traditional relational data architecture denormalized columnbased storage table sharding introducing nested and repeated fields introducing arrays and structs flattening arrays legacy versus standard
-
-optimizing for performance
-the fundamental pieces of that impact bigquery performance and how to optimize your queries for speed
-avoid bigquery performance pitfalls prevent hotspots in your data diagnose performance issues lab intro optimizing bigquery for cost and performance
-
-advanced insights with vertex ai workbench
-introducing vertex ai workbench a key tool in the data scientist toolkit which enables analysts to collaborate through the use of scalable cloud notebooks
-
-data access
-securing and sharing your bigquery datasets is critical for any organization what google cloud and bigquery tools are available to you to permission control and share your data
-
-
-of the ley learning points
 </DOC>
 
+<DOC>advanced functions and clauses
+deepen your knowledge of sql on bigquery by learning about more advanced functions like statistical approximations analytical window queries userdefined functions and with clauses
+advanced functions statistical analytic userdefined analytic functions with clause and rank bigquery userdefined functions udfs subquery and cte design lab intro deriving insights from advanced sql functions getting started with google cloud platform and qwiklabs
+</DOC>
+
+<DOC>schema design and nested data structures
+walkthrough the evolution of how traditional databases handle dataset scale and compare how bigquery was developed to address scaling limitations deep dive into nested and repeated fields which are a key part of denormalized bigquery data structures
+bigquery versus traditional relational data architecture denormalized columnbased storage table sharding introducing nested and repeated fields introducing arrays and structs flattening arrays legacy versus standard
+</DOC>
+
+<DOC>optimizing for performance
+the fundamental pieces of that impact bigquery performance and how to optimize your queries for speed
+avoid bigquery performance pitfalls prevent hotspots in your data diagnose performance issues lab intro optimizing bigquery for cost and performance
+</DOC>
+
+<DOC>advanced insights with vertex ai workbench
+introducing vertex ai workbench a key tool in the data scientist toolkit which enables analysts to collaborate through the use of scalable cloud notebooks
+</DOC>
+
+<DOC>data access
+securing and sharing your bigquery datasets is critical for any organization what google cloud and bigquery tools are available to you to permission control and share your data
+</DOC>
+
+<DOC>
+of the ley learning points
+</DOC>

@@ -6,134 +6,148 @@ this covers embedded systems the raspberry pi platform and the arduino environme
 <DOC>
 interfacing with the arduino
 arduino senses the environment by receiving inputs from addon devices such as sensors and can control the world around it by adjusting lights motors and other actuators class how and when to use the different types of sensors and how to connect them to the arduino since the external world uses continuous or analog signals and the hardware is digital how these signals are converted backandforth and how this must be considered as you your device also about the use of arduinospecific shields and the shields software libraries to interface with the real world please note that this does not include discussion forums
-
-
+</DOC>
+<DOC>
 iot devices involve a combination of software and hardware this provides background on the basics of hardware design and wiring needed to build useful circuits this describes the functions of basic passive components and describes how to use them in simple circuits this also describes how to wire circuits together using a breadboard the goal of this is to enable students to design and implement the circuits they need to interact with basic sensors and actuators
 introduction lecture electrical circuits lecture electrical properties lecture ohms law lecture electrical components lecture diodes lecture switches potentiometers lecture wiring lecture wiring demo pushbutton lecture wiring demo potentiometer
+</DOC>
 
-
+<DOC>
 this introduces sensors and actuators and discusses how to interface with them examine different classes of sensors and actuators for each type of sensoractuator examine the circuitry needed to interface with it additionally take a look at the arduino code needed to communicate with the sensors and actuators
 introduction lecture sensors lecture resistive sensors lecture resistive sensor demo lecture actuators lecture analog actuators lecture pulse width modulation lecture demo fade example lecture making sounds lecture demo music system
+</DOC>
 
-
+<DOC>
 this introduces the use of software libraries with an arduino sketch one of the best aspects of the arduino environment is that the use of good libraries allows a programmer to use complicated hardware without dealing with the complexity the arduino environment is supported by many libraries and this examines the use of several of the more common libraries that allow the use of hardware peripherals in the microprocessor
 introduction lecture arduino libraries lecture eeprom updated lecture masking updated lecture ic communication lecture ic transactions lecture sending bits lecture wire library lecture master communication lecture slave operation
+</DOC>
 
-
+<DOC>
 examine arduino shields and how they are used to extend the capabilities of an arduinobased system shields are printed circuit boards that are stacked on top of the arduino together with libraries that enable the new hardware to be used through an arduino sketch describe the benefits of shields and their basic construction as as the use of libraries in interfacing with each shield this also describes how to connect your iot device to the internet using shields we focus on an ethernet shield in order to establish a wired network connection and a wifi shield to establish a wireless connection
 introduction lecture arduino shields lecture ethernet shield lecture ethernet library lecture ethernet client lecture client examples lecture ethernet server lecture ethernet shield demo lecture wifi shield lecture wifi shield demo
 </DOC>
-
 <DOC>
 the arduino platform and c programming
 the arduino is an opensource computer hardwaresoftware platform for building digital devices and interactive objects that can sense and control the physical world around them class how the arduino platform works in terms of the physical board and libraries and the ide integrated development environment also about shields which are smaller boards that plug into the main arduino board to perform other functions such as sensing light heat gps tracking or providing a user interface display the will also cover programming the arduino using c code and accessing the pins on the board via the software to control external devices please note that this does not include discussion forums
 upon completing this be able to outline the composition of the arduino development board describe what it means to the boards firmware read board schematics install arduino ide describe what shields are and how they are used specify the role of libraries in the use of shields compile and run a name c variables and types name common c operators use conditionals and loops explain functions their definition and invocation explain the implications of global variables undertake the arduino build process describe the role of the tools behind the ide describe how to invoke functions in classes explain the structure of an arduino sketch access the pins of the arduino differentiate between digital and analog pin debug embedded software explain the importance of controllability and observability in the debugging process describe common debugging architectures for embedded systems explain how the uart serial communication protocol works describe how the arduino serial library performs serial communication
-
-arduino environment
+</DOC>
+<DOC>arduino environment
 this provides an introduction to the arduino environment which is composed of three things the arduino board the arduino ide and the arduinocompatible shields together with their libraries we first investigate the board discussing all of its main components inputs and outputs we discuss how each component is used and we examine the board schematic to see how they are connected we then discuss the arduino integrated development environment ide which is used primarily to write compile and upload code we survey the interface of the ide and discuss how to install and use it we also examine the use of shields to extend the functionality of an arduinobased system we discuss how shield libraries provide a useful abstraction to facilitate programming
 introduction lecture arduino platform lecture arduino board lecture direct programming lecture arduino schematics lecture arduino ide lecture compiling code lecture arduino shields and libraries lecture arduino basic setup
+</DOC>
 
-c programming
+<DOC>c programming
 this covers the basics of the c programming language which will be used to write code for the arduino the first covers basic syntax variables and types most of the basic c operators are presented conditional statements if switch and loops while for are described the concept of functions is presented together with how to define and call functions creation and use of global variables is explained
 introduction lecture setting up your environment lecture hello world lecture variables lecture basic c operators lecture conditionals lecture loops lecture functions lecture global variables
+</DOC>
 
-arduino programs
+<DOC>arduino programs
 this describes the composition of an arduino or sketch and the process by which it is compiled and uploaded the arduino ide is a user interface for the software tools which actually compile and upload the we outline the use of these tools in the build process we describe the basic structure of a sketch including the use of the setup and loop functions the main interface of an arduino is through its pins so we describe how to access those pins from a sketch
 introduction lecture arduino toolchain lecture crosscompilation lecture arduino sketches lecture classes lecture sketch structure lecture pins lecture input and output lecture blink example demonstration arduino blink example
+</DOC>
 
-
+<DOC>
 this is an introduction on debugging embedded software on an arduino we discuss the basic debugging requirements controllability and observability the debugging environment available for an arduino uno is limited so we describe how to use the uart communication protocol to gain controllability and observability we present the use of the serial library to communicate with the arduino through the serial monitor
 introduction lecture debugging lecture debug environments lecture debug via serial lecture uart protocol lecture uart synchronization lecture uart parity and stop lecture serial on arduino updated lecture reading from serial
 </DOC>
-
 <DOC>
 introduction to the internet of things and embedded systems
 the explosive growth of the internet of things is changing our world and the rapid drop in price for typical iot components is allowing people to innovate new designs and products at home first class in the the importance of iot in society the current components of typical iot devices and trends for the future iot design considerations constraints and interfacing between the physical world and your device will also be covered also how to make design tradeoffs between hardware and software also cover key components of networking to ensure that students understand how to connect their device to the internet please note that this does not include discussion forums
 upon completing this be able to define the term internet of things state the technological trends which have led to iot describe the impact of iot on society define what an embedded system is in terms of its interface enumerate and describe the components of an embedded system describe the interactions of embedded systems with the physical world name the core hardware components most commonly used in iot devices describe the interaction between software and hardware in an iot device describe the role of an operating system to support software in an iot device explain the use of networking and basic networking hardware describe the structure of the internet describe the meaning of a network protocol explain manets and their relation to iot
-
-what is the internet of things iot
+</DOC>
+<DOC>what is the internet of things iot
 the internet of things iot is a popular buzzword right now but unlike many fads which have come and gone the internet of things describes an important trend which is having lasting effects on society at large the term itself internet of things is used to mean a variety of ideas depending on the motivation and background of the speaker this will start by providing a definition of the term talk about how various trends have enabled the internet of things and how it changes the way design is performed also discuss some of the ramifications that iot is having on society today
 prof harris introduction introduction prof harris takes you on a tour of his lab lecture iot example the refrigerator lecture iot devices lecture iot devices vs computers lecture trends in the adoption of iot lecture iot is powerful and pervasive lecture societal benefits of iot lecture risks privacy and security
+</DOC>
 
-embedded systems
+<DOC>embedded systems
 in we introduced the concept of the internet of things at a high level defining the term and outlining its implications we explore some of the details involved in the design and implementation of iot devices unlike traditional computerbased systems iot devices are embedded within other devices in order to provide enhanced functionality without exposing the user to the complexities of a computer the users interact with the device in a natural way similar to their interactions with any other objects in the world way an embedded system has an interface that conforms to the expectations and needs of the users establishing a natural interface requires that the embedded system interface with the physical world directly through sensors which read the state of the world and actuators which change the state of the world discuss the structure of embedded systems and describe these interactions with the physical world
 introduction lecture what are embedded systems lecture more on embedded systems lecture generic embedded systems structure lecture components of embedded systems lecture more on components of embedded systems lecture sensors and actuators in the lab lecture analogdigital conversion lecture basic equipment
+</DOC>
 
-hardware and software
+<DOC>hardware and software
 iot devices are implemented using both hardware and software components dedicated hardware components are used to implement the interface with the physical world and to perform tasks which are more computationally complex microcontrollers are used to execute software that interprets inputs and controls the system this discusses the roles of both the hardware and software components in the system the functions of common hardware components are described and the interface between the software and hardware through the microcontroller is explained iot devices often use an operating system to support the interaction between the software and the microcontroller define the role of an operating system in an iot device and how an iot operating system differs from a standard one
 introduction lecture hardware and software lecture integrated circuits lecture microcontroller properties updated lecture microcontroller components lecture compilation and interpretation lecture python vs cc lecture operating systems lecture task support
+</DOC>
 
-networking and the internet
+<DOC>networking and the internet
 an important aspect of the internet of things is that devices are networked in some way and often connected to the internet networking enables devices to communicate with other iot devices and larger cloudbased servers iot devices can often be thought of as small parts of a much larger collective system which includes large servers based in the cloud this will introduce the basics of networking and the internet protocol in particular eventually most iot devices are connected to the internet so understanding the protocols associated with the internet is important to the design of iot devices also introduce the concept of a mobile ad hoc network or manet which describes small local networks of iot devices
 introduction lecture why is networking needed lecture wan structure lecture networking components lab tour lecture internet structure lecture protocols lecture protocol stack lecture tcpip application layer lecture manets lecture packet capture demo
 </DOC>
-
 <DOC>
 the raspberry pi platform and python programming for the raspberry pi
 the raspberry pi is a small affordable singleboard computer that use to design and develop fun and practical iot devices while learning programming and computer hardware in addition how to set up up the raspberry pi environment get a linux operating system running and write and execute some basic python code on the raspberry pi also how to use pythonbased ide integrated development environments for the raspberry pi and how to trace and debug python code on the device please note that this does not include discussion forums
-
-
+</DOC>
+<DOC>
 this describes the basic functionality the raspberry pi b board ill describe how to set up the board configure it and use it an important point differentiating raspberry pi from the arduino platform which we have talked about previously is that raspberry pi uses an operating system ill describe some of the implications of an operating system on the behavior of the raspberry pi as an iot device
 introduction lecture raspberry pi board updated lecture raspberry pi processor lecture raspberry pi vs arduino updated lecture operating system benefits lecture processes lecture raspberry pi iot lecture raspberry pi setup lecture raspberry pi configuration lecture overclocking updated
+</DOC>
 
-
+<DOC>
 the raspberry pi is typically installed with a linuxbased operating system so we present the basics of linux and its use we describe some of the main features including navigating the file system and managing processes we describe the textbased user interface through the shell and we the graphic user interface which is the default with the raspian linux distribution
 introduction lecture linux basics lecture login lecture linux filesystem updated lecture navigating the filesystem updated lecture text editors updated lecture accessing files lecture permissions lecture processes lecture linux graphic user interface
+</DOC>
 
-
+<DOC>
 we present the basics of the python programming language to prepare you for programming on the raspberry pi many languages can be used but python is the most convenient for the raspberry pi because convenient apis are provided for basic operations such as controlling the pins python is a powerful language with useful features that present so that you can use these features to control the raspberry pi
 introduction lecture python on raspberry pi lecture python programming environment lecture python expressions lecture strings lecture functions lecture function arguments lecture lists lecture list methods lecture control flow
+</DOC>
 
-
+<DOC>
 we describe how to communicate with devices through the pins of the raspberry pi we examine the rpigpio library which provides python functions used to access the pins we discuss how to set up the pins apply digital voltages and generate pulse width modulated signals we also describe the tkinter python library and show how it can be used to access pins through a graphic user interface
 introduction lecture general purpose io pins lecture protocol pins lecture gpio access lecture general purpose io pins updated lecture pulse width modulation lecture demo of a blink lecture graphic user interface lecture tkinter library lecture interaction
 </DOC>
-
 <DOC>
 programming for the internet of things project
 capstone design a microcontrollerbased embedded system as an option you can also build and test a system the focus of your project will be to design the system so that it can be built on a lowcost budget for a realworld application to complete this project need to use all the youve learned in the programming microcontrollers system design interfacing etc the project will include some core requirements but leave room for your creativity in how you approach the project in the end produce a unique final project suitable for showcasing to future potential employers
 note that for the three required you do not need to purchase software and hardware to complete this there is an optional fourth for students who wish to build and demonstrate their system using an arduino or raspberry pi please also note that this does not include discussion forums upon completing this be able to write a requirements specification document create a systemlevel design explore design options create a test plan
-
-get started
+</DOC>
+<DOC>get started
 this section will answer questions you might have about the project the grading rubric and what you can expect in the upcoming weeks together
-
-capstone design part
-this will assist you in selecting an idea for your capstone project there are many variables to consider decision so its important to know the parameters and how they impact your choice your decision will then drive the content of the very first step in your capstone project preparing a requirements specification
-deciding on a project idea the design process specification example
-
-capstone design part
-with the requirements specification out of the way its time to turn your attention to the systemlevel design of your project this will walk you through the constraints your project will need to satisfy also be informed about how to consider alternatives to your design
-systemlevel design key system design decisions
-
-capstone design part
-naturally testing is a key component of any technical design this will walk you through the important aspects of a test plan for your design
-
-capstone design part optional
-final have the option of actually building out and then demonstrating your final project this is optional because it requires you to have the necessary equipment
-
-wrapup
-lets wrap up our time together as we have traveled through the
 </DOC>
 
+<DOC>capstone design part
+this will assist you in selecting an idea for your capstone project there are many variables to consider decision so its important to know the parameters and how they impact your choice your decision will then drive the content of the very first step in your capstone project preparing a requirements specification
+deciding on a project idea the design process specification example
+</DOC>
+
+<DOC>capstone design part
+with the requirements specification out of the way its time to turn your attention to the systemlevel design of your project this will walk you through the constraints your project will need to satisfy also be informed about how to consider alternatives to your design
+systemlevel design key system design decisions
+</DOC>
+
+<DOC>capstone design part
+naturally testing is a key component of any technical design this will walk you through the important aspects of a test plan for your design
+</DOC>
+
+<DOC>capstone design part optional
+final have the option of actually building out and then demonstrating your final project this is optional because it requires you to have the necessary equipment
+</DOC>
+
+<DOC>wrapup
+lets wrap up our time together as we have traveled through the
+</DOC>
 <DOC>
 interfacing with the raspberry pi
 the raspberry pi uses a variety of inputoutput devices based on protocols such as hdmi usb and ethernet to communicate with the outside world class how to use these protocols with other external devices sensors motors gps orientation lcd screens etc to get your iot device to interact with the real world most physical devices use analog signals
 however computer hardware is digital so class how these signals are converted backandforth and how this must be considered as you your device the basic design of a sensoractuator system will also be covered also how to build more sophisticated hardware systems using raspberry pi expansion boards to create fun and exciting iot devices please note that this does not include discussion forums
-
-
+</DOC>
+<DOC>
 this presents the use of the raspberry pi to connect to the internet from a user perspective the first way to use the raspberry pi as a networked device is to use it as a generalpurpose computer rather than as a programmed iot device using networking with a raspberry pi way is similar to using the network from any linux machine and we present its use we also present the standard internet protocols that must be understood in order to develop network programs
 introduction lecture network updated lecture secure shell lecture ssh clientserver lecture ssh server updated lecture network programs lecture internet protocols lecture ip addresses updated lecture domain names lecture clientserver
+</DOC>
 
-
+<DOC>
 this introduces the networking socket interface that is used to transfer data across the network programmatically an essential aspect of the internet of things is for your iot device to send and receive data on the internet and the socket interface is key to enabling that we describe how to use socket in python to act as both a client and a server
 introduction lecture sockets lecture sending data updated lecture exceptions lecture server code lecture live server lecture internet control lecture python client demo lecture python server demo
+</DOC>
 
-
+<DOC>
 this focuses on how to have your raspberry pi interact with online services through the use of public apis and sdks many interesting and useful services are available in the cloud and this describes how to write code that accesses those services we define what an application programming interface api is and what a software development kit sdk is we present some api examples and we show the use of the twitter api in detail using the twython package
 introduction lecture network libraries lecture web services lecture public apis lecture twitters api lecture twitter registration lecture sending a tweet lecture sending a tweet demo lecture twython callbacks lecture tweet response lecture responding to a tweet demo
+</DOC>
 
-
+<DOC>
 we show how to use the raspberry pi to interface with more complicated sensors and actuators we explore the use of the raspberry pi camera and the use of a servo the raspberry pi camera is used through the picamera library which we describe servos are controlled by generating pulse width modulated signals and varying their pulse width using library functions
 introduction lecture camera lecture picamera library lecture capturing images lecture camera demo lecture pwm on rpi lecture servo control lecture servo code lecture servo demo
 </DOC>
-

@@ -10,50 +10,55 @@ creating behavioral change
 about understanding and changing mental and physical health behavior examine both the historical context and the current science major topics will include fundamental behavioral principles and basic elements of empirically supported individual treatments eg motivational interviewing cognitive behavioral therapies lectures and examples will illustrate both the theory and the practice of evidencebased approaches to behavior change engage in a courselong behavior change experiment as as brief quizzes please note this is designed to introduce you to a range of contemporary approaches to behavioral treatments
 however it will not provide the needed to implement psychological interventions with others this requires years of graduate training nor is it designed to address or resolve your own psychological problems
 for each students will complete related to their personal behavior change project and quiz on the weeks material
-
-behaviorism in historical context
+</DOC>
+<DOC>behaviorism in historical context
 
 welcome behaviorism in historical context classical conditioning operant conditioning reinforcement and punishment types of reinforcement modern behaviorism personal behavior change activity
+</DOC>
 
-motivational interviewing
+<DOC>motivational interviewing
 
 why change motivational interviewing current use and evidence basic and critical listening decisional balance
+</DOC>
 
-what to change
+<DOC>what to change
 
 what to change behavioral activation treatment step by step case example turning activity brainstorm to smart goals
+</DOC>
 
-reevaluating and maintaining gains
+<DOC>reevaluating and maintaining gains
 
 reevaluating and maintaining gains relapse prevention plans tips for strengthening behavior change conclusion
 </DOC>
-
 <DOC>
 introduction to abnormal psychology
 this presents an of the major domains of abnormal psychology the is made up of the first of which provides an introduction to the field through discussions of the concept of psychological abnormality assessment and classification and the major models in use for understanding psychological abnormality the remaining four provide overviews of major domains of abnormal psychology including mood disorders anxiety disorders stress and traumarelated disorders and schizophrenia spectrum disorders lectures within each of these address symptoms and behaviors epidemiology causal theories treatment interventions and multicultural findings and considerations
 the also seeks to assist participants with becoming more adept at noticing when a family member friend or colleague may be experiencing psychological distress as as develop the comfort level required for initiating an empathic compassionate conversation with a person of concern toward this goal the last lecture of each is dedicated to the topic foundations of empathy this is not designed to assist participants with resolving their own of psychopathology nor it is intended to prepare participants to act as psychotherapists for distressed individuals in their personal lives
-
-introduction to abnormal psychology
+</DOC>
+<DOC>introduction to abnormal psychology
 
 introduction to abnormal psychology assessment diagnosis and classification the biological model the psychodynamic model the cognitive behavioral model the humanistic model the sociocultural model good mental health
+</DOC>
 
-mood disorders depression and mania
+<DOC>mood disorders depression and mania
 
 introduction to mood disorders depressive and bipolar disorders models of understanding depressive and bipolar disorders treatment interventions sociocultural and multicultural considerations active listening and core supportive part
+</DOC>
 
-anxiety disorders
+<DOC>anxiety disorders
 
 introduction to anxiety disorders major anxiety disorders models of understanding anxiety disorders treatment interventions sociocultural and multicultural considerations active listening and core supportive part
+</DOC>
 
-stress and traumarelated disorders
+<DOC>stress and traumarelated disorders
 
 introduction to stress and trauma acute stress disorder and posttraumatic stress disorder models for understanding acute stress disorder and ptsd treatment interventions sociocultural and multicultural considerations noticing anothers distress and handling a difficult conversation
+</DOC>
 
-schizophrenia spectrum disorders
+<DOC>schizophrenia spectrum disorders
 
 introduction to schizophrenia prevalence impact and related disorders models for understanding schizophrenia treatment interventions sociocultural and multicultural considerations what if you are concerned about suicide
 </DOC>
-
 <DOC>
 history of mental illness
 our lexicon of mental illness is immense there currently are hundreds of classified disorders and an extensive assortment of medications and therapies this explores the history of this productive science its discoveries classifications and treatments of psychiatric distress the excursion begins with a general introduction and proceeds to explore kinds of mental illness neurasthenia depression attention deficits addadhd and narcissism each kind is examined in terms of its scientific research and classification
@@ -67,25 +72,28 @@ and existing social gender and racial hierarchiesbiases we investigate these cul
 racial and gender biases in research and treatment
 the apparent happiness epidemic
 and the prospects of neurodiversity
-
-setting the historical context
+</DOC>
+<DOC>setting the historical context
 
 what do we call it what do we call it part who are the experts who are the diagnosed why the history of mental illness
+</DOC>
 
-neurasthenia
-
-science treatments reflections
-
-depression
+<DOC>neurasthenia
 
 science treatments reflections
+</DOC>
 
-deficits of attention
+<DOC>depression
 
 science treatments reflections
+</DOC>
 
-narcissism
+<DOC>deficits of attention
+
+science treatments reflections
+</DOC>
+
+<DOC>narcissism
 
 science treatments reflections conclusions
 </DOC>
-

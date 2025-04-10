@@ -10,69 +10,76 @@ medcerts highly immersive courses use various unique elearning components design
 medical billing and coding essentials
 insurance and billing and coding essentials is a comprehensive with insight and focus on the role of the insurance billing specialist the provides foundational knowledge required of an administrative allied healthcare emphasis is placed on the revenue cycle and basic insurance terminology
 students are exposed to a variety of elearning elements that allow handson interaction with the screen for an engaging education in addition to videobased instruction that provides foundational knowledge a variety of other learning methods are utilized for engagement entertainment and inspiration throughout training these may include interactive activities gamebased learning and an immersive environment for critical thinking
-
-
+</DOC>
+<DOC>
 plugins
 industry insight and question introduction and objectives the medical insurance field medical insurance basics review industry insight follow up
+</DOC>
 
-
+<DOC>
 plugins
 industry insight and question introduction and objectives the medical record and documentation hipaa hitech and aca other healthcare laws and regulations review industry insight follow up
+</DOC>
 
-
+<DOC>
 plugins
 industry insight and question introduction and objectives patient registration establishing financial responsibility review industry insight follow up
+</DOC>
 
-
+<DOC>
 plugins
 industry insight and question introduction and objectives development of the icdcm icdcm alphabetic index tabular list review industry insight follow up industry insight and question introduction and objectives cpt purpose and sections industry insight follow up industry insight and question introduction and objectives hcpcs levels and groupings hcpcs format and tables industry insight follow up
 </DOC>
-
 <DOC>
 professionalism in allied health
 this will benefit anyone considering a in allied health as as those already working the field allied health professionals must be committed to the key attributes of professionalism and strive to reflect this within the delivery of patientcentered safe and effective care professionalism is a broad term which reflects many different and abilities for an individual to exhibit professionalism they must be armed with specific and abilities that do not always show up within certification requirements or even within training curriculum soft are hard to measure and are typically less welldefined than hard however soft are what set many job candidates apart professionalism is not just what one knows it is how one does their job how one behaves and how one comes across as they interact with others
 the purpose of this is to support students with soft training that will provide the tools needed to demonstrate a higher level of professionalism on the job key components of the focus on patient interaction proper office behavior medical ethics diversity and cultural bias emotional strength appearance and communication the maintains a focus on the key attributes that are true markers of professionalism this was created with input from healthcare professionals working in the field healthcare employers that hire our graduates educators and even former medcerts students the endresult is a collection of that touch on the soft that are truly important in the real world of allied healthcare students are engaged through scenariobased learning that allows for real interaction with virtual coworkers and patients additionally gamebased activities keep students engaged and entertained throughout their learning journey
-
-
+</DOC>
+<DOC>
 plugins
 introduction and objectives realities of the workplace review
+</DOC>
 
-
+<DOC>
 plugins
 introduction and objectives emotional intelligence handling emotions building emotional strength review
+</DOC>
 
-
+<DOC>
 plugins
 introduction and objectives building relationships managing conflict review
+</DOC>
 
-
+<DOC>
 plugins
 introduction and objectives personal and interpersonal review
+</DOC>
 
-
+<DOC>
 plugins
 introduction and objectives modeling behavior review
 </DOC>
-
 <DOC>
 medical terminology and the human body fundamentals
 introduction to medical terminology and the human body about the medical language that is used to describe the human body throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussed
 this will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include introduction to medical terminology introduction to anatomy physiology and pathology cells the foundation of life and the human body
-
-
+</DOC>
+<DOC>
 reading plugins
 introduction objectives and vocabulary analyzing and building medical terms prefixes suffixes additional word forms
+</DOC>
 
-
+<DOC>
 reading plugins
 introduction objectives and vocabulary introduction to anatomy and physiology introduction to pathology and diseases diagnostics treatment and therapy
+</DOC>
 
-
+<DOC>
 reading plugins
 introduction objectives and vocabulary cells and tissues pathology of cells cancer
+</DOC>
 
-
+<DOC>
 reading plugins
 introduction and objectives organs and organ systems homeostasis and survival surface anatomy regions quadrants and cavities pathology related to nutrition respiratory and cardiovascular pathology pathology related to hydration and body temperature
 </DOC>
-

@@ -15,125 +15,143 @@ some example of how the immune system can cause problems and how we deal with th
 <DOC>
 fundamentals of immunology dueling with pathogens and cancer
 four fundamentals of immunology dueling with pathogens and cancer covers the constant battle between your immune system and threats to your health the first two lectures discuss viral and cellular pathogens focusing on specific tactics they use to deflect immune attacks next a cheerier lecture describes other immunebased therapies beginning with engineered antibodies to treat specific diseases this lecture continues with vaccine development viralengineered killed rnacomponent vaccines and more and adjuvant function and ends with vaccination strategies including herd immunity and resisting the antivaccination movement the last two lectures cover immune deficiencies and how cancer evades the immune system concluding with advances in using immune therapies antibodies and car t cells to cure cancer
-
-viral strategies
+</DOC>
+<DOC>viral strategies
 quizzes
 welcome lesson viral structure and function lesson enteroviruses lesson influenza lesson ebola lesson measles lesson hiv
+</DOC>
 
-pathogenic organisms
+<DOC>pathogenic organisms
 quizzes
 lesson bacteria lesson fungi lesson unicellular eukaryotes lesson helminth parasites
+</DOC>
 
-immune counterattack
+<DOC>immune counterattack
 quizzes
 lesson passive immunity lesson live attenuated vaccines lesson adjuvants lesson killed and component vaccines lesson lies antivaxxers tell
+</DOC>
 
-immune deficiency
+<DOC>immune deficiency
 quizzes
 lesson lesson lymphoid deficiencies lesson myeloid deficiencies
+</DOC>
 
-cancer
+<DOC>cancer
 quizzes
 origins of cancer cancer as antidevelopment the road to malignancy interactions with the immune system noncellular immune therapies cellular immune therapies
+</DOC>
 
-final exam and farewell
+<DOC>final exam and farewell
 
 looking ahead farewell
 </DOC>
-
 <DOC>
 fundamentals of immunology innate immunity and bcell function
 of a four called fundamentals of immunology innate immunity and bcell function each in the presents material that builds on the previous courses material
 this is the first leg of a fourpart journey through the defenses your body uses to keep you healthy part we hope to give you the vocabulary and concepts you need to interact with the medical community and provide them with a context that makes them memorable fundamentals of immunology innate immunity and bcell function introduces students to the basic functions of the adaptive and innate immune systems the early lectures survey cells tissues and organs using metaphors cartoons and models to improve understanding and retention after describing the form function origin and varieties of antibodies subsequent lectures provide details on the mechanism of the generation of variation the provides animations of gene rearrangement and class switching and descriptions of affinity maturation correlated with detailed physical models of antibody structure the final lecture reviews these concepts in an anatomical context testing employs multiple choice questions testing facts concepts and application of principles questions may refer to diagrams drawings and photographs used in the lecture and reproduced in the outline what the difference between adaptive and innate immune systems the characteristics of various pathogens that they protect you from and the overall strategies employed protection the detailed structure of antibodies and related immunoglobulin receptors the characteristics and function of the different antibody classes and the mechanism for producing both the recognition regions and stem regions finally how these structures are coded for in the dna and expressed in the b cells
-
-introducing the metaphors
+</DOC>
+<DOC>introducing the metaphors
 
 welcome context staying healthy pathogen varieties pathogen recognition words of advice metaphors of power politics innate versus defensive responses
-
-surveying the cells and organs of the immune system
-
-terminology hematopoiesis myeloid granulocytes myleolid antigen presenting cells lymphocytes primary organs lymph fluid vessels and nodes other secondary and tertiary organs final issues
-
-innate immunity
-
-basic considerations inflammation innate targeting of pathogens myeloid cell function innate and adaptive immunity compared
-
-antigens and antibodies
-
-context the immunoglobulin superfamily form and function immunoglobulin classes specific ig types immunoglobulins in action fc biological activity the b cell receptor monoclonal antibodies
-
-immuniglobulin genes
-
-uniqueness of the system scales and models gene to rna to protein light chain gene expression heavy chain gene expression rearrangement in developmental context recombination signal sequence structure mechanism details commitment to a definite cdr generation of antibody diversity class switching synthesis and secretion
-
-development of b cells
-
-b cell maturation initial steps in bone marrow activation thymus independent primary and secondary responses t cells anatomical and histological context affinity maturation final decisions regulation
-
-final
-reading
 </DOC>
 
+<DOC>surveying the cells and organs of the immune system
+
+terminology hematopoiesis myeloid granulocytes myleolid antigen presenting cells lymphocytes primary organs lymph fluid vessels and nodes other secondary and tertiary organs final issues
+</DOC>
+
+<DOC>innate immunity
+
+basic considerations inflammation innate targeting of pathogens myeloid cell function innate and adaptive immunity compared
+</DOC>
+
+<DOC>antigens and antibodies
+
+context the immunoglobulin superfamily form and function immunoglobulin classes specific ig types immunoglobulins in action fc biological activity the b cell receptor monoclonal antibodies
+</DOC>
+
+<DOC>immuniglobulin genes
+
+uniqueness of the system scales and models gene to rna to protein light chain gene expression heavy chain gene expression rearrangement in developmental context recombination signal sequence structure mechanism details commitment to a definite cdr generation of antibody diversity class switching synthesis and secretion
+</DOC>
+
+<DOC>development of b cells
+
+b cell maturation initial steps in bone marrow activation thymus independent primary and secondary responses t cells anatomical and histological context affinity maturation final decisions regulation
+</DOC>
+
+<DOC>final
+reading
+</DOC>
 <DOC>
 fundamentals of immunology complement mhc i and ii t cells and cytokines
 is a fourcourse called fundamentals of immunology each in the presents material that builds on the previous courses material
 this is the second half of the journey through the defenses your body uses to keep you healthy in the first part we learned about innate immunity and b cell function the second part covers t cell function and coordination of the immune response fundamentals of immunology complement mhc i and ii t cells and cytokines builds on the first to describe the functions of complement mhc presentation to t cells t cell development and signaling the early lectures survey cells tissues and organs using metaphors cartoons and models to improve understanding and retention this includes the structure of both mhc proteins and t cell receptors and the sources of variation the provides animations of gene rearrangement developmental processes and signal cascades testing employs multiple choice questions testing facts concepts and application of principles questions may refer to diagrams drawing and photographs used in lecture and reproduced in the outline what how complement uses adaptive and innate triggers to target pathogens the detailed structure and coding of mhc proteins and both alphabeta and gamma delta receptors and how these proteins interact to initiate an adaptive immune response the basics of signaling and the varieties of external receipt and internal activation pathways we bine the process of putting together how signals and crosstalk control the activity of the immune system
-
-complement
+</DOC>
+<DOC>complement
 quizzes
 welcome and terminology activation of mac classical pathway alternative pathway lectin pathway endgame and consequences
-
-the major histocompatability complex
-quizzes
-mhc genes mhc haplotypes inbreeding mhc protein structure specifics of peptide binding mhc genetic expression nonclassical alleles mhc and disease
-
-antigen processing and presentation
-quizzes
-t cell antigen recognition selfmhc restriction the cytosolic pathway the exogenous pathway variations comparisons and questions
-
-tcell receptors
-quizzes
-early structure and roles tcell receptor genes gene rearrangement genes gene rearrangement genes diversity and its constraints the tcr receptor complex alloreactivity
-
-tcell development
-quizzes
-into the thymus double negative transitions double positive event positive selection negative selection cd varieties activation
-
-cytokines and signaling
-quizzes
-information transfer fundamental signals contributory signals common themes in signaling signaling and th subsets determining the th subsets clinical applications
-
-final
-reading quiz
 </DOC>
 
+<DOC>the major histocompatability complex
+quizzes
+mhc genes mhc haplotypes inbreeding mhc protein structure specifics of peptide binding mhc genetic expression nonclassical alleles mhc and disease
+</DOC>
+
+<DOC>antigen processing and presentation
+quizzes
+t cell antigen recognition selfmhc restriction the cytosolic pathway the exogenous pathway variations comparisons and questions
+</DOC>
+
+<DOC>tcell receptors
+quizzes
+early structure and roles tcell receptor genes gene rearrangement genes gene rearrangement genes diversity and its constraints the tcr receptor complex alloreactivity
+</DOC>
+
+<DOC>tcell development
+quizzes
+into the thymus double negative transitions double positive event positive selection negative selection cd varieties activation
+</DOC>
+
+<DOC>cytokines and signaling
+quizzes
+information transfer fundamental signals contributory signals common themes in signaling signaling and th subsets determining the th subsets clinical applications
+</DOC>
+
+<DOC>final
+reading quiz
+</DOC>
 <DOC>
 fundamentals of immunology inflammation tolerance autoimmunity
 of a fourcourse called fundamentals of immunology each in the presents material that builds on the previous courses material
 this is the third leg of the journey through the defenses your body uses to keep you healthy we learned about innate immunity and b cell function in the first in the second we studied t cell function and coordination of the immune response fundamentals of immunology inflammation tolerance and autoimmunity introduces students to the basic functions of the adaptive and innate immune systems the early lectures survey cells tissues and organs using metaphors cartoons and models to improve understanding and retention after describing the form function origin and varieties of antibodies subsequent lectures provide details on the mechanism of the generation of variation the provides animations of gene rearrangement and class switching and descriptions of affinity maturation correlated with detailed physical models of antibody structure the final lecture reviews these concepts in an anatomical context testing employs multiple choice questions testing facts concepts and application of principles questions may refer to diagrams drawings and photographs used in the lecture and reproduced in the outline what a survey of immune cells and how they attack pathogens emphasizing the mechanism of inducing apoptosis and details of antibody directed cellmediated cytotoxicity the inflammatory response and mechanisms of generating tolerance are presented sequentially to emphasize the decisionmaking in controlling attacks a survey of autoimmune disease its characteristics cause and treatment survey of hypersensitivity reactions including allergy anaphylaxis anemias granulomas and various skin responses this is accompanied by identification prevention and treatment the final discussion of preventing transplant rejection is preceded by a detailed unit on antibody technology and the testing methods for incompatibility
-
-cellular immunity
+</DOC>
+<DOC>cellular immunity
 quizzes
 welcome cellular immunity quasiinnate adaptive cells border patrol out of the bone marrow spectrum and variety attack by tc cells attack by nk cells coordinated killing adcc
+</DOC>
 
-inflamation
+<DOC>inflamation
 quizzes
 metaphor signals cell adhesion extravasation inflammasomes inflamatory mediators clinical considerations clinical therapies
+</DOC>
 
-tolerance
+<DOC>tolerance
 quizzes
 danger assessment central tolerance peripheral tolerance experiments and mechanisms t regulatory cells thought questions mutation implications and analogy
+</DOC>
 
-autoimmunity
+<DOC>autoimmunity
 quizzes
 systemic endocrine neuromuscular epithelia mechanisms therapy
+</DOC>
 
-hypersensitivity
+<DOC>hypersensitivity
 quizzes
 type i characteristics and diseases type i mechanism of action type i therapies and epidemiology type ii adcc type ii clinical consequences type iii immune complex mediated type iv cellular or delayed wrapup
+</DOC>
 
-transplant immunity
+<DOC>transplant immunity
 reading quizzes
 antibodies assays elisa assays graft rejection mhc and tissue typing encouraging tolerance transplant examples farewell
 </DOC>
-

@@ -15,74 +15,79 @@ and creating your own computer vision web application and deploying it to the cl
 building ai powered chatbots without programming
 in todays fastpaced business environment seamless operations and maximum productivity are essential aipowered chatbots are now a cornerstone for managing routine customer queries efficiently freeing human teams to focus on strategic highlevel tasks
 this is designed to equip you with the and techniques to create aipowered chatbots even if you have no programming whether youre a student a or an expert looking to make your mark in the field this has something for you start by exploring what chatbots are and their benefits in the digital landscape about action workflows and the key features of the chatbot build during the the also delves into the highlevel differences between decisiontree chatbots and generative ai chatbots be introduced to the concept of actions within chatbots and to build them using ibm watsonx assistant handson is a key part of this through interactive labs instructional and quizzes apply what youve learned to realworld scenarios such as creating a customer care chatbot for a fictitious flower shop by the end of the be on your way to building and deploying your own aipowered chatbots
-
-introduction to chatbots
+</DOC>
+<DOC>introduction to chatbots
 welcome to where quickly gain insights into the world of chatbots first to define what chatbots are explore the intriguing history of messengers and about the aienabled rise of chatbots be able to explain who chatbots are for and why chatbots matter begin creating the chatbot build and create an instance of ibm watson assistant to use with your chatbot build
 welcome introduction to chatbots
 </DOC>
-
 <DOC>
 developing ai applications with python and flask
 this mini is intended to apply basic python for developing artificial intelligence ai enabled applications handson project assume the role of a developer and perform tasks including
 develop functions and application logic exchange data using watson ai libraries write unit tests and package the application for distribution demonstrate your foundational python by employing different techniques to develop web applications and ai powered solutions after completing this have added another project to your portfolio and gained the confidence to begin developing ai enabled applications using python and flask watson ai libraries build and run unit tests and package the application for distribution out in the real world
-
-python coding practices and packaging concepts
+</DOC>
+<DOC>python coding practices and packaging concepts
 start with the basic difference between web applications and apis next about the application development lifecycle from gathering requirements to maintaining the project also get familiar with the best practices for coding as documented in the python enhancement proposal pep style guide about static code analysis which is used to ensure that the code you write adheres to the coding rules next how to create and run unit tests finally how to create verify and run python packages
 introduction to the application development lifecycle introduction to web applications and apis demo working with an ide python style guide and coding practices unit testing packaging
-
-web app deployment using flask
-be introduced to the definitions of and key differences between python libraries and frameworks for application development also about flask a pythonbased micro framework used for web deployment of applications the will also introduce development and deployment concepts including routes request and response objects error handling and decorators after building an api with flask also to deploy web apps using flask
-python libraries and frameworks for application development introduction to flask flask basic applications and routes request and response objects using get and post modes dynamic routes error handling deploying web apps using flask
-
-creating ai application and deploy using flask
-be introduced to embeddable watson ai libraries also have the to build two aibased apps the practice project will provide you with a challenge to apply your programming and incorporate the ibm watson libraries to build a textbased sentiment analysis tool be provided guidance through each step of the project the final project emotion detection based on the text input will help you get your and proficiency assessed by your peers for both projects perform unit testing static code analysis and incorporate error handling
 </DOC>
 
+<DOC>web app deployment using flask
+be introduced to the definitions of and key differences between python libraries and frameworks for application development also about flask a pythonbased micro framework used for web deployment of applications the will also introduce development and deployment concepts including routes request and response objects error handling and decorators after building an api with flask also to deploy web apps using flask
+python libraries and frameworks for application development introduction to flask flask basic applications and routes request and response objects using get and post modes dynamic routes error handling deploying web apps using flask
+</DOC>
+
+<DOC>creating ai application and deploy using flask
+be introduced to embeddable watson ai libraries also have the to build two aibased apps the practice project will provide you with a challenge to apply your programming and incorporate the ibm watson libraries to build a textbased sentiment analysis tool be provided guidance through each step of the project the final project emotion detection based on the text input will help you get your and proficiency assessed by your peers for both projects perform unit testing static code analysis and incorporate error handling
+</DOC>
 <DOC>
 introduction to artificial intelligence ai
 artificial intelligence ai is all around us seamlessly integrated into our daily lives and enroll to understand the key ai terminology and applications and launch your ai or transform your existing one
 this covers core ai concepts including deep learning machine learning and neural networks examine generative ai models including large language models llms and their capabilities furthermore examine ais application across domains such as natural language processing nlp computer vision and robotics uncovering how these advancements drive innovation and use cases this explores ais transformative impact including generative ai on businesses it also explains how ai can revolutionize your and environment and what it offers finally the explores ai ethics and governance prevalent concerns and issues surrounding the ai landscape the includes handson labs and a project providing an to explore ais use cases and applications also hear from expert practitioners about the capabilities applications and ethical considerations surrounding ai this is suitable for everyone including professionals enthusiasts and students interested in learning the fundamentals of ai
-
-introduction and applications of ai
+</DOC>
+<DOC>introduction and applications of ai
 the definition of ai and the basics of generative ai explore the impact applications and use cases of ai and how it is transforming our lives additionally discover common tools and applications of generative ai about ai agents and smart assistants and their common use cases finally examine how ai is reshaping various industries and sectors
 introduction introducing ai artificial intelligence vs augmented intelligence introducing generative ai and its use cases the evolution of ai traditional ai vs generative ai artificial intelligence are we there yet ai in daily life ai chatbots and smart assistants what is a chatbot applications of ai in different industries generative ai tools and applications ten everyday ai and machine learning use cases
+</DOC>
 
-ai concepts terminology and application domains
+<DOC>ai concepts terminology and application domains
 about the core concepts of ai covering deep learning machine learning and neural networks explore generative ai models including large language models llms and their capabilities additionally explore the development and application of ai in various domains like natural language processing nlp computer vision and robotics discovering how advancements in these areas drive diverse innovations and use cases
 cognitive computing terminologies and related concepts of ai machine learning machine learning techniques and training deep learning neural networks machine learning vs deep learning generative ai models large language models machine learning vs deep learning vs foundation models natural language processing speech and computer vision what is nlp natural language processing self driving cars ai and cloud computing edge computing and iot
+</DOC>
 
-business and transformation through ai
+<DOC>business and transformation through ai
 explore the development of ai in businessrelevant domains including ai agents and robotics discover the transformative impact of ai especially generative ai on business operations about the benefits ai offers to organizations and examine various use cases additionally discover how ai can revolutionize your and environment the also covers in the ai domain examine key considerations for organizations looking to adopt ai and different frameworks and approaches used for ai implementation this includes an indepth look at ibms ai ladder framework
 ai agents what are ai agents robotics and automation transforming businesses through ai the rise of generative ai for business become a value creator with generative ai what is retrievalaugmented generation rag adopting ai in your business frameworks for ai adoption transforming your through ai tools with ai humans vs ai who should make the decision
+</DOC>
 
-issues concerns and ethical considerations
+<DOC>issues concerns and ethical considerations
 this focuses on ai ethics and governance and addresses prevalent concerns and issues surrounding the ai landscape about the fundamental principles of ai ethics and how to implement them the also discusses the specific ethical considerations related to generative ai also how ai ethics are enforced through governance and regulations this includes a final project and a graded quiz to assess your understanding of the concepts
 ethical considerations and responsible use of ai considerations around generative ai why large language models hallucinate perspective of key players around ai ethics the importance of ai governance how to implement ai ethics wrapup
 </DOC>
-
 <DOC>
 python for data science ai development
 kickstart your learning of python with this beginnerfriendly selfpaced taught by an expert python is one of the most popular languages in the programming and data science world and demand for individuals who have the ability to apply python has never been higher
 this introduction to python will take you from zero to programming in python in a matter of hoursno prior programming necessary about python basics and the different data types familiarize yourself with python data structures like list and tuples as as logic concepts like conditions and branching use python libraries such as pandas numpy beautiful soup also use python to perform tasks such as data collection and web scraping with apis practice and apply what you through handson labs using jupyter notebooks by the end of this feel comfortable creating basic programs working with data and automating realworld tasks using python this is suitable for anyone who wants to data science data analytics software development data engineering ai and devops as as a number of other job roles
-
-python basics
+</DOC>
+<DOC>python basics
 this teaches the basics of python and begins by exploring some of the different data types such as integers real numbers and strings continue with the and how to use expressions in mathematical operations store values in variables and the many different ways to manipulate strings
 introduction introduction to python getting started with jupyter types expressions and variables string operations
+</DOC>
 
-python data structures
+<DOC>python data structures
 this begins a journey into python data structures by explaining the use of lists and tuples and how they are able to store collections of data in a single variable next about dictionaries and how they function by storing data in pairs of keys and values and end with python sets to how this type of collection can appear in any order and will only contain unique elements
 lists and tuples dictionaries sets
+</DOC>
 
-python programming fundamentals
+<DOC>python programming fundamentals
 this discusses python fundamentals and begins with the concepts of conditions and branching continue through the and how to implement loops to iterate over sequences create functions to perform a specific task perform exception handling to catch errors and how classes are needed to create objects
 conditions and branching loops functions exception handling objects and classes
+</DOC>
 
-working with data in python
+<DOC>working with data in python
 this explains the basics of working with data in python and begins the path with learning how to read and write files continue the and uncover the best python libraries that will aid in data manipulation and mathematical operations
 reading files with open writing files with open pandas loading data pandas working with and saving data one dimensional numpy two dimensional numpy
+</DOC>
 
-apis and data collection
+<DOC>apis and data collection
 this delves into the unique ways to collect data by the use of apis and web scraping it further explores data collection by explaining how to read and collect data when dealing with different file formats
 application interface rest apis http requests part rest apis http requests part optional html for web scraping optional web scraping working with different file formats
 </DOC>
-

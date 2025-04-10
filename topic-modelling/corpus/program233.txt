@@ -10,116 +10,132 @@ in each review how organisational science can help address reallife leadership a
 <DOC>
 adapt your leadership style
 why are organisational misbehaviours such as cynicism apathy bullying and disengagement increasingly prevalent in the workplace this examines these tensions and how transformational authentic and inclusive leadership styles offer an alternative to the more autocratic jobcentred and controlling leadership styles of the past how the digital revolution along with an increased focus on projects and teamwork has dramatically altered the perception of leadership in a way that now demands all organisational members take on some form of selfleadership and how this change is causing tensions between traditional leaders and the contemporary practices vital to maintain agility in todays ultracompetitive marketplace this learning will be complemented by structured activities such as lectures quizzes discussion prompts and written assessments
-
-the leadership challenge
+</DOC>
+<DOC>the leadership challenge
 welcome to your first in the adapt your leadership style take a look at the material that will be covered what you can expect to and the questions that you explore presents you with a number of models and tools to help you develop a helicopter view of the challenges of contemporary leadership and become confident in your ability to critically analyze the wide range of ideas and theories encounter examine the concept of leadership as something possessed by an individual looking at personality traits profiles attitudes and behaviors associated with the practice of leadership
 welcome and introduction outline the importance of leadership the messy practice of leadership leadership traits leader needs follower motivation leadership styles leadership grid habit corner
+</DOC>
 
-the practices of individual leadership
+<DOC>the practices of individual leadership
 welcome to the second in the adapt your leadership style deepen your understanding of leadership as a set of behaviours or traits possessed or displayed by an individual in doing so see how the relatively selfenclosed leadership concepts presented in the first have increased in sophistication and complexity via notions of leadership styles and decisionmaking variables the models examining this range from the academically pure but perhaps unrealistic in practice contingency models of leadership to the highly pragmatic interpretations of leadership action and style found in the politics and power struggles of organisational life
 outline contingency leadership models organisational power formal and informal leadership networks
+</DOC>
 
-leading teams
+<DOC>leading teams
 welcome to the third in the adapt your leadership style leave the ideas of individual leadership traits behaviors and styles behind and focus on the theories and practices of team leadership building from the baseline of communication coaching and conflict resolution then examine the complex interrelationships in teams through concepts of ingroup and outgroup behavior and leaderfollower roles and interactions finally examine how teamwork itself is becoming complex and varied with many people charged with leading virtual teams or displaying informal leadership qualities in selfmanaged teams
 outline the rise of the team the role of leaders the role of followers leading with psychological safety teams and the future of
+</DOC>
 
-leading the organisation
+<DOC>leading the organisation
 welcome to the fourth in the adapt your leadership style having covered individual leadership theories and the demands of leading teams it is now time for the big league how to lead an organization starting with an examination of the shift from transactional to transformational leadership illustrates why the challenge of leading a contemporary organisation can be so mystifying ranging from the way in which leaders must generate emotional responses in their followers through charisma vision and culture to the complex challenge of leading diverse groups of people concludes with the concept of authentic leadership which questions the very validity of all the theories that precede it
 outline charisma and transformational leaders qualities of an ideal charismatic leader the dimensions of authentic leadership
+</DOC>
 
-leadership and ambiguity
+<DOC>leadership and ambiguity
 welcome to the fifth in the adapt your leadership style examine two established but somewhat alternative concepts of leadership that examine how leaders have to to deal with ambiguity in order to lead effectively first explore the idea that leaders go through developmental stages which are formed through progressively more sophisticated and multilevel perspectives and practices following that examine how leadership is never easy but risky and necessarily adaptive injecting discomforting ambiguity into seemingly obvious situations at its highest level finally look at how contemporary ideas about organisational conditions might be pushing such perspectives on leadership increasingly into the mainstream spotlight
 outline the stages of leadership transformation part the stages of leadership transformation part the adaptive leadership model part the adaptive leadership model part
+</DOC>
 
-critical pragmatic and popular perspectives on leadership
+<DOC>critical pragmatic and popular perspectives on leadership
 welcome to the final in the adapt your leadership style leave mainstream theory behind and examine some radical and pragmatic perspectives on leadership the radical perspective will examine how leadership and followership are contested perspectives that have a darker side that can be used to legitimize some unenlightened behaviours taking these claims seriously see how some pragmatic ideas on leadership have revealed the degree to which bad or toxic leadership has proliferated how leadership development seems to struggle to solve this challenge and the behaviors and misbehaviors associated with this problem finally examine some ideas proposed by populist leadership gurus and look at the ways in which leadership might be conceptualized in the future
 outline leaders behaving badly leadership profiles jeffrey pfeffers leadership bs the complexities of leadership
 </DOC>
-
 <DOC>
 visionary leadership identity motivation become a meaning maker
 when faced with a complex and ambiguous environment how do you as a potential leader envision the future how can you deliver on your vision in a way that conveys meaning and drives positive change within your organisation explore how leaders can create a compelling vision and communicate it and how they create meaning and make more meaningful look at the role the brain and the body play in processing meaning and how this can inspire your employees to follow you and your vision this will also teach you how to develop meaningful brand identity and the role it can play in clarifying and reinforcing your leadership vision within your organisation for your partners and for your customers discover that meaning crosses into almost every aspect of management finally better understand how social and cultural factors can influence what you can achieve and your limitations when seeking to create meaning
-
-meaning and making meaning
+</DOC>
+<DOC>meaning and making meaning
 we start off with exploring the essence of meaning and why meaning is important at we also explore the conditions that facilitate or hinder meaning making we look at how meaning could be enhanced by ensuring a fit between and those who undertake it we talk about the importance of linking employees activities with a significant bigger purpose and how this might be accomplished we look at aspects of designing to increase meaning and then flip our perspective and try to understand the concept of meaninglessness and some of the factors that contribute to meaninglessness
 welcome and introduction outline meaningful design and meaning meaninglessness meaning through fit habit corner
+</DOC>
 
-leadership and meaning making
+<DOC>leadership and meaning making
 you explore the use of symbols and language in developing meaning how leaders can use metaphors and imagery to convey not just thoughts but feelings a very powerful tool in meaning making how leaders apply a powerful meaning making tool framing which can be utilised to analyse problems through the lens of organisational goals and trigger meaning making aimed at problemsolving also explore the power of social identity in meaning making by learning how leaders can leverage the power of the social group to achieve organisational objectives
 outline framing symbolic representation rhetorical crafting creating meaning through social identity
+</DOC>
 
-brain body and storytelling in meaning making
+<DOC>brain body and storytelling in meaning making
 explore a slightly different perspective on meaning making that highlights the role of neuroscience and storytelling look at how the brain works and how to influence peoples interpretation of meaning some physiological techniques to project meaning through your voice and breath body language and posture how storytelling exploits some of our ancient tribal instincts to trigger meaning making
 outline the neuroscience of meaning making creating meaning through voice and breath creating meaning through body language posture creating meaning through stories
+</DOC>
 
-branding as meaning making
+<DOC>branding as meaning making
 you about the role of branding in communicating meanings and the role of different levels of meanings including functional emotional and higher purpose communication process be shown how to shape meanings you wish to communicate and how to shape the perceptions of your organisations stakeholders over the longterm be introduced to different categories of brand meanings or brand personalities also analyse visual and verbal brand elements and also supporting branding strategies in communicating those personalities and meanings through brand names logos characters and taglines among others
 outline dont be liked be loved be visionary be meaningful craft brand personality
+</DOC>
 
-building brands
+<DOC>building brands
 look at the process of choosing the brand name as the first step in communicating your brand personality and meaning about visual logo and typeface design building on your understanding about using symbols in meaning making realise the importance of incorporating different symbols to convey your brand meaning but as not all your consumers are visual communicators some people are verbal so it is also crucial to talk about slogans and taglines as your key verbal element also about some shortcuts in meaning making pairing your brand with external entities to get energy and meaning from them finally also become aware of challenges of measuring meaning making efforts and how major brand valuation firms incorporate metrics in their methodologies to capture meaning making efforts
 outline creating meaning through brand elements brand logos and symbols measuring and monitoring brand based meaning making
+</DOC>
 
-meaning in social context
+<DOC>meaning in social context
 put the management of meaning in a wider societal and historical context and appreciate that we dont invent meanings for things as central to our lives as the we do from scratch the meaning this holds for people is instead patterned onto and dovetails with much longer values and ideas understanding this gives us a better grasp of what we can hope to achieve and the limitations and difficulties that we face when seeking to create meaning for others though our leadership roles be introduced to the three most significant understandings of the problem of meaning in relation to and business that have been formulated across two centuries of academic marxist alienation of weberian religious spirit of capitalism and the contemporary new spirit of capitalism with emphasis on aspects such as innovation and social responsibility be guided through thinking about the implications of these ideas for how we approach meaning making today by developing an appreciation of these major social theories of meaning be better able to appreciate both the possibilities and the limitations that you and other leaders are faced with in making and managing meaning
 outline managing meaning in a wider context alienation and in capitalist society a religious spirit of capitalism a new spirit of capitalism
 </DOC>
-
 <DOC>
 organisational behaviour know your people
 organisations have changed and now more than ever personnel management is crucial to organisational success explore a range of concepts theories and methodologies that will help you navigate and optimise your environment via structured learning activities lectures quizzes discussion prompts and written assessments be exposed to the latest bestpractice leadership strategies to enable your employees to achieve more at examine case studies on advanced leadership strategies and be challenged to consider how these might apply to your own workplace and discover that your ability to manage and lead people in a flatter more teamdriven context is now the key to organisational success as the world continues to undergo dynamic change this will prepare you to be the one to lead your team and your organisation into the dynamic environments of tomorrow
-
-people in organisations
+</DOC>
+<DOC>people in organisations
 we often think of people at in terms of their expertise their or their jobs but to lead effectively you have to understand different personalities values and attitudes these are the attributes that may not be included in a job application but can have a substantial impact on the way people communicate and respond to leaders industry experts will provide insight on how understanding individual differences has helped them to create a more productive and happier workplace ultimately take a closer look at yourself as a leader and how you can make better decisions to optimise your team as you move through be asked to complete some quizzes that are designed to help you understand different concepts be prepared to think openly and answer honestly this is an exciting journey into the psychology of people at
 welcome and introduction outline personality values and attitudes perception habit corner overcome restrictive mental models
+</DOC>
 
-diversity and inclusion
+<DOC>diversity and inclusion
 welcome to of the know your people explore diversity and inclusion in organisations about the challenges for leaders in an increasingly diverse workplace and pay close attention to the benefits that diversity can provide especially if you have the right expertise and perspective draws on learning from by highlighting the importance of individual differences in our thinking about diversity also think about how perception and perceptual bias might be important in more diverse workplaces also look at different types of diversity and different levels we often think of diversity in terms of gender age or nationality but to take full advantage of diversity we need to look beyond these biodemographic aspects of people at and focus on deeperlevel differences such as differences in the way people think and their viewpoints these may not be as easy to detect but they are critical to understanding how diversity can help organisations be more innovative and competitive explore some of the remarkable that leaders have generated by creating more inclusive workplaces and take a closer look at how you can lead more inclusively be prepared to think differently about differences this could be the key to unlocking the real potential of people at
 outline diversity some fundamentals the challenge of diversity diversity management
+</DOC>
 
-motivating your people
+<DOC>motivating your people
 welcome to of the know your people explore motivation in organisations about what motivates people and the actual process of motivation both are important when you make decisions about rewards organising and even relationships at and we draw on more than fifty years of research to design a motivating job thinking about motivation is often restricted to monetary rewards but we need to look more closely at issues of meaning and commitment if you are to really understand motivation pay close attention to the difference between extrinsic and intrinsic motivation to answer the question does money motivate the answer might surprise you also look at different types of rewards and think critically about the role of punishment at be prepared to challenge your thinking about traditional rewards especially money the most effective motivators are often invisible
 outline what motivates your people how to motivate your people designing a motivating job
+</DOC>
 
-conflict and emotion good or bad
+<DOC>conflict and emotion good or bad
 welcome to of the know your people explore conflict and emotions in organisations most of us think of conflict as inherently negative something that we should avoid at but is harmony always better than friction is there a time when rocking the boat is a good idea in an effort to answer these questions about different types of conflict and their impact on the way people interact and think pay close attention to the downside of conflict in organisations but also explore how you as a leader can think about conflict as a way to avoid stagnation and groupthink and even help employees innovate also look into the role of emotions at conflict and emotion often go handinhand but emotions play a much greater role in our working life than you might think its not just about how you feel either emotions can have a powerful influence on the way you think
 outline conflict conflict process emotions
+</DOC>
 
-teams and teamwork putting together high performing teams
+<DOC>teams and teamwork putting together high performing teams
 welcome to of the know your people explore teams in organisations most of you or have worked in teams and know that teams are a growing feature of organisational life the benefits of teams are often extolled from greater innovation to increased satisfaction for members but there are many who claim that teams can be problematic they can allow some members to do little while others carry a heavier load there can also be great potential for conflict and tension in teams this can cause a dilemma for leaders who want to take advantage of the many positive that teams can achieve without risking interpersonal hostilities look at the factors that contribute to effective teamwork examine how you can design and lead a team to maximise its potential
 outline groups and teams team process conformity and cohesiveness
+</DOC>
 
-crosscultural and global leadership
+<DOC>crosscultural and global leadership
 welcome to the final of the know your people you all in increasingly global and connected environments for many of you this means that you lead people from different cultural backgrounds for others it means leading people who have lived and worked in different countries although this is a reality for many leaders few people really understand the challenges and real advantages that this provides to help you reap some of these benefits and avoid the pitfalls explore how you can understand and leverage cultural differences also about leadership across distance and truly global leadership leading across countries and we explore the challenges of expatriate leadership i interview professor brendan boyle a leading scholar in international business and human resource management and dr narender sharma who has extensive leading in multinational corporations together their research and international will help you develop important crosscultural leadership
 outline cultural competence leading across cultures expatriation decision making and global staffing
 </DOC>
-
 <DOC>
 organisational design know your organisation
 how do you lead your organisation when todays environment is so competitive and complex when you become responsible for leading an organisation your most important leadership challenge will be enabling your organisation to deliver on its strategy while ensuring it remains sufficiently agile this will prepare you to tackle this challenge examine what organisational culture is the primary organisational structures and what we mean by systems before building on your foundational knowledge and taking a more strategic perspective the structured learning activities that complement this lectures quizzes discussion prompts and written assessments will not only prepare you to take your organisation forward in a more strategic direction but to make better decisions along the way
-
-organisational alignment
+</DOC>
+<DOC>organisational alignment
 welcome to your first of the know your organisation have you ever wondered what it means to be more strategic as a leader what differentiates a leader from a strategic leader of this label can mean all sorts of things some people seem to have started using it simply because it sounds good but when it comes to leading an organisation being strategic does have a specific meaning it is about ensuring that your organisation is fully focused on executing its business strategy what does this involve exactly how do you make sure that your organisation can deliver on the business strategy you to understand the organisation as consisting of a number of elements people structure culture and systems each of these elements will be covered in depth in weeks of the first take a broader perspective across them as a basis for understanding the importance of aligning them in such a way that they can enable the execution of the business strategy this focus on alignment brings us to the central concept for key capabilities what key capabilities are why they are so important for strategically focusing your organisation and how you can identify them if you to master the ability to clearly define a set of key capabilities for any given strategy and are able to align your organisation to these become a truly effective leader worthy of the term strategic
 welcome and introduction outline organisational alignment the importance of key capabilities how to identify key capabilities value chain analysis habit corner
+</DOC>
 
-organisational culture
+<DOC>organisational culture
 what do you think is the most challenging aspect of making sure that your organisation can deliver on its business strategy many senior executives would definitely say organisational culture when your organisational culture works to support your business strategy it gives you a huge advantage when it doesnt it can spell disaster so what is organisational culture exactly and what is so challenging about it and how do you know if your culture is aligned with your strategy these are some of the key questions that grapple with to apply a powerful diagnostic tool for identifying your predominant culture type and for assessing whether you should try to change it or not also a number of important change levers that you can influence if you do decide culture change is needed be careful though the road of culture change can be treacherous how to navigate it better
 outline what is organisational culture why organisational culture is important types of organisational culture levers of cultural change
+</DOC>
 
-organisational structure
+<DOC>organisational structure
 what would you do first if you wanted to fundamentally change the direction of your organisation if you are like most leaders you would definitely consider changing the structure of the organisation but when you dig a bit deeper into this topic quickly discover that there are a huge number of structural options to choose from so how do you know which option is best what are the main types of organisational structure and what are their advantages and disadvantages how do you make sure that your organisation structure enables your business strategy instead of making strategy execution more difficult these are the key questions that engage about the key tradeoffs involved in organisational structure decisions and how to balance these tradeoffs in relation to your business strategy and to apply a powerful step process for developing an effective organisational structure for your organisation even if you are not in a position yet to directly influence the structure of your organisation wouldnt it be great to at least know what the structure of your organisation should be theoretically speaking is focused on just that
 outline key tradeoffs in organisational structure types of organisational structure advantages and disadvantages of different structure types
+</DOC>
 
-organisational control systems
+<DOC>organisational control systems
 what are systems for exactly this can be quite a tricky question because it obviously depends on the particular system we are talking about yet from a management perspective there is a straightforward general answer to this question systems are there to control performance and risk what this means exactly and what the most important implications are for how you design your systems around your business strategy to understand systems more broadly than just it systems and how to deploy them effectively to manage and control performance and risk an important part of this involves deciding on the key indicators that you want to track and how you want to report information that is strategically relevant too many business leaders drown in numbers to the point where they cant see the wood from the trees is focused on helping you design systems that can keep you focused on seeing the wood instead of the trees
 outline the four types of control systems the balanced score card
+</DOC>
 
-strategic human resource management hrm
+<DOC>strategic human resource management hrm
 is it possible to manage your employees strategically what does that mean and what would it look like the key principles of human resource management hrm have been around since at least the s however since the turn of the st century we have seen a distinct move towards making hrm more strategic amongst many other things this has involved making the human resource hr function more proactive and highlighted its importance for the strategic success of companies yet there is also another way of approaching hrm more strategically determining what roles are strategically most important and tailoring your hr practices accordingly it is this specific approach to strategic hrm that will be the focus of to question common practices in hrm from a strategic perspective and develop alternatives to them that better support the business strategy of your organisation also to apply a key conceptual framework for strategically differentiating your hrm approach so is all about learning how to align your people practices with your business strategy this will involve some tough and possibly controversial choices which should provide plenty of for some great discussions
 outline a strategic approach to hrm strategic workforce segmentation apply a strategic workforce segmentation diagnostic tool
+</DOC>
 
-from organisational alignment diagnosis to solutions
+<DOC>from organisational alignment diagnosis to solutions
 this final of the is all about bringing everything you have learnt over the past five weeks together in one powerful framework this framework will help you move from problem diagnosis to solutions development and will help you prioritise the key issues that your organisation should be focused on revisit the central topics of this key capabilities structure culture people and systems as a basis for deciding where the biggest sources of misalignment are in relation to your business strategy and after deciding on your most critical issues use the key frameworks in the to develop a set of recommendations that could address these issues then be encouraged to think through the risks associated with your key recommendations and develop risk mitigation strategies all of this will culminate in a report with your organisational recommendations some tips on how to approach such a report will also be covered when you have mastered the of determining what the most critical organisational issues that your business should focus on be in a much better position to lead organisations effectively and strategically
 outline from critical issues to possible solutions risk assessment of proposed solutions
 </DOC>
-

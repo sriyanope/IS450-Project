@@ -10,167 +10,189 @@ courses include a mix of practice quizzes to selfassess understanding graded qui
 investments ii lessons and applications for investors
 start by reviewing the fundamentals of investments including the trading off of return and risk when forming a portfolio asset pricing models such as the capital asset pricing model capm and the factor model and the efficient market hypothesis be introduced to the two components of stock returns dividends and capital gains and will how each are taxed and the incentives provided to investors from a realizationbased capital gains tax examine the investment decisions and behavioral biases of participants in definedcontribution dc pension plans like k plans in the us and will about the evidence regarding the performance of individual investors in their stock portfolios the concludes by discussing the evidence regarding the performance of activelymanaged mutual funds about the fees charged to investors by mutual funds and the evidence regarding the relation between fees charged and fund performance segments of the portfolios of mutual funds that may be more likely to outperform and examples of strategies designed to earn alpha will also be introduced
 learners are welcome to take this even if they have not completed investments i fundamentals of performance evaluation as the first contain a review of investment fundamentals and regression analysis to get everyone up to speed also the contains several innovative features including creative outofthestudio introductions followed by quickhitting in countdowns that highlight what will be covered in each four faculty focus interview episodes with leading professors in finance and a of each done with the help of animations the overarching goals of this are to provide a review of the fundamentals of investments and then assess the historical performance of several groups of investors with an emphasis on research findings with clear realworld applications specifically upon successful completion of this be able to interpret and use the capm and the factor model to evaluate the performance of investments compare returns in the form of dividends and capital gains and their tax consequences describe evidence regarding the performance of individuals stock investments understand key behavioral biases of investors and their effects on financial decisions describe evidence regarding the performance of activelymanaged mutual funds evaluate strategies designed to earn alpha this is part of the imba offered by the university of illinois a flexible fullyaccredited online mba at an incredibly competitive price for more information please see the resource page and onlinembaillinoisedu
-
-orientation
+</DOC>
+<DOC>orientation
 become familiar with the your classmates and our learning environment
 welcome to investments ii lessons and applications for investors the launching of a sequel get to know scott introductory used for his imba see the movie trailer for scotts on your terms the impact of the gies community
-
-fundamentals and composition of returns
-in briefly review the fundamentals of investments including the trading off of return and risk when forming a portfolio asset pricing models such as the capital asset pricing model capm and the factor model and the efficient market hypothesis also discuss the two components of stock returns dividends cash received and capital gains changes in price since purchase
-introduction high stakes poker game and in basics of return and risk capital asset pricing model capm factor model and market efficiency interpretation of regression model results regression analysis of returns to smallvalue stocks dividends capital gains and firm payout policy realizationbased capital gains tax seasonality in stock returns of with animations
-
-investment decisions in dc pension plans
-in we discuss the investment decisions of participants in definedcontribution dc pension plans like k plans in the us not falling prey to common behavioral biases is key to sound financial decisionmaking in these retirement plans so discuss common behavioral biases of dc pension plan participants
-introduction talking retirement plans in the playroom and in of key biases in decisions representativeness familiarity bias and background risk endorsement effects nave diversification inertia option confusion power of defaults bottom line on biases in investment decisions faculty focus with dean jeffrey brown interview of with animations
-
-performance of individual investors
-in about the evidence regarding the performance of individual investors in their stock portfolios a few key behavioral biases that affect many individuals will be highlighted and the potential information embedded in some parts of individual investors stock portfolios will be discussed
-introduction picking a portfolio at the pub and in of the performance of individual investors overconfidence loss aversion effects of loss aversion part loss aversion tax incentives for stock trades effects of loss aversion part personal connection to asset effects of loss aversion part corporate finance decisions faculty focus with professor yuhai xuan interview effects of loss aversion part explanation for momentum effects of loss aversion part importance of endowment emotion and financial decisions local investments changing nature of individual investors of with animations
-
-performance of mutual funds and search for alpha
-in about the evidence regarding the performance of activelymanaged mutual funds also discuss a few examples of portfolio strategies designed to earn alpha ie yield positive riskadjusted returns
-introduction reliving past glory with a visit to the track and in of performance of mutual funds fees and fund performance brokers and fund performance trends in mutual fund industry introduction to search for alpha mutual fund disclosure mutual funds and local investments information networks and performance closet indexing and performance persistence valuing complicated firms and exploiting inattention faculty focus with professor joshua pollet interview potential modern sources of information faculty focus with professor jiekun huang interview economics of mutual funds international evidence on active mutual fund management of with animations
-
-conclusion
-its now time to say goodbye to the investments ii key takeaways from the are reviewed dont forget to answer the survey question regarding how was scotts sequel that is located at the end of the conclusion to investments ii lessons and applications for investors
 </DOC>
 
+<DOC>fundamentals and composition of returns
+in briefly review the fundamentals of investments including the trading off of return and risk when forming a portfolio asset pricing models such as the capital asset pricing model capm and the factor model and the efficient market hypothesis also discuss the two components of stock returns dividends cash received and capital gains changes in price since purchase
+introduction high stakes poker game and in basics of return and risk capital asset pricing model capm factor model and market efficiency interpretation of regression model results regression analysis of returns to smallvalue stocks dividends capital gains and firm payout policy realizationbased capital gains tax seasonality in stock returns of with animations
+</DOC>
+
+<DOC>investment decisions in dc pension plans
+in we discuss the investment decisions of participants in definedcontribution dc pension plans like k plans in the us not falling prey to common behavioral biases is key to sound financial decisionmaking in these retirement plans so discuss common behavioral biases of dc pension plan participants
+introduction talking retirement plans in the playroom and in of key biases in decisions representativeness familiarity bias and background risk endorsement effects nave diversification inertia option confusion power of defaults bottom line on biases in investment decisions faculty focus with dean jeffrey brown interview of with animations
+</DOC>
+
+<DOC>performance of individual investors
+in about the evidence regarding the performance of individual investors in their stock portfolios a few key behavioral biases that affect many individuals will be highlighted and the potential information embedded in some parts of individual investors stock portfolios will be discussed
+introduction picking a portfolio at the pub and in of the performance of individual investors overconfidence loss aversion effects of loss aversion part loss aversion tax incentives for stock trades effects of loss aversion part personal connection to asset effects of loss aversion part corporate finance decisions faculty focus with professor yuhai xuan interview effects of loss aversion part explanation for momentum effects of loss aversion part importance of endowment emotion and financial decisions local investments changing nature of individual investors of with animations
+</DOC>
+
+<DOC>performance of mutual funds and search for alpha
+in about the evidence regarding the performance of activelymanaged mutual funds also discuss a few examples of portfolio strategies designed to earn alpha ie yield positive riskadjusted returns
+introduction reliving past glory with a visit to the track and in of performance of mutual funds fees and fund performance brokers and fund performance trends in mutual fund industry introduction to search for alpha mutual fund disclosure mutual funds and local investments information networks and performance closet indexing and performance persistence valuing complicated firms and exploiting inattention faculty focus with professor joshua pollet interview potential modern sources of information faculty focus with professor jiekun huang interview economics of mutual funds international evidence on active mutual fund management of with animations
+</DOC>
+
+<DOC>conclusion
+its now time to say goodbye to the investments ii key takeaways from the are reviewed dont forget to answer the survey question regarding how was scotts sequel that is located at the end of the conclusion to investments ii lessons and applications for investors
+</DOC>
 <DOC>
 financial accounting foundations
 the foundations of financial accounting information start your journey with a general of what financial accounting information is and the main financial statements then how to code financial transactions in financial accounting language in the meantime about the most important concept in contemporary financial accounting accrual accounting then critically analyze how firms recognize revenues finally finish the with an analysis of accounting for shortterm assets where go into detail on how firms account for accounts receivable and inventories
 upon successful completion of this be able to understand the main financial statements and the financial information write a financial transaction in financial accounting language and understand how this impacts the main financial statements understand how accrual accounting and fundamental accounting concepts understand revenue recognition principles and how they impact the main financial statements account for accounts receivable and inventories this is part of the imba offered by the university of illinois a flexible fullyaccredited online mba at an incredibly competitive price for more information please see the resource page and go to onlinembaillinoisedu
-
-orientation
+</DOC>
+<DOC>orientation
 become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
 meet professor urcan the impact of the gies community
+</DOC>
 
-introduction to financial accounting
+<DOC>introduction to financial accounting
 accounting is the language of business managers communicate the results of operations within a firm through accounting to various financial information users including investors and creditors explore various users of accounting information and the main financial statements they use to acquire accounting information develop an understanding of the particular type of information provided by each financial statement and how financial statements are related to each other
 lesson introduction to financial accounting lesson what is accounting lesson financial accounting information lesson balance sheet lesson balance sheet assets lesson balance sheet liabilities lesson balance sheet shareholders equity lesson income statement lesson cash flow statement case
+</DOC>
 
-recording transactions and financial statement preparation
+<DOC>recording transactions and financial statement preparation
 the starting point of financial statements is individual financial transactions how to code financial transactions in accounting language and how to build the main financial statements from these coded financial transactions this bottomup approach will help you appreciate the impact of various financial transactions on the main financial statements
 lesson introduction lesson example illinois supermarket lesson individual accounts lesson accrual accounting case
+</DOC>
 
-fundamental accounting concepts and revenue recognition
+<DOC>fundamental accounting concepts and revenue recognition
 fundamental accounting concepts and revenue recognition principles are at the heart of coding financial transactions in accounting language as as the preparation of financial statements from these coded financial transactions reallife transactions are reflected in financial statements through the lens of these concepts and principles a good understanding of these concepts and principles will help you understand the type and nature of information you can from financial statements
 lesson introduction lesson fundamental accounting concepts lesson accruals concept lesson conservatism concept lesson revenue recognition case
+</DOC>
 
-shortterm assets
+<DOC>shortterm assets
 one of the major components of a balance sheet is shortterm assets which are assets that can be converted into cash within a year accounts receivables and inventories constitute a major part of shortterm assets understanding accounting for these accounts will help you uncover how these accounts change over time their valuation and their usefulness in managerial decisionmaking
 lesson introduction lesson accounts receivables cash discounts lesson accounts receivables sales returns lesson accounts receivables bad debts lesson accounts receivables of walmart lesson inventories lesson cost flow assumptions lesson inventories of walmart appendix lifo fifo conversion case on your terms
 </DOC>
-
 <DOC>
 corporate finance i measuring and promoting value creation
 how to use key finance principles to understand and measure business success and to identify and promote true value creation how to use accounting information to form key financial ratios to measure a companys financial health and to manage a companys shortterm and longterm liquidity needs also how to use valuation techniques to make sound business investment and acquisition decisions finally how to incorporate risk and uncertainty into investment decisions and how to evaluate the performance of existing investments
 upon successful completion of this be able to understand how companies make investment decisions that create value for shareholders use accounting statements to measure the financial health of a company forecast and manage a companys short and longterm liquidity needs measure the contribution of a new project or acquisition to shareholder value incorporate risk into investment decisions using the appropriate discount rates evaluate the performance of a company or divisions of a company this was previously entitled financial evaluation and strategy corporate finance the received an average rating of out of based on reviews over the period of september through august a detailed breakdown of ratings and reviews received for the prior version of the which is identical in content to the current is provided in the orientation page this is part of the imba offered by the university of illinois a flexible fullyaccredited online mba at an incredibly competitive price for more information please see the resource page and onlinembaillinoisedu
-
-
+</DOC>
+<DOC>
 become familiar with the your instructor your classmates and our learning environment the orientation also helps you obtain the technical required for the
 welcome to corporate finance i financial evaluation and strategy meet professor heitor almeida meet professor stefan zeume on your terms
-
-the objective and language of corporate finance
-in discuss the objectives of the corporation introduce the concept of shareholder value and discuss the pros and cons of maximizing stock prices then how to calculate financial ratios that measure concepts such as liquidity leverage and profitability with accounting statements and financial data from real world companies and how to use this data to measure the financial health of companies and make comparisons with competitors
-objectives and why maximizing the stock price is a reasonable goal for a company conflicts between shareholder value maximization and society the agency problem and corporate governance balance sheet ratios introduction balance sheet ratios liquidity balance sheet ratios solvency income statement ratios profitability cash flow statement ratios valuation ratios review
-
-financial planning
-in models that allow us to forecast and manage a companys shortterm investments such as capital expenditures forecast the future financial statements of a real world company and how to figure out how much external financing the company will need then use real world examples to how shortterm investments in working capital determine a companys need for shortterm financing
-objectives and longterm financial planning forecasting income statements forecasting cash flow statements forecasting balance sheets the capital structure decision investments in working capital working capital ratios shortterm financial planning inventory seasonality and receivables shortterm liabilities and liquidity risk review honors solution
-
-making investment decisions
-in tools that allow us to measure the contribution of a new investment to shareholder value how to calculate the net present value npv of an investment and how to use the npv to make a decision on whether to make the investment or not also to calculate the rate of return irr on an investment project and how to properly use the irr in investment decisions finally how to incorporate real options into investment analysis to be able to make decisions about investments such as rd research and development
-objectives and npv example speeding up the collection of receivables the concept of net present value npv calculating npv in excel the relationship between npv and shareholder value the internal rate of return irr using the irr to evaluate investments problems with the irr free cash flow formulas real options valuing rd the option to wait gold mine example the option to abandon a project review
-
-mergers and acquisitions risk and performance evaluation
-in apply our investment valuation tools to understand when a merger between two companies creates shareholder value to distinguish between good and bad reasons for companies to engage in mergers and acquisitions ma and how to price an ma deal also the specific characteristics of leveraged buyouts lbos and how they can create value for shareholders then how to incorporate risk into investment valuation by changing discount rates calculate the weightedaverage cost of capital wacc for a real world company and how to use wacc to value investments and to measure the performance of the company or a division of the company
-objectives and good and bad reasons to engage in ma transactions synergy valuation and deal pricing means of payment and stock market reaction to ma deals leveraged buyouts sensitivity analysis using discount rates to incorporate risk estimating the required return on equity finding beta estimating the wacc performance evaluation economic valueadded eva using eva to measure performance review honors solutions
-
-conclusion
-
 </DOC>
 
+<DOC>the objective and language of corporate finance
+in discuss the objectives of the corporation introduce the concept of shareholder value and discuss the pros and cons of maximizing stock prices then how to calculate financial ratios that measure concepts such as liquidity leverage and profitability with accounting statements and financial data from real world companies and how to use this data to measure the financial health of companies and make comparisons with competitors
+objectives and why maximizing the stock price is a reasonable goal for a company conflicts between shareholder value maximization and society the agency problem and corporate governance balance sheet ratios introduction balance sheet ratios liquidity balance sheet ratios solvency income statement ratios profitability cash flow statement ratios valuation ratios review
+</DOC>
+
+<DOC>financial planning
+in models that allow us to forecast and manage a companys shortterm investments such as capital expenditures forecast the future financial statements of a real world company and how to figure out how much external financing the company will need then use real world examples to how shortterm investments in working capital determine a companys need for shortterm financing
+objectives and longterm financial planning forecasting income statements forecasting cash flow statements forecasting balance sheets the capital structure decision investments in working capital working capital ratios shortterm financial planning inventory seasonality and receivables shortterm liabilities and liquidity risk review honors solution
+</DOC>
+
+<DOC>making investment decisions
+in tools that allow us to measure the contribution of a new investment to shareholder value how to calculate the net present value npv of an investment and how to use the npv to make a decision on whether to make the investment or not also to calculate the rate of return irr on an investment project and how to properly use the irr in investment decisions finally how to incorporate real options into investment analysis to be able to make decisions about investments such as rd research and development
+objectives and npv example speeding up the collection of receivables the concept of net present value npv calculating npv in excel the relationship between npv and shareholder value the internal rate of return irr using the irr to evaluate investments problems with the irr free cash flow formulas real options valuing rd the option to wait gold mine example the option to abandon a project review
+</DOC>
+
+<DOC>mergers and acquisitions risk and performance evaluation
+in apply our investment valuation tools to understand when a merger between two companies creates shareholder value to distinguish between good and bad reasons for companies to engage in mergers and acquisitions ma and how to price an ma deal also the specific characteristics of leveraged buyouts lbos and how they can create value for shareholders then how to incorporate risk into investment valuation by changing discount rates calculate the weightedaverage cost of capital wacc for a real world company and how to use wacc to value investments and to measure the performance of the company or a division of the company
+objectives and good and bad reasons to engage in ma transactions synergy valuation and deal pricing means of payment and stock market reaction to ma deals leveraged buyouts sensitivity analysis using discount rates to incorporate risk estimating the required return on equity finding beta estimating the wacc performance evaluation economic valueadded eva using eva to measure performance review honors solutions
+</DOC>
+
+<DOC>conclusion
+
+</DOC>
 <DOC>
 financial accounting advanced topics
 explore advanced topics in financial accounting start your journey with accounting for assets with more than a year life in detail how firms account for fixed assets then move on to the financing of assets and discuss accounting for liabilities the will continue with an indepth exploration of shareholders equity finally critically evaluate the preparation components and analysis of the cash flows statement
 upon successful completion of this be able to account for fixed assets understand accounting for liabilities evaluate shareholders equity section of a balance sheet and understand preparation and information provided by cash flows statement this is part of the imba offered by the university of illinois a flexible fullyaccredited online mba at an incredibly competitive price for more information please see the resource page and onlinembaillinoisedu
-
-orientation
+</DOC>
+<DOC>orientation
 become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
 meet professor urcan the impact of the gies community
+</DOC>
 
-longterm assets
+<DOC>longterm assets
 longterm assets assets that can be converted into cash in a time period of more than year constitute a large portion of a balance sheet for a lot of public companies understanding accounting for longterm assets will help you uncover how these accounts change over time their valuation and their usefulness in managerial decision making
 lesson and asset recognition criteria lesson fixed assets lesson disposal of fixed assets lesson gross vs net ppe lesson accounting for asset impairments lesson walmart assets case
+</DOC>
 
-liabilities
+<DOC>liabilities
 one of the major sources of financing for many firms is liabilities firms routinely finance their operations through various liabilities including accounts payable bank loans and bonds accounting for liabilities will help you understand how liabilities are created how they are valued and how they inform a firms liquidity position
 lesson and liability recognition criteria lesson shortterm liabilities lesson longterm liabilities appendix time value of money appendix special liabilities appendix advanced issues in bonds case
+</DOC>
 
-shareholders equity
+<DOC>shareholders equity
 one of the major sources of financing for many firms is contributions from shareholders the shareholders equity section of a balance sheet shows details of the investments of shareholders accounting for shareholders equity will help you understand the amount of shareholder investment the number of shares issued in return by the firm for shareholders the amount of earnings earned by the firm but not distributed to shareholders and information about the amount of shares repurchased by the firm from the stock market
 lesson shareholders equity lesson shareholders equity equity issuance and profitability lesson shareholders equity distributions lesson shareholders equity earnings per share appendix advanced issues in shareholders equity case
+</DOC>
 
-cash flows statement
+<DOC>cash flows statement
 one of the major financial statements is cash flows statement this statement describes in detail how cash changes for a firm over a certain period the cash flows statement provides valuable information about the liquidity position of a firm the cash consequences of managerial operating and investing decisions as as the earnings quality of a firm
 lesson cash flows statement lesson cash flows statement preparation appendix direct method of cfo case on your terms
 </DOC>
-
 <DOC>
 corporate finance ii financing investments and managing risk
 how companies decide on how much debt to take and whether to raise capital from markets or from banks also how to measure and manage credit risk and how to deal with financial distress discuss the mechanics of dividends and share repurchases and how to choose the best way to return cash to investors also how to use derivatives and liquidity management to offset specific sources of financial risk including currency risks finally how companies finance merger and acquisition decisions including leveraged buyouts and how to incorporate large changes in leverage in standard valuation models
 upon successful completion of this be able to understand how companies make financing payout and risk management decisions that create value measure the effects of leverage on profitability risk and valuation manage credit risk and financial distress using appropriate financial tools understand the links between payout policies and company performance use derivatives and liquidity management to offset financial risks pick an appropriate financing package for an ma or leveraged buyout deal this is part of the imba offered by the university of illinois a flexible fullyaccredited online mba at an incredibly competitive price for more information please see the resource page and onlinembaillinoisedu
-
-orientation
+</DOC>
+<DOC>orientation
 become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
 welcome to corporate finance ii financing investments and managing risk meet professor heitor almeida meet professor stefan zeume on your terms
-
-raising financing the capital structure decision
-in discuss the differences between debt and equity financing for corporations then how to avoid usual mistakes that people make when analyzing the choice between debt and equity with financial statements to understand the impact of higher debt on corporate profits and how debt and risk are fundamentally related finally use our knowledge to understand how companies choose how much debt to have
-objectives and mechanics of debt and equity issuance should a company issue debt or equity two misconceptions part two misconceptions part evidence from the field which type of capital do firms prefer the effect of leverage on taxes and profits leverage and personal taxes leverage and the risk of financial distress the tradeoff theory of capital structure review
-
-understanding debt financing and payout policy
-in dig deeper into the mechanics and the institutional details that are important to understand debt financing models that allow us to link default probabilities to yields on a companys debt discuss the roles of credit ratings for debt markets and for companies the importance of nonprice contractual terms such as debt covenants collateral and seniority use this knowledge to understand how companies choose between bank debt and bond financing finally discuss how payout decisions dividends and share repurchases affect firm value and how companies choose their optimal payout policy
-objectives and bonds credit rating the many different types of debt bank or market financing do dividends and share repurchases affect firm value main factors driving payout decisions dividends or repurchases review honors solution
-
-risk management
-in identify good and bad reasons why companies engage in risk management or hedging the mechanics of how to use derivatives such as forwards and futures to eliminate specific risks also discuss how to manage risks that cannot be hedged with derivatives in particular that appropriate liquidity management can as a substitute for hedging strategies also discuss how and why to hedge currency risk and how to think about a companys cost of capital when making crossborder investments
-objectives and good and bad reasons to hedge forward contract futures contracts hedge ratios and imperfect hedging liquidity as a substitute for hedging bilateral contracts operational hedging currency risk and the cost of capital adjusting the cost of capital for international projects review
-
-finance governance and society
-in apply our knowledge on how to discount future cash flows to challenging situations first we how the presence of debt can result in acceptance of negative npv projects overinvestment excessive risk taking then we how debt can result in the rejection of positive npv projects underinvestment next that npv of the firm can differ from npv for society and how this may explain firms decisions to make bribe payments even though corruption is detrimental to welfare last we examine situations where the npv equation does not hold and what this means for society
-objectives and the agency cost of debt excessive risk taking under investment finance society corruption violations of the law of one price review honors solutions questions honors solutions questions
-
-conclusion
-find out where to go next after completing this and be able to share any thoughts you have on this
 </DOC>
 
+<DOC>raising financing the capital structure decision
+in discuss the differences between debt and equity financing for corporations then how to avoid usual mistakes that people make when analyzing the choice between debt and equity with financial statements to understand the impact of higher debt on corporate profits and how debt and risk are fundamentally related finally use our knowledge to understand how companies choose how much debt to have
+objectives and mechanics of debt and equity issuance should a company issue debt or equity two misconceptions part two misconceptions part evidence from the field which type of capital do firms prefer the effect of leverage on taxes and profits leverage and personal taxes leverage and the risk of financial distress the tradeoff theory of capital structure review
+</DOC>
+
+<DOC>understanding debt financing and payout policy
+in dig deeper into the mechanics and the institutional details that are important to understand debt financing models that allow us to link default probabilities to yields on a companys debt discuss the roles of credit ratings for debt markets and for companies the importance of nonprice contractual terms such as debt covenants collateral and seniority use this knowledge to understand how companies choose between bank debt and bond financing finally discuss how payout decisions dividends and share repurchases affect firm value and how companies choose their optimal payout policy
+objectives and bonds credit rating the many different types of debt bank or market financing do dividends and share repurchases affect firm value main factors driving payout decisions dividends or repurchases review honors solution
+</DOC>
+
+<DOC>risk management
+in identify good and bad reasons why companies engage in risk management or hedging the mechanics of how to use derivatives such as forwards and futures to eliminate specific risks also discuss how to manage risks that cannot be hedged with derivatives in particular that appropriate liquidity management can as a substitute for hedging strategies also discuss how and why to hedge currency risk and how to think about a companys cost of capital when making crossborder investments
+objectives and good and bad reasons to hedge forward contract futures contracts hedge ratios and imperfect hedging liquidity as a substitute for hedging bilateral contracts operational hedging currency risk and the cost of capital adjusting the cost of capital for international projects review
+</DOC>
+
+<DOC>finance governance and society
+in apply our knowledge on how to discount future cash flows to challenging situations first we how the presence of debt can result in acceptance of negative npv projects overinvestment excessive risk taking then we how debt can result in the rejection of positive npv projects underinvestment next that npv of the firm can differ from npv for society and how this may explain firms decisions to make bribe payments even though corruption is detrimental to welfare last we examine situations where the npv equation does not hold and what this means for society
+objectives and the agency cost of debt excessive risk taking under investment finance society corruption violations of the law of one price review honors solutions questions honors solutions questions
+</DOC>
+
+<DOC>conclusion
+find out where to go next after completing this and be able to share any thoughts you have on this
+</DOC>
 <DOC>
 investments i fundamentals of performance evaluation
 discuss fundamental principles of trading off risk and return portfolio optimization and security pricing study and use riskreturn models such as the capital asset pricing model capm and multifactor models to evaluate the performance of various securities and portfolios specifically how to interpret and estimate regressions that provide us with both a benchmark to use for a security given its risk determined by its beta as as a riskadjusted measure of the securitys performance measured by its alpha building upon this framework market efficiency and its implications for patterns in stock returns and the assetmanagement industry will be discussed finally the will conclude by connecting investment finance with corporate finance by examining firm valuation techniques such as the use of market multiples and discounted cash flow analysis the emphasizes realworld examples and applications in excel throughout this is the first of two on investments that i am offering online investments ii lessons and applications for investors is the second
 the overarching goals of this are to build an understanding of the fundamentals of investment finance and provide an ability to implement key assetpricing models and firmvaluation techniques in realworld situations specifically upon successful completion of this be able to explain the tradeoffs between risk and return form a portfolio of securities and calculate the expected return and standard deviation of that portfolio understand the realworld implications of the separation theorem of investments use the capital asset pricing model capm and factor model to evaluate the performance of an asset like stocks through regression analysis estimate and interpret the alpha and beta of a security two statistics commonly reported on financial websites describe what is meant by market efficiency and what it implies for patterns in stock returns and for the assetmanagement industry understand market multiples and income approaches to valuing a firm and its stock as as the sensitivity of each approach to assumptions made conduct specific examples of a market multiples valuation and a discounted cash flow valuation this was previously entitled financial evaluation and strategy investments and was part of a previous entitled improving business and finances operations which is now closed to new learner enrollment financial evaluation and strategy investments received an average rating of out of based on reviews over the period august through august you can view a detailed of the ratings and reviews for this in the section this is part of the imba offered by the university of illinois a flexible fullyaccredited online mba at an incredibly competitive price for more information please see the resource page and onlinembaillinoisedu
-
-
+</DOC>
+<DOC>
 become familiar with the your instructor your classmates and our learning environment the orientation also helps you obtain the technical required for the
 introduction on your terms the impact of the gies community
-
-investments toolkit and portfolio formation
-in build the fundamentals of portfolio formation after providing a brief refresher of basic investment concepts our toolkit a of historical patterns of stock returns and government securities in the us is provided we then consider general examples of portfolio choice to highlight the tradeoffs between risk and return we end the with a discussion of dominated assets and efficient portfolio formation emphasizing realworld examples and practice in excel solving for the optimal portfolio given certain constraints such as the amount of volatility accept in our portfolio
-objectives and objectives and assumptions of classical finance why discount different return measures firm characteristics relevant for investments zerocost portfolio statistical techniques excel what weve learned historical returns in the us return and risk intro to portfolios objectives and source of data for examples asset allocation with one risky and one riskfree asset asset allocation with two risky assets realworld example of a dominated asset what weve learned review optional and ungraded portfolio choice when change correlations optional discussion of portfolio choice when change correlations optional objectives optional example calculating efficient portfolios of risky assets optional example calculating efficient portfolios of risky assets optional what weve learned optional and ungraded lesson calculating more efficient portfolios optional discussion of optional and ungraded lesson calculating more efficient portfolios
-
-motivating explaining implementing the capital asset pricing model capm
-in develop the financial intuition that led to the capital asset pricing model capm starting with the separation theorem of investments understand that in a capm setting only the marketwide risk of an asset is priced securities with greater sensitivity to the market are required by investors to yield higher returns on average also how to interpret regressions that provide us with both a benchmark to use for a security given its risk determined by its beta as as a riskadjusted measure of the securitys performance measured by its alpha
-objectives and objectives final general portfolio example and tangency portfolio twofund separation theorem and applications what weve learned examples of reducing portfolio risk objectives development of the capm the capm and beta the capm and alpha what weve learned objectives practice problem introduction to interpreting capm regressions capm example coca cola capm example balanced fund how to estimate capm and what weve learned preparing for evaluation of the smallvalue stock investment strategy results from evaluation of the smallvalue stock investment strategy review lesson analyzing identifying three mystery securities discussion of lesson analyzing identifying three mystery securities
-
-testing the capm multifactor models market efficiency
-in discuss different assetpricing models the pros and cons of each and market efficiency in particular test the effectiveness of the capital asset pricing model capm and examine survey data concerning its use by chief financial officers cfos of firms predictable patterns in stock returns such as the size and value effects will also be examined and the famafrench factor model will be introduced market efficiency will be discussed as as its implications for the assetmanagement industry and observed patterns in stock returns
-objectives and objectives and uses of capm optional testing the capm optional defending the capm market anomalies smallfirm and value effects interpretation of market anomalies optional investigating long value short growth strategy what weve learned objectives multifactor models matching what weve learned market efficiency review lesson analysis and recommendation of balanced funds discussion of lesson analysis and recommendation of balanced funds optional use domestic or global factors optional returnrisk model used by chief financial officers cfos
-
-investment finance and corporate finance firm valuation
-in about the two key approaches to valuing a company or stock market multiples and discounted cash flow how to value perpetuities and will discuss how caution should be exercised in terms of projecting both the growth in longterm cash flows and the riskiness of those cash flows two key components of the perpetuity formula finally to gain with the market multiples approach estimate a value of google at the time of its initial public offering ipo back in using market data on yahoo as a comparable firm
-objectives and objectives formula for valuing a perpetuity realworld examples and perpetuity problems what weve learned objectives market multiples approach to valuation income approach to valuation introduction income approach to valuation discount rate income approach to valuation cash flows income approach to valuation terminal value pricetoearnings ratio discounting of cash flows fudge factors to valuation and what weve learned objectives definedbenefit db pension plan liabilities and their valuation valuing a stream of fixed liabilities investment policy of pension benefit guaranty corporation pbgc what weve learned review optional objectives optional microsoft example optional betas of small large firms and betas across industries optional what weve learned optional caution in projecting firm growth rates optional objectives optional valuation of google at its initial public offering ipo first attempt optional valuation of google at its initial public offering ipo digging deeper optional what weve learned
-
-conclusion
-we say goodbye to the investments as key takeaways from the are reviewed a tease is also provided to topics that will be covered in professor weisbenners second on investments
 </DOC>
 
+<DOC>investments toolkit and portfolio formation
+in build the fundamentals of portfolio formation after providing a brief refresher of basic investment concepts our toolkit a of historical patterns of stock returns and government securities in the us is provided we then consider general examples of portfolio choice to highlight the tradeoffs between risk and return we end the with a discussion of dominated assets and efficient portfolio formation emphasizing realworld examples and practice in excel solving for the optimal portfolio given certain constraints such as the amount of volatility accept in our portfolio
+objectives and objectives and assumptions of classical finance why discount different return measures firm characteristics relevant for investments zerocost portfolio statistical techniques excel what weve learned historical returns in the us return and risk intro to portfolios objectives and source of data for examples asset allocation with one risky and one riskfree asset asset allocation with two risky assets realworld example of a dominated asset what weve learned review optional and ungraded portfolio choice when change correlations optional discussion of portfolio choice when change correlations optional objectives optional example calculating efficient portfolios of risky assets optional example calculating efficient portfolios of risky assets optional what weve learned optional and ungraded lesson calculating more efficient portfolios optional discussion of optional and ungraded lesson calculating more efficient portfolios
+</DOC>
+
+<DOC>motivating explaining implementing the capital asset pricing model capm
+in develop the financial intuition that led to the capital asset pricing model capm starting with the separation theorem of investments understand that in a capm setting only the marketwide risk of an asset is priced securities with greater sensitivity to the market are required by investors to yield higher returns on average also how to interpret regressions that provide us with both a benchmark to use for a security given its risk determined by its beta as as a riskadjusted measure of the securitys performance measured by its alpha
+objectives and objectives final general portfolio example and tangency portfolio twofund separation theorem and applications what weve learned examples of reducing portfolio risk objectives development of the capm the capm and beta the capm and alpha what weve learned objectives practice problem introduction to interpreting capm regressions capm example coca cola capm example balanced fund how to estimate capm and what weve learned preparing for evaluation of the smallvalue stock investment strategy results from evaluation of the smallvalue stock investment strategy review lesson analyzing identifying three mystery securities discussion of lesson analyzing identifying three mystery securities
+</DOC>
+
+<DOC>testing the capm multifactor models market efficiency
+in discuss different assetpricing models the pros and cons of each and market efficiency in particular test the effectiveness of the capital asset pricing model capm and examine survey data concerning its use by chief financial officers cfos of firms predictable patterns in stock returns such as the size and value effects will also be examined and the famafrench factor model will be introduced market efficiency will be discussed as as its implications for the assetmanagement industry and observed patterns in stock returns
+objectives and objectives and uses of capm optional testing the capm optional defending the capm market anomalies smallfirm and value effects interpretation of market anomalies optional investigating long value short growth strategy what weve learned objectives multifactor models matching what weve learned market efficiency review lesson analysis and recommendation of balanced funds discussion of lesson analysis and recommendation of balanced funds optional use domestic or global factors optional returnrisk model used by chief financial officers cfos
+</DOC>
+
+<DOC>investment finance and corporate finance firm valuation
+in about the two key approaches to valuing a company or stock market multiples and discounted cash flow how to value perpetuities and will discuss how caution should be exercised in terms of projecting both the growth in longterm cash flows and the riskiness of those cash flows two key components of the perpetuity formula finally to gain with the market multiples approach estimate a value of google at the time of its initial public offering ipo back in using market data on yahoo as a comparable firm
+objectives and objectives formula for valuing a perpetuity realworld examples and perpetuity problems what weve learned objectives market multiples approach to valuation income approach to valuation introduction income approach to valuation discount rate income approach to valuation cash flows income approach to valuation terminal value pricetoearnings ratio discounting of cash flows fudge factors to valuation and what weve learned objectives definedbenefit db pension plan liabilities and their valuation valuing a stream of fixed liabilities investment policy of pension benefit guaranty corporation pbgc what weve learned review optional objectives optional microsoft example optional betas of small large firms and betas across industries optional what weve learned optional caution in projecting firm growth rates optional objectives optional valuation of google at its initial public offering ipo first attempt optional valuation of google at its initial public offering ipo digging deeper optional what weve learned
+</DOC>
+
+<DOC>conclusion
+we say goodbye to the investments as key takeaways from the are reviewed a tease is also provided to topics that will be covered in professor weisbenners second on investments
+</DOC>

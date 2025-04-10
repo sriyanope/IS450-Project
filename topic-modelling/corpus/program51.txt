@@ -14,84 +14,92 @@ these courses will help you create better business strategies to drive positive 
 <DOC>
 global trends for business and society
 to analyze rapidly changing global trends their effects on consumer and labor markets financial systems and geopolitical relationships among countries all over the world professor mauro guillen of the wharton school has designed this to help you understand the magnitude of influence these trends have on the business world and society through realworld case studies both historical and contemporary examine how changes within one society affect others by the end of this have gained the tools to be able to identify analyze and adapt to global changes as they affect your business and society
-
-people and markets around the world
+</DOC>
+<DOC>people and markets around the world
 begin by examining the relationship between population size and density to the geopolitical balance of power in the world key aspects of demographics such as total fertility and life expectancy at birth and how rapid demographic growth or decline affects global economic and geopolitical dynamics then evaluate the economic and political impact of urbanization and migration within societies and the consequences of these changes in population dynamics both within a society and between countries by the end of this have a richer understanding of the impact of demographic trends on financial markets political systems culture and society
 a rapidly changing world how many people will there be in the world why should we care about demography counting people regional growth trends millennials and the years in age immigration growth of cities global cities
+</DOC>
 
-money around the world
+<DOC>money around the world
 this was designed to give you a deeper understanding of how monetary trends and the distribution of monetary wealth affect the globe through close examination of global poverty and income inequality critical concepts such as the gini coefficient and the kuznets curve and how to use them as tools in analyzing the global distribution of wealth also explore the rise of the global middle class and how businesses are responding to the growth of middle class consumption finally investigate the relationship between changing gender dynamics and wealth in the world by the end of this be able to use effective analytical tools to form a clearer understanding of the effect of wealth within society and how it affects your organization
 poverty and inequality the causes of rising inequality is there an optimal level of inequality the global middle class indias rising middle class gender income and wealth
+</DOC>
 
-global economic and financial imbalances
+<DOC>global economic and financial imbalances
 examine the growing issue of global economic and financial imbalances through relevant examples such as the european zone crisis gain a deeper understanding of the effects of global economic dynamics on both individual countries and their relationships with one another explore trade bloc controversies different types of monetary unions such as the european union and how financial imbalances affect the geopolitical balance and global economy by the end of this be able to better assess the consequences of economic and financial imbalances on nations markets and societies and be prepared to respond to these phenomena while making decisions for your organization and society
 global economy financial architecture the changing geography of capital investments part the changing geography of capital investments part trade blocs what are trade blocs the origins of the euro zone why the euro zone got in trouble possible solutions to the european crisis
+</DOC>
 
-the shifting geopolitical landscape
+<DOC>the shifting geopolitical landscape
 explore global geopolitical landscapes and the global powers of the st century through examination of different political regimesfrom autocracies to democraciesyoull discover effective roles for states to play in society and its economy also about failed states and anocracies two importance sources of instability in the world and how such instabilities manifest frictions and conflicts in the form of war and terrorism through analyzing the evolution of political regimes and failed states the definition of global powers the difference between and hard and soft power resources and whether emerging global powers will cause dramatic changes in the existing geopolitical power structure by the end of this have a deeper understanding of the trajectories of global powers and be able to assess how the changes in geopolitical power structure will affect your business and society
 the global geopolitical landscape political regimes geopolitical instability in the world violent conflict in the world the state under pressure good governance institutional quality the rise and fall of global powers global power resources chinas role in the world global governance global tensions
 </DOC>
-
 <DOC>
 corruption
 you cant understand the world today if you dont understand corruption every day we see highlevel government officials resigning governments changing hundreds of thousands of people standing in squares holding up signs and often risking their lives to protest the corruption in the world its critically important to the health of our societies to understand what people are protesting against we want to understand corruption this is designed to teach you about what corruption is what causes corruption the effects of corruption and how to control corruption be talking about this from a global perspective using examples from all over the world also be talking about corruption from the perspective of countries governments businesses citizens and the people within these entities at the end of this have a better understanding of why the world is changing according to the path of corruption if youre in a position to make changes within your respective entity to make decisions about corruption be able to make better decisions
-
-what is corruption
+</DOC>
+<DOC>what is corruption
 corruption affects us all and millions of people around the world protest against it every day what is corruption how do we know it when we see it this is designed to give you an understanding of both the definition and the key components of corruption about the general and legal definitions of corruption how to measure it using the corruptions perceptions index examine the history of corruption and evaluate where corruption takes place in the world also three major theories that attempt to explain the current eruption in corruption that we are facing today by the end of this be able to explain what corruption is how it is measured the costs of corruption and how corruption spreads so that you can begin identifying and measuring corruption where it affects you
 introduction what is corruption how much corruption how did corruption spread
+</DOC>
 
-societal level effects
+<DOC>societal level effects
 explore the extensive effects of corruption including its economic social and psychological costs how corruption leads to the informal creation of parallel institutions such as loansharking and black markets and see the role decision makers play in enabling the spread of corruption also how trust is jeopardized and how this loss of trust inhibits economic and social development examine the social costs of corruption including decreases in the quality of infrastructure and in environmental quality increases in terrorism and infant mortality and other threats to human security at the end of this be able to outline the comprehensive effects of corruption so that you can determine strategies for addressing them
 societal level effects decision makers corruption and trust corruption hurts
+</DOC>
 
-individual firm level effects
+<DOC>individual firm level effects
 this was designed to help you explore the ethics behind corruption through external and internal relationships about the time and monetary costs of corruption perspectives on the benefits of bribery and the characteristics of a strong ethical climate also how to identify indirect costs of corruption including those that are easy to predict like fines and settlements and those which are harder to quantify such as effects on an individuals reputation at the end of this be able to define corruption as part of a relationship outline the costs of corruption on those relationships and categorize the sanctions both predictable and unpredictable imposed on corrupt entities
 time and money relationships indirect costs sanctions
+</DOC>
 
-corruption control
+<DOC>corruption control
 the main theories about control of corruption explore whether or not corruption can be controlled then examine the different ways corruption can be controlled firms industries and polities organized societies about assurance problems platforms for exchange and certification programs as some methods of control look at the steps organized societies have taken to control corruption including the example of a country that used to have the cleanest government in the world by the end of this be able to apply the principles youve learned by assessing the of your peers in a peer review create a corruption analysis in which you identify and analyze a real life incident of corruption that has occurred anywhere in the world over the past months
 theories of control control by firms control by industries control by polities
 </DOC>
-
 <DOC>
 social entrepreneurship
 how do we create innovative and effective solutions to social problems around the world this was designed for individuals and organizations who want to identify and bring about transformative societal change professors jim thompson and ian mac macmillan help you develop both a strategy and a framework for your social enterprise based on their years of and expertise teaching social entrepreneurship and advising entrepreneurs how to define a social problem understand contextual realities develop a solution and plan for effective deployment by the end of this have a deep understanding of the realities of launching an enterprise be prepared for every step of the process and put your social entrepreneurial venture on the path to success
-
-
+</DOC>
+<DOC>
 how to define a social enterprise and develop its basic framework gain a deep understanding of the critical importance of research to identify patterns cause and context master the process of idea generation and analyze the successes and failures of others to be better able to attract funding for your social enterprise also how to examine factors and contexts through segmentation and differentiate between transactional accessibility and acceptability by the end of this have a more clearly defined understanding of the problem your organization wants to tackle and how to fund your project
 introduction to social entrepreneurship describing the social problem idea generation and advisory board segmentation for social enterprises part
-
-
-this was designed to promote a deep understanding of your beneficiaries through segmentation in order to design solutions to the social problem of your enterprise after identifying and segmenting major factors and contexts of your population draft a segment attractiveness scoring table that will enable you to analyze the beneficiaries of your solution and then use the beneficiary table to refine that solution finally how to differentiate between screenin and screenout criteria to identify potential problems by the end of this be able to create a concept map for your own social enterprise and visualize the trajectory and potential of your solution
-segmentation for social enterprises part understanding the beneficiary screenin screenout criteria describing the solution
-
-
-examine the details and operational realities of your social enterprise identify deliverables needs of beneficiaries and expected costs explore key concepts such as unit of business social impact and financial goals and the deliverables and cost table to assist in operationalizing the venture by the end of this be able to better assess how success will be defined in your venture and the key deliverables and capabilities required to maintain your social enterprise
-defining performance criteria framing and scoping the venture operations realities cost table
-
-
-this was designed to help you test the feasibility of your social enterprise by utilizing the most competitive alternatives in organizing a proposed beneficiary table be able to assess advantages and disadvantages against relevant competition once you have a plausible and attractive proposition deploy a quick and costeffective testofconcept to scaffold future success for your venture finally discover the inevitable sociopolitics that emerge with multiple stakeholders and how to navigate these issues effectively while maintaining support by the end of this have developed a powerful strategy that will ensure success for your social entrepreneurial ventures
-most competitive alternative mca analysis test of concept plausibility stakeholder analysis conclusion next steps
 </DOC>
 
 <DOC>
+this was designed to promote a deep understanding of your beneficiaries through segmentation in order to design solutions to the social problem of your enterprise after identifying and segmenting major factors and contexts of your population draft a segment attractiveness scoring table that will enable you to analyze the beneficiaries of your solution and then use the beneficiary table to refine that solution finally how to differentiate between screenin and screenout criteria to identify potential problems by the end of this be able to create a concept map for your own social enterprise and visualize the trajectory and potential of your solution
+segmentation for social enterprises part understanding the beneficiary screenin screenout criteria describing the solution
+</DOC>
+
+<DOC>
+examine the details and operational realities of your social enterprise identify deliverables needs of beneficiaries and expected costs explore key concepts such as unit of business social impact and financial goals and the deliverables and cost table to assist in operationalizing the venture by the end of this be able to better assess how success will be defined in your venture and the key deliverables and capabilities required to maintain your social enterprise
+defining performance criteria framing and scoping the venture operations realities cost table
+</DOC>
+
+<DOC>
+this was designed to help you test the feasibility of your social enterprise by utilizing the most competitive alternatives in organizing a proposed beneficiary table be able to assess advantages and disadvantages against relevant competition once you have a plausible and attractive proposition deploy a quick and costeffective testofconcept to scaffold future success for your venture finally discover the inevitable sociopolitics that emerge with multiple stakeholders and how to navigate these issues effectively while maintaining support by the end of this have developed a powerful strategy that will ensure success for your social entrepreneurial ventures
+most competitive alternative mca analysis test of concept plausibility stakeholder analysis conclusion next steps
+</DOC>
+<DOC>
 business strategies for social impact
 when is it good business practice to invest for social good what are the most innovative and effective business strategies for developing positive social impact around the world designed by renowned wharton professors katherine klein and chris geczy to help individuals organizations and investors bring about societal change this introduces the fundamentals of impact investing and developing a business strategy that drives social impact how to become a leader who cultivates purpose and inspires change measure societal impact through evidencebased models and invest in ventures effectively and meaningfully by the end of this have a deep understanding of the realities of leading an organization with purpose and be able to build successful strategies that bring impactful change to the world
-
-purposedriven leadership
+</DOC>
+<DOC>purposedriven leadership
 how to define your purpose and develop a plan to cultivate purpose for your organization gain a deep understanding of the critical importance of purposedriven leadership in a successful organization and why businesses can and should pursue a larger social or environmental purpose also analyze the five models of social purpose from generous contributors to impact investors through close examination of case studies such as daily table and toms shoes how to test your assumptions and find the winning situation for your investors employees and customers by the end of this have a more clearly defined understanding of the purpose your organization wants to pursue and how to prepare for successful implementation
 introduction the role of business is changing cultivate your purpose optional interview with derek handley optional interview with kyle zimmer part test your assumptions find the winwin optional interview with chad dickerson part optional interview with bobby turner optional interview with kyle zimmer part bring it home optional interview with chad dickerson part optional interview with kat taylor optional interview with jostein solheim optional interview with kyle zimmer part evaluate revise and renew wrapup
+</DOC>
 
-how business drives social impact
+<DOC>how business drives social impact
 what is the relationship between impact and financial performance does it pay for a company to drive impact various methods businesses use to create social and environmental impact identify the different components of impact measurement valence focus depth breadth and costeffectiveness with nick ashburn senior director of impact investing of wharton social impact discuss reallife examples such as starbucks campbells soup and warby parker and the impactful decisions they made in employment operations and investment by the end of this be able to refine the method in which your business can reduce environmental challenges andor ensure fair and equal and create a plan for your company to drive both impact and financial performance
 introduction how business drives social impact driving impact how why and what practices employment with nick ashburn practices operations and supply with nick ashburn practices investment with nick ashburn products and services with nick ashburn philanthropy with nick ashburn impact and profit conclusion optional interview with bart houlahan optional interview with lisa hall
+</DOC>
 
-impact measurement
+<DOC>impact measurement
 examine the criteria and standards of evidence developed to measure the true social impact of your organization identify the sustainable development goals sdgs and environmental social and governance criteria esg to be able to better answer the question what is the impact of x by examining the nesta foundation framework and its standard of evidence explore the different levels of rigor for each logic model using reallife examples and to accurately assess your organizations inputs outputs and impact by the end of this be able to calculate the social return on investment sroi of your enterprise and be able to strategize an effective plan for your business
 introduction to impact measurement what is the impact of x standards of evidence logic model level logic model level logic model level logic model level logic model level logic model level q conclusion
+</DOC>
 
-impact investing
+<DOC>impact investing
 this was designed to introduce you to the basics of impact investing by analyzing global trends on socially responsible investing sri classic models of impact investment such as microfinance and actual research data gain a deeper understanding of the current models of impact investment and which model would best for your organization through exploring other benefit corporations and the un principles of responsible investment discover how ngos government and shareholders and their roles in impactful investments by the end of this be able to gauge the risk and rewards behind impactful investments and be able to navigate these issues effectively while exerting sustainable and meaningful impact
 introduction to impact investing global trends classic impact investing great expectations the community what can government do shareholder activism is there an expected cost to social investing
 </DOC>
-

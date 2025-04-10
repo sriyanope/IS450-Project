@@ -52,7 +52,7 @@ try:
                     raw_desc = course['course_description'].split(";")
                     for desc in raw_desc:
                         course_desc += preprocess_text(desc) + "\n"
-                    f.write(f"<DOC>\n{course_title}\n{course_desc}")
+                    f.write(f"<DOC>\n{course_title}\n{course_desc}</DOC>")
                     
                     # Get modules for this course
                     course_modules = grouped_module_df.loc[course_url]
@@ -66,9 +66,7 @@ try:
                         if i < len(videos):
                             if type(videos[i]) == str:
                                 vids = preprocess_text(" ".join(videos[i].split(";"))) + "\n"
-                        f.write(f"\n{mod_title}\n{mod_desc}\n{vids}")
-                    
-                    f.write(f"</DOC>\n\n")
+                        f.write(f"\n<DOC>{mod_title}\n{mod_desc}\n{vids}</DOC>\n")
             
             print(f"Created corpus file for program {program_id}")
         

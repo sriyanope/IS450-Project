@@ -8,84 +8,92 @@ each within this provides learners with the to test what they have learned throu
 <DOC>
 linux fundamentals
 this is the first of a series that aims to prepare you for a role working as an information technology be introduced to the linux operating system about the licensing model and several linux distributions go through some services delivered in the linux operating system conclude this by looking at how to search and analyze text using command line tools in the operating system
-
-linux operating system
+</DOC>
+<DOC>linux operating system
 welcome to linux operating system the first of the linux fundamentals by enrolling you are taking the first step to kick start your in information technology in the first of the about the history of the linux operating system its unique licensing model and the major distributions that are available to use by the end of this know how to choose a distribution install it and login to the command line so let us get started
 history of linux linux licensing model linux distributions linux command line lab solution
+</DOC>
 
-linux services
+<DOC>linux services
 in the second of this discuss the services available in the linux operating system explore many services including web servers and database servers among others look at how you start and stop services from running in the linux operating systems
 servers vs desktops web servers database servers managing services lab solution
+</DOC>
 
-view create copy move and remove files
+<DOC>view create copy move and remove files
 in the third of this how manage files and directories in the linux operating system discuss how to view create copy move and remove files look at creating links for files and directories lastly look at comparing text files
 handle files and directories files and directory links reading files find and compare files lab solution
+</DOC>
 
-search and analyze text
+<DOC>search and analyze text
 in the fourth of this touch on how we can combine commands together in linux to create automatons and build new tools
 filter text files redirect standard in out and error pipe filter editing text files lab solution
 </DOC>
-
 <DOC>
 managing linux systems
 we look at how to manage a system with the linux operating system installed the material is a good for anyone preparing for the linux foundation certified it associate lfca exam or just interested in learning more about linux
-
-configure network connections
+</DOC>
+<DOC>configure network connections
 we look at how we can connect linux computers together we start by looking at linux network configuration files we then move to utilizing linux command line tools to configure network connections conclude the by looking at both basic and advanced network troubleshooting
 network configuration files command line network configuration basic network troubleshooting advanced network troubleshooting lab solution
+</DOC>
 
-administering users and groups
+<DOC>administering users and groups
 in the second of this look at how to manage users that are authorized to use the linux system group the users into administrative groups so it is easier to manage the permissions for a set of users look at how to configure the environment for each user lastly look at how to interrogate information about users from the operating system
 linux users linux user groups user configuration query user information lab solution
+</DOC>
 
-manage disk storage
+<DOC>manage disk storage
 in the third of this how to manage devices available to the linux system for long term storage we start by looking at disk partitions and file systems next we think about how we mount file systems lastly we look at how to monitor the file systems
 hard drives partitions linux file systems linux file systems management linux file systems monitoring lab solution
+</DOC>
 
-managing software packages
+<DOC>managing software packages
 in the fourth of this we how to install application software on a linux system start with a look at downloading tar files and compiling them follow up with thinking about software repositories lastly look at installing and updating software packages from the repositories
 opensource packages software packages software repositories lab solution
 </DOC>
-
 <DOC>
 linux cloud and devops
 we look at cloud devops and the linux operating system the material is a good for anyone preparing for the linux foundation certified it associate lfca exam or just interested in learning more about linux this is the fourth in a series that aims to prepare you for working as an information technology
-
-cloud computing models
+</DOC>
+<DOC>cloud computing models
 we look at different cloud computing models we start with a look at softwareasaservice next we move on to infrastructureasaservice and think about the rule of linux in all the iaas services available lastly we look at platformasaservice and how linux can play a crucial role in future paas offerings
 softwareasaservice saas platformasaservice paas infrastructureasaservice iaas
+</DOC>
 
-virtualization
+<DOC>virtualization
 we look at how to virtualize guest operating systems running under a linux host operating system differentiate different types of hypervisors used for the virtualization process next look at managing virtual machines running in a host linux system bootstrapping new installations and finally consider how to virtualize the network connections
 hypervisor types virtual machines bootstrapping virtual networks
+</DOC>
 
-version control
+<DOC>version control
 we look at how we can manage versions of source control in the cloud using the git version control system talk about version control at an abstract level and then drill into the details on how to commit source code to a git repository and then follow up with how to merge different versions in git
 version control committing changes merging versions lab solution
+</DOC>
 
-devops basics
+<DOC>devops basics
 we look at devops and the use of linux and the cloud think about containers and how we can orchestrate their configuration to replicate environments for the testing and deployment of software
 devops containers docker containers orchestration
 </DOC>
-
 <DOC>
 securing linux systems
 we look at security and the linux operating system the material is a good for anyone preparing for the linux foundation certified it associate lfca exam or just interested in learning more about linux this is the third in a series that aims to prepare you for working as an information technology be introduced to ownership authentication and authorization drill into creating security through backups and redundancy we concluded by looking at how to secure the perimeter of our network and systems
-
-ownership and permissions
+</DOC>
+<DOC>ownership and permissions
 we look at security and the linux operating system start by applying permissions to files and directories we then look at access control lists acl and how they are applied in linux explore contextbased security controls lastly think about account types and privilege escalation
 file and directory permissions access control lists contextbased permissions account types and privilege escalation lab solution
+</DOC>
 
-administer access and authentication
+<DOC>administer access and authentication
 we look at ways to increase our linux security we start by looking at linux pluggable authentication pam pam is a suite of libraries that allows a linux system administrator to configure methods to authenticate users we then look at public key infrastructure pki and its use in secure shell ssh we conclude by utilizing open virtual private networks vpn
 pluggable authentication pam public key infrastructure pki secure shell ssh virtual private network vpn
+</DOC>
 
-logging backups
+<DOC>logging backups
 we look at both local and remote system logging also look at backup and compression of the files on the system to allow recovery in response to a system incident conclude with a deep dive of the different tools available in linux for archive and restore
 system logging systemd journaling backups archive and restore tools lab solution
+</DOC>
 
-linux firewalls
+<DOC>linux firewalls
 we look at the security at the boundaries of your network and your host linux system we look at different linux firewall technologies and the implementation of access control rules in the firewalls we then think about forwarding packets when we want to allow traffic through the firewall to another host machine we conclude by looking at intrusion detection systems in linux
 acl in firewalls firewall technologies packet forwarding intrusion detection systems
 </DOC>
-

@@ -10,115 +10,129 @@ each data science statistics and machine learning includes a handson peergraded 
 <DOC>
 practical machine learning
 one of the most common tasks performed by data scientists and data analysts are prediction and machine learning this will cover the basic components of building and applying prediction functions with an emphasis on practical applications the will provide basic grounding in concepts such as training and tests sets overfitting and error rates the will also introduce a range of model based and algorithmic machine learning methods including regression classification trees naive bayes and random forests the will cover the complete process of building prediction functions including data collection feature creation algorithms and evaluation
-
-prediction errors and cross validation
+</DOC>
+<DOC>prediction errors and cross validation
 will cover prediction relative importance of steps errors and cross validation
 prediction motivation what is prediction relative importance of steps in and out of sample errors prediction study design types of errors receiver operating characteristic cross validation what data should you use
+</DOC>
 
-the caret package
+<DOC>the caret package
 will introduce the caret package tools for creating features and preprocessing
 caret package data slicing training options plotting predictors basic preprocessing covariate creation preprocessing with principal components analysis predicting with regression predicting with regression multiple covariates
+</DOC>
 
-predicting with trees random forests model based predictions
+<DOC>predicting with trees random forests model based predictions
 we introduce a number of machine learning algorithms you can use to complete your project
 predicting with trees bagging random forests boosting model based prediction
+</DOC>
 
-regularized regression and combining predictors
+<DOC>regularized regression and combining predictors
 cover regularized regression and combining predictors
 regularized regression combining predictors forecasting unsupervised prediction
 </DOC>
-
 <DOC>
 regression models
 linear models as their name implies relates an to a set of predictors of interest using linear assumptions regression models a subset of linear models are the most important statistical analysis tool in a data scientists toolkit this covers regression analysis least squares and inference using regression models special cases of the regression model anova and ancova will be covered as analysis of residuals and variability will be investigated the will cover modern thinking on model selection and novel uses of regression models including scatterplot smoothing
-
-least squares and linear regression
+</DOC>
+<DOC>least squares and linear regression
 we focus on least squares and linear regression
 introduction to regression introduction basic least squares technical details skip if youd like introductory data example notation and background linear least squares linear least squares coding example technical details skip if youd like regression to the mean
+</DOC>
 
-linear regression multivariable regression
+<DOC>linear regression multivariable regression
 through the remainder of linear regression and then turn to the first part of multivariable regression
 statistical linear regression models interpreting coefficients linear regression for prediction residuals residuals coding example residual variance inference in regression coding example prediction really really quick intro to knitr
+</DOC>
 
-multivariable regression residuals diagnostics
+<DOC>multivariable regression residuals diagnostics
 build on last weeks introduction to multivariable regression with some examples and then cover residuals diagnostics variance inflation and model comparison
 multivariable regression part i multivariable regression part ii multivariable regression continued multivariable regression examples part i multivariable regression examples part ii multivariable regression examples part iii multivariable regression examples part iv adjustment examples residuals and diagnostics part i residuals and diagnostics part ii residuals and diagnostics part iii model selection part i model selection part ii model selection part iii
+</DOC>
 
-logistic regression and poisson regression
+<DOC>logistic regression and poisson regression
 on generalized linear models including binary and poisson regression
 glms logistic regression part i logistic regression part ii logistic regression part iii poisson regression part i poisson regression part ii hodgepodge
 </DOC>
-
 <DOC>
 data science capstone
 the capstone project class will allow students to create a usablepublic data product that can be used to show your to potential employers projects will be drawn from realworld problems and will be conducted with industry government and academic partners
-
-understanding the problem and getting the data
+</DOC>
+<DOC>understanding the problem and getting the data
 we introduce the project so you can get a clear grip on the problem at hand and begin working with the dataset
 welcome to the capstone project welcome from swiftkey you are a data scientist now introduction to task understanding the problem introduction to task getting and cleaning the data regular expressions part optional regular expressions part optional
-
-exploratory data analysis and modeling
-we move on to the next tasks exploratory data analysis and modeling also submit your milestone report and review submissions from your classmates
-introduction to task exploratory data analysis introduction to task modeling
-
-prediction model
-build and evaluate your prediction model the goal is to make your model efficient and accurate
-
-creative exploration
-this weeks goal is to improve the predictive accuracy while reducing computational runtime and model complexity
-
-data product
-on developing the first component of your final project your data product
-
-slide deck
-on developing the second component of your final project a slide deck to accompany your data product
-
-final project submission and evaluation
-submit your final project and review the of your classmates
 </DOC>
 
+<DOC>exploratory data analysis and modeling
+we move on to the next tasks exploratory data analysis and modeling also submit your milestone report and review submissions from your classmates
+introduction to task exploratory data analysis introduction to task modeling
+</DOC>
+
+<DOC>prediction model
+build and evaluate your prediction model the goal is to make your model efficient and accurate
+</DOC>
+
+<DOC>creative exploration
+this weeks goal is to improve the predictive accuracy while reducing computational runtime and model complexity
+</DOC>
+
+<DOC>data product
+on developing the first component of your final project your data product
+</DOC>
+
+<DOC>slide deck
+on developing the second component of your final project a slide deck to accompany your data product
+</DOC>
+
+<DOC>final project submission and evaluation
+submit your final project and review the of your classmates
+</DOC>
 <DOC>
 developing data products
 a data product is the production output from a statistical analysis data products automate complex analysis tasks or use technology to expand the utility of a data informed model algorithm or inference this covers the basics of creating data products using shiny r packages and interactive graphics the will focus on the statistical fundamentals of creating a data product that can be used to tell a story about data to a mass audience
-
-
+</DOC>
+<DOC>
 go over some information and resources to help you get started and succeed in the
+</DOC>
 
-shiny googlevis and plotly
+<DOC>shiny googlevis and plotly
 now we can turn to the first substantive lessons how to develop basic applications and interactive graphics in shiny compose interactive html graphics with googlevis and prepare data visualizations with plotly
 shiny shiny shiny shiny shiny shiny shiny shiny shiny shiny shiny shiny gadgets shiny gadgets shiny gadgets googlevis googlevis plotly plotly plotly plotly plotly plotly plotly plotly
+</DOC>
 
-r markdown and leaflet
+<DOC>r markdown and leaflet
 during this how to create r markdown files and embed r code in an rmd also explore leaflet and use it to create interactive annotated maps
 r markdown r markdown r markdown r markdown r markdown r markdown leaflet leaflet leaflet leaflet leaflet leaflet
+</DOC>
 
-r packages
+<DOC>r packages
 dive into the world of creating r packages and practice developing an r markdown presentation that includes a data visualization built using plotly
 r packages part r packages part building r packages demo r classes and methods part r classes and methods part
+</DOC>
 
-swirl and project
+<DOC>swirl and project
 is all about the project producing a shiny application and reproducible pitch
 swirl swirl swirl
 </DOC>
-
 <DOC>
 statistical inference
 statistical inference is the process of drawing conclusions about populations or scientific truths from data there are many modes of performing inference including statistical modeling data oriented strategies and explicit use of designs and randomization in analyses furthermore there are broad theories frequentists bayesian likelihood design based and numerous complexities missing data observed and unobserved confounding biases for performing inference a practitioner can often be left in a debilitating maze of techniques philosophies and nuance this presents the fundamentals of inference in a practical approach for getting things done after taking this students will understand the broad directions of statistical inference and use this information for making informed choices in analyzing data
-
-probability expected values
+</DOC>
+<DOC>probability expected values
 focus on the fundamentals including probability random variables expectations and more
 introductory introduction to probability probability mass functions probability density functions conditional probability bayes rule independence expected values expected values simple examples expected values for pdfs
+</DOC>
 
-variability distribution asymptotics
+<DOC>variability distribution asymptotics
 were going to tackle variability distributions limits and confidence intervals
 introduction to variability variance simulation examples standard error of the mean variance data example binomial distrubtion normal distribution poisson asymptotics and lln asymptotics and the clt asymptotics and confidence intervals
+</DOC>
 
-intervals testing pvalues
+<DOC>intervals testing pvalues
 be taking a look at intervals testing and pvalues lesson
 t confidence intervals t confidence intervals example independent group t intervals a note on unequal variance hypothesis testing example of choosing a rejection region t tests two group testing pvalues pvalue further examples just enough knitr to do the project
+</DOC>
 
-power bootstrapping permutation tests
+<DOC>power bootstrapping permutation tests
 begin looking into power bootstrapping and permutation tests
 power calculating power notes on power t test power multiple comparisons bootstrapping bootstrapping example notes on the bootstrap permutation tests
 </DOC>
-

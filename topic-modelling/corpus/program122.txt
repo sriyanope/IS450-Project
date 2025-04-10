@@ -10,99 +10,111 @@ create hardware and firmware solutions for sensors and motors that take realtime
 sensors and sensor circuit design
 this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degree
 after taking this be able to understand how to specify the proper thermal flow or rotary sensor for taking realtime process data implement thermal sensors into an embedded system in both hardware and software add the sensor and sensor interface into a microprocessor based development kit create hardware and firmware to process sensor signals and feed data to a microprocessor for further evaluation study sensor signal noise and apply proper hardware techniques to reduce it to acceptable levels need to buy the following components to do the two projects based on the note that if you have already purchased the psoc lp prototyping kit you do not need to buy it again these parts may be purchased off the digikey web site www digikeycom or you may obtain the specs from the site and purchase them elsewhere these are the part numbers typed out so you can copy and paste them into the digikey web site need one of each part nd nhdbzrnybwnd nd actnd additional equipment needed wire various gauges and lengths breadboard oscilloscope suggested models are o picoscope ad available on wwwdigikeycom or o digilent openscope mz available on wwwnewarkcom depending on your budget you can also investigate these models o hantek htbemhz httpswwwamazoncomdpbhayii o sainsmart dso httpswwwamazoncomdpbqbqnb o poscope mega usb httpswwwrobotshopcomenposcopemegausbmsooscilloscopehtml o adalm httpswwwdigikeycomenproductsdetailanalogdevicesincadalm
-
-thermal sensors
+</DOC>
+<DOC>thermal sensors
 in how to specify and use temperature sensors in an embedded circuit first about common types of sensors and actuators found in common products such as smart phones and automobiles then get a highlevel of analog and digital interfaces followed by a deep dive into thermistors rtds and thermocouples for each of these three types of thermal sensors we define the core theory and formulae give you examples of how commercial sensors are packaged and explain what you need to know to purchase them on a web site
 introduction common types of sensors and motors analog and digital interfaces temperature sensors and applications thermistors basic facts thermistors how they rtds basic facts rtds how they thermocouples basic facts thermocouples how they
-
-sensor development kit and prototyping
-in how to design a complete temperature sensor system within a development kit environment teach you how to assign internal components to the schematic this includes pins amplifiers muxs dacs and adcs then how to wire in external parts resistors thermistors in particular to the kit finally take a deep dive into interfacing a thermistor and associated front end components to the development kit this includes lessons on using the schematic portion of the kit as as writing application software in c code
-psoc creator introduction and documentation psoc creator pin automatically generated code adding the lcd display to the nscope and developent kit how uarts debugging with gpio and dacs documenting components not in the psoc chip pin types digital to analog and back again a basic sensor interface in psoc thermistor lab part thermistor lab part thermistor lab part thermistor lab part
-
-rotary and flow sensors
-in how rotary sensors and how to specify them for purchase in our rotary sensors include both optical encoders and resolvers also the design intricacies of flow sensors along with their appropriate applications the will discuss variable area differential pressure vortex ultrasonic turbine thermal mass flow and coriolis flow meters
-introduction of rotary sensors and applications optical encoders how they a measuring encoder speed optical encoders applications resolvers how they resolvers applications flow sensors and applications variable area flow sensors differential pressure flow sensing vortex flow meters ultrasonic flow meters turbine flow meters thermal mass flow meters coriolis flow meters
-
-amplifiers and sensor noise
-in the theory and practical application of amplifiers and circuit noise review how gain is calculated in inverting noninverting summing differential and instrumentation amplifiers then contrast theoretical vs realworld amplifier performance and give examples of how commercial chips specs are interpreted then discuss the causes of noise in sensor circuits how the noise affects sensor accuracy and some steps you can take to reduce noise in your sensor circuit designs
-introduction why study amplification basic amplifiers instrumentation amplifier amplifier imperfections amplifier frequency response noise in sensors johnson and f noise shot and quantization noise how noise affects sensor accuracy
-
-project
-this contains the materials you need to complete the thermistor lab
 </DOC>
 
+<DOC>sensor development kit and prototyping
+in how to design a complete temperature sensor system within a development kit environment teach you how to assign internal components to the schematic this includes pins amplifiers muxs dacs and adcs then how to wire in external parts resistors thermistors in particular to the kit finally take a deep dive into interfacing a thermistor and associated front end components to the development kit this includes lessons on using the schematic portion of the kit as as writing application software in c code
+psoc creator introduction and documentation psoc creator pin automatically generated code adding the lcd display to the nscope and developent kit how uarts debugging with gpio and dacs documenting components not in the psoc chip pin types digital to analog and back again a basic sensor interface in psoc thermistor lab part thermistor lab part thermistor lab part thermistor lab part
+</DOC>
+
+<DOC>rotary and flow sensors
+in how rotary sensors and how to specify them for purchase in our rotary sensors include both optical encoders and resolvers also the design intricacies of flow sensors along with their appropriate applications the will discuss variable area differential pressure vortex ultrasonic turbine thermal mass flow and coriolis flow meters
+introduction of rotary sensors and applications optical encoders how they a measuring encoder speed optical encoders applications resolvers how they resolvers applications flow sensors and applications variable area flow sensors differential pressure flow sensing vortex flow meters ultrasonic flow meters turbine flow meters thermal mass flow meters coriolis flow meters
+</DOC>
+
+<DOC>amplifiers and sensor noise
+in the theory and practical application of amplifiers and circuit noise review how gain is calculated in inverting noninverting summing differential and instrumentation amplifiers then contrast theoretical vs realworld amplifier performance and give examples of how commercial chips specs are interpreted then discuss the causes of noise in sensor circuits how the noise affects sensor accuracy and some steps you can take to reduce noise in your sensor circuit designs
+introduction why study amplification basic amplifiers instrumentation amplifier amplifier imperfections amplifier frequency response noise in sensors johnson and f noise shot and quantization noise how noise affects sensor accuracy
+</DOC>
+
+<DOC>project
+this contains the materials you need to complete the thermistor lab
+</DOC>
 <DOC>
 sensor manufacturing and process control
 sensor manufacturing and process control can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degree
 this is our fourth in our on embedding sensor and motors to get the most out of this you should first take our first entitled sensors and sensor circuits our second entitled motor and motor control circuits and our third entitled pressure force motion and humidity sensors our first gives you a tutorial on how to use the hardware and software development kit we have chosen for the lab exercises our second and third courses give you three handson lab experiments using the kit this third assumes that you already know how to use the kit about sensor signal characterization and manufacturing techniques and how to optimize the accuracy of sensors also about more advanced sensors proportionalintegralderivative pid control and how this method is used to give you a closed loop sensor feedback system after taking this be able to understand how sensor manufacturers characterize and calibrate their sensors tune a pid control loop and access the pid control function of the cypress psoc development kit for a motor control application understand manufacturing methods used to build electromechanical and micromachined sensors need to buy the following components to do the two projects based on the note that if you have already purchased the psoc lp prototyping kit you do not need to buy it again these parts may be purchased off the digikey web site www digikeycom or you may obtain the specs from the site and purchase them elsewhere all are quantity one except for nnd where you need three and nd where you need two nd pnd fqunltund nnd negictnd rnfftdkctnd pwbknd nd additional equipment needed wire various gauges and lengths breadboard oscilloscope suggested models are o picoscope ad available on wwwdigikeycom or o digilent openscope mz available on wwwnewarkcom depending on your budget you can also investigate these models o hantek htbemhz httpswwwamazoncomdpbhayii o sainsmart dso httpswwwamazoncomdpbqbqnb o poscope mega usb httpswwwrobotshopcomenposcopemegausbmsooscilloscopehtml o adalm httpswwwdigikeycomenproductsdetailanalogdevicesincadalm
-
-process control
+</DOC>
+<DOC>process control
 in how companies perform process control in their factories first review how nd order transfer functions which is the theoretical basis for much of process control then how plantwide control systems are implemented and details about the software protocols used to communicate between plant controllers and sensors then perform a lab for pid control with your psoc system which will get you some handson with this type of control system
 introduction review of nd order transfer functions pid control plantwide controllers predictive machine maintenance digital protocols lab for implementing a sensor with pid control
-
-sensor characterization
-in how sensor software is adjusted for optimal performance in the field first review how nonlinear sensor response curves are linearized for more predictable performance then how sensor output is automatically adjusted to account for wide ranges of ambient temperature next review how sensors are calibrated and the certification procedures that companies follow to demonstrate calibration capability afterwards study how linearization compensation and calibration play into sensor accuracy specs finally perform a lab for closed loop motor control with your psoc system which will get you some handson with closed loop systems
-introduction linearization temperature compensation calibration sensor accuracy lab on closed loop motor control
-
-advanced sensors
-in first how radar level transmitters and how they are used to provide accurate in all types of process tank conditions then about components and design issues for lidar systems used in self driving vehicles afterwards teach you about how sensors are customized for medical applications this includes pressure and temperature sensors that are implanted during surgical procedures as as pressure and flow sensors used in patient care equipment
-introduction radar level sensors range finders lidar medical sensors
-
-sensor manufacturing
-in how sensors are manufactured first how mems construction is used to make miniature flow pressure and temperature sensors afterwards teach you how microelectronic connections attach the mems sensors to connections within plastic encapsulated chips then discuss how sensor chips are enclosed within sensor housings and how different designs of housings are used for different applications then how sensors are tested for high reliability in the field
-introduction mems construction electrical interconnections sensor housings sensor reliability and testing
-
-projects
-this contains the materials you need to complete the pid control and closed loop dc motor control lab
 </DOC>
 
+<DOC>sensor characterization
+in how sensor software is adjusted for optimal performance in the field first review how nonlinear sensor response curves are linearized for more predictable performance then how sensor output is automatically adjusted to account for wide ranges of ambient temperature next review how sensors are calibrated and the certification procedures that companies follow to demonstrate calibration capability afterwards study how linearization compensation and calibration play into sensor accuracy specs finally perform a lab for closed loop motor control with your psoc system which will get you some handson with closed loop systems
+introduction linearization temperature compensation calibration sensor accuracy lab on closed loop motor control
+</DOC>
+
+<DOC>advanced sensors
+in first how radar level transmitters and how they are used to provide accurate in all types of process tank conditions then about components and design issues for lidar systems used in self driving vehicles afterwards teach you about how sensors are customized for medical applications this includes pressure and temperature sensors that are implanted during surgical procedures as as pressure and flow sensors used in patient care equipment
+introduction radar level sensors range finders lidar medical sensors
+</DOC>
+
+<DOC>sensor manufacturing
+in how sensors are manufactured first how mems construction is used to make miniature flow pressure and temperature sensors afterwards teach you how microelectronic connections attach the mems sensors to connections within plastic encapsulated chips then discuss how sensor chips are enclosed within sensor housings and how different designs of housings are used for different applications then how sensors are tested for high reliability in the field
+introduction mems construction electrical interconnections sensor housings sensor reliability and testing
+</DOC>
+
+<DOC>projects
+this contains the materials you need to complete the pid control and closed loop dc motor control lab
+</DOC>
 <DOC>
 pressure force motion and humidity sensors
 pressure force motion and humidity sensors can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degree
 this is our third in our on embedding sensor and motors to get the most out of this you should first take our first entitled sensors and sensor circuits our first gives you a tutorial on how to use the hardware and software development kit we have chosen for the lab exercises this third assumes that you already know how to use the kit after taking this be able to understand how to specify the proper ac or dc motor for a machine design integrate the motor to a machine based on analysis of motor equations for voltage current torque and speed implement the motor and accompanying rotary sensor into a motor control circuit in both hardware and software add a motor and motor control circuit into a microprocessor based development kit create hardware and firmware to process motor feedback data to a microprocessor for further evaluation after taking this be able to understand how to specify the proper pressure force strain position motion acceleration occupancy and humidity sensors for taking realtime process data implement these sensors into an embedded system in both hardware and software add the sensor and sensor interface into a microprocessor based development kit create hardware and firmware to process sensor signals and feed data to a microprocessor for further evaluation build the circuit from lab exercise on strain gauges force and strain sensors and touch screens and use it to make screen shots of the timing of the switch if you havent already wired up the system and written all the software per the instructions of please do so now need to buy the following components to complete this note that if you have already purchased the psoc lp prototyping kit you do not need to buy it again these parts may be purchased off the digikey web site www digikeycom one part needs to be purchased off the sparkfun website wwwsparkfuncom or you may obtain the specs from the site and purchase them elsewhere digikey part numbers are typed out here nd cfjtkctnd cfjtkctnd table shown here index quantity part number nd psoc lp prototyping kit cfjtkctnd res k ohm w axial cfjtkctnd res k ohm w axial sparkfun part numbers are typed out here tal table shown here index quantity part number tal miniload cell g straight bar additional equipment needed wire various gauges and lengths breadboard oscilloscope suggested models are o picoscope ad available on wwwdigikeycom or o digilent openscope mz available on wwwnewarkcom depending on your budget you can also investigate these models o hantek htbemhz httpswwwamazoncomdpbhayii o sainsmart dso httpswwwamazoncomdpbqbqnb o poscope mega usb httpswwwrobotshopcomenposcopemegausbmsooscilloscopehtml o adalm httpswwwdigikeycomenproductsdetailanalogdevicesincadalm
-
-pressure sensors
+</DOC>
+<DOC>pressure sensors
 in how to specify and use various types of pressure sensors for an embedded circuit first about piezoresistive capacitive and vacuum sensors this includes a deep dive into the piezoresistive effect and how a wheatstone bridge is used in these systems this is followed by a discussion on pressure transmitters and how to calculate an error budget finally give you examples of commercial pressure sensors and explain what you need to know to purchase them on a web site
 introduction pressure sensor terminology piezoresistive effect piezoresistive pressure sensors capacitive pressure sensors vacuum sensors pressure transmitters calculating a sensor error budget pressure sensor applications
-
-force and strain sensors and touch screens
-in how to specify and use various types of force and strain sensors for an embedded circuit first about how strain gauges use the piezoresistive effect and wheatstone bridges to output a strain signal then how load cells use strain gauges to output a force signal we have a on a teardown of a weight scale for you to watch where we teach you how the strain gauges are arranged in an unusual bridge circuit finally we teach you about how touch screens used in kiosks pcs and smart phones we have a lab exercise for you to perform on strain gauges where get handson wiring the gauges into the psoc system and writing code to read the gauges
-introduction strain gauges load cells teardown of weighing scale resistive touch screens capacitive touch screens lab exercise on strain gauges
-
-position acceleration and velocity sensors
-in first how magnetic detection sensors such as hall sensors and lvdts as as how capacitive detection sensors then how to specify and use accelerometers in an embedded circuit discuss how the first accelerometers used the piezoelectric effect to output a sinusoidal signal review the key principles and equations involved in vibrational measurement then later accelerometers used the piezoresistive effect and internal strain gauges to output a sinusoidal signal representative of force as opposed to acceleration then explain how accelerometers are now using mems technology and changes in capacitive to output the signal we teach you about gyroscopes both traditional mechanical ones still used in aircraft for angular position sensing and modern mems ones used to determine angular velocity
-introduction capacitive detection sensors magnetic position sensors principles of acceleration sensors piezoelectric accelerometers piezoresistive accelerometers capacitive accelerometers gyroscopes
-
-motion distance and humidity sensors
-in how to specify and use position and motion detectors in an embedded circuit first about the pyroelectric effect then how passive infrared motion detectors use the pyroelectric effect in commercial burglar alarms then how ultrasonic distance detection is accomplished the same principles that whales dolphins and bats use to navigate their worlds we tackle microwave detection sensors last as these are the most complex sensors that we cover in the they are used in long range position detection sensors and commercial security sensors for outdoors use
-introduction pyroelectric effect passive infrared pir motion detector ultrasonic distance sensor microwave motion detectors humidity sensors
-
-projects
-this contains the materials you need to complete the strain gauge lab
 </DOC>
 
+<DOC>force and strain sensors and touch screens
+in how to specify and use various types of force and strain sensors for an embedded circuit first about how strain gauges use the piezoresistive effect and wheatstone bridges to output a strain signal then how load cells use strain gauges to output a force signal we have a on a teardown of a weight scale for you to watch where we teach you how the strain gauges are arranged in an unusual bridge circuit finally we teach you about how touch screens used in kiosks pcs and smart phones we have a lab exercise for you to perform on strain gauges where get handson wiring the gauges into the psoc system and writing code to read the gauges
+introduction strain gauges load cells teardown of weighing scale resistive touch screens capacitive touch screens lab exercise on strain gauges
+</DOC>
+
+<DOC>position acceleration and velocity sensors
+in first how magnetic detection sensors such as hall sensors and lvdts as as how capacitive detection sensors then how to specify and use accelerometers in an embedded circuit discuss how the first accelerometers used the piezoelectric effect to output a sinusoidal signal review the key principles and equations involved in vibrational measurement then later accelerometers used the piezoresistive effect and internal strain gauges to output a sinusoidal signal representative of force as opposed to acceleration then explain how accelerometers are now using mems technology and changes in capacitive to output the signal we teach you about gyroscopes both traditional mechanical ones still used in aircraft for angular position sensing and modern mems ones used to determine angular velocity
+introduction capacitive detection sensors magnetic position sensors principles of acceleration sensors piezoelectric accelerometers piezoresistive accelerometers capacitive accelerometers gyroscopes
+</DOC>
+
+<DOC>motion distance and humidity sensors
+in how to specify and use position and motion detectors in an embedded circuit first about the pyroelectric effect then how passive infrared motion detectors use the pyroelectric effect in commercial burglar alarms then how ultrasonic distance detection is accomplished the same principles that whales dolphins and bats use to navigate their worlds we tackle microwave detection sensors last as these are the most complex sensors that we cover in the they are used in long range position detection sensors and commercial security sensors for outdoors use
+introduction pyroelectric effect passive infrared pir motion detector ultrasonic distance sensor microwave motion detectors humidity sensors
+</DOC>
+
+<DOC>projects
+this contains the materials you need to complete the strain gauge lab
+</DOC>
 <DOC>
 motors and motor control circuits
 this can also be taken for academic credit as ecea part of cu boulders master of science in electrical engineering degree
 this is our second in our on embedding sensor and motors to get the most out of this you should first take our first entitled sensors and sensor circuits our first gives you a tutorial on how to use the hardware and software development kit we have chosen for the lab exercises this second assumes that you already know how to use the kit after taking this be able to understand how to specify the proper ac or dc motor for a machine design integrate the motor to a machine based on analysis of motor equations for voltage current torque and speed implement the motor and accompanying rotary sensor into a motor control circuit in both hardware and software add a motor and motor control circuit into a microprocessor based development kit create hardware and firmware to process motor feedback data to a microprocessor for further evaluation need to buy the following components to do the two projects based on the note that if you have already purchased the psoc lp prototyping kit you do not need to buy it again these parts may be purchased off the digikey web site www digikeycom or you may obtain the specs from the site and purchase them elsewhere these are the part numbers for the above table the lab on motor voltage and current measurement you can copy and paste them into the search engine on the digikey web site you need one of each except for the aa batteries nnd which you would need nd pnd fqunltund nnd negictnd rnfftdkctnd pwbknd additional equipment needed wire various gauges and lengths breadboard oscilloscope suggested models are o picoscope ad available on wwwdigikeycom or o digilent openscope mz available on wwwnewarkcom depending on your budget you can also investigate these models o hantek htbemhz httpswwwamazoncomdpbhayii o sainsmart dso httpswwwamazoncomdpbqbqnb o poscope mega usb httpswwwrobotshopcomenposcopemegausbmsooscilloscopehtml o adalm httpswwwdigikeycomenproductsdetailanalogdevicesincadalm
-
-ac motor designs
+</DOC>
+<DOC>ac motor designs
 in principles of operation of ac induction motors both single and phase types you then how to interpret data from torque speed curves and how to optimize data in these curves based on electrical resistance inductance and capacitance then about different types of single phase motors featuring a analysis of a split phase motor used in a clothing dryer also about typical applications for single phase motors which will assist you in picking the right one for an application
 introduction threephase ac motor architecture torquespeed curves wound rotor and synchronous motors single phase ac motors split phase motor capacitor start and shaded pole motors universal and gear motors
-
-ac motor control
-in the details of ac motor specifications and enclosures as as how these details are governed by national and international design standards then a detailed methodology for researching design requirements for ac motors and how to use these requirements to pick the right motor for your needs afterwards have lessons on ac motor control components and systems both manual and automatic this will culminate in training for you on ac variable speed drives
-introduction ac motor specifications ac motor enclosures specifying an ac motor for an application ac motor control components manual motor starting systems stardelta motor starter systems ac variable speed drives
-
-dc motors
-in principles of dc motors traditional brushed motors as as electronically driven brushless motors discuss shunt wound series wound compound wound servo stepper and torque motors with detailed explanation of how commutation and control is implemented in these designs have a lab exercise for you on dc motor speed measurement have another analysis for you this time featuring teardown of a paper shredder then a detailed methodology for researching design requirements for dc motors and how to use these requirements to pick the right motor for your needs
-introduction dc motor principle of operation brushed dc motors shunt series and compound wound motors brushless dc motors driving a brushless dc motor commutation paper shredder teardown specifying a dc motor
-
-dc motor control and stepper motors
-in start off with another lab exercise this time gaining handson with dc motor control then illustrate a simplified stepper motor drive so understand the basic principles involved in stepper motor control next do a deep dive into stepper motor specs operation and commercial driver chips and packages then do another lab exercise this time on actuating a rotary sensor we end the with a comparison of dc vs ac motors so you take away a core understanding of their pros and cons
-introduction lab exercise on motor voltage and current measurement stepper motor principles of operation illustrative example of a stepper motor drive stepper motor specs and operation commercial stepper motor driver chips and packages lab exercise on rotary sensor dc vs ac motors
-
-projects
-perform your lab for the there will be two labs
 </DOC>
 
+<DOC>ac motor control
+in the details of ac motor specifications and enclosures as as how these details are governed by national and international design standards then a detailed methodology for researching design requirements for ac motors and how to use these requirements to pick the right motor for your needs afterwards have lessons on ac motor control components and systems both manual and automatic this will culminate in training for you on ac variable speed drives
+introduction ac motor specifications ac motor enclosures specifying an ac motor for an application ac motor control components manual motor starting systems stardelta motor starter systems ac variable speed drives
+</DOC>
+
+<DOC>dc motors
+in principles of dc motors traditional brushed motors as as electronically driven brushless motors discuss shunt wound series wound compound wound servo stepper and torque motors with detailed explanation of how commutation and control is implemented in these designs have a lab exercise for you on dc motor speed measurement have another analysis for you this time featuring teardown of a paper shredder then a detailed methodology for researching design requirements for dc motors and how to use these requirements to pick the right motor for your needs
+introduction dc motor principle of operation brushed dc motors shunt series and compound wound motors brushless dc motors driving a brushless dc motor commutation paper shredder teardown specifying a dc motor
+</DOC>
+
+<DOC>dc motor control and stepper motors
+in start off with another lab exercise this time gaining handson with dc motor control then illustrate a simplified stepper motor drive so understand the basic principles involved in stepper motor control next do a deep dive into stepper motor specs operation and commercial driver chips and packages then do another lab exercise this time on actuating a rotary sensor we end the with a comparison of dc vs ac motors so you take away a core understanding of their pros and cons
+introduction lab exercise on motor voltage and current measurement stepper motor principles of operation illustrative example of a stepper motor drive stepper motor specs and operation commercial stepper motor driver chips and packages lab exercise on rotary sensor dc vs ac motors
+</DOC>
+
+<DOC>projects
+perform your lab for the there will be two labs
+</DOC>

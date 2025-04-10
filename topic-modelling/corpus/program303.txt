@@ -9,71 +9,79 @@ learners will create a variety of practical projects including helpful c program
 c object basics functions recursion and objects
 code and run your first c in minutes without installing anything
 this is designed for learners with limited coding providing a solid foundation of not just c but core computer science topics that can be transferred to other languages the cover functions recursion objects and mutability completion of the prior courses are recommended to allow for a truly handson selfpaced learning this is videofree contain short explanations with images and runnable code examples with suggested edits to explore code examples further building a deeper understanding by doing benefit from instant feedback from a variety of assessment items along the way gently progressing from quick understanding checks multiple choice fill in the blank and unscrambling code blocks to small approachable coding exercises that take minutes instead of hours
-
-userdefined functions
+</DOC>
+<DOC>userdefined functions
 welcome to of the c object basics functions recursion and objects these cover reusing pieces of code by wrapping them in functions you can create functions that take in andor return data the ends with a lab and graded coding exercises
-
-recursion
-welcome to of the c object basics functions recursion and objects these cover creating recursive functions and identifying when recursion can be used instead of traditional iteration the ends with a lab and graded coding exercises
-
-introduction to objects
-welcome to of the c object basics functions recursion and objects these cover creating userdefined classes and how to instantiate an object based on these classes the ends with a lab and graded coding exercises
-
-mutability
-welcome to of the c object basics functions recursion and objects these cover changing attributes associated with an object through funtions the ends with a lab and graded coding exercises
 </DOC>
 
+<DOC>recursion
+welcome to of the c object basics functions recursion and objects these cover creating recursive functions and identifying when recursion can be used instead of traditional iteration the ends with a lab and graded coding exercises
+</DOC>
+
+<DOC>introduction to objects
+welcome to of the c object basics functions recursion and objects these cover creating userdefined classes and how to instantiate an object based on these classes the ends with a lab and graded coding exercises
+</DOC>
+
+<DOC>mutability
+welcome to of the c object basics functions recursion and objects these cover changing attributes associated with an object through funtions the ends with a lab and graded coding exercises
+</DOC>
 <DOC>
 objectoriented c inheritance and encapsulation
 code and run your first c in minutes without installing anything
 this is designed for learners with limited coding providing a solid foundation of not just c but core computer science topics that can be transferred to other languages the cover inheritance encapsulation polymorphism and other objectrelated topics completion of the prior courses is recommended to allow for a truly handson selfpaced learning this is videofree contain short explanations with images and runnable code examples with suggested edits to explore code examples further building a deeper understanding by doing benefit from instant feedback from a variety of assessment items along the way gently progressing from quick understanding checks multiple choice fill in the blank and unscrambling code blocks to small approachable coding exercises that take minutes instead of hours
-
-encapsulation
+</DOC>
+<DOC>encapsulation
 welcome to of the objectoriented c inheritance and encapsulation these cover encapsulation or the bundling of related functions and data related to an object within its class the ends with a lab and graded coding exercises
-
-inheritance
-welcome to of the objectoriented c inheritance and encapsulation these cover reusing code from one class in another class by creating an inheritance relationship between the classes the ends with a lab and graded coding exercises
-
-polymorphism
-welcome to of the objectoriented c inheritance and encapsulation these cover adding flexibility to functions by overloading and overriding them the ends with a lab and graded coding exercises
-
-advanced topics
-welcome to of the objectoriented python inheritance and encapsulation these cover other topics involving classes and objects such as structs and enums the ends with a lab and graded coding exercises
 </DOC>
 
+<DOC>inheritance
+welcome to of the objectoriented c inheritance and encapsulation these cover reusing code from one class in another class by creating an inheritance relationship between the classes the ends with a lab and graded coding exercises
+</DOC>
+
+<DOC>polymorphism
+welcome to of the objectoriented c inheritance and encapsulation these cover adding flexibility to functions by overloading and overriding them the ends with a lab and graded coding exercises
+</DOC>
+
+<DOC>advanced topics
+welcome to of the objectoriented python inheritance and encapsulation these cover other topics involving classes and objects such as structs and enums the ends with a lab and graded coding exercises
+</DOC>
 <DOC>
 c basics selection and iteration
 code and run your first c in minutes without installing anything
 this is designed for learners with no coding providing a solid foundation of not just c but core computer science topics that can be transferred to other languages the cover printing operators iteration ie loops and selection ie conditionals to allow for a truly handson selfpaced learning this is videofree contain short explanations with images and runnable code examples with suggested edits to explore code examples further building a deeper understanding by doing benefit from instant feedback from a variety of assessment items along the way gently progressing from quick understanding checks multiple choice fill in the blank and unscrambling code blocks to small approachable coding exercises that take minutes instead of hours
-
-basic writing your first
+</DOC>
+<DOC>basic writing your first
 welcome to of the c basics selection and iteration these cover the concepts of printing variables and comments the ends with a lab and graded coding exercises
-
-operators
-welcome to of the c basics selection and iteration these cover the concepts of arithmetic operators and and boolean operators and or not to manipulate data stored in variables the ends with a lab and graded coding exercises
-
-conditionals
-welcome to of the c basics selection and iteration these cover the concepts of making decisions using conditionals so your script can produce different output based on data the ends with a lab and graded coding exercises
-
-loops
-welcome to of the c basics selection and iteration these covers the different types of loops to repeat sections of your without copyingandpasting the same lines overandover again the ends with a lab and graded coding exercises
 </DOC>
 
+<DOC>operators
+welcome to of the c basics selection and iteration these cover the concepts of arithmetic operators and and boolean operators and or not to manipulate data stored in variables the ends with a lab and graded coding exercises
+</DOC>
+
+<DOC>conditionals
+welcome to of the c basics selection and iteration these cover the concepts of making decisions using conditionals so your script can produce different output based on data the ends with a lab and graded coding exercises
+</DOC>
+
+<DOC>loops
+welcome to of the c basics selection and iteration these covers the different types of loops to repeat sections of your without copyingandpasting the same lines overandover again the ends with a lab and graded coding exercises
+</DOC>
 <DOC>
 c basic structures vectors pointers strings and files
 code and run your first c in minutes without installing anything
 this is designed for learners with limited coding providing a solid foundation of not just c but core computer science topics that can be transferred to other languages the cover vectors pointers strings and files completion of c basics selection and iteration before taking this is recommended to allow for a truly handson selfpaced learning this is videofree contain short explanations with images and runnable code examples with suggested edits to explore code examples further building a deeper understanding by doing benefit from instant feedback from a variety of assessment items along the way gently progressing from quick understanding checks multiple choice fill in the blank and unscrambling code blocks to small approachable coding exercises that take minutes instead of hours
-
-vectors
+</DOC>
+<DOC>vectors
 welcome to of the c basic structures vectors pointers strings and files these cover using vectors to store multiple pieces of data in a single variable and iterating over vectors or using builtin methods and functions to manipulate vectors the ends with a lab and graded coding exercises
-
-pointers
-welcome to of the c basic structures vectors pointers strings and files these cover creating referencing and dereferencing pointers the ends with a lab and graded coding exercises
-
-strings
-welcome to of the c basic structures vectors pointers strings and files these cover storing multiple characters or text in a string and using builtin methods and functions to manipulate strings the ends with a lab and graded coding exercises
-
-files
-welcome to of the c basic structures vectors pointers strings and files these cover importing and exporting large pieces of data from text and csv files the ends with a lab and graded coding exercises
 </DOC>
 
+<DOC>pointers
+welcome to of the c basic structures vectors pointers strings and files these cover creating referencing and dereferencing pointers the ends with a lab and graded coding exercises
+</DOC>
+
+<DOC>strings
+welcome to of the c basic structures vectors pointers strings and files these cover storing multiple characters or text in a string and using builtin methods and functions to manipulate strings the ends with a lab and graded coding exercises
+</DOC>
+
+<DOC>files
+welcome to of the c basic structures vectors pointers strings and files these cover importing and exporting large pieces of data from text and csv files the ends with a lab and graded coding exercises
+</DOC>

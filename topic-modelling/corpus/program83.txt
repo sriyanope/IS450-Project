@@ -9,106 +9,122 @@ given a case study of a sample organization learner will specify a risk manageme
 dominant risk management standards and frameworks
 organizations with little in risk management will want to look to national and international organizations for guidance in designing and implementing their risk management efforts there are two dominant organizations that offer guidance area the us national institute for standards in technology nist and the international standards organization
 this examines the risk management frameworks and standards offered by these organization and then discusses other available approaches the concludes with a discussion of applications and tools to support the organizations risk management effort
-
-welcome to dominant risk management standards and frameworks
+</DOC>
+<DOC>welcome to dominant risk management standards and frameworks
 organizations with little in risk management will want to look to national and international organizations for guidance in designing and implementing their risk management efforts there are two dominant organizations that offer guidance area the us national institute for standards in technology nist and the international standards organization this examines the risk management frameworks and standards offered by these organizations and then discusses other available approaches the concludes with a discussion of applications and tools to support the organizations risk management effort
-
-the dominant risk management standards organizations nist and the iso
-
-welcome to nist and the iso standards why standards nist isoiec wrap up for the dominant risk management standards organizations nist and the iso
-
-nist risk management framework
-
-welcome an of the nist rmf nist rmf steps and structure the nist approach to risk assessment the nist approach to risk treatment wrapup to nist risk management framework
-
-the iso approach to risk management
-
-welcome to the iso approach to risk management iso risk management definitions the iso risk management standards iso series and risk management wrapup to the iso approach to risk management
-
-other approaches and tools for risk management
-
-welcome to other approaches and tools for risk management cost benefit analysis fair octave and enisa paperbased tools to support risk management applications to support risk management wrapup for other approaches and tools for risk management
-
-wrapup
-
 </DOC>
 
+<DOC>the dominant risk management standards organizations nist and the iso
+
+welcome to nist and the iso standards why standards nist isoiec wrap up for the dominant risk management standards organizations nist and the iso
+</DOC>
+
+<DOC>nist risk management framework
+
+welcome an of the nist rmf nist rmf steps and structure the nist approach to risk assessment the nist approach to risk treatment wrapup to nist risk management framework
+</DOC>
+
+<DOC>the iso approach to risk management
+
+welcome to the iso approach to risk management iso risk management definitions the iso risk management standards iso series and risk management wrapup to the iso approach to risk management
+</DOC>
+
+<DOC>other approaches and tools for risk management
+
+welcome to other approaches and tools for risk management cost benefit analysis fair octave and enisa paperbased tools to support risk management applications to support risk management wrapup for other approaches and tools for risk management
+</DOC>
+
+<DOC>wrapup
+
+</DOC>
 <DOC>
 a general approach to risk management
 every organization uses its information to support its business operations when there are threats in the internal and external environments they create the risk of information loss or damage this examines the design and construction of a risk management including policies and plans to support the identification and treatment of risk to the organizations information assets
-
-welcome to a general approach to risk management
+</DOC>
+<DOC>welcome to a general approach to risk management
 this is an of the learning objectives for the
-
-building the risk management effort
-
-introduction to structuring the risk management planning team establishing risk appetite developing the risk management policy developing the risk management plan wrapup for building the risk management effort
-
-planning for risk management
-
-introduction to evaluating risk management methodologies building the rm framework part building the rm framework part designing and building the rm process wrap up for planning for risk management
-
-conducting the rm process
-
-introduction to preparation and risk identification asset inventory risk identification information asset classification categorization valuation and prioritization risk analysis likelihood and impact risk evaluation wrapup for conducting the rm process
-
-conducting the rm process risk treatment
-
-welcome to conducting the rm process risk treatment an of risk treatment risk treatment mitigation transference risk treatment avoidance acceptance implementing risk treatment strategies conducting the rm process risk treatment
-
-wrapup for a general approach to risk management
-this is the final where take the assessment
 </DOC>
 
+<DOC>building the risk management effort
+
+introduction to structuring the risk management planning team establishing risk appetite developing the risk management policy developing the risk management plan wrapup for building the risk management effort
+</DOC>
+
+<DOC>planning for risk management
+
+introduction to evaluating risk management methodologies building the rm framework part building the rm framework part designing and building the rm process wrap up for planning for risk management
+</DOC>
+
+<DOC>conducting the rm process
+
+introduction to preparation and risk identification asset inventory risk identification information asset classification categorization valuation and prioritization risk analysis likelihood and impact risk evaluation wrapup for conducting the rm process
+</DOC>
+
+<DOC>conducting the rm process risk treatment
+
+welcome to conducting the rm process risk treatment an of risk treatment risk treatment mitigation transference risk treatment avoidance acceptance implementing risk treatment strategies conducting the rm process risk treatment
+</DOC>
+
+<DOC>wrapup for a general approach to risk management
+this is the final where take the assessment
+</DOC>
 <DOC>
 cybersecurity foundations for risk management
 in order to manage the cybersecurity function business you must first understand its language and its environment this covers the foundations of cybersecurity including threats and vulnerabilities as as the tools technologies and strategies used to manage it
 after completing this a learner will be able to define key concepts and terminology in cybersecurity identify threats to cybersecurity identify strategies to identify and remediate vulnerabilities in information assets identify the systemic components including personnel necessary for an effective cybersecurity
-
-welcome to cybersecurity foundations for risk management
+</DOC>
+<DOC>welcome to cybersecurity foundations for risk management
 this is an of the learning objectives for the
-
-an introduction to cybersecurity
-reading
-the definition of cybersecurity the definition of cybersecurity lecture key concepts in cybersecurity part lecture key concepts in cybersecurity part lecture wrapup for introduction to cybersecurity
-
-threats to cybersecurity
-learning objectives for threats to cybersecurity
-threats to cybersecurity compromises to ip deviations in qos espionage or trespass lecture forces of nature human error or failure information extortion lecture sabotage or vandalism software attacks technical hardware failures lesson technical hardware failure technical software failure technological obsolescence and theft lesson threats to cybersecurity wrapup
-
-cybersecurity management
-
-cybersecurity management introduction to cybersecurity management cybersecurity roles and responsibilities cybersecurity governance planning for cybersecurity planning for cybersecurity contingencies cybersecurity management conclusion
-
-understanding cybersecurity risk and risk management
-learning objectives for managing vulnerabilities in information assets
-understanding cybersecurity risk and risk management understanding cybersecurity risk understanding risk management risk management team roles and responsibilities understanding cybersecurity risk and risk management
-
-wrapup for cybersecurity foundations for risk management
-this is the final where take the assessment
 </DOC>
 
+<DOC>an introduction to cybersecurity
+reading
+the definition of cybersecurity the definition of cybersecurity lecture key concepts in cybersecurity part lecture key concepts in cybersecurity part lecture wrapup for introduction to cybersecurity
+</DOC>
+
+<DOC>threats to cybersecurity
+learning objectives for threats to cybersecurity
+threats to cybersecurity compromises to ip deviations in qos espionage or trespass lecture forces of nature human error or failure information extortion lecture sabotage or vandalism software attacks technical hardware failures lesson technical hardware failure technical software failure technological obsolescence and theft lesson threats to cybersecurity wrapup
+</DOC>
+
+<DOC>cybersecurity management
+
+cybersecurity management introduction to cybersecurity management cybersecurity roles and responsibilities cybersecurity governance planning for cybersecurity planning for cybersecurity contingencies cybersecurity management conclusion
+</DOC>
+
+<DOC>understanding cybersecurity risk and risk management
+learning objectives for managing vulnerabilities in information assets
+understanding cybersecurity risk and risk management understanding cybersecurity risk understanding risk management risk management team roles and responsibilities understanding cybersecurity risk and risk management
+</DOC>
+
+<DOC>wrapup for cybersecurity foundations for risk management
+this is the final where take the assessment
+</DOC>
 <DOC>
 implementing a risk management framework
 the ultimate destination for a security manager is the chief information security officer or chief security officer a senior executive role responsible for all cybersecurity operations in the organization but how do you get from entrylevel it or security employee to the cisos office and what do you need to know when you get there this examines the path and requirements to be an effective ciso as as the roles and responsibilities of the position
 a learner will be able to identify the development and path of a cybersecurity from entrylevel to ciso define and describe the role and function of a ciso in planning for cybersecurity identify the development of a cybersecurity governance and the role the ciso would play in it discuss the strategic responsibilities of the ciso in overseeing an organizations cybersecurity
-
-introduction to the culminating project capstone
+</DOC>
+<DOC>introduction to the culminating project capstone
 learning objectives for the capstone project
-
-case project of
-prepare and submit a casebased presentation to deliver the results of a proposal to implement a risk management framework suitable for the case organization
-
-case project of
-identify the information assets to be included in the risk management effort
-
-case project of
-identify threats to key information assets
-
-case project of
-perform risk analysis and prepare a report
-
-case project of
-justify a comprehensive risk management for the case company
 </DOC>
 
+<DOC>case project of
+prepare and submit a casebased presentation to deliver the results of a proposal to implement a risk management framework suitable for the case organization
+</DOC>
+
+<DOC>case project of
+identify the information assets to be included in the risk management effort
+</DOC>
+
+<DOC>case project of
+identify threats to key information assets
+</DOC>
+
+<DOC>case project of
+perform risk analysis and prepare a report
+</DOC>
+
+<DOC>case project of
+justify a comprehensive risk management for the case company
+</DOC>

@@ -20,200 +20,219 @@ at the end of the there will be a capstone project where bring your new skillset
 html and css in depth
 use software development tools like html to build attractive web pages that welland use structured semantic data to control how websites appear to the end user
 then dive deeper into css by applying increasingly specific styling to various elements to use bootstraps grid system to create layouts and with components and themes finally explore debugging and how it can be utilized to banish common frontend errors by the end of this be able to create a simple form with a responsive layout using html and css create a responsive layout using css create a ui using bootstrap implement debugging tools this is a beginner for learners who would like to prepare themselves for a in frontend development to succeed you do not need prior development only basic internet navigation and an eagerness to get started with coding
-
-html in depth
+</DOC>
+<DOC>html in depth
 use structured semantic data to control how web sites appear to the user create semantic html to structure webpages to look good and
 introduction to the introduction to html and css in depth how are html and css used in the real world recap what you know about html and css semantic tags and why we need them semantic tags in action metadata bare bones layout ux with meta tags setting up a social media card forms and validation creating a form making the most of clientside validation radio buttons using interactive form elements form submission browser differences and audio embedded players iframes iframe as a picture the canvas element html deep dive
+</DOC>
 
-interactive css
+<DOC>interactive css
 dive deeper into css by applying increasingly specific styling to various elements
 css web layout basic flexbox flex charts css grids grid showcase case study how meta creates responsive builds widely used selectors combination selectors pseudoclasses practical use of pseudo what is an effect text effects css transforms and transitions css animation animation examples common errors handling errors debugging tools browserspecific css ui testing case study how meta performs frontend testing interactive css
+</DOC>
 
-graded assessment
+<DOC>graded assessment
 be assessed on the key covered in the
 recap selecting the subject and working out the layout positioning the elements creating placeholders planning the user exemplar so far so good congratulations you have completed htmls and css in depth
 </DOC>
-
 <DOC>
 frontend developer capstone
 the capstone project enables you to demonstrate multiple from the by solving an authentic realworld problem each includes a brief recap of and links to content that you have covered in previous courses
 this will test your knowledge and understanding and provide you with a platform to show off your new abilities in frontend web development using react during this be guided through the process of building an app combining all the and technologies youve learned throughout this to solve the problem at hand on completion of the capstone project have a jobready portfolio that you can show to recruiters demonstrate during interviews and impress potential employers to complete this need frontend developer additionally it always helps to have a cando attitude
-
-starting the project
+</DOC>
+<DOC>starting the project
 get started with the capstone project this will include a brief recap of and links to content in the react you have already completed
 introduction to the setting up the project planning the ux and ui starting the project
+</DOC>
 
-project foundations
+<DOC>project foundations
 use semantic html meta tags and open graph protocol to create a modern html structure for the web app also use css grid and other css styling to set up a responsive clear and inviting website
 setting up a semantic html document styling elements project components project foundations
+</DOC>
 
-project functionality
+<DOC>project functionality
 code the table booking system using react also explore the importance of ux and form validation and write unit tests additionally cover accessibility and ux and ui usability evaluation
 customer table bookings querying a table booking api the importance of ux project functionality
+</DOC>
 
-project assessment
+<DOC>project assessment
 have the to perform a selfreview of your project and a peer review of other learners solutions for the little lemon reserveatable web app assessing the projects in terms of usability accessibility design and code
 recap capstone project congratulations you have completed the capstone project
 </DOC>
-
 <DOC>
 coding interview preparation
 the final will help prepare you for the unique aspects of a coding job interview with approaches to problemsolving and computer science foundations needed to land the job ultimately gain strategic insights and tips for successful interviewing
 by the end of this have knowledge of appropriate communication during a coding interview successful interviewing strategies using pseudocode the fundamentals of computer science the capabilities of data structures and how to implement them how to review data structures in the context of coding interviews the concept of algorithms and common approaches to working with them how to visualize an algorithm combining new and previously learned coding patterns to solve problems ideally you should have completed all the courses
-
-introduction to the coding interview
+</DOC>
+<DOC>introduction to the coding interview
 introductory about a coding interview what it could consist of and the types of coding interviews you might encounter about how to prepare for a coding interview focusing on communication and working with pseudocode also get an introduction to computer science including the fundamental concepts of binary big o notation and time and space complexity
 introduction to the introduction to the technical recruitment process what is a coding interview communication what to expect from a technical interview binary memory time complexity space complexity introduction to the coding interview
+</DOC>
 
-introduction to data structures
+<DOC>introduction to data structures
 the second of this covers data structures about the implementation and capabilities of data structures between various programming languages and the similar patterns of the overarching architecture about basic data structures such as strings integers arrays and objects before moving on to collection data structures including lists stacks and trees and advanced data structures such as hash tables heaps and graphs
 basic data structures lists and sets stacks and queues trees hash tables heaps graphs introduction to data structures
+</DOC>
 
-introduction to algorithms
+<DOC>introduction to algorithms
 about algorithms cover common approaches to sorting and searching with algorithms also explore the time and space complexity aspects of both sorting and searching then more about working with algorithms demonstrating how to visualize and problem solve with algorithmic approaches such as divide and conquer greedy algorithms and dynamic programming
 sorting algorithms searching algorithms divide and conquer recursion dynamic programming greedy algorithms introduction to algorithms
+</DOC>
 
-final project
+<DOC>final project
 be assessed on the key concepts and topics covered in the
 recap wrap up
 </DOC>
-
 <DOC>
 principles of uxui design
 the fundamentals of user ux research and design become immersed in the ux process of identifying problems and iterating and testing designs to find appropriate solutions how to empathize with users through bestpractice research approaches and create common ux artifacts such as user personas and use ux insights to make appropriate design decisions
 by utilizing the user interface ui design process be able to create wireframes for features in figma and turn them into minimum viable product mvp style prototypes from your mockups also the core principles of design such as hierarchy and the use of grids by the end of this be able to design digital products that create value and solve a users problems in meaningful ways recognize what constitutes successful ux ui and evaluate existing interfaces for design consistency and quality identify best practice interaction design methods and evaluate and improve your own and others designs create share and test your ux ui designs following best practice guidelines this is a beginner for learners who would like to prepare themselves for a in ux ui development to succeed you do not need prior development only basic internet navigation and an eagerness to
-
-introduction to ux and ui design
+</DOC>
+<DOC>introduction to ux and ui design
 about what constitutes successful ui and evaluate existing interfaces for design consistency and quality
 introduction to the principles of ux and ui design a day in the life of a meta product designer introduction to ux and ui a day in the life of a meta product manager final project what is ux ux goals quality components of the ux process what is ui getting started with figma who is your user empathy tools case study user research in the real world introduction to ux and ui
+</DOC>
 
-evaluating interactive design
+<DOC>evaluating interactive design
 be able to understand best practice interaction design methods and evaluate and improve your own and others designs
 evaluating design case study accessibility at meta form design components in ui design little lemon evaluation navigation best practices evaluating interactive design
+</DOC>
 
-applied design fundamentals
+<DOC>applied design fundamentals
 what constitutes successful ui and evaluate existing interfaces for design consistency and quality
 frames layers and basic shapes type and text grids and constraints manipulating elements working with images wireframing usability testing applied design fundamentals
+</DOC>
 
-designing your ui
+<DOC>designing your ui
 learners will create share and test their ui design following best practice
 make it beautiful stylize highfidelity design what are design systems design systems in figma moving from design to prototyping animate and test your prototype case study how meta uses micro interactions designing your ui
+</DOC>
 
-and final assessment
+<DOC>and final assessment
 practice and reflect on the you learned
 recap for principles of ux and ui congratulations you have completed principles of ux ui design
 </DOC>
-
 <DOC>
 programming with javascript
 javascript is the programming language that powers the modern web the basic concepts of web development with javascript with functions objects arrays variables data types the html dom and much more how to use javascript and discover interactive possibilities with modern javascript technologies finally about the practice of testing code and how to write a unit test using jest
-
-introduction to javascript
+</DOC>
+<DOC>introduction to javascript
 you are introduced to javascript why javascript is so integral to software development and get an of how to write javascript code inside the browser furthermore about the most common operators as as conditional statements and loops after completing this have completed the following learning objectives
 introduction to programming with javascript how is javascript used in the real world setting up vs code optional introduction to programming why javascript programming in javascript variables data types operators numbers strings booleans writing statements working with conditional statements looping constructs for loop while loop nested loops introduction to javascript
+</DOC>
 
-the building blocks of a
+<DOC>the building blocks of a
 here how to use objects arrays and functions in addition about the most common builtin methods and the difference between undefined null and empty strings and explore both error handling and defensive programming after completing this be able to
 functions storing data in arrays introduction to objects math object a closer look at strings typeof bugs and errors try catch blocks undefined null and empty values the building blocks of a
+</DOC>
 
-programming paradigms
+<DOC>programming paradigms
 this is about functional programming and the oriented programming paradigm what scope is in javascript explore the differences between var let and const and how to use classes and inheritance in object oriented programming additionally explore how to use write javascript using modern features like spread and rest build code that can manipulate the dom and handle events and use json in javascript after completing this be able to
 introduction to functional programming function calling and recursion introduction to scope scoping with var let and const comparing var let and const introduction to objectoriented programming classes inheritance destructuring arrays and objects for of loops and objects working with template literals data structures spread operator rest operator javascript javascript dom manipulation javascript selectors event handling javascript object notation json programming paradigms
+</DOC>
 
-testing
+<DOC>testing
 here about nodejs and node package manager npm and explore how to install npm packages and how to with packagejson furthermore about testing in javascript and code a simple unit test in jest after completing this be able to
 other javascript environments node npm what is testing types of testing introduction to jest writing tests with jest tdd testdriven development testing
+</DOC>
 
-endofcourse graded assessment
+<DOC>endofcourse graded assessment
 in the final synthesize the you gained from the to create code for the little lemon receipt maker after you complete the individual units be able to take the graded assessment also have to to reflect on the content and the learning path that lies ahead
 recap programming with javascript congratulations on completing the programming with javascript
 </DOC>
-
 <DOC>
 advanced react
 how to use more advanced react concepts and features become proficient in jsx and confidently test your applications
 examine different types of react components and various characteristics and when to use them dig into more advanced hooks and create your own look into building forms with react explore component composition and new patterns such as higher order components and render props create a web application that consumes api data and get familiar with the most commonly used react framework integrations tools and testing techniques by the end of this be able to render lists and form components efficiently in react lift shared state up when several components need the updated data leverage react context to share global state for a tree of components fetch data from a remote server use advanced hooks in react and put them to use within your application build your own custom hooks understand jsx in depth embrace component composition techniques use advanced patterns to encapsulate common behavior via higher order components and render props test your react components build a portfolio using react gain with the following tools and software reactjs jsx react html css and javascript vscode be able to leverage the potential of this to develop new improve productivity act effectively with data and boost your to take this you should understand the basics of react html css and javascript additionally it always helps to have a cando attitude
-
-components
+</DOC>
+<DOC>components
 how to render list and form components efficiently in react and how to lift a shared state up when several components need the updated data
 introduction to the react and your opportunites setting up vs code optional grid layouts transforming lists in javascript render a simple list component what are keys in react using keys within list components what are controlled components creating a form component in react create a controlled form component what you know about props and state what is context and why is it used components
+</DOC>
 
-react hooks and custom hooks
+<DOC>react hooks and custom hooks
 to use all the common hooks in react and how to put them to use within your application then build your own custom hooks
 working with react hooks revising usestate hook using the usestate hook what are side effects using the useeffect hook what are the rules of hooks what you need to know before fetching data fetching data putting it all together apis what is usereducer and how it differs from usestate useref to access underlying dom react hooks and custom hooks
+</DOC>
 
-jsx and testing
+<DOC>jsx and testing
 understand jsx in depth and discover advanced patterns to encapsulate common behaviour via higherorder components and render props then how to test and debug your application
 jsx components and elements the importance of performance to software development component composition with children manipulating children dynamically in jsx spread attributes crosscutting concerns in react create a hoc for cursor position render props why react testing library writing the first test for your form style guides jsx and testing
+</DOC>
 
-final project
+<DOC>final project
 be assessed on the key covered in the and create a project to add to your portfolio
 recap advanced react solution walkthrough portfolio congratulations you have completed advanced react
 </DOC>
-
 <DOC>
 introduction to frontend development
 welcome to introduction to frontend development the first in the meta frontend developer
 this is a good place to start if you want to become a web developer about the daytoday responsibilities of a web developer and get a general understanding of the core and underlying technologies that power the internet how frontend developers create websites and applications that and are easy to maintain be introduced to the core web development technologies like html and css and get to practice using them also be introduced to modern ui frameworks such as bootstrap and react that make it easy to create interactive user by the end of the be able to describe the frontend developer role explain the core and underlying technologies that power the internet use html to create a simple webpage use css to control the appearance of a simple webpage explain what react is describe the applications and characteristics of the most popular ui frameworks for the final project create and edit a webpage using html and the bootstrap css framework using a responsive layout grid construct a responsive webpage containing text and images that looks great on any size screen this is a beginner intended for learners eager to the fundamentals of web development to succeed you do not need prior web development only basic internet navigation and an eagerness to get started with coding
-
-get started with web development
+</DOC>
+<DOC>get started with web development
 about the different types of web developers and the roles and responsibilities of frontend backend and fullstack developers take a first look at the core technologies of html css and javascript and explore the concepts that underpin how the internet works
 introduction to the introduction to the frontend backend and fullstack developer roles a day in the life of a frontend developer how the internet works what is a web server and how does it what are websites and webpages what is a web browser and how does it web hosting introduction to internet protocols introduction to http intro to html css and javascript webpages websites and web apps developer tools frameworks and libraries apis and services what is a an ide get started with web development
+</DOC>
 
-introduction to html and css
+<DOC>introduction to html and css
 how to construct html documents and add basic styling and layout using css
 what is hyper text markup language html documents linking documents adding images to a webpage with html use html to with data in tables what are forms introduction to the dom web accessibility selecting and styling box model introduction document flow block vs inline introduction to html and css
+</DOC>
 
-ui frameworks
+<DOC>ui frameworks
 how to use the bootstrap framework to build responsive interfaces and the benefits of working with ui frameworks
 working with libraries introduction to responsive design getting started with bootstrap using bootstrap styles bootstrap grid bootstrap components static and dynamic content single page applications what is react how react works component hierarchy ui frameworks
+</DOC>
 
-endofcourse graded assessment
+<DOC>endofcourse graded assessment
 be assessed on the key covered in the
 recap introduction to web development congratulations you have completed introduction to web development
 </DOC>
-
 <DOC>
 version control
 how modern software developers collaborate across the world without messing up each others code look at the different version control systems and how to create an effective software development workflow be introduced to some of the most commonly used linux commands that you can use to with files on your hard drive and create powerful workflows that will automate your saving you time and effort
 finally see how git can be used in software development projects to manage team files and create a repository that can manage code revisions
-
-software collaboration
+</DOC>
+<DOC>software collaboration
 about how modern software developers collaborate across the world without messing up each others code this involves using version control or subversion to bring order to the chaos of massive software projects that have the potential for mistakes and bugs look at the different version control systems and how to create an effective software development workflow
 introduction to the how do developers collaborate in the real world what is version control case study how meta engineers collaborate systems of version control and tools a history of revisions software collaboration
+</DOC>
 
-command line
+<DOC>command line
 how to use the command line to execute commands in linux be introduced to some of most commonly used commands that traverse create rename and delete files on your hard drive how easy it is to use piping and redirection to create powerful workflows that will automate your saving you time and effort
 the command line what are unix commands using bash on windows change directories and list contents creating and moving directories and files pipes redirection grep command line
+</DOC>
 
-working with git
+<DOC>working with git
 this will help you to develop a strong conceptual understanding of the git technology and how it is used in software development projects to manage team files install git create a local repository create a commit create a remote repository and push commits to a remote repository
 what is git and github creating and cloning a repository how git works add and commit branches remote vs local push and pull example workflow head diff commands blame working with git
+</DOC>
 
-graded assessment
+<DOC>graded assessment
 be assessed on the key covered in the
 recap version control congratulations you have completed version control
 </DOC>
-
 <DOC>
 react basics
 react is a powerful javascript library that you can use to build user interfaces for web and mobile applications apps explore the fundamental concepts that underpin the react library and the basic required to build a simple fast and scalable app
 by the end of this be able to use reusable components to render views where data changes over time create more scalable and maintainable websites and apps use props to pass data between components create dynamic and interactive web pages and apps use forms to allow users to interact with the web page build an application in react gain with the following tools and software reactjs jsx react html css and javascript vscode be able to leverage the potential of this to develop new improve productivity act effectively with data and boost your this is a beginner for learners who would like to prepare themselves for a in mobile development to succeed you do not need prior development only basic internet navigation and an eagerness to get started with coding
-
-react components
+</DOC>
+<DOC>react components
 explore the basic structure and use of the reactjs library how to produce single page web applications using react components and to use jsx to style them
 introduction to the react basics how is react used in the real world why react reactjs introduction to functional components creating react components the react project structure importing components principles of components props using props in components introducing jsx practical styling embedded jsx expressions embedding in attributes
+</DOC>
 
-data and state
+<DOC>data and state
 explore the concept and practical use of state and stagemanagement also gain knowledge on how to handle events and the ability to dynamically change content on a web page
 types of events common event handling syntax for handlers user events parentchild data flow children and data what are hooks what is state observing state managing state react state management stateful vs stateless
+</DOC>
 
-navigation updating and assets in reactjs
+<DOC>navigation updating and assets in reactjs
 explore the basics of single and multipage navigation as as the conditional rendering or changing of content in response to user status or choice
 basic types of navigation the navbar conditional rendering single view conditional updates what is an asset and where does it live using embedded assets audio and create an audio component navigation updating and assets in reactjs
+</DOC>
 
-your first react app
+<DOC>your first react app
 be assessed on the key covered in the
 recap react basics exemplar build a calculator app congratulations you completed react basics
 </DOC>
-

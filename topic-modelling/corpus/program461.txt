@@ -17,106 +17,116 @@ learners will demonstrate their understanding of the hardware interdependencies 
 dell technologies technical support for hardware
 this is designed to provide aspiring it professionals with a comprehensive understanding of hardware device components and the needed to troubleshoot common hardware issues in both client and enterprise environments
 this will equip learners with the knowledge to confidently approach hardwarerelated challenges ensuring they can maintain and repair devices effectively to minimize downtime through detailed lessons handson exercises and realworld scenarios participants will gain a solid grasp of the inner workings of hardware components and systematic troubleshooting techniques to address issues that arise this is designed for learners seeking to gain a foundational understanding of hardware troubleshooting no previous is necessary by the end of this participants will have a wellrounded understanding of both client and enterprise hardware enabling them to diagnose issues accurately and perform necessary repairs or upgrades to maintain system integrity and performance this is a part of the dell technologies technical customer support specialist curriculum
-
-client hardware foundations
+</DOC>
+<DOC>client hardware foundations
 this is designed to equip you with basic knowledge regarding client systems this section provides an introduction to common computer components and their respective functions also about the principles guiding the digital transformation
 introduction primary computer components primary computer components deep dive audio visual components audio visual components deep dive bringing it all together digital transformation using technology that transforms fedex digitally transforms to connect the world driving human progress by addressing global challenges
+</DOC>
 
-client hardware troubleshooting
+<DOC>client hardware troubleshooting
 this is designed to prepare you to service client hardware products about various client products diagnostics troubleshooting and more
 preboot environment and diagnostics troubleshooting client hardware industry standard client technology service information
+</DOC>
 
-enterprise hardware foundations
+<DOC>enterprise hardware foundations
 this will equip you with foundational knowledge of enterprise servers cover the common server components and their respective functions server technology concepts are also covered
 data center fundamentals server form factors data center storage data center networking ii data centers raid data center storage ii data center virtualization data centers and the cloud introduction to servers introduction to storage solutions introduction to raid raid levels continued raid configurations server system setup server operating systems
+</DOC>
 
-enterprise hardware troubleshooting
+<DOC>enterprise hardware troubleshooting
 is designed to prepare you to understand and troubleshoot enterprise products about various types of infrastructure technologies including servers networking and storage
 enterprise servers enterprise system management software enterprise networking enterprise networking switches and configurations enterprise storage concepts enterprise storage systems enterprise storage solutions enterprise storage area networks enterprise storage fibre channel enterprise network attached storage
 </DOC>
-
 <DOC>
 dell technologies customer service for technical support
 this is designed for aspiring it professionals who are eager to excel in the dynamic field of technical support no previous is necessary this is aimed at equipping participants with the essential and knowledge to navigate the complexities of customer service operational procedures and performance enhancement in the it sector
 throughout the learners will be introduced to a variety of techniques for identifying and addressing customer expectations ensuring that they can deliver service that not only meets but exceeds customer needs in addition participants will delve into the best practices that govern operational procedures in it settings gaining insights into how to maintain high standards of service delivery finally the will explore strategies for continuous improvement empowering learners to leverage common performance metrics to drive personal and organizational growth this is a part of the dell technologies technical customer support specialist curriculum
-
-principles of customer service
+</DOC>
+<DOC>principles of customer service
 essential customer service discover how to create a positive customer during phone calls explore techniques for identifying and addressing customer expectations through effective questioning and communication additionally gain the ability to handle disagreements with customers and escalate when needed
 welcome addressing customer expectations addressing problems concerns and requests empathy and transparency developing a customer mindset
+</DOC>
 
-operational procedures
+<DOC>operational procedures
 this provides participants with essential knowledge and for effectively managing customer complaints the focuses on assessing various strategies to address customer concerns resolve issues and maintain positive customer relationships participants will practical techniques to handle complaints efficiently and enhance overall operational effectiveness
 complaint resolution process listening to your customer resetting expectations combatting horror stories customer positions
+</DOC>
 
-building customer relationships
+<DOC>building customer relationships
 focuses on the methods strategies and processes companies use to create and maintain strong connections with their customers participants will explore the critical importance of fostering loyalty and trust
 building rapport active listening for tech support
+</DOC>
 
-metrics and continuous improvement
+<DOC>metrics and continuous improvement
 this focuses on understanding key performance metrics in customer service about various metrics used to evaluate customer service performance and how to interpret them additionally explore strategies for identifying areas of improvement implementing changes and measuring the impact of those changes
 customer service metrics feedback analysis and root cause identification process optimization training and for optimization
 </DOC>
-
 <DOC>
 dell technologies technical support introduction
 this is designed to equip aspiring tech support professionals with the knowledge and strategies needed to thrive in the fastpaced world of technical support this is perfect for individuals looking to start a in tech support or seasoned professionals aiming to refine their and advance their careers no previous background or training is necessary to be successful
 through a series of comprehensive participants will about the crucial roles and responsibilities of tech support professionals the key factors that contribute to success in the field effective strategies for acing job interviews and methods for staying current with industry trends by the end of the learners will have a clear understanding of what it takes to excel in tech support and how to position themselves as top candidates competitive industry
-
-introduction
+</DOC>
+<DOC>introduction
 get an of what a in tech support could look like for you about what it takes to be a tech support and various paths your could take once you get started also discuss some of the key characteristics and qualities needed to be successful in in customer support also hear directly from sales managers about what they look for when they interview candidates
 welcome to the explore tech support careers what is a tech support what products do you support what is a typical like who are your collaborators what roles do phone calls and chats play what do you like most about tech support factors for success in tech support important traits and characteristics for tech support professionals advice for tech support professionals transferable tech support journeys journey kevin journey billi journey demetrious tech support interview strategies interview prep resume advice interview advice the star method tips from hiring managers
-
-foundational
-is all about the foundational need to in tech support things like time management active listening and communication will be essential to your success as a tech support cover strategies for making the most of your time and tips for crafting business communications
-business communications time management urgent vs important tasks active listening
-
-understanding technical support in the tech ecosystem
-explore the critical role of technical support within the dynamic tech industry gain insights into the key role support professionals play in maintaining seamless technology
-
-product knowledge and continuous learning
-the need for product knowledge is ever expanding explore strategies for staying uptodate with industry trends mastering product features and fostering a culture of continuous learning discover how product knowledge enhances customer interactions drives innovation and contributes to organizational success
 </DOC>
 
+<DOC>foundational
+is all about the foundational need to in tech support things like time management active listening and communication will be essential to your success as a tech support cover strategies for making the most of your time and tips for crafting business communications
+business communications time management urgent vs important tasks active listening
+</DOC>
+
+<DOC>understanding technical support in the tech ecosystem
+explore the critical role of technical support within the dynamic tech industry gain insights into the key role support professionals play in maintaining seamless technology
+</DOC>
+
+<DOC>product knowledge and continuous learning
+the need for product knowledge is ever expanding explore strategies for staying uptodate with industry trends mastering product features and fostering a culture of continuous learning discover how product knowledge enhances customer interactions drives innovation and contributes to organizational success
+</DOC>
 <DOC>
 dell technologies networking security technical support
 this is designed for aspiring it professionals network administrators and cybersecurity enthusiasts the aims to equip learners with the necessary to effectively troubleshoot network connectivity issues and to understand the critical nature of cybersecurity in todays digital landscape
 over the of various participants will delve into the complexities of network configurations and common connectivity challenges they will also explore the significance of cybersecurity to identify common security threats and understand the best practices for safeguarding information through a blend of theoretical knowledge and practical application this will prepare learners to tackle realworld networking and security scenarios confidently this is designed for learners seeking to gain a foundational understanding of networking and cybersecurity no previous is necessary with a strong emphasis on practical and realworld application participants will be wellprepared to address the challenges of network connectivity and security this is a part of the dell technologies technical customer support specialist curriculum
-
-networking foundations
+</DOC>
+<DOC>networking foundations
 is like having a backstage pass to understanding how the internet works uncover the secrets of common networking components explore the layers that keep data flowing smoothly and even peek into the different ways networks can be set up
 introduction networking network architectures networks in the real world
+</DOC>
 
-network troubleshooting
+<DOC>network troubleshooting
 strategies for troubleshooting networks equip you with the methods and tools needed to unravel connectivity mysteries diagnose issues and restore smooth data flow whether its comparing ip settings investigating layers or documenting failed attempts be the hero who keeps networks humming
+</DOC>
 
-security foundations
+<DOC>security foundations
 to spot common cybersecurity threats also unravel the significance of cybersecurity frameworksthose invisible scaffolds that protect our digital world demystify their role and explore how they shape secure practices by the end be armed with knowledge to safeguard networks and data
 cybersecurity threats and business impacts cybersecurity incident management introduction to cybersecurity frameworks analyzing cybersecurity frameworks benefits of nist framework implementation of cybersecurity frameworks understanding it and cybersecurity risk concepts of risk management risk assessment risk management standards frameworks and implementation
+</DOC>
 
-security troubleshooting
+<DOC>security troubleshooting
 explore essential cybersecurity practices how to develop a robust cybersecurity plan and compare various cybersecurity tools and approaches to enhance your understanding finally devise effective incident management strategies to safeguard against cyber threats
 analyzing the cybersecurity process cybersecurity control mechanisms cybersecurity tools
 </DOC>
-
 <DOC>
 dell technologies technical support for software
 this is tailored for aspiring tech support specialists this is designed to deepen your understanding of common operating systems streamline installation procedures and equip you with robust troubleshooting techniques for software issues
 throughout this participants will explore the intricacies of widelyused operating systems understand their nuances and to navigate and resolve common software challenges effectively by combining theoretical knowledge with practical handson exercises this ensures that learners are wellprepared to manage and support various operating systems in diverse computing environments this is ideal for individuals seeking to solidify their technical foundation enhance their resume and advance their careers in the it industry upon completion participants will have a greater understanding of the key features and troubleshooting techniques for common operating systems positioning them as valuable assets in an entrylevel tech support or it role
-
-common tools
+</DOC>
+<DOC>common tools
 learners will become familiar with the tools that play an integral role in tech support operations the is designed to give participants not only the understanding of the functionality of these tools but also how to apply them effectively in their daytoday tech support roles
 welcome to the of common tools microsoft office tools ticket management systems
+</DOC>
 
-operating systems
+<DOC>operating systems
 deepen your understanding of the core functions of operating systems this is designed to solidify the foundational knowledge required to navigate and troubleshoot various operating systems effectively through a blend of theoretical instruction and practical application explore the essential components and mechanisms that enable operating systems to provide a stable environment for applications to function
 understanding operating systems troubleshooting operating system issues importance of security and operating system updates
+</DOC>
 
-software troubleshooting
+<DOC>software troubleshooting
 delve into the principles underlying software architecture common software problems and various triedandtrusted solutions to identify analyze and address softwarerelated issues swiftly and accurately thus minimizing downtime and improving system efficiency
 basics of software troubleshooting diagnosing software errors remote software support
+</DOC>
 
-advanced software troubleshooting
+<DOC>advanced software troubleshooting
 is about elevating your skillset with mastery in diagnosing software issues optimizing its performance and ensuring its compatibility across various platforms
 operating system architecture advanced diagnostic tools and utilities advanced problem resolution strategies
 </DOC>
-

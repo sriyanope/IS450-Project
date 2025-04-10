@@ -13,173 +13,186 @@ through handson labs use the aws management console to apply learned in the and 
 <DOC>
 data analytics and databases on aws
 data is everywhere if you or your company dont know what data you have and what insights you can uncover through your data you are at a competitive disadvantage get introduced to data analytics and the upside of datadriven decisions about the omnipresence of data in todays world and what it takes to start thinking and acting like a data analyst concludes by comparing and contrasting etl extract transform load and eltextract load transform and where data is transformed and how data warehouses retain data kicks off with an of data workflow and database foundations the four vs volume velocity variety and veracity of data are explained along with walkthroughs of collecting processing and storing data in the courses final get briefed on some of the aws services that can be leveraged for etl extract data with amazon api gateway process data with aws lambda load data with amazon rds and visualize data with amazon quicksight theres the right tool for each unique data analysis task
-
-foundations of data analysis
+</DOC>
+<DOC>foundations of data analysis
 welcome to the first of the this introduces fundamental concepts in data analysis you begin the with how to assess use cases for data analysis in the cloud then you explore some of the main data types and structures and how metadata can help you manage datasets lastly you complete the by contrasting two dataprocessing approaches for analytics extract transform and load etl and extract load and transform elt
 welcome to the introduction why data analytics thinking like a data analyst data types and structures understanding metadata etl hello world closing
+</DOC>
 
-etl pipeline and database foundations
+<DOC>etl pipeline and database foundations
 you start learning about the etl pipeline with an emphasis on the realworld scenario through each step you how to gather data ensure data quality locate the appropriate storage or database and evaluate insights after you examine the etl process you assess sql and nosql databases and interact with a handson activity to practice your
 introduction the e in etl extract the t in etl transform the l in etl load sql and nosql databases whats the difference sql query examples closing
+</DOC>
 
-aws services for etl
+<DOC>aws services for etl
 you review aws services for data analysis and reinforce your learning through practical labs these services include amazon api gateway amazon relational database service amazon rds amazon dynamodb and amazon quicksight you review these services in the aws management console and evaluate how you can use each service in the etl process then you gain practical by working with some of these service in a preconfigured environment
 introduction why do data analytics in the cloud extracting data with amazon api gateway processing data with aws lambda loading data with amazon rds relational database service loading data with dynamodb nonrelational database service visualizing data with amazon quicksight choosing the right tool for the job wrapup
 </DOC>
-
 <DOC>
 developing applications in python on aws
 this gives you a thorough introduction to the python programming language start by learning the definition of python its history semantics and how it works the first concludes by writing a python script to solve a problem in about serverless architectures and understand the differences between microservices serviceoriented and monolith architectures build a microservices architecture by learning how to use the following tools aws lambda amazon api gateway and cloud its then time to go deep with aws databases see amazon rds and amazon dynamodb in action visualizing the important role they play in developing applications in python the courses final will cover application integration services amazons simple notification service sqs simple queue service sqs and eventbridge take center stage as important glue components for scalable cloudbased applications close the with a handson project writing some code to use some hardcoded data to write to dynamodb and then convert that into a lambda function
-
-welcome to the
+</DOC>
+<DOC>welcome to the
 this starts with how to develop applications in a team an application engineer doesnt alone and you how an engineer interacts with roles such as architects product managers quality assurance qa support and devops teams next you the basics of python programming the goal is to get you to the level where you can read and understand some basic python code if you already know a programming language many of the features of python will look similar to the programming languages you already know
 welcome to the developing in a team introduction python hello world python variables and types python conditionals python functions python lists and dictionaries python loops putting it all together python packages wrap up
+</DOC>
 
-architecture comparison
+<DOC>architecture comparison
 this focuses on software architecture you about aws lambda as a home for your application code you also investigate three different types of application architecture microservices architecture monolithic architecture and serviceoriented architecture you walk through a conceptual ecommerce application and compare how to build an application based on each architecture type next you how to expose your application logic as an application programming interface api in a lab environment you deploy a lambda function and an amazon api gateway api by using the aws serverless application model aws sam
 introduction microservice applications vs service oriented vs monolith aws lambda foundational concepts building aws lambda functions host apis with amazon api gateway working with aws services using the aws sdk wrap up
+</DOC>
 
-database
+<DOC>database
 you about using a database for your application data you explore both relational databases with amazon relational database service amazon rds and nosql databases with amazon dynamodb you about the differences between relational databases and nosql databases and when you would choose one type of database instead of the other you also explore different examples of how to access relational databases and dynamodb from a python application
 introduction introduction to amazon relational database integrating amazon rds introduction to amazon dynamodb integrating amazon dynamodb wrap up
+</DOC>
 
-messaging services
+<DOC>messaging services
 this introduces you to another way that you can integrate your applications by using messaging and event buses you how to integrate applications by creating a topic in amazon simple notification service amazon sns and adding multiple subscribing applications you then explore how an application sends messages to an amazon simple queue service amazon sqs queue and how consumer applications retrieve messages from that queue next you investigate eventdriven applications which are another type of application architecture you how an application can be designed as a series of both events and applications that create and respond to these events finally you how an application can receive filter transform route and deliver events by using amazon eventbridge
 introduction messaging with amazon simple notification service sns messaging with amazon simple queue service sqs event buses with amazon eventbridge wrap up graded project
 </DOC>
-
 <DOC>
 providing technical support for aws workloads
 as a cloud consultant you might be working with companies of various sizes based on a companys unique business needs you might be responsible for evaluating their existing business solutions and offering more efficient cloud resources understand the types of services available and their capabilities and know how to appropriately map the right solution for each unique use case gain familiarity with the aws cloud infrastructure support methods and mitigation techniques the begins with a review of aws infrastructure including a review of the foundational compute networking storage and database services then get introduced to the troubleshooting mindset and about the tools available and the importance of making a plan then get the details on troubleshooting with aws services amazon ec amazon lambda amazon vpc before closing the with preventative controls and scenarios when using amazon s amazon rds aws iam and aws organizations by completion of this be wellversed in listening to a customers cloud technology concerns and how to best position the most efficient and costeffective solution
-
-troubleshoot cloudrelated issues
+</DOC>
+<DOC>troubleshoot cloudrelated issues
 welcome to the first of providing technical support for aws workloads you gain the fundamental knowledge and necessary to troubleshoot cloudrelated issues you begin the by reviewing the basics of the aws infrastructure after that you about aws support methods and how to identify paths that best for your customers needs lastly you examine troubleshooting techniques and resources as part of this process you also find out how to contact aws support and use available resources to search for answers
 introduction introduction review of aws infrastructure aws support methods troubleshooting mindset customer scenario for support contacting technical support closing
+</DOC>
 
-troubleshooting aws services
+<DOC>troubleshooting aws services
 you focus on troubleshooting aws services such as amazon elastic compute cloud service amazon ec aws lambda and amazon virtual private cloud amazon vpc for each service you evaluate common challenges that users might then you explore reallife troubleshooting scenarios identify the root cause of issues and implement effective solutions
 introduction avoiding common issues in ec ec instance connectivity issues customer scenario for ec avoiding common issues in aws lambda customer scenario for aws lambda avoiding common connectivity issues in amazon vpc amazon vpc flow logs customer scenario for amazon vpc closing
+</DOC>
 
-topical customer scenarios
+<DOC>topical customer scenarios
 you continue to explore how to troubleshoot scenarios this time you define preventative measures that you can take to avoid encountering common issues in amazon simple storage service amazon s amazon relational database service amazon rds aws identity and access management iam and aws organizations you review various scenarios where users issues and then identify tools and methods to help these users resolve the issues you also about best practices to prevent potential challenges
 introduction amazon s preventative measures customer scenarios for amazon s amazon relational database service preventative measures aws identity and access management preventative measures customer scenario for iam aws organizations preventative measures customer scenario for aws organizations closing
 </DOC>
-
 <DOC>
 for working as an aws cloud consultant
 being a successful cloud consultant is finding the balance of soft and hard when investigating and solving customer problems this is designed to improve students understanding of key soft necessary to become successful cloud consultants
 the courses first provides foundational knowledge of what cloud consulting is and then dives into important for solving customers business problems during the second students how to with customers gather requirements propose a solution plan and build out the project monitor progress and conclude final tasks and how different soft can help them throughout all stages of the process the third of the focuses on helping students develop and maintain strong business relationships the main emphasis of is on developing soft that are necessary to build relationships earn trust manage changes establish a brand and build a good reputation finally in students receive different recommendations and techniques on how to design a plan to improve their soft and grow as a leader
-
-thinking as a cloud consultant
+</DOC>
+<DOC>thinking as a cloud consultant
 one starts by answering a couple of fundamental questions what is a cloud consultant and what do they do you explore the basic functions of this role to help you decide if being a cloud consultant is a job youd like to pursue in addition you about critical thinking and analytical which are important to the business world and for cloud consultants you explore what they are how to develop them and some strategies that you can employ on your next business project
 welcome to the introducing consulting in the cloud is cloud consulting the right job for me developing critical thinking problem solving analyzing business problems closing
+</DOC>
 
-designing solutions and managing projects
+<DOC>designing solutions and managing projects
 in two you take on the role of a cloud consultant who is working with a customer you start the by walking through a common project for a cloud consultant migrating a workload from an onpremises data center to aws during this process you about the types of meetings that you might and the different types of job functions that you might perform in the organization by the end of the you should have a solid understanding of the different tasks and activities that a cloud consultant might do in their workday
 introducing meeting with customers completing business and performance analysis proposing a solution to customers planning and estimating projects building out projects tracking progress wrapping up the project closing
+</DOC>
 
-managing relationships
+<DOC>managing relationships
 three focuses on building and maintaining business relationships in business who you know can be as important as what you know you focus on building and maintaining a network of connections in addition to networking its important for you to develop your own brand to that end you also explore how you can establish your brand and maintain a positive image in the business world
 introducing developing and managing relationships the power of networking establishing a brand closing
+</DOC>
 
-building your
+<DOC>building your
 in four you explore how you can continuously improve your set because business is always changing you should also consider how you can keep evolving your you how to create a plan to develop your and on addressing your weaknesses as you develop new its important to manage your time and make the most out of what you have at the end of the you the principles behind designing effective resumes and then you go handson to review and update your own resume
 introducing upskilling with a plan improving your productivity what is your dream job closing
 </DOC>
-
 <DOC>
 devops on aws and project management
 curious about how software gets built tested and deployed do you wonder how a team of multiple people on a code base youve heard about devops but are you sure you understand what it means
 if youve wondered about these questions this is for you cover the basic steps you need to take to dive into the wonderful world of devops and project management in about the definition and characteristics of a project introduce project management best practices including how to justify your project developing a project and a project plan the will conclude with an of all phases of the software development lifecycle the continues with an of the pitfalls and perils of working without project management principles then introduce common project frameworks such as waterfall agile scrum and kanban in define a continuous integrationcontinuous development pipeline introduce source control and get handson by learning how aws codecommit and aws codebuild can help you when it is time to build the closes by highlighting the importance of testing and the various types of testing to consider when to deploy code and the different strategies that are available a closing exercise will have you interacting with cloud codecommit codebuild codedeploy codepipeline
-
-defining the project
+</DOC>
+<DOC>defining the project
 in the first section of this you focus on answering the question what is a project you how to break a project down into the individual pieces that need to be defined before moving on to explore best practices for project management at the end of the you about the software development lifecycle sdlc process and how the sdlc can be used to build new applications
 welcome to the what is a project project management best practices what is sdlc sdlc best practices wrap up
+</DOC>
 
-project management methodologies
+<DOC>project management methodologies
 in the second section of this you explore two different project management methodologies waterfall and agile understanding the use cases behind each methodology is key to using them in the proper situations you end this section learning about scrum and kanban and how you can combine agile with devops to help quickly build test and deploy your software
 intro why do we need project management waterfall agile scrum kanban where does devops fit in wrap up
+</DOC>
 
-introduction to devops
+<DOC>introduction to devops
 in the third section of this you expand your knowledge of devops concepts starting with source control you how to properly store your code and collaborate with your team members to make changes next you explore how you can automate the build stage of your application with aws codebuild and jenkins finally you get a chance to go handson in the lab environment and apply these best practices to a project
 intro cicd pipeline source control basics of git aws codecommit building your code jenkins deeper dive into jenkins aws codebuild wrap up
+</DOC>
 
-building a better pipeline
+<DOC>building a better pipeline
 in the final section of this you continue to expand your understanding of devops concepts you about the remaining portions of the cicd pipeline by exploring the testing stage and finally the deployment stage when a software project has completed going through the cicd pipeline you have software that works and is ready to go to production you end this by completing a handson exercise where you combine different aws developer tools to form your own cicd pipeline
 intro testing your code deploying your code deployment strategies aws codedeploy aws codepipeline wrap up
 </DOC>
-
 <DOC>
 introduction to information technology and aws cloud
 technology is omnipresent but how did we get here and what does the future hold for a world thats increasingly connected mobile and datarich this is intended to give learners enough technical context to understand how to build solutions in the cloud starting from zero technical knowledge before diving into the cloud cover the basics of how do computers including software and operating systems an introduction to information technology the basics of modern it infrastructure and the cloud careers that will be increasingly indemand then move into the world of internet connected networks the internet covering local hosts web servers web applications web security the inner workings of a website and the differences between static and dynamic content close the by introducing cloud computing its role in our world the differences between public private and hybrid and why apis are so important
-
-foundational it knowledge
+</DOC>
+<DOC>foundational it knowledge
 before you can about the aws cloud effectively you need to have a strong understanding of information technology it basics in the first you about the most basic concepts in it such as computers servers data centers operating systems software hardware and more starts your understanding of it and the material will get progressively deeper as you progress through the
 welcome to the introduction how do computers introduction to it basics of modern it infrastructure traditional it job roles lets talk about software operating systems operating systems and the command line what is os virtualization wrap up
+</DOC>
 
-it and the internet
+<DOC>it and the internet
 in you dive deeper into technical concepts that are related to networking and the internet you about web applications web servers hypertext markup language html cascading style sheets css javascript js the domain name system dns internet security protocols and more by gaining more understanding about how the technological world is connected you build a solid foundation so that you can start learning about the aws cloud
 introduction the localhost theres no place like web servers and web applications whats the difference anatomy of a website what happens when i load a website in a browser dns basics it security basics putting all the pieces together wrap up
+</DOC>
 
-the aws cloud
+<DOC>the aws cloud
 in you finally arrive at the aws cloud you discover what the cloud is and why its becoming the new normal in it you about the six advantages of the cloud and you also explore some of the foundational services in aws and their use cases by the end of this be ready to dive deep into the aws cloud
 introduction why is cloud the new normal aws public cloud components what are apis and why the term elasticity is so common advantages of cloud computing it job roles and the cloud cloud consulting ideas and how to get involved aws cloud in action closing
 </DOC>
-
 <DOC>
 capstone following the aws architected framework
 this provides a thorough review of the aws wellarchitected framework to help you understand how to make informed decisions about your architecture in a cloudnative way and understand the impact of design decisions by using the wellarchitected framework you can understand the risks in your architecture and ways to mitigate them
 in the walk through each of the frameworks six pillars which help you produce stable and efficient systems the operational excellence pillar includes the ability to support development and run workloads effectively gain insight into their operation and continuously improve supporting processes and procedures to delivery business value the security pillar includes the ability to protect data systems and assets to take advantage of cloud technologies to improve your security the reliability pillar encompasses the ability of a workload to perform its intended function correctly and consistently when its expected to the performance efficiency pillar includes the ability to use computing resources efficiently to meet system requirements the cost optimization pillar includes the ability to run systems to deliver business value at the lowest price point the final pillar sustainability addresses the longterm environmental economic and societal impact of your business activities
-
-the aws wellarchitected framework
+</DOC>
+<DOC>the aws wellarchitected framework
 the first of this explores the aws wellarchitected framework why it was created and how to use it you dive into three of the wellarchitected framework pillars operational excellence reliability and security you about the basic design principles for each pillar and you also review examples for applying these best practices
 introduction introduction introduction to the wellarchitected framework using the aws wellarchitected framework pillar operational excellence pillar reliability pillar reliability part pillar security pillar security part wrap up
+</DOC>
 
-the wellarchitected framework continued
+<DOC>the wellarchitected framework continued
 in the second you continue your journey with the wellarchitected framework by learning about the next three pillars performance efficiency cost optimization and sustainability by following a similar pattern to the previous you first about each pillars design principles you then review an example architecture where you apply the aws best practices that are outlined in the wellarchitected framework
 introduction pillar performance efficiency pillar performance efficiency part pillar cost optimization pillar cost optimization part pillar sustainability pillar sustainability part the wellarchitected tool wrap up
+</DOC>
 
-preparing to be an aws cloud consultant
+<DOC>preparing to be an aws cloud consultant
 in the third and final you start exploring your next steps for your cloud journey to get a job working with aws its likely that need to handson with aws and build out your aws you about some of the different options that you have for building on aws while youre still learning and you also how to highlight this to potential employers you then explore interviewing tips and review a bank of sample technical interview questions which you can use to practice your technical interviewing finally you complete the capstone project where you apply the wellarchitected framework to an architecture and write a document that answers questions from each pillar
 introduction getting hands on with aws aws certification sharing your aws knowledge interviewing capstone introduction closing
 </DOC>
-
 <DOC>
 aws cloud technical essentials
 are you in a technical role and want to the fundamentals of aws do you aspire to have a job or as a cloud developer architect or in an operations role if so aws cloud technical essentials is an ideal way to start this was designed for those at the beginning of their cloudlearning journey no prior knowledge of cloud computing or aws products and services required
 throughout the students will build highly available scalable and cost effective application stepbystep upon completion be able to make an informed decision about when and how to apply core aws services for compute storage and database to different use cases also about cloud security with a review of aws shared responsibility model and an introduction to aws identity and access management iam and know how aws services can be used to monitor and optimize infrastructure in the cloud aws cloud technical essentials is a fundamentallevel and will build your competence confidence and credibility with practical cloud that help you innovate and advance your future enroll in aws cloud technical essentials and start learning the technical fundamentals of aws today note this was designed for learners with a technical background if you are new to the cloud or come from a business background we recommend completing aws cloud practitioner essentials httpswwwcourseraorglearnawscloudpractitioneressentials before enrolling
-
-aws and security
+</DOC>
+<DOC>aws and security
 welcome to aws cloud technical essentials the definition of cloud computing and how to describe the cloud value proposition how to differentiate between workloads that run onpremises versus in the cloud and how to create an aws account also get an of amazon web services including how to differentiate between aws regions and availability zones and the different ways that you can interact with aws finally best practices for using aws identity and access management iam
 welcome to aws cloud technical essentials meet the instructors feedback introduction to aws global infrastructure interacting with aws security and the aws shared responsibility model protect the aws root user introduction to aws identity and access management role based access in aws introduction to lab demo aws iam hosting the employee directory application on aws
+</DOC>
 
-compute networking
+<DOC>compute networking
 welcome to where how aws compute services differ from other aws services the content for covers the basic components of amazon elastic compute cloud amazon ec architecture and how to differentiate between a container and a virtual machine also about the features and advantages of using serverless technologies basic networking concepts and the features of amazon virtual private cloud amazon vpc
 introduction to compute as a service on aws introduction to amazon elastic compute cloud amazon ec instance lifecycle demonstration launching the employee directory application container services on aws introduction to serverless serverless with aws fargate introduction to aws lambda choose the right compute service networking on aws introduction to amazon vpc amazon vpc routing secure your network with amazon vpc security hybrid connectivity with aws introduction to lab demo relaunching employee directory app
+</DOC>
 
-storage databases on aws
+<DOC>storage databases on aws
 welcome to important concepts for aws storage servicessuch as buckets and objects for amazon simple storage service amazon s and how amazon elastic block store amazon ebs is used on aws also explore databases on aws and the use cases for each aws storage service
 introduction to storage types on aws amazon ec instance storage and amazon elastic block store object storage with amazon s choose the right storage service demo creating an amazon s bucket explore databases on aws amazon relational database service purpose built databases on aws introduction to amazon dynamodb introduction to exercise demo creating an amazon dynamodb table
+</DOC>
 
-monitoring optimization
+<DOC>monitoring optimization
 welcome to where about the benefits of monitoring on aws and how to optimize solutions on aws also about the function of elastic load balancing elb and how to differentiate between vertical scaling and horizontal scaling
 introduction to monitoring on aws introduction to amazon cloudwatch optimizing solutions on aws amazon ec auto scaling route traffic with amazon elastic load balancing introduction to lab demo making employee directory application redesigning the employee directory introduction to amazon bedrock introduction to amazon q amazon q developer basics amazon q developer demonstration amazon q developer security scanning
 </DOC>
-
 <DOC>
 automation in the aws cloud
 automation in the cloud can simplify processes enable agility and scalability and help you deploy faster but how should you master these topics to enhance your potential the kicks off by introducing automation in the cloud comparing the differences between onpremises and cloud answer why automation is so powerful and get handson by working with aws cli closes with automation with scripting by sharing examples of how automation helps and the benefits of using scripts a focus on automation isnt complete with an of infrastructure as code get introduced to provisioning and configuration management and solve an automation problem with aws cloudformation the instructors will then share some simple automation examples and how various tools can help you get the job done in the courses final cover the various aws services and features used for automation how to scale resource management and use the systems manager console and aws config for compliance
-
-why automate
+</DOC>
+<DOC>why automate
 this starts by defining what the concept of automation means before moving on to cover some of the basic components that you can use for automation in the cloud is divided in two parts introduction to automation and automation with scripting during the first part of the introduction to automation the you about the context of automation in the and explore how cloud computing facilitates automated tasks you also more about apis and the basics of how to use the aws command line interface aws cli in the second part of this automation with scripting you get an introduction to the basics of scripting languages about best practices for writing scripts and receive a crash in the bash scripting language this also offers a handson lab focused on using the aws cli for automation so you can gain practical with scripting tasks
 welcome to the the difference between onpremises and the cloud thanks to apis for making automation possible aws cli introduction what does automation actually mean lets talk about scripting bash crash wrapup
+</DOC>
 
-infrastructure as code
+<DOC>infrastructure as code
 in the second of the you focus your learning on a relevant industry topic automating things by using code which is also known as infrastructure as code iac understanding iac is crucial for operationalizing automation with proper iac you can start automating how you provision infrastructure in a declarative way instead of writing scripts for every task this is designed so that you gain a solid understanding about aws cloudformation and its importance for automation this is also subdivided into two major topics infrastructure as code and configuration as code first you about the difference between iac and configuration as code before exploring the details of each modality iac focuses on provisioning architectures by using a declarative language in contrast configuration as code focuses on using automation to configure fleets of servers that are currently running this also provides and handson activities that focus on aws cloudformation so that you can about cloudformation by using it
 introduction introduction to provisioning and configuration management aws cloudformation introduction aws cloudformation sample part diagram aws cloudformation sample part cloud technologists discussion automation best practices configuration management industry tools for automation wrapup
+</DOC>
 
-aws services and features used for automation
+<DOC>aws services and features used for automation
 similar to the previous the final is divided in two segments resource management best practices and scaling resource management in resource management best practices you start by learning some techniques for provisioning amazon elastic compute cloud amazon ec instances you about and compare different methods of instance bootstrapping and about ec instance metadataa dedicated layer where instances can get information about themselves you also explore ideas about how to combine these features to create automation solutions and best practices on how to for organizing aws resources by using tags for compliance and access control in scaling resource management you how to use aws systems manager and aws config to set up automation for maintenance and continuous compliance this includes and a handson activity with systems manager
 introduction amazon ec bootstrapping with user data amazon ec instance metadata organizing your aws resources aws systems manager part aws systems manager part aws config your compliance friend wrapup
 </DOC>
-

@@ -14,62 +14,68 @@ the concludes with a projects in which use learnings from the first and second c
 applications of software architecture for big data
 the is intended for individuals who want to build a productionquality software system that leverages big data
 apply the basics of software engineering and architecture to create a productionready distributed system that handles big data build data intensive distributed system composed of loosely coupled highly cohesive applications this can be taken for academic credit as part of cu boulders ms in data science or ms in computer science degrees offered on the coursera platform these fully accredited graduate degrees offer targeted courses short sessions and payasyougo tuition admission is based on performance in three preliminary courses not academic history cu degrees on coursera are ideal for recent graduates or working professionals more ms in data science httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder ms in computer science httpscourseraorgdegreesmscomputerscienceboulder
-
-project
+</DOC>
+<DOC>project
 welcome to applications of software architecture for big data this is a projectbased where apply the knowledge and gained from the entire software architecture for big data first about the expectations for the project as as how to establish the features you need to get started with your own
 project introduction example codebase project selection white board architecture
-
-mvp development environment
-about the concept of a minimum viable product mvp and how to incrementally add features to the mvp additionally show you how to get going with a development environment and set up appropriate tests
-what is an mvp testing continuous integration continuous delivery
-
-affixing features
-builds upon your previously created mvp now how to create a database populate the database as as analyze the data in the database the ends with further elaboration on testing
-handling data rest api
-
-scaling your mvp wrapping up
-add more features to your project including collaborative messaging end by building a simple health check for production monitoring and discuss acceptance testing
 </DOC>
 
+<DOC>mvp development environment
+about the concept of a minimum viable product mvp and how to incrementally add features to the mvp additionally show you how to get going with a development environment and set up appropriate tests
+what is an mvp testing continuous integration continuous delivery
+</DOC>
+
+<DOC>affixing features
+builds upon your previously created mvp now how to create a database populate the database as as analyze the data in the database the ends with further elaboration on testing
+handling data rest api
+</DOC>
+
+<DOC>scaling your mvp wrapping up
+add more features to your project including collaborative messaging end by building a simple health check for production monitoring and discuss acceptance testing
+</DOC>
 <DOC>
 fundamentals of software architecture for big data
 the is intended for individuals looking to understand the basics of software engineering as they relate to building large software systems that leverage big data be introduced to software engineering concepts necessary to build and scale large data intensive distributed systems starting with software engineering best practices and loosely coupled highly cohesive data microservices the takes you through the evolution of a distributed system over time
 this can be taken for academic credit as part of cu boulders ms in data science or ms in computer science degrees offered on the coursera platform these fully accredited graduate degrees offer targeted courses short sessions and payasyougo tuition admission is based on performance in three preliminary courses not academic history cu degrees on coursera are ideal for recent graduates or working professionals more ms in data science httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder ms in computer science httpscourseraorgdegreesmscomputerscienceboulder
-
-software engineering
+</DOC>
+<DOC>software engineering
 welcome to fundamentals of software architecture for big data in the first of this the basics of modern software engineering how our industry progresses over time practice test driven development and implement widely used data structures
 introduction welcome introduction dayinthelife introduction practices no silver bullet testing the basics testing revisited tech stack
+</DOC>
 
-fundamentals of software architecture
+<DOC>fundamentals of software architecture
 the fundamentals of software architecture how to evolve an architecture over time how to within a large codebase and a bit about blockchain
 blockchain blockchain application continuum introduction application continuum evolution application continuum wrap up
+</DOC>
 
-fundamentals of production software
+<DOC>fundamentals of production software
 the fundamentals of monitoring software in production how to create reliable background jobs how to calculate and communicate service availability and how to implement production metrics and monitoring
+</DOC>
 
-fundamentals of software architecture for big data
+<DOC>fundamentals of software architecture for big data
 last of the the fundamentals of production quality databases and messaging systems understand the tradeoffs between consistency and availability how to implement database transactions to improve consistency and how to implement messaging systems to improve availability
 cap theorem introduction the milk problem event collaboration
 </DOC>
-
 <DOC>
 software architecture patterns for big data
 the is intended for individuals looking to understand the architecture patterns necessary to take large software systems that make use of big data to production
 transform big data prototypes into high quality tested production software after measuring the performance characteristics of distributed systems identify trouble areas and implement scalable solutions to improve performance upon completion of the know how to scale production data stores to perform under load designing load tests to ensure applications meet performance requirements this can be taken for academic credit as part of cu boulders ms in data science or ms in computer science degrees offered on the coursera platform these fully accredited graduate degrees offer targeted courses short sessions and payasyougo tuition admission is based on performance in three preliminary courses not academic history cu degrees on coursera are ideal for recent graduates or working professionals more ms in data science httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder ms in computer science httpscourseraorgdegreesmscomputerscienceboulder
-
-predictive models
+</DOC>
+<DOC>predictive models
 welcome to software architecture patterns for big data first of the how to write tests that allow you to iterate on predictive models
 introduction to the introduction to match predictor codebase match predictor models
-
-performance of distributed systems
-how to ensure your distributed system operates as expected in production by writing performance tests
-contact tracing direct exchange introduction to email verifier codebase
-
-horizontal distribution of large workloads
-use queues to horizontally distribute large workloads
-performance testing custom benchmark consistent hash exchange
-
-highly available distributed systems
-in the last of this the advantages and disadvantages of high availability distributed systems
 </DOC>
 
+<DOC>performance of distributed systems
+how to ensure your distributed system operates as expected in production by writing performance tests
+contact tracing direct exchange introduction to email verifier codebase
+</DOC>
+
+<DOC>horizontal distribution of large workloads
+use queues to horizontally distribute large workloads
+performance testing custom benchmark consistent hash exchange
+</DOC>
+
+<DOC>highly available distributed systems
+in the last of this the advantages and disadvantages of high availability distributed systems
+</DOC>

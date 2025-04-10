@@ -10,87 +10,95 @@ learners will create and scope a research proposal conduct desk research in a pr
 qualitative research
 the second in the market research go indepth with qualitative market research methods from design to implementation to analysis
 define qualitative research and how it differs from quantitative research explore the various qualitative research methods and evaluate when and how to use them for your research project design the qualitative instruments necessary for your interviews or focus groups and plan your recruitment efforts write questions and prompts to ask in an interview or focus group design a moderator guide and a screening questionnaire to use when recruiting your participants recruit participants for your focus group and apply techniques to ensure they show up and participate act as a moderator during your focus group and apply strategies to handle various types of situations probe responses and engage participants in a group discussion while collecting qualitative data and keep the discussion moving organize and analyze the data you have collected transcribe the audio from your focus group or interview and interpret your notes write a focus group report that can be presented to your stakeholders and see how this information might relate to your quantitative research take qualitative research as a standalone or as part of the market research you should have equivalent to completing the first research report initiating research before taking this by completing the second class in the gain the needed to succeed in the full
-
-getting started and qualitative research
+</DOC>
+<DOC>getting started and qualitative research
 be able to define qualitative research and distinguish it from quantitative research be able to practice choosing from various methods for conducting qualitative research recognize limitations of qualitative research avoid associated risks and confidently decide to use qualitative market research when it is appropriate given a business question be able to distinguish good and bad qualities for a qualitative researcher and be able to start secondary research for a qualitative investigation of a problem or project
 introduction qualitative market research introduction essential components of qualitative research choosing qualitative research in the market research process choosing qualitative research in a business case scenario common qualitative research methods part background observational and panel research common qualitative research methods part indepth interviews and focus groups limitations and risk of qualitative market research accept limitations mitigate risks and communicate both good and bad qualities for conducting qualitative research begin qualitative investigation of a problem or project
+</DOC>
 
-design qualitative instruments and plan recruiting
+<DOC>design qualitative instruments and plan recruiting
 be able to write questions applying best practices for qualitative research design a moderator guide with all essential components and design a screening questionnaire to identify suitable participants for your qualitative research be able to use these instruments as you progress and identify the best places and practices to recruit key informants and focus group participants
 design qualitative instruments and plan recruiting introduction best practices for writing questions and probes topic saturation process for qualitative research and conducting indepth interviews assessing questions by topics and sequence designing a moderator guide designing a screener or screening questionnaire recruitment planning and best practices various ways to recruit for qualitative research
+</DOC>
 
-conduct a focus group
+<DOC>conduct a focus group
 transition into applying what youve learned previously to conduct a focus group from design to implementation be able to clarify the purpose of focus groups for qualitative market research and associated best practices be able to build on and use the instruments you designed in the previous here write confirmation letters and talking points to get the right participants to show up for your focus group be able to identify common pitfalls experienced moderators know and be able to avoid them be able to practice the essential needed to moderate a focus group
 introduction to focus groups from design to implementation the purpose and objectives of a focus group recruiting for a focus group getting the right participants to show up introduction to focus groups icebreakers and introductions inviting others to contribute collecting thoughts on a flipchart guiding them to prioritize dealing with a rambler pair talking to each other allowing group to redirect your plan guiding conversation as it takes its everyone talking at once handling a debate concluding remarks
+</DOC>
 
-analyze interpret and communicate qualitative market research data
+<DOC>analyze interpret and communicate qualitative market research data
 be able to make decisions about transcription of a focus group interpret focus group notes analyze qualitative data to identify common categories and themes be able to explain what goes into a focus group report including the appropriate words that are expected be able to describe best practices and the components of a qualitative research report also be able to develop qualitative findings that inform the improvement of a quantitative survey design which helps bridge into the next this is also where gather and polish the practice exercises youve been building all along to complete your project a qualitative market research focus group report
 analyze interpret and communicate qualitative market research data introduction focus group transcription process and options interpreting focus group notes analyzing qualitative data components of a focus group report writing a focus group report bridging from qualitative to quantitative research
 </DOC>
-
 <DOC>
 research proposal initiating research
 market research is a growing and important field that is used in many industries around the world given all the data that is collected whether by organizations industries social media governments etc its important that someone can review and sift through all the noise to provide valuable insights and thats where you come in as a market researcher this will only scratch the surface and provide you a foundational understanding of this field
 be able to define market research and identify some tools used in the industry be able to discuss the importance of secondary and internal research in terms of the planning process be able to define what primary research is and identify the various ways to conduct primary research be able to focus on an actual research plan or proposal for your peer review project be able to compose a response to a request for a proposal or research plan and be able to address the various components of the proposal and package it in a manner
-
-getting started and introduction to market research
+</DOC>
+<DOC>getting started and introduction to market research
 be able to define what market research is and identify the tools that are used be able to discuss the various motivations behind a research inquiry and what goes into a market research request define the services the roles and the qualities of a market researcher also be able to identify constraints to help you ask the right questions finally be able to respond to a market research proposal
 introduction survey to build our database introduction to market research defining market research motivation for market research requests for market research the services roles and qualities of a market researcher complexities constraints and questions to ask planning a response to a market research inquiry
+</DOC>
 
-secondary and internal research
+<DOC>secondary and internal research
 be able to recognize the importance of secondary and internal research in the planning process be able to assess the value and credibility of the secondary and internal data you have at your disposal also be able to identify a starting point should a new client approach you recognize the pros and cons of each method of research and be able to budget appropriately and decide what type of market researcher you need or want to be for a given project
 introduction to secondary and internal research the importance of secondary and internal research secondary and internal research in the planning process starting cold with secondary and internal research pros and cons of secondary and internal research three levels of a market researcher budget considerations while initiating market research developing your research further
+</DOC>
 
-primary research introduction
+<DOC>primary research introduction
 be able to discuss various primary research methods for collecting data be able to define what primary research is and be able to choose the appropriate method for your proposal be able to consider various sampling and survey methods and even the less used observational method
 introduction to primary research defining primary research sampling and a sampling frame deciding on the kind of sampling and how many to sample observational research surveys methods and tools in qualitative research
+</DOC>
 
-research plan or proposal
+<DOC>research plan or proposal
 be able to write a research proposal for a client be able to recognize and take action when a proposal has been requested be able to collect and compose the necessary proposal requirements and be able to professionally package your proposal be able to apply strategies on how to followup with a client about your proposal and be able to take action when you are awarded the bid
 introduction to market research plan or proposal how a research plan or proposal might be presented components of a research plan or proposal part components of a research plan or proposal part packaging the research plan or proposal how to follow up with your client you won the project now what
 </DOC>
-
 <DOC>
 research report delivering insights
 you have completed all the hard of conducting your internal secondary and primary research you have analyzed all the data and are able to formulate insights and recommendations based on your research proposal but what is the best way to present your findings and be able to make a decision
 discuss how to incorporate a story in your marketing presentation to help you capture the attention and gain support of stakeholders and business leaders choose the most effective analytical method for delivering your insights and the best presentation method for your given audience incorporate data visualization best practices and use tips and tricks when presenting to your various levels of decision makers and stakeholders
-
-getting started synthesizing findings and deriving insights
+</DOC>
+<DOC>getting started synthesizing findings and deriving insights
 youve gathered your data from qualitative and quantitative market research where do you go from there at this stage need to synthesize your findings and derive valid and actionable insights that will help to solve the business problem be able to find the story in the data and shape it to contribute to a compelling market research presentation be able to synthesize the data select the appropriate tools to analyze your product or service and determine how consumers view your market be able to evaluate market positioning and market segmentation see how to use conjoint analysis to compare the relative value of product features or attributes and perceptual maps to help tell the story of consumers in your market and provide actionable comparisons also define terminology and essential concepts that will equip you to be conversant and more confident in the market research field
 introduction synthesizing findings and deriving insights introduction finding the story in your research market positioning using perceptual maps market segmentation segmentation variations and benefits conjoint analysis performing conjoint analysis a design checklist of the who what why and how start with your stakeholders the art of storytelling past present and future storytelling and the human brain emotional modulators color language and other design elements false narratives and data storytelling
+</DOC>
 
-measuring various marketing efforts
+<DOC>measuring various marketing efforts
 up to this point youve synthesized findings and derived insights to address a business problem however once youve implemented a marketing plan seeking to reach the target market and engage them with the business product or service how do you know if the marketing efforts are working thats what focus on compare and contrast traditional advertising with digital advertising and social media marketing be able to track consumers through the stages of the purchase funnel and plan ways to effectively market to them at each point along that journey toward a purchase weigh the pros and cons of social media and wordofmouth advertising that have become essential digital strategies also be able to build and track a social media marketing plan learning various effective ways to attribute sales back to specific marketing efforts
 measuring various marketing efforts introduction advertising and your market research plan designing a digital advertising framework attributing sales to advertising strategizing social media and word of mouth building and tracking your social media marketing plan
+</DOC>
 
-planning to communicate findings
+<DOC>planning to communicate findings
 doing the research and analyzing the data is important but how you communicate those findings is critical this is all about equipping you to implement a plan to make sure that the way you communicate your market research is worthy of all the that went into gathering and analyzing it use proven methods for developing researchbased recommendations testing and refining your ideas before you create your presentation be able to apply storytelling strategies to increase your impact be able to select the best methods to deliver findings and choose the appropriate data visualization techniques for various situations and kinds of data also be able to recognize the drawbacks of poor data visualization and make sure you are presenting your data and market research to help clients and stakeholders make marketing decisions that will solve the business problem and lead to success
 planning to communicate findings introduction developing recommendations testing and refining ideas use storytelling to increase effectiveness choosing best method to deliver findings data visualization part data visualization part drawbacks of poor data visualizations
+</DOC>
 
-designing and presenting ideas
+<DOC>designing and presenting ideas
 there are certain expectations of a market research report or presentation you have prepared to communicate your findings however you still have to construct your presentation this covers the building blocks and required sections that are industry standards in a market research presentation review the essential sections of a market research report and offer further directions for designing visualizations of your data be able to complete a market research presentation with the requisite sections and design a presentation that caters to a specific audience be able to deliver researchbased ideas and findings through a story that will cast your client in the hero role also be able to deliver actionable recommendations that will help solve your clients business problem and isnt that the point of all the research done prior to this part of the process
 designing and presenting your ideas introduction designing your visualizations creating a presentation part sections and style creating a presentation part building blocks creating a presentation part closing sections and guidelines presenting your ideas design for understanding know your audiences data relationships and design language labeling and scales visual lies and cognitive bias interview with robin boyar interview with aaron carpenter
 </DOC>
-
 <DOC>
 quantitative research
 obtain some insights about marketing to help determine whether there is an that actually exists in the marketplace and whether it is valuable and actionable for your organization or client
 assess methods available for creating quantitative surveys along with their advantages and disadvantages identify the type of questions that should be asked and avoid unambiguous survey questions design test and implement a survey by identifying the target audience and maximizing response rates have an to use qualtrics a survey software tool to launch your own survey analyze statistical models that can be applied to your marketing data so that you can make datadriven decisions about your marketing mix predict most likely from the marketing decisions and match the type of analysis needed for your business problem take quantitative research as a standalone or as part of the market research you should have equivalent to completing the second qualitative research before taking this by completing the third class in the gain the needed to succeed in the full
-
-getting started and preparing to design a quantitative survey for market research
+</DOC>
+<DOC>getting started and preparing to design a quantitative survey for market research
 be able to identify the business objectives and assess the suitability for quantitative research be able to build on qualitative findings to help inform a survey be able to discuss the various types of surveys and take steps to design and implement a survey also be able to recognize and avoid common survey pitfalls
 introduction introduction to preparing to design a quantitative survey for market research identifying business objectives assessing suitability of quantitative research building on qualitative findings to inform a quantitative survey introduction to various types of quantitative surveys online surveys telephone surveys inperson surveys direct mail surveys steps to design and implement a survey part steps to design and implement a survey part recognizing and avoiding common pitfalls
+</DOC>
 
-designing and implementing a quantitative survey
+<DOC>designing and implementing a quantitative survey
 be able to delineate the market segment and select your survey method be able to identify the appropriate sample sources and determine appropriate sample size while maximizing your response rate be able to design a questionnaire and appropriate response options be able to perform quality control on survey questions and test and launch your survey
 introduction to designing and implementing a quantitative survey delineating the market segment selecting the survey methods maximizing response rates maximizing response rates administering a survey maximizing response rates level of trust selecting appropriate sample sources determining appropriate sample size designing a questionnaire designing appropriate response options performing quality control pretesting your survey
+</DOC>
 
-analyzing a survey
+<DOC>analyzing a survey
 be able to review your survey data and look for any errors be able to analyze your survey conducting descriptive and inferential analysis techniques to test your hypotheses be able to conduct association analysis and causal analysis with your data please note that this features a fair amount of advanced statistics related math throughout the optional activities setup as practice quizzes have been provided to help reinforce what youre learning
 analyzing a survey introduction reviewing your data and looking for errors the importance of scales descriptive analysis nominal data descriptive analysis ordinal and interval data inferential analysis confidence interval testing hypotheses part testing hypotheses part an example application association analysis comparing groups of people association analysis chisquare test association analysis correlation analysis causal analysis
+</DOC>
 
-assess approaches and interpret quantitative study results
+<DOC>assess approaches and interpret quantitative study results
 be able to assess the various approaches for analyzing your data be able to consider multiple variables throughout your analysis and be able to interpret your results like the last this features a fair amount of advanced statistics related math several optional activities setup as practice quizzes have been provided to help reinforce what youre learning
 assess approaches and interpret study results introduction regression and errors multiple variables using multiple variables multiple regressions understanding what drives pricing binary regression segmentation and cluster analysis factor analysis conjoint analysis
 </DOC>
-

@@ -18,102 +18,114 @@ upon completion of this learners will have created a project charter project tea
 six sigma advanced define and measure phases
 this is for you if you are looking to dive deeper into six sigma or strengthen and expand your knowledge of the basic components of green belt level of six sigma and lean six sigma are widely sought by employers both nationally and internationally these have been proven to help improve business processes and performance this will take you deeper into the principles and tools associated with the define and measure phases of the dmaic structure of six sigma
 it is highly recommended that you complete the yellow belt and the six sigma and the organization advanced before beginning this your instructors will introduce you to and have you apply some of the tools and metrics that are critical components of six sigma this will provide you with the advanced knowledge of team dynamics and performance process analysis probability statistics statistical distributions collecting and summarizing data measurement systems analysis process and performance capability and exploratory data analysis associated with six sigma and lean every will include and quizzes to help make sure you understand the material and concepts that are studied registration includes online access to content projects and resources but does not include the companion text the certified six sigma green belt handbook nd edition the companion text is not required to complete the however the text is a recognized handbook used by professionals in the field also it is a highlyrecommended text for those wishing to move forward in six sigma and eventually gain certification from agencies such as american society for quality asq
-
-yellow belt refresher team basics
+</DOC>
+<DOC>yellow belt refresher team basics
 this is a yellow belt refresher area since some learners may have entered this without having taken the previous yellow belt material this refresher area does not serve as a replacement for taking the yellow belt it is only a patch for those who already have some knowledge of six sigma but find the yellow belt to be too introductory for their current situation if you find yourself struggling with the green belt material it is highly recommended that you travel through the yellow belt before attempting the green belt content about team development different types of teams tools for decision making and tools for communication
 explaining yellow belt refresher areas the importance of teams in quality improvement types of teams stages of team development brainstorming team decision tools agendas minutes and status reports
+</DOC>
 
-process analysis and documentation
+<DOC>process analysis and documentation
 the application of process maps and flow charts swim lane also about the application of written procedures and works instructions cedac the pareto diagram and the relationship matrix
 introduction process mapping and flow charts written procedures instructions cedac pareto diagrams relationship matrix
+</DOC>
 
-probability and statistics pt
+<DOC>probability and statistics pt
 how mutuallyexclusive events and independent events relate to probability also how to solve basic probability problems including those that require the addition multiplicative and conditional rules of probability
 basic probability concepts mutually exclusive independent events addition rules for probability conditional probability multiplicative rules
+</DOC>
 
-probability and statistics pt
+<DOC>probability and statistics pt
 how to solve probability problems related to combinations and permutations also about central limit theorem and how to apply it to the concept of confidence intervals this also touches on descriptive and inferential statistics
 combinations and permutations the central limit theorem clt the central limit theorem clt applications descriptive vs inferential statistics
+</DOC>
 
-statistical distribution
+<DOC>statistical distribution
 about the basic characteristics of probability distributions also about binomial normal poisson t chisquare and fdistributions
 characteristics of probability distribution yellow belt refresher the binomial distribution yellow belt refresher binomial calculations yellow belt refresher poisson distribution calculating probabilities using the normal distribution yellow belt refresher chi square tdistribution fdistribution
+</DOC>
 
-collecting and summarizing data measuring system analysis
+<DOC>collecting and summarizing data measuring system analysis
 the different types and sources of data also how to classify groups of data for descriptive statistics analysis different ways to graphically display data how to express the importance of measurement systems analysis and the difference between precision and accuracy this also begins with a yellow belt refresher area since some learners may have entered this without having taken the previous yellow belt material this refresher area does not serve as a replacement for taking the yellow belt material it is only a patch for those who already have some knowledge of six sigma but find the yellow belt to be too introductory for their current situation if you find yourself struggling with the green belt material it is highly recommended that you travel through the yellow belt before attempting the green belt content
 explaining the yellow belt refresher areas basic statistics pt basic statistics pt collecting and summarizing data pt collecting and summarizing data pt collecting and summarizing data pt measuring system analysis pt measuring system analysis pt
+</DOC>
 
-process and performance capability exploratory data analysis
+<DOC>process and performance capability exploratory data analysis
 how to use statistical tools and analyze data including like how to distinguish between natural process limits and specification limits how to calculate the value of cp and ck how to deal with process capability studies this also addresses multivari studies the the correlation coefficient and linear regression
 process and performance designing process performance analyzing process capability control chart interpretation multivariable study types of correlation yellow belt refresher correlation linear regression
 </DOC>
-
 <DOC>
 six sigma advanced improve and control phases
 this is for you if you are looking to dive deeper into six sigma or strengthen and expand your knowledge of the basic components of green belt level of six sigma and lean six sigma are widely sought by employers both nationally and internationally these have been proven to help improve business processes and performance this will take you deeper into the principles and tools associated with the improve and control phases of the dmaic structure of six sigma
 it is highly recommended that you complete the yellow belt and the courses six sigma and the organization advanced six sigma advanced define and measure phase and six sigma advanced analyze phase before beginning this your instructors will introduce you to and have you apply some of the tools and metrics that are critical components of six sigma this will provide you with the advanced knowledge of root cause analysis lean tools control plan process control and statistical process control spc as they are associated with six sigma and lean every will include and quizzes to help make sure you understand the material and concepts that are studied registration includes online access to content projects and resources but does not include the companion text the certified six sigma green belt handbook nd edition the companion text is not required to complete the however the text is a recognized handbook used by professionals in the field also it is a highlyrecommended text for those wishing to move forward in six sigma and eventually gain certification from agencies such as american society for quality asq
-
-root cause analysis
+</DOC>
+<DOC>root cause analysis
 dr bill bailey will cover root cause analysis which includes the step model counter measure and singleminute exchange of die smed this also begins with a yellow belt refresher area since some learners may have entered this without having taken the previous belt material this refresher area does not serve as a replacement for taking the material it is only a patch for those who already have some knowledge of six sigma but find the yellow belt to be too introductory for their current situation if you find yourself struggling with the green belt material it is highly recommended that you travel through the yellow belt before attempting the green belt content
 yellow belt refresher area explained purpose of lean cause and effect diagrams whys fmea pt fmea pt fmea pt introduction step model more tools for root cause counter measures singleminute exchange of die smed
-
-lean tools
-dr bill bailey will cover a more advance use of lean tools including a look at the lean philosophy lean goals and lean systems also be exposed to three important case studies this also begins with a yellow belt refresher area since some learners may have entered this without having taken the previous yellow belt material this refresher area does not serve as a replacement for taking the yellow belt material it is only a patch for those who already have some knowledge of six sigma but find the yellow belt to be too introductory for their current situation if you find yourself struggling with the green belt material it is highly recommended that you travel through the yellow belt before attempting the green belt content
-yellow belt refresher areas explained poka yoke removing waste kaizen kan ban s process mapping vid process mapping vid value stream mapping total productive maintenance visual management smed introduction lean philosophy visual management lean goals lean tools systems case study case study case study
-
-statistical process control spc control plan
-dr david cook will cover statistical process control spc and control plan
-statistical process control part statistical process control part statistical process control part statistical process control part control plan
-
-lean tools for process control
-dr david cook will cover lean tools for process control
-lean tools for process control part lean tools for process control part
-
-capstone project for completion of green belt
-this is the capstone project you should only complete this project if you have taken all three previous yellow belt courses six sigma fundamentals six sigma tools for define and measure and six sigma tools for analyze and you want to complete this it should be noted that completing the green belt does not give the learner accreditation in six sigma however successful completion will assist in better preparation for such accreditation testing
 </DOC>
 
+<DOC>lean tools
+dr bill bailey will cover a more advance use of lean tools including a look at the lean philosophy lean goals and lean systems also be exposed to three important case studies this also begins with a yellow belt refresher area since some learners may have entered this without having taken the previous yellow belt material this refresher area does not serve as a replacement for taking the yellow belt material it is only a patch for those who already have some knowledge of six sigma but find the yellow belt to be too introductory for their current situation if you find yourself struggling with the green belt material it is highly recommended that you travel through the yellow belt before attempting the green belt content
+yellow belt refresher areas explained poka yoke removing waste kaizen kan ban s process mapping vid process mapping vid value stream mapping total productive maintenance visual management smed introduction lean philosophy visual management lean goals lean tools systems case study case study case study
+</DOC>
+
+<DOC>statistical process control spc control plan
+dr david cook will cover statistical process control spc and control plan
+statistical process control part statistical process control part statistical process control part statistical process control part control plan
+</DOC>
+
+<DOC>lean tools for process control
+dr david cook will cover lean tools for process control
+lean tools for process control part lean tools for process control part
+</DOC>
+
+<DOC>capstone project for completion of green belt
+this is the capstone project you should only complete this project if you have taken all three previous yellow belt courses six sigma fundamentals six sigma tools for define and measure and six sigma tools for analyze and you want to complete this it should be noted that completing the green belt does not give the learner accreditation in six sigma however successful completion will assist in better preparation for such accreditation testing
+</DOC>
 <DOC>
 six sigma advanced analyze phase
 this is for you if you are looking to dive deeper into six sigma or strengthen and expand your knowledge of the basic components of green belt level of six sigma and lean six sigma are widely sought by employers both nationally and internationally these have been proven to help improve business processes and performance this will take you deeper into the principles and tools associated with the analyze phase of the dmaic structure of six sigma
 it is highly recommended that you complete the yellow belt and the courses six sigma and the organization advanced and six sigma advanced define and measure phase before beginning this your instructors will introduce you to and have you apply some of the tools and metrics that are critical components of six sigma this will provide you with the advanced knowledge of hypothesis testing and design of experiments as they are associated with six sigma and lean every will include and quizzes to help make sure you understand the material and concepts that are studied registration includes online access to content projects and resources but does not include the companion text the certified six sigma green belt handbook nd edition the companion text is not required to complete the however the text is a recognized handbook used by professionals in the field also it is a highlyrecommended text for those wishing to move forward in six sigma and eventually gain certification from agencies such as american society for quality asq
-
-hypothesis testing
+</DOC>
+<DOC>hypothesis testing
 dr greg wiles will introduce you to the principle of hypothesis testing in six sigma including the ztest and the ttest dr bailey will also explain confidence intervals paired comparison tests anova and chisquare
 hypothesis test ztest hypothesis test ttest confidence intervals paired comparison tests anova chisquare
+</DOC>
 
-design of experiments doe part
+<DOC>design of experiments doe part
 dr christina scherrer will begin the twomodule journey through design of experiments doe
 intro to design of experiments factors levels and treatments variables effects interaction and experimental error ways to mitigate experimental error the doe process
+</DOC>
 
-design of experiments doe part
+<DOC>design of experiments doe part
 dr christina scherrer will conclude the twomodule journey through design of experiments doe
 interpreting main effects interaction effects introduction to anova full vs fractional factorial design of doe
 </DOC>
-
 <DOC>
 six sigma and the organization advanced
 this is for you if you are looking to dive deeper into six sigma or strengthen and expand your knowledge of the basic components of green belt level of six sigma and lean six sigma are widely sought by employers both nationally and internationally these have been proven to help improve business processes and performance this will introduce you to the purpose of six sigma and its value to an organization about the basic principles of six sigma and lean your instructors will introduce you to and have you apply some of the tools and metrics that are critical components of six sigma this will provide you with the basic knowledge of the principles roles and responsibilities of six sigma and lean
 every will include and a quiz to help make sure you understand the material and concepts that are studied also have the to participate in discussions and peer review exercises to give you the to apply the material to your daily life registration includes online access to content projects and resources but does not include the companion text the certified six sigma green belt handbook nd edition the companion text is not required to complete the however the text is a recognized handbook used by professionals in the field also it is a highlyrecommended text for those wishing to move forward in six sigma and eventually gain certification from agencies such as american society for quality asq
-
-six sigma and the organization
+</DOC>
+<DOC>six sigma and the organization
 welcome to the six sigma green belt six sigma are widely sought by employers both nationally and internationally these help to improve business processes and performance your team of instructors dr bill bailey dr david cook dr christine scherrer and dr gregory wiles currently in the college of engineering and engineering technology at kennesaw state university they have collaborated to create a that is all encompassing of the six sigma methodologies for both yellow and green belt completion of this will provide you with the knowledge to either continue to full six sigma certification or simply advance your knowledge professionally be introduced to how six sigma interacts with the organization lean principles and project management basics
 six sigma philosophy luminaries and path to six sigma what is process significance of six sigma green belt roles dmaic cost benefit analysis key concepts
+</DOC>
 
-lean principles in the organization
+<DOC>lean principles in the organization
 dr bill bailey will introduce you to the history of lean as as new lean concepts dr bailey will also explain the five lean principles in addition this will introduce you to more quality tools used in lean this also begins with a yellow belt refresher area since some learners may have entered this without having taken the previous yellow belt material this refresher area does not serve as a replacement for taking the yellow belt material it is only a patch for those who already have some knowledge of six sigma but find the yellow belt to be too introductory for their current situation if you find yourself struggling with the green belt material it is highly recommended that you travel through the yellow belt before attempting the green belt content
 explaining yellow belt refresher areas purpose of lean value stream mapping jit and kan ban poka yoke value to the organization suboptimization kaizen and kaizen blitz pdca cost benefit analysis cost of quality introduction history of lean lean principles lean concepts the toyota way theory of constraints important tools measuring and monitoring
+</DOC>
 
-design for six sigma
+<DOC>design for six sigma
 dr david cook will introduce you to design for six sigma
 design for six sigma pt design for six sigma pt
+</DOC>
 
-project identification voc project management basics
+<DOC>project identification voc project management basics
 dr david cook will introduce you to project identification voice of the customer and project management as it pertains to six sigma
 project selection process elements sipoc identifying stakeholders voice of the customer critical to satisfaction quality function deployment defining project charter developing a project plan
+</DOC>
 
-management and planning tools business results for projects
+<DOC>management and planning tools business results for projects
 dr bill bailey will introduce you to management planning tools and business results for projects this also begins with a yellow belt refresher area since some learners may have entered this without having taken the previous yellow belt material this refresher area does not serve as a replacement for taking the yellow belt material it is only a patch for those who already have some knowledge of six sigma but find the yellow belt to be too introductory for their current situation if you find yourself struggling with the green belt material it is highly recommended that you travel through the yellow belt before attempting the green belt content
 yellow belt refresher areas explained cause and effect diagrams checksheets flow charts and process mapping pdca defects per unit defects per million roll throughput yield affinity diagram activity network diagram multivoting nominal group technique force field analysis prioritization matrices sipoc tree diagrams control charts pt control charts pt introduction kano model voice of the customertools for measure benchmarking and balanced scorecard more team tools d problem solving process capability
 </DOC>
-

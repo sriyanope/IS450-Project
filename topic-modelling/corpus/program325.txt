@@ -19,75 +19,84 @@ projects investigate a realworld security breach identifying the attack vulnerab
 incident response and digital forensics
 this ibm will teach you the critical needed to manage and investigate cybersecurity incidents about key topics including incident response frameworks nist and sans digital forensics methodologies and best practices for handling digital evidence through handson labs and projects gain practical in detecting analyzing and mitigating cybersecurity threats as as conducting forensic investigations using industrystandard tools
 by the end of the be equipped to implement incident response plans collect and analyze digital evidence and report findings to support cybersecurity efforts this is ideal for learners looking to strengthen their expertise in digital forensics and incident response making it an essential component for those aiming to advance in the cybersecurity field
-
-incident response
+</DOC>
+<DOC>incident response
 this focuses on the concept and importance of incident response about the key preparatory steps for incident response and the importance of thorough documentation throughout the incident response process delve into detection and analysis techniques used to identify and understand security incidents followed by containment eradication and recovery strategies to prevent further damage and restore systems the also highlights the tools and automation technologies that enhance response efforts and covers postincident activities by the end of this be wellequipped to manage and mitigate security incidents effectively
 introduction what is incident response incident response preparation incident response detection and analysis containment eradication and recovery postincident activities
-
-digital forensics
-this explores the essential aspects of digital forensics and investigation it provides an of digital forensics and highlights its importance in investigating cyber incidents the data collection and examination methods including using cowrie for log investigation the covers key topics about handling digital evidence to ensure integrity analyzing and reporting findings and understanding forensic data files the introduces various digital forensics tools and includes practical activities to apply knowledge in simulated investigations additionally it covers the factors influencing data recovery by the end of this be able to conduct thorough digital forensic investigations
-digital forensics data collection and examination analysis and reporting forensic data data files
-
-final project and wrapup
-peer review plugins
 </DOC>
 
+<DOC>digital forensics
+this explores the essential aspects of digital forensics and investigation it provides an of digital forensics and highlights its importance in investigating cyber incidents the data collection and examination methods including using cowrie for log investigation the covers key topics about handling digital evidence to ensure integrity analyzing and reporting findings and understanding forensic data files the introduces various digital forensics tools and includes practical activities to apply knowledge in simulated investigations additionally it covers the factors influencing data recovery by the end of this be able to conduct thorough digital forensic investigations
+digital forensics data collection and examination analysis and reporting forensic data data files
+</DOC>
+
+<DOC>final project and wrapup
+peer review plugins
+</DOC>
 <DOC>
 cybersecurity case studies and capstone project
 gain the realworld of cybersecurity analysis employers look for with this handson capstone
 analyze reallife breach response case studies in areas such as phishing vishing point of sale pos breaches insider threats airelated breaches and ransomware attacks discover how attackers exploit vulnerabilities and how organizations respond and prevent future incidents additionally gain expertise in incident response digital forensics penetration testing and compliance through engaging case study analysis complete several handson activities to assess response strategies and propose improvements the concludes with a final project where select a realworld data breach identify vulnerabilities and assess the root cause actions taken and response strategies plus a structured template will guide you to critically record observations and propose actionable improvements for breach management this capstone is a fantastic to talk about in interviews if youre keen to add practical cybersecurity to your resume enroll today to complete this valuable capstone project in just six weeks
-
-analyzing case study layouts and phishing case studies
+</DOC>
+<DOC>analyzing case study layouts and phishing case studies
 be introduced to the fundamentals of case study analysis equipping you with techniques to interpret assess and draw insights from realworld scenarios about the format for analyzing case studies effectively this also includes an indepth look at the cisco cyber threat trends report providing insights into global cyber threats and emerging phishing tactics additionally delve into the critical aspects of case study analysis within cybersecurity focusing mainly on phishing scams and vishing
 introduction exploring case studies how to analyze case studies of phishing scams phishing case study google and facebook vishing case study south korean doctor
+</DOC>
 
-analyzing pos and insider breach case studies
+<DOC>analyzing pos and insider breach case studies
 explore critical types of cybersecurity breaches focusing on pos and insider threats about pos breaches and how cybercriminals exploit pos systems with malware and steal payment data through skimming techniques through realworld case studies to analyze attackers tactics and techniques also examine insider breaches gaining insight into detection methods and the impact of internal threats finally to interpret assess and draw insights from insider breach case studies analyzing key strategies to mitigate these vulnerabilities
 point of sale breach pos malware and skimming point of sale pos case study target home depot point of sale pos case study of insider breaches insider threat detection insider breach case study vault insider breach case study pegasus airlines
+</DOC>
 
-analyzing airelated breaches and ransomware case studies
+<DOC>analyzing airelated breaches and ransomware case studies
 explore the complex landscape of cybersecurity threats focusing on airelated data breaches and ransomware analyze the impact of ai on modern data breaches through case studies that illustrate realworld implications gain insights into the nature and impact of airelated data breaches and ransomware also develop to analyze and assess breach scenarios effectively allowing you to draw actionable insights and understand emerging cybersecurity trends
 of airelated breaches airelated breach case study deepfake conference call notable airelated breaches of ransomware breaches ransomware case study city of atlanta ransomware case study colonial pipeline
+</DOC>
 
-analyzing incident response and digital forensics case studies
+<DOC>analyzing incident response and digital forensics case studies
 how to effectively respond to security breaches and gather digital evidence through realworld case studies the will also provide insights into the methodologies and tools used in incident response and digital forensics enhancing your ability to assess security threats and implement effective countermeasures
 of incident response incident response case study google home incident response case study lightning strikes of digital forensics digital forensics case study bernard madoff digital forensics case study us versus ganias
+</DOC>
 
-analyzing penetration testing and compliance case studies
+<DOC>analyzing penetration testing and compliance case studies
 explore the essential concepts of penetration testing and compliance penetration testing methodologies including identifying vulnerabilities and assessing security measures additionally the covers compliance frameworks highlighting key lessons learned from compliance failures through realworld case studies gain a comprehensive understanding of these critical areas in cybersecurity and their implications for organizational security and risk management
 of penetration testing penetration testing case study equifax penetration testing case study xforce red of compliance compliance case study marriott compliance case study equiniti
+</DOC>
 
-final project and wrapup
+<DOC>final project and wrapup
 apply the knowledge gained in the to a final project that analyzes a data breach the also sums up the learning and highlights key takeaways and next steps
 introduction to the final project analyzing a data breach wrapup
 </DOC>
-
 <DOC>
 penetration testing threat hunting and cryptography
 the cost of a security breach averages nearly m ibm and is increasing every year so businesses are always looking for professionals who can anticipate threats and prevent them this ibm penetration testing threat hunting and cryptography builds expertise in identifying vulnerabilities protecting assets and using ai and cryptography techniques to strengthen an organizations cybersecurity posture
 during the explore the penetration testing phases and gain practical performing software pen testing and scanning code repositories also to create comprehensive pen testing reports perform threat hunting and integrate ai into threat intelligence plus to leverage cyber threat intelligence cti frameworks for effective threat identification finally explore cryptography including encryption decryption and hashing techniques while also learning about common cryptographic attacks and cryptanalysis methods to complete the handson labs and project require a laptop or desktop and basic knowledge of networking and cybersecurity this is ideal for existing and aspiring cybersecurity professionals looking to enhance their and advance their careers it is recommended that you have fundamental knowledge of it systems and cybersecurity principles prior to starting this if youre looking to build indemand cybersecurity in threat prevention enroll today in five weeks add penetration testing threat hunting and cryptography to your resume
-
-penetration testing planning and discovery phases
+</DOC>
+<DOC>penetration testing planning and discovery phases
 this provides an of the different phases of penetration testing which includes planning discovery attack verification and reporting also about the fundamental concepts of penetration testing and its importance the will focus on the planning and discovery phases the planning phase will cover the rules of engagement which ensure penetration tests are conducted ethically and legally then in the discovery phase be introduced to passive and active reconnaissance methods and google dorking
 introduction what is penetration testing penetration testing phases penetration testing planning phase penetration testing discovery phase
-
-penetration testing attack phase
-this focuses on the attack phase of penetration testing about the key actions involved in the attack phase including running exploits bypassing defenses gaining elevated privileges and initiating postattack activities also explore various penetration testing tools and perform port and website scans using online penetration tools further solidify your understanding of port scanning network scanning and network protocol analyzers through handson labs
-penetration testing attack phase port scanning of network protocol analyzers
-
-penetration testing reporting phase
-this focuses on the reporting phase of penetration testing while introducing the concepts of software and application pen testing how to scan code repositories for vulnerabilities and understand its benefits also understand the importance of the reporting phase create comprehensive penetration testing reports and implement the penetration testing execution standard ptes framework which provides insights into industry standards for reporting
-software and application pen testing scanning code repositories penetration testing reporting phase
-
-threat hunting and threat intelligence
-this provides an of threat hunting practices and the role of threat intelligence in cybersecurity explore various threat intelligence sources and how to review recent security threat reports using ibm xforce threat exchange also about threat intelligence platforms security information and event management siem systems threat intelligence frameworks and threat hunting models additionally gain insights into the role of ai in enhancing threat intelligence and hunting capabilities
-threat hunting threat intelligence security information and event management ai in threat intelligence and threat hunting threat intelligence framework
-
-cryptography principles and techniques
-this delves into the fundamental concepts and practices of cryptography covering essential techniques for ensuring data integrity confidentiality and authenticity gain insights into symmetric and asymmetric encryption algorithms like aes and rsa as as hashing techniques the also examines key management practices and crucial cryptographic techniques such as securing ssltls further it addresses common cryptographic attacks and cryptanalysis techniques providing a comprehensive understanding of cryptographic solutions for enhancing organizational security
-importance of cryptography of encryption decryption and hashing symmetric and asymmetric encryption common cryptographic attacks securing ssltls and strengthening key management cryptanalysis and its impact on encryption ibm quantum safe cryptography solutions
-
-final project and wrapup
-apply the knowledge gained in the in a final project the also wraps up the learning and highlights key takeaways and next steps
 </DOC>
 
+<DOC>penetration testing attack phase
+this focuses on the attack phase of penetration testing about the key actions involved in the attack phase including running exploits bypassing defenses gaining elevated privileges and initiating postattack activities also explore various penetration testing tools and perform port and website scans using online penetration tools further solidify your understanding of port scanning network scanning and network protocol analyzers through handson labs
+penetration testing attack phase port scanning of network protocol analyzers
+</DOC>
+
+<DOC>penetration testing reporting phase
+this focuses on the reporting phase of penetration testing while introducing the concepts of software and application pen testing how to scan code repositories for vulnerabilities and understand its benefits also understand the importance of the reporting phase create comprehensive penetration testing reports and implement the penetration testing execution standard ptes framework which provides insights into industry standards for reporting
+software and application pen testing scanning code repositories penetration testing reporting phase
+</DOC>
+
+<DOC>threat hunting and threat intelligence
+this provides an of threat hunting practices and the role of threat intelligence in cybersecurity explore various threat intelligence sources and how to review recent security threat reports using ibm xforce threat exchange also about threat intelligence platforms security information and event management siem systems threat intelligence frameworks and threat hunting models additionally gain insights into the role of ai in enhancing threat intelligence and hunting capabilities
+threat hunting threat intelligence security information and event management ai in threat intelligence and threat hunting threat intelligence framework
+</DOC>
+
+<DOC>cryptography principles and techniques
+this delves into the fundamental concepts and practices of cryptography covering essential techniques for ensuring data integrity confidentiality and authenticity gain insights into symmetric and asymmetric encryption algorithms like aes and rsa as as hashing techniques the also examines key management practices and crucial cryptographic techniques such as securing ssltls further it addresses common cryptographic attacks and cryptanalysis techniques providing a comprehensive understanding of cryptographic solutions for enhancing organizational security
+importance of cryptography of encryption decryption and hashing symmetric and asymmetric encryption common cryptographic attacks securing ssltls and strengthening key management cryptanalysis and its impact on encryption ibm quantum safe cryptography solutions
+</DOC>
+
+<DOC>final project and wrapup
+apply the knowledge gained in the in a final project the also wraps up the learning and highlights key takeaways and next steps
+</DOC>

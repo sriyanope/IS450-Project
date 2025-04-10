@@ -13,32 +13,36 @@ define your own userdefined functions
 create basic subroutines to interface with the user
 the basic programming structures in vba
 and automate excels goal seek and solver tools and use numerical techniques to create live solutions to solve targeting and optimization problems new to computer programming the extremely intuitive and visual nature of vba lends itself nicely to teaching and learning what a fun way to to code no prior knowledge in programming nor advanced math are necessary yet seasoned programmers will pick up new and creative spreadsheet problem solving strategies after you have learned the basics of vba each will introduce foundational and broad problems inspired by situations that you might encounter in the real world to pass each need to pass a mastery quiz and complete a problem solving this is unique in that the weekly are completed inapplication ie on your own computer in excel providing you with valuable handson training
-
-macro recording vba procedures and debugging
+</DOC>
+<DOC>macro recording vba procedures and debugging
 will introduce you to visual basic for applications vba and teach you the foundational tools required to create basic procedures in vba about different data types and the scope of variables how to troubleshoot your code when its not working and how to record basic macros using both absolute and relative referencing modes
 welcome what can you do with excelvba how the works how to switch sessions of the preview getting your feet wet saving your files as macroenabled workbooks recording basic macros absolute vs relative referencing during macro recording of procedures in vba why use option explicit declaration of variables data types and scope of variables how to troubleshoot when your code is not working properly preview and instructions
+</DOC>
 
-vba nuts bolts part
+<DOC>vba nuts bolts part
 in how to write proper vba syntax and basic mathematical expressions about objects properties methods and events and how to borrow common excel functions using vba code in addition how to move information to and from excel and the visual basic editor vbe
 preview vba syntax and expression entry part vba syntax and expression entry part a warning about exponentiation and ampersands introduction to objects properties methods and events common objects properties and methods how to borrow functions from excel examples part basic input and output in subroutines examples part basic input and output in subroutines examples part basic input and output in subroutines preview and instructions
+</DOC>
 
-vba nuts bolts part
+<DOC>vba nuts bolts part
 in how to create your own userdefined functions also how to call other subroutines and functions that reside in other files and how to design subroutines based on a modular approach finally basic error handling in vba
 preview how to make your own userdefined function how to convert a userdefined function to an excel addin how to troubleshoot your user defined functions why you dont use input and message boxes in functions how to handle basic user error in your subroutines an introduction to modular programming running a subroutine that resides in another file preview and instructions
+</DOC>
 
-programming structures in vba
+<DOC>programming structures in vba
 begins the meat of programming in vba and we are finally moving into some exciting problem solving about the common programming structures in vba sequence selection and repetition that form the foundation for advanced programming procedures several examples will highlight the utility of these programming structures
 preview how to implement oneway ifthen selection structures how to implement twoway ifthen selection structures all about the multialternative ifthen variable iteration loops doloops validating user input using a doloop creating a guessing game using a doloop all about fixed iteration fornext loops iterating through a selection vs a range putting it all together example putting it all together example example highlighting max and min values in a range using the for each next statement worked miniproject searching through high and low temperatures in an excel workbook preview and instructions
+</DOC>
 
-data management using vba
+<DOC>data management using vba
 one of the most valuable uses of vba is to manage large data sets in excel how to automate the processes of filtering sorting and removing duplicates additional strategies for cleaning up data the strategies learned will make you a valued vba user
 preview filtering basics filtering for multiple criteria part filtering for multiple criteria part highlighting or deleting rows that satisfy a certain criterion sorting basics removing duplicates example removing duplicates putting it all together cleaning data preview and instructions
+</DOC>
 
-rc style
+<DOC>rc style
 the final of this focuses on using the rc style of cell formatting this style in contrast to the default a style of referencing in excel makes it much easier and straightforward to perform advanced manipulations to excel worksheets several examples demonstrate the utility of the rc style
 preview when macro recording fails what is rc style the cells property the resize property example rc style example rc style preview and instructions
 </DOC>
-
 <DOC>
 excelvba for creative problem solving part
 excelvba for creative problem solving part builds off of knowledge and obtained in excelvba for creative problem solving part and is aimed at learners who are seeking to augment expand optimize and increase the efficiency of their excel spreadsheet by tapping into the powerful programming automation and customization capabilities available with visual basic for applications vba
@@ -46,46 +50,51 @@ in part of the learners will how to with arrays and importexport arrays fromto e
 how to with text strings and write data to txt files and import information from txt files
 automate the import modification and consolidation of information from multiple worksheets into a central worksheet as as the import of information from multiple workbooks to a central workbook
 and gain with creating user forms to interface with the user perform advanced calculations and manipulate data on the spreadsheet learners who have a foundational understanding of vba code and programming structures can jump right into part of the without taking part and use the screencasts in part as reference each will introduce foundational and broad problems inspired by situations that you might encounter in the real world to pass each need to pass a mastery quiz and complete a problem solving this is unique in that the weekly are completed inapplication ie on your own computer in excel providing you with valuable handson training
-
-arrays and array functions
+</DOC>
+<DOC>arrays and array functions
 in all about arrays and array functions how to iterate through arrays using nested fornext loops and for eachnext statements how to import data to vba from excel and export data to excel from vba how to create userdefined array functions and about the redim preserve statement for resizable arrays is concluded with a quiz which unlocks
 what how the works how to switch sessions of the introduction to arrays local arrays in vba importingexporting arrays fromto excel using arrays in subroutines and functions userdefined array functions example sortvector array function and ksmallest example extracting diagonal elements from a square matrix example residuals of simple linear regression redim preserve example redim preserve preview and instructions
+</DOC>
 
-working with strings and txt files
+<DOC>working with strings and txt files
 deals with text strings and text txt files about the string functions in excel and vba gain practice with string functions as you how to create functions in vba that utilize string functions how to extract strings such as email addresses from a spreadsheet of mixed string formats also how to write information from excel to txt files and also to import information in txt files to excel the is concluded with a quiz and
 how to use string functions in excel example how to create email addresses from last name first name format how to use string functions in vba example using string functions in vba example extracting email addresses from mixed string formats example vba array function for separating strings into component parts exporting data from excel to txt files importing data from txt files importing data from tabdelimited txt files example morse coder example morse decoder preview and instructions
+</DOC>
 
-iterating through worksheets and workbooks
+<DOC>iterating through worksheets and workbooks
 is all about iterating through automating worksheets and workbooks how to consolidate information from multiple worksheets into a single worksheet and how to automatically consolidate information found within multiple workbooks into a single worksheet of a single workbook the automation principles you are priceless is concluded with a quiz and a very challenging
 all about worksheets iterating through worksheets consolidating information in multiple worksheets into a single worksheet example counting total number of s in all worksheets of a workbook putting it all together consolidating employee schedules in multiple worksheets all about workbooks opening workbooks example importing and consolidating data from multiple files example counting s in multiple workbooks putting it all together consolidating employee schedules preview and instructions how to select a range using the input box method
+</DOC>
 
-user forms and advanced user inputoutput
+<DOC>user forms and advanced user inputoutput
 in about advanced input and message boxes and event handlers how to interface with the user in a manner using user forms that validate input and prevent the debug window and vbe from appearing also how to place combo boxes on user forms and populate those combo boxes with information on the spreadsheet finally how to put it all together and implement a solving technique bisection method to solve a real world problem in a user form is concluded with a quiz which unlocks
 advanced input boxes advanced message boxes event handlers introduction to user forms creating your first user form example fuel efficiency user form example tank volume user form dimming or not dimming variables in user forms input validation in user forms introduction to combo boxes part introduction to combo boxes part example periodic table user form optional putting it all together conversion solver user form preview and instructions
 </DOC>
-
 <DOC>
 excelvba for creative problem solving part projects
 learners will complete several vba projects it is highly recommended that learners first take excelvba for creative problem solving part and excelvba for creative problem solving part this builds off of learned in those two courses this is a projectbased therefore the projects are quite openended and there are multiple ways to solve the problems through the use of peer review other learners will grade learners projects based on a grading rubric
-
-getting started
+</DOC>
+<DOC>getting started
 this first introduces the and provides some background material paid learners have access to the files which are unlocked when you complete the unlock quiz
 welcome how to switch sessions of the
+</DOC>
 
-easy projects lesson choices
+<DOC>easy projects lesson choices
 peer reviews
 introduction to the currency converter project how to run a data query initializing the combo boxes and todays date importing data from the currency website using proper date format plotting the last days introduction to the geography toolbox project all about the geography toolbox starterxlsm file how to populate the first set of combo boxes how to populate the second set of combo boxes how to utilize the combo box selections how to calculate the distance between two points knowing latitude and longitude expectations for input validation and error handling how to unhide and hide sheets
+</DOC>
 
-intermediate projects lesson choices
+<DOC>intermediate projects lesson choices
 peer reviews
 introduction to the ultimate organizer project a demonstration of the ultimate organizer how to add a category how to add a new record part how to add a new record part how to reveal hidden labels and text boxes how to add an icon to the quick access toolbar to run your user form introduction to the regression toolbox project introduction to the regression toolbox starterxlsm file all about simple linear regression all about general linear regression optional all about multilinear regression matrix approach to regression part matrix approach to regression part a more complex example of the matrix approach to regression using excels matrix functions in vba code what is adjusted rsquared calculating adjusted rsquared plotting experimental data and model predictions in vba
+</DOC>
 
-monte carlo simulation
+<DOC>monte carlo simulation
 all learners are required to complete the monte carlo simulation which is intermediate in difficulty
 introduction to monte carlo simulation monte carlo cookie example how to output a random variable that follows a certain distribution the uniform distribution the discrete distribution the normal distribution the triangular distribution the betapert distribution how to apply a vba user form to a monte carlo simulation an of the profitability analysis spreadsheet
+</DOC>
 
-grade manager project for honors
+<DOC>grade manager project for honors
 if you are really up for a challenge complete the grade manager project which is very challenging learners who successfully create this project will earn an honors designation on their
 introduction to the grade manager project creating a new folder inside a preexisting directory importing the rosterxlsx file to a new sheet creating section rosters from main roster file part creating section rosters from main roster file part initializing column headings on section roster files syncing files part syncing files part how to create a dated backup file adding a new grade item to all section sheets part adding a new grade item to all section sheets part adding a new grade item to all section sheets part search and replace tool
 </DOC>
-

@@ -10,65 +10,71 @@ learners will establish a technical mental model for xr technologies and gain to
 user interaction design for arvrmrxr
 this second in the xr for everybody looks at how to design new user for xr technologies the provides learners with a design thinking mindset and equips them with a fundamental toolbox for creating xr applications using rapid prototyping it starts with a broad of the complete xr design process discussing different paths to becoming an xr creator what is generally involved in making xr and how to best get started the then emphasizes design thinking critiques and ethics while introducing guidelines and usercentered techniques like design jams the second half of the introduces a variety of methods and tools for prototyping both physically and digitally including on the xr devices themselves through immersive authoring
 the has an honors track that guides learners through creating their own storyboard physical prototype and digital prototype of an xr on exercises that allow you to practice your design and also build xr technologies into your workflow by working with specific templates and new digital tools that allow you to preview physical prototypes on arvr devices
-
-xr design process
+</DOC>
+<DOC>xr design process
 this will provide you with an introduction to xr design and development when i say design i usually mean user design or interaction design some designers have quite specific definitions of each of those terms but i think of them broadly as forms of design focused on the creation of new user interfaces while i think of many parts of this as providing the theory and background to xr design i will focus on the practical aspects of xr creation i will start by making an analogy to filmmaking to establish key requirements before going on to talk about the main steps part of a larger process and how to get started with doing xr as we are just getting started this first does not have an honors track component associated with it the honors track will start in the second
 what doing xr involves part what doing xr involves part developing xr how to get started for everybody part how to get started for everybody part finding your xr process xr design primer
+</DOC>
 
-design thinking ethics and guidelines for xr
+<DOC>design thinking ethics and guidelines for xr
 the second will introduce you to design thinking and how common methods and techniques can be adapted for xr this will help us build the right mindset for designing novel and compelling xr talk about building empathy with your users ethical and responsible design and best practices and design guidelines i will also cover how to conduct and formulate design critiques in an effort to from existing interfaces finally look at design jams as a way of solving design challenges collaboratively our first exercise in the honors track associated with this will be a design critique of a vr or ar expedition as part of googles expeditions xr app be asked to develop one new idea that then take forward as you start prototyping your design concept next
 xr design thinking scenarios personas competitive analysis design space analysis guiding principles xr design ethics xr ethical review xr design impact xr design guidelines learning by doing xr design the dos and donts of xr design guidelinebased review of xr xr design jams part xr design jams part xr design critiques part xr design critiques part welcome to the honors track your xr design critique
+</DOC>
 
-storyboarding physical prototyping for xr
+<DOC>storyboarding physical prototyping for xr
 we are moving from the conceptual to the practical from thinking to doing the next two parts of this are dedicated to prototyping first part on physical prototyping i will emphasize paper a lot and also talk a lot about sketching in my mind brainstorming translates to sketching alternate ideas rather than creating for example a mind map i sketch to ideate this is a practice that i will emphasize start flat on paper but will quickly become more physical using specific paper templates and dioramas also see how to create mostly physical prototypes but how to enhance them with ar techniques to move closer to our envisioned final xr in the honors track have two major exercises first create an xr storyboard based on the xr app you have previously critiqued the design critique and storyboarding will help you develop a new idea of improving the existing xr interface then prototype your design concept using physical materials including paper cardboard playdoh and transparency i hope appreciate the freedom and flexibility that physical prototyping gives you allowing you to create a new xr without many of the constraints of digital tools
 brainstorming problem framing idea hexagon threshold ceiling in tool design good ideas bad ideas storyboarding wireframing part storyboarding wireframing part physical prototyping i physical prototyping ii your xr storyboard your physical xr prototype
+</DOC>
 
-digital prototyping evaluation of xr
+<DOC>digital prototyping evaluation of xr
 the last of this will cover digital prototyping and user evaluation techniques for xr while it is recommended to start prototyping on paper it is crucial to a design concept for xr with xr technologies i will introduce you to digital prototyping techniques as a way of increasing the fidelity of your prototype designs about digital prototyping tools that support creating initial vr or ar without the need for programming some tools support immersive authoring which enables prototyping of xr directly inside vr or ar also about usability evaluation techniques and how to design and conduct a user study our final lecture will be on creating your xr portfolio as a way of effectively communicating and showcasing your design in the honors track finalize our xr project with a digital prototype and submit our for peer review the peer review will not only provide important feedback on your but also allow you to review and critique your peers in a constructive way i consider formulating good feedback and acting on critical feedback two vital for any designer but especially for those working in a space as rapidly evolving as xr
 digital prototyping i digital prototyping ii evaluating xr usability evaluation designing a user study creating your xr design portfolio part creating your xr design portfolio part interview with katy lewis conclusion your digital xr prototype your xr prototype peer review
 </DOC>
-
 <DOC>
 developing arvrmrxr apps with webxr unity unreal
 this third in the xr for everybody is geared toward the technical development of xr the provides learners with a more technical mental model of xr technologies and the tools to approach xr development with confidence it walks through the stages of development for both vr and ar projects introducing the main xr development platforms as as the key methods and tools this third also helps learners infer advanced xr requirements from physicaldigital prototypes and teaches them how to differentiate major technical concerns estimate development costs and plan research necessary to advance xr
 this also has an honors track that guides learners in the implementation of d vr and ar scenes in webxr using aframe and in unity and helps them generate a development plan with clear milestones and deliverables
-
-xr development approaches
+</DOC>
+<DOC>xr development approaches
 this first will cover three main approaches to xr development webxr unity and unreal each approach requires different development tools programming languages and technical they also differ in the fidelity and quality that can be achieved and in how many devices and users can be reached with each in addition to getting a fundamental of xr development platforms and tools a main goal is to make the jump from d to d many of our learners will be familiar with web and mobile development but d development is quite different in the honors track i will guide you through the creation of your first d scene using webxr unity or unreal i will also provide first steps instructions in each of them allowing you to analyze and compare before choosing your approach and tools
 xr development approach part xr development approach part webxr vs unity vs unreal building your xr development toolbox the jump from d to d part the jump from d to d part first steps in webxr first steps in unity first steps in unreal welcome to the honors track your d scene office hour arvr with aframe
+</DOC>
 
-developing vr applications
+<DOC>developing vr applications
 this second will focus on the development of vr applications what it takes to create a virtual reality about menus and navigation techniques in vr as as object selection and manipulation ill share various examples that i have implemented using webxr to illustrate the concepts i will also cover approaches in unity and unreal also see me give demos directly in vr to better understand how navigation and interactions in vr many of the lessons are rooted in a vr design case study inspired by the detroit zoo which my student kara dailey and i created specifically for this xr mooc in the honors track i will guide you through the creation of your first vr scene using aframe unity or unreal and i will provide more handson lectures on how to create basic and immersive vr scenes with webxr using aframe
 designing a virtual reality part designing a virtual reality part vr design case study interview with kara dailey menus navigation in vr part menus navigation in vr part object selection manipulation in vr part object selection manipulation in vr part basic vr with webxr immersive vr with webxr your vr scene office hour vr with unity
+</DOC>
 
-developing ar applications
+<DOC>developing ar applications
 this third will focus on the development of ar applications about markerbased and markerless approaches to augmenting the environment about the design and role of markers for prototyping and deployment and about the differences to markerless ar again ill share various examples that i have implemented using webxr to illustrate the concepts i will also cover approaches in unity and unreal also about the differences in design between handheld and headworn ar many of the lessons are rooted in an ar design case study bringing keplers laws of planetary motion which my student shwetha rajaram and i created in an independent study project in the honors track i will guide you through the creation of your first ar scene using aframe unity or unreal and i will provide more handson lectures on how to create markerbased and markerless ar scenes with webxr using aframe
 designing an augmented reality ar design case study interview with shwetha rajaram markerbased ar part markerbased ar part markerless ar part markerless ar part handheld vs headworn ar part handheld vs headworn ar part ar demo markerbased ar with webxr markerless ar with webxr your ar scene
+</DOC>
 
-special topics in xr
+<DOC>special topics in xr
 this fourth and final will broaden the scope of this by introducing you to advanced techniques and also research in xr in terms of advanced techniques about procedural generation redirected walking and custom controllers for vr i will also cover d reconstruction object recognition and custom displays for ar i will include examples from recent research also go over important topics such as accessibility collaboration personalization of xr these topics are receiving increased attention in current research and will significantly shape the xr landscape in the next five to ten years i will also give a lecture on xr research where ill use one of our recent research projects and present the many iterations through which it went based on user and system performance evaluations i will also talk about good and bad research questions which mostly has to do with scoping and how far you want to push the envelope finally i will share my making of the xr mooc through which i hope to share some of the techniques ive employed in giving recording and sharing demos with arvr technologies in the honors track conclude our projects with a peer review of d vr or ar scenes
 advanced techniques i advanced techniques ii xr research part xr research part xr research part xr research panel making of conclusion your xr scene peer review
 </DOC>
-
 <DOC>
 intro to arvrmrxr technologies applications issues
 this first in the xr for everybody creates a foundational understanding of the differences between ar vr mr and xr the provides learners with a broad of the rapidly evolving xr space and the tools to characterize future xr developments and assess their potential and limitations it establishes key concepts and dives into the xr device landscape helping learners to differentiate current and future platforms and devices as as critique the use of vr or ar in applications the pivots in the second half to look more at how to shape the future of xr by analyzing trends and raising issues such as covid social and ethical concerns accessibility and equity as as privacy and security
 the comes with an honors track in which learners will try out and classify existing xr applications pick technologies when designing solutions for various xr application scenarios and dive into the issues contributing to the larger discussion around trends and the future of xr
-
-xr terminology applications
+</DOC>
+<DOC>xr terminology applications
 this will establish the different notions around xr and provide a brief of the associated technologies key to understanding the potential and limitations of ar vr and mr is to know the differences in how they each and what they each can be used for in the honors track how to find and try out an ar and classify it along the realityvirtuality continuum this continuum is an important notion to localize applications in the wide spectrum covered by mixed reality technologies and aids our overall understanding of the xr space
 what is xr v what is xr v xr technology landscape welcome to the honors track your xr app classification
+</DOC>
 
-xr concepts technologies
+<DOC>xr concepts technologies
 this will provide an of virtual and augmented reality both at the conceptual level as as in terms of current technologies it is important to distinguish concepts from technologies because the concepts are foundational and less likely to change significantly while the technologies that implement the concepts are rapidly evolving in the honors track use the conceptual and technological insights we developed through the standard track to recommend ar or vr technologies for a set of given scenarios a key goal for us is to obtain a thorough of the technology landscape and this activity will allow you to practice your decision making and how to analyze and assess different technology options
 vr demo intro to vr vr concepts vr technologies ar demo intro to ar ar concepts part ar concepts part ar technologies vr vs ar xr technology tree xr decision tree your xr technology selection
+</DOC>
 
-trends issues in xr
+<DOC>trends issues in xr
 this will start our discussion of the and challenges that come with xr technologies i will identify technological trends and what i think are some of the key issues the issues will be grouped into three broader classes ethical social concerns accessibility equity privacy security all three classes are important and we currently only have a limited understanding and clear ways forward regarding each of them in the honors track through some of these issues and depending on your interests and access to xr technologies you can set your focus on one of the classes of issues there will be activities to more about social in arvr accessibility and privacy i look forward to an open and constructive discussion with you about these issues and the future of xr technologies
 attending ieee vr in vr trends in xr part trends in xr part key issues in xr ethical social concerns accessibility equity privacy security concluding thoughts your xr impact analysis
+</DOC>
 
-xr strategy
+<DOC>xr strategy
 this is our last it will bring more of a strategic outlook into the xr space this is a space where you have to continuously and push yourself i believe you have to develop a growth mindset when you think about new projects and initiatives your team the equipment working with stakeholders and defining measures of success the key is to start somewhere with something small then grow your and expectations around it most people try it the other way around not realizing that xr is a huge space and there will always be people who know more than you about something in my opinion the best way to go about this is to find a niche realize the potential to innovate and start shaping your solution this is heavily discussionbased and there is no honors track associated with it thank you for taking this first and please check out the other two courses series
 developing your xr strategy part scale approach part success part the future xr student panel part xr student panel part conclusion
 </DOC>
-

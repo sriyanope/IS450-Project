@@ -15,136 +15,146 @@ practice on reallife scenarios that will connect the concepts you to realworld t
 gst when where who and how much
 build upon your knowledge on the concept of supply covered in the first
 once a transaction is identified as supply it is important to determine when where and on whom gst will apply equally important is the computation of the value on which the gst is to be applied this provides a platform for learners planning to launch their careers in tax or sharpen their with the technical understanding of gst law in india this is industry agnostic and is relevant for anyone looking to acquire basic knowledge of gst it will provide you with the required for entry level jobs in the fields of finance tax or law by the end of this be able to identify where the supply should be taxed know when gst needs to be paid understand how much gst needs to be paid understand who needs to pay the gst
-
-identifying the place of supply of goods or services
+</DOC>
+<DOC>identifying the place of supply of goods or services
 goods and services are taxed at the place where they are consumed and not at their place of origin we shall explain how to identify the place of consumption of goods and services by interpreting the provisions relating to the place of supply
 welcome to gst taxation executive introduction to the gst when where who and how much introduction to the nature of supplies intrastate and interstate supplies legal provisions how to determine the place of supply of goods place of supply of goods illustrations how to determine the place of supply of domestic services part how to determine the place of supply of domestic services part how to determine the place of supply of crossborder services services key takeaways
+</DOC>
 
-determining the time of supply of goods or services
+<DOC>determining the time of supply of goods or services
 determining the time of supply is essential for the payment of tax it is also important as other provisions relating to valuation and rate of tax will apply based on such date we shall explain how to determine the time of supply of goods and that of services
 introduction to the how to determine the time of supply of goods how to determine the time of supply of services how to determine time of supply in case of continuous supply of goods and services how to determine the time of supply in other specified cases how to determine the time of supply in case of change in rate of tax invoicing and collection judicial interpretation case studies key takeaways
+</DOC>
 
-computing the value of supply
+<DOC>computing the value of supply
 tax is payable as a percentage of the value of the supply of goods or services therefore it is important to calculate the value on which tax is to be paid we shall explain the rules to determine the value of a supply and the associated inclusions and exclusions we shall also discuss the treatment of freeofcost supplies and discounts we shall then examine the rules to be applied for the valuation of transaction between related parties
 introduction to the valuation under gst inclusions and exclusions to the transaction value valuation illustrations valuation of foc supplies discounts judicial interpretation valuation where price is not the sole consideration valuation in case of supplies to related persons valuation under specific scenarios part valuation under specific scenarios part key takeaways
+</DOC>
 
-discharging tax under reverse charge
+<DOC>discharging tax under reverse charge
 generally gst is payable by the supplier of goods or services however in specific cases this liability is on the recipient under the reverse charge mechanism we shall appreciate the purpose of the introduction of the reverse charge mechanism and identify those transactions where gst is required to be paid under the reverse charge
 introduction to the what is reverse charge mechanism how to determine the applicability of rcm supplies notified for payment under rcm how to determine the time of supply in case of rcm transactions key points to consider judicial interpretation key takeaways
 </DOC>
-
 <DOC>
 gst genesis and imposition
 this is the first in pwc gst taxation executive this is a good place to start if you want to become a gst in india
 first about the genesis of gst the need for its introduction and the constitutional and legal framework under which it was introduced then the concept of supply under gst along with its related definitions and concepts this provides a platform for learners planning to launch their careers in tax or sharpen their with the technical understanding of the gst law in india the is a part of the pwc gst taxation executive which is industry agnostic and relevant for anyone looking to acquire basic knowledge of gst it will provide you with the required for entry level jobs in the fields of finance tax or law by the end of this know the shortcomings of the earlier indirect tax regime and why gst was introduced know the basic framework of gst in india and the changes brought in the indian constitution for introducing gst understand the concept of supply under gst and related definitions like goods services and consideration understand which goods and services are included or excluded from gst understand the various types of supplies viz interstate intrastate exempt nongst composite and mixed supplies and how they impact the computation of gst
-
-framework of gst
+</DOC>
+<DOC>framework of gst
 what is the genesis of gst in india about the pregst indirect tax framework and the associated challenges faced by businesses leading to the introduction of gst in india we shall then examine the framework of gst from a constitutional and legislative perspective this will provide you with the background required to focus on the concepts and structures under the gst which discuss in the subsequent courses
 welcome to gst taxation executive introduction to the gst genesis and imposition introduction to the framework of gst pregst regime constitutional backdrop pregst regime framework of taxes the advent of gst an introduction the advent of gst implementation dual tax model utilisation of input tax credit a few key concepts global perspective a comparison key takeaways
+</DOC>
 
-decoding the concept of supply part
+<DOC>decoding the concept of supply part
 gst as you are aware is levied on the supply of goods and services the three key terms are supply goods and services the entire structure of gst revolves around these three terms about the concept of supply as it is defined in the gst law the term supply has various elements such as sale barter and exchange each of which will be analysed the key definitions that are critical to determine the applicability of gst will also be coveredyou will also explore different concepts under gst such as interstate and intrastate supplies exempt and nongst supplies and composite and mixed supplies at the end you should be able to identify a transaction or activity and determine whether the transaction qualifies as a supply under gst
 introduction to the what is supply decoding the terms goods and services forms of supply what is consideration what is business import of services
+</DOC>
 
-decoding the concept of supply part
+<DOC>decoding the concept of supply part
 gst as you are aware is levied on the supply of goods and services the three key terms are supply goods and services the entire structure of gst revolves around these three terms about the concept of supply as it is defined in the gst law the term supply has various elements such as sale barter and exchange each of which will be analysed the key definitions that are critical to determine the applicability of gst will also be covered also explore different concepts under gst such as interstate and intrastate supplies exempt and nongst supplies and composite and mixed supplies at the end you should be able to identify a transaction or activity and determine whether the transaction qualifies as a supply under gst
 transactions treated as a supply even if made without a consideration part transactions treated as a supply even if made without a consideration part transactions deemed to be treated as supply of goods or supply of services part transactions deemed to be treated as supply of goods or supply of services part transactions deemed to be treated as supply of goods or supply of services part transactions excluded from the scope of supply part transactions excluded from the scope of supply part illustration
+</DOC>
 
-decoding the concept of supply part
+<DOC>decoding the concept of supply part
 gst as you are aware is levied on the supply of goods and services the three key terms are supply goods and services the entire structure of gst revolves around these three terms about the concept of supply as it is defined in the gst law the term supply has various elements such as sale barter and exchange each of which will be analysed the key definitions that are critical to determine the applicability of gst will also be covered also explore different concepts under gst such as interstate and intrastate supplies exempt and nongst supplies and composite and mixed supplies at the end you should be able to identify a transaction or activity and determine whether the transaction qualifies as a supply under gst
 concept of interstate and intrastate supplies types of supply aggregate turnover computation and relevance composite and mixed supply judicial interpretation key takeaways
 </DOC>
-
 <DOC>
 gst maintaining documents accounts and records
 gst being a transactionlevel tax requires certain documentation to be generated and maintained to comply with the law and curb malpractices gst also has a stringent requirement for the maintenance of appropriate accounts and records about einvoices and ewaybills required to be generated at a transaction level also about the accounts and records that are required to be maintained by businesses
 this provides a platform for learners planning to launch their careers in the field of gstrelated compliance in india learners already undertaking gst compliances may also upskill themselves with the technical imparted under this this is industry agnostic and is relevant for anyone looking to acquire basic knowledge of gst it will provide you with the required for entry level jobs in the fields of finance tax or law by the end of this about the applicability of einvoicing einvoicing process flow including the generation of the unique reference numbers and qr code the provisions related to eway bills their generation validity cancellation and rejection the need procedure and practical challenge in eway bill reconciliation types of statutory accounts and records to be maintained under gst key performance indicators of an organization that are important from a gst perspective and the mis reports required
-
-understanding einvoicing
+</DOC>
+<DOC>understanding einvoicing
 einvoicing or electronic invoicing is a system in which the specified type of documents generated by the taxpayer are electronically reported to and authenticated by the designated government portal the applicability and procedure related to the generation of einvoice for different types of taxpayers and transactions also the process flow of einvoicing the steps involved in the generation of the irn and qr code and the aspects related to the printing and issue of invoices to the customers
 welcome to gst taxation executive introduction to the gst maintaining documents accounts and records introduction to the what is einvoicing einvoicing process part einvoicing process part einvoicing process part advantages and challenges of einvoicing key takeaways
+</DOC>
 
-preparing and reconciling eway bills
+<DOC>preparing and reconciling eway bills
 an eway bill is a document required for the movement of goods from one place to another the eway bill number is a unique number made available to the supplier the recipient the transporter and to government officials to identify the genuineness of the movement of goods what is an eway bill when it is needed who can generate eway bill what documents are required for generating the eway bill the validity of the eway bill as as how it can be cancelled or rejected in the later part of the about eway bill reconciliation eway bill reconciliation is a process to reconcile eway bills against the invoices raised this helps reduce the incidence of fraud or fake invoicing and improves overall compliance explain the framework of eway bill reconciliation and take you through the entire reconciliation process we shall also discuss various issues that come up during such process of reconciliation
 introduction to the of an eway bill part of an eway bill part eway bill other key aspects detention and confiscation of goods in transit part i detention and confiscation of goods in transit part ii eway bill portal eway bill for typical transactions judicial interpretation key takeaways introduction to reconciling eway bills eway bill reconciliation legal requirements reconciliation process part reconciliation process part reconciliation process part eway bill reconciliation other aspects key takeaways
+</DOC>
 
-maintaining statutory accounts and records
+<DOC>maintaining statutory accounts and records
 the words accounts and records are not separately defined under the gst law the law has a common standard subject to a few exceptions in relation to maintenance of books of accounts irrespective of the type of industry nature of the product or the size of the operations the maintenance of timely accounts and records plays a pivotal role in undertaking monthly or annual compliances under gst the accounts and records required to be maintained by a taxpayer under the gst law we shall also discuss some of the key performance indicators of an organization that are important for management from a gst perspective the mis reports which are required for obtaining data pertaining to such kpis
 introduction to the accounts and records accounts and records where to maintain accounts and records what to maintain part accounts and records what to maintain part accounts and records how to maintain accounts and records how long to maintain accounts and records consequences of noncompliance accounts and records particulars to be mentioned in documents key takeaways importance of mis
 </DOC>
-
 <DOC>
 gst audit assessment and litigation
 the aspects of tax dispute resolution assessment investigation and audit under gst and understand the penal provisions for noncompliance also understand the provisions related to antiprofiteering introduced in gst
 this provides a platform for learners planning to launch their careers in the field of gstrelated compliance in india learners already undertaking gst compliances may also upskill themselves with the technical imparted under this this is industry agnostic and is relevant for anyone looking to acquire basic knowledge of gst it will provide you with the required for entry level jobs in the fields of finance tax or law by the end of this about the procedure for audit by government authorities assessment of taxes and the appellate procedure noncompliances or offences leading to penalties and prosecution the objectives for the introduction of antiprofiteering provisions the role and constituents of statutory bodies and the practical challenges in its implementation business restructuring from a gst perspective the tax risks and how mis reports can help mitigate the risks
-
-assessments and audits
+</DOC>
+<DOC>assessments and audits
 under gst a taxpayer is required to selfassess the tax liability pay taxes and file returns thus there is a need to ensure that the taxpayer has correctly assessed the tax liability assessment can be undertaken either by the taxpayer themselves which is called selfassessment or by the tax authorities which can be in the form of provisional assessment assessment and best judgment assessment about the different types of assessments by the taxpayer as as the tax authorities the situations when each of these are invoked and key considerations pertaining to them also about the basic framework of audits under gst
 welcome to gst taxation executive introduction to the gst audit assessment and litigation introduction to the framework of assessment under gst assessment by taxpayer selfassessment assessment by tax authorities provisional assessment scrutiny of returns assessment by tax authorities best judgment assessment assessment by tax authorities assessment sop for scrutiny of gst returns gst audit gst audit manual key takeaways
-
-demands appeals and penalties
-any noncompliance or contravention of provisions of gst law can attract scrutiny assessment audit demand and recovery proceedings demand and recovery provisions are invoked against the taxpayer if there is any short payment or wrong utilisation of input credit if the taxpayer is unhappy with the order or decision passed by the tax officer such taxpayer has a statutory right to file an appeal the circumstances under which demand can be raised and the timelines for the issuance of notice and conclusion of proceedings we shall discuss the procedural requirements for filing of appeals such as who can file the appeal which forum should the appeal be filed to the quantum of predeposit and other important aspects we shall also discuss the offences that can attract penalties under gst
-demands under gst demands under gst key highlights and issues appeals under gst appeals under gst highlights appeals under gst differences visvis earlier regime penalties under gst detention seizure and confiscation of goods key takeaways
-
-what is antiprofiteering
-the government introduced provisions in the gst legislation that any reduction in the tax incidence ie gst should be passed on to consumers through a commensurate reduction in prices this measure of the government is commonly known as antiprofiteering antiprofiteering as the name suggests means that one cannot profiteer from gst we shall discuss the legal framework for antiprofiteering regulations in india and the authorities constituted by the government to check the cases of antiprofiteering
 </DOC>
 
+<DOC>demands appeals and penalties
+any noncompliance or contravention of provisions of gst law can attract scrutiny assessment audit demand and recovery proceedings demand and recovery provisions are invoked against the taxpayer if there is any short payment or wrong utilisation of input credit if the taxpayer is unhappy with the order or decision passed by the tax officer such taxpayer has a statutory right to file an appeal the circumstances under which demand can be raised and the timelines for the issuance of notice and conclusion of proceedings we shall discuss the procedural requirements for filing of appeals such as who can file the appeal which forum should the appeal be filed to the quantum of predeposit and other important aspects we shall also discuss the offences that can attract penalties under gst
+demands under gst demands under gst key highlights and issues appeals under gst appeals under gst highlights appeals under gst differences visvis earlier regime penalties under gst detention seizure and confiscation of goods key takeaways
+</DOC>
+
+<DOC>what is antiprofiteering
+the government introduced provisions in the gst legislation that any reduction in the tax incidence ie gst should be passed on to consumers through a commensurate reduction in prices this measure of the government is commonly known as antiprofiteering antiprofiteering as the name suggests means that one cannot profiteer from gst we shall discuss the legal framework for antiprofiteering regulations in india and the authorities constituted by the government to check the cases of antiprofiteering
+</DOC>
 <DOC>
 gst using input tax credit
 gst if applicable can be paid in cash or through the utilization of input tax credit also commonly known as itc about the concept of the input tax credit conditions and restrictions on availing and utilizing itc legal requirements and procedures for reconciliation of itc and the concept of distribution of itc input tax credits along with valuations play an important role in the pricing of goods and services
 this provides a platform for learners planning to launch their careers in tax or sharpen their with the technical understanding of gst law in india this is industry agnostic and is relevant for anyone looking to acquire basic knowledge of gst it will provide you with the required for entry level jobs in the fields of finance tax or law by the end of this know what is input tax credit and the conditions for availing of such credit about the restrictions on the availment of credit and understand when credit needs to be reversed know the legal requirement for performing reconciliation of purchase records and the detailed process for the same identify the practical challenges one may face while performing the reconciliations understand the concept of input service distributor as as when and how it needs to be applied
-
-availing and utilising input tax credit
+</DOC>
+<DOC>availing and utilising input tax credit
 the gst paid on procurements is available as input tax credit and can be used to offset the output gst liability what is input tax credit as as the conditions and restrictions for availing input tax credit also the process of availing input tax credit and the requirement to reverse input tax credit under various scenarios
 welcome to gst taxation executive introduction to the gst using input tax credit introduction to the what is itc and conditions for availment what are the restrictions on availment of itc what is the manner of availment of itc reversal of itc itc key points to consider part itc key points to consider part key takeaways
+</DOC>
 
-reconciling input tax credit
+<DOC>reconciling input tax credit
 one of the key challenges of the erstwhile tax regime was that the levy of taxes had a cascading effect in the gst regime this was sought to be remedied by allowing input tax credit commonly known as itc on procurements in the on itc you would have learnt that itc can only be availed if the supplier has furnished the details of the invoice in their statement of outward supplies and has paid the tax to the government this requires the recipient to reconcile the details of their procurements with the details furnished by the supplier on the gst portal this reconciliation is called vendor reconciliation we shall discuss the legal requirement and the detailed process for such reconciliation we shall also highlight the key aspects and practical challenges faced during such reconciliation
 introduction to the introduction and background invoicelevel matching under gst procedure reconciliation methodologies analysing vendor reconciliation mismatches analysing vendor reconciliation issues part analysing vendor reconciliation issues part credit reconciliation key points to consider key takeaways
+</DOC>
 
-distributing input tax credits
+<DOC>distributing input tax credits
 an input service distributor or isd is a facility made available to businesses to distribute the tax paid on input services from a centralised location by using this mechanism a manufacturer could transfer the credit of service tax on services availed at the head office to its factories where the manufacturer had output excise liability what an isd is the manner of distribution of tax the compliance requirements and the process of reconciliation prior to tax distribution
 introduction to the concept of input service distributor part concept of input service distributor part manner of distribution of itc by isd compliance requirements for an isd part compliance requirements for an isd part itc reconciliation invoice matching part itc reconciliation invoice matching part key takeaways
 </DOC>
-
 <DOC>
 gst undertaking compliances
 similar to any other tax system compliances form the backbone of gst gst compliances are primarily twofold registration and return filing when to obtain registration where to obtain it and the procedure to obtain registration thereafter about the different returns under gst and the process of filing such returns along with the details required to be furnished
 this provides a platform for learners planning to launch their careers in the field of gstrelated compliance in india this is industry agnostic and is relevant for anyone looking to acquire basic knowledge of gst it will provide you with the required for entry level jobs in the fields of finance tax or law by the end of this about when a person is required to obtain registration where to obtain the registration and the procedure to obtain registration under gst various returns required to be furnished under the gst law and the need for different types of returns the manner of preparation of various gst returns the details required to be reported in the returns and the due dates for return filing
-
-obtaining registration
+</DOC>
+<DOC>obtaining registration
 registration is the foundation for all gst compliances including payment of taxes availing input tax credit filing of returns and claiming refunds when to obtain registration voluntarily or mandatorily and where to obtain it also the procedure for obtaining registration and the situations requiring amendments and cancellation
 welcome to gst taxation executive introduction to the gst undertaking compliances introduction to the who is required to obtain registration mandatory registration illustrations where to obtain registration key pointers to consider registration procedure part registration procedure part registration procedure part amendment of registration cancellation of registration registration in specific cases composition dealer registration in specific cases nonresident taxable person registration in specific cases casual taxable person key takeaways
+</DOC>
 
-filing returns part
+<DOC>filing returns part
 prior to the advent of gst there were a multitude of indirect taxes which required the filing of multiple returns each with a different format and requirements the introduction of gst has simplified and streamlined the compliance process while there are a number of returns to be filed under gst depending upon the nature of the business the return formats are uniform across the country about the importance and the need for filing various returns along with the process for filing of returns under gst the manner of preparation the details to be reported and the due dates for filing various returns at the end of this you should have a deep understanding of the gst return filing process and be ready to undertake the gst return filing compliances
 introduction to the key returns and statements under gst of gstr bb bc and export supplies under gstr other tables under gstr of gstrb gstrb dashboard
+</DOC>
 
-filing returns part
+<DOC>filing returns part
 prior to the advent of gst there were a multitude of indirect taxes which required the filing of multiple returns each with a different format and requirements the introduction of gst has simplified and streamlined the compliance process while there are a number of returns to be filed under gst depending upon the nature of the business the return formats are uniform across the country about the importance and the need for filing various returns along with the process for filing of returns under gst the manner of preparation the details to be reported and the due dates for filing various returns at the end of this you should have a deep understanding of the gst return filing process and be ready to undertake the gst return filing compliances
 composition scheme of gstr gstr tax payment and other points of consideration nonresident taxable person part nonresident taxable person part gstra online information database access and retrieval oidar service providers gst itc goods sent for job gst itc details to be furnished gstr input service distributor gstr tax deducted at source gstr tax collected at source
+</DOC>
 
-filing returns part
+<DOC>filing returns part
 prior to the advent of gst there were a multitude of indirect taxes which required the filing of multiple returns each with a different format and requirements the introduction of gst has simplified and streamlined the compliance process while there are a number of returns to be filed under gst depending upon the nature of the business the return formats are uniform across the country about the importance and the need for filing various returns along with the process for filing of returns under gst the manner of preparation the details to be reported and the due dates for filing various returns at the end of this you should have a deep understanding of the gst return filing process and be ready to undertake the gst return filing compliances
 gstr and gstrc gstr part gstr part gstr part gstrc part gstrc part other returns key takeaways
 </DOC>
-
 <DOC>
 gst claiming refunds and other concepts
 about some other key concepts under gst all taxpayers may not apply these concepts but the concepts are nonetheless integral to the understanding and application of gst first understand the concept of zerorated supply and identify the different types of supplies that are taxable but have zero gst rate next about refunds their applicability and the process of claiming gst refunds from tax authorities finally about job and the associated gst compliances
 this provides a platform for learners planning to launch their careers in the field of gstrelated compliance in india learners already undertaking gst compliances may also upskill themselves with the technical imparted under this this is industry agnostic and is relevant for anyone looking to acquire basic knowledge of gst it will provide you with the required for entry level jobs in the fields of finance tax or law by the end of this know what is a zerorated supply and the different types of supplies that are zerorated the objective behind classifying some supplies as zerorated supplies the types of refunds and various situations when a refund is allowed under the gst law in india the process of obtaining gst refund computation of refunds and the documents required the concept of job responsibilities of a job worker and the principal and the compliances required to be undertaken
-
-interpreting zerorated supplies
+</DOC>
+<DOC>interpreting zerorated supplies
 a zerorated supply is a taxable supply with the tax rate applied being zero the different types of supplies which are zerorated namely export of goods export of services and supplies to sez also the principles governing the need for zero rating and the objective behind classifying these supplies as zerorated supplies
 welcome to gst taxation executive introduction to the gst claiming refunds and other concepts introduction to the concept of zerorated supplies part concept of zerorated supplies part export of goods part export of goods part export of goods part export of services part export of services part export of services part supplies to sezs part supplies to sezs part key takeaways
+</DOC>
 
-all about refunds
+<DOC>all about refunds
 the gst law has made it possible to obtain refunds simply through a standardised process for filing a refund claim every claim should be filed online in a standardised form the application is forwarded to the proper officer who is required to scrutinise the application in a timebound manner the types of refunds allowed under the gst law along with the procedures and documents required for filing refund applications also gain insights on the practical aspects of filing refund claims
 introduction to the refunds under gst an refund on zerorated supplies part refund on zerorated supplies part refund on zerorated supplies part refund on zerorated supplies part refund on zerorated supplies part itc refund on inverted duty structure deemed export refund other types of refund key takeaways
+</DOC>
 
-working with a job worker
+<DOC>working with a job worker
 a job worker is a person who undertakes a treatment or a process on goods belonging to another person ie the principal the concept of job is important because the gst law mandates that in case of a job the principal manufacturer is responsible for compliances on behalf of the job worker on goods processed by such job worker we shall discuss the concept of job understand the responsibilities of a job worker and the principal and describe the compliances to be undertaken by a job worker
 introduction to the concept of job registration requirements movement of goods under job time limit for goods lying at job workers premises disposal of waste and scrap other aspects gst rate on job case studies advance rulings key takeaways
 </DOC>
-

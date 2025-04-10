@@ -8,109 +8,119 @@ director of this and main teaching contributor dr michel girardin lecturer in ma
 meeting investors goals
 dive into the concepts of rationality and irrationality and understand how they impact our investment decisions and what the consequences can be at the market level
 first explore the different biases that we as humans are subjected to when facing investment decisions and how they may impact the of these decisions moreover see how emotions and ethical concerns such as honesty and trust influence market participants when they are considered as a group rather than individually discover how rationality and irrationality can drive asset prices to and away from their fair value finally be presented with different portfolio construction methodologies and investment styles that make up the landscape of todays portfolio management industry at key points throughout the benefit from the practical knowledge of experts from our corporate partner ubs in how to build and manage clients portfolios
-
-general introduction and key concepts
+</DOC>
+<DOC>general introduction and key concepts
 introductory start by illustrating how emotions can hinder sensible investment decisions then have the to check if you master the concepts of the first that are important for this second finally lay the ground for next weeks content by looking at rational decision making
 why you should choose this an example buying is easy but when is it a good time to sell buying an example buying is easy but when is it a good time to sell holding an example buying is easy but when is it a good time to sell selling the key things you need to know to define your investment profile ubs guest speaker what rational decision making
+</DOC>
 
-how individuals make financial decisions
+<DOC>how individuals make financial decisions
 the focus of this second is on you the investor what are the reasons you participate in financial markets how do you make investment decisions what can go wrong in your decision process and what are the consequences what can you do about it to answer these questions talk about cognitive biases emotions and moral values and their respective link with investment decisions
 how our brain may misinterpret information the basic steps in investment biases when choosing which assets to look at biases when processing financial information biases when rebalancing you portfolio biases when evaluating performance wrap up how our emotions impact our investment decisions why we trade what can we from this the role of media in financial markets honesty and trust in investment decision making study design honesty and trust in investment decision making study results impact investing ubs guest speaker are emotions always a bad thing in investing
+</DOC>
 
-market efficiency bubbles crises
+<DOC>market efficiency bubbles crises
 third have a look at investors behavior as a group how does it impact asset prices how do these prices reflect available information what does it imply for the profitability of some trading strategies what can go wrong price formation process and how can and did it cause financial bubbles and crises also features as special guest prof jeanpierre danthine former vicechairman of the swiss national bank who will offer insights into some of these issues
 what defining market efficiency testing for the efficient market hypothesis weak form testing for the efficient market hypothesis semi strong form testing for the efficient market hypothesis strong form of different origins of financial crises a first example for the development and fallout of a real crisis the vw scandal a second example for the development and fallout of a real crisis oil shocks s a second example for the development and fallout of a real crisis oil shocks s a first example of an anticipation crisis the fed model a first example of an anticipation crisis the crash a second example of an anticipation crisis the perfect storm the global financial crisis global imbalances the perfect storm the global financial crisis policy errors the perfect storm the global financial crisis lax regulation how do central banks deal with the issue of financial instability recap how do central banks deal with the issue of financial instability asset prices an interview with prof jeanpierre danthine
+</DOC>
 
-portfolio construction and investment styles
+<DOC>portfolio construction and investment styles
 final look at two main portfolio construction methodologies topdown and bottomup see how they differ but also how they can be combined in the second lesson review some important investment styles that are commonly used in the portfolio management industry final lesson also be given the to experiment with different trading strategies and compare your results with fellow learners
 what building a portfolio the topdown way definition building a portfolio the topdown way use building a portfolio the topdown way importance portfolio construction via bottomup ubs guest speaker value versus growth fundamental or quantitative driven style ubs guest speaker contrarian versus momentum momentum contrarian versus momentum contrarian core satellite thematic investing ubs guest speaker
 </DOC>
-
 <DOC>
 portfolio and risk management
 gain an understanding of the theory underlying optimal portfolio construction the different ways portfolios are actually built in practice and how to measure and manage the risk of such portfolios
 start by studying how imperfect correlation between assets leads to diversified and optimal portfolios as as the consequences in terms of asset pricing then how to shape an investors profile and build an adequate portfolio by combining strategic and tactical asset allocations finally have a more indepth look at risk its different facets and the appropriate tools and techniques to measure it manage it and hedge it key speakers from ubs our corporate partner will regularly add a practical perspective on these different topics as you progress through the
-
-general introduction and key concepts
+</DOC>
+<DOC>general introduction and key concepts
 introductory first be presented with a few mistakes no longer make after following this in order to avoid making these mistakes start by gaining a foundation and understanding of the three main types of information we need in order to build optimal portfolios expected returns risk and dependence
 why you should choose this some common mistakes no longer make after this portfolio risk some common mistakes no longer make after this free lunch distribution of returns graphical representation distribution of returns numbers the riskreturn tradeoff ubs guest speaker
+</DOC>
 
-modern portfolio theory and beyond
+<DOC>modern portfolio theory and beyond
 the focus of this second is on modern portfolio theory by understanding how imperfect correlations between asset returns can lead to superior riskadjusted portfolio returns soon be looking for ways to maximize the effect of diversification which is at the heart of modern portfolio theory but we wont stop there also explore the implications of modern portfolio theory on realworld investment decisions and whether or not these implications are followed by investors finally see how modern portfolio theory can be built upon to derive the most popular asset pricing model the capital asset pricing model
 the impact of correlation the benefits of diversification the impact of correlation maximizing diversification reaching the efficient frontier ubs guest speaker the efficient frontier with a riskfree asset expanding the asset universe international diversification expanding the asset universe country versus industry diversification do investors diversify internationally ubs guest speaker the impact of constraints on optimal portfolios the pitfalls of modern portfolio theory assumptions the pitfalls of modern portfolio theory investors twofund separation individual decision twofund separation market level capital market equilibrium the capital market line capital market equilibrium the capital asset pricing model
+</DOC>
 
-asset allocation
+<DOC>asset allocation
 this third is dedicated to asset allocation after a short introduction to investor profiling delve into strategic asset allocation saa see how it relates to modern portfolio theory and how it differs from tactical asset allocation taa look at how both asset allocations can be implemented separately but also in conjunction in order to build portfolios that fulfill investors needs and constraints while taking advantage of market
 how our age and wealth affect our investment profile main views how our age and wealth affect our investment profile roboadvisors the path from an investors profile to hisher optimal investment strategy ubs guest speaker strategic asset allocation mpt in practice definitions strategic asset allocation mpt in practice implementation asset allocation versus stock picking what matters more ubs guest speaker rebalancing a portfolio to maintain the saa saa versus taa rebalancing a portfolio to maintain the saa weights and bounds key drivers of tactical asset allocation goals key drivers of tactical asset allocation implementation timing the market with tactical asset allocation shillers cape timing the market with tactical asset allocation macroeconomic tools how tactical asset allocation depends on macroeconomic fundamentals ubs guest speaker how to combine strategic and tactical asset allocations ubs guest speaker
+</DOC>
 
-risk management
+<DOC>risk management
 this fourth and final is dedicated to risk start by looking in more depth at different sources of risk such as illiquidity and currency risk but also at the different tools available to investors to perform risk management but how should we measure risk see that it may be valuable to go a step beyond standard deviation the risk measure we used so far and look at the valueatrisk and expected shortfall which focus on potential large losses finally use the financial instruments at our disposal to hedge market and currency risk
 defining forwards and options forwards defining forwards and options options risk as volatility what about illiquidity ubs guest speaker currency risk return currency risk risk defining the valueatrisk computing the valueatrisk defining the expected shortfall computing the expected shortfall risk management applied to portfolio allocation banking regulation basel recommendations how did we get there hedging against market falls using options hedging against currency risk using forwards
 </DOC>
-
 <DOC>
 understanding financial markets
 what the main financial markets and their characteristics are as as how they are linked to the economy
 our very diversified team of experts will start by teaching you how the price of stocks and bonds are computed and why they move while become increasingly aware of the notion of risk and why it matters when measuring an investments performance the focus will then move to less popular markets such as gold emerging markets real estate hedge funds and private markets these will be analyzed with an emphasis on their particular risks and return as as how they can help in building efficient portfolios finally the policies of central banks and their impact on financial markets will be presented to you along with the link between the economy and the price of financial assets all along these different steps experts from ubs our corporate partner will show you how the concepts you just acquired are effectively applied in a leading global bank this focus on practicality means not only understand what is going on in global financial markets but also start to figure out how you can use them to achieve financial goals be it a clients or your own director and main teaching contributor dr michel girardin lecturer in macrofinance university of geneva
-
-general introduction and key concepts
+</DOC>
+<DOC>general introduction and key concepts
 
 why a on investment management ubs guest lecturer a word of welcome optional introducing your gfri team of instructors optional investment management can be fun optional some common mistakes no longer make after this part some common mistakes no longer make after this part investment management in a nutshell part investment management in a nutshell part the role of financial markets part the role of financial markets part basic concepts in finance part basic concepts in finance part basic concepts in finance part basic concepts in finance part basic concepts in finance part basic concepts in finance part what we have learned from our clients expectations main worries ubs guest lecturer
+</DOC>
 
-major financial markets
+<DOC>major financial markets
 reading discussion prompt
 what how much is a company worth on the stock market part how much is a company worth on the stock market part how to follow the stock market ubs guest lecturer how do we rate our equity recommendations ubs guest lecturer fixed income government bonds merits part fixed income government bonds merits part fixed income government bonds merits part fixed income government bonds risks fixed income corporate bonds and high yield ubs guest lecturer money markets ubs guest lecturer currencies a separate asset class what is the real value of a currency riskadjusted returns in practice ubs guest lecturer
+</DOC>
 
-other financial markets
+<DOC>other financial markets
 reading discussion prompt
 what emerging markets stocks emerging markets bonds gold the ultimate currency part gold the ultimate currency part gold the ultimate currency part real estate part real estate part hedge funds definition and origins part hedge funds definition and origins part hedge funds definition and origins part hedge funds going long or short private markets ubs guest lecturer
+</DOC>
 
-financial markets and the economy
+<DOC>financial markets and the economy
 reading discussion prompt
 what central banks conventional policies part central banks conventional policies part central banks unconventional policies ubs guest lecturer the link between equity markets and the growthinflation mix part the link between equity markets and the growthinflation mix part the link between bond markets and the growthinflation mix part the link between bond markets and the growthinflation mix part how interest rates affect equity and bond portfolios part how interest rates affect equity and bond portfolios part
 </DOC>
-
 <DOC>
 planning your clients wealth over a year horizon
 capstone project have to choose between three different characters each with a unique set of financial constraints and objectives and design an appropriate wealth plan for them over the next years
 have to use the knowledge you gained in each of the four preceding courses to reach that objective indeed need to know which assets to consider and how to manage them depending on changes in the economic outlook how to evaluate and deal with your characters emotional biases in order to suggest them a wealth strategy they will be able to follow how to build an optimal portfolio and manage its risk once the strategy has been designed and how to adequately measure the performance of your plan while taking advantage of investment vehicles and future trends in the investment management industry to further your characters goals this capstone project was designed in collaboration with ubs our corporate partner who benefits from years of in guiding clients with their wealth planning
-
-client profile
+</DOC>
+<DOC>client profile
 reading peer review discussion prompts
 welcoming project client profile quick recap part client profile quick recap part the basic steps in investment cognitive biases when choosing which assets to look at cognitive biases when processing financial information cognitive biases when rebalancing your portfolio cognitive biases when evaluating performance wrapup how our emotions impact our investment decisions why we trade what can we from this the key things you need to know to define your investment profile ubs guest speaker the path from an investors profile to hisher optimal investment strategy ubs guest speaker how our age and wealth affect our investment profile main views how our age and wealth affect our investment profile roboadvisors
+</DOC>
 
-investment policy
+<DOC>investment policy
 peer review discussion prompts
 of the milestone risk as volatility the riskreturn tradeoff ubs guest speaker measuring our risk tolerance distribution of returns graphical representation distribution of returns numbers the impact of correlation the benefits of diversification the impact of correlation maximizing diversification a first example of an anticipation crisis the fed model a first example of an anticipation crisis the crash a second example of an anticipation crisis key drivers of tactical asset allocation goals key drivers of tactical asset allocation implementation
+</DOC>
 
-first reporting and rebalancing
+<DOC>first reporting and rebalancing
 peer review discussion prompt
 of the milestone risk management applied to portfolio allocation defining the valueatrisk computing the valueatrisk defining the expected shortfall computing the expected shortfall risk as volatility
+</DOC>
 
-final reporting
+<DOC>final reporting
 peer review discussion prompt
 of the milestone the sharpe treynor and sortino ratios sharpe the sharpe treynor and sortino ratios treynor and sortino beating the benchmark or the peer group peer group analysis beating the benchmark or the peer group screening criteria a few concluding words
 </DOC>
-
 <DOC>
 securing investment returns in the long run
 about the famous dichotomy between active and passive investing how to appropriately measure and analyze investment performance and what the future trends in the investment management industry are
 first about absolute and relative performance riskadjusted returns and how to decompose investment performance the focus will then shift to the two main categories of investment vehicles active and passive funds and what they entail in terms of expected performance finally explore the worlds of sustainable finance neurofinance and fintech three areas of research that will shape the future of the investment management industry also benefit from the insights of experts from ubs our corporate partner on the practical implementation of the various concepts develop
-
-general introduction and key concepts
+</DOC>
+<DOC>general introduction and key concepts
 welcome to the and this introductory after reviewing some mistakes no longer make after following this and some useful things to know before the dive into one of the main topics of this the active versus passive investment management debate
 why you should choose this some common mistakes no longer make after this performance some common mistakes no longer make after this selling what is useful to know before this some products master when you next meet your bank advisor mutual funds some products master when you next meet your bank advisor closedend funds introduction to active versus passive management definitions introduction to active versus passive management passive introduction to active versus passive management active
+</DOC>
 
-assessing performance
+<DOC>assessing performance
 welcome to the second of the here start by talking about absolute versus relative performance and mandates the second topic of this will be performance measurement using riskadjusted performance ratios but also asset pricing models finally see how to decompose and attribute performance between the different types of investment decisions undertaken by fund managers
 what choosing the right benchmark ubs guest speaker shifting from relative to absolute return mandates the sharpe treynor and sortino ratios sharpe the sharpe treynor and sortino ratios treynor and sortino tracking error ubs guest speaker using asset pricing models to estimate fund performance defining performance analysis ubs guest speaker performance attribution introduction performance attribution example
+</DOC>
 
-investment vehicles
+<DOC>investment vehicles
 welcome to the third of the explore the worlds of active and passive funds and try to address whether or not active fund management provides added value to a portfolio but before doing so see how to choose the best investment vehicles among both active and passive funds the ends with a discussion with our corporate partner on topics that often divides the world of finance between academia on one side and practitioners on the other
 what dimensions in etf selection ubs guest speaker beating the benchmark or the peer group peer group analysis beating the benchmark or the peer group screening criteria the information ratio says it all what are the pros and cons of a structured product searching for hedge fund alpha lessons from academia asset pricing model searching for hedge fund alpha lessons from academia evidence do active funds really outperform passive funds preliminaries do active funds really outperform passive funds evidence active versus passive management unige ubs discussion part active versus passive management unige ubs discussion part
+</DOC>
 
-future trends
+<DOC>future trends
 welcome to the fourth and last of the this is dedicated to future trends in investment management that are already starting to change how we think about and apply some of the ideas presented in the start with sustainable investing defining it examining its value proposition and see how it can be implemented in the context of a widely diversified portfolio then take a quick look at what neurofinance is and how it can help us make better investment decisions finally leave you with some insights as to how fintech ie information technology solutions applied to finance is likely to shape the future of the investment management industry
 what corporate sustainability and sustainable investing sustainable investing exclusion impact investing integration ubs guest speaker does sustainable investing perform in line with traditional investing theoretical arguments does sustainable investing perform in line with traditional investing evidence climate change and capital markets introduction climate change and capital markets methodology what is neurofinance understanding brain activity for better investment decisions can business analytics big data improve the valueadded of taa using a roboadvisor to better shape the saa outro
 </DOC>
-

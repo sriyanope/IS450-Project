@@ -10,84 +10,92 @@ these courses will help you be your best self wherever you are
 negotiations
 crucial needed to understand the intricate dynamics that go into the process of negotiation and how you can go into your negotiation confident and fully prepared
 about the framework that goes into shaping a successful negotiation in addition to gaining the knowledge that will allow you to adapt to rapidly changing circumstances also about emotional control crafting questions to help you get the information that you need and that will allow you to negotiate in any setting also successfully how to navigate a negotiation through realworld exercises and how to best to build trust diffuse anger and make rational decisions based on the information at hand lastly how to prepare to negotiate in any setting and use your to facilitate with teams and influence by the end of this be able to utilize your newly acquired to successfully negotiate for employment contracts and in any part of your life within this end with the knowledge of how to craft a successful negotiation strategy and manage the conflict that can arise as as build trust
-
-framework
+</DOC>
+<DOC>framework
 the basic structure of every negotiation process review the stages of a negotiation and what steps you should take to prepare also about how to exchange information effectively and how the information exchange process can influence negotiated also how best to exchange offers reinforce these concepts through peer discussions and by completing an actual negotiation in a setting of your choice by the end of this be able to think about negotiations systematically and be better positioned to start and close a negotiation with any counterpart
 introduction to negotiations stages of negotiation preparation preparation continued exchange of information exchange of offers closing a negotiation
+</DOC>
 
-negotiation fundamentals
+<DOC>negotiation fundamentals
 foundational concepts to improve your negotiation about implicit beliefs and how they can affect your mindset prior to a negotiation also about the zone of agreement and how perceptions of the bargaining zone impact your first offer and bargaining position next discover ways to use leverage in your negotiations and how to add issues to make any negotiation more integrative then discover ways to ask questionsand to listen to answersto increase the likelihood that gain information finally integrate key lessons to the applied context of employment negotiations by the end of this have gained insight into how implicit beliefs influence your ability to succeed in a negotiation how to add issues and use leverage and how to best ask questions to gather the information that you need
 implicit beliefs zone of agreement first offers bargaining goods vs services issues leverage creating value judgment what questions do how to ask questions how to answer questions negotiation context employment negotiations
+</DOC>
 
-negotiation dynamics
+<DOC>negotiation dynamics
 how to contend with deception a prevalent challenge in nearly every negotiation context next about ethics and trust in negotiation how to build trust and in whom you should place your trust also gain insight into your own personality by completing the guiltproneness scale and how guiltproneness influences negotiations about power dynamics time pressure and how to manage teams in negotiations by the end of this have learned how to detect and counter deception gained insight into your own guiltproneness how to build trust and how power and time pressure shape negotiation
 deception your own ethics detecting deception decrease the likelihood of being deceived trust whom should you trust time pressure threats teams
+</DOC>
 
-negotiator mindset
+<DOC>negotiator mindset
 how emotion influences negotiations first about emotional regulation and how different emotional states influence how we interact with others next how to manage and deal with anxiety before and during the negotiation process as as how to diffuse anger when dealing with a counterpart lastly how to use humor to build relationships by the end of this understand how recognizing and regulating emotion can make you more successful in any negotiation by understanding how to use humor diffuse anger and manage your own emotions become a far more effective negotiator
 emotion regulation anxiety dealing with anxiety anger dealing with angry counterparts humor conclusion
 </DOC>
-
 <DOC>
 influence
 what does it mean to be influential how does one persuade others to pursue a unified goal how does one leverage power how to develop influence and to become more effective in achieving your organizational goals professor cade massey of the wharton school has designed this to help you understand the framework of power and influence and the dynamics of effective networks and shows you how to develop your of persuasion and leverage by the end of this know your own strengths and how to use them to get what you need how to gain power and influence and how to leverage relationships and alliances to achieve your goals in both business and in life
-
-
+</DOC>
+<DOC>
 begin by defining influence weigh the pros and cons of proactivity and political ability and find the right balance to get any job done within your organization different models of power structures and dynamics and discover the importance of flexibility situational awareness and agency by the end of this be better able to analyze organizational structure recognize processes within your organization that need improvement and use your power of influence to optimize these processes
 introduction what is power justworld fallacy case sergio de mello themes from de mello foundations of social power french raven what about you situation awareness case cuban missile crisis allisons three models of power implications case robert moses the sources of moses power themes from moses
+</DOC>
 
-
+<DOC>
 examine social networks and relationships and how they can help you accomplish your organizational goals be able to differentiate between dense and disconnected networks and weigh the benefits and costs of diversification within your networks then about both successful strategies and common pitfalls in cultivating a network and see how authentic generosity will build reciprocity in your networks and vice versa also explore coalitions and how alliances between parties with different perspectives can be very effective and efficient in achieving mutual goals by the end of this effective strategies for networking coalitionbuilding and leveraging and will be able to form strong alliances and relationships both inside and outside your organization
 introduction relationships seating chart exercise resource dependence and social capital network structure applications cultivating networks organizational perspective common mistakes closing thoughts on social networks introduction to coalitions types of coalitions coalition examples prescriptions for coalitions case washington square
+</DOC>
 
-
+<DOC>
 this was designed to help you develop your persuasive tactics and rhetoric to increase your influence by discussing historical examples of classical principles of persuasionfrom aristotle to the six succes factorsyoull what makes ideas memorable and be able to craft effective messages of your own assess your own strengths and weaknesses in influence tactics by taking the leverage inventory survey also explore statistical analysis examining the relative effectiveness of soft hard and smart power strategies by the end of this be able to employ a toolbox of approaches to gain power and influence and be prepared to bring the right leveraging to any situation
 introduction tactics introduction to persuasion heath heath cialdini aristotle closing thoughts on persuasion assessing influence tactics assessment content basic results performance results cluster analysis path forward and prescriptions
+</DOC>
 
-
+<DOC>
 examine the ethical implications of persuasion and the responsibilities that come with having a powerful leveraging toolkit by looking at examples of our own unconscious biases gain a better understanding of where your perspective and values stand how to find the right balance in making the necessary tradeoffs while exerting sustainable influence through exploring different hypothetical scenarios in the hard questions survey form strategies to avoid common pitfalls while leveraging influence by the end of this have a deeper understanding of the ethics of persuasion and influence and be able to make difficult decisions that are more aligned with you and your organizations values
 introduction pitfalls introduction and behavioral ethics hard questions survey explained on principles ethical frameworks the psychology of status notable examples what can you do about it closing thoughts on status seven habits of the influential conclusion
 </DOC>
-
 <DOC>
 improving communication
 how to communicate more effectively at and achieve your goals taught by awardwinning wharton professor and bestselling author maurice schweitzer improving communications is an essential designed to give you both the tools you need to improve your communication and the most successful strategies for using them to your advantage how to discover if someone is lying and how to react if they are how to develop trust the best method of communication for negotiation and how to apologize also when to cooperate and when to compete how to create persuasive messages ask thoughtful questions engage in active listening and choose the right medium facetoface conversation conference phone call or email for your messages by the end of the be able to understand what others want respond strategically to their wants and needs craft convincing and clear messages and develop the critical communication you need to get ahead in business and in life
-
-cooperation competition and comparisons
+</DOC>
+<DOC>cooperation competition and comparisons
 when to compete and when to cooperate to achieve success explore the three key principles of cooperation and competition scarcity sociability and dynamic instability and how to determine which approach to use based on your situation also discover how to use comparisons to provide motivation and how to avoid invidious comparisons which can lead to discouragement or unethical behavior by the end of this be able to attain a better balance between competitive motivation and cooperative satisfaction to make your interactions more productive and successful
 introduction the thin line between cooperation and competition the three principles of cooperation and competition the mechanics of comparisons the misery of upward comparisons comparisons and motivation comparisons and cheating comparisons finding your balance
+</DOC>
 
-trust
+<DOC>trust
 explore how to gain and built trust to develop cooperation and understand why this critical step can be so challenging examine the factors that develop a trusting relationship demonstrating vulnerability building rapport and expressing warmth and how to increase trust by uncovering common goals common enemies and interdependence also how to communicate with team members friends and opponents in a way that encourages trust by the end of this understand how to build trusting relationships to achieve cooperation and mutual satisfaction
 the cooperation challenge building trust vulnerability building trust rapport warmth equality building trust interdependence common goals common enemies building trust communication and institutions signaling and trust trust emotion and limited feedback
+</DOC>
 
-deception
+<DOC>deception
 what deception is how to detect it and what to do once you know its taken place examine the most common cues that indicate deception and explore practical steps to take when you discover deception also be able to evaluate deceptions and transgressions to determine whether they are core or noncore violations finally analyze the components of successful apologies so you can create your own if necessary by the conclusion of this be able to better detect deception and devise an appropriate reaction that will help you achieve your objectives
 fundamental truths about deception the challenge of lie detection cues to detect deception matching the content and context practical steps nature of violations learning from bad apologies the apology formula preparing the apology
+</DOC>
 
-effective communication
+<DOC>effective communication
 this was designed to teach you both the key principles of effective communication and how to harness the power of setting goals to improve your performance how to create memorable and persuasive messages ask thoughtful questions engage in active listening and choose the right medium facetoface conversation conference phone call or email for your messages also the how to use goal setting for maximum benefit while avoiding the common pitfalls of overly ambitious targets by the end of this be able to communicate effectively using the right medium and use goalsetting to increase your productivity and boost your performance
 conveying ideas make messages memorable asking questions a deeper look at questions active listening nonverbal communication communication media threats the benefits of goals goal setting pitfalls making the most of goal setting crossing the finish line conclusion
 </DOC>
-
 <DOC>
 success
 do you want to be more successful this was designed to help you define what success means to you and to develop a plan for achieving it wharton professor g richard shell an awardwinning author and the creator of the popular wharton school on the meaning of success created this to help you answer the questions that arise when you consider how best to use your life drawing on his decades of research and mentoring shell offers personalized assessments to help you probe your past imagine your future and measure your strengths he then combines these with the latest scientific insights on everything from selfconfidence and happiness to relationships and careers throughout he shares inspiring examples of people who found what they were meant to do by embracing their own true measure of success get ready for the journey of a lifetimeone that will help you reevaluate your future and envision success on your own terms students and executives say that richard shells courses and executive training programs have changed their lives let this change yours
-
-launching your personal search for success
+</DOC>
+<DOC>launching your personal search for success
 this is designed to help you define success for yourself through exploring the hidden beliefs you hold about success the three truths of success and the role of culture and family in defining success also participate in the six lives exercise which will guide you to deeper questions of your beliefs about success as as how those beliefs compare to others by the end of this be able to assess yourself your values and your images of what success means as a result you can begin to adapt the tools that will for you to achieve whatever your definition of success is
 introduction how to use this why this will be useful why i am teaching this three truths about success the six lives exercise the six lives exercise analysis the two sides of success the role of culture and family in setting your success values my story where we are and where we are going
+</DOC>
 
-how to think about success on your own terms
+<DOC>how to think about success on your own terms
 how to think about success on your own terms explore ways of looking inside yourself and into your past to find the values and capabilities that you have determined for your personal success identify your four diamonds the capabilities you have in your own heart and soul to develop the inner and outer success that will be most satisfying to you the two habits that successful people share as as the four different ways you can renew your success values by the end of this have a deep understanding of what success is for you on your terms and how to sustain and renew your beliefs in the face of challenges
 wake up a fable where are your diamonds habits of successful people why are your success values so easy to forget where we are
+</DOC>
 
-diving deeper what research tells us about achievement and happiness
+<DOC>diving deeper what research tells us about achievement and happiness
 this was created to give you an of the science of success so that you can use that knowledge to begin exploring the relationship between success and happiness the four traps of achievement as as the four reasons to worry about achievementbased success finally examine the question of whether or not success equals happiness by the end of this be able to differentiate between success that is based on achievements which can be unsatisfying and success based on other metrics that can bring deep satisfaction to your life
 the science of success the traps if you base your success on achievements four reasons to worry about achievement based success does success equal happiness
+</DOC>
 
-putting it together charting your path to the future
+<DOC>putting it together charting your path to the future
 begin putting together everything you have learned about yourself and about success so that you can chart your own path to the future how to use the achievementhappiness matrix to assess your current state how to determine your current motivations how to discover what is meaningful to you and whether or not you are employed doing it and how happiness and success are measured differently conclude this and the by creating a personal theory of success which share with your classmates in peer review there have the to see other theories of success which may spark some additional exploration of your own by the end of this have articulated a personalized theory and vision of success that you can use to create more happiness for you yourself
 putting it all together analyzing the matrix assess your current motivation meaningful wise angel conclusion
 </DOC>
-

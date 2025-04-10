@@ -8,144 +8,157 @@ throughout the on reallife projects and scenarios to build a portfolio of sample
 <DOC>
 benefits financial protection growth assistance
 this is a benefitsfocused for anyone interested in pursuing a regarding financial protection growth and assistance programs that a company may offer as part of the benefits strategy explore financerelated programs common in many total rewards strategies like insurance plans designed to protect employees finances then evaluate growth and equity programs with particular focus on the features of k and employee stock purchase plans espp finally about a growing rewards area educational cost assistance in the end update and finalize the employee communication piece for the fictional company blue space tech performance group that you started in the benefits health wellness and lifestyle
-
-financial protection plans
+</DOC>
+<DOC>financial protection plans
 the first looks at benefit options employers might choose to protect the financial wellbeing of their employees and the value this strategy provides to both the employer and employees take a closer look at sick disability and leave options and at life accidental death and dismemberment add and critical illness insurance finally explore some of the typical administrative tasks and the metrics used to evaluate the success of these types of programs once complete have an imputed income worksheet and scenario responses to add to your project portfolio
 introduction financial protection strategies sick time options short and longterm disability coverage fmla provisions sick disability fmla solid protection life insurance and add life insurance evidence of insurability life insurance imputed income critical illness coverage administering financial protection plans evaluating financial protection plans
+</DOC>
 
-financial growth and k plans
+<DOC>financial growth and k plans
 section look at plans designed to support employees financial growth the different types and the value they create for both the organization and employees get into the details of k plans one of the most popular types in the market today finally about the administrative responsibilities you may have as a compensation and benefits analyst and the metrics used to measure the success of financial growth plans in the end have handson projects that demonstrate your ability to complete k calculations and evaluate the effectiveness of blue space tech performance companys k
 basics of financial growth plans k a popular choice participation eligibility and enrollment contributions and caps investments part investments part loans rollovers plan sponsors and administrators nondiscrimination testing government reporting and documentation evaluating the k
+</DOC>
 
-financial growth and stock purchase plans
+<DOC>financial growth and stock purchase plans
 continue your look at financial growth with a focus on employee stock purchase plans espp a common offering in larger publiclytraded organizations start with an exploration of why organizations include this type of in their total rewards strategy then investigate common details administration tasks and evaluation metrics in the end have a contribution and calculation worksheet for your project portfolio
 basics of espps plan design and value espp and k investments comparison of plan features eligibility and contributions enrollment offering and freeze periods purchase of shares evaluating your espp
+</DOC>
 
-educational assistance programs
+<DOC>educational assistance programs
 how organizations use education assistance programs as part of their total rewards strategies while evaluate different types of education assistance focus on tuition reimbursement common aspects administrative tasks and evaluative metrics
 basics of education assistance programs tuition reimbursement a common offering common features
+</DOC>
 
-wrap up
+<DOC>wrap up
 spend time updating your benefits frequently asked questions faq document to address questions regarding the financial benefits addressed
 employee benefits faq part instructions completion congratulations
 </DOC>
-
 <DOC>
 fundamentals of compensation strategies
 the fundamentals of compensation strategies introduces you to the key element of total rewards compensation gain greater awareness of the different types of compensation and how the value of each type may vary depending on the organization and employees needs look at regulatory topics that impact the compensation field and factors that promote fairness transparency and accountability in the latter half of the look at designing a compensation strategy and the role the compensation and benefits analyst plays in administering and managing to strategy elements
-
-introduction to compensation and regulatory topics
+</DOC>
+<DOC>introduction to compensation and regulatory topics
 of the compensation section of your explore fundamental compensation concepts start with the different types of direct compensation and the points in time when employees are likely to changes in those compensation areas then about regulations that influence compensation and compensation strategies including a closer look at the fair labor standards act definitions of exempt and nonexempt and how it impacts base compensation finally after a closer look at both variable and equity compensation consider the importance of staying current on compensation regulations and trends
 introduction fundamentals of compensation strategies introduction to compensation strategy key federal regulations for compensation other regulatory requirements introducing the common law test and the abc test employee or independent contractor statutory employees and nonemployees white collar exemptions introduction to variable compensation weighing the pros and cons of variable compensation introduction to equity compensation the lifecycle of an equity grant
+</DOC>
 
-developing compensation strategies
+<DOC>developing compensation strategies
 now that youre familiar with elements of compensation and related regulations start to explore how these elements come together to create and support the compensation area of an organizations total rewards strategy begin by looking at common approach to creating the strategy starting with defining the organizations compensation philosophy from there touch on compensationspecific data sources and considerations as as common issues you may find in analyzing that data
 value of an effective compensation strategy defining a compensation philosophy importance of benchmarking data
+</DOC>
 
-administering communicating and evaluating comp strategies
+<DOC>administering communicating and evaluating comp strategies
 of this turn your attention to some of the key responsibilities for a compensation and benefits analyst administering communicating and evaluating your organizations compensation strategy and programs
 the compensation and benefits analysts role in administering compensation plans the importance of updating and aging communicating compensation strategies compensation metrics and kpis evaluating adverse impacts administering communicating evaluating recap congratulations complete
 </DOC>
-
 <DOC>
 fundamentals of benefit strategies
 this is for anyone who wants to begin their exploration of the benefits component of total rewards here how to ensure your organizations benefit strategy is valuable for both the organization and employees competitive and fair also about various laws and regulations that impact benefit strategy design and administration finally explore the compensation and benefits analyst role in successfully administering the benefits strategy and apply what you have learned by evaluating the benefits strategy of a fictional company blue space tech performance and creating an annual planning calendar
-
-introduction to benefits strategies and regulatory topics
+</DOC>
+<DOC>introduction to benefits strategies and regulatory topics
 your exploration of benefits begins with a deeper look at the value they add to total rewards also explore the legal aspects of benefits and benefit administration and why staying current arena is so important to the compensation and benefits analyst
 introduction to benefits strategies communication is critical musthave benefits other regulatory requirements
+</DOC>
 
-designing benefits strategies
+<DOC>designing benefits strategies
 look at benefits strategy design in detail starting with the three main factors that shape a strategy walk through a design process and best practices that better ensure your strategy is datadriven and inclusive finally apply your learning to blue space tech performance companys strategy for competitiveness value and potential bias
 strategy considerations budget considerations using a broker designing a benefits strategy formulating and communicating benefit plans case study evaluating blue space techs benefits strategy
+</DOC>
 
-administering evaluating and communicating your benefits strategy
+<DOC>administering evaluating and communicating your benefits strategy
 section of the about a key area of the compensation and benefits analyst role administering evaluating and communicating your organizations benefits strategy and programs start by identifying common responsibilities the importance of clarifying team members roles and planning for those duties to ensure theyre completed effectively then consider best practices in evaluating strategy and effectiveness including slicing data across employee groups finally explore the value created by a successful communication strategy and elements to increase its effectiveness
 compensation and benefits analysts role administering benefit plans effective communication strategies completion congratulations
 </DOC>
-
 <DOC>
 essential for comp benefits professionals
 successful compensation and benefit analysts consistently use data to drive their decisions in managing projects tasks and strategies this provides you with the foundational knowledge needed to develop essential in project management data analytics microsoft excel and data visualization have a chance to strengthen these throughout the rest of this as you complete handson projects for your portfolio
-
-project management basics
+</DOC>
+<DOC>project management basics
 this focuses on a in high demand around the world project management start with basic definitions and concepts then different methodologies like waterfall agile and critical path also explore useful project tools and visuals begin to apply your new knowledge by creating two common project artifacts a raci chart and a project timeline
 introduction essential introduction to project management project management lifecycle raci model project management methodologies apps and online platforms project visuals
+</DOC>
 
-using data analytics to support datadriven decisions
+<DOC>using data analytics to support datadriven decisions
 begin to explore the area of data analytics a needed for many of the tasks assigned to a compensation and benefits analyst start with learning what we mean by the term data analytics and how important it is to business across industry sectors also delve into the common phases in the analytic process and look at data privacy in the later part of the about the different types of data analytics along with the types of data analytic methods and tools commonly used to perform each
 a voice from the field introduction to data analytics types of data analytics data analytics techniques part data analytics techniques part quantitative methods no worries descriptive statistics mean median mode descriptive statistics range interquartile range variance working with percentiles qualitative data analytics
+</DOC>
 
-collecting data for analysis
+<DOC>collecting data for analysis
 the integrity of data is critically important in data analytics so how you collect data is ultimately important too here evaluate methods and tools for collecting data start with broad concepts of primary and secondary data collection then look more closely at the frequently used methods like surveys interviews and focus groups also consider what makes for effective survey questions and how you can formulate questions that focus on the data that really matters
 collection methods matter formulating effective questions developing effective focus group questions
+</DOC>
 
-preparing data for analysis
+<DOC>preparing data for analysis
 start using the data analytic concepts youve learned to prepare a dataset by cleaning it by doing this make it more useable for analysis and perform qualitative methods this focuses on the use of microsoft excel and to create a free account with microsoft office if needed
 introduction to data preparation scrubbing data usable data introduction data analysis introduction
+</DOC>
 
-visualizing data and interpreting results
+<DOC>visualizing data and interpreting results
 of the to use the data youve prepared to create visuals that will assist you interpreting and communicating conclusions begin with exploring how to create effective visuals and then apply those principles to the dataset you scrubbed and prepared in how to use those visualizations to tell the conclusion of your story with reports and dashboards note need the dataset you worked with along with access to ms excel or google sheets again
 introduction to data visualization designing effective visuals creating visuals using spreadsheets interpreting data results completecongratulations
 </DOC>
-
 <DOC>
 compensation job evaluations pay structures
 this is for anyone who needs to delve into job evaluations and pay ranges begin with the basics a common process and all the terms associated with it then your way through the process learning about job analysis job evaluations pay ranges and finally pay structures along the way have with blue space tech performances job evaluation data to create job grades and pay ranges also evaluate pay equity and the common issues brought to light when creating or reviewing job and pay data
-
-job architecture analysis and evaluation
+</DOC>
+<DOC>job architecture analysis and evaluation
 this provides the foundational knowledge and guidance to conduct a simple job evaluation and create job grades starting with a solid understanding of job architectural structures then move to job analysis with particular emphasis on the difference between job descriptions and job analysis then use a popular job evaluation method to fit blue space tech jobs into an architectural framework and assign job grades
 introduction to job and pay structures importance of solid architecture considerations for job architecture review job analysis process job analysis methods job evaluation process job evaluation methods job grades after the evaluation documenting job evaluation results
+</DOC>
 
-pay ranges
+<DOC>pay ranges
 with job evaluation in hand youre ready to start evaluating pay ranges explore the concept of pay ranges and methods for defining them also do calculations to define the important statistical information for each range
 introduction to pay ranges defining ranges calculating pay ranges identifying the target percentile calculating salary differentials creating pay range policies using ranges for compensation planning job architecture pay ranges performance management
+</DOC>
 
-pay structures
+<DOC>pay structures
 section to bring pay ranges together to create a strategic pay structure after looking at calculations like compensation and market ratios use your data visualization to create a chart to communicate the structure and range details
 introduction to pay structures defining the pay structure compensation ratio salary range penetration market ratio pay range and structure visuals
+</DOC>
 
-analyzing employee pay against pay structures
+<DOC>analyzing employee pay against pay structures
 turn your attention to internal compensation data evaluating areas of pay equity and pay compression using data from blue space tech explore approaches for handling employees whose pay falls outside salary targets also gain insight into metrics commonly used to gauge pay equity among various groups of employees and strategies for addressing issues that may be revealed
 analyzing employee pay pay structure outliers addressing pay structure outliers pay compression addressing pay compression pay equity issues addressing pay equity issues completion
 </DOC>
-
 <DOC>
 total rewards the role of compensation benefits
 this is the first in adps hr compensation and benefit analyst it begins with an of the so you know exactly what to expect then about our first key concept total rewards and the role compensation and benefits plays in designing administering and managing an organizations total rewards strategy
 after completing this have the to identify contributing factors of a total rewards strategy that creates value for organizations and employees determine the role of compensation and benefits in terms of the duties and expectations for the general function and the analyst role evaluate your strengths and abilities as compared to the and competencies of a typical compensation and benefits analyst
-
-
+</DOC>
+<DOC>
 this first was designed to set you up for success throughout the about the structure activities and projects that make up the also be introduced to blue space tech a fictitious company with in activities and projects
 welcome to your learning welcome to blue space tech
+</DOC>
 
-introduction to total rewards
+<DOC>introduction to total rewards
 explore the elements that make up a total rewards and how they come together to create value for both the organization and employees also look at the factors needed to design and maintain a highvalue total rewards
 introduction to total rewards and the role of the compensation and benefits analyst elements of total rewards the value of total rewards strategy design and maintenance
+</DOC>
 
-compensation and benefits roles
+<DOC>compensation and benefits roles
 look at the role of compensation and benefits as part of the human resources field and organizations in general the value the function creates and the challenges they face also have a chance to explore the common roles within compensation and benefits teams and how they may vary based on the size of the organization and team finally look at the compensation and benefits analyst role and how your own and competencies compare after completing a selfassessment create a plan to focus your studies throughout the and potentially your development as you continue your journey
 compensation and benefits teams compensation and benefits challenges roles within compensation and benefits compensation and benefits paths complete congratulations
 </DOC>
-
 <DOC>
 benefits health wellness lifestyle
 this is for anyone who wants to transition into a benefit focused role within an hr department gain a deeper level of exposure to the details of benefit offerings start by evaluating critical concepts related to health benefits along with plan types and structures then about spending accounts related to health and dependent care in the last two explore and lifestylerelated benefits like timeoff strategies finally use your new knowledge to create an employee communication strategy for blue space tech performance companys employees
-
-health and welfare benefits critical concepts
+</DOC>
+<DOC>health and welfare benefits critical concepts
 about concepts common across most health and welfare benefit offerings starting with the conditions that have to be met for any plan to qualify under internal review code section
 health wellness lifestyle introduction to health wellness and lifestyle benefits coverage options and networks price premiums and costs coinsurance copays and maximums coordination of benefits cob employee eligibility dependents and qmcsos enrollment periods enrollment methods and timing qualifying events
+</DOC>
 
-healthcare plans and spending accounts
+<DOC>healthcare plans and spending accounts
 focus your attention on details of healthcare plans including medical prescription dental and vision plus about flexible spending accounts fsas health savings accounts hsas and health reimbursement accounts hras finally consider details of administering these plans and monitoring their value as part of your organizations total rewards offering
 medical plan types bundling coverage plans types of flexible spending accounts administering healthcare plans and spending accounts
+</DOC>
 
-benefits
+<DOC>benefits
 benefits are a broad category of benefits related to how employees their jobs and workplace look at some of the more common types of benefits with focus on the most popular paid time off practice calculating time off allowances and finish by looking at specific administration and evaluation points
 introduction to benefits types of paid timeoff accrual and grant trends administering benefit programs a closer look pto software
+</DOC>
 
-lifestyle benefits and project
+<DOC>lifestyle benefits and project
 of this look at lifestyle benefits programs that support employees in making their daytoday life easier get a quick of the wide variety of programs category including benefits related to worklife balance and other personal needs that impact workers at the end of the start the first part of a project for your portfolio creating an faq to address questions from blue space tech performance companys employees about their benefit options
 the variety of lifestyle benefits balancing your strategy with employee needs administering lifestyle benefit programs evaluating lifestyle benefit programs employee benefits faq part completion congratulations
 </DOC>
-

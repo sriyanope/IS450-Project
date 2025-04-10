@@ -8,106 +8,120 @@ learners will start coding right from the start every presents ample for writing
 <DOC>
 c for c programmers part a
 this is for experienced c programmers who want to in c the examples and exercises require a basic understanding of algorithms and objectoriented software
-
-
+</DOC>
+<DOC>
 how to convert an existing c to c use of type safe inputoutput avoiding the preprocessor
 and organization getting started converting a c to c using c code c improvements c advantages c is better than c c swap function swap function in c generics
-
-
-review of dijkstras shortest path algorithm c functions and generics c classes and oo point as an example
-c generics and functions multiple template arguments graph theory algorithms graph as a data structure dijkstra shortest path c creating types enum operator overloading example typedef days natural way to build widgets c point
-
-
-point default constructor and initializing syntax conversion constructors copy constructor list and dynamic memory allocation deep copy
-c classes object orientation point and its constructor more constructors using dijkstras algorithm the isconnected algorithm complex aggregates lists list print chaining more elaborate list deep vs shallow copy destructor dynamic data structures in stl
-
-
-prims and kruskals algorithms use of basic container classes tripodcontainer iterator algorithm
-mst jarnikprim mst jarnikprim mst another look kruskals algorithm overloading and function selection stl and stl c stl example c feature auto vector methods more code c feature for statement stl input file iterators categories output a random graph
-
-final exam
-practice and final
 </DOC>
 
+<DOC>
+review of dijkstras shortest path algorithm c functions and generics c classes and oo point as an example
+c generics and functions multiple template arguments graph theory algorithms graph as a data structure dijkstra shortest path c creating types enum operator overloading example typedef days natural way to build widgets c point
+</DOC>
+
+<DOC>
+point default constructor and initializing syntax conversion constructors copy constructor list and dynamic memory allocation deep copy
+c classes object orientation point and its constructor more constructors using dijkstras algorithm the isconnected algorithm complex aggregates lists list print chaining more elaborate list deep vs shallow copy destructor dynamic data structures in stl
+</DOC>
+
+<DOC>
+prims and kruskals algorithms use of basic container classes tripodcontainer iterator algorithm
+mst jarnikprim mst jarnikprim mst another look kruskals algorithm overloading and function selection stl and stl c stl example c feature auto vector methods more code c feature for statement stl input file iterators categories output a random graph
+</DOC>
+
+<DOC>final exam
+practice and final
+</DOC>
 <DOC>
 c for everyone structured programming
 in the new world we live in coding is a universally valuable whether youre a scientist artist or a humanist algorithms are everywhere and we all have to understand how they the c language is particularly suited as an introduction to coding its a triedandtrue language and it allows you to understand computing processes at a deep level also get an introduction to more advanced programming in c in the final
 this is a continuation of c for everyone fundamentals which you should take before beginning this the time estimated time commitment for this is five hours a for five weeks
-
-
+</DOC>
+<DOC>
 
 prerequisites for this enums as an adt enums code the c preprocessor preprocessor code use assert for correctness assert code
-
-
-peer reviews
-introduction to struc more advanced adts how to access struct members introduction to the adt stack using a stack to reverse a string
-
-
-peer reviews
-intro to the adt list list of one element code full list code details of list processing honors introduction to binary trees honors detailed binary tree code more advanced io printf
-
-
-peer reviews
-introduction to file io basic fileio code double spacing a file use of main argc argv honors list code with deletion
-
-
-
-intro to c a first example c c features that are easy c using new features c adt as a class
-
-final
-
 </DOC>
 
 <DOC>
-c for c programmers part b
-this is for experienced c programmers who want to in c the examples and exercises require a basic understanding of algorithms and objectoriented software
-
-stl and the game of hex
-this looks at the architecture of the standard template library it is especially important to understand how iterators are used to access container to produce highly efficient generic algorithms the also includes the important new style of function objectthe lambda expression
-welcome to c for c programmers part b new in c standard template library iterator categories example poker probability bidirectional iterator random access iterator stl of containers associative containers stl algorithms library nonmutating algorithm lambda expressions foreach function numerical algorithms functional objects defined function object classes function adapters
-
-hex as a graph and inheritance
-this shows how hex can be played as a game on a graph this involves its representation as an undirected graph in c the explores the inheritance logic and syntax of c a principal example is the base class student and a derived class gradstudent
-tictactoe to hex homework basic hex basics of inheritance traits and inheritance virtual member functions c feature final topics on inheritance hex one style for a x hex graph the inheritance mechanism a derived class gradstudent students and graduate students virtual function selection confusion with overloading
-
-hex and the use of ai and c move semantics
-this explains minmax and the alphabeta algorithm for game playing its programming topics include c move semantics and a detailed example of referential garbage collection
-creating a c class some further constructors move constructor lookahead plausible move generator alphabeta algorithm preview alphabeta improvement to min max polish notation referential garbage collection abstract base class notation tree constructors
-
-monte carlo hex further advanced c topics and patterns
-this shows how to use monte carlo evaluation in complex games such as hex and go this had led top championship level play in both these games the discusses c assertions and exceptions for error handling and the new c feature static asserts finally the last part of the introduces the idea of design pattern a feature of modern oo programming
-assertion exception handling monte carlo basic monte carlo idea simple idea for generating board mc go asserts and exceptions static asserts new c feature exceptions c design patterns c standard thread tuple c new library the bigger picture factory method factory code c example adapter pattern
-
-final exam
-this contains three practice exams which you can take as many times as youd like and the final exam which is worth x of your grade
+peer reviews
+introduction to struc more advanced adts how to access struct members introduction to the adt stack using a stack to reverse a string
 </DOC>
 
+<DOC>
+peer reviews
+intro to the adt list list of one element code full list code details of list processing honors introduction to binary trees honors detailed binary tree code more advanced io printf
+</DOC>
+
+<DOC>
+peer reviews
+introduction to file io basic fileio code double spacing a file use of main argc argv honors list code with deletion
+</DOC>
+
+<DOC>
+
+intro to c a first example c c features that are easy c using new features c adt as a class
+</DOC>
+
+<DOC>final
+
+</DOC>
+<DOC>
+c for c programmers part b
+this is for experienced c programmers who want to in c the examples and exercises require a basic understanding of algorithms and objectoriented software
+</DOC>
+<DOC>stl and the game of hex
+this looks at the architecture of the standard template library it is especially important to understand how iterators are used to access container to produce highly efficient generic algorithms the also includes the important new style of function objectthe lambda expression
+welcome to c for c programmers part b new in c standard template library iterator categories example poker probability bidirectional iterator random access iterator stl of containers associative containers stl algorithms library nonmutating algorithm lambda expressions foreach function numerical algorithms functional objects defined function object classes function adapters
+</DOC>
+
+<DOC>hex as a graph and inheritance
+this shows how hex can be played as a game on a graph this involves its representation as an undirected graph in c the explores the inheritance logic and syntax of c a principal example is the base class student and a derived class gradstudent
+tictactoe to hex homework basic hex basics of inheritance traits and inheritance virtual member functions c feature final topics on inheritance hex one style for a x hex graph the inheritance mechanism a derived class gradstudent students and graduate students virtual function selection confusion with overloading
+</DOC>
+
+<DOC>hex and the use of ai and c move semantics
+this explains minmax and the alphabeta algorithm for game playing its programming topics include c move semantics and a detailed example of referential garbage collection
+creating a c class some further constructors move constructor lookahead plausible move generator alphabeta algorithm preview alphabeta improvement to min max polish notation referential garbage collection abstract base class notation tree constructors
+</DOC>
+
+<DOC>monte carlo hex further advanced c topics and patterns
+this shows how to use monte carlo evaluation in complex games such as hex and go this had led top championship level play in both these games the discusses c assertions and exceptions for error handling and the new c feature static asserts finally the last part of the introduces the idea of design pattern a feature of modern oo programming
+assertion exception handling monte carlo basic monte carlo idea simple idea for generating board mc go asserts and exceptions static asserts new c feature exceptions c design patterns c standard thread tuple c new library the bigger picture factory method factory code c example adapter pattern
+</DOC>
+
+<DOC>final exam
+this contains three practice exams which you can take as many times as youd like and the final exam which is worth x of your grade
+</DOC>
 <DOC>
 c for everyone programming fundamentals
 this is for everyone in the new world we live in coding is a universally valuable whether youre a scientist artist or a humanist algorithms are everywhere and we all have to understand how they the c language is particularly suited as an introduction to coding its a triedandtrue language and it allows you to understand computing processes at a deep level
 no prior knowledge of coding is needed for this start at the beginning the time estimated time commitment for this is five hours a for five weeks
-
-introduction
+</DOC>
+<DOC>introduction
 an of the a history of the c language and a first set of programming activities
 history of c compiling debugging and running a part compiling debugging and running a part file included first example circle code example marathon simple inputoutput fahrenheit simple inputoutput miles
-
-lexical elements and data types
-lexical elements and data types programming activities of increasing sophistication and an optional discussion of more advanced issues
-character sets and tokens comments keywords identifiers operators expressions and precedence file included expression and evaluation declarations fundamental types and sizeof the char type file included the int type the integer and floating point types files included
-
-flow of control and simple functions
-flow of control and simple functions even more sophisticated programming activities and an optional discussion of more advanced issues
-logical operators expressions and shortcircuit evaluation the conditional statement if and ifelse the iterative statement while whilecntcharexplained whilecode example the for statement and its while analog for statement code example oddball operatorsconditional and comma ternaryoperator code example break and continue and switch file included
-
-advanced functions recursion arrays and pointers
-a continuation of functions recursion arrays and pointers
-function definition function code example return statement function prototype function prototype code example function variableswith callbyvalue explained function definitions and scope rules storage class code example simple recursion recursion factorial code recursion fibonacci code file included
-
-arrays and pointers
-further treatment of arrays and pointers and an interesting programming activity
-pointers and simple arrays initialize arrays arraygradecode example what is a pointer pointer code example callbyreference simulated array as a parameter arraybubblesort code merge sort merge code example merge code example file included
-
-final exam
-the end of the first part of c for everyone and an to assess your learning
 </DOC>
 
+<DOC>lexical elements and data types
+lexical elements and data types programming activities of increasing sophistication and an optional discussion of more advanced issues
+character sets and tokens comments keywords identifiers operators expressions and precedence file included expression and evaluation declarations fundamental types and sizeof the char type file included the int type the integer and floating point types files included
+</DOC>
+
+<DOC>flow of control and simple functions
+flow of control and simple functions even more sophisticated programming activities and an optional discussion of more advanced issues
+logical operators expressions and shortcircuit evaluation the conditional statement if and ifelse the iterative statement while whilecntcharexplained whilecode example the for statement and its while analog for statement code example oddball operatorsconditional and comma ternaryoperator code example break and continue and switch file included
+</DOC>
+
+<DOC>advanced functions recursion arrays and pointers
+a continuation of functions recursion arrays and pointers
+function definition function code example return statement function prototype function prototype code example function variableswith callbyvalue explained function definitions and scope rules storage class code example simple recursion recursion factorial code recursion fibonacci code file included
+</DOC>
+
+<DOC>arrays and pointers
+further treatment of arrays and pointers and an interesting programming activity
+pointers and simple arrays initialize arrays arraygradecode example what is a pointer pointer code example callbyreference simulated array as a parameter arraybubblesort code merge sort merge code example merge code example file included
+</DOC>
+
+<DOC>final exam
+the end of the first part of c for everyone and an to assess your learning
+</DOC>

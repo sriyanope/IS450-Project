@@ -7,48 +7,43 @@ in four intensive courses what you need to know to begin assembling and leading 
 building a data science team
 data science is a team sport as a data science executive it is your job to recruit organize and manage the team to success oneweek cover how you can find the right people to fill out your data science team how to organize them to give them the best chance to feel empowered and successful and how to manage your team as it grows
 this is a focused designed to rapidly get you up to speed on the process of building and managing a data science team our goal was to make this as convenient as possible for you without sacrificing any essential content weve left the technical information aside so that you can focus on managing your team and moving it forward after completing this know the different roles in the data science team including data scientist and data engineer how the data science team relates to other teams in an organization what are the expected qualifications of different data science team members relevant questions for interviewing data scientists how to manage the onboarding process for the team how to guide data science teams to success how to encourage and empower data science teams commitment of study hours cover image by jaredzammit creative commons bysa httpsflickrpvuwzz
-
-building a data science team
+</DOC>
+<DOC>building a data science team
 welcome to building a data science team this is one intended to be taken in one the works best if you follow along with the material in the order it is presented each lecture consists of and reading materials and every lecture has a question quiz you need to get out of or better on the quiz to pass overall the quizzes are worth of your grade each with the exception of the last quiz which is worth im excited to have you in the class and look forward to your contributions to the learning community click discussions to see forums where you can discuss the material with fellow students taking the class be sure to introduce yourself to everyone in the meet and greet forumif you have questions about content please post them in the forums to get help from others in the community for technical problems with the coursera platform visit the learner help centergood luck as you get started and i hope you enjoy the jeff
 about your instructor the data team when do you need data science data engineer qualifications data scientist qualifications data science manager qualifications where to find the data team interviewing for data science onboarding the data science team managing the data science team evaluating success of the team embedded teams vs dedicated groups how does data science interact with other groups empowering others to use data common interaction difficulties common internal difficulties wrapup
 </DOC>
-
 <DOC>
 data science in real life
 have you ever had the perfect data science the data pull went perfectly there were no merging errors or missing data hypotheses were clearly defined prior to analyses randomization was performed for the treatment of interest the analytic plan was outlined prior to analysis and followed exactly the conclusions were clear and actionable decisions were obvious has that every happened to you of not data analysis in real life is messy how does one manage a team facing real data analyses oneweek we contrast the ideal with what happens in real life by contrasting the ideal key concepts that will help you manage real life analyses
 this is a focused designed to rapidly get you up to speed on doing data science in real life our goal was to make this as convenient as possible for you without sacrificing any essential content weve left the technical information aside so that you can focus on managing your team and moving it forward after completing this know how to describe the perfect data science identify strengths and weaknesses in experimental designs describe possible pitfalls when pulling assembling data and solutions for managing data pulls challenge statistical modeling assumptions and drive feedback to data analysts describe common pitfalls in communicating data analyses get a glimpse into a day in the life of a data analysis manager the will be taught at a conceptual level for active managers of data scientists and statisticians some key concepts being discussed include experimental design randomization ab testing causal inference counterfactuals strategies for managing data quality bias and confounding contrasting machine learning versus classical statistical inference promo httpswwwyoutubecomwatchvbiymwwnbi cover image by jonathan gross creative commons bynd httpsflickrpqvudb
-
-introduction the perfect data science
+</DOC>
+<DOC>introduction the perfect data science
 this is one intended to be taken in one please do the roughly in the order presented each lecture has reading and except for the introductory lecture every lecture has a question quiz get out of or better on the quiz
 just for fun promotional data science in the ideal versus real life part data science in the ideal versus real life part examples machine learning vs traditional statistics part machine learning vs traditional statistics part managing the data pull experimental design and observational analysis causality part causality part what can go wrong confounding ab testing sampling bias and random sampling blocking and adjustment multiplicity effect size significance modeling comparison with benchmark effects negative controls nonsignificance estimation target is relevant report writing version control
 </DOC>
-
 <DOC>
 executive data science capstone
 the executive data science capstone the specializations culminating project is an for people who have completed all four eds courses to apply what theyve learned to a realworld scenario developed in collaboration with zillow a datadriven online real estate and rental marketplace and datacamp a webbased platform for data science programming your task will be to lead a virtual data science team and make key decisions along the way to demonstrate that you have what it takes to shepherd a complex analysis project from start to finish for the final project prepare and submit a presentation which will be evaluated and graded by your fellow capstone participants
 cover image by luckeysun creative commons bysa httpsflickrpbxjvu
-
-executive data science capstone
+</DOC>
+<DOC>executive data science capstone
 its time to put your to the test managing a data science project at zillow a datadriven online real estate and rental marketplace along the way make important decisions as you lead your team through the project
 </DOC>
-
 <DOC>
 managing data analysis
 this oneweek describes the process of analyzing data and how to manage that process we describe the iterative nature of data analysis and the role of stating a sharp question exploratory data analysis inference formal statistical modeling interpretation and communication in addition describe how to direct analytic activities within a team and to drive the data analysis process towards coherent and useful results
 this is a focused designed to rapidly get you up to speed on the process of data analysis and how it can be managed our goal was to make this as convenient as possible for you without sacrificing any essential content weve left the technical information aside so that you can focus on managing your team and moving it forward after completing this know how to describe the basic data analysis iteration identify different types of questions and translate them to specific datasets describe different types of data pulls explore datasets to determine if data are appropriate for a given question direct model building efforts in common data analyses interpret the results from common data analyses integrate statistical findings to form coherent data analysis presentations commitment of study hours cover image by fdecomite creative commons by httpsflickrphjmvd
-
-managing data analysis
+</DOC>
+<DOC>managing data analysis
 welcome to managing data analysis this is one intended to be taken in one the works best if you follow along with the material in the order it is presented each lecture consists of and reading materials that expand on the lecture im excited to have you in the class and look forward to your contributions to the learning community if you have questions about content please post them in the forums to get help from others in the community for technical problems with the coursera platform visit the learner help center good luck as you get started and i hope you enjoy the
 what this is about data analysis iteration stages of data analysis six types of questions characteristics of a good question exploratory data analysis goals expectations using statistical models to explore your data part using statistical models to explore your data part exploratory data analysis when to stop making inferences from data introduction populations come in many forms inference what can go wrong general framework associational analyses prediction analyses inference vs prediction interpreting your results routine communication in data analysis making a data analysis presentation
 </DOC>
-
 <DOC>
 a crash in data science
 by now you have definitely heard about data science and big data oneweek class provide a crash in what these terms mean and how they play a role in successful organizations this class is for anyone who wants to what all the data science action is about including those who will eventually need to manage data scientists the goal is to get you up to speed as quickly as possible on data science without all the fluff weve designed this to be as convenient as possible without sacrificing any of the essentials
 this is a focused designed to rapidly get you up to speed on the field of data science our goal was to make this as convenient as possible for you without sacrificing any essential content weve left the technical information aside so that you can focus on managing your team and moving it forward after completing this know how to describe the role data science plays in various contexts how statistics machine learning and software engineering play a role in data science how to describe the structure of a data science project know the key terms and tools used by data scientists how to identify a successful and an unsuccessful data science project the role of a data science manager cover image by rhox creative commons bysa httpsflickrpgdmuht
-
-a crash in data science
+</DOC>
+<DOC>a crash in data science
 this onemodule constitutes the first of the executive data science this is an intensive introduction to what you need to know about data science itself important terminology and how successful organizations use data science
 about your instructors what is data science statistics by example activities machine learning the basics machine learning further reading what is software engineering for data science the structure of a data science project the outputs of a data science experiment the four secrets of a successful data science experiment data scientist toolbox separating hype from value
 </DOC>
-

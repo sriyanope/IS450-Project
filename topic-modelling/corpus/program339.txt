@@ -10,127 +10,142 @@ learners will apply methods and techniques learned to sports datasets to generat
 <DOC>
 moneyball and beyond
 the book moneyball triggered a revolution in the analysis of performance statistics in sports by showing that data analytics could be used to increase team winning percentage this shows how to data using python to test the claims that lie behind the moneyball story and to examine the evolution of moneyball statistics since the book was published the learner is led through the process of calculating baseball performance statistics from publicly available datasets the progresses from the analysis of on base percentage and slugging percentage to more advanced measures derived using the run expectancy matrix such as wins above replacement war by the end of this the learner will be able to use these statistics to conduct their own team and player analyses
-
-
+</DOC>
+<DOC>
 we introduce the moneyball story and explore the method used to test that story we begin the process of replicating the moneyball test by establishing the relationship between team winning and and two performance statistics on base percentage obp and slugging percentage slg
 introduction to moneyball reproducing table of hakes and sauer part reproducing table of hakes and sauer part reproducing table of hakes and sauer part reproducing table of hakes and sauer part
+</DOC>
 
-
+<DOC>
 we estimate the relationship between mlb player salaries and their performance statistics obp on base percentage and slg slugging the results appear to confirm the moneyball story obp was undervalued relative to slg prior to the publication of moneyball while after publication the relative significance is reversed
 reproducing table of hakes and sauer part reproducing table of hakes and sauer part reproducing table of hakes and sauer part reproducing table of hakes and sauer part reproducing table of hakes and sauer part reproducing table of hakes and sauer part
+</DOC>
 
-
+<DOC>
 this updates the analysis of hakes sauer and estimates the rewards to obp and slg over the period in addition it shows how rewards can be related to individual components of slg walks singles doubles triples and home runs
 moneyball update part moneyball update part moneyball update part moneyball update part moneyball update part moneyball update part
+</DOC>
 
-
+<DOC>
 this introduces the concept of run expectancy shows how to derive the run expectancy matrix and the calculation of run values based on an mlb dataset of all events in the season run values are calculated by event type walks singles doubles etc and by player
 beyond moneyball run expectancy part beyond moneyball run expectancy part beyond moneyball run expectancy part beyond moneyball run expectancy part
+</DOC>
 
-
+<DOC>
 this examines the concept of wins above replacement war and shows how to calculate war based on batting performance the relationship between play run values team win percentage and player salaries is then explored run values are shown to have a high degree of correlation with winning and with salaries run values can to a limited extent predict win percentage
 beyond moneyball run values and war part beyond moneyball run values and war part beyond moneyball run values and war part beyond moneyball run values and war part
 </DOC>
-
 <DOC>
 prediction models with sports data
 the learner will be shown how to generate forecasts of game results in sports using python the main emphasis of the is on teaching the method of logistic regression as a way of modeling game results using data on team expenditures the learner is taken through the process of modeling past results and then using the model to forecast the games not yet played the will show the learner how to evaluate the reliability of a model using data on betting odds the analysis is applied first to the english premier league then the nba and nhl the also provides an of the relationship between data analytics and gambling its history and the social issues that arise in relation to sports betting including the personal risks
-
-
+</DOC>
+<DOC>
 this introduces the regression models in dealing with the categorical variables in sport contest ie win draw lose it explains the linear probability model lpm in terms of its theoretical foundations computational applications and empirical limitations then the introduces and demonstrates the logistic regression as a better substitute of lpm for the categorical dependent variables
 introduction to prediction models binary and regression part binary and regression part logistic regression part logistic regression part ordered logistic regression part ordered logistic regression part predictive modeling basics of forecasting
-
-
-this explores the relationship between probability and betting markets it explains the concept of odds and the relationship between betting odds and probabilities it then develops a measure of the accuracy of betting odds using sports examples and assesses the meaning of efficiency in betting markets
-gambling and betting markets betting odd and types of bets betting odds and win probabilities evaluating betting odds using brier scores part evaluating betting odds using brier scores part market efficiency and beating the bookmaker
-
-
-this shows how to forecast the of epl soccer games using an ordered logit model and publicly available information it assesses the accuracy of these forecasts against the betting odds and shows that they are remarkably accurate
-forecasting epl results wages and transfermarket part forecasting epl results wages and transfermarket part forecasting epl results within sample prediction part forecasting epl results within sample prediction part forecasting epl results out of sample forecasting part forecasting epl results out of sample forecasting part forecasting epl results forecasting the league table
-
-
-this assesses the efficacy of the epl forecasting model covered in the previous by replicating the model in the context of three north american team sports leagues ie nhl nba mlb specifically this shows how to forecast the of nhl nba mlb regular season games using an ordered logit model and publicly available information it assesses the accuracy of these forecasts against the betting odds
-forecasting model mlb forecasting model nhl part forecasting model nhl part forecasting model nba
-
-
-we examine the historical and social consequences of gambling and the relationship between gambling and statistics gambling is explored from the perspective of different ethical and religious systems issues of problem gambling are explored and assessed
-gambling and the development of probability theory gambling morality and sports part gambling morality and sports part social policy and sports gambling problem gambling part problem gambling part match fixing gambling and sports
 </DOC>
 
 <DOC>
+this explores the relationship between probability and betting markets it explains the concept of odds and the relationship between betting odds and probabilities it then develops a measure of the accuracy of betting odds using sports examples and assesses the meaning of efficiency in betting markets
+gambling and betting markets betting odd and types of bets betting odds and win probabilities evaluating betting odds using brier scores part evaluating betting odds using brier scores part market efficiency and beating the bookmaker
+</DOC>
+
+<DOC>
+this shows how to forecast the of epl soccer games using an ordered logit model and publicly available information it assesses the accuracy of these forecasts against the betting odds and shows that they are remarkably accurate
+forecasting epl results wages and transfermarket part forecasting epl results wages and transfermarket part forecasting epl results within sample prediction part forecasting epl results within sample prediction part forecasting epl results out of sample forecasting part forecasting epl results out of sample forecasting part forecasting epl results forecasting the league table
+</DOC>
+
+<DOC>
+this assesses the efficacy of the epl forecasting model covered in the previous by replicating the model in the context of three north american team sports leagues ie nhl nba mlb specifically this shows how to forecast the of nhl nba mlb regular season games using an ordered logit model and publicly available information it assesses the accuracy of these forecasts against the betting odds
+forecasting model mlb forecasting model nhl part forecasting model nhl part forecasting model nba
+</DOC>
+
+<DOC>
+we examine the historical and social consequences of gambling and the relationship between gambling and statistics gambling is explored from the perspective of different ethical and religious systems issues of problem gambling are explored and assessed
+gambling and the development of probability theory gambling morality and sports part gambling morality and sports part social policy and sports gambling problem gambling part problem gambling part match fixing gambling and sports
+</DOC>
+<DOC>
 introduction to machine learning in sports analytics
 students will explore supervised machine learning techniques using the python scikit sklearn toolkit and realworld athletic data to understand both machine learning algorithms and how to predict athletic building on the previous courses in the students will apply methods such as support vector machines svm decision trees random forest linear and logistic regression and ensembles of learners to examine data from sports leagues such as the nhl and mlb as as wearable devices such as the apple watch and inertial measurement units imus by the end of the students will have a broad understanding of how classification and regression techniques can be used to enable sports analytics across athletic activities and events
-
-machine learning concepts
+</DOC>
+<DOC>machine learning concepts
 will introduce the concept of machine learning and describe the four major areas of places it can be used in sports analytics the machine learning pipeline will be discussed as as some common issues one runs into when using machine learning for sports analytics
 introduction what is machine learning the machine learning workflow our first model nhl game building the logistic regression model considerations in deploying the model wrap up
+</DOC>
 
-support vector machines
+<DOC>support vector machines
 students will how support vector machines svm and will these models when looking at both baseball and wearable data coming out of the students will have building svms with real data and will be able to apply them to problems of their own
 introduction to support vector machines svms polynomial support vector machines cross validation a real world svm model boxing punch classification
+</DOC>
 
-decision trees
+<DOC>decision trees
 will focus on interpretable methods for machine learning with a particular focus on decision trees students will how these models in general and see special uses of decision trees in combination with regression methods students will come to better understand how the python sklearn toolkit can be used for a breadth of supervised learning tasks
 decision trees a multiclass tree approach model trees tuning and inspecting model trees
+</DOC>
 
-ensembles beyond
+<DOC>ensembles beyond
 of the students will how many different models can be used together through ensembles including the random forest method as a common use as as more general methods available in sklearn such as stacking and bagging by the end of students will have a broad understanding of how methods such as svms decision trees and logistic regression can be used together to solve a problem with increasing performance
 ensembles additional machine learning concepts baseball hall of fame prediction baseball hall of fame demonstration part baseball hall of fame demonstration part
 </DOC>
-
 <DOC>
 foundations of sports analytics data representation and models in sports
 this provides an introduction to using python to analyze team performance in sports learners will discover a variety of techniques that can be used to represent sports data and how to extract narratives based on these analytical techniques the main focus of the introduction will be on the use of regression analysis to analyze team and player performance data using examples drawn from the national football league nfl the national basketball association nba the national hockey league nhl the english premier league epl soccer and the indian premier league ipl cricket
 this does not simply explain methods and techniques it enables the learner to apply them to sports datasets of interest so that they can generate their own results rather than relying on the data processing performed by others as a consequence the learning will be empowered to explore their own ideas about sports team performance test them out using the data and so become a producer of sports analytics rather than a consumer while the materials have been developed using python code has also been produced to derive all of the results in r for those who prefer that environment
-
-introduction to sports performance and data
+</DOC>
+<DOC>introduction to sports performance and data
 introduces a simple example of sports analytics in practice the calculation of the pythagorean expectation to model winning in team sports this can also be used for the purposes of prediction examples are developed for five different sports leagues major league baseball mlb the national basketball association nba the national hockey league nhl the english premier league eplsoccer and the indian premier league iplcricket
 introduction to foundations and instructor stefan szymanski faculty introduction wenche wang pythagorean expectation baseball part pythagorean expectation baseball part pythagorean expectation the ipl pythagorean expectation the nba pythagorean expectation english football pythagorean expectation as a predictor in the mlb
+</DOC>
 
-introduction to data sources
+<DOC>introduction to data sources
 will use nba data to introduce basic and important python codes to conduct data cleaning and data preparation also discusses and descriptive analyses with statistics and graphs to understand the distribution of data the characteristics and pattern of variables as as the relationship between two variables at the end of introduce correlation coefficients to summarize the linear relationship between two variables
 accessing data in python i accessing data in python ii data exploration statistics more on statistics correlation analysis
+</DOC>
 
-introduction to sports data and plots in python
+<DOC>introduction to sports data and plots in python
 this introduces some ways of representing data using examples from mlb the nba and indian premier league mlb data is used to analyze the spatial distribution of different hits nba data is used to generate heatmaps to illustrate the different ways in which players contribute ipl data is used to show how team performances can be compared graphically
 data representation cricket pt data representation cricket pt data representation baseball data representation basketball
+</DOC>
 
-introduction to sports data and regression using python
+<DOC>introduction to sports data and regression using python
 introduces the fundamentals of regression analysis discuss how to perform regression analysis using python and how to interpret regression output use nhl data to estimate multiple regression models to identify the team level performance factors that affect the teams winning percentage also use cricket data from the indian premier league to run regression analyses to examine whether player performance impacts player salary
 introduction to regression analysis interpreting regression results more on regressions regression analysis intro to cricket data regression analysis batsmans performance and salary regression analysis bowlers performance and salary
+</DOC>
 
-more on regressions
+<DOC>more on regressions
 this uses regression analysis to investigate the relationship between team salary spending and team performance in the nba nhl epl and ipl the explores different ways of defining the regression model and how to interpret competing regression model results
 using regression analysis an example with nba data using regression analysis an example with epl data using regression analysis an example with mlb data using regression analysis an example with nhl data
+</DOC>
 
-is there a hot hand in basketball
+<DOC>is there a hot hand in basketball
 studies an interesting topic in sport the hot hand introduce the concept of hot hand and discuss the academic research that examines whether the hot hand is a phenomenon or a fallacy demonstrate how to analytically test the hot hand using the nba shot log data test whether nba players have hot hand by computing conditional probabilities and autocorrelation coefficients as as performing regression analyses
 hot hand phenomenon or fallacy nba shot log data preparation i nba shot log data preparation ii conditional probability conditional and unconditional probabilities autocorrelation regression analysis on hot hand i regression analysis on hot hand ii
 </DOC>
-
 <DOC>
 wearable technologies and sports analytics
 sports analytics now include massive datasets from athletes and teams that quantify both training and competition efforts wearable technology devices are being worn by athletes everyday and provide considerable for an indepth look at the stress and recovery of athletes across entire seasons the capturing of these large datasets has led to new hypotheses and strategies regarding injury prevention as as detailed feedback for athletes to try and optimize training and recovery
 this is an introduction to wearable technology devices and their use in training and competition as part of the larger field of sport sciences it includes an introduction to the physiological principles that are relevant to exercise training and sport performance and how wearable devices can be used to help characterize both training and performance it includes access to some large sport team datasets and uses programming in python to explore concepts related to training recovery and performance
-
-introduction to wearable technology
+</DOC>
+<DOC>introduction to wearable technology
 introduce different types of wearable devices that are used by athletes and teams to improve training and recovery start by highlighting what types of sensors are used within the wearable devices and how the data coming from these sensors can provide insights such as training intensity and or physiologic readiness
 welcome to the introduction to wearable technology wearable technology sensors the wearables of athletics
+</DOC>
 
-external loads of wearable technology
+<DOC>external loads of wearable technology
 focus on what we have introduced as external measures point out some of the inaccurate assumptions that are made regarding external measures of load and effort in addition outline how the continuous use of wearable devices has led to new for quantifying effort as as in theory reducing injury and improving performance finish by describing the acute to chronic workload and the reasons it has gained a lot of attention in the past several years
 external loads of wearable technology training and performance measures predicting and preventing injury
+</DOC>
 
-internal measures of wearable technology
+<DOC>internal measures of wearable technology
 dive more into the physiology of training and recovery focusing on what we have introduced as internal measures further explore the use of internal sensors to provide a glimpse of how the individual athlete is responding to the stress induced by training andor competition also highlight the pros and cons of using internal measures to evaluate individual and team training and recovery
 internal measures of wearable technology is hr a pass measure of stress what can other measures add what is so magical about heart rate variability evaluating multiple internal measures which is best difference between cheststrap and wriststrap hr data
+</DOC>
 
-combination of internal and external wearable technology
+<DOC>combination of internal and external wearable technology
 we combine external and internal measures to provide a much more nuanced look at training and recovery the external measures can provide a highly quantified evaluation of the movements and motions that have taken place while the internal measures provide feedback about how the athlete is tolerating the training combining them can be instrumental for evaluating performance improvements and preventing or reducing overuse injuries
 benefits of combining internal and external meaures evaluating external load relative to the internal load evaluating internal and external measures together to determine metrics
+</DOC>
 
-global metrics
+<DOC>global metrics
 discuss the exciting new global metrics that have been developed andor used by many of the consumer devices that are available today although these new metrics are exciting we want to be cognizant of the limitations of these devices therefore discuss what sensors are actually employed to provide these new metrics and highlight where validation is feasible
 introduction to the attraction and dangers of global metrics which wearable metrics do we not have a gold standard to compare against which wearable metrics can we actually validate global metrics example sleep score testing the validity of the rem sleep measure via direct measure with sleep study
 </DOC>
-

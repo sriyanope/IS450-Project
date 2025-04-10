@@ -9,83 +9,91 @@ learners will handson in salesforce to solve real world business problems for a 
 management in salesforce
 the third in the salesforce sales operations management in salesforce is for anyone who is curious about entry level sales roles that require foundational in salesforce the sales operations specialist role specifically and how to use tools in salesforce to manage and close sales deals in a real world business setting
 this third will give you a foundational understanding of how to help sales teams optimize the management process specifically this shows how a sales operations specialist would support account executives and empower them to progress through a sales pipeline and close sales deals as effectively and efficiently as possible this will require the use of new tools in salesforce including products price books quotes contracts and orders learning how to leverage these aspect of salesforce are crucial for anyone interested in entry level sales jobs for this it is recommended but not required that you have some background knowledge of sales and crm as as an understanding of the basics of salesforce platform navigation if youre a total beginner with these concepts you can still be successful however it might require some additional on your part by enrolling you are taking the next step to kickstarting your in salesforce congratulations on continuing this exciting journey
-
-supporting account executives
+</DOC>
+<DOC>supporting account executives
 welcome to management in salesforce the third in the salesforce sales operations by enrolling you are taking the next step to kickstarting your in salesforce in the first of the more about the handoff of qualified leads ie prospects from sdrs to account executives and how salesforce chatter can help ensure that they stay on the same page during this process also more about the account executive role on a sales team how you can support them as a sales ops specialist and dive into the sales pipeline to fully understand what management entails lets get started
 introduction to the the sales operations specialist role salesforce updates and customization introduction the everyday tasks of an account executive salesforce stages sales pipeline management
+</DOC>
 
-working with in salesforce
+<DOC>working with in salesforce
 welcome to the second of management in salesforce last you gained the conceptual foundation you need to understand the role of the account executive and how they to progress prospects through each stage of the sales pipeline en route to closing the deal now you are going to hands on with management tools in salesforce that you can leverage to empower aes to do their jobs as effectively and efficiently as possible at the end of also tackle your first independent project which will give you an to explore a business use case in salesforce hands on by completing this project be able to create a valuable portfolio piece and sample that you can use during your future job search
+</DOC>
 
-using products price books and quotes in the sales process
+<DOC>using products price books and quotes in the sales process
 welcome to the third of management in salesforce dive into working with products price books and quotes in salesforce and how these standard objects help account executives move potential sales deals closer to the finish line keep in mind that by learning these more advanced salesforce you are setting yourself apart as a very strong candidate not only for the sales ops specialist role but for any entry level sales job
+</DOC>
 
-contracts and orders
+<DOC>contracts and orders
 welcome to the final of management in salesforce youve done a great job making it this far so take a moment to acknowledge and appreciate your effort learning management tools in salesforce is tough so congratulations on making it to this point youre putting in great thats going to have a big payoff how to support aes in the next stage of the sales process closing deals at this point the sales team has put in a lot of effort into each and every so its important that you the and practices that will help ensure that the sales team actually wins those deals keep in mind that winning a deal means a prospect has signed a contract and has become a paying customer with your company and remember your number one goal as a sales ops specialist is to help a sales team win deals as efficiently and consistently as possible
 introduction recap congratulations
 </DOC>
-
 <DOC>
 reports dashboards and customer success in salesforce
 the fourth in the salesforce sales operations reports dashboards and customer success in salesforce is for anyone who is curious about entry level sales roles that require foundational in salesforce the sales operations specialist role specifically how to use tools in salesforce to improve customer service at a business how to leverage data in salesforce to improve the overall performance of a sales team and the path to becoming a salesforce administrator
 this fourth goes into more depth on how a sales operations specialist would use salesforce service cloud to support a variety of different customer service needs the basics of effective customer support and leverage a variety of new tools available in the salesforce service cloud to effectively manage customer relationships this also goes into more depth on how a sales ops specialist would use salesforce reports and dashboards to support a variety of needs from a sales team manager to track improve and forecast the overall performance of a sales team how to use filters to produce custom reports in salesforce and then discover how to visualize that data effectively through the use of charts and dashboards for this it is recommended but not required that you have some background knowledge of sales and crm as as an understanding of the basics of salesforce platform navigation if youre a total beginner with these concepts you can still be successful however it might require some additional on your part by enrolling you are taking the next step to kickstarting your in salesforce congratulations on continuing this exciting journey
-
-supporting customer success managers
+</DOC>
+<DOC>supporting customer success managers
 welcome to the first of reports dashboards and customer success in salesforce the fourth and final in the salesforce sales operations about the final stage of the sales process customer success also more about the customer success manager or csm role how you can support that role as a sales ops specialist and dive into the service cloud to fully understand what tools are available to you to make sure that a csm is doing their job as efficiently and effectively as possible
 introduction to the the sales operations specialist role salesforce updates and customization introduction everyday tasks of a customer success manager
+</DOC>
 
-service cases in salesforce
+<DOC>service cases in salesforce
 welcome to the second of reports dashboards and customer success in salesforce you are going to go even deeper into the service cloud and hands on with customer success tools in salesforce through the guided project in these guided projects how you can leverage salesforce to empower csms to do their jobs as effectively and efficiently as possible by working with cases and exploring other features like knowledge and the service console at the end of also tackle your first independent project which will give you an to explore a business use case in salesforce hands on by completing this project be able to create a valuable portfolio piece and sample that you can use during your future job search
+</DOC>
 
-supporting sales managers with reports
+<DOC>supporting sales managers with reports
 welcome to the third of reports dashboards and customer success in salesforce you are going to dive into a new role the sales manager and how to best support the different needs of that role by leveraging salesforce data in the form of reports knowing how to parse through salesforce data understand whats most important and use that targeted data to solve specific business problems is an incredibly valuable to have there are many reasons why its valuable to leverage salesforce data to solve real world problems some of which include the ability to track improve and forecast the performance of a sales team in order to make sure that the team is hitting its goals which more about
 introduction the responsibilities of a sales manager going from request to report sales team members and the sales process a review
+</DOC>
 
-charts and dashboards
+<DOC>charts and dashboards
 welcome to the final of reports dashboards and customer success in salesforce how to create visualizations of the data in your salesforce reports using report charts and dashboards creating these visualizations for sales managers and other sales team members can be an incredibly effective way to highlight key metrics so that sales teams can make informed datadriven decisions on the job helping them achieve their collective goals and hit their target sales revenue at the end of also tackle your final independent project which will give you an to explore a business use case in salesforce hands on by completing this project be able to create a valuable portfolio piece and sample that you can use during your future job search
 introduction and recap congratulations
 </DOC>
-
 <DOC>
 sales and crm
 this is the first of a series that aims to teach you the foundational in salesforce that will prepare you for a variety of entrylevel sales roles including the sales operations specialist position
 this is designed for beginners no previous in salesforce sales or crm is necessary to be successful be introduced to essential concepts like the fundamentals of the sales process also about what customer relationship management crm systems are and what they are used for dive into salesforces main products and their use cases and gain a working knowledge of the key functionalities of the salesforce sales cloud that help support a businesss growth this is the first step in your learning journey with salesforce it will provide you with the foundation you need to go into depth with more advanced salesforce tools taught later in the and ultimately launch your new please note that if you already have background knowledge in sales and crm or if you want to dive immediately into content that goes into more depth with salesforce it is recommended that you start with lead management in salesforce
-
-salesforce for business
+</DOC>
+<DOC>salesforce for business
 welcome to sales and crm the first of the salesforce sales operations by enrolling you are taking the first step to kickstarting your in salesforce in the first of the more about what customer relationship management crm systems are and what theyre used for discover what salesforce is and how it is used across industries and teams also about what a sales ops specialist does and why salesforce is such a critical part of their job lets get started
 welcome to the the sales operations specialist role welcome to the welcome to challenges business face who uses salesforce
+</DOC>
 
-the sales process
+<DOC>the sales process
 welcome to the second of sales and crm is all about sales and the sales process by the end of be able to distinguish between two major types of sales bc and bb identify each step of the sales process and explain their importance explain how the sales process might differ across different companies and distinguish between the different roles on a sales team remember this is critical information not only for the sales ops specialist role but for any entry level sales job lets get started
 welcome to bc vs bb sales differences and similarities review of the sales process sales process examples
+</DOC>
 
-data that matters in crm
+<DOC>data that matters in crm
 welcome to the third of sales and crm is all about data that matters in crm by the end of be able to describe the function of a database in the context of crm discuss the importance of tracking data and data hygiene in crm identify the benefits and challenges of using sticky notes and spreadsheets as crm tools and summarize some of the advantages that salesforce offers as a crm remember salesforce is essentially a database and having a clear understanding of what high quality data is and why its so important is critical to not only the sales ops specialist role but any entry level sales job so without further ado lets get started
 welcome to databases and data hygiene
+</DOC>
 
-the sales cloud
+<DOC>the sales cloud
 welcome to the final of sales and crm youve done a great job making it this far so first of all take a moment to appreciate your effort but theres still to be done so lets stay focused and make sure we finish strong have the chance to enter trailhead salesforce official learning platform enabling you to navigate and explore some of the features of the salesforce sales cloud by the end of be able to create and set up a trailhead account identify key components of the trailhead learning set up a trailhead playground and describe the key functionalities of the sales cloud crm that helps support a businesss growth the finish line for this is in sight for you lets run through it
 welcome to salesforce updates and customization structure of a resume resume best practices recap congratulations
 </DOC>
-
 <DOC>
 lead management in salesforce
 the second in the salesforce sales operations lead management in salesforce is for anyone who is curious about entry level sales roles that require foundational in salesforce the sales operations specialist role specifically and how to use tools in salesforce to manage leads in a real world business setting
 this second will give you a foundational understanding of how to help sales and marketing teams optimize the lead management process specifically this shows how a sales operations specialist would support a marketing associate and sales development representative to make the lead management more effective and efficient the basics of data management how to upload lead data into salesforce and then how to effectively train team members to manage leads using the different tools available in the salesforce sales cloud these are crucial for anyone interested in entry level sales jobs for this it is recommended but not required that you have some background knowledge of sales and crm as as an understanding of the basics of salesforce platform navigation if youre a total beginner with these concepts you can still be successful however it might require some additional on your part by enrolling you are taking the next step to kickstarting your in salesforce congratulations on continuing this exciting journey
-
-importing data and working with leads
+</DOC>
+<DOC>importing data and working with leads
 welcome to lead management in salesforce the second of the salesforce sales operations by enrolling you are taking the next step to kickstarting your in salesforce in the first of the more about what marketing associates do in a company explore their role in the lead management process and hands on to empower them with salesforce sales cloud tools to do their jobs more efficiently and effectively lets get started
 introduction to the the sales operations specialist role introduction the everyday tasks of a marketing associate salesforce updates and customization
+</DOC>
 
-organizing leads campaigns and tasks
+<DOC>organizing leads campaigns and tasks
 welcome to the second of lead management in salesforce last you really went hands on with salesforce in your guided project and there are going to be more to with the lead management tools in salesforce in real world situations youre going to dive even deeper into the role of the marketing associate a team member who plays a critical part in the sales process specifically youre going to how to edit and filter leads and with campaigns to support this team member and empower them with organized lead management in salesforce at the end of also tackle your first independent project which will give you an to explore a business use case in salesforce hands on by completing this project be able to create a valuable portfolio piece and sample that you can use during your future job search
+</DOC>
 
-managing and qualifying leads
+<DOC>managing and qualifying leads
 welcome to the third of lead management in salesforce dive into a new role on the sales team the sales development representative or sdr another team member who plays an important part in the sales process youre going to how to support this team member and empower them to do their jobs more effectively by exploring how to use some new lead management tools in salesforce youre also going to how leads are handed off to sdrs from marketing associates and how sdrs eventually hand off qualified leads ie prospects to account executives along the way see how logging information in a centralized location like salesforce is essential for the success of the overall team every step of the way
 introduction the everyday tasks of an sdr what can sdrs use salesforce for
+</DOC>
 
-enhancing sales productivity and converting leads
+<DOC>enhancing sales productivity and converting leads
 welcome to the final of lead management in salesforce youve done a great job making it this far so take a moment to appreciate your effort learning lead management tools in salesforce isnt easy stuff so congratulations on making it to this point go in more depth with how sdrs hand off qualified leads ie prospects to account executives and see how leads are finally closed in salesforce and get a sneak peak of what happens next with them at the end of also tackle your final independent project which will give you an to explore a business use case in salesforce hands on by completing this project be able to create a valuable portfolio piece and sample that you can use during your future job search remember by creating a portfolio of the you are doing be able to show future employers that you can solve real world problems with salesforce a critical in the modern economy
 introduction lead conversion recap congratulations
 </DOC>
-

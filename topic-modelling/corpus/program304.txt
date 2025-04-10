@@ -6,69 +6,77 @@ this introduces the go programming language from google and provides learners wi
 <DOC>
 getting started with go
 the basics of go an open source programming language originally developed by a team at google and enhanced by many contributors from the open source community this is designed for individuals with previous programming using such languages as c python or java and covers the fundamental elements of go topics include data types protocols formats and writing code that incorporates rfcs and json most importantly have a chance to practice writing go programs and receive feedback from your peers upon completing this be able to implement simple go programs which will prepare you for subsequent study at a more advanced level
-
-introduction to the
+</DOC>
+<DOC>introduction to the
 reading
+</DOC>
 
-introduction to the
+<DOC>introduction to the
 the basics of go an open source programming language originally developed by a team at google and enhanced by many contributors from the open source community this is the first in a series of three courses comprising the programming with google go it is designed for individuals with previous programming using such languages as c python or java and covers the fundamental elements of go topics include data types protocols formats and writing code that incorporates rfcs and json most importantly have a chance to practice writing go programs and receive feedback from your peers upon completing this be able to implement simple go programs which will prepare you for the remaining two courses functions methods and interfaces in go and concurrency in go
+</DOC>
 
-getting started with go
+<DOC>getting started with go
 this first gets you started with go about the advantages of using go and begin exploring the languages features midway through the take a break from theory and install the go programming environment on your computer at the end of the write a simple that displays hello world on your screen
 m why should i go advantages of go m objects m concurrency m installing go m workspaces packages m go tool m variables m variable initialization
+</DOC>
 
-basic data types
+<DOC>basic data types
 now that youve set up your programming environment and written a test youre ready to dive into data types this introduces data types in go and gives you practice writing routines that manipulate different kinds of data objects including floatingpoint numbers and strings
 m pointers m variable scope m deallocating memory m garbage collection m comments printing integers m ints floats strings m string packages m constants m control flow m control flow scan
+</DOC>
 
-composite data types
+<DOC>composite data types
 at this point were ready to move into more complex data types including arrays slices maps and structs as in the previous have a chance to practice writing code that makes use of these data types
 m arrays m slices m variable slices m hash tables m maps m structs
+</DOC>
 
-protocols and formats
+<DOC>protocols and formats
 this final of the introduces the use of remote function calls rfcs and javascript object notation json in go how to access and manipulate data from external files and have an to write several routines using go that exercise this functionality
 m rfcs m json m file access ioutil m file access os
 </DOC>
-
 <DOC>
 concurrency in go
 how to implement concurrent programming in go explore the roles of channels and goroutines in implementing concurrency topics include writing goroutines and implementing channels for communications between goroutines activities will allow you to exercise gos capabilities for concurrent programming by developing several example programs
-
-why use concurrency
+</DOC>
+<DOC>why use concurrency
 this introduces the concept of concurrency in go the first sets the stage by reviewing the physical factors that can restrict microprocessor performance increases in the future
 mv mv
+</DOC>
 
-concurrency basics
+<DOC>concurrency basics
 this looks at basic concurrency concepts and race conditions in preparation for a discussion of threads coming up in the next
 mv mv
+</DOC>
 
-threads in go
+<DOC>threads in go
 with threaded goroutines and explore the benefits of synchronization the weeks has you using a threaded approach to create a that sorts integers via four separate subarrays then merging the arrays into a single array
 mv mv mv
+</DOC>
 
-synchronized communication
+<DOC>synchronized communication
 this last ties together the various features including threads concurrency and synchronization covered the weeks programming requires you to use concurrent algorithms in the implementation of the dining philosophers problem and then address the ensuing synchronization issues
 mv mv mv
 </DOC>
-
 <DOC>
 functions methods and interfaces in go
 continue your exploration of the go programming language as you about functions methods and interfaces topics include the implementation of functions function types objectorientation in go methods and class instantiation as with the first series have an to create your own go applications so you can practice what youre learning
-
-functions and organization
+</DOC>
+<DOC>functions and organization
 continue your exploration of the go programming language as you about functions methods and interfaces topics include the implementation of functions function types objectorientation in go methods and class instantiation as with the first series have an to create your own go applications so you can practice what youre learning the first introduces the concept of functions and shows you how to use them to manipulate data programmatically once again the treatment of the topic begins at a fairly rudimentary level to ensure everyone is starting from the same point in terms of basic concepts
 m why use functions m function parameters and return values m call by value reference m passing arrays and slices m wellwritten functions m guidelines for functions m function guidelines
+</DOC>
 
-function types
+<DOC>function types
 this second continues to explore the use of functions in go continue learning about the capabilities and features of functions and write a routine that solves a practical physics problem
 m firstclass values m returning functions m variadic and deferred
+</DOC>
 
-object orientation in go
+<DOC>object orientation in go
 functions in go have many useful and powerful capabilities which explore at the end develop a go routine that takes full advantage of gos object orientation
 m classes and encapsulation m support for classes m support for classes m encapsulation m point receivers m point receivers referencing dereferencing
+</DOC>
 
-interfaces for abstraction
+<DOC>interfaces for abstraction
 this last rounds out the by introducing several new concepts including interfaces and polymorphism finish the and by creating a go routine that creates instances of a class and allows you to query its properties
 m polymorphism m interfaces m interface vs concrete types m using interfaces m type assertions m error handling
 </DOC>
-

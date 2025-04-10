@@ -17,105 +17,118 @@ blockchain is an emerging and highly disruptive technology that is poorly unders
 ii determine the specific business situations where blockchain technology can be deployed to solve important problems
 iii select the specific blockchain technology that has the best chance of success for a particular problem
 and iv detail the risks presented by this new technology
-
-blockchain
+</DOC>
+<DOC>blockchain
 a helicopter tour of the essential concepts of blockchain each of which will be detailed later in the blockchain as a technology is defined in terms of the commonalities present in blockchain applications there is also an introduction to both current and future blockchain applications
 introduction blockchain types of blockchains uses of blockchains what blockchains can do targets for disruption applications blockchain ingredients contextualizing blockchain in tech key takeaways
+</DOC>
 
-cryptographic hashing
+<DOC>cryptographic hashing
 almost all blockchains use some sort of cryptographic hashing hashing is a one way function where any input of arbitrary size can be uniquely expressed as a string of characters any change in the input cause the hash to change hashing is a one way function it is easy to go from the input to the hash but extremely difficult to go the other way as such cryptographic hashing should not be confused with encryption where an encrypted message can be decoded
 properties of a hashing algorithm applications of hashes modular arithmetic xor sha sha scale of sha information loss in sha brute forcing a sha applications of sha
+</DOC>
 
-blockchain encryption and signatures
+<DOC>blockchain encryption and signatures
 some basic knowledge of encryption techniques is essential for understanding blockchain technology this focuses on digital signature algorithms when a transaction is placed on a blockchain it is signed by the owner with the owners public information and the signature we can quickly determine if the signer is really the owner
 monoalphabetic ciphers polyalphabetic ciphers symmetric digital signatures rsa ecc ecdsa quantum signatures
+</DOC>
 
-bitcoin and other blockchains
+<DOC>bitcoin and other blockchains
 bitcoin was the first cryptocurrency and the first large scale use of blockchain technology this explores how the bitcoin blockchain works we detail the mechanics of transactions and there is an introduction to the consensus mechanism called proof of this provides a foundation to look at other blockchain implementations we highlight the difference between bitcoin ethereum and other technologies like hyperledger
 the original blockchain hashing in the bitcoin blockchain mining crypto classifications the crypto vision ethereum ethereum under the hood the dao private blockchains
+</DOC>
 
-using blockchain
+<DOC>using blockchain
 with a knowledge of the mechanics of blockchain technology students are now able to determine the usefulness of the technology in various different applications we focus on both the current applications as as applications that are in process but not yet public
 addresses bitcoin transactions cryptotransactions in depth cryptotransaction mechanics layer machine to machine
+</DOC>
 
-consensus
+<DOC>consensus
 there is no single blockchain technology and there are many ways to implement blockchain technology the choice of technology crucially depends on the application we study proof of proof of stake as as some other mechanisms consensus is an active area of research in the blockchain space
 intro to consensus nodes proof of efficient hashing for proof of proof of stake byzantine fault tolerance other consensus algorithms
+</DOC>
 
-value of cryptoapplications
+<DOC>value of cryptoapplications
 there are thousands of new ventures that are deploying blockchain technology how do we assess whether these ventures are viable in the context of either investing for one of these companies or working for them this provides a checklist for evaluating cryptoventures this list includes important questions such as a what problem is being solved b is the problem an important problem c is blockchain the best technology to solve the problem and d what type of blockchain technology is best suited to solve the problem
 money and crypto stablecoins crypto collateralized stablecoins noncollateralized stablecoins initial coin offerings ico trends fraudulent crypto fraudulent crypto ico checklist
+</DOC>
 
-the regulatory environment and the future of fintech
+<DOC>the regulatory environment and the future of fintech
 given this is a new technology regulators need to both about the technology and develop guidelines the explores some key regulators in the us such as the sec and the cftc and the basic legal background that guides their regulatory framework we also explore the regulatory concept of the right touch if the regulations are too harsh then innovation is stifled and driven off shore if regulations are too lax then you invite a high level of fraud the ends with a general discussion of the future of fintech in particular decentralized finance
 introduction to regulation the role of the sec the role of the cftc irs and other agencies the transmission of money what is fintech what accounts for the growth in fintech what are the implications for business what are the implications for society fintech promise for the unbanked what fueled the growth of ai and machine learning
 </DOC>
-
 <DOC>
 financial risk management with r
 this teaches you how to calculate the return of a portfolio of securities as as quantify the market risk of that portfolio an important for financial market analysts in banks hedge funds insurance companies and other financial services and investment firms using the r programming language with microsoft open r and rstudio use the two main tools for calculating the market risk of stock portfolios valueatrisk var and expected shortfall es need a beginnerlevel understanding of r programming to complete the of this
-
-introduction to r data retrieval and return calculation
+</DOC>
+<DOC>introduction to r data retrieval and return calculation
 this goes over the use of r and rstudio retrieving data from different data sources fred at the federal reserve bank of st louis and yahoofinance and the calculation of returns
 introduction retrieving data from fred calculating daily returns calculating longer returns a simple example
+</DOC>
 
-risk management under normal distributions
+<DOC>risk management under normal distributions
 this covers how to calculate valueatrisk var and expected shortfall es when returns are normally distributed
 distribution of returns valueatrisk var expected shortfall es using simulation to estimate var and es
+</DOC>
 
-risk management under nonnormal distributions
+<DOC>risk management under nonnormal distributions
 this covers how to test for normality of returns and how to calculate valueatrisk var and expected shortfall es when returns are not normally distributed
 nonnormal distributions studentt distribution rescaled t distribution model var and es for multiday horizon
+</DOC>
 
-risk management under volatility clustering
+<DOC>risk management under volatility clustering
 this covers how to test for the presence of volatility clustering and how to calculate valueatrisk var and expected shortfall es when returns exhibit volatility clustering
 future vs historical distribution volatility clustering garch estimation rugarch package garch t diagnostic tests using the ugarchboot function using the ugarchroll function
 </DOC>
-
 <DOC>
 startup valuation methods
 how do different types of investors think about an investment what kind of securities and contracts do they offer how should a company decide what is a good deal this is designed to introduce you to the challenges and pitfalls of financing new enterprises the basic tools for valuating companies including using discounted cashflow analysis in excel and understanding how to apply this model to your entrepreneurial venture then how valuation works with different types of securities that investors use to finance startups from bank loans to venture capital to angel investing
-
-the basics of valuation
+</DOC>
+<DOC>the basics of valuation
 the general framework for valuing companies prices as the discounted value of future cash flows focus on how to determine cash flows and how discounting works at the end of the lectures be able to understand the basics of how investors determine the value of a company
 introduction to valuation determining cash flows time value of money obtaining the discount rate comparables valuation
+</DOC>
 
-building your first excel valuation model
+<DOC>building your first excel valuation model
 apply what you learned in the previous at the end of the have built your first financial model of a firm which you can change to apply to valuing a large firm or a small startup
 discounted cash flow valuation income statement revenues income statement other items income statement depreciation income statement complete the calcs income statement working capital income statement free cash flows assumption of future growth present value of cash flows market value of assets
+</DOC>
 
-valuation of highgrowth startups
+<DOC>valuation of highgrowth startups
 consider how very high failure rates for startups affects what you learned in the previous the short answer is it doesnt as long as we understand what business plans and company forecasts really are
 recap discount rate adding probability of failure interpreting business plans adjusting discount rates
+</DOC>
 
-venture capital
+<DOC>venture capital
 review the main sources of capital that founders of startups turn to when they raise capital to launch their business
 introduction to financing options for entrepreneurial ventures understanding debt venture capital what is a vc investor vc funds how vcs value businesses the vc method term sheets option pool understanding antidilution
+</DOC>
 
-angel investor
+<DOC>angel investor
 conduct an indepth analysis of angel investors and the securities they use when they invest in earlystage startups
 angel investors angel securities angel term sheets capped conversion price conclusion
 </DOC>
-
 <DOC>
 financing for startup businesses
 this will teach you how to manage a startups financing strategy where how to build capitalization tables or cap tables in excel cap tables will help you explore different financing strategies for your startup company and determine which financing decisions are best for your entrepreneurial venture also about innovations in the digital space that allow new ways to finance entrepreneurial ventures these include different forms of crowdfunding and alternative credit scoring mechanisms based on webbased data
 this concludes with a featuring cutting edge research from duke universitys fuqua school of business on the financial technology industry how financial technology companies are disrupting the credit scoring industry by developing new methods for credit scoring using consumers digital footprints in addition explore how financial technology platforms have introduced new experimental forms of financing such as crowdfunding
-
-raising capital from venture investors
+</DOC>
+<DOC>raising capital from venture investors
 this explores the securities that venture investors use when they invest in startups and how the dynamic nature of fundraising creates complex ownership structures
 introduction preferred equity capitalization tables part capitalization tables part capitalization tables part capitalization tables part
+</DOC>
 
-exiting venture investments
+<DOC>exiting venture investments
 venture investors generate returns for their investors by selling their portfolio companies either to strategic buyer to other private equity investors or by listing them as publicly traded firms this explores how the proceeds from these liquidation events are distributed among the different investors based on the terms of their investments
 exiting vc investment scenario i and case scenario ii and case scenario iii and case scenario iv and case wrapup
+</DOC>
 
-crowdfunding
+<DOC>crowdfunding
 this examines different kinds of crowdfunding we start with peertopeer lending to understand the setup in its early days and evolution and then examine equity crowdfunding and rewards based crowdfunding
 crowdfunding introduction to peer to peer lending peer to peer lending general setup issues and reasons for platforms to morph the advent of reintermediation reintermediation and the entry of institutions other kinds of crowdfunding equity based crowdfunding rewards based crowdfunding
+</DOC>
 
-credit scoring through digital footprints
+<DOC>credit scoring through digital footprints
 this examines credit scoring through the traditional means of credit bureau scores and then looks at new ways of doing credit scoring through a simple digital footprint
 credit bureau scores credit scoring using digital footprints defining a bare bones digital footprint digital footprints and credit bureau scores does the digital footprint predict future credit scores cases of companies using digital footprints
 </DOC>
-

@@ -8,109 +8,119 @@ introduction to data science in python applied plotting charting data representa
 applied social network analysis in python
 this will introduce the learner to network analysis through tutorials using the networkx library the begins with an understanding of what network analysis is and motivations for why we might model phenomena as networks the second introduces the concept of connectivity and network robustness the third will explore ways of measuring the importance or centrality of a node in a network the final will explore the evolution of networks over time and cover models of network generation and the link prediction problem
 this should be taken after introduction to data science in python applied plotting charting data representation in python and applied machine learning in python
-
-why study networks and basics on networkx
+</DOC>
+<DOC>why study networks and basics on networkx
 one introduces you to different types of networks in the real world and why we study them about the basic elements of networks as as different types of networks also how to represent and manipulate networked data using the networkx library the will give you an to use networkx to analyze a networked dataset of employees in a small company
 networks definition and why we study them network definition and vocabulary node and edge attributes bipartite graphs ta demonstration loading graphs in networkx
+</DOC>
 
-network connectivity
+<DOC>network connectivity
 in two how to analyze the connectivity of a network based on measures of distance reachability and redundancy of paths between nodes in the practice using networkx to compute measures of connectivity of a network of email communication among the employees of a midsize manufacturing company
 clustering coefficient distance measures connected components network robustness ta demonstration simple network visualizations in networkx
+</DOC>
 
-influence measures and network centralization
+<DOC>influence measures and network centralization
 in three explore ways of measuring the importance or centrality of a node in a network using measures such as degree closeness and betweenness centrality page rank and hubs and authorities about the assumptions each measure makes the algorithms we can use to compute them and the different functions available on networkx to measure centrality in the practice choosing the most appropriate centrality measure on a realworld setting
 degree and closeness centrality betweenness centrality basic page rank scaled page rank hubs and authorities centrality examples
+</DOC>
 
-network evolution
+<DOC>network evolution
 in four explore the evolution of networks over time including the different models that generate networks with realistic features such as the preferential attachment model and small world networks also explore the link prediction problem where useful features that can predict whether a pair of disconnected nodes will be connected in the future in the be challenged to identify which model generated a given network additionally have the to combine different concepts of the by predicting the salary position and future connections of the employees of a company using their logs of email exchanges
 preferential attachment model small world networks link prediction
 </DOC>
-
 <DOC>
 applied plotting charting data representation in python
 this will introduce the learner to information visualization basics with a focus on reporting and charting using the matplotlib library the will start with a design and information literacy perspective touching on what makes a good and bad visualization and what statistical measures translate into in terms of visualizations the second will focus on the technology used to make visualizations in python matplotlib and introduce users to best practices when creating basic charts and how to realize design decisions in the framework the third will be a tutorial of functionality available in matplotlib and demonstrate a variety of basic statistical charts helping learners to identify when a particular method is good for a particular problem the will end with a discussion of other forms of structuring and visualizing data
 this should be taken after introduction to data science in python and before the remainder of the applied data science with python courses applied machine learning in python applied text mining in python and applied social network analysis in python
-
-principles of information visualization
+</DOC>
+<DOC>principles of information visualization
 get an introduction to principles of information visualization be introduced to tools for thinking about design and graphical heuristics for thinking about creating effective visualizations all of the information on grading prerequisites and expectations are on the syllabus which is included
 introduction updates about the professor christopher brooks tools for thinking about design alberto cairo graphical heuristics dataink ratio edward tufte graphical heuristics chart junk edward tufte graphical heuristics lie factor and spark lines edward tufte the truthful art alberto cairo
+</DOC>
 
-basic charting
+<DOC>basic charting
 delve into basic charting for this weeks with real world csv weather data manipulate the data to display the minimum and maximum temperature for a range of dates and demonstrate that you know how to create a line graph using matplotlib additionally demonstrate the procedure of composite charts by overlaying a scatter plot of record breaking data for a given year
 introduction matplotlib architecture basic plotting with matplotlib scatterplots line plots bar charts dejunkifying a plot
+</DOC>
 
-charting fundamentals
+<DOC>charting fundamentals
 explore charting fundamentals for this weeks to implement a new visualization technique based on academic research this is flexible and you can address it using a variety of difficulties from an easy static image to an interactive chart where users can set ranges of values to be used
 subplots histograms box plots heatmaps animation widget demonstration
+</DOC>
 
-applied visualizations
+<DOC>applied visualizations
 then everything starts to come together your final is entitled becoming a data scientist this requires that you identify at least two publicly accessible datasets from the same region that are consistent across a meaningful dimension state a research question that can be answered using these data sets and then create a visual using matplotlib that addresses your stated research question then be asked to justify how your visual addresses your research question
 plotting with pandas seaborn mapping and geographic investigation becoming an independent data scientist
 </DOC>
-
 <DOC>
 introduction to data science in python
 this will introduce the learner to the basics of the python programming environment including fundamental python programming techniques such as lambdas reading and manipulating csv files and the numpy library the will introduce data manipulation and cleaning techniques using the popular python pandas data science library and introduce the abstraction of the series and dataframe as the central data structures for data analysis along with tutorials on how to use functions such as groupby merge and pivot tables effectively by the end of this students will be able to take tabular data clean it manipulate it and run basic inferential statistical analyses
 this should be taken before any of the other applied data science with python courses applied plotting charting data representation in python applied machine learning in python applied text mining in python applied social network analysis in python
-
-fundamentals of data manipulation with python
+</DOC>
+<DOC>fundamentals of data manipulation with python
 get an introduction to the field of data science review common python functionality and features which data scientists use and be introduced to the coursera jupyter notebook for the lectures all of the information on grading prerequisites and expectations are on the syllabus and you can find more information about the jupyter notebooks on our resources page
 introduction to introduction to the the coursera jupyter notebook system python functions python types and sequences python more on strings python demonstration reading and writing csv files python dates and times advanced python objects map advanced python lambda and list comprehensions numerical python library numpy manipulating text with regular expression
+</DOC>
 
-basic data processing with pandas
+<DOC>basic data processing with pandas
 of the the fundamentals of one of the most important toolkits python has for data cleaning and processing pandas how to read in data into dataframe structures how to query these structures and the details about such structures are indexed
 introduction to pandas the series data structure querying a series dataframe data structure dataframe indexing and loading querying a dataframe indexing dataframes missing values example manipulating dataframe
+</DOC>
 
-more data processing with pandas
+<DOC>more data processing with pandas
 deepen your understanding of the python pandas library by learning how to merge dataframes generate tables group data into logical pieces and manipulate dates also refresh your understanding of scales of data and discuss issues with creating metrics for analysis the ends with a more significant programming
 merging dataframes pandas idioms group by scales pivot table datetime functionality
+</DOC>
 
-answering questions with messy data
+<DOC>answering questions with messy data
 of the be introduced to a variety of statistical techniques such a distributions sampling and ttests the ends with two discussions of science and the rise of the fourth paradigm data driven discovery
 basic statistical testing other forms of structured data
 </DOC>
-
 <DOC>
 applied machine learning in python
 this will introduce the learner to applied machine learning focusing more on the techniques and methods than on the statistics behind these methods the will start with a discussion of how machine learning is different than descriptive statistics and introduce the scikit toolkit through a tutorial the issue of dimensionality of data will be discussed and the task of clustering data as as evaluating those clusters will be tackled supervised approaches for creating predictive models will be described and learners will be able to apply the scikit predictive modelling methods while understanding process issues related to data generalizability eg cross validation overfitting the will end with a look at more advanced techniques such as building ensembles and practical limitations of predictive models by the end of this students will be able to identify the difference between a supervised classification and unsupervised clustering technique identify which technique they need to apply for a particular dataset and need engineer features to meet that need and write python code to carry out an analysis
 this should be taken after introduction to data science in python and applied plotting charting data representation in python and before applied text mining in python and applied social analysis in python
-
-fundamentals of machine learning intro to scikit
+</DOC>
+<DOC>fundamentals of machine learning intro to scikit
 this introduces basic machine learning concepts tasks and workflow using an example classification problem based on the knearest neighbors method and implemented using the scikitlearn library
 introduction whats new key concepts in machine learning python tools for machine learning an example machine learning problem examining the data knearest neighbors classification
+</DOC>
 
-supervised machine learning part
+<DOC>supervised machine learning part
 this delves into a wider variety of supervised learning methods for both classification and regression learning about the connection between model complexity and generalization performance the importance of proper feature scaling and how to control model complexity by applying techniques like regularization to avoid overfitting in addition to knearest neighbors covers linear regression leastsquares ridge lasso and polynomial regression logistic regression support vector machines the use of crossvalidation for model evaluation and decision trees
 introduction to supervised machine learning overfitting and underfitting supervised learning datasets knearest neighbors classification and regression linear regression leastsquares linear regression ridge lasso and polynomial regression logistic regression linear classifiers support vector machines multiclass classification kernelized support vector machines crossvalidation decision trees onehot encoding optional
+</DOC>
 
-evaluation
+<DOC>evaluation
 this covers evaluation and model selection methods that you can use to help understand and optimize the performance of your machine learning models
 model evaluation selection confusion matrices basic evaluation metrics classifier decision functions precisionrecall and roc curves multiclass evaluation regression evaluation model selection optimizing classifiers for different evaluation metrics model calibration optional
+</DOC>
 
-supervised machine learning part
+<DOC>supervised machine learning part
 this covers more advanced supervised learning methods that include ensembles of trees random forests gradient boosted trees and neural networks with an optional on deep learning also about the critical problem of data leakage in machine learning and how to detect and avoid it
 naive bayes classifiers random forests gradient boosted decision trees neural networks deep learning optional data leakage introduction dimensionality reduction and manifold learning clustering conclusion
 </DOC>
-
 <DOC>
 applied text mining in python
 this will introduce the learner to text mining and text manipulation basics the begins with an understanding of how text is handled by python the structure of text both to the machine and to humans and an of the nltk framework for manipulating text the second focuses on common manipulation needs including regular expressions searching for text cleaning text and preparing text for use by machine learning processes the third will apply basic natural language processing methods to text and demonstrate how text classification is accomplished the final will explore more advanced methods for detecting the topics in documents and grouping them by similarity topic modelling
 this should be taken after introduction to data science in python applied plotting charting data representation in python and applied machine learning in python
-
-working with text in python
+</DOC>
+<DOC>working with text in python
 programming discussion prompt ungraded labs
 introduction to text mining handling text in python regular expressions demonstration regex with pandas and named groups internationalization and issues with nonascii characters
+</DOC>
 
-basic natural language processing
+<DOC>basic natural language processing
 programming discussion prompt ungraded lab
 basic natural language processing basic nlp tasks with nltk advanced nlp tasks with nltk application spell checker
+</DOC>
 
-classification of text
+<DOC>classification of text
 programming ungraded lab
 text classification identifying features from text naive bayes classifiers naive bayes variations support vector machines learning text classifiers in python demonstration case study sentiment analysis
+</DOC>
 
-topic modeling
+<DOC>topic modeling
 programming
 semantic text similarity topic modeling generative models and lda information extraction
 </DOC>
-

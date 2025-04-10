@@ -12,94 +12,104 @@ apply your new on several realworld examples including analyzing costs associate
 data science project matlab for the real world
 like most subjects practice makes perfect in data science in the capstone project apply the learned across courses in the practical data science with matlab to explore process analyze and model data choose your own pathway to answer key questions with the provided data
 to complete the project you must have mastery of the covered in other courses in the the project will test your ability to import and explore your data prepare the data for analysis train a predictive model evaluate and improve your model and communicate your results
-
-import and explore the data
+</DOC>
+<DOC>import and explore the data
 be introduced to the goals of the capstone project complete the initial task of preparing a data set and performing an exploratory analysis
 practical data science with matlab instructor introduction introduction to the capstone project creating the taxi regions preparing your dataset
+</DOC>
 
-create and evaluate features
+<DOC>create and evaluate features
 perform feature engineering create a response variable and investigate the relationships between features and the response variable
+</DOC>
 
-apply machine learning
+<DOC>apply machine learning
 perform machine learning train and customize various models using validation data and common evaluation metrics choose the most appropriate model for the problem
 introduction to preparing for your final report
+</DOC>
 
-communicate your results
+<DOC>communicate your results
 a framework for creating a data science story and the importance of crafting your narrative for the intended audience along with tips for creating meaningful visualizations
 storytelling in data science conclusion of practical data science with matlab
 </DOC>
-
 <DOC>
 exploratory data analysis with matlab
 to think like a data scientist and ask questions of your data use interactive features in matlab to extract subsets of data and to compute statistics on groups of related data to use matlab to automatically generate code so you can syntax as you explore also use interactive documents called live scripts to capture the steps of your analysis communicate the results and provide interactive controls allowing others to experiment by selecting groups of data
 these are valuable for those who have domain knowledge and some exposure to computational tools but no programming background is required to be successful you should have some knowledge of basic statistics eg histograms averages standard deviation curve fitting interpolation by the end of this be able to load data into matlab prepare it for analysis visualize it perform basic computations and communicate your results to others in your last combine these to assess damages following a severe weather event and communicate a polished recommendation based on your analysis of the data be able to visualize the location of these events on a geographic map and create sliding controls allowing you to quickly visualize how a phenomenon changes over time
-
-introduction to the data science workflow
+</DOC>
+<DOC>introduction to the data science workflow
 about the key steps in a data science workflow and begin exploring a data set using a script provided for you as you with the file take note of the different elements in the script as you progress through the create a similar script yourself
 practical data science with matlab of exploratory data analysis with matlab instructor introduction why do we need data science matlab as a data science tool getting started with matlab how to ask good questions of your data interactive data exploration of the data science workflow the workflow in practice of the data science workflow
+</DOC>
 
-importing data
+<DOC>importing data
 import data into matlab customize the import options and generate code to automate the process also with different types of data such as numeric dates and text
 introduction to importing data how data is stored how matlab represents data how to use the import tool matlab data types why automate the import process generating and reusing code of importing data
+</DOC>
 
-visualizing and filtering data
+<DOC>visualizing and filtering data
 create visualizations and how to customize figures also filter your data to select only what is needed for your analysis create new tables and save them to use in the future or share with others outside of matlab
 introduction to visualizing and filtering data plotting data contained in tables selecting data from tables accessing and creating table variables of visualizing and filtering data
+</DOC>
 
-performing calculations
+<DOC>performing calculations
 write small pieces of code to extend your analysis calculate statistics on groups of data and determine if variables are correlated extend your ability to filter data to defining conditions across multiple variables also modify categorical data to remove combine or create new categories to use for defining groups
 introduction to performing calculations basic mathematical operations using vectors using functions calculating statistics correlations between variables accessing subsets of data introduction to categorical data performing group calculations visualizing results of performing calculations
+</DOC>
 
-documenting your
+<DOC>documenting your
 create live scripts with interactive controls then create your own analysis of a weather event to submit as a peerreviewed
 documenting your creating a live script adding interactive controls to a live script of exploratory data analysis with matlab
 </DOC>
-
 <DOC>
 predictive modeling and machine learning with matlab
 build on the learned in exploratory data analysis with matlab and data processing and feature engineering with matlab to increase your ability to harness the power of matlab to analyze data relevant to the you do
 these are valuable for those who have domain knowledge and some exposure to computational tools but no programming background to be successful you should have some background in basic statistics histograms averages standard deviation curve fitting interpolation and have completed courses through of this by the end of this use matlab to identify the best machine learning model for obtaining answers from your data prepare your data train a predictive model evaluate and improve your model and understand how to get the most out of your models
-
-creating regression models
+</DOC>
+<DOC>creating regression models
 apply the gained from the first two courses in the on a new dataset be introduced to the supervised machine learning workflow and key terms end the by creating and evaluating regression machine learning models
 practical data science with matlab instructor introduction introduction to supervised machine learning introduction to the taxi data creating and cleaning features introduction to regression using the regression learner app customizing model parameters evaluating regression models evaluate your model in matlab of regression
+</DOC>
 
-creating classification models
+<DOC>creating classification models
 the basics of classification models train several types of classification models and evaluation the results
 introduction to classification using the classification learner app evaluating classification models evaluating classification models in matlab training a multiclass model of classification
+</DOC>
 
-applying the supervised machine learning workflow
+<DOC>applying the supervised machine learning workflow
 apply the complete supervised machine learning workflow use validation data inform model creation apply different feature selection techniques to reduce model complexity create ensemble models and optimize hyperparameters at the end of the apply these concepts to a final project
 addressing underfitting and overfitting using validation data during training embedded methods for feature selection using regularization to prevent overfitting introduction to ensemble models training ensemble models introduction to hyperparameters optimizing hyperparameters evaluating and using your model of
+</DOC>
 
-advanced topics and next steps
+<DOC>advanced topics and next steps
 discussion prompt
 handling class imbalance reducing specific errors using cost matrices integrating your model a discussion with heather of predictive modeling and machine learning
 </DOC>
-
 <DOC>
 data processing and feature engineering with matlab
 build on the learned in exploratory data analysis with matlab to lay the foundation required for predictive modeling this intermediatelevel is useful to anyone who needs to combine data from multiple sources or times and has an interest in modeling
 these are valuable for those who have domain knowledge and some exposure to computational tools but no programming background to be successful you should have some background in basic statistics histograms averages standard deviation curve fitting interpolation and have completed exploratory data analysis with matlab throughout the merge data from different data sets and handle common scenarios such as missing data in the last of the explore special techniques for handling textual audio and image data which are common in data science and more advanced modeling by the end of this how to visualize your data clean it up and arrange it for analysis and identify the qualities necessary to answer your questions be able to visualize the distribution of your data and use visual inspection to address artifacts that affect accurate modeling
-
-surveying your data
+</DOC>
+<DOC>surveying your data
 apply the gained in exploratory data analysis with matlab on a new dataset explore different types of distributions and calculate quantities like the skewness and interquartile range also about more types of plots for visualizing multidimensional data
 practical data science with matlab of data processing and feature engineering instructor introduction introduction to introduction to the flights dataset exploring the flights dataset describing distributions examples of distributions visualizing multidimensional data of surveying your data
+</DOC>
 
-organizing your data
+<DOC>organizing your data
 to prepare data for analysis often data is not recorded as required to manipulate string variables to extract key information create a single datetime variable from date and time information spread across multiple columns in a table efficiently load and combine data from multiple files to create a final table for analysis
 introduction to organizing your data working with strings working with dates and times importing multiple data files combining data joining tables sorting your data of organizing your data
+</DOC>
 
-cleaning your data
+<DOC>cleaning your data
 clean messy data missing data outliers and variables with very different scales can obscure trends in the data find and address missing data and outliers in a data set compare variables with different scales by normalizing variables
 introduction to cleaning your data identifying missing data handling missing data identifying outliers investigating outliers normalizing data examples of normalizing data smoothing data of cleaning your data
+</DOC>
 
-finding features that matter
+<DOC>finding features that matter
 create new features to better understand your data evaluate features to determine if a feature is potentially useful for making predictions
 introduction to finding features that matter introduction to feature engineering introduction to unsupervised learning introduction to clustering algorithms evaluating features introduction to dimensionality reduction and pca of finding features that matter
+</DOC>
 
-domainspecific feature engineering
+<DOC>domainspecific feature engineering
 apply the concepts from through to different domains create and evaluate features using timebased signals such as accelerometer data from a cell phone use apps in matlab to perform image processing and create features based on segmented images also use text processing techniques to find features in unstructured text
 introduction to domainspecific feature engineering feature engineering workflow synchronizing data with timetables statistics as features finding peaks optional recording sensor data with matlab mobile feature engineering and clustering with images feature engineering with text feature engineering with storm events of domainspecific feature engineering of data processing and feature engineering
 </DOC>
-

@@ -15,62 +15,68 @@ learners will apply their rust to solve realworld problems by building a numberg
 web development with rust
 the web development in rust equips learners with essential to build highperformance web services using rust focusing on rusts speed safety and concurrency this guides you through developing scalable and robust backend solutions for modern applications
 by the end of this be able to apply key rust concepts including http fundamentals restful apis and serverside rendering to build backend systems implement popular rust web frameworks such as rocket and actix to build dynamic and efficient web applications integrate database functionality using diesel orm to efficiently manage data storage and retrieval apply rusts concurrency features to develop responsive applications that can manage multiple simultaneous requests develop applications while ensuring best practices for performance security and scalability are followed this is designed for web developers software engineers system programmers entrepreneurs coding enthusiasts and freshers who aspire to build a in software development prior with any programming language is beneficial but not mandatory embark on your educational journey to web development in rust exploring best practices and enhancing your programming
-
-web servers with rocket
+</DOC>
+<DOC>web servers with rocket
 this covers key aspects of rust web development including routing building web apps with rocket and integrating databases using diesel orm learners will define routes handle requests create a basic rocket app and manage databases with diesel
 introduction understanding routing in rust web applications defining routes and handling requests managing request parameters and query strings introduction to rocket installing and configuring rocket creating a basic rocket application introduction to diesel orm defining models and schema querying and manipulating data
-
-restful api development
-the second covers restful api development in rust including designing apis implementing crud operations and handling authentication learners will generate api documentation using openapi and swagger ensuring clear communication of functionality by the end theyll be able to build and document secure efficient apis in rust
-introduction to restful apis choosing a web framework steps to build restful apis of http methods and crud operations authentication and authorization in rust authentication and authorization testing transaction handling in rust generating api documentation annotating routes and models hosting api documentation with swagger ui or redo
-
-systems programming with rust
-the third explores systems programming in rust focusing on pointers unsafe code and system calls learners will also explore advanced networking asynchronous programming with tokio and websocket integration along with building minimalist operating system kernels and memory management
-working with pointers and unsafe code ffi and interoperability system calls and file io network programming in rust asynchronous networking with tokio websocket programming with rust minimalist kernels memory management in kernels
-
-wrap up and assessment
-learners will demonstrate their understanding through a final assessment and apply their acquired in a handson practice project
 </DOC>
 
+<DOC>restful api development
+the second covers restful api development in rust including designing apis implementing crud operations and handling authentication learners will generate api documentation using openapi and swagger ensuring clear communication of functionality by the end theyll be able to build and document secure efficient apis in rust
+introduction to restful apis choosing a web framework steps to build restful apis of http methods and crud operations authentication and authorization in rust authentication and authorization testing transaction handling in rust generating api documentation annotating routes and models hosting api documentation with swagger ui or redo
+</DOC>
+
+<DOC>systems programming with rust
+the third explores systems programming in rust focusing on pointers unsafe code and system calls learners will also explore advanced networking asynchronous programming with tokio and websocket integration along with building minimalist operating system kernels and memory management
+working with pointers and unsafe code ffi and interoperability system calls and file io network programming in rust asynchronous networking with tokio websocket programming with rust minimalist kernels memory management in kernels
+</DOC>
+
+<DOC>wrap up and assessment
+learners will demonstrate their understanding through a final assessment and apply their acquired in a handson practice project
+</DOC>
 <DOC>
 rust programming essentials
 the rust programming essentials aims to empower learners with the fundamental and knowledge necessary for creating highperformance safe and concurrent applications using the rust programming language renowned for its emphasis on safety speed and concurrency rust has rapidly become a preferred choice for systemlevel programming web development and various performancecritical applications
 by the end of this be able to understand the core principles of rusts ownership borrowing and lifetimes to ensure memory safety without a garbage collector apply rusts pattern matching and control flow constructs to develop robust and efficient applications analyze rusts type system including generics and traits to create modular and reusable code solutions create scalable and maintainable projects using cargo rusts package manager to manage dependencies run tests and build binaries this is designed for web developers software engineers system programmers entrepreneurs coding enthusiasts and freshers who aspire to build a in software development prior with any programming language is beneficial but not mandatory embark on your educational journey to rust programming essentials exploring best practices and enhancing your development
-
-rust programming introduction and setting up development environment
+</DOC>
+<DOC>rust programming introduction and setting up development environment
 this is designed to provide learners with a foundational understanding of the rust programming language and guide them through setting up their development environment this is essential for beginners as it lays the groundwork for more advanced topics covered in the
 introduction the story behind rust rust vs other programming languages installation guide for vs code setup rust ide setup rust ide text editor
-
-fundamentals of rust
-this covers essential rust programming concepts from basic syntax and data types to advanced error handling and data management techniques learners will gain the to build robust flexible programs and effectively solve complex programming tasks
-rust syntax data types understanding rust types functions tuples loops in rust working with loops understanding while and loop in rust break and continue error handling unrecoverable errors result enum and its variants result enum demo option enums option enum demo error propagation techniques mastering combining techniques panic and unwind introduction to structs practical applications of structs enums pattern matching for error prevention pattern matching in complex data types introduction to collections btree and hashset introduction to strings complex data structures management unlocking deeper levels of complex data structures
-
-rust programming concepts
-this covers advanced rust programming focusing on ownership memory management borrowing and code reuse learners will also explore polymorphism trait objects and generics
-understanding ownership ownership rules copy semantics concept of borrowing mutable and immutable borrowing borrow checker introduction to traits trait objects in rust using traits for code reuse dynamic dispatch and trait objects introduction to generics generic functions generic methods using generics for flexible code enhancing reusability with generics
-
-wrap up and assessment
-learners will demonstrate their understanding through a final assessment and apply their acquired in a handson practice project
 </DOC>
 
+<DOC>fundamentals of rust
+this covers essential rust programming concepts from basic syntax and data types to advanced error handling and data management techniques learners will gain the to build robust flexible programs and effectively solve complex programming tasks
+rust syntax data types understanding rust types functions tuples loops in rust working with loops understanding while and loop in rust break and continue error handling unrecoverable errors result enum and its variants result enum demo option enums option enum demo error propagation techniques mastering combining techniques panic and unwind introduction to structs practical applications of structs enums pattern matching for error prevention pattern matching in complex data types introduction to collections btree and hashset introduction to strings complex data structures management unlocking deeper levels of complex data structures
+</DOC>
+
+<DOC>rust programming concepts
+this covers advanced rust programming focusing on ownership memory management borrowing and code reuse learners will also explore polymorphism trait objects and generics
+understanding ownership ownership rules copy semantics concept of borrowing mutable and immutable borrowing borrow checker introduction to traits trait objects in rust using traits for code reuse dynamic dispatch and trait objects introduction to generics generic functions generic methods using generics for flexible code enhancing reusability with generics
+</DOC>
+
+<DOC>wrap up and assessment
+learners will demonstrate their understanding through a final assessment and apply their acquired in a handson practice project
+</DOC>
 <DOC>
 advanced rust programming
 the advanced rust programming deepens your expertise in building highperformance concurrent applications with rust explore rusts advanced concurrency features data handling techniques and traitbased programming to create efficient reusable code by the end be able to implement concurrent systems manage complex data and apply advanced traits and lifetimes for safe highperformance development
 by the end of this be able to build concurrent applications using rusts powerful concurrency tools with vectors and arrays to perform complex data manipulation leverage advanced data handling methods for efficient data management and transformation implement advanced traits and lifetimes to create reusable safe and efficient code this is designed for web developers software engineers system programmers entrepreneurs coding enthusiasts and freshers who aspire to build a in software development prior with any programming language is beneficial but not mandatory join this to elevate your rust programming and unlock the full potential of building fast safe and concurrent applications
-
-data handling
+</DOC>
+<DOC>data handling
 this delves into advanced data handling covering vectors arrays string manipulation and storage tools it equips learners with the to manage and analyze large datasets preparing them to handle complex data challenges in data science and engineering
 introduction vectors creating vectors vectors demo modifying vectors slicing vectors subsetting vectors introduction to arrays arrays demonstration array operations in rust introduction to slices slices operations in rust introduction to strings string creation and initialization string operations and methods string encoding and decoding
-
-concurrency and multithreading
-explore concurrency and multithreading in rust focusing on efficient thread management synchronization mechanisms such as mutex and arc and atomic operations learners will gain expertise in writing safe highperformance concurrent applications while effectively avoiding data races and deadlocks
-introduction to concurrency shared state concurrency safe data sharing concurrency patterns stealing atomic operations implementing a spinklock with atomic operations introduction to multithreading creating threads in rust thread synchronization and communication thread safety in practice
-
-enhancing code reusability and performance
-learners will be equipped with advanced techniques to improve code reusability and performance in rust with a focus on writing efficient and maintainable code through advanced traits and lifetimes these are essential for optimizing rust applications enabling learners to enhance both code quality and performance by the end of the
-advanced trait implementations objects safety lifetimes benefits of using lifetimes memory safety zerocost abstractions profiling rust applications efficient memory management using memory efficiently in rust optimizing computational performance
-
-wrap up and assessment
-learners will demonstrate their understanding through a final assessment and apply their acquired in a handson practice project
 </DOC>
 
+<DOC>concurrency and multithreading
+explore concurrency and multithreading in rust focusing on efficient thread management synchronization mechanisms such as mutex and arc and atomic operations learners will gain expertise in writing safe highperformance concurrent applications while effectively avoiding data races and deadlocks
+introduction to concurrency shared state concurrency safe data sharing concurrency patterns stealing atomic operations implementing a spinklock with atomic operations introduction to multithreading creating threads in rust thread synchronization and communication thread safety in practice
+</DOC>
+
+<DOC>enhancing code reusability and performance
+learners will be equipped with advanced techniques to improve code reusability and performance in rust with a focus on writing efficient and maintainable code through advanced traits and lifetimes these are essential for optimizing rust applications enabling learners to enhance both code quality and performance by the end of the
+advanced trait implementations objects safety lifetimes benefits of using lifetimes memory safety zerocost abstractions profiling rust applications efficient memory management using memory efficiently in rust optimizing computational performance
+</DOC>
+
+<DOC>wrap up and assessment
+learners will demonstrate their understanding through a final assessment and apply their acquired in a handson practice project
+</DOC>

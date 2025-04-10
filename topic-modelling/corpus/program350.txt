@@ -6,117 +6,127 @@ the systems biology covers the concepts and methodologies used in systemslevel a
 <DOC>
 network analysis in systems biology
 this introduces data analysis methods used in systems biology bioinformatics and systems pharmacology research the covers methods to process raw data from genomewide mrna expression studies microarrays and rnaseq including data normalization clustering dimensionality reduction differential expression enrichment analysis and network construction the contains practical tutorials for using several bioinformatics tools and setting up data analysis pipelines also covering the mathematics behind the methods applied by these tools and workflows the is mostly appropriate for beginning graduate students and advanced undergraduates majoring in fields such as biology statistics physics chemistry computer science biomedical and electrical engineering the should be useful for wet and drylab researchers who encounter large datasets in their own research the presents software tools developed by the maayan laboratory httplabsicahnmssmedumaayanlab from the icahn school of medicine at mount sinai in new york city but also other freely available data analysis and visualization tools the overarching goal of the is to enable students to utilize the methods presented for analyzing their own data for their own projects for those students that do not in the field the introduces research challenges faced in the fields of computational systems biology and systems pharmacology
-
-and introductions
+</DOC>
+<DOC>and introductions
 the introduction to complex systems discusses complex systems and leads to the idea that a cell can be considered a complex system or a complex agent living in a complex environment just like us the introduction to biology for engineers provides an introduction to some central topics in cell and molecular biology for those who do not have the background in the field this is not a comprehensive coverage of cell and molecular biology the goal is to provide an entry point to motivate those who are interested field coming from other disciplines to begin studying biology
 design principles of complex systems introduction to cell biology introduction to molecular biology
 </DOC>
-
 <DOC>
 systems biology and biotechnology capstone
 note in order to take this you should have taken and complete the following courses in the signature track introduction to systems biology network analysis in systems biology dynamical modeling methods for systems biology experimental methods in sb and integrated analysis in systems biology
-
-projects
+</DOC>
+<DOC>projects
 peer review
 </DOC>
-
 <DOC>
 dynamical modeling methods for systems biology
 an introduction to dynamical modeling techniques used in contemporary systems biology research
 we take a casebased approach to teach contemporary mathematical modeling techniques the is appropriate for advanced undergraduates and beginning graduate students lectures provide biological background and describe the development of both classical mathematical models and more recent representations of biological processes the will be useful for students who plan to use experimental techniques as their approach in the laboratory and employ computational modeling as a tool to draw deeper understanding of experiments the should also be valuable as an introductory for students planning to conduct original research in modeling biological systems this focuses on dynamical modeling techniques used in systems biology research these techniques are based on biological mechanisms and simulations with these models generate predictions that can subsequently be tested experimentally these testable predictions frequently provide novel insight into biological processes the approaches taught here can be grouped into the following categories ordinary differential equationbased models partial differential equationbased models and stochastic models
-
-introduction computing with matlab
+</DOC>
+<DOC>introduction computing with matlab
 the goes here
 lecture introduction lecture computing with matlab part lecture computing with matlab part lecture computing with matlab part lecture computing with matlab part
+</DOC>
 
-introduction to dynamical systems
+<DOC>introduction to dynamical systems
 the goes here
 lecture introduction to dynamical systems part lecture introduction to dynamical systems part lecture introduction to dynamical systems part lecture introduction to dynamical systems part
+</DOC>
 
-bistability in biochemical signaling models
+<DOC>bistability in biochemical signaling models
 the goes here
 lecture bistability in biochemical signaling models part lecture bistability in biochemical signaling models part lecture bistability in biochemical signaling models part lecture bistability in biochemical signaling models part lecture bistability in biochemical signaling models part lecture bistability in biochemical signaling models part
+</DOC>
 
-computational modeling of the cell cycle
+<DOC>computational modeling of the cell cycle
 the goes here
 lecture computational modeling of the cell cycle part lecture computational modeling of the cell cycle part lecture computational modeling of the cell cycle part lecture computational modeling of the cell cycle part
+</DOC>
 
-modeling electrical signaling
+<DOC>modeling electrical signaling
 the goes here
 lecture mathematical models of action potentials part lecture mathematical models of action potentials part lecture mathematical models of action potentials part lecture mathematical models of action potentials part lecture mathematical models of action potentials part lecture mathematical models of action potentials part
+</DOC>
 
-modeling with partial differential equations
+<DOC>modeling with partial differential equations
 the goes here
 lecture modeling with partial differential equations part lecture modeling with partial differential equations part lecture modeling with partial differential equations part
+</DOC>
 
-stochastic modeling
+<DOC>stochastic modeling
 the goes here
 lecture stochastic modeling part lecture stochastic modeling part
 </DOC>
-
 <DOC>
 introduction to systems biology
 this will introduce the student to contemporary systems biology focused on mammalian cells their constituents and their functions biology is moving from molecular to modular as our knowledge of our genome and gene expression deepens and we develop lists of molecules proteins lipids ions involved in cellular processes we need to understand how these molecules interact with each other to form that act as discrete functional systems these systems underlie core subcellular processes such as signal transduction transcription motility and electrical excitability in turn these processes come together to exhibit cellular behaviors such as secretion proliferation and action potentials what are the properties of such subcellular and cellular systems what are the mechanisms by which emergent behaviors of systems arise what types of experiments inform systemslevel thinking why do we need computation and simulations to understand these systems
 the will develop multiple lines of reasoning to answer the questions listed above two major reasoning threads are the design execution and interpretation of multivariable experiments that produce large data sets
 quantitative reasoning models and simulations examples will be discussed to demonstrate how cell level functions arise and why mechanistic knowledge allows us to predict cellular behaviors leading to disease states and drug responses
-
-systems level reasoning molecules to pathways
+</DOC>
+<DOC>systems level reasoning molecules to pathways
 goes here
 of systems level reasoning molecules to pathways systems level reasoning i systems level reasoning ii molecules to pathways camp and g protein pathways i molecules to pathways camp and g protein pathways ii
 </DOC>
-
 <DOC>
 integrated analysis in systems biology
 this will focus on developing integrative through directed reading and analysis of the current primary literature to enable the student to develop the capstone project as the overall final exam for the in systems biology
-
-general features of systems biology studies
+</DOC>
+<DOC>general features of systems biology studies
 
 lecture experimental design lecture a introduction to research article part lecture b introduction to research article part
+</DOC>
 
-issues of reproducibility in systems biology
+<DOC>issues of reproducibility in systems biology
 
+</DOC>
 
-introduction to research article
+<DOC>introduction to research article
 the goes here
+</DOC>
 
-introduction to research article
+<DOC>introduction to research article
 
 lecture a introduction to research article part lecture b introduction to research article part
 </DOC>
-
 <DOC>
 experimental methods in systems biology
 about the technologies underlying experimentation used in systems biology with particular focus on rna sequencing mass specbased proteomics flowmass cytometry and livecell imaging
 a key driver of the systems biology field is the technology allowing us to delve deeper and wider into how cells respond to experimental perturbations this in turns allows us to build more detailed quantitative models of cellular function which can give important insight into applications ranging from biotechnology to human disease this gives a broad of a variety of current experimental techniques used in modern systems biology with focus on obtaining the quantitative data needed for computational modeling purposes in downstream analyses we dive deeply into four technologies in particular mrna sequencing mass spectrometrybased proteomics flowmass cytometry and livecell imaging these techniques are often used in systems biology and range from genomewide coverage to single molecule coverage millions of cells to single cells and single time points to frequently sampled time courses we present not only the theoretical background upon which these technologies but also enter real wet lab environments to provide instruction on how these techniques are performed in practice and how resultant data are analyzed for quality and content
-
-introduction
+</DOC>
+<DOC>introduction
 goes here
 lecture scope and lecture biological model systems lecture experimental perturbations lecture measuring nucleic acids lecture measuring protein and protein states
-
-deep mrna sequencing
-goes here
-lecture history of sequencing lecture nd and rd generation sequencing lecture illuminabased mrna sequencing lecture labbased lecture mrna sequencing data analysis
-
-mass spectrometrybased proteomics
-goes here
-lecture basics of mass spectrometry lecture basics of mass spectrometry lecture quantification in proteomics lecture labbased proteomics day lecture labbased proteomics day lecture labbased analysis
-
-midterm exam
-goes here
-
-flow and mass cytometry for single cell protein levels and cell fate
-goes here
-lecture flow cytometry lecture flow cytometry lecture mass cytometry lecture cytometry data analysis lecture labbased flow cytometry acquisition lecture labbased flow cytometry analysis lecture labbased mass cytometry
-
-livecell imaging for single cell protein dynamics
-goes here
-lecture fluorescence microscopy lecture types of imaging lecture visualizing molecules in living cells fluorescent tools lecture quantification lecture labbased
-
-integrating and interpreting datasets with network models and dynamical models
-goes here
-lecture omics data and network model analyses lecture single cell time data and dynamical model analyses lecture dynamical model case study
-
-final exam
-
 </DOC>
 
+<DOC>deep mrna sequencing
+goes here
+lecture history of sequencing lecture nd and rd generation sequencing lecture illuminabased mrna sequencing lecture labbased lecture mrna sequencing data analysis
+</DOC>
+
+<DOC>mass spectrometrybased proteomics
+goes here
+lecture basics of mass spectrometry lecture basics of mass spectrometry lecture quantification in proteomics lecture labbased proteomics day lecture labbased proteomics day lecture labbased analysis
+</DOC>
+
+<DOC>midterm exam
+goes here
+</DOC>
+
+<DOC>flow and mass cytometry for single cell protein levels and cell fate
+goes here
+lecture flow cytometry lecture flow cytometry lecture mass cytometry lecture cytometry data analysis lecture labbased flow cytometry acquisition lecture labbased flow cytometry analysis lecture labbased mass cytometry
+</DOC>
+
+<DOC>livecell imaging for single cell protein dynamics
+goes here
+lecture fluorescence microscopy lecture types of imaging lecture visualizing molecules in living cells fluorescent tools lecture quantification lecture labbased
+</DOC>
+
+<DOC>integrating and interpreting datasets with network models and dynamical models
+goes here
+lecture omics data and network model analyses lecture single cell time data and dynamical model analyses lecture dynamical model case study
+</DOC>
+
+<DOC>final exam
+
+</DOC>

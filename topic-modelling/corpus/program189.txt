@@ -14,16 +14,16 @@ general understanding of machine learning techniques and best practices
 practiced understanding of python and the packages commonly used in data science numpy pandas matplotlib scikitlearn
 familiarity with ibm watson studio
 familiarity with the design thinking process
-
-data transforms and feature engineering
+</DOC>
+<DOC>data transforms and feature engineering
 this will introduce you to required for effective feature engineering in todays business enterprises the are presented as a series of best practices representing years of practical
 data transformations introduction to class imbalance class imbalance deep dive introduction to dimensionality reduction dimension reduction case study intro feature engineering
+</DOC>
 
-pattern recognition and data mining best practices
+<DOC>pattern recognition and data mining best practices
 this will continue the discussion of related to feature engineering for practicing data scientists with a focus on outliers and the use of unsupervised learning techniques for finding patterns
 exploring ibms ai fairness toolkit introduction to outliers outlier detection introduction to unsupervised learning unsupervised learning
 </DOC>
-
 <DOC>
 ai workflow ai in production
 this is the sixth in the ibm ai enterprise workflow certification you are strongly encouraged to complete these courses in order as they are not individual independent courses but part of a workflow where each builds on the previous ones
@@ -34,22 +34,24 @@ general understanding of machine learning techniques and best practices
 practiced understanding of python and the packages commonly used in data science numpy pandas matplotlib scikitlearn
 familiarity with ibm watson studio
 familiarity with the design thinking process
-
-feedback loops and monitoring
+</DOC>
+<DOC>feedback loops and monitoring
 this focuses on feedback loops and monitoring feedback loops represent all the possible ways you can return to an earlier stage in the ai enterprise workflow we initially discussed feedback loops in the first of this however here our focus is on unit testing we are also looking at business value a very important consideration that often gets overlooked is the model having as significant effect on business metrics as intended it is important to be able to use log files that have been standardized across the team to answer questions about business value as as performance monitoring have an to complete a case study on performance monitoring where write unit tests for a logger and a logging api endpoint test them and write a suite of unit tests to validate if the logging is working correctly
 feedback loops and unit testing feedback loops and unit tests performance monitoring and business metrics performance drift performance monitoring case study
-
-hands on with openscale and kubernetes
-this will wrap up the formal learning by completing hands on tutorials of watson openscale and kubernetes ibm watson opensscale is a suite of services that allows you to track the performance of production ai and its impact on business goals with actionable metrics in a single console kubernetes is a container orchestration platform for managing scheduling and automating the deployment of docker containers the containers we have developed as part of this are essentially microservices meant to be deployed as cloud native applications
-operationalize trusted ai with ibm watson openscale kubernetes explained kubernetes vs docker its not an eitheror question
-
-capstone pulling it all together part
-you start part one data investigation of a threepart capstone project designed to pull everything you have learned together we have provided a brief review of what you should have learned thus far however you may want to review the first five courses prior to starting the project a major goal of this capstone is to emulate a realworld scenario so we wont be providing notebooks to guide you as we have done with the previous case studies
-
-capstone pulling it all together part
-complete your capstone project and submit it for peer review part of the capstone project involves building models and selecting the best model to deploy use timeseries algorithms to predict future values based on previously observed values over time in part of the capstone project your focus will be creating a postproduction analysis script that investigates the relationship between model performance and the business metrics aligned with the deployed model after completing and submitting your capstone project have access to the solution files for further review
 </DOC>
 
+<DOC>hands on with openscale and kubernetes
+this will wrap up the formal learning by completing hands on tutorials of watson openscale and kubernetes ibm watson opensscale is a suite of services that allows you to track the performance of production ai and its impact on business goals with actionable metrics in a single console kubernetes is a container orchestration platform for managing scheduling and automating the deployment of docker containers the containers we have developed as part of this are essentially microservices meant to be deployed as cloud native applications
+operationalize trusted ai with ibm watson openscale kubernetes explained kubernetes vs docker its not an eitheror question
+</DOC>
+
+<DOC>capstone pulling it all together part
+you start part one data investigation of a threepart capstone project designed to pull everything you have learned together we have provided a brief review of what you should have learned thus far however you may want to review the first five courses prior to starting the project a major goal of this capstone is to emulate a realworld scenario so we wont be providing notebooks to guide you as we have done with the previous case studies
+</DOC>
+
+<DOC>capstone pulling it all together part
+complete your capstone project and submit it for peer review part of the capstone project involves building models and selecting the best model to deploy use timeseries algorithms to predict future values based on previously observed values over time in part of the capstone project your focus will be creating a postproduction analysis script that investigates the relationship between model performance and the business metrics aligned with the deployed model after completing and submitting your capstone project have access to the solution files for further review
+</DOC>
 <DOC>
 ai workflow business priorities and data ingestion
 this is the first of a six part you are strongly encouraged to complete these courses in order as they are not individual independent courses but part of a workflow where each builds on the previous ones
@@ -60,20 +62,21 @@ general understanding of machine learning techniques and best practices
 practiced understanding of python and the packages commonly used in data science numpy pandas matplotlib scikitlearn
 familiarity with ibm watson studio
 familiarity with the design thinking process
-
-ibm ai enterprise workflow introduction
+</DOC>
+<DOC>ibm ai enterprise workflow introduction
 the goal of this first is to introduce you to the overall requirements evaluate your understanding of some key prerequisite knowledge and familiarize you with several process models commonly used today use the process of design thinking but it is the consistent application of a process in practice that is important not the exact process itself there are a number of reasons for choosing the design thinking process but the most important is that it is being applied in a crossdisciplinary waythat is outside of data science
 introduction ibm watson studio create a project workflow
+</DOC>
 
-data collection
+<DOC>data collection
 throughout this or reinforce what you already know about identifying and articulating business the importance of applying a scientific thought process to the task of understanding the business use case this process has many similarities to that of being an investigator also generate a healthy respect for the need to pause step back and think scientifically about the main processes stage
 data collection introduction to business introduction to scientific thinking for business introduction to gathering data ai workflow gathering data
+</DOC>
 
-data ingestion
+<DOC>data ingestion
 cleaning parsing assembling and gutchecking data is among the most timeconsuming tasks that a data scientist has to perform the time spent on data cleaning can start at and increase depending on data quality and the project requirements this looks at the process of ingesting data and presents a case study working a real world scenario
 introduction to data ingestion ai workflow data ingestion ai workflow sparse matrices for data pipeline development using watson studio to complete the case study case study
 </DOC>
-
 <DOC>
 ai workflow machine learning visual recognition and nlp
 this is the fourth in the ibm ai enterprise workflow certification you are strongly encouraged to complete these courses in order as they are not individual independent courses but part of a workflow where each builds on the previous ones
@@ -84,16 +87,16 @@ general understanding of machine learning techniques and best practices
 practiced understanding of python and the packages commonly used in data science numpy pandas matplotlib scikitlearn
 familiarity with ibm watson studio
 familiarity with the design thinking process
-
-model evaluation and performance metrics
+</DOC>
+<DOC>model evaluation and performance metrics
 covers model selection evaluation and performance metrics the focus is on evaluating models iteratively for improvements survey the landscape of evaluation metrics and linear models in order to ensure you are comfortable using implementing baseline models the materials build up to the case study where use natural language processing in a classification setting when you are done iterating on your model connect its model performance to business metrics as an approach to better understand model utility
 objectives evaluation metrics introduction to predictive linear and logistic regression linear models watson natural language understanding service case study introduction
+</DOC>
 
-building machine learning and deep learning models
+<DOC>building machine learning and deep learning models
 is primarily focused on building supervised learning models survey available methods in two popular and effective areas of machine learning tree based algorithms and deep learning algorithms cover the use of tree based methods like random forests and boosting along with other ensemble approaches many of these approaches serve as an important middle layer between interpretable linear models and difficult to interpret deeplearning models for deep learning use a prebuilt visual recognition model and use tensorflow to demonstrate how to build tune and iterate on neural networks also make sure that you understand popular neural network architectures in the case study implement a convolutional neural network and ready it for deployment
 tree based methods introduction to tree based methods neural networks introduction to neural networks ibm watson visual recognition
 </DOC>
-
 <DOC>
 ai workflow data analysis and hypothesis testing
 this is the second in the ibm ai enterprise workflow certification you are strongly encouraged to complete these courses in order as they are not individual independent courses but part of a workflow where each builds on the previous ones
@@ -104,16 +107,16 @@ general understanding of machine learning techniques and best practices
 practiced understanding of python and the packages commonly used in data science numpy pandas matplotlib scikitlearn
 familiarity with ibm watson studio
 familiarity with the design thinking process
-
-data analysis
+</DOC>
+<DOC>data analysis
 exploratory data analysis is mostly about gaining insight through visualization and hypothesis testing this unit looks at eda data visualization and missing values one missing value strategy may be better for some models but for others another strategy may show better predictive performance
 eda introduction to data visualizations data visualizations introduction to missing values missing values case study introduction
+</DOC>
 
-data investigation
+<DOC>data investigation
 data scientists employ a broad range of statistical tools to analyze data and reach conclusions from data this unit focuses on the foundational techniques of estimation with probability distributions and extending these estimates to apply null hypothesis significance tests
 introduction to hypothesis testing hypothesis testing case study introduction
 </DOC>
-
 <DOC>
 ai workflow enterprise model deployment
 this is the fifth in the ibm ai enterprise workflow certification you are strongly encouraged to complete these courses in order as they are not individual independent courses but part of a workflow where each builds on the previous ones
@@ -124,13 +127,13 @@ general understanding of machine learning techniques and best practices
 practiced understanding of python and the packages commonly used in data science numpy pandas matplotlib scikitlearn
 familiarity with ibm watson studio
 familiarity with the design thinking process
-
-deploying models
+</DOC>
+<DOC>deploying models
 today data scientists have more tooling than ever before to create modeldriven or algorithmic solutions and it is important to know when to take the time to make code optimizations we spend a lot of time performing hands on activities we start by interacting with apache spark then progressing to a tutorial with docker wrap up the working through a tutorial on watson machine learning
 introduction to data at scale introduction to spark model management and deployment in watson studio
+</DOC>
 
-deploying models using spark
+<DOC>deploying models using spark
 is primarily focused on deploying models using spark the rationale to move to spark almost always has to do with scale either at the level of model training or at the level of prediction although the resources available to build spark applications are fewer than those for scikitlearn spark gives us the ability to build in an entirely scaleable environment also look at recommendation systems most recommender systems today are able to leverage both explicit eg numerical ratings and implicit eg likes purchases skipped bookmarked patterns in a ratings matrix the majority of modern recommender systems embrace either a collaborative filtering or a contentbased approach a number of other approaches and hybrids exist making some implemented systems difficult to categorize we wrap the up with our handson case study on model deployment
 introduction to spark machine learning spark recommendations recommenders introduction to model deployment case study
 </DOC>
-

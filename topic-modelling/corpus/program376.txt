@@ -16,99 +16,111 @@ learners will on realworld projects including designing secure access management
 securing and monitoring aws infrastructure
 welcome to the securing and monitoring aws infrastructure this covers aws networking security management monitoring services and cost management learners will gain practical to optimize and secure their aws environments effectively
 by the end of this be able to explain a multiregion aws network architecture with vpc peering and vpn connectivity describe the security models and policies used in aws use aws monitoring tools to track the performance of resources analyze cost reports to identify costsaving this is tailored for learners seeking jobs in cloud computing such as cloud engineers architects and aws solutions architects who are interested in mastering essential aws services prior with cloud computing and basic knowledge of structured query language sql are recommended join us to explore the power of securing and monitoring aws infrastructure and elevate your expertise in designing robust cloud solutions
-
-networking using aws
+</DOC>
+<DOC>networking using aws
 this covers the essentials of virtual private clouds vpcs including their benefits components like subnets and route tables it also equips the learners with advanced vpc concepts such as vpc peering and aws transit gateway additionally learners will explore load balancing and autoscaling including creating and managing network load balancers and setting up autoscaling groups
 introduction traditional and virtual network traditional and virtual network working of virtual network virtual private cloud vpc and its benefits virtual private cloud vpc and its benefitsworking of vpc vpc demonstration creating vpc vpc demonstration creating subnets default and nondefault vpc ip address and classless interdomain routing ip address and classless interdomain routing ipvipv addresses subnet route tables internet gateway nacl and security group nat devices nat gateway nat instance access internet inside private subnet using nat gateway vpc peering limitations of vpc peering aws transit gateway connect two vpcs using transit gateway vpc configuration connect two vpcs using transit gateway key pair creation connect two vpcs using transit gateway subnet settings connect two vpcs using transit gateway connecting to ec instances vpc endpoints elastic load balancer elastic load balancertypes of load balancers network load balancer create a network load balancer instance configuration create a network load balancer security group configuration application load balancer auto scaling creating auto scaling group with launch template instance configuration creating auto scaling group with launch template advanced options
-
-security management in aws
-this covers essential security services in aws including aws cognito key management system kms secrets manager and identity and access management iam learners will also get insights about monitoring and compliance tools such as amazon detective inspector and macie and delve into network and application protection using services like aws firewall manager waf and shield
-introduction to aws cognito key management system kms aws secrets manager identity and access management trusted advisor create and manage secrets with aws secrets manager amazon detective amazon inspector amazon macie secure data using amazon macie creating job secure data using amazon macie custom data identifiers detection control via aws guardduty aws firewall manager aws network firewall of web application firewall waf configure waf to protect website from attacks creating web acl configure waf to protect website from attacks adding rules and rule groups what is aws shield aws security hub
-
-monitoring resources in aws
-learners will explore the key aspects of monitoring aws resources learners will understand how aws cloudwatch and cloudtrail enable tracking of key metrics logging events and ensuring the health of aws infrastructure it will also equip the learners with essentials knowledge about the tools and strategies used to monitor and manage cloud performance and security
-of cloud monitoring of aws cloud monitoring key metrics and monitoring considerations introduction to amazon cloudwatch features and workflow introduction to amazon cloudwatch architecture and use cases cloudwatch events and logs monitoring instances using cloudwatch creating alerts monitoring instances using cloudwatch creating subscriptions what is aws cloudtrail aws cloudtrail concepts cloudtrail use cases creating aws cloudtrail events creating trail creating aws cloudtrail events log events configuration
-
-application services and cost management on aws
-this focuses on managing aws application services and costs learners will explore services like amazon ses for email sns and sqs for messaging and queue management and aws cost explorer for financial tracking additionally it addresses creating budgets setting alerts and optimizing costs for efficient aws usage
-introduction to ses key features and working of ses sending an email through amazon ses creating identity sending an email through amazon ses testing email amazon simple notification service sns sending a notification through amazon sns amazon simple queue service sqs create and configure an aws sqs fifo queue aws cost management solutions cloud financial management aws cost explorer and usage reports set alerts and create budget for your aws account cost optimization in aws managing an aws account cost creating user group managing an aws account cost iam user sign in
-
-wrapup and assessment
-this is designed to assess an individual on the various concepts and teachings covered evaluate your knowledge with a comprehensive graded quiz on networking security management monitoring application services and cost management on aws
 </DOC>
 
+<DOC>security management in aws
+this covers essential security services in aws including aws cognito key management system kms secrets manager and identity and access management iam learners will also get insights about monitoring and compliance tools such as amazon detective inspector and macie and delve into network and application protection using services like aws firewall manager waf and shield
+introduction to aws cognito key management system kms aws secrets manager identity and access management trusted advisor create and manage secrets with aws secrets manager amazon detective amazon inspector amazon macie secure data using amazon macie creating job secure data using amazon macie custom data identifiers detection control via aws guardduty aws firewall manager aws network firewall of web application firewall waf configure waf to protect website from attacks creating web acl configure waf to protect website from attacks adding rules and rule groups what is aws shield aws security hub
+</DOC>
+
+<DOC>monitoring resources in aws
+learners will explore the key aspects of monitoring aws resources learners will understand how aws cloudwatch and cloudtrail enable tracking of key metrics logging events and ensuring the health of aws infrastructure it will also equip the learners with essentials knowledge about the tools and strategies used to monitor and manage cloud performance and security
+of cloud monitoring of aws cloud monitoring key metrics and monitoring considerations introduction to amazon cloudwatch features and workflow introduction to amazon cloudwatch architecture and use cases cloudwatch events and logs monitoring instances using cloudwatch creating alerts monitoring instances using cloudwatch creating subscriptions what is aws cloudtrail aws cloudtrail concepts cloudtrail use cases creating aws cloudtrail events creating trail creating aws cloudtrail events log events configuration
+</DOC>
+
+<DOC>application services and cost management on aws
+this focuses on managing aws application services and costs learners will explore services like amazon ses for email sns and sqs for messaging and queue management and aws cost explorer for financial tracking additionally it addresses creating budgets setting alerts and optimizing costs for efficient aws usage
+introduction to ses key features and working of ses sending an email through amazon ses creating identity sending an email through amazon ses testing email amazon simple notification service sns sending a notification through amazon sns amazon simple queue service sqs create and configure an aws sqs fifo queue aws cost management solutions cloud financial management aws cost explorer and usage reports set alerts and create budget for your aws account cost optimization in aws managing an aws account cost creating user group managing an aws account cost iam user sign in
+</DOC>
+
+<DOC>wrapup and assessment
+this is designed to assess an individual on the various concepts and teachings covered evaluate your knowledge with a comprehensive graded quiz on networking security management monitoring application services and cost management on aws
+</DOC>
 <DOC>
 aws cloud essentials
 welcome to the aws cloud essentials this introduces key cloud computing concepts and core aws services it covers deploying and managing applications on aws understanding the infrastructure and applying best practices
 by the end of this be able to discuss the fundamental components and services of aws explain the importance of iam in ensuring secure access to aws resources implement and manage ec instances using aws management console compare the performance characteristics and use cases of different aws storage solutions this is tailored for learners seeking jobs in cloud roles such as cloud engineers architects and aws solutions architects who are interested in mastering core aws services prior with cloud computing and basic knowledge of structured query language is recommended join us to explore the power of aws cloud solutions and elevate your expertise in designing robust cloud solutions
-
-getting started with aws
+</DOC>
+<DOC>getting started with aws
 this covers cloud computing models and aws global infrastructure learners will explore cloud service and deployment models aws regions availability zones and edge locations the aws free tier will also be introduced to experiment with aws services at no cost
 introduction what is cloud computing cloud computing service models cloud computing deployment models introduction to aws aws global infrastructure region aws global infrastructure availability zones list of aws services what is a free tier account signup an aws free tier account
-
-iam and aws cli
-learners will explore the essentials of aws identity and access management iam including users roles policies and groups which are the core parts of this additionally iamrelated services such as multifactor authentication mfa and the aws command line interface cli will be introduced to manage aws resources
-what is identity and access management iam creating and managing iam users user creation creating and managing iam users user verification create a new iam user group creating an iam role iam policies elements iam policies best practices password policies multifactor authentication aws single signon iam best practices introduction to aws cli aws cli hands on aws cloudshell
-
-compute services in aws
-learners will explore computing concepts related to amazon ec including instance management and ami amazon machine image handling they will also examine ec storage options amazon fsx for file systems and aws batch for batch processing by the end of this learners will be able to efficiently manage and deploy computing resources on aws
-amazon ec amazon machine image ami and instance types security groups in aws creating an ec instance ami and key pair creating an ec instance networking and user data creating an ec instance instance connect creating a custom ami amazon ec instance store what is elastic block store ebs ebs volume types attaching an ebs volume externally volume creation attaching an ebs volume externally attaching with instance elastic file system efs aws batch amazon fsx amazon fsx for lustre
-
-aws storage options
-learners will be introduced to amazon s which covers essential topics such as bucket creation policy management versioning and advanced features they will also explore crossregion replication s storage classes and lifecycle policies by the end of this learners will be equipped to manage data on amazon s securely and efficiently
-traditional storage what is cloud storage different storage options on aws of simple storage service working on s and bucket policy creation of an s bucket bucket creation creation of an s bucket hosting website access control list acl versioning in amazon s crossregion replication crr crossregion replication crr demonstration amazon s transfer acceleration storage classes on s storage classes on s demonstration s lifecycle policy aws backup
-
-wrapup and assessment
-this is designed to assess an individual on the various concepts and teachings covered evaluate your knowledge with a comprehensive graded quiz on identity compute and storage services in aws
 </DOC>
 
+<DOC>iam and aws cli
+learners will explore the essentials of aws identity and access management iam including users roles policies and groups which are the core parts of this additionally iamrelated services such as multifactor authentication mfa and the aws command line interface cli will be introduced to manage aws resources
+what is identity and access management iam creating and managing iam users user creation creating and managing iam users user verification create a new iam user group creating an iam role iam policies elements iam policies best practices password policies multifactor authentication aws single signon iam best practices introduction to aws cli aws cli hands on aws cloudshell
+</DOC>
+
+<DOC>compute services in aws
+learners will explore computing concepts related to amazon ec including instance management and ami amazon machine image handling they will also examine ec storage options amazon fsx for file systems and aws batch for batch processing by the end of this learners will be able to efficiently manage and deploy computing resources on aws
+amazon ec amazon machine image ami and instance types security groups in aws creating an ec instance ami and key pair creating an ec instance networking and user data creating an ec instance instance connect creating a custom ami amazon ec instance store what is elastic block store ebs ebs volume types attaching an ebs volume externally volume creation attaching an ebs volume externally attaching with instance elastic file system efs aws batch amazon fsx amazon fsx for lustre
+</DOC>
+
+<DOC>aws storage options
+learners will be introduced to amazon s which covers essential topics such as bucket creation policy management versioning and advanced features they will also explore crossregion replication s storage classes and lifecycle policies by the end of this learners will be equipped to manage data on amazon s securely and efficiently
+traditional storage what is cloud storage different storage options on aws of simple storage service working on s and bucket policy creation of an s bucket bucket creation creation of an s bucket hosting website access control list acl versioning in amazon s crossregion replication crr crossregion replication crr demonstration amazon s transfer acceleration storage classes on s storage classes on s demonstration s lifecycle policy aws backup
+</DOC>
+
+<DOC>wrapup and assessment
+this is designed to assess an individual on the various concepts and teachings covered evaluate your knowledge with a comprehensive graded quiz on identity compute and storage services in aws
+</DOC>
 <DOC>
 migrating to aws cloud
 welcome to the migrating to aws cloud explore essential aws services and concepts that enable efficient and secure migration of your applications and workloads to the aws cloud gain handson with aws migration strategies tools and best practices while understanding the critical steps involved in discovering planning and executing a seamless migration process by the end of this be able to
 list the key concepts and terminology associated with cloud migration describe the aws cloud adoption framework and its role implement the wellarchitected framework to improve a migration plan examine migration strategies and their use cases design a migration plan using various aws services to meet business needs this is ideal for cloud enthusiasts engineers architects and professionals who want to gain indepth knowledge and practical in migrating applications to the cloud prior with cloud computing and core aws services is recommended join us to explore the power of migrating to aws cloud and elevate your expertise in cloud transformation and seamless application migration
-
-getting started with cloud migration
+</DOC>
+<DOC>getting started with cloud migration
 this introduces the fundamental concepts of cloud migration exploring its advantages and challenges through realworld case studies learners will gain insights into migrating to aws understanding best practices and utilizing the cloud adoption framework to facilitate a seamless transition to the cloud
 introduction what is cloud migration introduction what is cloud migration key considerations advantages of cloud migration challenges in cloud migration cloud migration ge power case study migration to aws benefits of aws cloud migration to aws success stories business case for migration to aws benefits of aws migration what is cloud adoption framework caf benefits of cloud adoption framework caf
-
-aws migration strategies
-this explores key perspectives for effective cloud migration emphasizing both business and technical aspects it covers the concepts of aws cloud adoption process and r migration patterns additionally the delves into the aws wellarchitected framework focusing on pillars such as operational excellence security reliability performance efficiency and cost optimization providing a comprehensive understanding of best practices for aws architecture
-business perspective technical perspective platform technical perspective security technical perspective operations aws cloud adoption process journey aws cloud adoption process r migration pattern relocate rehost replatform and repurchasing r migration pattern refactor retain retire r migration design and infrastructure pattern introduction to aws wellarchitected framework operation excellence and security pillars reliability pillars performance efficiency and cost optimization
-
-aws application migration and discovery
-learners will explore the critical processes of application migration and discovery on aws they will gain insights into application migration strategies the use of aws migration hub to track progress and the functionalities of aws application discovery service to assess resources
-introduction to application migration on aws identify and prioritize application migration schedule application migration application migration phases phase phase and phase application migration phases phase phase and phase different types of aws migration services of aws migration hub ways to use aws migration hub authentication in aws migration hub of aws application discovery service working of aws application discovery service application discovery tools gathering details of migrating resource via application discovery service problem gathering details of migrating resource via application discovery service iam configuration and rdp login gathering details of migrating resource via application discovery service testing applications gathering details of migrating resource via application discovery service instance connection gathering details of migrating resource via application discovery service aws migration hub data collection gathering details of migrating resource via application discovery service server dependencies
-
-exploring aws migration services
-this covers essential approaches for migrating virtual machines to the aws cloud it includes methods such as aws importexport for architectural configuration s bucket setup iam roles and instance management learners will also explore the aws server migration service sms and aws application migration service for seamless migration of multitier applications from other cloud environments along with aws cloudendure for application migration and highfidelity replication
-ways to migrate virtual machines vm migration to the aws cloud environment using aws importexport architectural vm migration to the aws cloud environment using aws importexport configuring s bucket vm migration to the aws cloud environment using aws importexport working with cloudshell vm migration to the aws cloud environment using aws importexport iam roles vm migration to the aws cloud environment using aws importexport launching instance vm migration to the aws cloud environment using aws importexport bucket configuration vm migration to the aws cloud environment using aws importexport exporting instance introduction to server migration service working of server migration service and servermigrationconnector application migration with aws application migration service application migration with aws application migration service application installation application migration with aws application migration service adding server application migration with aws application migration service instance settings application migration with aws application migration service launch test instance application migration with aws application migration service finalizing cutover introduction to aws cloudendure working of aws cloudendure
-
-wrapup and assessment
-this is designed to assess an individual on the various concepts and teachings covered evaluate your knowledge with a comprehensive graded quiz on fundamentals of cloud migration aws migration strategies aws application migration and aws migration services
 </DOC>
 
+<DOC>aws migration strategies
+this explores key perspectives for effective cloud migration emphasizing both business and technical aspects it covers the concepts of aws cloud adoption process and r migration patterns additionally the delves into the aws wellarchitected framework focusing on pillars such as operational excellence security reliability performance efficiency and cost optimization providing a comprehensive understanding of best practices for aws architecture
+business perspective technical perspective platform technical perspective security technical perspective operations aws cloud adoption process journey aws cloud adoption process r migration pattern relocate rehost replatform and repurchasing r migration pattern refactor retain retire r migration design and infrastructure pattern introduction to aws wellarchitected framework operation excellence and security pillars reliability pillars performance efficiency and cost optimization
+</DOC>
+
+<DOC>aws application migration and discovery
+learners will explore the critical processes of application migration and discovery on aws they will gain insights into application migration strategies the use of aws migration hub to track progress and the functionalities of aws application discovery service to assess resources
+introduction to application migration on aws identify and prioritize application migration schedule application migration application migration phases phase phase and phase application migration phases phase phase and phase different types of aws migration services of aws migration hub ways to use aws migration hub authentication in aws migration hub of aws application discovery service working of aws application discovery service application discovery tools gathering details of migrating resource via application discovery service problem gathering details of migrating resource via application discovery service iam configuration and rdp login gathering details of migrating resource via application discovery service testing applications gathering details of migrating resource via application discovery service instance connection gathering details of migrating resource via application discovery service aws migration hub data collection gathering details of migrating resource via application discovery service server dependencies
+</DOC>
+
+<DOC>exploring aws migration services
+this covers essential approaches for migrating virtual machines to the aws cloud it includes methods such as aws importexport for architectural configuration s bucket setup iam roles and instance management learners will also explore the aws server migration service sms and aws application migration service for seamless migration of multitier applications from other cloud environments along with aws cloudendure for application migration and highfidelity replication
+ways to migrate virtual machines vm migration to the aws cloud environment using aws importexport architectural vm migration to the aws cloud environment using aws importexport configuring s bucket vm migration to the aws cloud environment using aws importexport working with cloudshell vm migration to the aws cloud environment using aws importexport iam roles vm migration to the aws cloud environment using aws importexport launching instance vm migration to the aws cloud environment using aws importexport bucket configuration vm migration to the aws cloud environment using aws importexport exporting instance introduction to server migration service working of server migration service and servermigrationconnector application migration with aws application migration service application migration with aws application migration service application installation application migration with aws application migration service adding server application migration with aws application migration service instance settings application migration with aws application migration service launch test instance application migration with aws application migration service finalizing cutover introduction to aws cloudendure working of aws cloudendure
+</DOC>
+
+<DOC>wrapup and assessment
+this is designed to assess an individual on the various concepts and teachings covered evaluate your knowledge with a comprehensive graded quiz on fundamentals of cloud migration aws migration strategies aws application migration and aws migration services
+</DOC>
 <DOC>
 aws cloud for data and database migration
 welcome to the aws cloud for data and database migration explore core aws database services such as amazon rds dynamodb and amazon redshift as as their features and use cases to help you design scalable and costefficient architectures learners will also effective database migration strategies including the use of aws database migration service dms and aws schema conversion tool sct to overcome migration challenges additionally the will cover various tools and services like storage gateway snowball and direct connect to facilitate seamless data and database migration to aws by the end of this be able to
 identify the core aws database services and their key features explain the use cases of aws database migration service dms and aws schema conversion tool sct for database migrations demonstrate the use of aws dms to migrate a database compare homogeneous and heterogeneous migration strategies and tools design a scalable costefficient database architecture using aws services this is ideal for cloud enthusiasts engineers architects and professionals who want to gain indepth knowledge and practical in migrating data and databases to the cloud prior with cloud computing and core aws services is recommended join us to explore the power of aws cloud for data and database migration and elevate your expertise in cloud transformation and seamless data and database migration
-
-aws database services
+</DOC>
+<DOC>aws database services
 explore the core aws database services including amazon rds dynamodb and amazon redshift to understand their features and use cases how to choose the right database solution for different workloads and design highly scalable and costefficient architectures
 introduction aws cloud for data and database migration of aws database services amazon rds rds database instance identity and access management in amazon rds storing application data in mysql db using amazon rds wampserver installation storing application data in mysql db using amazon rds database creation storing application data in mysql db using amazon rds executing crud operations storing application data in mysql db using amazon rds connecting to database amazon dynamodb perform crud operations on nosql database amazon elasticache introduction amazon elasticache use cases creating an elasticache for redis redis creation creating an elasticache for redis command execution introduction to data warehouse amazon redshift features and architecture amazon redshift data processing flow querying data from s with redshift bucket and role creation querying data from s with redshift redshift query editor introduction to amazon aurora of amazon keyspaces
-
-aws database migration service
-this focuses on aws database migration service dms providing insights into overcoming database migration challenges and effective planning strategies learners will discover how to integrate dms with services like amazon rds dynamodb and redshift and explore the aws schema conversion tool sct for database conversions
-aws database migration challenges planning of database migration what is aws database migration service dms aws dms related services amazon rds with aws dms dynamodb and aws dms integration integrating aws dms with amazon redshift aws cloudformation with aws dms what is the aws schema conversion tool db conversions supported by sct working of dms and sct aws dms components
-
-database migration strategies to aws
-throughout this learners will explore various strategies for migrating databases to aws they will about the stages of database migration the differences between homogeneous and heterogeneous migrations and how to leverage aws database migration service dms and aws schema conversion tool sct
-aws db migration stages database migration with aws dms database migration types homogeneous database migration types heterogenous database migration with aws sct data migration using aws database migration service replication instance data migration using aws database migration service crud operations data migration using aws database migration service database migration task migrating from sql server to amazon dynamodb using aws database migration service replication instance and endpoints migrating from sql server to amazon dynamodb using aws database migration service database migration task
-
-aws data migration
-explore various strategies and services for migrating data to aws including the advantages challenges and different transfer methods about key aws services such as storage gateway snowball and direct connect to facilitate both online and offline data transfers
-what is data migration to aws advantages of data migration data migration challenges aws storage gateway aws storage gateway demonstration aws snowball aws snowball edge aws direct connect amazon s transfer acceleration amazon data firehose aws datasync aws transfer family enable file share for smb using aws storage gateway create gateway enable file share for smb using aws storage gateway file share enable s transfer acceleration on a bucket to accelerate the copy of files identity and authentication enable s transfer acceleration on a bucket to accelerate the copy of files data transfer
-
-wrapup and assessment
-this is designed to assess an individual on the various concepts and teachings covered evaluate your knowledge with a comprehensive graded quiz on the aws database migration and data migration strategies on aws
 </DOC>
 
+<DOC>aws database migration service
+this focuses on aws database migration service dms providing insights into overcoming database migration challenges and effective planning strategies learners will discover how to integrate dms with services like amazon rds dynamodb and redshift and explore the aws schema conversion tool sct for database conversions
+aws database migration challenges planning of database migration what is aws database migration service dms aws dms related services amazon rds with aws dms dynamodb and aws dms integration integrating aws dms with amazon redshift aws cloudformation with aws dms what is the aws schema conversion tool db conversions supported by sct working of dms and sct aws dms components
+</DOC>
+
+<DOC>database migration strategies to aws
+throughout this learners will explore various strategies for migrating databases to aws they will about the stages of database migration the differences between homogeneous and heterogeneous migrations and how to leverage aws database migration service dms and aws schema conversion tool sct
+aws db migration stages database migration with aws dms database migration types homogeneous database migration types heterogenous database migration with aws sct data migration using aws database migration service replication instance data migration using aws database migration service crud operations data migration using aws database migration service database migration task migrating from sql server to amazon dynamodb using aws database migration service replication instance and endpoints migrating from sql server to amazon dynamodb using aws database migration service database migration task
+</DOC>
+
+<DOC>aws data migration
+explore various strategies and services for migrating data to aws including the advantages challenges and different transfer methods about key aws services such as storage gateway snowball and direct connect to facilitate both online and offline data transfers
+what is data migration to aws advantages of data migration data migration challenges aws storage gateway aws storage gateway demonstration aws snowball aws snowball edge aws direct connect amazon s transfer acceleration amazon data firehose aws datasync aws transfer family enable file share for smb using aws storage gateway create gateway enable file share for smb using aws storage gateway file share enable s transfer acceleration on a bucket to accelerate the copy of files identity and authentication enable s transfer acceleration on a bucket to accelerate the copy of files data transfer
+</DOC>
+
+<DOC>wrapup and assessment
+this is designed to assess an individual on the various concepts and teachings covered evaluate your knowledge with a comprehensive graded quiz on the aws database migration and data migration strategies on aws
+</DOC>

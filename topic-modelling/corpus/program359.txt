@@ -9,103 +9,116 @@ write record and produce an original song using real instruments midi and effect
 songwriting writing the lyrics
 theres a songwriter lurking somewhere inside you peeking around corners wondering if its safe to come out now it is this is an invitation to let your inner songwriter step into the sunlight all it takes is a simple yes and be climbing that windy hill marveling at the view
 if you havent written any or many songs this will show you an efficient effective process for tailoring songs to express your ideas and emotions if you have look at your process differently taking control of aspects of the process you may have not noticed the will start by examining the tools available to you all revolving around the essential concept of prosody to use your tools to enhance your messageto compositionally at the same time youre developing your ideas be working both lyrically and musically though musically its not necessary that you either read music or play an instrument if you play great and be encouraged to play and record your musical responses to the if you dont play the offers you a number of musical loops to with all have to do is sing your melodies over the loops will ask you to post something for peer reviewsometimes lyric lines or sections sometimes melodies sometimes both none of it has to be polished the is about writing not performing most important have a lot of fun
-
-welcome to songwriting writing the lyrics
+</DOC>
+<DOC>welcome to songwriting writing the lyrics
 welcome to the here cover all the details about the and what need to know to get the most out of your
+</DOC>
 
-the journey of the song
+<DOC>the journey of the song
 by the end of this lesson see how to develop your song idea so it creates an interesting journey from start to finish understand your options developing the point of view of your song and will be introduced to the songwriters six best friends
 point of view boxes your development engine six best friends song form
+</DOC>
 
-stopping and going
+<DOC>stopping and going
 by the end of this lesson understand the concept of prosody as it relates to the number of linesmusical phrases in a section and to line lengthsmusical phrases create both stable and unstable linemusical groupings using an odd or even number of lines and musical phrases using these tools write a verse and chorus
 prosody practice stable or unstable five compositional elements effects of number of lines length of lines effects of length of lines
+</DOC>
 
-sonic gpsmapping your song with rhyme
+<DOC>sonic gpsmapping your song with rhyme
 by the end of this lesson understand the relationship of rhyme schemes to prosody create both stable and unstable sections using various rhyme schemes to show your ear the way to go home using these tools write a new verse and chorus
 rhyme scheme part rhyme scheme part perfect rhyme family rhyme finding family rhymes additive and subtractive rhyme assonance rhyme consonance rhyme using rhyme to generate ideas organizing your ideas by developing rhyme schemes part organizing your ideas by developing rhyme schemes part stable and unstable tones part stable and unstable tones part
+</DOC>
 
-making it move
+<DOC>making it move
 by the end of this lesson understand language rhythmsthe difference between stressed and unstressed syllables and how to put rhythm in your lines preparing them to join into the dance with musical rhythm using these tools put last weeks verse and chorus to music
 multisyllable words onesyllable words stressed vs unstressed syllables rhythm developing an idea through the boxes master class melodic rhythm and lyric rhythm part master class melodic rhythm and lyric rhythm part master class melodic rhythm and lyric rhythm part master class melodic rhythm and lyric rhythm part pieces part pieces part pieces part
 </DOC>
-
 <DOC>
 the art of music production
 explore the art of record production and how to make recordings that other people will love listening to this will teach you how to make emotionally moving recordings on almost any recording equipment including your phone or laptop the emphasis is on mastering tangible artistic concepts
 the gear you use is up to you to develop the most important tool in the recording studio your ears to enhance every aspect of your own productions both sonically and musically by employing deeper listening
 will include posting your own recordings for peer review and reviewing your classmates by employing specific tools and strategies if you use a digital audio workstation to record and mix thats great but as long as you can record into your computer and post an mp you can complete the as you about the art of record production also about yourself and who you are as an artist and producer it is not necessary that you read music or play an instrument to take this
-
-welcome to the art of music production
+</DOC>
+<DOC>welcome to the art of music production
 welcome to the art of music production before you begin the cover all the details about the and what need to know to get the most out of your
+</DOC>
 
-listening like a producer
+<DOC>listening like a producer
 by the end of this lesson understand the concepts of listening to music emotionally and technically strategies for maintaining objectivity and using kinesthetic observations to discover musical effectiveness will be internalized train yourself to make distinctions on what works and what doesnt rather than just passively listening as a fan
 make it sound like a record why do we listen to music listening emotionally vs listening technically kinesthetic observation emotional cues elements of a compelling musical recording letting go of prejudice
+</DOC>
 
-identity vision and intention
+<DOC>identity vision and intention
 lesson hone in on your identity as a recording artist who are you and what are you meaning to convey through your music on refining your vision and intention for the recordings make employing these and record and post a tape of a new piece of music
 identity vision and intention artist comparison exercise artist identity workshop producer identity workshop what is your artistic intention giving and receiving feedback
+</DOC>
 
-strengthening musical productions tools strategies
+<DOC>strengthening musical productions tools strategies
 by the end of this lesson be able to employ several useful techniques for strengthening your songs and instrumental tracks acquire in prosody focus and an intelligent approach to repetition also to craft better melodies write better lyrics and construct a musical form that best suits the emotional contour you are trying to accomplish with your recording understand the principles of getting the most out of feedback on your recordings in order to gather valuable perspective to better convey your intended response incorporate notes from your colleagues to further refine your recording and repost an updated version
 using prosody to make better art form the structure of your song tools for writing better lyrics crafting better melodies repetition arranging rule of threes studio performance programmed tracks singers virtuoso vs vibe producing vocals
+</DOC>
 
-defining the sonic signature of your song
+<DOC>defining the sonic signature of your song
 by the end of this lesson address the sonic signature as it relates to your intention and vision as as your technology resources and acoustic space about microphone techniques getting good levels and mixing with reverb eq and compression record your material having made some deliberate decisions about the sound of your record and post your recording for peer review according to specific criteria
 the sonics of your song singlesource recording multitrack recording sound absorption vs sound proofing acoustic spaces mic placement microphone types and pick up patterns layering guitar micing clinic application of technology to art where to go from here
 </DOC>
-
 <DOC>
 pro tools basics
 producing music is an incredibly creative process and knowing the tools of the trade is essential in order to transmit the musical ideas in your head into the daw in a creative and uninhibited way whether you have used a computer to create music before or you have been curious about production for years will give you an introductory look into the world of avid pro tools and pro tools first
-
-welcome to pro tools basics
+</DOC>
+<DOC>welcome to pro tools basics
 welcome to your berklee massive online before you begin the cover all the details about the and what need to know to get the most out of your
 welcome to pro tools basics what need for this
+</DOC>
 
-diving in
+<DOC>diving in
 first lesson roll up our sleeves and dive into the pro tools interface how to set up a session and how to add instrument and audio tracks also how to save and bounce our while keeping everything organized
 the pro tools interface midi and software instrument tracks audio tracks working from templates organizing your session bouncing your session saving your session working with the basics giving and receiving feedback
+</DOC>
 
-exploring midi and software instruments
+<DOC>exploring midi and software instruments
 lesson focus on midi and software instruments start by learning about the different kinds of sound waves next the difference between samplers and synthesizers and how to use them in music production also how to manipulate and automate midi
 introduction to onboard software instruments wave basics synthesizers samplers midi manipulation automation working with midi and software instruments
+</DOC>
 
-recording and manipulating audio
+<DOC>recording and manipulating audio
 dive into the world of audio how to properly import and manage audio in pro tools how to record into pro tools and also how to use audiosuite to manipulate audio regions
 importing and managing audio audio suite reverse tempo operations recording in playlists working with audio
+</DOC>
 
-mixing and mastering
+<DOC>mixing and mastering
 final lesson be discussing mixing and mastering how to make a radioquality production by adding reverb eq compression and limiters
 of plugin effects and creating a rough mix eq compression reverb buses and aux tracks limiters practice mixing and mastering wrapup
 </DOC>
-
 <DOC>
 building your in music developing a brand and funding your music
 this shares practical tips and strategies to help you take your first step into launching your as a musical artist cover everything from developing your unique identity as an artist and how to lead a band all the way to planning and recording your first independent record with the help of crowdfunding
 the curriculum is modeled from the realworld of leah waldo also known as the emerging country artist elisa smith and features interviews with industry executives artists producers and engineers all designed to help you navigate the music industry
-
-welcome
+</DOC>
+<DOC>welcome
 welcome to building your in music developing a brand and funding your music before you begin the cover all the details about the and what need to know to get the most out of your
-
-your foundation
-lesson begin to lay the foundation for who you are as an artist and a leader discuss the importance of having a strong sense of your identity vision and intention and also go over how to leverage your natural as a musician im talking about things like intuition and collaboration and getting these assets to for you as an entrepreneur finally discuss how to become a better band leader
-what you can expect to lesson developing your identity vision and intention musicianship entrepreneurship how to become a more effective band leader
-
-your brand
-now that you have a strong foundation your ivi discuss building your brand and your fanbase go over tips for building a presence on social media and how to connect to your fans and potential business partners on a personal level by learning how to network effectively finally discuss the trend of artistbrand partnerships and why a brand partnership might be a smart move for independent artists
-what you can expect to lesson building your fanbase the art of networking partnering with brands
-
-your record
-lesson focus on planning your recording project whether its a full length album or an ep discuss the role of the producer and the very special relationship that exists between producers and musicians also discuss how to cast a vision for your project by choosing the right songs feel and instrumentation finally how to set up a simple recording budget so you can keep track of how much your project will cost
-what you can expect to lesson choosing the right producer establishing a vision and intention for your record setting up a simple recording budget case study do you need a producer
-
-your money
-the majority of this lesson will focus on planning launching and managing a crowdfunding campaign crowdfunding is a great way to gain support for your music but running a campaign requires careful planning and preparation also share some tips on how to turn your band into a sustainable business
-what you can expect to lesson tips for turning your band into a business crowdfunding pre launch crowdfunding post launch case study successful crowdfunding
-
-your
-congratulations youve made it through the content and now its time to put what youve learned into practice for your final project
 </DOC>
 
+<DOC>your foundation
+lesson begin to lay the foundation for who you are as an artist and a leader discuss the importance of having a strong sense of your identity vision and intention and also go over how to leverage your natural as a musician im talking about things like intuition and collaboration and getting these assets to for you as an entrepreneur finally discuss how to become a better band leader
+what you can expect to lesson developing your identity vision and intention musicianship entrepreneurship how to become a more effective band leader
+</DOC>
+
+<DOC>your brand
+now that you have a strong foundation your ivi discuss building your brand and your fanbase go over tips for building a presence on social media and how to connect to your fans and potential business partners on a personal level by learning how to network effectively finally discuss the trend of artistbrand partnerships and why a brand partnership might be a smart move for independent artists
+what you can expect to lesson building your fanbase the art of networking partnering with brands
+</DOC>
+
+<DOC>your record
+lesson focus on planning your recording project whether its a full length album or an ep discuss the role of the producer and the very special relationship that exists between producers and musicians also discuss how to cast a vision for your project by choosing the right songs feel and instrumentation finally how to set up a simple recording budget so you can keep track of how much your project will cost
+what you can expect to lesson choosing the right producer establishing a vision and intention for your record setting up a simple recording budget case study do you need a producer
+</DOC>
+
+<DOC>your money
+the majority of this lesson will focus on planning launching and managing a crowdfunding campaign crowdfunding is a great way to gain support for your music but running a campaign requires careful planning and preparation also share some tips on how to turn your band into a sustainable business
+what you can expect to lesson tips for turning your band into a business crowdfunding pre launch crowdfunding post launch case study successful crowdfunding
+</DOC>
+
+<DOC>your
+congratulations youve made it through the content and now its time to put what youve learned into practice for your final project
+</DOC>

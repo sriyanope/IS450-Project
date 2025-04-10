@@ -10,65 +10,71 @@ the three courses will show you how to create various quantitative and algorithm
 reinforcement learning for trading strategies
 in the final from the machine learning for trading be introduced to reinforcement learning rl and the benefits of using reinforcement learning in trading strategies how rl has been integrated with neural networks and review lstms and how they can be applied to time series data by the end of the be able to build trading strategies using reinforcement learning differentiate between actorbased policies and valuebased policies and incorporate rl into a momentum trading strategy
 to be successful you should have advanced competency in python programming and familiarity with pertinent libraries for machine learning such as scikitlearn statsmodels and pandas with sql is recommended you should have a background in statistics expected values and standard deviation gaussian distributions higher moments probability linear regressions and foundational knowledge of financial markets equities bonds derivatives market structure hedging
-
-introduction to and reinforcement learning
+</DOC>
+<DOC>introduction to and reinforcement learning
 reinforcement learning is introduced at a high level the history and evolution of reinforcement learning is presented including key concepts like value and policy iteration also the benefits and examples of using reinforcement learning in trading strategies is described we also introduce lstm and automl as additional tools in your toolkit to use in implementing trading strategies
 introduction to what is reinforcement learning history value iteration policy iteration td learning q learning benefits of reinforcement learning in your trading strategy drl advantages for strategy efficiency and performance introduction to qwiklabs
+</DOC>
 
-neural network based reinforcement learning
+<DOC>neural network based reinforcement learning
 in the previous reinforcement learning was discussed before neural networks were introduced we look at how reinforcement learning has been integrated with neural networks we also look at lstms and how they can be applied to time series data
 tdgammon deep q networks loss deep q networks memory deep q networks code policy gradients actorcritic what is lstm more on lstm applying lstm to time series data
+</DOC>
 
-portfolio optimization
+<DOC>portfolio optimization
 we discuss the practical steps required to create a reinforcement learning trading system also we introduce automl a powerful service on google cloud platform for training machine learning models with minimal coding
 how to develop a drl trading system steps required to develop a drl strategy final checks before going live with your strategy investment and trading risk management trading strategy risk management portfolio risk reduction why automl automl vision automl nlp automl tables
 </DOC>
-
 <DOC>
 using machine learning in trading and finance
 this provides the foundation for developing advanced trading strategies using machine learning techniques review the key components that are common to every trading strategy no matter how complex be introduced to multiple trading strategies including quantitative trading pairs trading and momentum trading by the end of the be able to design basic quantitative trading strategies build machine learning models using keras and tensorflow build a pair trading strategy prediction model and back test it and build a momentumbased trading model and back test it
 to be successful you should have advanced competency in python programming and familiarity with pertinent libraries for machine learning such as scikitlearn statsmodels and pandas with sql is recommended you should have a background in statistics expected values and standard deviation gaussian distributions higher moments probability linear regressions and foundational knowledge of financial markets equities bonds derivatives market structure hedging
-
-introduction to quantitative trading and tensorflow
+</DOC>
+<DOC>introduction to quantitative trading and tensorflow
 we discuss the key components that are common to every trading strategy no matter how complex this foundation will help guide you as you develop more advanced strategies using machine learning techniques
 introduction to basic trading strategy entries and exits endogenous exogenous basic trading strategy building a trading model advanced concepts in trading strategies
+</DOC>
 
-introduction to tensorflow
+<DOC>introduction to tensorflow
 app items
 introduction to tensorflow tensorflow api hierarchy components of tensorflow tensors and variables getting started with google cloud platform and qwiklabs lab intro writing lowlevel tensorflow programs working inmemory and with files training on large datasets with tfdata api getting the data ready for model training embeddings lab intro manipulating data with tensorflow dataset api
+</DOC>
 
-training neural networks with tensorflow and keras
+<DOC>training neural networks with tensorflow and keras
 app items
 activation functions activation functions pitfalls to avoid in backpropagation neural networks with keras sequential api serving models in the cloud lab intro keras sequential api neural networks with keras functional api regularization the basics regularization l l and early stopping regularization dropout lab intro keras functional api recap
+</DOC>
 
-build a momentumbased trading system
+<DOC>build a momentumbased trading system
 momentum trading is a strategy in which traders buy or sell assets according to the strength of recent price trends price momentum is similar to momentum in physics where mass multiplied by velocity determines the persistence with which an object will follow its current path like a heavy train on a track in financial markets however momentum is determined by other factors like trading volume and rate of price changes momentum traders bet that an asset price that is moving strongly in a given direction will continue to move in that direction until the trend loses strength or reverses this teaches you all about momentum trading
 introduction to momentum trading introduction to hurst building a momentum trading model define the problem collect the data creating features split the data selecting a machine learning algorithm backtest on unseen data understanding the code simple ml strategies to generate trading signal lab intro momentum trading momentum trading lab solution
+</DOC>
 
-build a pair trading strategy prediction model
+<DOC>build a pair trading strategy prediction model
 we introduce pairs trading discuss what pairs trading is and how you can make money doing it discuss what you need to know about the members to form a suitable pair
 introduction to pair trading picking pairs picking pairs with clustering how to implement a pair trading strategy evaluate results of a pair trade backtesting and avoiding overfitting next steps improvements to your pairs strategy lab intro pairs trading lab solution pairs trading kalman filter introduction kalman filter trading applications
 </DOC>
-
 <DOC>
 introduction to trading machine learning gcp
 about the fundamentals of trading including the concept of trend returns stoploss and volatility how to identify the profit source and structure of basic quantitative trading strategies this will help you gauge how the model generalizes its learning explain the differences between regression and forecasting and identify the steps needed to create development and implementation backtesters by the end of the be able to use google cloud platform to build basic machine learning models in jupyter notebooks
 to be successful you should have advanced competency in python programming and familiarity with pertinent libraries for machine learning such as scikitlearn statsmodels and pandas with sql is recommended you should have a background in statistics expected values and standard deviation gaussian distributions higher moments probability linear regressions and foundational knowledge of financial markets equities bonds derivatives market structure hedging
-
-introduction to trading with machine learning on google cloud
+</DOC>
+<DOC>introduction to trading with machine learning on google cloud
 be introduced to the fundamentals of trading also be introduced to machine learning machine learning is both an art that involves knowledge of the right mix of parameters that yields accurate generalized models and a science that involves knowledge of the theory to solve specific types of problems
 class who these courses are for introduction to trading with machine learning on google cloud what is ai and ml what is the difference between ai and ml applications of ml in the real world what is ml game the importance of good data brief history of ml in quantitative finance why google why google cloud platform what are ai platform notebooks using notebooks benefits of ai platform notebooks what do we want to model lets start simple demo building a model with bigquery ml how to use qwiklabs for your labs lab intro building a regression model lab walkthrough building a regression model trading vs investing the quant universe quant strategies quant trading advantages and disadvantages exchange and statistical arbitrage index arbitrage statistical arbitrage and challenges introduction to backtesting backtesting design
+</DOC>
 
-supervised learning with bigquery ml
+<DOC>supervised learning with bigquery ml
 be introduced to supervised machine learning and some relevant algorithms commonly applied to trading problems get some handson building a regression model using bigquery machine learning
 what is forecasting part what is forecasting part choosing the right model and bqml part choosing the right model and bqml part lab intro forecasting stock prices using regression in bqml lab walkthrough forecasting stock prices using regression in bqml
+</DOC>
 
-time series and arima modeling
+<DOC>time series and arima modeling
 about arima modeling and how it is applied to time series data get handson building an arima model for a financial dataset
 what is a time series ar auto regressive ma moving average the complete arima model arima compared to linear regression how can you get a variety of models from just a single series how to choose arima parameters for your trading model time series terminology auto correlation sensitivity of trading strategy lab intro forecasting stock prices using arima lab walkthrough forecasting stock prices using arima
+</DOC>
 
-introduction to neural networks and deep learning
+<DOC>introduction to neural networks and deep learning
 about neural networks and how they relate to deep learning also how to gauge model generalization using regularization and crossvalidation also be introduced to google cloud platform gcp specifically be shown how to leverage gcp for implementing trading techniques
 short history of ml neural networks short history of ml modern neural networks overfitting and underfitting validation and training data splits recap preview of next
 </DOC>
-

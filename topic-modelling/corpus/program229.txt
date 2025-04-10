@@ -13,46 +13,50 @@ jquery form validation plugin features
 arrow functions
 asynchronous functions
 and the javascript event loop
-
-getting started collecting and validating data from users
+</DOC>
+<DOC>getting started collecting and validating data from users
 be able to review and create html form elements in preparation for doing form validation be introduced to basic form validation and be able to discuss the differences between server side and client side validation as as the purpose of each type be able to explore some of the advanced features available in the jquery validation plugin and take full control of the way information is presented to users
 welcome to this introduction introduction to html forms adding a label radio button input types using the checkboxes input types using textarea elements styling your form introduction to basics of form validation processing the form backend validation with php plain javascript validation html jquery form validation jquery validator plugin part jquery validator plugin part introduction to advanced form validation starting the script checking the phone number adding messages styling your form
+</DOC>
 
-a deeper dive into javascript
+<DOC>a deeper dive into javascript
 be introduced to the concept of prototypical inheritance in javascript and be able to demonstrate how it affects objects be able to take a deeper look at arrow functions as an alternative to traditional function expression syntax be able to convert function expressions into arrow functions when appropriate be introduced to a larger scripting project with more functionality and complexity which be able to start in the next
 introduction introduction to prototypes inheritance iphone example overriding inheritance another inheritance example hasownproperty introduction to arrow functions parameters and arrow functions constructor function expression seat reservation introduction
+</DOC>
 
-seat reservation
+<DOC>seat reservation
 given a possible solution to the challenge presented to you in the previous be able to refactor code using best practices and fix final bugs in the application be able to create a general function for getting data from the seatreservations object and use dom manipulation techniques and logical flow control structures to update the necessary elements on the web page be able to use javascript to create unique objects following a specific naming pattern and be able to demonstrate refactoring code and dry principles in programming be able to solve possible errors the user may encounter when reserving seats and be able to display and hide the seat reservation form be able to add data to an object based on user selection in the interface and practice dom manipulation techniques
 introduction introduction to creating the seats the left section the right section the middle section figuring out variables adding switch statements adding the loop and html using an arrow function the reservedseats object affecting the dom with iife closure adding an array two pieces needed getting the seat id getting the index adding the if statement the finished function adding the form html open and close form event handlers manageconfirmform function updating the else statement fixing bugs on the form fixing more bugs additional condition statement setting up the final steps back to the object adding each record clean up final fixes
+</DOC>
 
-working with data asynchronously in javascript
+<DOC>working with data asynchronously in javascript
 be introduced to asynchronous javascript and explore methods for retrieving data asynchronously be able to explore the way javascript handles events in more detail and be able to use methods in javascript to both send and receive data from a server file and build a usable contact form for a website be introduced to third party apis and be able to use asynchronous methods for retrieving and displaying information from these apis also be able to explore ways the data coming from third party apis can be manipulated also have the chance to on an honors project if you desire
 introduction introduction to asynchronous javascript example xmlhttprequest getdata example xmlhttprequest useresponse jquery to the rescue the fetch api and promises getdata the fetch api and promises responsetext async and await keywords working with json data example outputhtml function example async and await with json introduction to javascript event loop example examples example settimeout creating a basic jquery version loading and validating form data sending the data async await version getting the data creating a contact me form working with error messages the senddata function updated displaymessage function introduction to third party apis starting your project creating the card the whole function and sorting function adding a form setsort function running and changing the sort fixing the current flow one more thing getting started and updating createcard function helper function and people card testing the people card click handlers alerts and variables data promise and update create card looking at locations dealing with errors species and vehicle cards fixing the sort
 </DOC>
-
 <DOC>
 animation with javascript and jquery
 with the general introduction of javascript in the first this will focus on javascript libraries specifically jquery the scripts will be geared toward document object model dom manipulation learners will describe the top javascript libraries and differentiate which would best to implement and accelerate development of web page animation
 objectives include being introduced to the end product of the a landing page style website using jquery elements to manipulate html documents and enhance user diving deeper into the landing page that will be created and break it out into individual jquery projects jquery events and effects will be covered while exploring more jquerys relationship with html documents finally a focus on plugins and continue to breakdown jquerys ability to manipulate html and css
-
-manipulating web pages elements with jquery javascript
+</DOC>
+<DOC>manipulating web pages elements with jquery javascript
 be introduced to jquery and basic jquery syntax and compare it to javascript syntax be able to plugin the jquery library and discuss the history of jquery and its relationship to javascript also use some of the selectors and filters available in jquery to access dom elements be able to create an interactive element that could be used on a website and be able to identify and fix coding and logic problems while working on a project be able to demonstrate proficiency with both javascript and jquery for accessing and manipulating elements on a web page
 welcome to this introduction introduction to jquery jquery libraries plugging into jquery libraries basic jquery syntax using jquery to access elements jquery events introduction to folding sidebar menus using js challenge solution challenge solution challenge solution challenge solution challenge solution challenge solution challenge solution challenge solution introduction to jquery sidebar folding navigation getting the next ul the whole script javascript and jquery challenges intro
+</DOC>
 
-animating web page elements with jquery javascript
+<DOC>animating web page elements with jquery javascript
 be introduced to the jquery effects library helper functions animations and callback functions be able to use features in jquery to animate elements on a web page be able to use the callback functions to trigger a function when an animation is completed be able to create a tabbed interface in both javascript and jquery
 introduction introduction to the jquery effects library example continued example example plugin architecture example fading buttons example fade to example custom animations part example custom animations part doing all animations at once introduction to tabbed interface using jquery styling the anchor tags tab styling and colors clicking and fading tabs whole script getting the css ready making the tabs new tab and old tab handling the switch fixing a bug cleaning up the code
+</DOC>
 
-intermediate document manipulation animation
+<DOC>intermediate document manipulation animation
 be able to use the jquery syntax and the builtin effects library to create image sliders that could be integrated into web pages also be able to compare the jquery syntax to the javascript syntax by building a similar image slider using only plain javascript syntax and using css to perform the animation
 introduction basic slider making the script general window load function click handler for next button next click handler with if statement challenge solution strategy for version cloning the unordered list setting the left position adding a callback function previous button click handler part previous button click handler part slider using javascript css for slides and adding variables adding more variables event handler for the next button solution for the previous button challenge
+</DOC>
 
-timers and recursion in javascript jquery
+<DOC>timers and recursion in javascript jquery
 be introduced to the use of timers and recursion in javascript and use these techniques to make interface elements that run on a timer you practice using jquery syntax and recursion to build a simple content rotator that could be used as an interface element on any web page
 introduction example script part example script part example script example script recursion converting a slider putting slides on a timer solution part putting slides on a timer solution part project setup starting the script the ifelse statement part the ifelse statement part
 </DOC>
-
 <DOC>
 interactivity with javascript and jquery
 this is the third in our javascript for beginners the scripts will become more complex and introduce more complex jquery plugins have several challenges to practice your throughout the the objectives include how to identify objects in javascript
@@ -61,43 +65,47 @@ manipulate objects by adding modifying and deleting data in objects
 manipulate the dom based on the data in objects
 identify and articulate how multiple functions together to create a more complex
 and identify processes for breaking larger programs into smaller more manageable pieces
-
-getting started jquery plugins and capturing the scroll event
+</DOC>
+<DOC>getting started jquery plugins and capturing the scroll event
 be introduced to jquery plugins and be able to present the advantages and challenges associated with using jquery plugins also be able to recognize common mistakes to avoid when using jquery plugins be introduced to the flexslider jquery plugin and be able to use it to build basic and more advanced image sliders
 welcome to this introduction introduction to jquery plugins using plugins and essential steps gotchas and rookie mistakes flexslider a jquery plugin about the minified version adding markup hooking up the slider flexslider rules additional controls advanced flexslider additional styling styling the cta
+</DOC>
 
-combining scripts and building through practice
+<DOC>combining scripts and building through practice
 be able to use jquery to create a smooth scroll effect for inpage navigation as as develop a script using jquery that keeps track of scroll positions on the pageyou will be able to compare and contrast the inpage smooth scroll script and the location tracking script created using jquery with one created using plain javascript be able to build a webpage using html and css that will combine some of the different scripts created be able to combine some of the different scripts and jquery plugins explored into the scription webpage through a series of challenges
 introduction introduction to smooth scroll with jquery creating a click handler adding the animation add some easing and a callback function highlighting elements introduction to page location tracking the crux of the problem strategy adding pagetop and if statements writing the elseif statement part writing the elseif statement part edge case issues resizing your windows resetting the counter resetpageposition function reviewing the whole script introduction to scroll effects with js getting the target part getting the target part smooth scroll polyfill checking the load top posts add an event listener the magic conditionals changing the next link resizing function finalizing the script scription site introduction header html pricing html beginning styling styling that attaches to whole page slider styling pricing styles tablet styles media query for pixels wide media query for pixels wide scription site building interactive elements challenges
+</DOC>
 
-introduction to objects data in javascript
+<DOC>introduction to objects data in javascript
 be introduced to the object literal and be able to demonstrate some of the ways to manipulate data inside objects be able to develop good habits and processes that help with thinking about how to solve a programming problem including breaking a problem down into smaller pieces
 introduction introduction to objects and data in js objects can contain arrays and other objects functions inside objects equals methods putting objects and functions together data formats xml example file introduction to pig dice game play the game of pig version one other versions
+</DOC>
 
-building a simple game in javascript
+<DOC>building a simple game in javascript
 by building this game within this be able to practice the javascript you have already learned while constructing a script with more functions and complexity be able to then extend the script in many creative ways
 introduction introduction to the game of pig start the game set up the turn throwing the dice test throwing the dice add the selection statements snake eyes a was rolled the else statement checking for a win show the current score final cleanup extending the game
 </DOC>
-
 <DOC>
 javascript basics
 this introduces the programming language javascript and shows the websites that include the type of interactions students will eventually be able to develop learners will understand the importance of how javascript was developed and why such history impacts the way javascript is currently written and in future releases
 learners will write their first scripts have their html and css assessed create variables and arrays and assign values to them if students are lacking resources and recommendations are provided to improve these there is ample for students to practice these first core
-
-getting started introduction to javascript variables and arrays
+</DOC>
+<DOC>getting started introduction to javascript variables and arrays
 be introduced to javascript and what it can do be able to identify websites that include the types of interactions be able to produce at the end of the entire also be able to discuss the history of javascript and explore why this history impacts how we write javascript on the web javascript is used to manipulate the html and css of a webpage after it has loaded from the server be able to assess your understanding of html and css and have the through resources and recommendations for improving your area if necessary write simple javascript statements in the web browser console and be able to create variables and arrays be able to assign values to these variables and arrays and be able to read values from them
 welcome to this introduction introduction to javascript part introduction to javascript part introduction to javascript part tools needed for success needed for success javascript variables javascript variables practice part javascript variables practice part javascript variables practice part javascript arrays part javascript arrays part javascript arrays practice
+</DOC>
 
-controlling logical flow in javascript
+<DOC>controlling logical flow in javascript
 be able to download install and use of a code editor as a tool for writing code and properly save and manage their files be introduced to the selection control structure this basic control structure allows programs to follow a path based on conditions and is one of the three major logic and flow control structures found in any modern programming language be able to identify write and trouble shoot scripts using this basic control structure be able to correctly identify loop structures and practice using some of the syntax available in javascript to create loops then be able to put all three logical flow control structures sequence selection and loop together to create basic javascript programs that can be tested finally be able to combine sets of instructions into named functions and create custom functions that can be called to complete the instructions they contain
 introduction visual studio part visual studio part visual studio part operators booleans selection in javascript try this comparing values else if switch statements using loops in javascript working with arrays the forof loop while loops structured programming sequence part sequence part sequence part loop loop selection javascript basic challenges introduction functions in javascript passing in and returning data useful example step useful example steps useful example step more on functions
+</DOC>
 
-using javascript in the web browser
+<DOC>using javascript in the web browser
 be introduced to the methods built into javascript for accessing and manipulating dom elements in the web browser be able to capture user events with javascript and use those events to trigger changes to the dom using the document methods and element properties be able to identify how scope works in javascript and be introduced to best practices for working with variables in javascript so that scope does not become a problem be able to practice all the and techniques learned so far in the by putting together a simple slideshow on a web page
 introduction javascript and the dom dot syntax and methods dom getelementsbytagname dom getelementsbyclassname dom queryselector dom queryselectorall innerhtml classname creating elements and text nodes removing elements capturing events with javascript event listeners the event object more on events mouseover mouseover events html scroll events html window resizing key down event scope in javascript strategy never use global scope strategy use strict strategy const and let scope in javascript simple js slideshow part simple js slideshow part simple js slideshow part simple js slideshow part simple js slideshow part slideshow with cross fade effect part slideshow with cross fade effect part slideshow with cross fade effect part slideshow with cross fade effect part slideshow with cross fade effect part slideshow with cross fade effect part slideshow with cross fade effect part
+</DOC>
 
-basic javascript application projects
+<DOC>basic javascript application projects
 be able to apply and practice the and techniques you have learned in the by building a basic and a more advanced distance converter be able to further apply and practice to extend your and techniques by building a simple vacation destination list application
 introduction basic distance converter project part basic distance converter project part basic distance converter project part basic distance converter project part basic distance converter project part advanced distance converter project part advanced distance converter project part advanced distance converter project part advanced distance converter project part advanced distance converter project part vacation destination project html css part vacation destination project html css part vacation destination project html css part vacation destination project html css part vacation destination project html css part vacation destination project html css part vacation destination project javascript part vacation destination project javascript part vacation destination project javascript part vacation destination project javascript part vacation destination project javascript part vacation destination project javascript part vacation destination project javascript part vacation destination project javascript part
 </DOC>
-

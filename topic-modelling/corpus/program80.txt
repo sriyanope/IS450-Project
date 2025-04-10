@@ -16,113 +16,125 @@ students will analyze a real world case provided by ngrowth a global firm that h
 <DOC>
 optimizing diversity on teams
 by drawing on social science perspectives this enables you to what diversity is and how to use it to maximize team performance innovation and creativity you also how to draw out the collective wisdom of diverse teams handle conflict and establish common ground rules through realworld cases and peertopeer discussions in addition you discover how to overcome common biases faced in diverse teams systems of power reward and rhetoric are discussed to help you create prosperous teams where differences flourish
-
-promoting diversity in the workplace
+</DOC>
+<DOC>promoting diversity in the workplace
 this is all about the hidden barriers that can prevent you from promoting and leveraging the benefits of diversity on your team specific strategies to get buyin for diversity initiatives about the biases that can harm these efforts and discuss effective means of identifying and reducing these biases towards the end of the hear from two diversity experts the first is arjun shankar codirector of the center for curiosity at the university of pennsylvania role he has studied cultural barriers to inclusion in organizations and offers insights based on his research the second expert is stanford thompson executive director of the music education nonprofit play on philly stanford advises symphony orchestras nationally on how to improve their diversity and will offer practical advice on making any team more inclusive by the end of the be better positioned to develop diversity initiatives that go beyond compliance and make inclusion a core strength of your team
 intro of derek newberry the hidden diversity problem promoting diversity managing rewards systems managing personal bias being a good ally interview with arjun shankar interview with stanford thompson
+</DOC>
 
-team diversity basics
+<DOC>team diversity basics
 in the first the essentials of why diversity matters for teams and why it can be difficult to build diverse teams basic concepts of difference bias and conflict that will serve as a foundation for later
 personal introduction diversity matters and so do our biases intro of torian richardson diversity and inclusion issues on international teams strategies for adapting to a new team culture cases of strategic focus on diversity and inclusion addressing a critical situation of bias cultivating the right mindset to manage diversity and inclusion issues interview with andrs castro samayoa interview with ann tiao intro of harvey floyd ii strategies for reducing bias questions that help you create a diverse and inclusive team frameworks for managing difficult conversations
+</DOC>
 
-managing conflict
+<DOC>managing conflict
 move from promoting diversity to looking at the conflicts that can arise in diverse environments about why conflicts occur and how you can develop norms to address them by the end of the be able to have better conversations related to diversity issues in the workplace
 m why conflicts occur conflict types and origins addressing representational gaps conflict resolution strategies addressing oppressionbased conflict interview with marybeth gasman m recap
+</DOC>
 
-diversity case study
+<DOC>diversity case study
 get a practical perspective on managing diversity in teams by looking at real life cases of companies creating a more inclusive workplace looking at the of google nike and unitedhealthcare see how major businesses are applying specific strategies and techniques for overcoming barriers to inclusion
 m intro to case study high performance on diverse teams creating inclusion through participation nike introduction nike goals nike roles nike norms interview with jacqui barton m recap
 </DOC>
-
 <DOC>
 building highperforming teams
 teams are essential to the modern organization but most never reach their potential coworkers miscommunicate and groups struggle to adapt to changes in the market or their organizations when teams lack selfawareness about these challenges performance suffers based on years of team culture research and consulting this helps you understand the problems that hurt productivity and gives you tools for creating positive change this also guides you through creating the ground rules and structure needed to set your team up for success
 you gain the to diagnose issues such as conflicts groupthink and lack of commitment in your team before they get out of control the offers frameworks to adjust team behaviors and get the best performance out of your people you also understand frequent stumbling blocks for common team types such as startups and virtual teams and solutions tailored to each one
-
-
+</DOC>
+<DOC>
 welcome to building highperforming teams teams are essential to the modern organization but most never reach their potential coworkers miscommunicate and groups struggle to adapt to changes in the market or their organizations when teams lack selfawareness about these challenges performance suffers based on years of team culture research and consulting this will help you understand the problems that hurt productivity and give you tools for creating positive change this will help you create the ground rules and structure to set your team up for success gain the to diagnose issues such as conflicts groupthink and lack of commitment in your team before they get out of control the offers frameworks to adjust team behaviors and get the best performance out of your people also understand frequent stumbling blocks for common team types such as startups and virtual teams and solutions tailored to each one
+</DOC>
 
-setting team foundations
+<DOC>setting team foundations
 first talk about how to get your team started off on the right foot with a process called team chartering this is where you lay out the rules that your group will follow to give them the best chance for success in particular talk about how to create the right goals team roles and group norms to get the most out of each person
 team culture goals getting smart goals answering the wiifm question team roles setting norms for communication setting norms for decisionmaking and conflict interview mike barger
+</DOC>
 
-diagnosing team problems
+<DOC>diagnosing team problems
 look at why good teams go bad focus on those process losses i mentioned and dig into the different problems that can derail your group from its goals since it can be hard to really pinpoint team problems and even harder to talk about them look at some methods that will help you do both
 the sources of team misalignments environmental misalignments individual misalignments gm case team culture types misalignments checklist taking the team temperature interview dr jack gutsche
+</DOC>
 
-coaching emotionally intelligent teams
+<DOC>coaching emotionally intelligent teams
 we move from discussion to action after getting a sense of what is going wrong with your group give you tools for making effective behavioral changes so that you can close the gap between how your team says it wants to together and what you actually do
 why emotional intelligence matters how to improve emotional intelligence mindfulness strategies googles search inside yourself mindful coaching and feedback conversations of verisk analytics interview with renee torchia recap
+</DOC>
 
-managing common team types
+<DOC>managing common team types
 last look at common types of teams like global teams and committees discuss the challenges that each one is most likely to face and give you some tips for how to combat and overcome those challenges also hear practical insights on managing startup teams from anthony maher an entrepreneur former soccer player and a cofounder of benjamins desk which is the largest coworking community in philadelphia
 remote teams startup teams product development teams ideos research methods for product development teams committees norm setting for committees recap interview with anthony maher
 </DOC>
-
 <DOC>
 creating a team culture of continuous learning
 there is mounting concern that organizational groups and teams often fail to from their past its pertinent to address this issue as groups and teams are often the main ways that gets done in organizations
 we examine the main reasons that groups and teams are often ineffective which include the lack of organizational structures and support for teams and groups the lack of understanding and emphasis on learning misaligned reward structures so what can be done to create an enabling learning culture in teams this emphasizes practical and impactful ways to begin to address this state of affairs through the use of stories scenarios with actors simulating different team issues examples and dialogue you how to understand teams in their larger organizational context diagnose the learning strengths and barriers to learning on teams identify ways to develop a team and group that continually learns and impacts the larger organization positively create an organizational environment that encourages learning and innovation
-
-introduction to framing systems thinking
+</DOC>
+<DOC>introduction to framing systems thinking
 thank you for joining us to step back and reframe your point of view and apply systems thinking in everyday situations in order to help your team to be creative and innovative our goal is to enable you to through reallife stories practical scenarios illustrated by actors ongoing conversations suggested and links rather than lectures and instructions so come join us at the table bring your own with you and be part of the conversation check out this ny times story before you begin httpswwwnytimescomvideobusinessthepowerofoutsidershtmlsmidfbshare this story illustrates many of the important points of this the importance of thinking about the whole system the value of including different outside perspectives not just experts and even when you and your team come up with a breakthrough idea accepting that it is a difficult challenge to spread the idea and make change happen
 meet the team and more about this framing reframing systems thinking the story of george washington bridge frames defined and illustrated scenario computer manufacturing company debrief scenario strength based approaches to organizations debrief experiential activity systems thinking frame next focus on diagnostic learning
+</DOC>
 
-diagnosing strengths barriers to learning on teams
+<DOC>diagnosing strengths barriers to learning on teams
 thank you for joining us to recognize the strengths and barriers visible and invisible that exist in teams quite like the george washington bridge story in where you learned about framing and systems thinking here to define frame and diagnose the problems and conflicts that can arise in teams and to think about data gathering and creating solutions that join us at the table
 diagnosing problems in groups and teams scenario healthcare part debrief scenario part scenario healthcare part debrief scenario part our after action review bart lets practice using bart focus on culture and conflict in teams part culture focus on culture and conflict in teams part conflict and
+</DOC>
 
-developing groups teams for positive organizational impact
+<DOC>developing groups teams for positive organizational impact
 thank you for joining us in in the previous you have learned about framing reframing systems thinking and taking a diagnostic focus on groups and teams about disabling and enabling group and team structures also about diffusing innovations and how to have productive conversations using the ladder of inference as a guide
 learning objectiveswhat disables organizational learning what disables organizational learning scenario executive team at the bank debrief scenario part debrief scenario part diffusion of ideas
+</DOC>
 
-fostering innovation in groups teams
+<DOC>fostering innovation in groups teams
 thank you for staying with and being a part of our emergent conversations if you have accompanied us through weeks and we are now at the closing end of our ongoing discussion around learning in teams section focus on complex adaptive systems and structures that foster and accelerate engagement learning and team conversations come join us
 part introduction learning in ambiguous and uncertain environments part conditions for learning part organizing under uncertainty scenario team at gurd part scenario team at gurd part debrief scenario liberating structures examples of team exercises focus of review summing up continuous learning in teams
 </DOC>
-
 <DOC>
 culturedriven team building capstone
 capstone project class you analyze a realworld case provided by ngrowth a global firm that helps clients create a culture of leadership through practice areas like strategy cultural transformation and organizational design based on the ngrowth case you are expected to identify and diagnose organizational issues select a senior leader and make recommendations in a culminating powerpoint or prezi presentation
-
-
+</DOC>
+<DOC>
 peer review
 capstone introduction introduction tony morales interview what are teams a closer look at culture being unaware of culture bart managing reward systems addressing representational gaps
-
-
-reading peer review
-introduction tony morales interview environmental misalignments individual misalignments systems thinking frame diagnosing problems in groups and teams
-
-
-peer review
-introduction tony morales interview people as symbols hiring and cultural fit questions that help you create a diverse and inclusive team promoting diversity team roles team culture types
-
-
-reading peer review
-introduction tony morales interview part tony morales interview part conclusion locked until after
 </DOC>
 
 <DOC>
+reading peer review
+introduction tony morales interview environmental misalignments individual misalignments systems thinking frame diagnosing problems in groups and teams
+</DOC>
+
+<DOC>
+peer review
+introduction tony morales interview people as symbols hiring and cultural fit questions that help you create a diverse and inclusive team promoting diversity team roles team culture types
+</DOC>
+
+<DOC>
+reading peer review
+introduction tony morales interview part tony morales interview part conclusion locked until after
+</DOC>
+<DOC>
 the power of team culture
 behind the success and failure of teams lies team culture but what exactly is culture how and why does it contribute to success and failure you how to recognize aspects of team culture of which most people are typically unaware it is often these seemingly unimportant aspects that have the greatest effect on the of group tasks your recognition of them enables you to form join and lead teams more effectively you also come to appreciate the role of ritual and symbols in the daily operation of teams as as in situations of change and crisis knowledge of the ideas and information class enables you to be a better team player and a more effective team leader
-
-
+</DOC>
+<DOC>
 behind the success and failure of teams lies team culture but what exactly is culture how and why does it contribute to success and failure you how to recognize aspects of team culture of which most people are typically unaware it is often these seemingly unimportant aspects that have the greatest effect on the of group tasks your recognition of them enables you to form join and lead teams more effectively you also come to appreciate the role of ritual and symbols in the daily operation of teams as as in situations of change and crisis knowledge of the ideas and information class enables you to be a better team player and a more effective team leader
+</DOC>
 
-why culture matters in organizations
+<DOC>why culture matters in organizations
 unit begin by defining the team and then proceed to explore what enables teams to function the role that culture plays in every team and how habitus and cultural fit could affect our performance in specific teams
 introduction what are teams a closer look at culture culture as cultivation being unaware of culture expectations and realities the little cultural things that matter culture shock habitus characteristic ways of speaking within the team what we say versus what we do hiring and cultural fit high culture
+</DOC>
 
-crossing cultural boundaries
+<DOC>crossing cultural boundaries
 sometimes we must take a step back and view cultural differences from perspectives different from what were used to cultural boundaries exist everywhere differences can be found within one culture as have you ever considered that a smile isnt just a simple natural response unit we delve deeper into culture and the differences amongst various cultures including corporate culture
 two examples of cultural boundaries why police boundaries culture in motion golden arches east the art of smiling the right to fire the law of jante cultural relativity and ethnocentrism avoid stereotyping a checklist of little differences for business gestures as boundary marker corporate personhood
+</DOC>
 
-team rituals and symbols
+<DOC>team rituals and symbols
 rituals and symbols can be found in every team they can evoke affect or feeling as see speech or stories have symbolic meaning too and can do wonders to motivate a group of individuals unit examine a number of rituals and symbols as they exist in their various forms and discover the way in which they are utilized in teams
 burning the american flag team mascots the concept of the symbol transference of affective quality the motivational people as symbols the pragmatics of motivational speech symbolic meaning of stories instrumental symbols the gavel individual and collective rituals types of rituals in business initiation enhancement and group worship
+</DOC>
 
-effecting cultural continuity and change
+<DOC>effecting cultural continuity and change
 unit examine inertia change and metaculture introduce interest as a force at on the motion of culture as as provide a conclusion to the concepts covered
 culture in time the inertial forces habit and drift inertia and change an ancient egyptian case part more on reflective culture or metaculture as a force inertia and change an ancient egyptian case part inertia and change an ancient egyptian case part secret to successful cultural change introducing the force of interest interest at the interface between different inertial patterns the conditional motion of culture conclusion
 </DOC>
-

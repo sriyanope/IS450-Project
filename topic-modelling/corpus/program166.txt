@@ -8,101 +8,113 @@ learners will complete at least projects that allow them the freedom to explore 
 <DOC>
 cuda advanced libraries
 this will complete the gpu focusing on the leading libraries distributed as part of the cuda toolkit students will how to use cufft and linear algebra libraries to perform complex mathematical computations the thrust librarys capabilities in representing common data structures and associated algorithms will be introduced using cudnn and cutensor they will be able to develop machine learning applications that help with object detection human language translation and image classification
-
-
+</DOC>
+<DOC>
 the purpose of this is for students to understand how the will be run topics how they will be assessed and expectations
 gpu programming expectations coursera lab and gpu capstone project
+</DOC>
 
-cufft
+<DOC>cufft
 cufft provides the ability to perform fast fourier transforms ffts on large datasets students will of common use cases such as fast multiplication of large polynomials signal processing and matrix operations they will use this library to develop software that process audio or signals
 cufft performance and features cufft syntax cufft data types cufft imagevideo processing cufft audiosignals processing cufft lab and
+</DOC>
 
-cuda linear algebra
+<DOC>cuda linear algebra
 the cuda toolkit includes a number of linear algebra libraries such as cublas nvblas cusparse and cusolver students will the different capabilities and limitations of many of them and apply that knowledge to compute matrix dot products determinant and finding solutions to complex linear systems
 introduction to linear algebra cublas syntax cusolver syntax cusparse syntax nvblas syntax cuda linear algebra lab and
+</DOC>
 
-the cuda thrust library
+<DOC>the cuda thrust library
 most developers utilize data structures beyond the primitives and pointers that make up the core of cuda programmers which makes pure cuda development difficult students will about the thrust library that adds the vector data structure and associated algorithms that allow for simplification of their code students will create software that transform reduction and sort large datasets
 thrust vector syntax thrust vector iterator functional programming thrust data transformation thrust data reduction thrust data reorder and sorting thrust lab and
+</DOC>
 
-cuda machine learning
+<DOC>cuda machine learning
 data scientists machine learning and artificial intelligence experts are using neural networks to solve problems such as human language translation image classification and object detectionavoidance using the cudnn and cutensor students will be able to develop a variety of neural networks and similar structures at the completion of this students will be asked to develop a coursewide project that brings together their knowledge from all previous courses and lessons to develop a capstone software project
 introduction to neural networks cudnn syntax cutensor syntax part cutensor syntax part lab activity capstone project
 </DOC>
-
 <DOC>
 introduction to concurrent programming with gpus
 this will help prepare students for developing code that can process large amounts of data in parallel it will focus on foundational aspects of concurrent programming such as cpugpu architectures multithreaded programming in c and python and an introduction to cuda softwarehardware
-
-
+</DOC>
+<DOC>
 the purpose of this is for students to understand how the will be run topics how they will be assessed and expectations
 gpu programming expectations coursera lab
+</DOC>
 
-core principles of parallel programming on cpus and gpus
+<DOC>core principles of parallel programming on cpus and gpus
 in order to create software that process greater amounts of data at faster speeds software operating systems programming languages and frameworks require strategies for accessing and modification of data in a manner that maximizes speed while minimizing the possibility of data being in incorrect states students will be presented canonical concurrency problems such as the dining philosophers additionally they will how operating systems and programming languages handle these problems and discuss real world big data concurrency applications
 real world concurrent programming concurrent programming pitfalls concurrent programming problems and algorithms presentation optional hungry chickens problem concurrent programming patterns serial versus parallel code and flynns taxonomy
+</DOC>
 
-introduction to parallel programming with c and python
+<DOC>introduction to parallel programming with c and python
 modern programming languages allow developers to create software with complex logic for manipulation of data in parallel taking advantage of the multiple cpu cores in most computers students will develop simple software written in the c and python programming languages that process data sets concurrently
 lesson python parallel programming syntax and patterns presentation lecture lesson python laboratory project structure lecture lesson python project structure lecture lesson c parallel programming syntax and patterns lecture lesson c laboratory project structure lecture lesson c project structure lecture
+</DOC>
 
-nvidia gpu hardwaresoftware
+<DOC>nvidia gpu hardwaresoftware
 the purpose of this is for students to understand the basis in hardware and software that cuda uses this is required to appropriately develop software to optimally take advantage of gpu resources
 integrated versus dedicated gpus gui cli tools for identifying installed gpu hardware nvidia gpu architectures cuda linux installation cuda software layers cuda code compilation cuda help lab and walkthrough cuda runtime driver apis cuda driver and runtime apis lab and walkthrough
+</DOC>
 
-introduction to gpu programming
+<DOC>introduction to gpu programming
 the purpose of this is for students to understand the principles of developing cudabased software
 code syntax for determining target environment cuda keywords simple cuda lab and walkthrough cuda ide programming cuda project structure and best practices complex cuda project walkthrough
 </DOC>
-
 <DOC>
 cuda at scale for the enterprise
 this will aid in students in learning in concepts that scale the use of gpus and the cpus that manage their use beyond the most common consumergrade gpu installations they will how to manage asynchronous workflows sending and receiving events to encapsulate data transfers and control signals also students will walk through application of gpus to sorting of data and processing images implementing their own software using these techniques and libraries
 by the end of the be able to do the following develop software that can use multiple cpus and gpus develop software that uses cudas events and streams capability to create asynchronous workflows use the cuda computational model to to solve canonical programming challenges including data sorting and image processing to be successful you should have an understanding of parallel programming and programming in cc this will be extremely applicable to software developers and data scientists working in the fields of high performance computing data processing and machine learning
-
-
+</DOC>
+<DOC>
 the purpose of this is for students to understand how the will be run topics how they will be assessed and expectations
 gpu expectations coursera lab and
+</DOC>
 
-multiple cpugpu systems
+<DOC>multiple cpugpu systems
 in settings use of one cpu managing one gpu is not a viable configuration to solve complex challenges students will apply cuda capabilities for allowing multiple cpus to communicate and manage software kernels on multiple gpus this will allow for scaling the size of input data and computational complexity students will the advantages and limitations of this form of synchronous processing
 multiple cpu architectures multiple cpu lab multiple cpu multiple cpus vs multiple gpus cuda multiple gpu programming model multiple gpu activity multiple gpu
+</DOC>
 
-cuda events and streams
+<DOC>cuda events and streams
 students will to utilize cuda events and streams in their programs to allow for asynchronous data and control flows this will allow more interactive and longlasting software including analytic user interfaces near livestreaming or financial feeds and dynamic business processing systems
 cuda streams and events cuda streams syntax cuda events syntax cuda streams and events use cases cuda streams and events walkthrough
+</DOC>
 
-sorting using gpus
+<DOC>sorting using gpus
 the purpose of this is for students to understand the basis in hardware and software that cuda uses this is required to appropriately develop software to optimally take advantage of gpu resources
 using input data to develop gpu pseudocode sorting algorithm gpu pseudocode bubble sort sorting algorithm gpu pseudocode radix sort sorting algorithm gpu pseudocode quick sort memory and gpu pseudocode bubble sort memory and gpu pseudocode radix sort memory and gpu pseudocode quick sort sorting algorithms lab activity bubble sort sorting algorithms lab activity radix sort sorting algorithms lab activity quick sort sorting algorithms
+</DOC>
 
-image processing using nvidia programming primitives
+<DOC>image processing using nvidia programming primitives
 the purpose of this is for students to understand the principles of developing cudabased software
 npp image processing syntax npp image processing code demonstration npp signal processing syntax npp signals processing syntax demonstration independent project lab independent project independent project rubric
 </DOC>
-
 <DOC>
 introduction to parallel programming with cuda
 this will help prepare students for developing code that can process large amounts of data in parallel on graphics processing units gpus it will on how to implement software that can solve complex problems with the leading consumer to enterprisegrade gpus available using nvidia cuda they will focus on the hardware and software capabilities including the use of s to s of threads and various forms of memory
-
-
+</DOC>
+<DOC>
 the purpose of this is for students to understand how the will be run topics how they will be assessed and expectations
 gpu programming expectations coursera lab and
+</DOC>
 
-threads blocks and grids
+<DOC>threads blocks and grids
 the single most important concept for using gpus to solve complex and largescale problems is management of threads cuda provides two and threedimensional logical abstractions of threads blocks and grids students will develop programs that utilize threads blocks and grids to process large to dimensional data sets
 kernel execution divide and conquer to gpu algorithms lab randomized data search threads and blocks threads blocks and grids multidimensional gaussian blur kernel example image processing
+</DOC>
 
-host and global memory
+<DOC>host and global memory
 to manage the access and modification of data in physical memory effectively students will need to load data into cpu host and gpu global generalpurpose memory students will create software that allocates host memory and transfers it into global memory for use by threads students will also the capabilities and speeds of these types of memories
 nvidia gpu device global memory linux cli gpu device identification gpu device global memory investigation nvidia gpu device investigation commands lab host memory allocation device global memory allocation host and device global memory allocation lab allocation and of different types of host and global memory
+</DOC>
 
-shared and constant memory
+<DOC>shared and constant memory
 to improve performance in gpu software students will need to utilized mutable shared and static constant memory they will use them to apply masks to all items of a data set to manage the communication between threads and use for caching in complex programs
 nvidia gpu device shared and constant memory lecture gpu device shared and constant memory investigation gpu device shared memory allocation gpu device constant memory allocation cuda shared and constant memory image processing lab cuda shared and constant memory image manipulation
+</DOC>
 
-register memory
+<DOC>register memory
 students will the benefits and constraints of gpus most hyperlocalized memory registers while using this type of memory will be natural for students gaining the largest performance boost from it like all forms of memory will require thoughtful design of software students will develop implementations of algorithms using each type of memory and generate performance analysis
 cuda gpu device register memory cuda gpu device register memory investigation cuda gpu device memory evaluation cuda device memory lab cuda device memory analysis
 </DOC>
-

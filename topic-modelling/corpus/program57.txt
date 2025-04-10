@@ -12,95 +12,104 @@ intermediate objectoriented programming for unity games
 this is the fourth in the about learning how to develop games using the c programming language and the unity game engine on windows or mac why use c and unity instead of some other language and game engine c is a really good language for learning how to and then programming professionally also the unity game engine is very popular with indie game developers
 unity games were downloaded times in finally c is one of the programming languages you can use in the unity environment
 this assumes you have the prerequisite knowledge from the previous three courses in the you should make sure you have that knowledge either by taking those previous courses or from personal before tackling this throughout this build on your foundational c and unity knowledge by developing more robust games with better objectoriented designs using file input and output inheritance and polymorphism and event handling this gives you even more tools to help you build great games with c and unity start using files to implement your unity games how inheritance and polymorphism help us write less code for our games implement event handling to make better objectoriented designs and add menus to your unity games explore the complete implementation of a small unity game unity is a trademark or registered trademark of unity technologies or its affiliates in the us and elsewhere this is an independent and is not sponsored by authorized by or affiliated with unity technologies or its affiliates
-
-exceptions and file io
+</DOC>
+<DOC>exceptions and file io
 programming discussion prompt
 introduction navigating a coursera optional meet the instructor optional lesson introduction what are exceptions exception handlers lesson introduction streams text files game configuration data files using game configuration data playerprefs
+</DOC>
 
-inheritance and polymorphism
+<DOC>inheritance and polymorphism
 programming discussion prompt
 lesson introduction what is inheritance family and inheritance money and inheritance lesson introduction what is polymorphism family and polymorphism money and polymorphism the monobehaviour class lesson introduction disappearing teddy bears exploding teddy bears burning teddy bears
+</DOC>
 
-event handling and menus
+<DOC>event handling and menus
 programming discussion prompt
 lesson introduction delegates and event handlers unityevent and unityaction fish revenge adding an event manager refactoring teddy bear destruction lesson introduction menu buttons adding a simple menu system adding a menu manager
+</DOC>
 
-feed the teddies
+<DOC>feed the teddies
 programming discussion prompt
 lesson introduction dictionaries the event manager menus basic gameplay part basic gameplay part full gameplay sound configuration data finishing up
+</DOC>
 
-supplemental material
+<DOC>supplemental material
 please read the supplemental material reading in ive included the material for those learners who might have missed it based on the and they were currently enrolled in when the new versions of the courses and the new version of the went live theres nothing graded the materials are just provided here so nobody misses any of the great stuff in the note that the exercise and programming numbers are from a different and have nothing to do with the exercise and programming numbers listed in the four real weeks of this
 lesson introduction rock and roll what is a chair network layers abstraction in code lesson introduction designing the class fields and properties one constructor another constructor method lesson introduction method headers parameters and how they passing objects as parameters lesson introduction designing the class fields and properties method using in a game lesson introduction the char data type string basics string operations unity text lesson introduction audio basics adding an audio manager
 </DOC>
-
 <DOC>
 introduction to c programming and unity
 this is all about starting to how to develop games using the c programming language and the unity game engine on windows or mac why use c and unity instead of some other language and game engine c is a really good language for learning how to and then programming professionally also the unity game engine is very popular with indie game developers
 unity games were downloaded times in finally c is one of the programming languages you can use in the unity environment
 this doesnt assume you have any previous programming dont worry if youve never written code before
 start at the very beginning and our way up to building small games by the end of the throughout the core programming concepts that apply to lots of programming languages including c and also how to apply those concepts when you develop games computer programming is really fun in general and programming games is even better caution beginning assuming no prior programming knowledge is not the same as easy not hard to do learning to is hard to do especially since this is essentially the first half of a freshmanlevel college meeting the challenges while you master the material will be rewarding to you but doing that will require hard and maybe even a few expletives along the way write your first c console application and unity script how we store data in our programs how we use classes and objects to implement our code the basics of unity d games and take final exam unity is a trademark or registered trademark of unity technologies or its affiliates in the us and elsewhere this is an independent and is not sponsored by authorized by or affiliated with unity technologies or its affiliates
-
-starting to
+</DOC>
+<DOC>starting to
 about the and get unity installed and configured write your first c console application and your first c script in unity
 introduction navigating a coursera meet the instructor optional lesson introduction installing visual studio your first console app installing unity your first unity script
+</DOC>
 
-data types variables and constants
+<DOC>data types variables and constants
 how information is stored in the computer using binary and how data types tell us how to interpret the bits and memory and what operations we can perform on those bits also about the most commonlyused numeric types in c get some practice reading documentation which programmers do all the time and how to use the debugger to find and fix bugs in your code
 lesson introduction bits and bytes data types variables and constants integer data types floating point data types reading documentation debugging a console app
+</DOC>
 
-classes and objects
+<DOC>classes and objects
 the foundational concepts in the objectoriented oo paradigm this paradigm is incredibly useful in game development because it models our software system as a set of software objects that interact with each other those concepts map nicely to games which typically include lots of game entities that interact with each other how to actually use classes and objects in your code as
 lesson introduction introduction to classes and objects using a class constructor using a class properties using a class methods classes and objects in unity
+</DOC>
 
-unity d basics
+<DOC>unity d basics
 some of the basic ideas behind using unity to develop d games also how we can make decisions in our code
 lesson introduction the unity editor sprites and game objects unitys component system scripts as components debugging a unity script d physics collision detection and resolution part collision detection and resolution part prefabs finishing up
 </DOC>
-
 <DOC>
 more c programming and unity
 this is the second in the about learning how to develop games using the c programming language and the unity game engine on windows or mac why use c and unity instead of some other language and game engine c is a really good language for learning how to and then programming professionally also the unity game engine is very popular with indie game developers
 unity games were downloaded times in finally c is one of the programming languages you can use in the unity environment
 this assumes you have the prerequisite knowledge from the previous in the you should make sure you have that knowledge either by taking that previous or from personal before tackling this throughout this continue building your foundational c and unity knowledge by exploring more c and unity topics and finishing the unity game you started at the end of the previous how we make decisions in our code how to get and use player input in your unity games how to use iteration looping to repeat actions in your code how we can store lots of data in arrays and lists unity is a trademark or registered trademark of unity technologies or its affiliates in the us and elsewhere this is an independent and is not sponsored by authorized by or affiliated with unity technologies or its affiliates
-
-selection
+</DOC>
+<DOC>selection
 about the selection control structure selection is really useful because it lets us decide which code we want to execute based on some condition
 introduction navigating a coursera optional meet the instructor optional lesson introduction booleans if statements switch statements timers spawning teddies tagged destruction
+</DOC>
 
-unity input
+<DOC>unity input
 how to process mouse keyboard and gamepad input in unity this is hugely important because doing this lets the player actually interact with the game
 lesson introduction mouse position processing working for the clampdown mouse button processing the input manager mouse button processing revisited stop the madness keyboard processing gamepad processing
+</DOC>
 
-iteration
+<DOC>iteration
 programming discussion prompt
 lesson introduction for loops nested for loops while loops collisionfree spawning nesting and boxes
+</DOC>
 
-arrays and lists
+<DOC>arrays and lists
 programming discussion prompt
 lesson introduction arrays in theory arrays in practice why we start at zero lists adding a dll for loops with lists backwards for loops foreach loops ted the collector blowing up teddies take blowing up teddies take ted the collector revisited finishing up
 </DOC>
-
 <DOC>
 c class development
 this is the third in the about learning how to develop games using the c programming language and the unity game engine on windows or mac why use c and unity instead of some other language and game engine c is a really good language for learning how to and then programming professionally also the unity game engine is very popular with indie game developers
 unity games were downloaded times in finally c is one of the programming languages you can use in the unity environment
 this assumes you have the prerequisite knowledge from the previous courses in the you should make sure you have that knowledge either by taking those previous courses or from personal before tackling this throughout this continue building your foundational c and unity knowledge by exploring more c and unity topics the material and the previous two courses is essentially our first programming for game design and development majors at uccs about abstraction and how we can use it to design and implement console application classes more about how methods and parameters how we can use abstraction to design and implement unity classes add text output like score and sound effects to your unity games unity is a trademark or registered trademark of unity technologies or its affiliates in the us and elsewhere this is an independent and is not sponsored by authorized by or affiliated with unity technologies or its affiliates
-
-abstraction and console app classes
+</DOC>
+<DOC>abstraction and console app classes
 about abstraction which is all about deciding what details matter and what details dont as we develop a solution to a particular problem also how to design and implement a console app class
 introduction navigating a coursera optional meet the instructor optional lesson introduction rock and roll what is a chair network layers abstraction in code lesson introduction designing the class fields and properties one constructor another constructor method
+</DOC>
 
-a closer look at methods
+<DOC>a closer look at methods
 look more closely at how methods including how parameters and how we return a value from a method
 lesson introduction method headers parameters and how they getting valid user input passing objects as parameters nesting and boxes revisited
+</DOC>
 
-unity classes
+<DOC>unity classes
 how to design and implement a class for use in a unity game
 lesson introduction designing the class fields and properties methods using in a game
+</DOC>
 
-strings and unity audio
+<DOC>strings and unity audio
 about strings and how we can use them in both console apps and unity games also how to add sound effects to your unity games
 lesson introduction the char data type string basics string operations unity text output lesson introduction audio basics adding an audio manager finishing up
 </DOC>
-

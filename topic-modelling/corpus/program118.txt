@@ -12,102 +12,118 @@ the marketing strategy pricing strategy and tactical plans as part of the drug c
 drug discovery
 the university of california san diego skaggs school of pharmacy and pharmaceutical sciences drug discovery brings you lectures from both faculty and industry experts with this recorded on campus at ucsd we seek to share our access to top people in the field who bring an unprecedented range of expertise on drug discovery
 the drug discovery process up to the filing of an initial new drug application or ind each the steps that a pharmaceutical or biotech company goes through to discover a new therapeutic drug be able to understand the pharmaceutical and biotechnology market a changing landscape the major aspects of the drug discovery process starting with target selection to compound screening to designing lead candidates recognize current modern drug discovery based on the lockandkey theory which attempts to use one single compound to hit one target to combat the related disease increase understanding of the various drug discovery tools and methods that are used for finding identifying and designing a new drug define and understand the regulatory responsibilities for drug discovery to file an investigational new drug application ind this is intended as part of a series drug discovery drug development httpswwwcourseraorglearndrugdevelopment and drug commercialization httpswwwcourseraorglearndrugcommercialization we would highly recommend that you take the courses in order since it will give you a better understanding on how a drug is discovered in the lab before being tested in clinical trials and then launched in the market place
-
-welcome
+</DOC>
+<DOC>welcome
 discussion prompt
+</DOC>
 
-pharmaceutical biotechnology industry landscape
+<DOC>pharmaceutical biotechnology industry landscape
 lead dr williams ettouati begins by giving a landscape of the pharma and biotechnology landscape
 pharma and biotechnology landscape key issues for pharma global outlook what will the future look like creating a sustainable business patientcentric drug discovery and commercialization a new approach to rd innovation and its role in developing better drugs
+</DOC>
 
-drug discovery proteomics genomics
+<DOC>drug discovery proteomics genomics
 be hearing from phillip bourne phd dr bourne was at the time of this recording the associate vice chancellor for innovation and industrial alliances in the ucsd skaggs school of pharmacy and pharmaceutical sciences since that time he has been named the first associate director for data science at the united states national institutes of health
 drug discovery proteomics genomics i drug discovery proteomics genomics ii drug discovery proteomics genomics iii drug discovery proteomics genomics iv drug discovery proteomics genomics v
+</DOC>
 
-compound selection preclinical studies
+<DOC>compound selection preclinical studies
 hear from ronald christopher phd dr ronald christopher vice president of preclinical trials at arena pharmaceuticals
 compound selection preclinical studies i compound selection preclinical studies ii compound selection preclinical studies iii compound selection preclinical studies iv compound selection preclinical studies v compound selection preclinical studies vi
+</DOC>
 
-challenges in fragment based drug discovery for protein kinases
+<DOC>challenges in fragment based drug discovery for protein kinases
 hear from stephen burley md phd at the time of this recording director of the center for integrative proteomics at rutgers university he is now the director of the protein data bank and remains an adjunct professor at the ucsd skaggs school of pharmacy and pharmaceutical sciences
 challenges in fragment based drug discovery for protein kinases i challenges in fragment based drug discovery for protein kinases ii challenges in fragment based drug discovery for protein kinases iii challenges in fragment based drug discovery for protein kinases iv challenges in fragment based drug discovery for protein kinases v
+</DOC>
 
-key concepts in drug delivery
+<DOC>key concepts in drug delivery
 this we hear from professor of clinical pharmacy and pediatrics brookie best pharm d of ucsds skaggs school of pharmacy and pharmaceutical sciences
 key concepts in drug delivery i key concepts in drug delivery ii key concepts in drug delivery iii key concepts in drug delivery iv key concepts in drug delivery v
 </DOC>
-
 <DOC>
 drug development
 the university of california san diego skaggs school of pharmacy and pharmaceutical sciences drug development brings you lectures from both faculty and industry experts with this recorded on campus at ucsd we seek to share our access to top people in the field who bring an unprecedented range of expertise on drug development
 the different stages of clinical development as as the regulatory including but not limited to an investigational new drug application ind new drug application nda and product labeling additionally how to incorporate study design methods for consideration in the design of clinical protocols to assess safety tolerability and efficacy in multiple therapeutic areas the different phases of clinical development phase or early stage clinical trial are conducted primarily to determine how the new drug works in humans its safety profile and to predict its dosage range it typically involves between and healthy volunteers phase or proof of concept poc studies test for efficacy as as safety and side effects in a group of between to hundred patients with the disease for which the new drug is being developed phase or late stage clinical development involve much larger group of patients between a few hundred to thousands depending on the indication which will help determine if the new drug can be considered both safe and effective it will involve control groups using placebo andor current treatment as a comparison product registration and approval process after a drug is considered safe and effective from phase trials it must be authorized in each individual country before it can be marketed all data generated about the small molecule or biologic is collected and submitted to the regulatory authorities in the us at the fda food and drug administration fda in europe the ema or european medicines agency japan ministry of health and other countries which may require their own national approvals this is intended as part of a series drug discovery httpswwwcourseraorglearndrugdiscovery drug development and drug commercialization httpswwwcourseraorglearndrugcommercialization we would highly recommend that you take the courses in order since it will give you a better understanding on how a drug is discovered in the lab before being tested in clinical trials and then launched in the market place
+</DOC>
+<DOC>welcome
 
-welcome
+</DOC>
 
-
-regulatory considerations when filing an investigational new drug application susan trieu pharmd
+<DOC>regulatory considerations when filing an investigational new drug application susan trieu pharmd
 we hear from dr susan trieu who in her years in the industry has worked in regulatory affairs since then dr trieu has gone on to in industry at medimpact as their drug information pharmacist
 regulatory considerations when filing an investigational new drug application i regulatory considerations when filing an investigational new drug application ii regulatory considerations when filing an investigational new drug application iii regulatory considerations when filing an investigational new drug application iv regulatory considerations when filing an investigational new drug application v
+</DOC>
 
-clinical study startup activities joseph ma pharmd
+<DOC>clinical study startup activities joseph ma pharmd
 this is presented by dr joseph ma associate professor in the ucsd skaggs school of pharmacy and pharmaceutical sciences
 clinical study startup activities i clinical study startup activities ii clinical study startup activities iii clinical study startup activities iv clinical study startup activities v
+</DOC>
 
-clinical trials phase yazdi pithavala phd
+<DOC>clinical trials phase yazdi pithavala phd
 this hear from dr yazdi pithavala senior director clinical pharmacology at pfizer
 clinical trials phase part i clinical trials phase part ii clinical trials phase part iii clinical trials phase part iv clinical trials phase part v
+</DOC>
 
-clinical trials phase kourosh parivar mpharm
+<DOC>clinical trials phase kourosh parivar mpharm
 next we hear from kourosh parivar m pharm vice president head clinical pharmacology at pfizer
 clinical trials phase part i clinical trials phase part ii clinical trials phase part iii clinical trials phase part iv clinical trials phase part iv
+</DOC>
 
-industry considerations with phase iii clinical trials katie lyons pharmd and kelly hogan pharm d
+<DOC>industry considerations with phase iii clinical trials katie lyons pharmd and kelly hogan pharm d
 reading discussion prompts
 industry considerations with phase iii clinical trials i industry considerations with phase iii clinical trials ii industry considerations with phase iii clinical trials iii industry considerations with phase iii clinical trials iv industry considerations with phase iii clinical trials v
+</DOC>
 
-new drug application filing product labeling kelly hogan pharmd
+<DOC>new drug application filing product labeling kelly hogan pharmd
 reading discussion prompts
 new drug application filing product labeling i new drug application filing product labeling ii new drug application filing product labeling iii new drug application filing product labeling iv new drug application filing product labeling v new drug application filing product labeling vi
 </DOC>
-
 <DOC>
 drug commercialization
 the university of california san diego skaggs school of pharmacy and pharmaceutical sciences drug commercialization brings you lectures from both faculty and industry experts with this recorded on campus at ucsd we seek to share our access to top people in the field who bring an unprecedented range of expertise on drug commercialization
 this will cover pharmacoeconomic marketing strategy intellectual property strategy portfolio management managed markets and strategic alliances it will also have a lecture case study from startup to success in addition the will discuss postmarketing clinical trials or phase trials these are conducted after a new drug has been approved by the regulatory agencies and launched in these studies the new drug is prescribed in an everyday healthcare environment using a much larger group of patients this enables new treatment uses for the new drug to be developed comparisons with other treatments for the same indication to be made and determination of the clinical effectiveness of the new drug in a wider variety of patient types and more rare side effects if any may be detected premarketing strategy should be instigated as early as phase clinical trials to ensure that the markets needs are incorporated into the new drugs overall development later phases when clinical results are presented at international medical conferences the marketing strategy is then refined in order to develop an awareness amongst the medical community who will be prescribing the new drug in addition to the marketing strategy pricing strategy and a tactical plan will be developed promotional material and the sales force will be trained so that when the product is approved they can promote the drug to physician pharmacist and nurses this is intended as part of a series drug discovery httpswwwcourseraorglearndrugdiscovery drug development httpswwwcourseraorglearndrugdevelopment and drug commercialization we would highly recommend that you take the courses in order since it will give you a better understanding on how a drug is discovered in the lab before being tested in clinical trials and then launched in the market place
+</DOC>
+<DOC>welcome
 
-welcome
+</DOC>
 
-
-pharmacoeconomics in drug development jan hirsch phd
+<DOC>pharmacoeconomics in drug development jan hirsch phd
 discussion prompts
 pharmacoeconomics in drug development i pharmacoeconomics in drug development ii pharmacoeconomics in drug development iii pharmacoeconomics in drug development iv pharmacoeconomics in drug development v
+</DOC>
 
-intellectual property strategy biosimilars williams ettouati pharmd
+<DOC>intellectual property strategy biosimilars williams ettouati pharmd
 
 intellectual property strategy biosimilars i intellectual property strategy biosimilars ii intellectual property strategy biosimilars iii intellectual property strategy biosimilars iv intellectual property strategy biosimilars v
+</DOC>
 
-marketing pharmaceuticals biotechnology drugs williams ettouati pharmd
+<DOC>marketing pharmaceuticals biotechnology drugs williams ettouati pharmd
 reading discussion prompts
 marketing pharmaceuticals biotechnology drugs i marketing pharmaceuticals biotechnology drugs ii marketing pharmaceuticals biotechnology drugs iii marketing pharmaceuticals biotechnology drugs iv marketing pharmaceuticals biotechnology drugs v marketing pharmaceuticals biotechnology drugs vi
+</DOC>
 
-managed markets and sales strategy doral fredericks pharmd mba
+<DOC>managed markets and sales strategy doral fredericks pharmd mba
 reading discussion prompt
 managed markets and sales strategy i managed markets and sales strategy ii managed markets and sales strategy iii managed markets and sales strategy iv managed markets and sales strategy v
+</DOC>
 
-strategic alliances in academia pharma and biotech williams ettouati pharm d
+<DOC>strategic alliances in academia pharma and biotech williams ettouati pharm d
 reading discussion prompt
 strategic alliances strategic alliances and deals in structuring and negotiating alliances
+</DOC>
 
-business models and portfolio management
+<DOC>business models and portfolio management
 catherine godreckabareau cfa director strategy portfolio management biosimilars merck
 business models and portfolio management part business models and portfolio management part business models and portfolio management part business models and portfolio management part business models and portfolio management part
+</DOC>
 
-academic industry partnership various models various remi brouard md
+<DOC>academic industry partnership various models various remi brouard md
 reading discussion prompt
 academic industry partnership various models various i academic industry partnership various models various ii academic industry partnership various models various iii academic industry partnership various models various iv academic industry partnership various models various v academic industry partnership various models various vi
+</DOC>
 
-from start up to success in biotech barry quart pharmd
+<DOC>from start up to success in biotech barry quart pharmd
 discussion prompt
 from start up to success in biotech i from start up to success in biotech ii from start up to success in biotech iii from start up to success in biotech iv from start up to success in biotech v
 </DOC>
-

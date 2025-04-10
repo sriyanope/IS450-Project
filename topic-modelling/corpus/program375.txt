@@ -8,63 +8,69 @@ the major projects for this are designed to be flexible by the end of this have 
 <DOC>
 the softer side of science communication
 continue to explore how to develop and implement evidencebased methods for science communication here be looking at the softer but no less important side of science communication cover the basics of human emotion building connection with your audience through empathy and authenticity how improv can improve your science communication game nonverbal communication and managing adversity in science communication close with a discussion of how to be an inclusive and traumainformed science communicator
-
-the power of emotion
+</DOC>
+<DOC>the power of emotion
 about human emotions
 introduction humans as emotional beings emotion and science communication managing anxiety about science
+</DOC>
 
-building connection
+<DOC>building connection
 discuss the importance of fostering trust in science communication also discuss how to use empathy vulnerability and authenticity to do so finally the third part of this will talk about the use of storytelling improvisation and nonverbal communication to build connection with your audiences
 vulnerability authenticity and trust in science communication empathy and science communication improvisation and science communication why use storytelling nonverbal science communication
+</DOC>
 
-conflict and adversity in science communication
+<DOC>conflict and adversity in science communication
 about conflict and science communication also discuss strategies for managing active conflict andor adversarial audiences
 conflict in science communication where does adversity in science communication come from strategies for managing an adversarial audience
+</DOC>
 
-inclusivity in science communication
+<DOC>inclusivity in science communication
 discuss how to be inclusive science communicators this includes how to be trauma informed the balance of power in communication designing for inclusion and how to be culturally relevant close with a discussion of an ethical code for science communicators
 trauma informed science communication designing for inclusion ethical considerations in science communication wrap up
 </DOC>
-
 <DOC>
 the harder side of science communication
 explore how to develop and implement evidencebased methods for science communication discuss major theories of human learning cognitive phenomena like bias and motivated reasoning that can undermine even the best activities and the science behind why misdisinformation spreads so quickly end with motivational interviewing and a discussion of how to use learning engineering to design educational activities
-
-introduction to the learning sciences
+</DOC>
+<DOC>introduction to the learning sciences
 about the learning sciences also discuss the methods used by learning scientists to generate evidence on how people
 welcome and how do people an introduction to the learning of sciences methodology in the learning sciences
+</DOC>
 
-introduction to learning theories
+<DOC>introduction to learning theories
 about four major theoretical frames for describing human learning this includes cognitive theories of learning contextual theories of learning social cognitive theories and behaviorism
 introduction and cognitive theories of learning contextual theories of learning social cognitive theories behaviorist theories
+</DOC>
 
-cognitive biases and science communication
+<DOC>cognitive biases and science communication
 explore cognitive phenomena such as epistemic cognition cognitive biases and motivated reasoning also discuss strategies for designing science communication activities that will help mitigate the influence of bias
 cognitive phenomena i epistemological beliefs cognitive phenomena ii bias the science of misdisinformation motivational interviewing
+</DOC>
 
-learning engineering
+<DOC>learning engineering
 about learning engineering also have a chance to try learning engineering for yourself and either design or redesign a science communication activity using the principles from this
 learning engineering evaluation of science communication activities
 </DOC>
-
 <DOC>
 modes of science communication
 explore different modalities of science communication including oral presentations written forms of communication technology and artistic media including best practices for each
-
-introduction and oral forms of communication
+</DOC>
+<DOC>introduction and oral forms of communication
 welcome to in the first important considerations for effective oral presentations including best practices for giving live recorded and virtual presentations in addition also cover best practices for creating visual supports poster powerpoint slides to help communicate your message during an oral presentation also discuss best practices for media interviews
 introduction best practices for public speaking style best practices for public speaking content interview best practices with julie poppen
+</DOC>
 
-written forms of communication
+<DOC>written forms of communication
 best practices for writing as a vehicle for science communication rather than focusing on grammar and general writing mechanics this section will focus on how to effectively use the written form as a tool for science outreach including how formal scientific writing varies from pieces for the general public
 common pitfalls in science vs general public writing types of public facing articles interview with hillary rosner science journalist and editor
+</DOC>
 
-technological forms of communication
+<DOC>technological forms of communication
 about technological forms of science communication outside traditional media eg written or oral communication discuss how science is communicated through various forms of educational technologies including computer games simulations and social media also briefly discuss learning analytics and their utility in understanding learning in technologybased environments
 introduction to educational technologies social media for science communication learning analytics interview with jim slotta professor of education
+</DOC>
 
-artistic forms of communication
+<DOC>artistic forms of communication
 about the importance of artistic forms of science communication the arts can serve as an important gateway between scientists and the rest of society making difficult or abstract concepts feel more personal and less intimidating here talk about use of art such as photography as as music to help feel others connected to science topics
 the arts as a bridge to science communication steaming ahead adkins interview wrap up
 </DOC>
-

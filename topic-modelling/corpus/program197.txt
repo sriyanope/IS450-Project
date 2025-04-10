@@ -7,64 +7,70 @@ the will suit you if you have a basic working knowledge of r but would also like
 <DOC>
 developing the sir model
 compartmental modelling is a cornerstone of mathematical modelling of infectious diseases and this will introduce some of the basic concepts in building compartmental models including how to interpret and represent rates durations and proportions to place the mathematics to one side and concentrate on gaining intuition into the behaviour of a simple epidemic and be introduced to further basic concepts of infectious disease epidemiology such as the basic reproduction number r and its implications for infectious disease dynamics to express the mathematical underpinnings of the basic drivers that you study use the simple sir model which in turn will help you examine different scenarios for reproduction numbers susceptibility to infection is the fuel for an infectious disease so understanding the dynamics of susceptibility can offer important insights into epidemic dynamics as as priorities for control
-
-modelling the basics
+</DOC>
+<DOC>modelling the basics
 compartmental modelling is a cornerstone of mathematical modelling of infectious diseases be introduced to some of the basic concepts in building compartmental models including how to interpret and represent rates durations and proportions in such models this lays the foundations for modelling the dynamics of infectious disease transmission
 welcome to the an insiders view of idm infected cohorts and simple flows calculating competing hazards in compartmental models the force of infection introduction to the sir model modelling the force of infection reflections on the sir model
+</DOC>
 
-anatomy of an epidemic
+<DOC>anatomy of an epidemic
 be placing the mathematics to one side and concentrating on gaining intuition into the behaviour of a simple epidemic of a perfectly immunising infection in a stable population also study further basic concepts of infectious disease epidemiology including the basic reproduction number r and its implications for infectious disease dynamics
 introduction to the fundamental drivers of epidemic growth why an epidemic peaks departures from the sir model
+</DOC>
 
-combining modelling and insights
+<DOC>combining modelling and insights
 now consolidate the insights that you have gained over the past two to express the mathematical underpinnings of the basic drivers that have been examined use the simple sir model that you already developed in to examine different scenarios for reproduction numbers
 introduction to the explaining r in model terms prevalence and incidence
+</DOC>
 
-dynamics of susceptibles
+<DOC>dynamics of susceptibles
 susceptibility to infection is the fuel for an infectious disease understanding the dynamics of susceptibility can offer important insights into epidemic dynamics as as priorities for control building on the basic sir model that you have coded so far cover three important mechanisms by which susceptibility can change over the of an epidemic i population turnover ii vaccination iii immunity waning over time for simplicity very simple approaches to modelling vaccination in our subsequent courses in the infectious disease modelling you have the to cover more detailed approaches for capturing this important intervention
 modelling population turnover a simple model for vaccination modelling waning immunity modifiers of population susceptibility
 </DOC>
-
 <DOC>
 building on the sir model
 the other two courses require you to perform deterministic modelling in other words the epidemic is predictable as all parameters are fully known however this delves into the many cases especially in the early stages of an epidemic where chance events can be influential in the future of an epidemic so be introduced to some examples of such stochasticity as as simple approaches to modelling these epidemics using r examine how to model infections for which such population structure plays an important role in the transmission dynamics and will some of the basic approaches to modelling vectorborne diseases including the rossmcdonald model
 even if you are not designing and simulating mathematical models in future it is important to be able to critically assess a model so as to appreciate its strengths and weaknesses and identify how it could be improved one way of gaining this is to conduct a critical peer review of a modelling study as a reviewer which is an get by taking this
-
-building on the sir model stochasticity
+</DOC>
+<DOC>building on the sir model stochasticity
 the other two courses have focused on performing deterministic modelling that is the epidemic is predictable as all parameters are fully known however there are many cases especially in the early stages of an epidemic where chance events can be influential in the future of an epidemic be introduced to some examples of such stochasticity as as simple approaches to modelling these epidemics using r
 welcome to the an insiders view of idm stochastic and deterministic models simulating stochasticity populations with preexisting immunity
-
-building on the sir model heterogeneity
-in the basic deterministic sir model all susceptible individuals in a population are subject to the same risks of infection however there are many important infectious diseases where certain groups of the population account for a disproportionate amount of transmission these are not always the same groups that bear the greatest amount of morbidity and mortality examine how to model infections for which such population structure plays an important role in the transmission dynamics
-agespecific mixing for influenza modelling agespecific mixing
-
-building on the sir model vectorborne diseases
-many important diseases are not directly transmitted between hosts but depend on vectors to pass infection between hosts for example biting insects it is important to be able to extend the modelling approaches you have studied so far to capture these more complex forms of natural history some of the basic approaches to modelling vectorborne diseases including the rossmcdonald model which is a framework that provides an important foundation for such diseases
-ross macdonaldforce of infection part ross macdonaldforce of infection part vectorial capacity part vectorial capacity part impact of interventions a closer look at interventions against vbds vectorborne diseases interventions and r
-
-modelling study critique
-even if you are not designing and simulating mathematical models in future it is important to be able to critically assess a model to appreciate its strengths and weaknesses and to identify how it could be improved one way of gaining this is to conduct a critical peer review of a modelling study in the position of a reviewer evaluating it for publication in a journal this is reserved for the completion of your for you to apply the knowledge and youve developing throughout this
 </DOC>
 
+<DOC>building on the sir model heterogeneity
+in the basic deterministic sir model all susceptible individuals in a population are subject to the same risks of infection however there are many important infectious diseases where certain groups of the population account for a disproportionate amount of transmission these are not always the same groups that bear the greatest amount of morbidity and mortality examine how to model infections for which such population structure plays an important role in the transmission dynamics
+agespecific mixing for influenza modelling agespecific mixing
+</DOC>
+
+<DOC>building on the sir model vectorborne diseases
+many important diseases are not directly transmitted between hosts but depend on vectors to pass infection between hosts for example biting insects it is important to be able to extend the modelling approaches you have studied so far to capture these more complex forms of natural history some of the basic approaches to modelling vectorborne diseases including the rossmcdonald model which is a framework that provides an important foundation for such diseases
+ross macdonaldforce of infection part ross macdonaldforce of infection part vectorial capacity part vectorial capacity part impact of interventions a closer look at interventions against vbds vectorborne diseases interventions and r
+</DOC>
+
+<DOC>modelling study critique
+even if you are not designing and simulating mathematical models in future it is important to be able to critically assess a model to appreciate its strengths and weaknesses and to identify how it could be improved one way of gaining this is to conduct a critical peer review of a modelling study in the position of a reviewer evaluating it for publication in a journal this is reserved for the completion of your for you to apply the knowledge and youve developing throughout this
+</DOC>
 <DOC>
 interventions and calibration
 this covers approaches for modelling treatment of infectious disease as as for modelling vaccination building on the sir model how to incorporate additional compartments to represent the effects of interventions such the effect of vaccination in reducing susceptibility about leaky vaccines and how to model them as as different types of vaccine and treatment effects it is important to consider basic relationships between models and data so using the basic sir model you have developed in calibrate this model to epidemic data performing such a calibration by hand will help you gain an understanding of how model parameters can be adjusted in order to capture realworld data lastly about two simple approaches to computerbased model calibration the leastsquares approach and the maximumlikelihood approach
 perform model calibrations under each of these approaches in r
-
-modelling interventions
+</DOC>
+<DOC>modelling interventions
 once you have captured the basic dynamics of transmission using simple mathematical models it is possible to use these models to simulate the impact of different interventions study approaches for modelling treatment of infectious disease as as for modelling vaccination building on the sir model how to incorporate additional compartments to represent the effects of interventions for example the effect of vaccination in reducing susceptibility about leaky vaccines and how to model them as as different types of vaccine and treatment effects
 welcome to the an insiders view of idm modelling curative treatment modelling vaccination leaky vaccines modelling vaccination additional vaccine effects
+</DOC>
 
-confronting models with data part a
+<DOC>confronting models with data part a
 all models answering public health questions first need to be matched or calibrated against realworld data to ensure that modelsimulated dynamics are consistent with what is observed consider basic relationships between models and data using the basic sir model that youve developed so far calibrate this model to epidemic data through performing this calibration by hand gain an understanding of how model parameters can be adjusted so as to order to capture realworld data
 models and data a brief detour into the solar system relationships between models and data modelling with insufficient data modelling with sufficient data
+</DOC>
 
-confronting models with data part b
+<DOC>confronting models with data part b
 in practice model calibration for compartmental models is rarely done by hand rather we construct a function that summarises the goodnessoffit between the model and the data and then use available computer algorithms to maximise this goodnessoffit in these next two about two simple approaches to computerbased model calibration the leastsquares approach and the maximumlikelihood approach perform model calibrations under each of these approaches in r
 computerbased calibration the overall approach introduction to leastsquares calibration recap leastsquares estimation
+</DOC>
 
-confronting models with data part c
+<DOC>confronting models with data part c
 please note learning are the same across both this and the last in practice model calibration for compartmental models is rarely done by hand rather we construct a function that summarises the goodnessoffit between the model and the data and then use available computer algorithms to maximise this goodnessoffit in these two about two simple approaches to computerbased model calibration the leastsquares approach and the maximumlikelihood approach perform model calibrations under each of these approaches in r
 the concept of likelihood constructing a likelihood function to log or not to log of model calibration
 </DOC>
-

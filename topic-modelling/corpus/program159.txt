@@ -10,100 +10,112 @@ courses include a mix of practice quizzes to selfassess understanding graded qui
 accounting for business decision making strategy assessment and control
 accounting information is the lifeblood of the organization as it facilitates and influences operational and strategic decisions intended to achieve organizational goals organizations benefit from three decisionoriented roles of accounting measurement control and communication
 this provides an introduction to accountings role in helping managers develop and implement and improve the organizations strategy in particular how nonfinancial and financial information is created organized and communicated to help managers make strategic decisions as as measure strategic success this also provides an introduction to accounting as a control function inside the organization which helps influence the alignment of managers and employees decisions with organizational goals about different types of controls including process controls budgets and performance measurement and evaluation tools and techniques if you enjoy this business and are interested in an mba consider applying to the imba a flexible fullyaccredited online mba at an incredibly competitive price offered by the university of illinois for more information please see the resource page and onlinembaillinoisedu
-
-orientation
+</DOC>
+<DOC>orientation
 become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
+</DOC>
 
-managing capacity
+<DOC>managing capacity
 explore different measures of an organizations capacity and understand their implications for many different decisions including product pricing
 defining and measuring capacity implications of capacity measurement application and extension what weve learned identifying constraints managing constraints application and extension what weve learned
+</DOC>
 
-managing pricing
+<DOC>managing pricing
 about accountings role in pricing decisions
 pricing fundamentals pricing mechanisms application and extension what weve learned decentralization and reporting transfer pricing approaches application and extension what weve learned
+</DOC>
 
-planning and monitoring operations
+<DOC>planning and monitoring operations
 explore budgeting in organizations
 budgeting in organizations types of budgets application and extension what weve learned standards and variance analysis variance analysis concepts and framework application and extension what weve learned
+</DOC>
 
-managing organizational strategy
+<DOC>managing organizational strategy
 explore many aspects of this important system
 defining strategy measure attributes and qualities financial measures what weve learned nonfinancial measures purpose of strategic performance measurement systems the balanced scorecard what weve learned on your terms
 </DOC>
-
 <DOC>
 understanding financial statements company performance
 this is designed to provide a basic understanding of financial statements with an emphasis on the income statement building on the foundation formed in the first about the third of our three measurement questions and how the income statement helps to answer this final measurement question returning to the real business people introduced in the first this second describes the basic content of income statement in a simple yet relevant context the ends by summarizing many of the lessons learned in both courses to leave you with a lasting impression about what financial statements are and how accounting can for you we all know that accounting is the language of business
 lets make learning this language engaging and perhaps even fun
 upon successful completion of this be able to describe the purpose of an income statement define the basic components of an income statement recognize and understand the meaning of several items typically presented on an income statement explain the broader purpose of financial statements and the role of accounting in producing the financial statements read and to some extent interpret realworld income statements if you enjoy this business and are interested in an mba consider applying to the imba a flexible fullyaccredited online mba at an incredibly competitive price offered by the university of illinois for more information please see the resource page and onlinembaillinoisedu
-
-orientation
+</DOC>
+<DOC>orientation
 become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
+</DOC>
 
-how did you perform introducing the income statement
+<DOC>how did you perform introducing the income statement
 this introduces you to the primary components of the income statement by focusing on the concepts of revenue and cost of goods sold
 how did you perform a look at cost of goods sold
+</DOC>
 
-finishing out the income statement and managing cash
+<DOC>finishing out the income statement and managing cash
 this discusses examples of other income and expenses included in a typical income statement and introduces you to the statement of cash flows
 finishing out income statements how did you manage cash
+</DOC>
 
-final elements of financial statements
+<DOC>final elements of financial statements
 this highlights common notes to the financial statements and provides insights from an expert
 taking note of the notes to the financial statements the auditors report
+</DOC>
 
-wrapping up financial statements and what lies ahead
+<DOC>wrapping up financial statements and what lies ahead
 this revisits what the first two courses of the fundamentals of accounting have covered and examines how ratio analyses can help you evaluate a company
 ratios that help tell a story looking back and ahead on your terms
 </DOC>
-
 <DOC>
 understanding financial statements company position
 this is designed to provide a basic understanding of financial statements with an emphasis on the balance sheet however to understand accounting driven financial statements it is important to recognize that accounting is less about counting and more about measuring what is it that is being measured as the unfolds about the three measurement questions and how the balance sheet helps to answer the first two of these questions by touring a real company and interviewing real business people the describes the basic content of financial statements in a simple yet relevant context the goal of the is to leave a lasting impression about what balance sheet consists of and what it reveals the next in the fundamentals of accounting completes the conversation by addressing the remaining measurement question
 upon successful completion of this be able to describe the purpose of a balance sheet define the three components of a balance sheet recognize and understand the meaning of several items typically presented on a balance sheet explain the broader purpose of financial statements and the role of accounting in producing the financial statements read and to some extent interpret realworld balance sheets if you enjoy this business and are interested in an mba consider applying to the imba a flexible fullyaccredited online mba at an incredibly competitive price offered by the university of illinois for more information please see the resource page and onlinembaillinoisedu
-
-orientation
+</DOC>
+<DOC>orientation
 become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
+</DOC>
 
-what is accounting and why are financial reports important
+<DOC>what is accounting and why are financial reports important
 this will introduce you to the basics of financial statements by emphasizing the links between accounting measurement and financial statements
 what is accounting why are financial statements important
+</DOC>
 
-assets what do you own
+<DOC>assets what do you own
 this will explain the basics of the balance sheet provide a working definition of assets and give you an of assets typically presented on the balance sheet
 the balance sheet current assets the balance sheet noncurrent assets
+</DOC>
 
-liabilities what do you owe
+<DOC>liabilities what do you owe
 this will introduce you to the concept of liabilities and explain what they are and how they can arise
 the balance sheet liabilities part the balance sheet liabilities part
+</DOC>
 
-equity and how the balance sheet fits together
+<DOC>equity and how the balance sheet fits together
 this will build an intuition for what equity represents it will also explain how the components of the balance sheet relate to one another
 the balance sheet equity part the balance sheet equity part on your terms
 </DOC>
-
 <DOC>
 accounting for business decision making measurement and operational decisions
 accounting information is the lifeblood of the organization as it facilitates and influences operational and strategic decisions intended to achieve organizational goals organizations benefit from three decisionoriented roles of accounting measurement control and communication
 this provides an introduction to accountings measurement role inside of an organization and how accountants communicate information that helps managers and employees make operational decisions in particular how cost information is created and organized to help managers and employees conduct profitability analyses develop and choose products make pricing decisions and make common business decisions upon successful completion of this be able to identify the nature purpose and importance of different types of decisionuseful accounting information create organize and communicate cost information to best suit common operational decisions use accounting information to manage products control costs and leverage other drivers of operational success if you enjoy this business and are interested in an mba consider applying to the imba a flexible fullyaccredited online mba at an incredibly competitive price offered by the university of illinois for more information please see the resource page and onlinembaillinoisedu
-
-orientation
+</DOC>
+<DOC>orientation
 become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
+</DOC>
 
-introduction to business decision making
+<DOC>introduction to business decision making
 any organization no matter how large or small is extremely complex it is made up of processes systems products and perhaps most important people why are people most important because they are the ones making decisions guiding the firm towards success wondering what these decisions are and how theyre made join in on
 of business decisions application and extension what weve learned of managerial accounting decisionmaking roles of managerial accounting application and extension what weve learned
+</DOC>
 
-cost concepts and perspectives
+<DOC>cost concepts and perspectives
 every decision no matter how big or small comes down to trading off benefits versus costs sounds simple right potential benefits are often easy to envision and even fun to think about costs a bit less fun but isnt it just the price you pay not quite as see in nothing is as simple as it seems
 defining costs application and extension what weve learned importance of organizing cost information organizing costs by product further refinements organizing costs by behavior application and extension what weve learned
+</DOC>
 
-managing products and profitability
+<DOC>managing products and profitability
 making decisions can be quite daunting you need to be able to make predictions about the consequences of your actions so that you can make the best decision where do you start crystal balls are in short supply so how about the next best thing jump into to about costvolumeprofit analysis
 measuring profitability according to cost behavior defining and using costvolumeprofit analysis application and extension what weve learned interpreting cvp analysis limitations of cvp analysis application and extension what weve learned
+</DOC>
 
-managing operations and sales
+<DOC>managing operations and sales
 owners managers and employees often run into two obstacles when making decisions not enough of the information they need and too much of the information they dont need surprisingly the second problem is often harder to overcome than the first especially in todays informationrich environment how do accountants help managers solve this problem jump into to find out
 identify common operationsbased decisions creating and using relevant information application make or buy application manage product lines what weve learned identify common sales decisions application special orders application sell now or process further what weve learned on your terms
 </DOC>
-

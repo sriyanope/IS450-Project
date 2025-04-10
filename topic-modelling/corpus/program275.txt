@@ -16,79 +16,85 @@ use encoderdecoder causal and selfattention to perform advanced machine translat
 natural language processing with classification and vector spaces
 in of the natural language processing
 a perform sentiment analysis of tweets using logistic regression and then nave bayes b use vector space models to discover relationships between words and use pca to reduce the dimensionality of the vector space and visualize those relationships and c write a simple english to french translation algorithm using precomputed word embeddings and localitysensitive hashing to relate words via approximate knearest neighbor search by the end of this have designed nlp applications that perform questionanswering and sentiment analysis created tools to translate languages and summarize text this is designed and taught by two experts in nlp machine learning and deep learning younes bensouda mourri is an instructor of ai at stanford university who also helped build the deep learning ukasz kaiser is a staff research scientist at google brain and the coauthor of tensorflow the tensortensor and trax libraries and the transformer paper
-
-sentiment analysis with logistic regression
+</DOC>
+<DOC>sentiment analysis with logistic regression
 to extract features from text into numerical vectors then build a binary classifier for tweets using a logistic regression
 welcome to the nlp welcome to introduction supervised ml sentiment analysis vocabulary feature extraction negative and positive frequencies feature extraction with frequencies preprocessing putting it all together logistic regression logistic regression training logistic regression testing logistic regression cost function conclusion andrew ng with chris manning
+</DOC>
 
-sentiment analysis with nave bayes
+<DOC>sentiment analysis with nave bayes
 the theory behind bayes rule for conditional probabilities then apply it toward building a naive bayes tweet classifier of your own
 introduction probability and bayes rule bayes rule nave bayes introduction laplacian smoothing log likelihood part log likelihood part training nave bayes testing nave bayes applications of nave bayes nave bayes assumptions error analysis conclusion
+</DOC>
 
-vector space models
+<DOC>vector space models
 vector space models capture semantic meaning and relationships between words how to create word vectors that capture dependencies between words then visualize their relationships in two dimensions using pca
 introduction vector space models word by word and word by doc euclidean distance cosine similarity intuition cosine similarity manipulating words in vector spaces visualization and pca pca algorithm conclusion
+</DOC>
 
-machine translation and document search
+<DOC>machine translation and document search
 to transform word vectors and assign them to subsets using locality sensitive hashing in order to perform machine translation and document search
 introduction transforming word vectors knearest neighbors hash tables and hash functions locality sensitive hashing multiple planes approximate nearest neighbors searching documents conclusion andrew ng with kathleen mckeown
 </DOC>
-
 <DOC>
 natural language processing with sequence models
 in of the natural language processing
 a train a neural network with word embeddings to perform sentiment analysis of tweets b generate synthetic shakespeare text using a gated recurrent unit gru language model c train a recurrent neural network to perform named entity recognition ner using lstms with linear layers and d use socalled siamese lstm models to compare questions in a corpus and identify those that are worded differently but have the same meaning by the end of this have designed nlp applications that perform questionanswering and sentiment analysis created tools to translate languages and summarize text this is designed and taught by two experts in nlp machine learning and deep learning younes bensouda mourri is an instructor of ai at stanford university who also helped build the deep learning ukasz kaiser is a staff research scientist at google brain and the coauthor of tensorflow the tensortensor and trax libraries and the transformer paper
-
-recurrent neural networks for language modeling
+</DOC>
+<DOC>recurrent neural networks for language modeling
 about the limitations of traditional language models and see how rnns and grus use sequential data for text prediction then build your own nextword generator using a simple rnn on shakespeare text data
 introduction lesson introduction neural networks for sentiment analysis dense layers and relu embedding and mean layers lesson introduction traditional language models recurrent neural networks applications of rnns math in simple rnns cost function for rnns implementation note gated recurrent units deep and bidirectional rnns conclusion
+</DOC>
 
-lstms and named entity recognition
+<DOC>lstms and named entity recognition
 about how long shortterm memory units lstms solve the vanishing gradient problem and how named entity recognition systems quickly extract important information from text then build your own named entity recognition system using an lstm and data from kaggle
 introduction rnns and vanishing gradients introduction to lstms lstm architecture introduction to named entity recognition training ners data processing computing accuracy conclusion
+</DOC>
 
-siamese networks
+<DOC>siamese networks
 about siamese networks a special type of neural network made of two identical networks that are eventually merged together then build your own siamese network that identifies question duplicates in a dataset from quora
 introduction siamese networks architecture cost function triplets computing the cost i computing the cost ii one shot learning training testing conclusion
 </DOC>
-
 <DOC>
 natural language processing with attention models
 in of the natural language processing
 a translate complete english sentences into portuguese using an encoderdecoder attention model b build a transformer model to summarize text c use t and bert models to perform questionanswering by the end of this have designed nlp applications that perform questionanswering and sentiment analysis and created tools to translate languages and summarize text learners should have a working knowledge of machine learning intermediate python including with a deep learning framework eg tensorflow keras as as proficiency in calculus linear algebra and statistics please make sure that youve completed natural language processing with sequence models before starting this this is designed and taught by two experts in nlp machine learning and deep learning younes bensouda mourri is an instructor of ai at stanford university who also helped build the deep learning ukasz kaiser is a staff research scientist at google brain and the coauthor of tensorflow the tensortensor and trax libraries and the transformer paper
-
-neural machine translation
+</DOC>
+<DOC>neural machine translation
 discover some of the shortcomings of a traditional seqseq model and how to solve for them by adding an attention mechanism then build a neural machine translation model with attention that translates english sentences into german
 introduction introduction seqseq seqseq model with attention queries keys values and attention setup for machine translation teacher forcing nmt model with attention bleu score rougen score sampling and decoding beam search minimum bayes risk conclusion andrew ng with oren etzioni
+</DOC>
 
-text summarization
+<DOC>text summarization
 compare rnns and other sequential models to the more modern transformer architecture then create a tool that generates text summaries
 introduction transformers vs rnns transformers transformer applications scaled and dotproduct attention masked self attention multihead attention transformer decoder transformer summarizer conclusion
+</DOC>
 
-question answering
+<DOC>question answering
 explore transfer learning with stateoftheart models like t and bert then build a model that can answer questions
 introduction transfer learning in nlp elmo gpt bert t bidirectional encoder representations from transformers bert bert objective fine tuning bert transformer t multitask training strategy glue benchmark hugging face introduction hugging face i hugging face ii hugging face iii conclusion andrew ng with quoc le
 </DOC>
-
 <DOC>
 natural language processing with probabilistic models
 in of the natural language processing
 a create a simple autocorrect algorithm using minimum edit distance and dynamic programming b apply the viterbi algorithm for partofspeech pos tagging which is vital for computational linguistics c write a better autocomplete algorithm using an ngram language model and d write your own wordvec model that uses a neural network to compute word embeddings using a continuous bagofwords model by the end of this have designed nlp applications that perform questionanswering and sentiment analysis created tools to translate languages and summarize text this is designed and taught by two experts in nlp machine learning and deep learning younes bensouda mourri is an instructor of ai at stanford university who also helped build the deep learning ukasz kaiser is a staff research scientist at google brain and the coauthor of tensorflow the tensortensor and trax libraries and the transformer paper
-
-autocorrect
+</DOC>
+<DOC>autocorrect
 about autocorrect minimum edit distance and dynamic programming then build your own spellchecker to correct misspelled words
 intro to introduction autocorrect building the model building the model ii minimum edit distance minimum edit distance algorithm minimum edit distance algorithm ii minimum edit distance algorithm iii conclusion
+</DOC>
 
-part of speech tagging and hidden markov models
+<DOC>part of speech tagging and hidden markov models
 about markov chains and hidden markov models then use them to create partofspeech tags for a wall street journal text corpus
 introduction part of speech tagging markov chains markov chains and pos tags hidden markov models calculating probabilities populating the transition matrix populating the emission matrix the viterbi algorithm viterbi initialization viterbi forward pass viterbi backward pass conclusion
+</DOC>
 
-autocomplete and language models
+<DOC>autocomplete and language models
 about how ngram language models by calculating sequence probabilities then build your own autocomplete language model using a text corpus from twitter
 introduction ngrams ngrams and probabilities sequence probabilities starting and ending sentences the ngram language model language model evaluation out of vocabulary words smoothing conclusion
+</DOC>
 
-word embeddings with neural networks
+<DOC>word embeddings with neural networks
 about how word embeddings carry the semantic meaning of words which makes them much more powerful for nlp tasks then build your own continuous bagofwords model to create word embeddings from shakespeare text
 introduction basic word representations word embeddings how to create word embeddings word embedding methods continuous bagofwords model cleaning and tokenization sliding window of words in python transforming words into vectors architecture of the cbow model architecture of the cbow model dimensions architecture of the cbow model dimensions architecture of the cbow model activation functions training a cbow model cost function training a cbow model forward propagation training a cbow model backpropagation and gradient descent extracting word embedding vectors evaluating word embeddings intrinsic evaluation evaluating word embeddings extrinsic evaluation conclusion conclusion
 </DOC>
-

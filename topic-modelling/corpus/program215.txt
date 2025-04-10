@@ -9,117 +9,131 @@ implement together an efficient for a problem needed by delivery companies all o
 delivery problem
 online implement in python together efficient programs for a problem needed by delivery companies all over the world millions times per day the travelling salesman problem the goal problem is to visit all the given places as quickly as possible how to find an optimal solution to this problem quickly we still dont have provably efficient algorithms for this difficult computational problem and this is the essence of the p versus np problem the most important open question in computer science still implement several solutions for real world instances of the travelling salesman problem
 while designing these solutions rely heavily on the material learned in the courses of the proof techniques combinatorics probability graph theory see several examples of using discrete mathematics ideas to get more and more efficient solutions
-
-traveling salesman problem
+</DOC>
+<DOC>traveling salesman problem
 we start this with the definition of mathematical model of the delivery problem the classical traveling salesman problem usually abbreviated as tsp then review just a few of its many applications from straightforward ones delivering goods planning a trip to less obvious ones data storage and compression genome assembly after that together take the first steps in implementing programs for tsp
 delivery problem shortest common superstring problem brute force search nearest neighbor
+</DOC>
 
-exact algorithms
+<DOC>exact algorithms
 see two general techniques applied to the traveling salesman problem the first one branch and bound is a classical approach in combinatorial optimization that is used for various problems it can be seen as an improvement of the brute force search we try to construct a permutation piece by piece but at each step we check whether it still makes sense to continue constructing the permutation if it doesnt we just cut off the current branch the second one dynamic programming is arguably the most popular algorithmic technique it solves a problem by going through a collection of smaller subproblems
 branch and bound dynamic programming main ideas dynamic programming representing subsets dynamic programming code
+</DOC>
 
-approximation algorithms
+<DOC>approximation algorithms
 as weve seen in the previous solving the traveling salesman problem exactly is hard in fact we dont even expect an efficient solution in the nearest future for this reason it makes sense to ask is it possible to find efficiently a solution that is probably suboptimal but at the same time is close to optimal it turns out that the answer is yes two algorithms the first one guarantees to find quickly a solution which is at most twice longer than the optimal one the second algorithms does not have such guarantees but it is known to pretty in practice
 approximation algorithms local search
 </DOC>
-
 <DOC>
 number theory and cryptography
 a prominent expert in the number theory godfrey hardy described it in the beginning of th century as one of the most obviously useless branches of pure mathematics just years after his death an algorithm for encryption of secret messages was developed using achievements of number theory it was called rsa after the names of its authors and its implementation is probably the most frequently used computer in the world nowadays without it nobody would be able to make secure payments over the internet or even log in securely to email and other personal services start with the basics of the number theory and get to cryptographic protocols based on it by the end be able to apply the basics of the number theory to encrypt and decrypt messages and to break the code if one applies rsa carelessly even pass a cryptographic quest
 as prerequisites we assume only basic math eg we expect you to know what is a square or how to add fractions basic programming in python functions loops recursion common sense and curiosity our intended audience are all people that or plan to in it starting from motivated high school students
-
-modular arithmetic
+</DOC>
+<DOC>modular arithmetic
 discuss integer numbers and standard operations on them addition subtraction multiplication and division the latter operation is the most interesting one and creates a complicated structure on integer numbers discuss division with a remainder and introduce an arithmetic on the remainders this mathematical setup will allow us to created nontrivial computational and cryptographic constructions in further weeks
-
-euclids algorithm
-study euclids algorithm and its applications this fundamental algorithm is the main steppingstone for understanding much of modern cryptography not only does this algorithm find the greatest common divisor of two numbers which is an incredibly important problem by itself but its extended version also gives an efficient way to solve diophantine equations and compute modular inverses
-greatest common divisor euclids algorithm extended euclids algorithm least common multiple diophantine equations examples diophantine equations theorem modular division
-
-building blocks for cryptography
-cryptography studies ways to share secrets securely so that even eavesdroppers cant extract any information from what they hear or network traffic they intercept one of the most popular cryptographic algorithms called rsa is based on unique integer factorization chinese remainder theorem and fast modular exponentiation we are going to study these properties and algorithms which are the building blocks for rsa in the next use these building blocks to implement rsa and also to implement some clever attacks against rsa and decypher some secret codes
-
-cryptography
-modern cryptography has developed the most during the world war i and world war ii because everybody was spying on everybody hear this story and see why simple cyphers didnt anymore that shared secret key must be changed for every communication if one wants it to be secure this is problematic when the demand for secure communication is skyrocketing and the communicating parties can be on different continents then study the rsa cryptosystem which allows parties to exchange secret keys such that no eavesdropper is able to decipher these secret keys in any reasonable time after that study and later implement a few attacks against incorrectly implemented rsa and thus decipher a few secret codes and even pass a small cryptographic quest
 </DOC>
 
+<DOC>euclids algorithm
+study euclids algorithm and its applications this fundamental algorithm is the main steppingstone for understanding much of modern cryptography not only does this algorithm find the greatest common divisor of two numbers which is an incredibly important problem by itself but its extended version also gives an efficient way to solve diophantine equations and compute modular inverses
+greatest common divisor euclids algorithm extended euclids algorithm least common multiple diophantine equations examples diophantine equations theorem modular division
+</DOC>
+
+<DOC>building blocks for cryptography
+cryptography studies ways to share secrets securely so that even eavesdroppers cant extract any information from what they hear or network traffic they intercept one of the most popular cryptographic algorithms called rsa is based on unique integer factorization chinese remainder theorem and fast modular exponentiation we are going to study these properties and algorithms which are the building blocks for rsa in the next use these building blocks to implement rsa and also to implement some clever attacks against rsa and decypher some secret codes
+</DOC>
+
+<DOC>cryptography
+modern cryptography has developed the most during the world war i and world war ii because everybody was spying on everybody hear this story and see why simple cyphers didnt anymore that shared secret key must be changed for every communication if one wants it to be secure this is problematic when the demand for secure communication is skyrocketing and the communicating parties can be on different continents then study the rsa cryptosystem which allows parties to exchange secret keys such that no eavesdropper is able to decipher these secret keys in any reasonable time after that study and later implement a few attacks against incorrectly implemented rsa and thus decipher a few secret codes and even pass a small cryptographic quest
+</DOC>
 <DOC>
 mathematical thinking in computer science
 mathematical thinking is crucial in all areas of computer science algorithms bioinformatics computer graphics data science machine learning etc the most important tools used in discrete mathematics induction recursion logic invariants examples optimality use these tools to answer typical programming questions like how can we be certain a solution exists am i sure my computes the optimal answer do each of these objects meet the given requirements
 in the online we use a trythisbeforeweexplaineverything approach be solving many interactive and mobile friendly puzzles that were carefully designed to allow you to invent many of the important ideas and concepts yourself prerequisites we assume only basic math eg we expect you to know what is a square or how to add fractions common sense and curiosity basic programming knowledge is necessary as some quizzes require programming in python
-
-making convincing arguments
+</DOC>
+<DOC>making convincing arguments
 why are some arguments convincing and some others are not what makes an argument convincing how can you establish your argument in such a way that there is no room for doubt left how can mathematical thinking help with this section we start digging into these questions our goal is to by examples how to understand proofs how to discover them on your own how to explain them and last but not least how to enjoy them see how a small remark or a simple observation can turn a seemingly nontrivial question into an obvious one
 promo proofs proof by example impossibility proof impossibility proof ii and conclusion one example is enough splitting an octagon making fun in real life tensegrities optional know your rights nobody can win all the time nonexisting examples
+</DOC>
 
-how to find an example
+<DOC>how to find an example
 how can we be certain that an object with certain requirements exist one way to show this is to go through all objects and check whether at least one of them meets the requirements however in many cases the search space is enormous a computer may help but some reasoning that narrows the search space is important both for computer search and for bare hands various techniques for showing that an object exists and that an object is optimal among all other objects as usual practice solving many interactive puzzles show also some computer programs that help us to construct an example
 magic squares narrowing the search multiplicative magic squares more puzzles integer linear combinations paths in a graph warmup subset without x and x rooks on a chessboard knights on a chessboard bishops on a chessboard subset without x and x n queens brute force search n queens backtracking example n queens backtracking code diagonals
+</DOC>
 
-recursion and induction
+<DOC>recursion and induction
 discover two powerful methods of defining objects proving concepts and implementing programs recursion and induction these two methods are heavily used in discrete mathematics and computer science in particular see them frequently in algorithms for analysing correctness and running time of algorithms as as for implementing efficient solutions for some computational problems eg exploring networks recursive solutions are the most natural ones the main idea of recursion and induction is to decompose a given problem into smaller problems of the same type being able to see such decompositions is an important both in mathematics and in programming hone this by solving various problems together
 recursion coin problem hanoi towers
+</DOC>
 
-logic
+<DOC>logic
 mathematical logic plays a crucial and indispensable role in creating convincing arguments we use the rules and language of mathematical logic while writing code while reasoning and making decisions and while using computer programs the basics of mathematical logic and practice tricky and seemingly counterintuitive but yet logical aspects of mathematical logic this will help us to write readable and precise code and to formulate our thoughts rigorously and concisely
+</DOC>
 
-invariants
+<DOC>invariants
 there are things that never change apart from being just a philosophical statement this phrase turns out to be an important idea in discrete mathematics and computer science a property that is preserved during a process is called an invariant invariants are used heavily in analyzing the behavior of algorithms programs and other processes being able to find the right invariant is an important that develop together
+</DOC>
 
-solving a puzzle
+<DOC>solving a puzzle
 we consider a wellknown puzzle where one needs to restore order among square pieces in a square box it turns out that the behavior of this puzzle is determined by mathematics it is solvable if and only if the corresponding permutation is even to understand what it means and why it is true the basic properties of even and odd permutations an important notion in algebra and discrete mathematics together implement a number of simple methods for working with permutations then use them as building blocks to implement a that solves any configuration of this game in the blink of an eye
 the rules of puzzle permutations proof the difficult part mission impossible classify a permutation as evenodd bonus track fast classification project the task quiz hint why every even permutation is solvable
 </DOC>
-
 <DOC>
 combinatorics and probability
 counting is one of the basic mathematically related tasks we encounter on a day to day basis the main question here is the following if we need to count something can we do anything better than just counting all objects one by one do we need to create a list of all phone numbers to ensure that there are enough phone numbers for everyone is there a way to tell that our algorithm will run in a reasonable time before implementing and actually running it all these questions are addressed by a mathematical field called combinatorics
 online we discuss most standard combinatorial settings that can help to answer questions of this type especially concentrate on developing the ability to distinguish these settings in real life and algorithmic problems this will help the learner to actually implement new knowledge apart from that discuss recursive technique for counting that is important for algorithmic implementations one of the main consumers of combinatorics is probability theory this area is connected with numerous sides of life on one hand being an important concept in everyday life and on the other hand being an indispensable tool in such modern and important fields as statistics and machine learning concentrate on providing the working knowledge of basics of probability and a good intuition area the practice shows that such an intuition is not easy to develop in the end of the create a that successfully plays a tricky and very counterintuitive dice game as prerequisites we assume only basic math eg we expect you to know what is a square or how to add fractions basic programming in python functions loops recursion common sense and curiosity our intended audience are all people that or plan to in it starting from motivated high school students
-
-basic counting
+</DOC>
+<DOC>basic counting
 counting is one of the basic mathematically related tasks we encounter on a day to day basis the main question here is the following can we count the number of objects without listing all of them this question arises naturally in various scenarios both in real life and in computer science what is the number of different phone numbers or license plates what is the number of different combinations one needs to brute force in order to crack a password is there a way to tell that an algorithm will run in a reasonable time before implementing and actually running it all these questions are addressed by a mathematical field called combinatorics we consider the basic building blocks of combinatorics all of them are easy to understand and at the same time are powerful enough to handle various nontrivial questions to help you to develop an intuition we consider short python code snippets for generating the objects to be counted
-
-binomial coefficients
-in how many ways one can select a team of five students out of ten students what is the number of nonnegative integers with at most five digits whose digits are decreasing in how many ways one can get from the bottom left cell to the top right cell of a x grid each time going either up or to the right and why all these three numbers are equal figure this out
-previously on combinatorics number of games in a tournament combinations pascals triangle symmetries row sums binomial theorem practice counting
-
-advanced counting
-we have already considered most of the standard settings in combinatorics that allow us to address many counting problems however successful application of this knowledge on practice requires considerable kind of problems address the final standard setting in our combinations with repetitions and then gain some by discussing various problems in combinatorics
-
-probability
-the word probability is used quite often in the everyday life however not always we can speak about probability as some number for that a mathematical model is needed what is this mathematical model probability space how to compute probabilities if the model is given how to judge whether the model is adequate what is conditional probability and bayes theorem how our plausible reasoning can be interpreted in terms of bayes theorem we cover these questions using some simple examples of probability spaces and real life sutiations
-the paradox of probability theory galton board natural sciences and mathematics rolling dice more probability spaces not equiprobable more about finite spaces mathematics for prisoners not all questions make sense what is conditional probability how reliable is the test bayes theorem conditional probability a paradox past and future independence monty hall paradox our position
-
-random variables
-in the previous we discussed how to compute probabilities of random events but in many practical situation we are interested not only in positive or negative but also in some quantitative characteristics of an among these cases are number of steps of an algorithms number of points that one can win in the games involving any kind of randomness all quantitative characteristics of a random person in some group of people basically settings of this kind arise in all situations when a any kind of uncertainty is presented b we are interested in quantitative characteristics the mathematical model for this is called random variables and discuss them
-
-project dice games
-apply accumulated knowledge to create a project solving a certain dice game the game is very simple two players pick a dice each from a given pool of dices with various numbers on their sides then each player throws his dice and the one with the greater number on his dice wins the game looks very simple and it seems that it is very easy to play this game optimally once we know our pool of dices yet it turns out that this intuition is overwhelmingly wrong the game turns out to be very counterintuitive discuss the game in detail and create a that finds an optimal strategy to play the game on a given pool of dices
 </DOC>
 
+<DOC>binomial coefficients
+in how many ways one can select a team of five students out of ten students what is the number of nonnegative integers with at most five digits whose digits are decreasing in how many ways one can get from the bottom left cell to the top right cell of a x grid each time going either up or to the right and why all these three numbers are equal figure this out
+previously on combinatorics number of games in a tournament combinations pascals triangle symmetries row sums binomial theorem practice counting
+</DOC>
+
+<DOC>advanced counting
+we have already considered most of the standard settings in combinatorics that allow us to address many counting problems however successful application of this knowledge on practice requires considerable kind of problems address the final standard setting in our combinations with repetitions and then gain some by discussing various problems in combinatorics
+</DOC>
+
+<DOC>probability
+the word probability is used quite often in the everyday life however not always we can speak about probability as some number for that a mathematical model is needed what is this mathematical model probability space how to compute probabilities if the model is given how to judge whether the model is adequate what is conditional probability and bayes theorem how our plausible reasoning can be interpreted in terms of bayes theorem we cover these questions using some simple examples of probability spaces and real life sutiations
+the paradox of probability theory galton board natural sciences and mathematics rolling dice more probability spaces not equiprobable more about finite spaces mathematics for prisoners not all questions make sense what is conditional probability how reliable is the test bayes theorem conditional probability a paradox past and future independence monty hall paradox our position
+</DOC>
+
+<DOC>random variables
+in the previous we discussed how to compute probabilities of random events but in many practical situation we are interested not only in positive or negative but also in some quantitative characteristics of an among these cases are number of steps of an algorithms number of points that one can win in the games involving any kind of randomness all quantitative characteristics of a random person in some group of people basically settings of this kind arise in all situations when a any kind of uncertainty is presented b we are interested in quantitative characteristics the mathematical model for this is called random variables and discuss them
+</DOC>
+
+<DOC>project dice games
+apply accumulated knowledge to create a project solving a certain dice game the game is very simple two players pick a dice each from a given pool of dices with various numbers on their sides then each player throws his dice and the one with the greater number on his dice wins the game looks very simple and it seems that it is very easy to play this game optimally once we know our pool of dices yet it turns out that this intuition is overwhelmingly wrong the game turns out to be very counterintuitive discuss the game in detail and create a that finds an optimal strategy to play the game on a given pool of dices
+</DOC>
 <DOC>
 introduction to graph theory
 we invite you to a fascinating journey into graph theory an area which connects the elegance of painting and the rigor of mathematics
 is simple but not unsophisticated graph theory gives us both an easy way to pictorially represent many major mathematical results and insights into the deep theories behind them
 online among other intriguing applications see how gps systems find shortest routes how engineers design integrated circuits how biologists assemble genomes why a political map can always be colored using a few colors study ramsey theory which proves that in a large system complete disorder is impossible by the end of the implement an algorithm which finds an optimal of students to schools this algorithm developed by david gale and lloyd s shapley was later recognized by the conferral of nobel prize in economics as prerequisites we assume only basic math eg we expect you to know what is a square or how to add fractions basic programming in python functions loops recursion common sense and curiosity our intended audience are all people that or plan to in it starting from motivated high school students
-
-what is a graph
+</DOC>
+<DOC>what is a graph
 what are graphs what do we need them for see that a graph is a simple pictorial way to represent almost any relations between objects see that we use graph applications daily what graphs are when and how to use them how to draw graphs and also see the most important graph classes we start off with two interactive puzzles while they may be hard they demonstrate the power of graph theory very if you dont find these puzzles easy please see the and reading materials after them
 airlines graph knight transposition seven bridges of knigsberg what is a graph graph examples graph applications vertex degree paths connectivity directed graphs weighted graphs paths cycles and complete graphs trees bipartite graphs
+</DOC>
 
-cycles
+<DOC>cycles
 consider connected components of a graph and how they can be used to implement a simple for solving the guarini puzzle and for proving optimality of a certain protocol see how to find a valid ordering of a todo list or project dependency graph finally figure out the dramatic difference between seemingly similar eulerian cycles and hamiltonian cycles and see how they are used in genome assembly
 handshaking lemma total degree connected components guarini puzzle code lower bound the heaviest stone directed acyclic graphs strongly connected components eulerian cycles eulerian cycles criteria hamiltonian cycles genome assembly
+</DOC>
 
-graph classes
+<DOC>graph classes
 study three main graph classes trees bipartite graphs and planar graphs define minimum spanning trees and then develop an algorithm which finds the cheapest way to connect arbitrary cities study matchings in bipartite graphs and see when a set of jobs can be filled by applicants also what planar graphs are and see when subway stations can be connected without intersections stay tuned for more interactive puzzles
 road repair trees minimum spanning tree job bipartite graphs matchings halls theorem subway lines planar graphs eulers formula applications of eulers formula
+</DOC>
 
-graph parameters
+<DOC>graph parameters
 focus on the graph parameters and related problems first define graph colorings and see why political maps can be colored in just four colors then see how cliques and independent sets are related in graphs using these notions prove ramsey theorem which states that in a large system complete disorder is impossible finally study vertex covers and how to find the minimum number of computers which control all network connections
 map coloring graph coloring bounds on the chromatic number applications graph cliques cliques and independent sets connections to coloring mantels theorem balanced graphs ramsey numbers existence of ramsey numbers antivirus system vertex covers knigs theorem
+</DOC>
 
-flows and matchings
+<DOC>flows and matchings
 develop an algorithm that finds the maximum amount of water which can be routed in a given water supply network this algorithm is also used in practice for optimization of road traffic and airline scheduling see how flows in networks are related to matchings in bipartite graphs then develop an algorithm which finds stable matchings in bipartite graphs this algorithm solves the problem of matching students with schools doctors with hospitals and organ donors with patients by the end of implement an algorithm which won the nobel prize in economics
 an example the framework ford and fulkerson proof halls theorem what else why stable matchings mathematics and real life basic examples looking for a stable matching galeshapley algorithm correctness proof why the algorithm is unfair why the algorithm is very unfair
 </DOC>
-

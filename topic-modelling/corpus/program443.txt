@@ -9,41 +9,48 @@ these hands on components will let you apply the you in the lectures projects wi
 <DOC>
 google cloud fundamentals core infrastructure
 google cloud fundamentals core infrastructure introduces important concepts and terminology for working with google cloud through and handson labs this presents and compares many of google clouds computing and storage services along with important resource and policy management tools
-
-introduction
+</DOC>
+<DOC>introduction
 this section welcomes learners to the google cloud fundamentals core infrastructure and provides an of the structure and goals
-
-introducing google cloud
-this section identifies some of the key benefits of using google cloud its here that we introduce the components of the google network infrastructure and explore the differences between infrastructure as a service iaas and platform as a service paas
-cloud computing iaas and paas the google cloud network environmental impact security open source ecosystems pricing and billing
-
-resources and access in the cloud
-this section explores how resources get organized with projects and how access to those resources gets shared with the right part of a workforce through a tool called identity and access management iam its also section that we identify different ways to interact with google cloud
-google cloud resource hierarchy identity and access management iam service accounts cloud identity interacting with google cloud coursera getting started with google cloud platform and qwiklabs
-
-virtual machines and networks in the cloud
-this section of the explores how google compute engine works with a focus on virtual networking
-virtual private cloud networking compute engine scaling virtual machines important vpc compatibilities cloud load balancing cloud dns and cloud cdn connecting networks to google vpc
-
-storage in the cloud
-this section of the showcases five core google cloud storage products cloud storage bigtable cloud sql spanner and firestore
-google cloud storage options cloud storage cloud storage storage classes and data transfer cloud sql spanner firestore bigtable comparing storage options
-
-containers in the cloud
-this section of the explores containers and how they can be managed with kubernetes and google kubernetes engine
-introduction to containers kubernetes google kubernetes engine
-
-applications in the cloud
-the focus of this section of the is developing applications in the cloud its here that explore cloud run and cloud functions
-cloud run development in the cloud
-
-prompt engineering
-this section looks at generative ai tools how they explore how to combine google cloud knowledge with prompt engineering to improve gemini responses
-
-
-final section we review what was presented and discuss the next steps to continue your cloud learning journey
 </DOC>
 
+<DOC>introducing google cloud
+this section identifies some of the key benefits of using google cloud its here that we introduce the components of the google network infrastructure and explore the differences between infrastructure as a service iaas and platform as a service paas
+cloud computing iaas and paas the google cloud network environmental impact security open source ecosystems pricing and billing
+</DOC>
+
+<DOC>resources and access in the cloud
+this section explores how resources get organized with projects and how access to those resources gets shared with the right part of a workforce through a tool called identity and access management iam its also section that we identify different ways to interact with google cloud
+google cloud resource hierarchy identity and access management iam service accounts cloud identity interacting with google cloud coursera getting started with google cloud platform and qwiklabs
+</DOC>
+
+<DOC>virtual machines and networks in the cloud
+this section of the explores how google compute engine works with a focus on virtual networking
+virtual private cloud networking compute engine scaling virtual machines important vpc compatibilities cloud load balancing cloud dns and cloud cdn connecting networks to google vpc
+</DOC>
+
+<DOC>storage in the cloud
+this section of the showcases five core google cloud storage products cloud storage bigtable cloud sql spanner and firestore
+google cloud storage options cloud storage cloud storage storage classes and data transfer cloud sql spanner firestore bigtable comparing storage options
+</DOC>
+
+<DOC>containers in the cloud
+this section of the explores containers and how they can be managed with kubernetes and google kubernetes engine
+introduction to containers kubernetes google kubernetes engine
+</DOC>
+
+<DOC>applications in the cloud
+the focus of this section of the is developing applications in the cloud its here that explore cloud run and cloud functions
+cloud run development in the cloud
+</DOC>
+
+<DOC>prompt engineering
+this section looks at generative ai tools how they explore how to combine google cloud knowledge with prompt engineering to improve gemini responses
+</DOC>
+
+<DOC>
+final section we review what was presented and discuss the next steps to continue your cloud learning journey
+</DOC>
 <DOC>
 a tour of google cloud handson labs
 this is a selfpaced lab that takes place in the google cloud console first handson lab access the google cloud platform console and use these basic google cloud features projects resources iam users roles permissions and apis

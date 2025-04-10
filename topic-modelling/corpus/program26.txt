@@ -12,129 +12,146 @@ in the final complete a capstone project that applies what you have learned to a
 introduction to r programming for data science
 when working in the data science field definitely become acquainted with the r language and the role it plays in data analysis this introduces you to the basics of the r language such as data types techniques for manipulation and how to implement fundamental programming tasks
 begin the process of understanding common data structures programming fundamentals and how to manipulate data all with the help of the r programming language the emphasis is handson and practical learning write a simple using rstudio manipulate data in a data frame or matrix and complete a final project as a data analyst using watson studio and jupyter notebooks to acquire and analyze datadriven insights no prior knowledge of r or programming is required
-
-r basics
+</DOC>
+<DOC>r basics
 regardless of the programming language you use all share some commonalities for example likely need to perform basic operations on different data types like applying mathematical equations to numeric data also need an environment in which to write your code anbbd most modern integrated development environments or ides provide features that make writing code easier like syntax checking color coding and integrated help this introduces you to the r language its common data types and techniques for manipulating them also about the role of the r interpreter and how it transforms code into executable objects finally be introduced to two of the most common ides for r development rstudio and jupyter notebook
 welcome to introduction to r programming for data science introduction to r language basic data types math variables and strings r environment introduction to rstudio writing and running r in jupyter notebooks
-
-common data structures
-the r language supports many types of data structures that you can use to organize and store values in your code including vectors factors lists arrays matrices and data frames each data structure type serves a specific purpose and can contain specific kinds of data so its important to understand the differences between them so you can make the right choice based on your scenario about the types of data you can store in each data structure and how to add remove or manipulate its contents
-vectors and factors vector operations lists arrays and matrices data frames
-
-r programming fundamentals
-as with most programming languages r supports coding features that you can use to control the flow of execution define functions that can perform specific tasks with common data types like strings and dates and make your code more robust by intercepting likely errors and handling them before they interrupt the execution of your code how to implement these fundamental programming tasks in r
-conditions and loops functions in r string operations in r regular expressions date format in r debugging
-
-working with data
-data is everywhere the data you need to analyze may come from a traditional database but it may also come from a variety of different sources and systems and it may come to you in one or more formats for example your data might be in text excel json or xml files or it may not be stored in a file at all but instead lives on the pages of a website how will you take all these different file formats and load them into your r working environment this provides you with the tools you need to read data from some common file formats and sources into data objects that you can then use and combine with other data objects in your data analysis
-reading csv excel and builtin datasets reading text files in r writing and saving to files http request and rest api web scraping in r
-
-final project
-peer review app item plugin
 </DOC>
 
+<DOC>common data structures
+the r language supports many types of data structures that you can use to organize and store values in your code including vectors factors lists arrays matrices and data frames each data structure type serves a specific purpose and can contain specific kinds of data so its important to understand the differences between them so you can make the right choice based on your scenario about the types of data you can store in each data structure and how to add remove or manipulate its contents
+vectors and factors vector operations lists arrays and matrices data frames
+</DOC>
+
+<DOC>r programming fundamentals
+as with most programming languages r supports coding features that you can use to control the flow of execution define functions that can perform specific tasks with common data types like strings and dates and make your code more robust by intercepting likely errors and handling them before they interrupt the execution of your code how to implement these fundamental programming tasks in r
+conditions and loops functions in r string operations in r regular expressions date format in r debugging
+</DOC>
+
+<DOC>working with data
+data is everywhere the data you need to analyze may come from a traditional database but it may also come from a variety of different sources and systems and it may come to you in one or more formats for example your data might be in text excel json or xml files or it may not be stored in a file at all but instead lives on the pages of a website how will you take all these different file formats and load them into your r working environment this provides you with the tools you need to read data from some common file formats and sources into data objects that you can then use and combine with other data objects in your data analysis
+reading csv excel and builtin datasets reading text files in r writing and saving to files http request and rest api web scraping in r
+</DOC>
+
+<DOC>final project
+peer review app item plugin
+</DOC>
 <DOC>
 sql for data science with r
 much of the worlds data resides in databases sql or structured query language is a powerful language which is used for communicating with and extracting data from databases a working knowledge of databases and sql is a must if you want to become a data scientist
 the purpose of this is to introduce relational database concepts and help you and apply foundational knowledge of the sql and r languages it is also intended to get you started with performing sql access in a data science environment the emphasis is on handson and practical learning as such with real databases real data science tools and realworld datasets through a series of handson labs practice building and running sql queries also how to access databases from jupyter notebooks using sql and r no prior knowledge of databases sql r or programming is required anyone can audit this at no charge if you choose to take this and earn the coursera you can also earn an ibm digital badge upon successful completion of the
-
-getting started with sql
+</DOC>
+<DOC>getting started with sql
 structured query language or sql provides a standard language for selecting and manipulating data in a relational database understanding sql is a foundational that you must have when applying data science principles in r because sql is the key to helping you unlock insights about the information stored deep inside relational databases some basic sql statements and practice them handson on a live database
 welcome to sql for data science select statement count distinct limit insert statement update and delete statements
-
-introduction to relational databases and tables
-explore the fundamental concepts behind databases tables and the relationships between them then create an instance of a database discover sql statements that allow you to create and manipulate tables and then practice them on your own live database
-introduction to databases relational database concepts types of sql statements ddl vs dml create table statement alter drop and truncate tables how to create a database instance on cloud
-
-intermediate sql
-how to use string patterns and ranges to search data and how to sort and group data in result sets also practice composing nested queries and execute select statements to access data from multiple tables
-using string patterns and ranges sorting result sets grouping result sets builtin database functions date and time builtin functions subqueries and nested selects working with multiple tables
-
-getting started with databases using r
-the benefits of using r to connect to relational databases and how to persist r database objects in files also some of the similarities between r data frames and relational databases including how data types compare and when you must convert from one type to another to improve the effectiveness of your data analysis finally different methods for connecting to a database from r
-why use r with relational databases r persistence options terminology comparison mapping data between r and rdbms database design considerations connectivity options connecting with rjdbc connectivity using odbc rodbc in detail metadata discovery
-
-working with database objects using r
-the full process of accessing and querying databases using r how to create the logical and physical model of the database and then implement the model by creating the physical database objects and loading them with data finally examine an example of accessing and querying the database
-working with data database design and data preparation creating physical database objects loading the data querying data sql select analyzing the data
-
-project
-be working with multiple realworld datasets for the canadian crop data and exchange rates be asked questions that will help you understand the data just as you would in the real world be assessed on the correctness of your sql queries and results
 </DOC>
 
+<DOC>introduction to relational databases and tables
+explore the fundamental concepts behind databases tables and the relationships between them then create an instance of a database discover sql statements that allow you to create and manipulate tables and then practice them on your own live database
+introduction to databases relational database concepts types of sql statements ddl vs dml create table statement alter drop and truncate tables how to create a database instance on cloud
+</DOC>
+
+<DOC>intermediate sql
+how to use string patterns and ranges to search data and how to sort and group data in result sets also practice composing nested queries and execute select statements to access data from multiple tables
+using string patterns and ranges sorting result sets grouping result sets builtin database functions date and time builtin functions subqueries and nested selects working with multiple tables
+</DOC>
+
+<DOC>getting started with databases using r
+the benefits of using r to connect to relational databases and how to persist r database objects in files also some of the similarities between r data frames and relational databases including how data types compare and when you must convert from one type to another to improve the effectiveness of your data analysis finally different methods for connecting to a database from r
+why use r with relational databases r persistence options terminology comparison mapping data between r and rdbms database design considerations connectivity options connecting with rjdbc connectivity using odbc rodbc in detail metadata discovery
+</DOC>
+
+<DOC>working with database objects using r
+the full process of accessing and querying databases using r how to create the logical and physical model of the database and then implement the model by creating the physical database objects and loading them with data finally examine an example of accessing and querying the database
+working with data database design and data preparation creating physical database objects loading the data querying data sql select analyzing the data
+</DOC>
+
+<DOC>project
+be working with multiple realworld datasets for the canadian crop data and exchange rates be asked questions that will help you understand the data just as you would in the real world be assessed on the correctness of your sql queries and results
+</DOC>
 <DOC>
 data science with r capstone project
 capstone apply various data science and techniques that you have learned as part of the previous courses in the ibm data science with r or ibm data analytics with excel and r
 for this project assume the role of a data scientist who has recently joined an organization and be presented with a challenge that requires data collection analysis basic hypothesis testing visualization and modeling to be performed on realworld datasets collect and understand data from multiple sources conduct data wrangling and preparation with tidyverse perform exploratory data analysis with sql tidyverse and ggplot model data with linear regression create charts and plots to visualize the data and build an interactive dashboard the project will culminate with a presentation of your data analysis report with an executive for the various stakeholders in the organization
-
-capstone and data collection
+</DOC>
+<DOC>capstone and data collection
 app items plugins
 introduction to data science with r capstone project weather and bikesharing demand data collection
+</DOC>
 
-data wrangling
+<DOC>data wrangling
 app items plugins
+</DOC>
 
-performing exploratory data analysis with sql tidyverse ggplot
+<DOC>performing exploratory data analysis with sql tidyverse ggplot
 at this stage of the capstone project you have gained some valuable working knowledge of data collection and data wrangling you have also learned a lot about sql querying and visualization congratulations now its time to apply some of your new knowledge and about exploratory data analysis eda techniques again through practice you can use the datasets you wrangled in the previous however if you had any issues completing the wrangling no worries we have prepared some clean datasets for you to use be asked to complete three labs
+</DOC>
 
-predictive analysis
+<DOC>predictive analysis
 app items plugins
+</DOC>
 
-building a r shiny dashboard app
+<DOC>building a r shiny dashboard app
 ungraded lab plugins
+</DOC>
 
-present your datadriven insights
+<DOC>present your datadriven insights
 peer review plugins
 elements of a successful data findings report best practices for presenting your findings
 </DOC>
-
 <DOC>
 data visualization with r
 the grammar of graphics a system for describing and building graphs and how the ggplot data visualization package for r applies this concept to basic bar charts histograms pie charts scatter plots line plots and box plots also how to further customize your charts and plots using themes and other techniques then how to use another data visualization package for r called leaflet to create map plots a unique way to plot data based on geolocation data finally be introduced to creating interactive dashboards using the r shiny package how to create and customize shiny apps alter the appearance of the apps by adding html and image components and deploy your interactive data apps on the web
 practice what you and build handson by completing labs in each and a final project at the end of the watch the through the labs and watch your data science grow good luck note this requires knowledge of working with r and data if you do not have these it is highly recommended that you first take the introduction to r programming for data science as as the data analysis with r courses from ibm prior to starting this note the prerequisite for this is basic r programming
-
-introduction to data visualization
+</DOC>
+<DOC>introduction to data visualization
 data without a way to convey the story behind it to yourself or others is just numbers on a page you can observe and tell the story of your data in a more impactful way through visualization the basics of data visualization using r including the fundamental components that are shared by all charts and plots and how to bring those components to life using the ggplot package for r also how to create three common chart types including bar histogram and pie charts from the qualitative and quantitative data
 introduction to data visualization using ggplot bar charts histograms pie charts
-
-basic plots maps and customization
-take your data visualization to the next level how to create three plot types including scatter plots line plots and box plots using the ggplot library and then customize the visualizations using annotations and customized axis titles and text labels also about faceting a way to visualize each level of a discrete or categorical variable and different ways to with themes finally about a unique chart type called a map that you can create using geolocation data and the leaflet library
-scatter plots line plots box plots customize plots themes and faceting v maps with leaflet
-
-dashboards
-your data tells a story you have built the charts and plots that show important relationships between variables identify outliers and anomalies and see the trends that can help you predict what the future might bring now you want to put these insightful data visualizations at the fingertips of your stakeholders and make it easy to interact with and explore the data you need a dashboard why dashboards are important and then build interactive dashboards using the shiny package for r how shiny dashboards are structured into user interface and server components and then build out these components and develop the logic to make them together also how to deploy your dashboards and provide a way to generate informative reports with r markdown
-introduction to dashboards shiny shiny basics create a simple shiny app explore shiny components deploy the shiny app reports in rmd
-
-final
-peer review ungraded lab plugin
 </DOC>
 
+<DOC>basic plots maps and customization
+take your data visualization to the next level how to create three plot types including scatter plots line plots and box plots using the ggplot library and then customize the visualizations using annotations and customized axis titles and text labels also about faceting a way to visualize each level of a discrete or categorical variable and different ways to with themes finally about a unique chart type called a map that you can create using geolocation data and the leaflet library
+scatter plots line plots box plots customize plots themes and faceting v maps with leaflet
+</DOC>
+
+<DOC>dashboards
+your data tells a story you have built the charts and plots that show important relationships between variables identify outliers and anomalies and see the trends that can help you predict what the future might bring now you want to put these insightful data visualizations at the fingertips of your stakeholders and make it easy to interact with and explore the data you need a dashboard why dashboards are important and then build interactive dashboards using the shiny package for r how shiny dashboards are structured into user interface and server components and then build out these components and develop the logic to make them together also how to deploy your dashboards and provide a way to generate informative reports with r markdown
+introduction to dashboards shiny shiny basics create a simple shiny app explore shiny components deploy the shiny app reports in rmd
+</DOC>
+
+<DOC>final
+peer review ungraded lab plugin
+</DOC>
 <DOC>
 data analysis with r
 the r programming language is purposebuilt for data analysis r is the key that opens the door between the problems that you want to solve with data and the answers you need to meet your objectives this starts with a question and then walks you through the process of answering it through data first important techniques for preparing or wrangling your data for analysis then how to gain a better understanding of your data through exploratory data analysis helping you to summarize your data and identify relevant relationships between variables that can lead to insights once your data is ready to analyze how to develop your model and evaluate and tune its performance by following this process you can be sure that your data analysis performs to the standards that you have set and you can have confidence in the results
 build handson by playing the role of a data analyst who is analyzing airline departure and arrival data to predict flight delays using an airline reporting carrier ontime performance dataset practice reading data files preprocessing data creating models improving models and evaluating them to ultimately choose the best model watch the through the labs and add to your portfolio good luck note the prerequisite for this is basic r programming for example ensure that you have completed a like introduction to r programming for data science from ibm
-
-introduction to data analysis with r
+</DOC>
+<DOC>introduction to data analysis with r
 all data analysis starts with a problem that you need to solve and understanding your data and the types of questions you can answer about it are key aspects of this the r programming language provides you with all the tools you need to conduct powerful data analysis providing the conduit between your data and the realworld problems you want to solve review a type of problem that you can solve in r and the underlying data that forms the basis for your analysis also about the r packages for data analysis which provide a powerful set of tools that youre likely to use in everyday data analyses finally see how to import data and gain basic insights from the dataset
 introduction to data analysis with r the problem understanding the data r packages for data science importing and exporting data in r getting started analyzing data in r
-
-data wrangling
-data wrangling or data preprocessing is an essential first step to achieving accurate and complete analysis of your data this process transforms your raw data into a format that can be easily categorized or mapped to other data creating predictable relationships between them and making it easier to build the models you need to answer questions about your data this provides an introduction to data preprocessing in r and then provides you with the tools you need to identify and handle missing values in your dataset transform data formats to align them with other data you may want to compare them to normalize your data create categories of information through data binning and convert categorical variables into quantitative values that can then be used in numericbased analyses
-preprocessing data in r dealing with missing values in r data formatting in r data normalization in r binning in r turning categorical values to a numeric variable in r
-
-exploratory data analysis
-exploratory data analysis or eda is an approach to analyzing data that summarizes its main characteristics and helps you gain a better understanding of the dataset uncover relationships between different variables and extract important variables for the problem you are trying to solve the main question you are trying to answer is what causes flight delays some useful exploratory data analysis techniques that will help answer this question
-descriptive statistics grouping data in r analysis of variance anova in r correlation in r correlation statistics
-
-model development in r
-you have identified the problem that youre trying to solve and have preprocessed the dataset use in your analysis and you have conducted some exploratory data analysis to answer some of your initial questions now its time to develop your model and assess the strength of your assumptions examine model development by trying to predict the arrival delay of a flight using the airline dataset regression techniques for determining the correlation between variables in your dataset and evaluate the result both visually and through the calculation of metrics
-introduction to model development simple linear regression multiple linear regression assessing models visually polynomial regression assessing the model prediction and decision making
-
-model evaluation
-you have a firm understanding of your data and have preprocessed it to ensure the best possible and you have conducted exploratory data analysis and developed your model everything looks good so far but how can you be certain your model works in the real world and performs optimally how to use the tidymodels framework to evaluate your model tidymodels is a collection of packages for modeling and machine learning using tidyverse principles using these packages how to crossvalidate your models identify potential problems like overfitting and underfitting and handle overfitting problems using a technique called regularization also how to tune your models using grid search
-model evaluation overfitting and underfitting regularization grid search
-
-project
-peer review app items plugins
 </DOC>
 
+<DOC>data wrangling
+data wrangling or data preprocessing is an essential first step to achieving accurate and complete analysis of your data this process transforms your raw data into a format that can be easily categorized or mapped to other data creating predictable relationships between them and making it easier to build the models you need to answer questions about your data this provides an introduction to data preprocessing in r and then provides you with the tools you need to identify and handle missing values in your dataset transform data formats to align them with other data you may want to compare them to normalize your data create categories of information through data binning and convert categorical variables into quantitative values that can then be used in numericbased analyses
+preprocessing data in r dealing with missing values in r data formatting in r data normalization in r binning in r turning categorical values to a numeric variable in r
+</DOC>
+
+<DOC>exploratory data analysis
+exploratory data analysis or eda is an approach to analyzing data that summarizes its main characteristics and helps you gain a better understanding of the dataset uncover relationships between different variables and extract important variables for the problem you are trying to solve the main question you are trying to answer is what causes flight delays some useful exploratory data analysis techniques that will help answer this question
+descriptive statistics grouping data in r analysis of variance anova in r correlation in r correlation statistics
+</DOC>
+
+<DOC>model development in r
+you have identified the problem that youre trying to solve and have preprocessed the dataset use in your analysis and you have conducted some exploratory data analysis to answer some of your initial questions now its time to develop your model and assess the strength of your assumptions examine model development by trying to predict the arrival delay of a flight using the airline dataset regression techniques for determining the correlation between variables in your dataset and evaluate the result both visually and through the calculation of metrics
+introduction to model development simple linear regression multiple linear regression assessing models visually polynomial regression assessing the model prediction and decision making
+</DOC>
+
+<DOC>model evaluation
+you have a firm understanding of your data and have preprocessed it to ensure the best possible and you have conducted exploratory data analysis and developed your model everything looks good so far but how can you be certain your model works in the real world and performs optimally how to use the tidymodels framework to evaluate your model tidymodels is a collection of packages for modeling and machine learning using tidyverse principles using these packages how to crossvalidate your models identify potential problems like overfitting and underfitting and handle overfitting problems using a technique called regularization also how to tune your models using grid search
+model evaluation overfitting and underfitting regularization grid search
+</DOC>
+
+<DOC>project
+peer review app items plugins
+</DOC>

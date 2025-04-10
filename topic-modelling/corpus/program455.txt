@@ -17,143 +17,158 @@ to round off your learning take a mock exam that has been set up in a similar st
 power platform in business analysis
 the business value and product capabilities of power platform create simple power apps connect data with microsoft dataverse build a power bi dashboard automate a process with power automate and build a chatbot with power virtual agents
 after completing this be able to describe the business value of power platform identify the core components of power platform demonstrate the capabilities of power bi describe the capabilities of power apps demonstrate the business value of power virtual agents this is a great way to prepare for the microsoft pl exam by passing the pl exam earn the microsoft power platform fundamentals
-
-introduction to microsoft power platform
+</DOC>
+<DOC>introduction to microsoft power platform
 about the components of microsoft power platform the business value for customers and security of the technology
 introduction to power platform in business analysis microsoft certified microsoft power platform fundamentals what is microsoft power platform data connectors pulling it all together microsoft dataverse understand relationships environments in dataverse what is microsoft power apps what power apps can do for you introduction to power platform
+</DOC>
 
-create custom solutions for everyday problems
+<DOC>create custom solutions for everyday problems
 power apps allows businesses to create custom solutions for everyday problems how to build and customize a canvas app from scratch and to leverage power apps to create modeldriven apps
 introduction and basic elements build a canvas app create your account and install customize the app get started with functions and share an app introduction to modeldriven apps design of modeldriven apps business logic creating modeldriven apps control security and share modeldriven apps custom solutions
+</DOC>
 
-build an automated solution
+<DOC>build an automated solution
 how you can use power automate to create repeatable business process flows that when triggered leap into action and perform the process for them
 introduction to power automate of power automate introduction and creating a flow from a template build recurring flows build an approval request solution walkthrough customize an approval request business process flows adding conditions to a business process flow adding a business flow to a model driven app edit a business process flow build an automated solutionmodule
+</DOC>
 
-power bi
+<DOC>power bi
 power bi helps business users and developers alike to easily analyze visualize and collaborate on data this will teach you how to do all of that without effecting your underlying dataset
 what is power bi power bi concepts power bi reports and dashboards data modeling and visualizations clean data with aggregates security and administration in power bi introduction and connect to data visualize data build a dashboard and collaborate and share how to build a simple dashboard
+</DOC>
 
-power virtual agents
+<DOC>power virtual agents
 how power virtual agents will help you publish bots to engage with your customers on multiple platforms or channels these can include live websites mobile apps and messaging platforms like microsoft teams and facebook etc
 introduction what is power virtual agents entities actions and publishing introduction create a chatbot create and with topics ending branching and testing publish and analyze a chatbot build a basic chatbot
+</DOC>
 
-exam pl microsoft power platform fundamentals
+<DOC>exam pl microsoft power platform fundamentals
 also have access to resources that will help you prepare for the microsoft exam pl microsoft power platform fundamentals
 recap congratulations
 </DOC>
-
 <DOC>
 business analysis fundamentals
 if youre interested in a in business analysis but dont know where to start youve arrived at the right place
 this has been designed for individuals seeking entrylevel positions in business analysis whether youre a recent graduate a changer or someone looking to kickstart your in the tech industry it will provide you with the foundational knowledge and practical needed to excel in the field of business analysis this is part of a series that offers a good starting point for a in business analysis it will help you gain knowledge and related to essential business analysis concepts principles practical methods and the responsibilities associated with business analysis this also gets you one step closer to the microsoft power platform fundamentals which requires no degree or prior after completing this be able to describe basic concepts and principles of business analysis explain the role of a business analyst within an organization identify and analyze a business problem identify and analyze stakeholders in a business project
-
-introduction to business analysis
+</DOC>
+<DOC>introduction to business analysis
 explore the essential ideas and rules behind business analysis including the core concepts and practical methods used field discover the important responsibilities and tasks associated with this role and see how it plays a key part in making important decisions and keeping everyone on the same page
 introduction to the introduction business analysis fundamentals day in the life of a business analyst welcome to generative ai for everyone understanding the capabilities of generative ai for business functions generative ai under the hood the potential pitfalls and shortcomings of gen ai what is the role of a business analyst types of business analysis problems the endtoend process business process improvement introduction to business analysis
+</DOC>
 
-investigating the business problem
+<DOC>investigating the business problem
 develop the to recognize and understand business problems ways to carefully look at and analyze problems so that you can suggest good solutions and contribute to making smart decisions
 the importance of problem identification root cause analysis understanding an organization analysis of an organization what are quantitative methods activity sampling data analysis what are qualitative methods workshops focus groups interviews and storytelling qualitative and quantitative methods conducting surveys protocol analysis scenario analysis user role analysis investigating the business problem
+</DOC>
 
-working with stakeholders
+<DOC>working with stakeholders
 as you your way through this focus on the people involved in a business project and how to identify their interests expectations and how much they can influence the project
 what is a stakeholder stakeholder prioritization the importance of effective communication raci matrix and rasci matrix roadmaps and gantt charts the importance of stakeholder engagement risk management and escalations working with stakeholders
+</DOC>
 
-final project and assessment business analysis fundamentals
+<DOC>final project and assessment business analysis fundamentals
 put your into practice reflect on the key learning points that you reviewed during the and complete the final assessment and handson activity
 recap business analysis fundamentals congratulations
 </DOC>
-
 <DOC>
 project delivery in business analysis and capstone project
 how to create a basic project plan laying the groundwork for successful project execution dive into risk management by identifying analyzing and monitoring risks using a raid log explore various software development life cycle sdlc models including waterfall vmodel and agile and gain insights into the scrum framework within the context of agile methodology understand the crucial role of quality management in business projects and discover how to ensure project success through effective quality control measures enhance your in creating a traceability matrix and mapping business requirements to test cases
 after completing this be able to create a basic project plan identify analyze and monitor risks through a raid log identify different sdlc models including waterfall vmodel and agile explain the scrum framework in the context of agile methodology explain the importance of quality management in business project create a traceability matrix mapping business requirements to test case
-
-introduction to project management
+</DOC>
+<DOC>introduction to project management
 essential for project planning and risk management how to create a basic project plan outlining key tasks timelines and resource allocation necessary for successful project execution additionally develop proficiency in identifying analyzing and monitoring risks using a raid risk assumptions issues dependencies log by the end of this be equipped with the tools and techniques needed to effectively plan and manage projects mitigating potential risks and ensuring project success
 introduction introduction to project management project governance roadmaps and gantt charts introduction to risk management identifying risks risk analysis and monitoring managing risk introduction to project management
+</DOC>
 
-software development life cycle
+<DOC>software development life cycle
 explore various software development life cycle sdlc models including waterfall vmodel and agile about the characteristics advantages and disadvantages of each model allowing you to make informed decisions about selecting the most appropriate approach for different projects additionally explore the agile methodology focusing on the scrum framework through this exploration gain a comprehensive understanding of scrum principles roles ceremonies and artifacts enabling you to implement agile practices effectively in your projects by the end of this be equipped with valuable knowledge and insights to navigate different sdlc models and leverage agile methodologies for efficient and collaborative software development
 software development life cycle sdlc models maintaining software agile methodology business analyst process in agile agile development practices agile frameworks managing changes scrum framework business analyst role in scrum user stories throughout scrum sprints and kanban boards software development life cycle
+</DOC>
 
-testing and validation
+<DOC>testing and validation
 explore the significance of quality management in business projects understanding its pivotal role in ensuring successful and customer satisfaction about the various quality management principles techniques and tools used to maintain high standards throughout the project lifecycle additionally how to create a traceability matrix a crucial document that establishes a clear link between business requirements and corresponding test cases by mastering this be able to effectively track and validate that project deliverables meet the specified requirements thus contributing to the overall success and quality of the project through handson exercises and practical examples develop the proficiency needed to implement robust quality management practices and traceability mechanisms in your projects
 quality management systems elements of quality management systems key performance indicators testing in project delivery mapping business requirements in the test process test planning test executing and reporting user acceptance testing golive and signoff risk mitigation through uats traceability matrix testing and validation
+</DOC>
 
-capstone project
+<DOC>capstone project
 be able to consolidate what you have learned by completing a capstone project that simulates realworld business analysis scenarios also complete a final capstone project where through the process of solving a fictional business problem as a business analyst the project will include practicing on a realworld scenario focused on investigation stakeholder management business process improvement forming a business case requirements engineering project delivery and monitoring and solution validation
 recap project delivery in business analysis and capstone project leveraging bing copilot for business analysis use copilot to provide project support using bing copilot for technical support creating document summaries with bing copilot congratulations
 </DOC>
-
 <DOC>
 requirements gathering in business analysis
 this is designed to help you how to create a strong business case by conducting gap analysis capability assessment and impact analysis also discover various techniques to gather requirements from stakeholders and develop the to create clear and concise requirements documentation
 after completing this be able to formulate a business case by conducting a gap analysis capability assessment and impact analysis utilize various techniques for gathering requirements from stakeholders develop clear and concise requirements documentation
-
-forming the business case
+</DOC>
+<DOC>forming the business case
 how to craft a compelling business case essential for guiding strategic decisions discover the process of conducting gap analysis p assessment and impact analysis to justify proposed initiatives effectively review the key components of a business case document including the executive introduction objectives and scope analysis and findings options analysis recommendation financial assessment risk management implementation plan and conclusion these will enable you to make informed decisions and achieve successful in your organizational endeavors
 introduction requirements gathering in business analysis what is a business case asis to tobe business state exploring gap analysis introduction to capability assessments conducting a capability assessment business case documents impact analysis risk analysis forming the business case
+</DOC>
 
-identifying the requirements
+<DOC>identifying the requirements
 to harness diverse techniques for gathering stakeholder requirements effectively additionally be able to distinguish between functional and nonfunctional requirements crucial for comprehensive business analysis
 challenges with requirements gathering scenario analysis visualization critical success factor analysis modeling interviews exploring the requirements engineering framework stages in re framework iteration and increment in re framework functional and nonfunctional requirements invest attributes identifying the requirements
+</DOC>
 
-formalizing the requirements
+<DOC>formalizing the requirements
 to formalize requirements for successful project create clear requirements documentation develop user stories and construct unified modeling language uml diagrams these equip you to streamline requirement formalization and enhance project success
 the importance of requirements documentation requirements catalog requirements validation documenting changes what is a user story epics and user stories product backlogs context diagrams use case diagrams formalizing the requirements
+</DOC>
 
-final project and assessment requirements gathering in business analysis
+<DOC>final project and assessment requirements gathering in business analysis
 put your into practice reflect on the key learning points that you reviewed during the and complete the final assessment and handson activity
 recap requirements gathering in business analysis congratulations
 </DOC>
-
 <DOC>
 data for business analysts using microsoft excel
 how to make use of excel in business scenarios for data analysis also how to utilize formulas and functions for data analysis
 specifically this will help you gain knowledge and for preparing data for analysis using microsoft excel and take you one step closer to becoming a business analyst after completing this be able to identify and explain the steps involved in preparing data for analysis using excel functions use formula and functions for data analysis describe how excel is used in business scenarios for data analysis apply excel to realworld data preparation tasks
-
-excel fundamentals
+</DOC>
+<DOC>excel fundamentals
 this introduces essential excel elements and techniques begininning with the creation and formatting of worksheets it explores the excel features that are useful when viewing large data blocks and explains how to create accurate calculations
 introduction business analysts and microsoft excel introduction to microsoft excel entering and formatting data reading large data blocks sorting and filtering data in excel excel fundamentals
+</DOC>
 
-formula and functions
+<DOC>formula and functions
 this introduces formulas and functions in excel it explores how these are important to data analysis and how these are used in business scenarios
 what is a formula controlling calculations controlling calculations in action what is a function formula and how to write it using the insert function formulas and functions
+</DOC>
 
-preparing data for analysis using functions
+<DOC>preparing data for analysis using functions
 the introduces common functions that help prepare excel data for analysis in tools such as powerbi
 how inconsistent data can affect data analysis why understanding date calculations is important dynamic date and time entries using the if function using nested if and ifs function preparing data for analysis using functions
+</DOC>
 
-working with pivots
+<DOC>working with pivots
 essential in microsoft excel to enhance data manipulation and reporting capabilities discover how to create dynamic data blocks using tables allowing for flexible data organization and analysis additionally how to create pivottables a powerful feature for summarizing and analyzing large datasets efficiently furthermore explore how to leverage pivottables and slicers to create dynamic reports providing insights and visualizations that adapt to changing data inputs these techniques will empower you to efficiently manage and analyze data enhancing your productivity and decisionmaking abilities in excel
 creating tables naming and managing tables modifying tables what is a pivot working with pivottables customizing results using the show values as feature slicers and timelines calculated fields working with pivots
+</DOC>
 
-final project and assessment preparing data for analysis with ms excel
+<DOC>final project and assessment preparing data for analysis with ms excel
 be assessed on the key covered in the
 recap preparing data for analysis with ms excel congratulations
 </DOC>
-
 <DOC>
 data and business process modeling with microsoft visio
 this is designed to equip you with essential in business process and data modeling using microsoft visio throughout this delve into various facets of business analysis and data modeling using microsoft visio learners will create insightful business processes and data models and apply these to enhance your capabilities in business analysis
 after completing this be able to identify and navigate the user interface of microsoft visio explain how to use microsoft visio to create diagrams explain the role of business activity and process modeling in a business analysis context create business process and activity models in microsoft visio explain the role of data modeling in a business analysis context create data models in microsoft visio
-
-introduction to microsoft visio
+</DOC>
+<DOC>introduction to microsoft visio
 explore how microsoft visio empowers business analysts in understanding and visualizing key aspects of a business to capture and present stakeholders ideas using visio effectively discover its versatile features for creating insightful business process flowcharts case diagrams project schedules and flowcharts
 introduction microsoft visio data and business process modelling information visualization introduction to microsoft visio introduction to color theory shapes and connectors formatting aligning and groups optimizing diagrams image selection and performance adding text and hyperlinks to a diagram introduction to microsoft visio
+</DOC>
 
-business activity and process modeling
+<DOC>business activity and process modeling
 explore the core concepts of the business activity model bam business process modeling notation bpmn and flowcharts and have the to apply what you have learned using microsoft visio
 what is a business activity model bam what is a business process service blueprints introduction to business process mapping what is business process modeling and notation bpmn more bpmn diagram types using bpmn in business process improvement decision trees business activity and process modeling
+</DOC>
 
-data modeling
+<DOC>data modeling
 explore the key concepts of data odeling using microsoft visio to create an entityrelationship er diagram data flow diagram and data dictionaries
 entities and relationships what is an entityrelationship er diagram uml notation cardinality what is a data flow diagram dfd logical vs physical dfds what is a data dictionary active and passive data dictionaries data catalogs and data dictionaries data modeling
+</DOC>
 
-final project and assessment business process and data modeling with microsoft visio
+<DOC>final project and assessment business process and data modeling with microsoft visio
 put your into practice reflect on the key learning points that you reviewed during the and complete the final assessment and handson activity
 recap business process and data modeling with microsoft visio congratulations
 </DOC>
-

@@ -9,192 +9,212 @@ the purpose of the capstone project in the success is for you to apply the metho
 project management the basics for success
 this combines the essential elements of project management and team leadership into one through class engagement and reflection acquire further understanding of the responsibilities of leadership and become better prepared to apply this knowledge to the project environment
 upon completing this be able to about the role of high performance teams and leadership in project management about the tools and techniques for developing and strengthening high performance teams and team members about the stages in project cycle apply best practices to develop competencies and in planning and controlling projects to ensure successful how to monitor project activities and assess progress to communicate proficiently to report project status and performance to stakeholders and contribute to organizational knowledge base
-
-foundational project management elements
+</DOC>
+<DOC>foundational project management elements
 
 introduction what is a project scope planning and scheduling stakeholder analysis
+</DOC>
 
-the wbs
+<DOC>the wbs
 
 planning planning and the wbs part planning and the wbs part
+</DOC>
 
-planning and scheduling
+<DOC>planning and scheduling
 reading
 planning and scheduling constructing a schedule
+</DOC>
 
-project leadership teamwork and dealing with difficult people
+<DOC>project leadership teamwork and dealing with difficult people
 
 planning human resources assembling the team leading and managing the team monitoring and controlling closing a project project teamwork part project teamwork part project teamwork part working with difficult people part working with difficult people part working with difficult people part
 </DOC>
-
 <DOC>
 the art of negotiation
 the art of negotiation comes into play daily in the life of employees at all levels and in every position participants explore how current approaches to negotiation strategy and tactics are used what negotiation entails types of negotiation relationships that exist from hard bargain to winwin to fully partnered relationships and personal ones the explores the personal and behavioral characteristics of an effective negotiator participants discuss how empowerment power and authority affect the negotiation process and topics include how important it is to plan and prepare for a negotiation session
 upon completing this be able to about the nature of negotiation and how it differs from selling gain awareness of the basic doctrines of negotiation and barriers to effective negotiation explain the role of authority and how to address it in negotiations explain the role of power in negotiations and how to address power inequities explain the positive and negative influences of empowerment the different stances or negotiation styles negotiators might adopt demonstrate the factors that influence which negotiation style is implemented describe the personal and behavioral characteristics of an effective negotiator demonstrate your grasp of emotional intelligence and how it impacts the effectiveness of a negotiator assess your own values and personal style and how they affect the negotiation process about the critical importance of planning and preparation in the negotiation process
-
-what is negotiation
+</DOC>
+<DOC>what is negotiation
 
 introduction to negotiation what is negotiation
+</DOC>
 
-influencing factors and considerations
+<DOC>influencing factors and considerations
 reading
 factors that influence how a negotiation proceeds negotiation strategy value fairness and successful
+</DOC>
 
-you and your counterparts as negotiators
+<DOC>you and your counterparts as negotiators
 reading peer review
 traits of negotiators behaviors that make a difference behavior traits of successful negotiators
+</DOC>
 
-preparation planning and implementation
+<DOC>preparation planning and implementation
 
 making offers framework agreement best alternative to a negotiated agreement developing options for negotiation best practices of negotiation guest speaker best practices in negotiation in business
 </DOC>
-
 <DOC>
 fundamentals of management
 are you about to enter the workforce are you an emerging are you new to your role in the organization all prospective new employees benefit from understanding management principles roles and responsibilities regardless of position now you can acquire an indepth understanding of the basic concepts and theories of management while exploring the managers operational role in all types of organizations gain insight into the managers responsibility in planning organizing leading staffing and controlling within the workplace its never too soon to plan your path by learning how the best managers manage for success
 upon completing this be able to describe the difference between managers and leaders explore the focus of a managers job cite the required for a new managers success describe the five functions of management explain the new model management operating philosophy describe the hierarchy of planning use the smart goal setting technique discuss the concept of evolution of leadership explain how customer satisfaction is linked to controlling discuss the power of building a network
-
-managers vs leaders
+</DOC>
+<DOC>managers vs leaders
 
 managers and leaders whats the difference the managers role organizational behavior lean the nine wastes change and transition behavior change facilitating change common reactions to change
+</DOC>
 
-for todays manager
+<DOC>for todays manager
 
 essential for todays manager management functions the fundamental business model
+</DOC>
 
-planning
+<DOC>planning
 reading
 organizational planning goal setting the planning process planning tools
+</DOC>
 
-management styles and networking
+<DOC>management styles and networking
 
 more functions of management leadership styles control process networking
 </DOC>
-
 <DOC>
 finance for nonfinancial professionals
 impact your financial decisions and how to affect the performance of your units profitability and of your organization gain a basic understanding of finance and accounting concepts to drive your organizations growth upon completion of this have gained general financial knowledge and an indepth understanding of the impact of your decisions outside your functional area content of the includes selected aspects of finance from a nonfinancial specialist perspective specific topics include financial analysis
 planning forecasting and budgeting
 cash flow and strategic financing this class will be interactive and will require the active involvement of the participants in finance related activities
 upon completing this be able to explain the importance of finance and interpretation of financial information apply the concepts of accounting and finance to analyze financials about key accounting and finance terms examine financial statements by using key ratios explain the importance of budgeting process about key components needed to improve profitability
-
-foundations of finance and accounting
+</DOC>
+<DOC>foundations of finance and accounting
 
 introduction the building blocks of accounting of the finance principles the four financial statements the practice of accounting
+</DOC>
 
-costing
+<DOC>costing
 
 costing methods cost allocation breakeven analysis pricing
+</DOC>
 
-financial ratios
+<DOC>financial ratios
 peer review
 liquidity ratios asset profitability and debt ratios dupont pyramid earnings and dividends
+</DOC>
 
-valuation
+<DOC>valuation
 
 market methods valuation methods npv and irr
 </DOC>
-
 <DOC>
 effective problemsolving and decisionmaking
 problemsolving and effective decisionmaking are essential in todays fastpaced and everchanging workplace both require a systematic yet creative approach to address todays business concerns this will teach an overarching process of how to identify problems to generate potential solutions and how to apply decisionmaking styles in order to implement and assess those solutions through this process gain confidence in assessing problems accurately selecting the appropriate decisionmaking approaches for the situation at hand making team decisions and measuring the success of the solutions implementation using case studies and situations encountered by class members explore proven successful problemsolving and decisionmaking models and methods that can be readily transferred to workplace projects
 upon completing this be able to identify key terms styles and approaches to effective problemsolving and decisionmaking explain both the affordances and limitations associated with problemsolving and decisionmaking reflect on how mindset and personal bias influence your ability to solve problems and make decisions explain and discuss how organizational decisions or nondecisions impact personal development team dynamics and companywide performance articulate how both good and bad team decisions can benefit your growth
-
-identify the problem
+</DOC>
+<DOC>identify the problem
 problemsolving is an essential in todays fastpaced and everchanging workplace it requires a systematic approach that incorporates effective decisionmaking throughout this an overarching process of identifying problems to generate potential solutions then apply decisionmaking styles in order to implement and assess those solutions to identify problems by using a root cause approach as a foundational tool additionally address problem parameters that often occur in business situations throughout this utilize a case scenario that will provide specific examples to illustrate the steps in the problemsolving and decisionmaking process
-
-generate solutions
-in the previous we learned how to identify the root cause of a problem now discuss how mindset and personal bias can potentially limit creativity in solving workplace challenges review problemsolving styles and creativity enhancement approaches to generate a variety of unique solutions while addressing constraints and limited resources
-
-make the decision
-in the previous we learned how to generate a variety of creative solutions now we need to decide which solution is the best option explore which decisionmaking styles lend themselves to best solve the problem given its affordances and limitations tips for making better decisions are outlined as as hazards to avoid
-
-implement and assess the solution
-in the previous we learned how to make the decision given the best information at hand once the decision is made its time to implement and assess the chosen solution as we get ready to implement we are wellserved to review situational variables as elements in the environment may have shifted during the decisionmaking process also need to define the solutions performance metrics and key performance indicators kpis in order to later measure or assess the solutions impact on the organization anecdotal data is equally valuable as it can share the emotional impact on employees
 </DOC>
 
+<DOC>generate solutions
+in the previous we learned how to identify the root cause of a problem now discuss how mindset and personal bias can potentially limit creativity in solving workplace challenges review problemsolving styles and creativity enhancement approaches to generate a variety of unique solutions while addressing constraints and limited resources
+</DOC>
+
+<DOC>make the decision
+in the previous we learned how to generate a variety of creative solutions now we need to decide which solution is the best option explore which decisionmaking styles lend themselves to best solve the problem given its affordances and limitations tips for making better decisions are outlined as as hazards to avoid
+</DOC>
+
+<DOC>implement and assess the solution
+in the previous we learned how to make the decision given the best information at hand once the decision is made its time to implement and assess the chosen solution as we get ready to implement we are wellserved to review situational variables as elements in the environment may have shifted during the decisionmaking process also need to define the solutions performance metrics and key performance indicators kpis in order to later measure or assess the solutions impact on the organization anecdotal data is equally valuable as it can share the emotional impact on employees
+</DOC>
 <DOC>
 smarter not harder time management for personal productivity
 be able to gain and apply your knowledge and understanding of personal and awareness organization and commitment and use the tools methods and techniques that you have learned in goal setting prioritization scheduling and delegation to overcome time management challenges and enhance productivity
 upon completing this be able to to plan effectively to achieve your personal and goals to recognize and overcome barriers to successful time management identify specific time management tools and use them effectively manage resources both effectively and efficiently keep your sense of perspective to prevent and manage crises to delegate effectively to manage expectations and say no when appropriate
-
-
+</DOC>
+<DOC>
 welcome to of smarter not harder this explore the difference between productive and unproductive the importance of prioritizing and basics of time planning also reflect together on some of our past situations and create our own individual plans
 being productive task prioritization
+</DOC>
 
-
+<DOC>
 welcome to of smarter not harder this discuss whether worklife balance is a myth and complete a worklife balance toolkit also reflect on the timemoney tradeoff and consider what tasks we may be able to hand off to others
 time tracking eisenhower matrix
+</DOC>
 
-
+<DOC>
 welcome to of smarter not harder this discuss the importance of timing and how to handle communications share our personal of time management as as journal our energy levels to find when were most productive
 handling communications estimating time
+</DOC>
 
-
+<DOC>
 welcome to the final of smarter not harder this wrap up by exploring focus as a competitive advantage and the idea of multitasking share our takeaways from the and conclude with identifying our most common distractions
 multitasking the myth avoiding distractions
 </DOC>
-
 <DOC>
 communication in the st century workplace
 the workplace is more diverse than ever before as the world population grows and our connectivity increases it is common to alongside colleagues from different generations life cultures genders orientations and religions the increased diversity coupled with the shift toward remote and hybrid environments means its more critical than ever to develop appropriate communication strategies and practices this will teach you to identify and adapt your own communication style to not only increase team productivity but also build bridges with colleagues from all backgrounds
 by the end of this be able to identify your own communication style describe methods to increase effective communication discuss how changing demographics affect workplace communication differentiate between the five working generations and their communication preferences identify the communication benefits of different environments such as inperson virtual or hybrid discuss effective techniques for communicating with a diverse workforce implement a flexing communication strategy to better communicate with ones workplace team
-
-your communication preferences
+</DOC>
+<DOC>your communication preferences
 welcome to communication in the st century workplace communication in the st century is compounded by many changes an increase in the world population an increase in connectivity through technology and advances in science and medicine a strategy to become a more effective communicator changing world is to first understand where your communication style and preferences reside and how you show up in the workplace this first will focus on how you gain your energy how you take in information how you make decisions and how you prefer the pace of your life through our activity reflect on the mbti assessment and strengths of individual styles in our knowledge check define what the four categories of mbti are as as identify methods to increase effective communication
-
-managing communication change drivers
-many factors affect st century workplace communication including technological advances the increase of remotehybrid options as as an increasingly multiethnic and multigenerational workforce explore each of these communication change drivers and focus our discussion on how changing demographics affect workplace communication in our knowledge check differentiate between the five working generations and select the communication benefits of different environments
-
-flexing communication
-landing your message with clarity and impact is a hallmark of effective communication when we tailor our messages to accommodate others styles to meet others where they reside it creates more effective communication that doesnt require clarification flexing your style also supports our ability to collaborate use our discussion to implement a flexing communication strategy to better communicate with ones workplace team in our knowledge check recognize the benefits of flexing communication and recall strategies to improve communication
-
-enhancing communications
-the abide model was created to support effective communication and as a reminder of the elements needed for clear flexible communication and collaboration in the st century the five behaviors overviewed will provide ongoing support and guidance in your workplace communication discussion consider which abide element could improve communication on your current team in our final knowledge check name each element of abide and articulate how the abide model can improve communication
 </DOC>
 
+<DOC>managing communication change drivers
+many factors affect st century workplace communication including technological advances the increase of remotehybrid options as as an increasingly multiethnic and multigenerational workforce explore each of these communication change drivers and focus our discussion on how changing demographics affect workplace communication in our knowledge check differentiate between the five working generations and select the communication benefits of different environments
+</DOC>
+
+<DOC>flexing communication
+landing your message with clarity and impact is a hallmark of effective communication when we tailor our messages to accommodate others styles to meet others where they reside it creates more effective communication that doesnt require clarification flexing your style also supports our ability to collaborate use our discussion to implement a flexing communication strategy to better communicate with ones workplace team in our knowledge check recognize the benefits of flexing communication and recall strategies to improve communication
+</DOC>
+
+<DOC>enhancing communications
+the abide model was created to support effective communication and as a reminder of the elements needed for clear flexible communication and collaboration in the st century the five behaviors overviewed will provide ongoing support and guidance in your workplace communication discussion consider which abide element could improve communication on your current team in our final knowledge check name each element of abide and articulate how the abide model can improve communication
+</DOC>
 <DOC>
 success project
 the purpose of the capstone project in the success is for you to apply the methods and techniques you learned in the series of courses to a personal giving you a way to communicate your value to potential employers focus your communication management negotiation problem solving business writing time management finance entrepreneurship and project management into a single project that demonstrates your readiness
 upon completing this be able to apply the methods techniques and you have learned throughout the to add value every day to your organization by effectively gathering synthesizing analyzing and presenting information develop and hone your critical thinking as you evaluate ideas concepts approaches and assumptions to arrive at a practical yet innovative solution to an organizational problem to skillfully use a powerful strategic planning tool effectively communicate information ideas problems and solutions to seniorlevel decision makers
-
-capstone project
+</DOC>
+<DOC>capstone project
 welcome to the success capstone review the directions for the and begin researching a business to evaluate using the knowledge and acquired throughout the coursework in the success
-
-progress check
-in conduct a swot analysis to better understand and describe the organization its resources and its environment
-
-progress check
-in weeks and use your swot matrix created in to write your swot analysis report select and focus on one specific people or processrelated current problem identified as a weakness or threat through the swot analysis you have conducted facing the organization that would be of personal and interest to you develop a detailed analysis of the problem including affected stakeholders and impact explore options and select and write about a viable solution to the problem
-
-optional project peer feedback
-you have the optional to submit a draft of your project for peer feedback you can also selfevaluate your project draft to see how you would do on the grading rubric and identify areas to improve
-
-final submission and graded peer review
-submit your final capstone project and peer review the projects of classmates
-
-wrapup
-congratulations on making it to the end of the success capstone and make sure you have submitted your final project and completed your required peer reviews before the final deadline
 </DOC>
 
+<DOC>progress check
+in conduct a swot analysis to better understand and describe the organization its resources and its environment
+</DOC>
+
+<DOC>progress check
+in weeks and use your swot matrix created in to write your swot analysis report select and focus on one specific people or processrelated current problem identified as a weakness or threat through the swot analysis you have conducted facing the organization that would be of personal and interest to you develop a detailed analysis of the problem including affected stakeholders and impact explore options and select and write about a viable solution to the problem
+</DOC>
+
+<DOC>optional project peer feedback
+you have the optional to submit a draft of your project for peer feedback you can also selfevaluate your project draft to see how you would do on the grading rubric and identify areas to improve
+</DOC>
+
+<DOC>final submission and graded peer review
+submit your final capstone project and peer review the projects of classmates
+</DOC>
+
+<DOC>wrapup
+congratulations on making it to the end of the success capstone and make sure you have submitted your final project and completed your required peer reviews before the final deadline
+</DOC>
 <DOC>
 highimpact business writing
 effective writing is a powerful tool in the business environment how to articulate your thoughts in a clear and concise manner that will allow your ideas to be better understood by your readers improve your business writing by learning to select and use appropriate formats for your audience use the correct medium and adjust your writing style accordingly as as identify your objective and communicate it clearly also to spot correct and avoid the most common writing pitfalls and gain valuable analyzing writing and revising a wide spectrum of business documents from a simple email to a complete report how to put good business writing to for you
 upon completing this be able to write effective business communications including bad news good news persuasive writing presentations emails memos business reports and press releases how to edit and proofread business documents how to write for a global market
-
-business writing channels and message formats
+</DOC>
+<DOC>business writing channels and message formats
 first of highimpact business writing the necessity and utility of understanding your audience for a business document how to write with clarity and brevity as as how to make appropriate language and word choices for that audience this also addresses the structure and important considerations for the most frequently used document types for business applications
-
-spelling grammar sentence and paragraphs
-is focused on the frequently mistaken or overlooked aspects of impactful writing common spelling errors incorrect word usage and judicious word selection that are important for business writing will be highlighted subjectverb and nounpronoun agreement as as verb tense and common rules of punctuation are reviewed this concludes with some rules of sentence structure and paragraph development to aid in the creation of universally understandable cogent documents
-
-strategies and techniques for common message types
-in we study some of the more common message types positive messages negative messages and persuasive messages each type of message will be characterized and strategies for common forms of documents within each of these message types will be presented and practiced this also includes best practices for email use including when email is the preferred choice creating effective subject lines and pertinent content choices
-
-writing reports virtual communications and finalizing your
-the final of this begins with an of report preparation including structure and content considerations the three forms of review for a document editing revising and proofreading are explained in detail and their purposes explained this also includes some best practices for writing in a virtual and shared virtual environment as as recommendations regarding the visual appeal of documents both on paper and online
 </DOC>
 
+<DOC>spelling grammar sentence and paragraphs
+is focused on the frequently mistaken or overlooked aspects of impactful writing common spelling errors incorrect word usage and judicious word selection that are important for business writing will be highlighted subjectverb and nounpronoun agreement as as verb tense and common rules of punctuation are reviewed this concludes with some rules of sentence structure and paragraph development to aid in the creation of universally understandable cogent documents
+</DOC>
+
+<DOC>strategies and techniques for common message types
+in we study some of the more common message types positive messages negative messages and persuasive messages each type of message will be characterized and strategies for common forms of documents within each of these message types will be presented and practiced this also includes best practices for email use including when email is the preferred choice creating effective subject lines and pertinent content choices
+</DOC>
+
+<DOC>writing reports virtual communications and finalizing your
+the final of this begins with an of report preparation including structure and content considerations the three forms of review for a document editing revising and proofreading are explained in detail and their purposes explained this also includes some best practices for writing in a virtual and shared virtual environment as as recommendations regarding the visual appeal of documents both on paper and online
+</DOC>
 <DOC>
 essentials of entrepreneurship thinking action
 success in business can be greatly enhanced with an understanding of key entrepreneurial characteristics and competencies solutions this interactive provides potential entrepreneurs with the knowledge of succeeding in an entrepreneurial topics include how creativity and feasibility are best evaluated
@@ -202,21 +222,23 @@ business strategies for new businesses
 importance of a business plan
 achieving success in a new business at the end of the students will have the and confidence to evaluate starting a business in addition to becoming more enterprising in how they approach their roles should they decide to in organizations
 upon completing this be able to about the many faces of and contexts for entrepreneurship about the entrepreneurial process and how to manage it about what it takes to be an entrepreneur and your own potential to be one to recognize to generate and assess your own business idea explain the business planning process apply entrepreneurial approaches concepts and methods to your own business idea about the operational issues in developing new business ventures
-
-introduction
+</DOC>
+<DOC>introduction
 
 process of entrepreneurship risk and uncertainty
+</DOC>
 
-feasibility studies
+<DOC>feasibility studies
 reading
 feasibility studies financial equation
+</DOC>
 
-and strategies
+<DOC>and strategies
 reading
 entrepreneurial and tools marketing strategy human resources and operations
+</DOC>
 
-starting a business
+<DOC>starting a business
 
 starting a business accounting systems technology
 </DOC>
-

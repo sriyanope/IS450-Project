@@ -9,88 +9,93 @@ learners will generate many different types of visualizations to explore data fr
 data visualization capstone
 data visualization is a critical for anyone that routinely using quantitative data in his or her which is to say that data visualization is a tool that almost every worker needs today one of the critical tools for data visualization today is the r statistical programming language especially in conjunction with the tidyverse software packages r has become an extremely powerful and flexible platform for making figures tables and reproducible reports however r can be intimidating for first time users and there are so many resources online that it can be difficult to sort through without guidance
 this is the final in the data visualization and dashboarding in r learners will enter with a welldeveloped set of making a wide variety of visualizations in r the focus on this will applying those to a unique project drawing on publicly available data to tell a compelling story using the data visualization toolkit assembled in the previous courses
-
-developing your eye and finding data
+</DOC>
+<DOC>developing your eye and finding data
 review the requirements for the capstone project and some possible souces for data then we have a very fast of resources on good data visualization practice
 welcome to the and project project and tips for locating data data import data viz pointers anscombes quartet and datasaurus more best practices and
-
-cleaning your data
-review the requirements for the second component of your capstone project where demonstrate that your data is ready for visualization then we reintroduce some important tools for cleaning data in r
-strings lubridate factors joins and pivots
-
-making your report
-do one more visualization critique and the rest of your time in the should be devoted to finishing your capstone project
 </DOC>
 
+<DOC>cleaning your data
+review the requirements for the second component of your capstone project where demonstrate that your data is ready for visualization then we reintroduce some important tools for cleaning data in r
+strings lubridate factors joins and pivots
+</DOC>
+
+<DOC>making your report
+do one more visualization critique and the rest of your time in the should be devoted to finishing your capstone project
+</DOC>
 <DOC>
 publishing visualizations in r with shiny and flexdashboard
 data visualization is a critical for anyone that routinely using quantitative data in his or her which is to say that data visualization is a tool that almost every worker needs today one of the critical tools for data visualization today is the r statistical programming language especially in conjunction with the tidyverse software packages r has become an extremely powerful and flexible platform for making figures tables and reproducible reports however r can be intimidating for first time users and there are so many resources online that it can be difficult to sort through without guidance
 this is the fourth in the data visualization and dashboarding in r learners will come to this with a strong background in making visualization in r using ggplot to build on those this covers creating interactive visualization using shiny as as combining different kinds of figures made in r into interactive dashboards
-
-introduction to shiny
+</DOC>
+<DOC>introduction to shiny
 get started using shiny to create interactive visualizations you should begin by watching the introductory in each lesson then carefully review the and reference materials provided once you have done that i recommend watching the again to check your understanding take a few quizzes as you progress through the material to make sure you are keeping up
 introduction getting started with shiny example of a custom shiny app building your own shiny app uploading apps to shinyappsio integrating shiny into r markdown reports
+</DOC>
 
-customizing shiny apps
+<DOC>customizing shiny apps
 go into greater details about laying shiny applications you should begin by watching the introductory in each lesson then carefully review the and reference materials provided once you have done that i recommend watching the again to check your understanding take a few quizzes as you progress through the material to make sure you are keeping up
 input and output with shiny layouts in shiny
+</DOC>
 
-flexdashboard
+<DOC>flexdashboard
 how to use flexdashboard to display visualization in a dashboard format you should begin by watching the introductory in each lesson then carefully review the and reference materials provided once you have done that i recommend watching the again to check your understanding take a few quizzes as you progress through the material to make sure you are keeping up
 making dashboards tabsets and pages in dashboards shiny and plotly in dashboards
 </DOC>
-
 <DOC>
 advanced data visualization with r
 data visualization is a critical for anyone that routinely using quantitative data in his or her which is to say that data visualization is a tool that almost every worker needs today one of the critical tools for data visualization today is the r statistical programming language especially in conjunction with the tidyverse software packages r has become an extremely powerful and flexible platform for making figures tables and reproducible reports however r can be intimidating for first time users and there are so many resources online that it can be difficult to sort through without guidance
 this is the third in the data visualization and dashboarding in r learners come into this with a foundation using r to make many basic kinds of visualization primarily with the ggplot package accordingly this focuses on expanding the learners inventory of data visualization options drawing on additional packages to supplement ggplot learners will made more variants of traditional figures as as venture into spatial data the ends make interactive and animated figures to fill that need this is intended for learners who have little or no with r but who are looking for an introduction to this tool by the end of this students will be able to import data into r manipulate that data using tools from the popular tidyverse package and make simple reports using r markdown the is designed for students with good basic computing but limited if any with programming
-
-advanced figures with ggplot
+</DOC>
+<DOC>advanced figures with ggplot
 through making a number of different figures using ggplot and a few additional r packages you should begin by watching the introductory in each lesson then carefully review the and reference materials provided once you have done that i recommend watching the again to check your understanding take a few quizzes as you progress through the material to make sure you are keeping up
 variations on scatterplots variations on line plots flows and circles
+</DOC>
 
-spatial data
+<DOC>spatial data
 we go through an introduction for making spatial figures maps in r you should begin by watching the introductory in each lesson then carefully review the and reference materials provided once you have done that i recommend watching the again to check your understanding take a few quizzes as you progress through the material to make sure you are keeping up
 introduction to maps choropleths bubble maps simple features maps
+</DOC>
 
-plotly and gganimate
+<DOC>plotly and gganimate
 on animating figures and making them interactive you should begin by watching the introductory in each lesson then carefully review the and reference materials provided once you have done that i recommend watching the again to check your understanding take a few quizzes as you progress through the material to make sure you are keeping up
 gganimate part gganimate part gganimate part ggplotly part ggplotly part
 </DOC>
-
 <DOC>
 getting started with data visualization in r
 data visualization is a critical for anyone that routinely using quantitative data in his or her which is to say that data visualization is a tool that almost every worker needs today one of the critical tools for data visualization today is the r statistical programming language especially in conjunction with the tidyverse software packages r has become an extremely powerful and flexible platform for making figures tables and reproducible reports however r can be intimidating for first time users and there are so many resources online that it can be difficult to sort through without guidance
 to fill that need this is intended for learners who have little or no with r but who are looking for an introduction to this tool by the end of this students will be able to import data into r manipulate that data using tools from the popular tidyverse package and make simple reports using r markdown the is designed for students with good basic computing but limited if any with programming
-
-getting started with data management and visualization with r
+</DOC>
+<DOC>getting started with data management and visualization with r
 get set up with r to process data for visualizations you should begin by watching the introductory in each lesson then carefully review the and reference materials provided once you have done that i recommend watching the again to check your understanding take a few quizzes as you progress through the material to make sure you are keeping up
 introduction to the introduction to r and software installation basic r part basic r part functions in r dataframes basics of importing data into r base r visualizations
+</DOC>
 
-using the tidyverse packages
+<DOC>using the tidyverse packages
 use functions from the tidyverse to manipulate data you should begin by watching the introductory in each lesson then carefully review the and reference materials provided once you have done that i recommend watching the again to check your understanding take a few quizzes as you progress through the material to make sure you are keeping up
 introduction to the tidyverse data import and structure in the tidyverse filtering selecting recoding renaming and piping recoding renaming and calculating columns grouping and summarizing data
+</DOC>
 
-using r markdown to make reports
+<DOC>using r markdown to make reports
 we to make reproducible reports using r markdown you should begin by watching the introductory in each lesson then carefully review the and reference materials provided once you have done that i recommend watching the again to check your understanding take a few quizzes as you progress through the material to make sure you are keeping up then at the end of the submit an for peer review that covers all of the material
 creating reports with r markdown r markdown syntax and tables qplots and closing thoughts
 </DOC>
-
 <DOC>
 data visualization in r with ggplot
 data visualization is a critical for anyone that routinely using quantitative data in his or her which is to say that data visualization is a tool that almost every worker needs today one of the critical tools for data visualization today is the r statistical programming language especially in conjunction with the tidyverse software packages r has become an extremely powerful and flexible platform for making figures tables and reproducible reports however r can be intimidating for first time users and there are so many resources online that it can be difficult to sort through without guidance
 this is the second in a in data visualization offered by johns hopkins it is intended for learners who have either have some with r and data wrangling in the tidyverse or have taken the previous in the the focus learning to use ggplot to make a variety of visualizations and to polish those visualizations using tools within ggplot as as vector graphics editing software the will not go into detail about how the data management works behind the scenes
-
-introduction to the grammar of graphics
+</DOC>
+<DOC>introduction to the grammar of graphics
 get started using ggplot you should begin by watching the introductory in each lesson then carefully review the and reference materials provided once you have done that i recommend watching the again to check your understanding take a few quizzes as you progress through the material to make sure you are keeping up
 welcome to the getting started with ggplot part getting started with ggplot part distributions
+</DOC>
 
-more visualizations with ggplot
+<DOC>more visualizations with ggplot
 continue working with ggplot learning additional types of visualization techniques you should begin by watching the introductory in each lesson then carefully review the and reference materials provided once you have done that i recommend watching the again to check your understanding take a few quizzes as you progress through the material to make sure you are keeping up
 bar plots part bar plots part bar plots part line plots part line plots part learning new figures part learning new figures part
+</DOC>
 
-ggplot graphical elements
+<DOC>ggplot graphical elements
 cover how to refine plots created in ggplot you should begin by watching the introductory in each lesson then carefully review the and reference materials provided once you have done that i recommend watching the again to check your understanding take a few quizzes as you progress through the material to make sure you are keeping up then at the end of the submit an for peer review that covers all of the material
 annotations part annotations part colors legends and themes part colors legends and themes part inkscape part inkscape part
 </DOC>
-

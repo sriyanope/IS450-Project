@@ -13,121 +13,134 @@ finally practice the design and development fundamentals of a workflow automatio
 product management fundamentals
 jumpstart your product management journey with this foundational that lays the groundwork for your in product management grasp the core concepts methodologies and essential that drive successful product development across various industries
 by the end of this be able to describe core product management concepts principles and methodologies develop to coordinate and oversee the development of products manage the endtoend process of product development align product development with business goals and customer needs analyze realworld product development case studies this is for entrylevel professionals looking to start a new as a product manager in a related field such as saas automation or gaming interested learners may be making a switch currently in a related role and wish to transition into a product management role
-
-introduction to product management
+</DOC>
+<DOC>introduction to product management
 by the end of the fundamental concepts and methodologies of product management across various industries understand how these principles adapt to different product contexts and recognize the product managers crucial role in driving business success
 welcome to xbox product manager the product management journey begins a day in the life of a product manager day in the life monty hernandez the product managers impact on the bottom line the product managers set choosing your tools for success the product managers superpowers how to set yourself up for success popular pm frameworks agile vs waterfall
+</DOC>
 
-market research and competitive analysis fundamentals
+<DOC>market research and competitive analysis fundamentals
 by the end of how to conduct effective market research and competitive analysis gather and interpret relevant data and use these insights to make informed product decisions
 unveiling market needs mastering market research techniques the art of competitive analysis translating insights into action designing effective surveys choosing the right tools for the job how product managers use data to drive decisions navigating the sea of information
+</DOC>
 
-product development life cycle
+<DOC>product development life cycle
 by the end of the stages of the product development life cycle understand the activities involved in each stage identify potential challenges and apply project management to navigate the development process successfully
 the product development life cycle exploring the stages of product development minimize risk maximize success crossfunctional collaboration continuous improvement and iteration managing product development tools and techniques navigating challenges with confidence
+</DOC>
 
-product strategy development
+<DOC>product strategy development
 by the end of how to create a compelling product vision and strategy align your product strategy with business goals and develop a clear value proposition that resonates with customers
 the power of a product vision defining a product vision communicating your products unique benefits aligning product strategy with business goals from strategy to execution the art of the value proposition swot analysis explained your products xray vision
+</DOC>
 
-product roadmap and requirements
+<DOC>product roadmap and requirements
 by the end of analyze a product roadmap prioritize its features and to collaborate with stakeholders to ensure the product development aligns with strategic goals and customer needs
 a visual guide to the future product roadmaps best practices and pitfalls balancing strategic value and customer needs from roadmap to requirements navigating product development balancing business goals and customer needs the prioritization puzzle stakeholder management harmonizing diverse perspectives product roadmap best practices for new pms
 </DOC>
-
 <DOC>
 product design and uxui fundamentals
 dive into the world of product design and master the art of creating userfriendly interfaces to collaborate effectively with design teams create wireframes and mockups conduct product testing and iterate on designs based on user feedback
 by the end of this be able to explain the roles of various design team members and the uxui design process apply design thinking and uxui principles to create userfriendly interfaces develop wireframes and mockups using tools like figma conduct product testing analyze feedback and iterate on designs this is for entrylevel professionals looking to start a new as a product manager in a related field such as saas automation or gaming interested learners may be making a switch currently in a related role and wish to transition into a product management role
-
-introduction to product design
+</DOC>
+<DOC>introduction to product design
 this explores the collaborative nature of product design emphasizing the roles of various design team members and effective communication strategies to apply design thinking principles and create basic visual representations to bring your design concepts to life
 introduction to product design the design team symphony how each instrument plays a part a day in the life of a design team the design thinking journey design thinking with figma from idea to sketch wireframing tips and tricks the power of design collaboration
+</DOC>
 
-uxui fundamentals
+<DOC>uxui fundamentals
 this delves into the core principles and processes of uxui design to create userfriendly and interactive interfaces that prioritize usability accessibility and usercentered design
 the heart of usercentric design usability matters accessibility for all putting the user first from idea to interface unveiling user needs from prototyping ideas to interactive prototyping for success guiding the users eye microinteractions heuristic evaluation introduction heuristic evaluation in action insights from a usability testing session unlocking deeper insights
+</DOC>
 
-wireframes and mockup creation
+<DOC>wireframes and mockup creation
 this focuses on developing visual representations of your product designs to create wireframes and mockups utilizing industrystandard tools to communicate your design ideas effectively
 the power of visual communication wireframes and mockups demystified the fidelity spectrum wireframes and mockups in action wireframing fundamentals wireframing for mobile from wireframes to mockups the power of visuals creating mockups with figma design systems communicating design vision choosing the right tool wireframing with figma mockup magic with adobexd
+</DOC>
 
-user stories and product testing techniques
+<DOC>user stories and product testing techniques
 this highlights the importance of usercentric design through user stories and product testing to craft compelling user stories conduct various testing methods and analyze feedback to refine your product designs and ensure a seamless user
 the user at the center user stories beyond the sticky notes from user needs to user stories epics and themes usability testing demystified conducting user interviews remote usability testing from feedback to insights designing and analyzing ab test results user feedback in action the iterative design process the evolution of design measuring success
 </DOC>
-
 <DOC>
 product launch and postlaunch management
 navigate the thrilling journey of product launch with confidence this equips you to plan and execute successful launches foster crossfunctional collaboration and develop impactful marketing and sales strategies plus explore how generative ai can revolutionize every stage of product management from launch to legacy
 by the end of this be able to plan and coordinate a successful product launch develop and implement product marketing and sales strategies apply quality assurance and control techniques manage the product life cycle postlaunch including updates and improvements complete a final project that explains the ability to launch and manage a product this is for entrylevel professionals looking to start a new as a product manager in a related field such as saas automation or gaming interested learners may be making a switch currently in a related role and wish to transition into a product management role
-
-product launch planning
+</DOC>
+<DOC>product launch planning
 the essential steps to plan and coordinate a successful launch ensuring your product makes a grand entrance into the market
 introduction to the launchpad the launch timeline navigating with looker building a launch timeline with trello budgeting for success the launch team breaking down silos collaboration with asana navigating conflicts united we launch the marketing megaphone crafting a compelling message creating engaging social media content for launch
+</DOC>
 
-product marketing and sales strategies
+<DOC>product marketing and sales strategies
 this dives into the dynamic world of product marketing and sales equipping you with the strategies to promote your product effectively and drive conversions
 the marketing symphony digital marketing decoded making an impact in the offline world measuring marketing roi the sales funnel in action nurturing leads and closing sales creating a sales pitch deck handling customer concerns with confidence driving revenue and customer satisfaction from launch to legacy customer feedback loop analyzing user behavior with looker decoding user behavior implementing product improvements based on feedback
+</DOC>
 
-quality assurance and control
+<DOC>quality assurance and control
 explore the critical role of quality assurance and control learning how to implement robust processes to guarantee your product meets and exceeds expectations
 putting your product to the test types of testing user acceptance testing navigating uat results in zephyr scale bug hunting controlling quality risk management in product development using a risk register to prioritize risks developing mitigation strategies empowering quality through control beyond the launch gathering feedback managing customer feedback with productboard issue resolution
+</DOC>
 
-postlaunch management
+<DOC>postlaunch management
 this guides you through the ongoing process of managing your products life cycle including monitoring performance gathering feedback and implementing updates to keep your product thriving in the market
 the ongoing journey of product success tracking kpis with looker focusing on actionable insights navigating the postlaunch landscape listen and feedback channels sentiment analysis with hotjar prioritizing and addressing customer needs closing the loop feedback as fuel the neverending journey charting your products future managing product updates with asana defining done
+</DOC>
 
-performance evaluation and process improvement
+<DOC>performance evaluation and process improvement
 this focuses on evaluating product performance analyzing data and implementing process enhancements to optimize your product development and launch strategies
 beyond the fireworks the postlaunch reality check deep dive into user behavior customer feedback in the postlaunch phase the postlaunch report card data as your guide advanced analytics techniques predictive analytics in action turning insights into action the evolution of excellence embracing flexibility and responsiveness managing product updates with microsoft project balancing user needs and business goals
+</DOC>
 
-application of genai in product management
+<DOC>application of genai in product management
 explore how generative ai can revolutionize product management by enhancing ideation planning marketing sales and even interview preparation empowering you to create innovative products and navigate the evolving job market with confidence
 ai as your copilot unlocking its potential for product innovation brainstorming with copilot gaining deeper insights into customer needs with ai personalization and automation at scale the aipowered product manager the aipowered toolbox ai for product planning generating marketing copy with copilot aipowered sales enablement level up your prep the product management interview resume revamp with ai aipowered mock interviews
 </DOC>
-
 <DOC>
 product strategy and roadmapping
 transform your innovative product ideas into reality with this to generate evaluate and prioritize concepts crafting a compelling product vision and strategy develop detailed roadmaps to guide development define precise requirements and collaborate effectively with stakeholders
 by the end of this be able to generate new product ideas based on market and competitive research develop a highlevel product strategy create a detailed product roadmap outlining objectives milestones and timelines define product requirements complete a final project that demonstrates your ability to develop a product strategy and roadmap this is for entrylevel professionals looking to start a new as a product manager in a related field such as saas automation or gaming interested learners may be making a switch currently in a related role and wish to transition into a product management role
-
-generating product ideas
+</DOC>
+<DOC>generating product ideas
 unleash your creativity and how to generate innovative product ideas that address market needs and based on competitive analysis and market research
 product strategy day in the life pooja kaji uncovering unmet needs the idea factory unleashing creativity from ideas to reality evaluating and prioritizing product ideas prioritizing for success
+</DOC>
 
-developing a product strategy
+<DOC>developing a product strategy
 this lays the groundwork for successful product management by exploring the critical first steps in shaping a products direction to craft a compelling product vision that inspires and guides development set smart objectives that translate that vision into actionable goals and ensure your product strategy aligns seamlessly with broader business objectives
 the north star defining your product vision beyond vague goals the power of smart objectives kpis demystified setting smart objectives in action connecting product strategy to business goals
+</DOC>
 
-creating a product roadmap
+<DOC>creating a product roadmap
 master the art of crafting a visual product roadmap that effectively communicates the products development timeline key milestones and releases how to prioritize features and releases based on their impact on business goals user needs and technical feasibility additionally gain the to estimate the effort and resources required for each feature or release ensuring your roadmap is both realistic and achievable by the end of this be equipped to create compelling roadmaps that guide your products journey align stakeholders and drive successful product development
 introduction to creating a product roadmap the roadmap as a storytelling tool building your first roadmap the prioritization puzzle balancing business user and tech needs prioritization in action a case study estimation estimating with asana a handson demo
+</DOC>
 
-defining product requirements
+<DOC>defining product requirements
 delve into the critical process of defining product requirements how to identify and document both functional and nonfunctional requirements ensuring a clear understanding of what the product needs to do and how it should perform master the art of creating user stories and use cases to capture user needs and expectations effectively additionally explore strategies for collaborating with the development team fostering open communication and ensuring alignment throughout the development process by the end of this possess the to translate user needs into actionable requirements paving the way for successful product development and delivery
 introduction to defining product requirements understanding functional and nonfunctional requirements writing effective requirements user stories in action crafting compelling user stories from requirements to reality agile in action the importance of qa in product development the qa mindset creating a test plan in zephyr scale working with qa teams for optimal results automating qa quality is everyones responsibility
+</DOC>
 
-stakeholder changemanagement essentials
+<DOC>stakeholder changemanagement essentials
 gain a deep understanding of the symbiotic relationship between stakeholder management and change management in the dynamic world of product development to identify and understand key stakeholders their unique perspectives and how to build strong lasting relationships with them also dive into the strategies for effectively communicating and managing expectations throughout the product lifecycle particularly during times of change explore how to anticipate and address resistance foster collaboration and ensure all stakeholders feel heard and valued by mastering these intertwined be equipped to navigate the complexities of product development drive successful and cultivate an environment of trust and support for your product initiatives
 introduction to stakeholder management stakeholder mapping navigating the stakeholder ecosystem change is the only constant keeping stakeholders in the loop stakeholder management tools in action managing conflicting stakeholder expectations negotiation for product managers
 </DOC>
-
 <DOC>
 market research and competitive analysis
 the art of market research and competitive analysis essential for datadriven product decisions to gather and interpret market data understand consumer motivations and dissect the competitive landscape through swot analysis and the jobs to be done framework gain a strategic advantage by identifying and differentiating your product in the market
 by the end of this be able to collect and analyze market data conduct thorough competitive analysis to gain insights into competitors strategies complete a final project that demonstrates your ability to conduct market research and competitive analysis this is for entrylevel professionals looking to start a new as a product manager in a related field such as saas automation or gaming interested learners may be making a switch currently in a related role and wish to transition into a product management role
-
-applying market research for product success
+</DOC>
+<DOC>applying market research for product success
 how to effectively apply market research techniques to make informed product decisions and drive success
 introduction to leveraging market insights your market research toolkit my market research journey the insight funnel storytelling with data from data to action the power of data datadriven decision making as an entry level pm
+</DOC>
 
-consumer behavior and segmentation
+<DOC>consumer behavior and segmentation
 delve into the world of consumer behavior learning to analyze their motivations and segment the market for targeted product strategies
 the consumer journey in minutes visualize the user journey decoding consumer behavior market segmentation segmentation in action bringing personas to life building buyer personas
+</DOC>
 
-competitive analysis techniques
+<DOC>competitive analysis techniques
 become proficient in the art of competitive analysis uncovering key insights about your rivals to gain a strategic advantage
 know the competition competitive research tips stay ahead of the game introduction to swot analysis degree analysis workshop strategic assessment in the real world a strategic snapshot the milkshake dilemma jobs to be done in action a case study jobs to be done tools and templates the competitive landscape creating a market analysis navigating the competitive landscape
 </DOC>
-

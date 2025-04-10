@@ -12,40 +12,40 @@ for this purpose they will have access to trial versions of various programs dev
 natural disaster risk in infrastructure projects
 about the challenges that countries in latin america and the caribbean face in the context of natural disasters and climate change and their consequent impacts on infrastructure projects and socioeconomic development
 the was designed with the aim of enhancing the project teams capacity to proactively manage events that may affect a project thereby increasing its likelihood of success
-
-
+</DOC>
+<DOC>
 about the challenges faced by countries in latin america and the caribbean regarding the risk of natural disasters and climate change along with their consequential impacts on infrastructure projects and economic and social development this was designed with the aim of strengthening project teams capacity to proactively manage events that can affect a project to increase its likelihood of success
+</DOC>
 
-
+<DOC>
 plugin
 disaster risk assessment in infrastructure projects the methodological framework of disaster risk assessment
 </DOC>
-
 <DOC>
 decision making and governance of natural disaster risk
 this will teach you how to manage disaster risks in infrastructure projects about the technical and economic feasibility of projects as as how to prioritize investments using quantitative indicators and their calculation also about the concepts of efficiency and equity and how to incorporate them into risk analysis
 additionally understand the key components of risk governance as as the steps for an informed public investment system this is ideal for individuals interested in risk management project planning and climate change it will also be useful for those working in government nongovernmental organizations or the private sector this is part of a before starting it we recommend taking qualitative and quantitative analysis of disaster risk
-
-
+</DOC>
+<DOC>
 this addresses disaster risk management in infrastructure projects from both technical and economic viability perspectives to prioritize investments it uses quantitative indicators and incorporates concepts of efficiency and equity in the analysis additionally the delves into the governance and operational aspects of risk analysis in infrastructure projects
 technical and economic feasibility concepts efficiency and equity principles costbenefit analysis with risk reduction criteria riskinformed decision making in infrastructure projects
+</DOC>
 
-
+<DOC>
 plugin
 the conceptual framework of disaster risk governance risk assessment methodologies the case of the idb
 </DOC>
-
 <DOC>
 qualitative and quantitative analysis of disaster risk
 this will teach you how to identify and analyze the risks of natural disasters in infrastructure projects about different types of qualitative and quantitative analysis as as the methodologies and tools used to conduct these analyses in order to apply the knowledge review risk models and comprehensive risk management
 interesting practical exercises will be presented that require the installation of specific software from the interamerican development bank to conduct analyses related to the presented contents this is ideal for individuals interested in risk management project planning and climate change it will also be useful for those working in government nongovernmental organizations or the private industry this is part of a before starting we recommend you take natural disaster risk in infrastructure projects
-
-
+</DOC>
+<DOC>
 this addresses the qualitative and quantitative methodology for disaster risk management in infrastructure projects using best practices examples and case studies explore the importance of both types of analysis and the benefits of complementing one with the other depending on the needs of each situation additionally delve into each methodology with recommended tools such as the failure mode identification process fault trees and event trees to capture the complexity of system responses
 qualitative risk analysis key concepts qualitative analysis failure mode classification qualitative disaster risk analysis key concepts stakeholders involved in the qualitative risk analysis choosing the type of analysis to perform case study a flood control infrastructure in the design phase case study b transportation infrastructure roads in the design phase case study c infrastructure for hydropower dam in the operation phase
+</DOC>
 
-
+<DOC>
 plugin
 calculating risk part calculating risk part architecture of a generic risk model risk representation risk assessment future scenario assessment
 </DOC>
-

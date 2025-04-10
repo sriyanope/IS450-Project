@@ -13,116 +13,128 @@ handson with multiple realworld databases and tools including mysql postgressql 
 introduction to relational databases rdbms
 are you ready to dive into the world of data engineering beginner level gain a solid understanding of how data is stored processed and accessed in relational databases rdbmses with different types of databases that are appropriate for various data processing requirements
 begin this by being introduced to relational database concepts as as several industry standard relational databases including ibm db mysql and postgresql next utilize rdbms tools used by professionals such as phpmyadmin and pgadmin for creating and maintaining relational databases also use the command line and sql statements to create and manage tables this incorporates handson practical exercises to help you demonstrate your learning with real databases and explore realworld datasets create database instances and populate them with tables and data at the end of this complete a final where apply your accumulated knowledge from this and demonstrate that you have the to design a database for a specific analytics requirement normalize tables create tables and views in the database load and access data no prior knowledge of databases or programming is required anyone can audit this at nocharge if you choose to take this and earn the coursera you can also earn an ibm digital badge upon successful completion of the
-
-relational database concepts
+</DOC>
+<DOC>relational database concepts
 first about the fundamental aspects of data structures and file formats along with the differences between relational and nonrelational databases explore various types of data models and discuss fundamental concepts in database management additionally explore entityrelationship diagrams erd along with their components and relationships also gain expertise in diverse database topics finally gain a clear understanding of db and postgresql
 introduction review of data fundamentals information and data models erds and types of relationships mapping entities to tables data types relational model concepts database architecture distributed architecture and clustered databases database usage patterns introduction to relational database offerings db mysql postgresql
-
-using relational databases
-explore the types of sql statements like data definition language ddl and data manipulation language dml how to create modify and manage tables using ddl statements and understand data movement utilities for efficient data loading and management additionally dive into key database objects such as schemas primary keys foreign keys and indexes gaining insights into their roles in data organization integrity and retrieval also understand the importance of normalization for reducing redundancy and ensuring data consistency while also understanding various constraints within the relational model to maintain data accuracy and reliability
-types of sql statements ddl vs dml creating tables create table statement alter drop and truncate tables data movement utilities loading data database objects and hierarchy including schemas primary keys and foreign keys of indexes normalization relational model constraints advanced
-
-mysql and postgresql
-about the fundamental aspects of mysql and postgresql and identify relational database management system rdbms tools explore the process of creating databases and tables and the definition of keys constraints and connections in mysql additionally discover important processes in postgresql using command line pgadmin and views moreover gain essential such as database loading techniques and insights into securing sensitive data and streamlining data retrieval
-getting started with mysql creating databases and tables in mysql populating mysql databases and tables using keys and constraints in mysql getting started with postgresql creating databases and loading data in postgresql views
-
-final project and assessment
-navigate the database design process refine your practical and understand essential steps discover the role of entity relationship diagrams erds and get an to engage in a handson database design lab where use your theoretical knowledge to create databases as you progress receive an optional final and project submission stages for those seeking an advanced challenge a final project using db is available a glossary is available for quick reference to key terms used throughout the
 </DOC>
 
+<DOC>using relational databases
+explore the types of sql statements like data definition language ddl and data manipulation language dml how to create modify and manage tables using ddl statements and understand data movement utilities for efficient data loading and management additionally dive into key database objects such as schemas primary keys foreign keys and indexes gaining insights into their roles in data organization integrity and retrieval also understand the importance of normalization for reducing redundancy and ensuring data consistency while also understanding various constraints within the relational model to maintain data accuracy and reliability
+types of sql statements ddl vs dml creating tables create table statement alter drop and truncate tables data movement utilities loading data database objects and hierarchy including schemas primary keys and foreign keys of indexes normalization relational model constraints advanced
+</DOC>
+
+<DOC>mysql and postgresql
+about the fundamental aspects of mysql and postgresql and identify relational database management system rdbms tools explore the process of creating databases and tables and the definition of keys constraints and connections in mysql additionally discover important processes in postgresql using command line pgadmin and views moreover gain essential such as database loading techniques and insights into securing sensitive data and streamlining data retrieval
+getting started with mysql creating databases and tables in mysql populating mysql databases and tables using keys and constraints in mysql getting started with postgresql creating databases and loading data in postgresql views
+</DOC>
+
+<DOC>final project and assessment
+navigate the database design process refine your practical and understand essential steps discover the role of entity relationship diagrams erds and get an to engage in a handson database design lab where use your theoretical knowledge to create databases as you progress receive an optional final and project submission stages for those seeking an advanced challenge a final project using db is available a glossary is available for quick reference to key terms used throughout the
+</DOC>
 <DOC>
 python project for data engineering
 showcase your python data engineering project this short is designed to apply your basic python through the implementation of various techniques for gathering and manipulating data
 take on the role of a data engineer by extracting data from multiple sources and converting the data into specific formats and making it ready for loading into a database for analysis also demonstrate your knowledge of web scraping and utilizing apis to extract data by the end of this handson project have shown your proficiency with important to extract transform and load etl data using an ide and of python programming upon completion of this also have a great new addition to your portfolio prerequisite python for data science ai and development from ibm is a prerequisite for this project please ensure that before taking this you have either completed the python for data science ai and development from ibm or have equivalent proficiency in working with python and data note this is not intended to teach you python and does not have too much new instructional content it is intended for you to mostly apply prior python knowledge
-
-extract transform load etl
+</DOC>
+<DOC>extract transform load etl
 introduces you to extract transform and load operations basics to extract required information from web pages using web scraping techniques and apis also access databases using python and save the processed information as a table in a database
 introduction demo working with an ide extract transform load etl optional web scraping optional rest apis http requests
+</DOC>
 
-final project
+<DOC>final project
 lesson complete two projects one for practice and one for assessment to apply what youve learned these projects have you implement your learned in the previous and the last regarding the extract transform and load process using web scraping and accessing databases using rest apis and python
+</DOC>
 
-optional python coding practices and packaging concepts
+<DOC>optional python coding practices and packaging concepts
 bonus become familiar with the best practices for coding as documented in the python enhancement proposal pep style guide about static code analysis ensuring that your code adheres to the coding rules next how to create and run unit tests finally how to create verify and run python packages
 python style guide and coding practices unit testing packaging
 </DOC>
-
 <DOC>
 introduction to data engineering
 start your journey in one of the fastest growing professions today with this beginnerfriendly data engineering be introduced to the core concepts processes and tools you need to know in order to get a foundational knowledge of data engineering as as the roles that data engineers data scientists and data analysts play in the ecosystem
 begin this by understanding what is data engineering as as the roles that data engineers data scientists and data analysts play exciting field next about the data engineering ecosystem the different types of data structures file formats sources of data and the languages data professionals use in their daytoday tasks become familiar with the components of a data platform and gain an understanding of several different types of data repositories such as relational rdbms and nosql databases data warehouses data marts data lakes and data lakehouses then about big data processing tools like apache hadoop and spark also become familiar with etl elt data pipelines and data integration this provides you with an understanding of a typical data engineering lifecycle which includes architecting data platforms designing data stores and gathering importing wrangling querying and analyzing data also about security governance and compliance about in the field of data engineering and the different paths that you can take for getting skilled as a data engineer hear from several experienced data engineers sharing their insights and advice by the end of this also have completed several handson labs and worked with a relational database loaded data into the database and performed some basic querying operations
-
-what is data engineering
+</DOC>
+<DOC>what is data engineering
 about the different entities that come together to form a modern data ecosystem and the role data engineers data scientists data analysts business analysts and business intelligence analysts play ecosystem what data engineering is and the key tasks in a data engineering lifecycle also gain an understanding of the responsibilities of a data engineer the skillsets they need in order to be successful and what a typical day in the life of a data engineer looks like
 welcome to introduction to data engineering modern data ecosystem key players in the data ecosystem specializations in data engineering what is data engineering viewpoints defining data engineering viewpoints evolution of data engineering responsibilities and skillsets of a data engineer viewpoints and qualities to be a data engineer a day in the life of a data engineer
+</DOC>
 
-the data engineering ecosystem
+<DOC>the data engineering ecosystem
 about the data engineering ecosystem the different types of data structures file formats sources of data and the languages data professionals use in their daytoday tasks gain an understanding of several different types of data repositories such as relational and nonrelational databases data warehouses data marts and data lakes about etl and elt processes data pipelines and data integration platforms also gain an understanding of what big data is and the tools used for processing and storing big data at the end of this be guided to create an ibm cloud account and provision an instance of ibm db
 of the data engineering ecosystem types of data understanding different types of file formats sources of data languages for data professionals viewpoints working with varied data sources and types of data repositories rdbms nosql data warehouses data marts and data lakes optional data lakehouses explained viewpoints considerations for choice of data repository etl elt and data pipelines data integration platforms viewpoints tools databases and data repositories of choice foundations of big data big data processing tools hadoop hdfs hive and spark viewpoints impact of big data on data engineering
+</DOC>
 
-data engineering lifecycle
+<DOC>data engineering lifecycle
 walk you through the data engineering lifecycle about the architecture of a data platform factors for selecting and designing data stores and the different facets of security as it applies to data platforms and data lifecycle management also about the process steps and tools used for gathering importing wrangling and querying data gain an understanding of performance monitoring and the steps you can take to troubleshoot performance issues also talk about governance regulations why we need them and how technology enables compliance to regulations during the of this be guided to load data from a csv file into the ibm db instance you created in the previous also be guided to explore your dataset using some basic sql queries that will be provided to you
 architecting the data platform factors for selecting and designing data stores security viewpoints importance of data security how to gather and import data data wrangling tools for data wrangling querying and analyzing data performance tuning and troubleshooting governance and compliance
+</DOC>
 
-and data engineering in action
+<DOC>and data engineering in action
 about in the field of data engineering and the different paths that you can take for getting skilled as a data engineer at the end of the be presented with the final graded which is divided into two parts the first part of the final includes a couple of quiz questions and the second part includes openended questions that will be reviewed and graded by a peer
 in data engineering viewpoints get into data engineering data engineering learning path viewpoints what do employers look for in a data engineer viewpoints the many paths to data engineering viewpoints advice to aspiring data engineers
 </DOC>
-
 <DOC>
 python for data science ai development
 kickstart your learning of python with this beginnerfriendly selfpaced taught by an expert python is one of the most popular languages in the programming and data science world and demand for individuals who have the ability to apply python has never been higher
 this introduction to python will take you from zero to programming in python in a matter of hoursno prior programming necessary about python basics and the different data types familiarize yourself with python data structures like list and tuples as as logic concepts like conditions and branching use python libraries such as pandas numpy beautiful soup also use python to perform tasks such as data collection and web scraping with apis practice and apply what you through handson labs using jupyter notebooks by the end of this feel comfortable creating basic programs working with data and automating realworld tasks using python this is suitable for anyone who wants to data science data analytics software development data engineering ai and devops as as a number of other job roles
-
-python basics
+</DOC>
+<DOC>python basics
 this teaches the basics of python and begins by exploring some of the different data types such as integers real numbers and strings continue with the and how to use expressions in mathematical operations store values in variables and the many different ways to manipulate strings
 introduction introduction to python getting started with jupyter types expressions and variables string operations
+</DOC>
 
-python data structures
+<DOC>python data structures
 this begins a journey into python data structures by explaining the use of lists and tuples and how they are able to store collections of data in a single variable next about dictionaries and how they function by storing data in pairs of keys and values and end with python sets to how this type of collection can appear in any order and will only contain unique elements
 lists and tuples dictionaries sets
+</DOC>
 
-python programming fundamentals
+<DOC>python programming fundamentals
 this discusses python fundamentals and begins with the concepts of conditions and branching continue through the and how to implement loops to iterate over sequences create functions to perform a specific task perform exception handling to catch errors and how classes are needed to create objects
 conditions and branching loops functions exception handling objects and classes
+</DOC>
 
-working with data in python
+<DOC>working with data in python
 this explains the basics of working with data in python and begins the path with learning how to read and write files continue the and uncover the best python libraries that will aid in data manipulation and mathematical operations
 reading files with open writing files with open pandas loading data pandas working with and saving data one dimensional numpy two dimensional numpy
+</DOC>
 
-apis and data collection
+<DOC>apis and data collection
 this delves into the unique ways to collect data by the use of apis and web scraping it further explores data collection by explaining how to read and collect data when dealing with different file formats
 application interface rest apis http requests part rest apis http requests part optional html for web scraping optional web scraping working with different file formats
 </DOC>
-
 <DOC>
 databases and sql for data science with python
 working knowledge of sql or structured query language is a must for data professionals like data scientists data analysts and data engineers much of the worlds data resides in databases sql is a powerful language used for communicating with and extracting data from databases
 sql inside out from the very basics of select statements to advanced concepts like joins write foundational sql statements like select insert update and delete filter result sets use where count distinct and limit clauses differentiate between dml ddl create alter drop and load tables use string patterns and ranges
 order and group result sets and builtin database functions build subqueries and query data from multiple tables access databases as a data scientist using jupyter notebooks with sql and python with advanced concepts like stored procedures views acid transactions inner outer joins through handson labs and projects practice building sql queries with real databases on the cloud and use real data science tools in the final project analyze multiple realworld datasets to demonstrate your
-
-getting started with sql
+</DOC>
+<DOC>getting started with sql
 be introduced to databases how to use basic sql statements like select insert update and delete also get an understanding of how to refine your query results with the where clause as as using count limit and distinct
 introduction introduction to databases select statement count distinct limit insert statement update and delete statements
+</DOC>
 
-introduction to relational databases and tables
+<DOC>introduction to relational databases and tables
 more about relational database concepts and their importance this helps you to understand the process of creating a table in your database on mysql using the graphical interface and sql scripts further also how to alter the entries or delete the entries for any table in the database or even delete the table itself
 relational database concepts types of sql statements ddl vs dml create table statement alter drop and truncate tables how to create a database instance on cloud
+</DOC>
 
-intermediate sql
+<DOC>intermediate sql
 this helps you how to use string patterns and ranges to search data and how to sort and group data in result sets also practice composing nested queries and execute select statements to access data from multiple tables
 using string patterns and ranges sorting result sets grouping result sets builtin database functions date and time builtin functions subqueries and nested selects working with multiple tables
+</DOC>
 
-accessing databases using python
+<DOC>accessing databases using python
 the basic concepts of using python to connect to databases in a jupyter notebook create tables load data query data using sql magic and sqlite python library also how to analyze data using python
 how to access databases using python writing code using dbapi accessing databases with sql magic analyzing data with python connecting to a database using ibmdb api creating tables loading data and querying data
+</DOC>
 
-
+<DOC>
 be working with multiple realworld datasets for the city of chicago be asked questions that will help you understand the data just as you would in the real world be assessed on the correctness of your sql queries and results
 working with real world datasets getting table and column details
+</DOC>
 
-bonus advanced sql for data engineer honors
+<DOC>bonus advanced sql for data engineer honors
 this covers some advanced sql techniques that will be useful for data engineers how to build more powerful queries with advanced sql techniques like views transactions stored procedures and joins if you are following the data engineering track you must complete this completion of this is not required for those completing the data science or data analyst tracks
 views stored procedures acid transactions join inner join outer joins
 </DOC>
-

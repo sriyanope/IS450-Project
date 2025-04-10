@@ -20,113 +20,123 @@ this incorporates handson labs using our qwiklabs platform these hands on compon
 networking in google cloud network architecture
 welcome to the third of the networking in google cloud series network architecture
 explore the fundamentals of designing efficient and scalable network architectures within google cloud in the first introduction to network architecture start by introducing you to the core components and concepts of network architecture including subnets routes firewalls and load balancing then in the second network topologies dive into various network topologies commonly used in google cloud discussing their strengths and weaknesses
-
-welcome to networking in google cloud
+</DOC>
+<DOC>welcome to networking in google cloud
 welcome to the networking in google cloud routing and addressing
-
-introduction to network architecture
-this covers considerations for designing a google cloud network
-introduction cloud network architecture getting started debrief
-
-network topologies
-this covers the major network topologies used in google cloud network design also how to use the network topology tool to visualize and troubleshoot your network
-introduction hubandspoke topology lab intro implement a hubandspoke network using network connectivity center coursera getting started with google cloud platform and qwiklabs other topologies getting topology data best practices debrief
-
-resources
-student pdf links to all
 </DOC>
 
+<DOC>introduction to network architecture
+this covers considerations for designing a google cloud network
+introduction cloud network architecture getting started debrief
+</DOC>
+
+<DOC>network topologies
+this covers the major network topologies used in google cloud network design also how to use the network topology tool to visualize and troubleshoot your network
+introduction hubandspoke topology lab intro implement a hubandspoke network using network connectivity center coursera getting started with google cloud platform and qwiklabs other topologies getting topology data best practices debrief
+</DOC>
+
+<DOC>resources
+student pdf links to all
+</DOC>
 <DOC>
 networking in google cloud load balancing
 this training builds on the concepts covered in the networking in google cloud fundamentals through presentations demonstrations and labs participants explore and implement cloud load balancing
-
-welcome to networking in google cloud
+</DOC>
+<DOC>welcome to networking in google cloud
 welcome to the networking in google cloud routing and addressing
+</DOC>
 
-hybrid load balancing and traffic management
+<DOC>hybrid load balancing and traffic management
 this covers load balancing between environments inside and outside of google cloud also how to configure traffic controls
 load balancing hybrid load balancing traffic management lab intro configuring traffic management with a load balancer coursera getting started with google cloud platform and qwiklabs debrief
+</DOC>
 
-caching and optimizing load balancing
+<DOC>caching and optimizing load balancing
 this introduces google cloud armor and cloud cdn it also covers caching content near the user and the benefits of using tcpudp load balancers as next hops and load balancer optimization strategies
 internal network load balancers as next hops cloud cdn google cloud armor load balancer optimization strategies debrief
 </DOC>
-
 <DOC>
 networking in google cloud routing and addressing
 welcome to the second in the networking and google cloud series routing and addressing
 cover the central routing and addressing concepts that are relevant to google clouds networking capabilities one will lay the foundation by exploring network routing and addressing in google cloud covering key building blocks such as routing ipv bringing your own ip addresses and setting up cloud dns in two will shift our focus to private connection options exploring use cases and methods for accessing google and other services privately using internal ip addresses by the end of this have a solid grasp of how to effectively route and address your network traffic within google cloud
-
-welcome to networking in google cloud
+</DOC>
+<DOC>welcome to networking in google cloud
 welcome to the networking in google cloud routing and addressing
+</DOC>
 
-network routing and addressing in google cloud
+<DOC>network routing and addressing in google cloud
 explore foundational elements that guide traffic through the google cloud network start with the building blocks routing ipv and byoip also explore cloud dns
 routes and route preferences ipv byoip bring your own ip cloud dns lab intro traffic steering using geolocation coursera getting started with google cloud platform and qwiklabs debrief
+</DOC>
 
-private connection options
+<DOC>private connection options
 discuss some general methods of accessing google and other services privately by using internal ip addresses then cover each of the methods private google access private service connect private services access and cloud nat after that try what you learned in a cloud nat lab exercise
 private access private google access private service connect private services access cloud nat lab intro implement private google access and cloud nat debrief
 </DOC>
-
 <DOC>
 networking in google cloud hybrid and multicloud
 welcome to the sixth in our networking and google cloud series hybrid and multicloud the first will walk you through various cloud connectivity options with a deep dive into cloud interconnect exploring its different types and functionalities in the second cover cloudvpn discussing its implementation high availability vpn topologies and the network connectivity center or ncc for streamline management by the end of this be able to explain the different connectivity options available to extend your on premises and other cloud networks to google cloud and analyze a suitability of different google cloud hybrid and multicloud connectivity services for specific use cases lets get started
-
-welcome to networking in google cloud
+</DOC>
+<DOC>welcome to networking in google cloud
 welcome to the networking in google cloud hybrid and multicloud
+</DOC>
 
-connectivity options
+<DOC>connectivity options
 this provides an introduction to various products that enables connectivity from your onpremises network or from another cloud provider to your vpc network
 introduction connectivity options dedicated interconnect partner interconnect crosscloud interconnect debrief
+</DOC>
 
-cloud vpn
+<DOC>cloud vpn
 this guides you through establishing secure connections between your onpremises network or another cloud environment and google cloud using cloud vpn additionally provide a handson lab on configuring network connectivity center ncc as a central transit hub
 introduction cloud vpn ha vpn topologies influence best path selection network connectivity center coursera getting started with google cloud platform and qwiklabs lab intro configuring network connectivity center as a transit hub debrief
 </DOC>
-
 <DOC>
 networking in google cloud network security
 welcome to the fourth of the networking in google cloud series network security
 dive into the services for safeguarding your google cloud network infrastructure the first distributed denial of service ddos protection covers how to fortify your network against distributed denial of service ddos attacks ensuring uninterrupted availability of your services in the second controlling access to vpc networks the network access control enabling you to define permissions for who can access your resources and how finally in the third advanced security monitoring and analysis explore how to proactively detect and respond to potential threats keeping your google cloud environment secure and resilient by the end of this have a comprehensive understanding of google cloud network security
-
-welcome to networking in google cloud
+</DOC>
+<DOC>welcome to networking in google cloud
 welcome to the networking in google cloud routing and addressing
-
-distributed denial of service ddos protection
-distributed denial of service ddos protection distributed denial of service attacks are a major concern today and can have a huge impact on businesses if the business is not adequately prepared begin with a quick discussion on how ddos attacks and then review some ddos mitigation techniques that are provided by google cloud finish up with a review of complementary partner products and a lab where get a chance to see some ddos mitigations in action
-introduction how ddos attacks google cloud mitigations types of complementary partner products coursera getting started with google cloud platform and qwiklabs lab intro configuring traffic blocklisting with google cloud armor debrief
-
-controlling access to vpc networks
-this covers protecting your google cloud network infrastructure with cloud firewall cloud ids and secure web proxy
-introduction iam roles firewall rules lab intro configuring vpc firewalls cloud ids lab intro getting started with cloud ids secure web proxy debrief
-
-advanced security monitoring and analysis
-this provides an of packet mirroring for enhanced network security how to leverage this tool for traffic inspection threat detection and troubleshooting also cover essential network security best practices and test your knowledge with a quiz
-introduction packet mirroring for network traffic inspection network security best practices debrief
-
-resources
-student pdf links to all
 </DOC>
 
+<DOC>distributed denial of service ddos protection
+distributed denial of service ddos protection distributed denial of service attacks are a major concern today and can have a huge impact on businesses if the business is not adequately prepared begin with a quick discussion on how ddos attacks and then review some ddos mitigation techniques that are provided by google cloud finish up with a review of complementary partner products and a lab where get a chance to see some ddos mitigations in action
+introduction how ddos attacks google cloud mitigations types of complementary partner products coursera getting started with google cloud platform and qwiklabs lab intro configuring traffic blocklisting with google cloud armor debrief
+</DOC>
+
+<DOC>controlling access to vpc networks
+this covers protecting your google cloud network infrastructure with cloud firewall cloud ids and secure web proxy
+introduction iam roles firewall rules lab intro configuring vpc firewalls cloud ids lab intro getting started with cloud ids secure web proxy debrief
+</DOC>
+
+<DOC>advanced security monitoring and analysis
+this provides an of packet mirroring for enhanced network security how to leverage this tool for traffic inspection threat detection and troubleshooting also cover essential network security best practices and test your knowledge with a quiz
+introduction packet mirroring for network traffic inspection network security best practices debrief
+</DOC>
+
+<DOC>resources
+student pdf links to all
+</DOC>
 <DOC>
 networking in google cloud fundamentals
 networking in google cloud is a part series welcome to the first of our six part series networking in google cloud fundamentals
 this provides a comprehensive of core networking concepts including networking fundamentals virtual private clouds vpcs and the sharing of vpc networks additionally the covers network logging and monitoring techniques
-
-welcome to networking in google cloud
+</DOC>
+<DOC>welcome to networking in google cloud
 welcome to the networking in google cloud fundamantals
+</DOC>
 
-vpc networking fundamentals
+<DOC>vpc networking fundamentals
 this reviews some basic vpc networking concepts and also covers multiple network interfaces and network service tiers
 vpc networks multiple network interfaces lab intro working with multiple vpc networks coursera getting started with google cloud platform and qwiklabs network service tiers debrief
+</DOC>
 
-sharing vpc networks
+<DOC>sharing vpc networks
 this covers two configurations for sharing vpc networks across google cloud projects shared vpc and vpc network peering the benefits of each type of configuration and how to choose between them
 vpc network peering shared vpc demo shared vpc shared vpc versus vpc network peering lets ask gemini lab intro configuring vpc network peering migrating a vm between networks debrief
+</DOC>
 
-network monitoring and logging
+<DOC>network monitoring and logging
 this covers network monitoring and logging features that can help you troubleshoot your google cloud network infrastructure
 intro monitoring lab intro resource monitoring logging lab intro analyzing network traffic with vpc flow logs debrief
 </DOC>
-

@@ -8,115 +8,129 @@ bring together all that you have learned in the foundational courses and employ 
 <DOC>
 advanced business strategy
 advance your strategic analysis followup to foundations of business strategy developed at the darden school of business at the university of virginia the tools to analyze strategy across time competitive dynamics industries corporate strategy geographies international strategy and institutions nonmarket strategy topranked faculty will introduce the tools you need to complete a comprehensive evaluation and understand the strategy dynamics of an industry competitive lifecycle internationalization and stakeholder analyses and diversification matrices
-
-dynamic strategy
+</DOC>
+<DOC>dynamic strategy
 studebaker remington sears kodak companies that were leaders in their time but failed to adapt to change explore the impact of disruptive innovations and how companies can navigate these changes evolve over time and avoid the pitfalls of the competitive life cycle by the end of this be able to complete a competitive life cycle analysis lets get started
 introduction to strategy over time the dynamic capabilities perspective introduction to the competitive life cycle competitive life cycle common patterns why incumbent firms fail or survive competitive life cycle analysis lessons strategists toolkit competitive life cycle analysis
+</DOC>
 
-international strategy
+<DOC>international strategy
 welcome industry and firm globalization has taken off in the past few decades firms can realize great gains by moving into foreign markets but they only do so if they act strategically discuss the rise of globalization and explore two primary strategic questions where to compete and how to enter that market consider the pros and cons of strategic options for entering foreign markets by the end of this be able to complete an internationalization analysis
 introduction to international strategy patterns of internationalization where to compete entering foreign markets exporting entering foreign markets licensing and alliances entering foreign markets foreign direct investment foreign direct investment entry mode lessons strategists toolkit internationalization analysis
+</DOC>
 
-diversification strategy
+<DOC>diversification strategy
 corporate strategy is often a question of diversification how can firms leverage their current position across markets to build profits discuss firm scope and the financial operational and strategic reasons to expand and diversify explore the theory of the firmor why firms exist and how this relates to their scope by the end of this be able to develop a diversification matrix
 introduction to competing across industries financial reasons to diversify operational reasons to diversify strategic reasons to diversify why firms exist theory of the firm limits on firm scope the right degree of diversification lessons strategists toolkit diversification matrices
+</DOC>
 
-stakeholder strategy
+<DOC>stakeholder strategy
 how can a firms values add value to the firm stakeholder management is a way of thinking about ethical considerations impacting an organizations strategy discuss how effective business strategy considers the impact of a firms decisions and actions on various stakeholders both primary and secondary and uses that knowledge to guide strategic actions by the end of this be able to complete a stakeholder analysis
 introduction to stakeholder strategy creating value for stakeholders aligning key stakeholders aligning secondary stakeholders sources of institutional pressure value creation and your values lessons strategists toolkit stakeholder analysis
 </DOC>
-
 <DOC>
 business growth strategy
 get the tools you need to analyze evaluate and recommend specific actions organizations can take to grow their value and avoid common growth pitfalls developed at the darden school of business at the university of virginia and taught by topranked faculty to determine how best to build value whether by scaling existing markets entering established markets or creating new markets through innovation and acquisitions
-
-growth through scaling
+</DOC>
+<DOC>growth through scaling
 strategic growth is intentional proactive and consistent with a companys purpose taking advantage of economies of scalegrowing a business by doing more of what its already doingis a conceptually easy but operationally complex approach to business growth the scenario planning tool to identify and evaluate to scale an organization with this tool have an effective means to understand when and where to grow and how to get there
 growth strategy why grow strategy and growth growth alternatives growth risks growth through scaling scenario planning scenario planning step scenario planning steps and scenario planning steps and lessons strategists toolkit scenario planning
+</DOC>
 
-growth through entry
+<DOC>growth through entry
 growth through entrywhether by offering new products in existing markets or offering the same products in new marketsdoesnt happen in isolation multiple firms compete for these markets and so any discussion of growth through entry has to look at the impact of rivalry how to apply game theory to analyze assess and respond to competitors with the payoff matrices tool be able to evaluate options and determine an effective position
 entry and rivalry using game theory to understand rivalry using game theory to understand cooperation identifying potential rivals preentry strategies postentry strategies lessons strategists toolkit payoff matrices
+</DOC>
 
-growth through acquisition
+<DOC>growth through acquisition
 mergers and acquisitions ma are commonbut rarely successfulways firms attempt to grow their business show you the pros and cons of ma suggest valid alternatives and outline effective ma strategies using the acquisitions analysis tool be able to assess the impact of a potential ma and avoid common pitfalls of this type of growth
 growth through acquisition pros and cons of acquisitions pitfalls of growth through acquisition why firms overpay for acquisitions alternatives to acquisition identifying successful acquisition acquisition analysis strategic benefit value of the target avoiding overpaying acquisition analysis costs lessons strategists toolkit acquisition analysis
+</DOC>
 
-growth through innovation
+<DOC>growth through innovation
 introducing new ideas processes and products that disrupt the market is another common growth strategy unlock the keys to innovation from building an innovative capability to appropriating value from innovation to determining an innovation strategy using the real options analysis tool show you how to grow through innovation and good practices for doing so the intel corporate venturing case provides an for you to practice this tool and apply concepts to a realworld scenario
 growing through innovation innovation strategies developing an innovative capability keys to innovation organizing for innovation appropriating value from innovations intellectual property protection complementary assets determining an innovation strategy lessons strategists toolkit real options analysis
 </DOC>
-
 <DOC>
 business strategy in practice projectcentered
 a capstone project is an designed specifically to apply and showcase the you learned in the to this end the business strategy capstone project a comprehensive strategic analysis provides an for you to synthesize concepts and knowledge from the four prerequisite courses in the developed at the darden school of business at the university of virginia be guided through your project by topranked faculty you may continue with the organization you selected for previous or select a new organization for this project analyze the current state of the organization strategic issues facing the organization strategic paths the organization might pursue make a recommendation of the best path for the organization to pursue and write an executive your finished project will serve as an artifact showcasing your ability to conduct research onwithin an organization select and apply the most appropriate analytical tools build a wellsupported case for a specific position and effectively communicate key points with executive leadership
-
-welcome and getting started
+</DOC>
+<DOC>welcome and getting started
 welcome to the business strategy in practice projectcentered and congratulations on completing the four prerequisite courses bring together all that you have learned and employ your toolkit to develop your comprehensive strategic analysis to get started watch our welcome to the business strategy in practice lecture then read our so you get a sense of whats ahead including four milestones to help keep you on track to complete your project within the eight weeks we are excited to watch you put your learning into action good luck hard encourage one another and enjoy
 welcome to business strategy in practice wip milestone strategists toolkit swot analysis strategists toolkit competitor analysis strategists toolkit environmental analysis strategists toolkit five forces analysis strategists toolkit competitive life cycle analysis strategists toolkit stakeholder analysis strategists toolkit capabilities analysis strategists toolkit strategy maps
-
-wip milestone
-welcome to you should continue working on wip milestone so that you are ready to submit your by the end of the good luck and hard thorough research will help you build a solid foundation for your project
-
-wip milestone peer reviews start wip milestone
-welcome to this is buffer allowing time to complete your peer reviews providing as much constructive feedback as possible and then to start working on wip milestone
-
-wip milestone
-welcome to you should continue working on wip milestone so that you are ready to submit your by the end of the good luck and hard need a solid understanding of the different options and strategic paths in order to make your recommendation in the next milestone
-
-wip milestone peer reviews start wip milestone
-welcome to this is another buffer allowing time to complete your peer reviews providing as much constructive feedback as possible and then to start working on wip milestone
-wip milestone strategiststoolkit hypothesis testing strategists toolkit payoff matrices strategists toolkit real options analysis strategists toolkit acquisition analysis strategists toolkit scenario planning
-
-wip milestone
-welcome to you should continue working on wip milestone so that you are ready to submit your by the end of the looking ahead is a busy need to wrap up your peer reviews for wip milestone and then prepare for the final milestone putting the finishing touches on and then submitting your strategic analysis so dont delay get going and hard to meet your deadlines
-
-from wip milestone to the final milestone
-welcome to this is a busy need to wrap up your peer reviews for wip milestone and then prepare for the final milestone submitting your finished project to prepare for the final milestone pull together the you completed for previous milestones write a cogent and concise executive put the finishing touches on your project and then submit it for one final round of peer review we are excited to see your finished projects
-
-finished project peer reviews
-welcome to our final together this is another buffer allowing time to complete your peer reviews while we only require three peer reviews please consider completing an additional review or two to help your peers who might still be waiting for their final grade and additionally we have a discussion for you to share final comments reflections and thoughts on your capstone
 </DOC>
 
+<DOC>wip milestone
+welcome to you should continue working on wip milestone so that you are ready to submit your by the end of the good luck and hard thorough research will help you build a solid foundation for your project
+</DOC>
+
+<DOC>wip milestone peer reviews start wip milestone
+welcome to this is buffer allowing time to complete your peer reviews providing as much constructive feedback as possible and then to start working on wip milestone
+</DOC>
+
+<DOC>wip milestone
+welcome to you should continue working on wip milestone so that you are ready to submit your by the end of the good luck and hard need a solid understanding of the different options and strategic paths in order to make your recommendation in the next milestone
+</DOC>
+
+<DOC>wip milestone peer reviews start wip milestone
+welcome to this is another buffer allowing time to complete your peer reviews providing as much constructive feedback as possible and then to start working on wip milestone
+wip milestone strategiststoolkit hypothesis testing strategists toolkit payoff matrices strategists toolkit real options analysis strategists toolkit acquisition analysis strategists toolkit scenario planning
+</DOC>
+
+<DOC>wip milestone
+welcome to you should continue working on wip milestone so that you are ready to submit your by the end of the looking ahead is a busy need to wrap up your peer reviews for wip milestone and then prepare for the final milestone putting the finishing touches on and then submitting your strategic analysis so dont delay get going and hard to meet your deadlines
+</DOC>
+
+<DOC>from wip milestone to the final milestone
+welcome to this is a busy need to wrap up your peer reviews for wip milestone and then prepare for the final milestone submitting your finished project to prepare for the final milestone pull together the you completed for previous milestones write a cogent and concise executive put the finishing touches on your project and then submit it for one final round of peer review we are excited to see your finished projects
+</DOC>
+
+<DOC>finished project peer reviews
+welcome to our final together this is another buffer allowing time to complete your peer reviews while we only require three peer reviews please consider completing an additional review or two to help your peers who might still be waiting for their final grade and additionally we have a discussion for you to share final comments reflections and thoughts on your capstone
+</DOC>
 <DOC>
 foundations of business strategy
 develop your ability to think strategically analyze the competitive environment and recommend firm positioning and value creation developed at the darden school of business at the university of virginia topranked faculty will help you explore the underlying theory and frameworks that provide the foundations of a successful business strategy and provide the tools you need to understand that strategy swot competitor environmental five forces and capabilities analyses as as strategy maps
-
-introduction to strategic analysis
+</DOC>
+<DOC>introduction to strategic analysis
 welcome to the first in the foundations discuss the meaning and importance of business strategy to an organizations competitive positioning about strategic analysis and the swot competitor and environmental analysis tools have fun building your strategy skillset
 an introduction to strategic analysis strategic analysis the strategists challenge fundamental principle of business strategy competitive markets a little calculus two perspectives on economic rents lessons strategists toolkit swot analysis strategists toolkit competitor analysis strategists toolkit environmental analysis
+</DOC>
 
-analyzing industry structure
+<DOC>analyzing industry structure
 hello and welcome back explore how to assess an industrys structure and how the competitive dynamics in an industry affect profitability go into depth with the five forces tool a common and highly influential analytical framework happy analyzing
 analyzing industry structure threat of entry part threat of entry part threat of substitutes bargaining power of buyers part bargaining power of buyers part bargaining power of suppliers intensity of rivalry lessons strategists toolkit five forces analysis
+</DOC>
 
-analyzing firm capabilities
+<DOC>analyzing firm capabilities
 welcome examine the tangible and intangible assets that form an organizations strength show you in depth how to complete a capabilities analysis and how to use this analysis to guide decision making happy analyzing
 analyzing firm capabilities value chain alignment sustainability imitation sustainability durability building capabilities lessons strategists toolkit capabilities analysis
+</DOC>
 
-determining competitive position
+<DOC>determining competitive position
 welcome to the final in these lessons explore firms competitive positioning relative to rivals and analyze the advantages and disadvantages of four generic competitive positions firms occupy use an easy and intuitive toolstrategy mapsto visually communicate information about firm positioning and discuss which position is best for a particular firm to see maximum value happy analyzing
 determining competitive positioning generic competitive positions part generic competitive positions part mapping competitive positions which position is best lessons strategists toolkit strategy maps
 </DOC>
-
 <DOC>
 strategic planning and execution
 avoid the pitfalls of strategy planning and execution with the tools and from this developed at the darden school of business at the university of virginia and taught by topranked faculty the pillars of strategy executionanalysis formulation and implementationand how to use the a model to effectively approach strategy execution finally a panel of leaders from entrepreneurs nonprofits and industry share their expertise gleaned from years of successful strategy planning and execution
-
-strategy analysis
+</DOC>
+<DOC>strategy analysis
 connect strategic analysis to strategy execution walk through a series of questions to frame your analysis and ground your approach using the strategists toolkitand a new tool hypothesis testing to unearth key assumptions related to choosing a strategy and assessing the validity of those assumptions also review data sources and how to make the data speak to guide your strategy decisions
 introduction to strategic execution strategic analysis strategic analysis steps strategic analysis step strategiststoolkit hypothesis testing strategy research strategy analytics lessons
+</DOC>
 
-strategy formulation
+<DOC>strategy formulation
 about how strategy gets set and implemented in organizations discuss factors key to effective strategy formulationand common challenges and pitfalls of strategy execution explore four different approaches to strategy formulation and how governance ties into effective strategy formulation
 pillars of strategy execution strategy in organizations strategy formulation the strategic war room strategy formulation rapid prototyping strategy formulation design thinking strategy formulation business model canvas corporate governance the human factor common strategy execution mistakes key strategy execution questions lessons
+</DOC>
 
-strategy implementation
+<DOC>strategy implementation
 we welcome professor scott snell to the hes a global specialist in strategy execution and he shares his a model for effective strategy execution alignment ability agility and architecture this framework will help you ensure the human and organizational resources are in place to effectively execute your strategy
 the importance of strategy execution the a model of strategy execution introduction to alignment achieving alignment introduction to ability investing in talent introduction to architecture how architecture drives performance architecture best practices introduction to agility agility through organizational learning agility through unity and fluidity lessons
+</DOC>
 
-practical perspectives
+<DOC>practical perspectives
 we welcome guest speakers from a range of industries from startups to nonprofits to share their expertise from years of successful strategy development and execution theyll communicate their best tips to help you develop your strategists toolkit were also fortunate to be joined by dardens dean scott beardsley whose years with mckinsey informs the concrete tips he shares to improve strategy development and execution
 welcome to our guest speakers shannon smith ceo abundant power byrne murphy digiplex carolyn miles save the children rick edmunds strategy pwc bob hugin celgene rick paschal darden sunil ghatnekar the cocacola company jerry peng tranlin inc dean scott beardsley background dean scott beardsley perspective dean scott beardsley process dean scott beardsley advice conclusion
 </DOC>
-

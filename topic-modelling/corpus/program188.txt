@@ -9,138 +9,153 @@ this was designed to combine the most current business research in digital trans
 introduction to digital transformation part
 this was designed to further your understanding of digital transformation so you can leverage digitization to improve business function performance how to build out your core digital infrastructure with a focus on cloud computing data integrity and digital platforms explore how digitization is transforming various business functions and organization units and how to
 identify the key drivers of and risks inherent in digital transformation and consider the impact of emerging trends by the end of this be able to analyze your industrys digital transformation efforts and recommend new approaches to maximize performance
-
-digital infrastructure
+</DOC>
+<DOC>digital infrastructure
 data is key to digital transformation how to build out your core digital infrastructure a critical component of your digital transformation stack by the end of this be able to explain the impact of cloud computing on business processes consider how to leverage cloud computing to store and share data list requirements for data integrity and security and how to organize the it function to collect and store data efficiently
 digital infrastructure traditional cocacola business model digital cocacola business model cloud computing data integrity digital platforms digital platforms case studies cyber security interview it leadership interview
-
-digital technologies
-change as a constant has never been truer than with digital transformations look at the key drivers of digital transformation they have already established and the challenges they bring then explore emerging trends and technologies what is possiblelikely in the future and currently what were seeing in practice
-introduction digital technologies big data and the shift to the cloud take a guess artificial intelligence and machine learning blockchain data science wisdom of crowds internet of things additive manufacturing
-
-digital business functions
-data and analytics affect every facet of an enterprise in fact digital technologies and infrastructure are transforming the function of virtually every business function from marketing to finance to hr explore the impact of digital technology on a range of business functions see how these functions are being transformed creating new and challenges
-introduction digital business functions digital it digital marketing digital finance digital operations digital communications digital policy digital hr key takeaways digital business functions
-
-business in practice waymo case
-have the to engage in a case study which is a method of teaching popular at many business schools first read an article and how the case based method of learning works and then be able to practice your new on the waymo case written by professor mike lenox
 </DOC>
 
+<DOC>digital technologies
+change as a constant has never been truer than with digital transformations look at the key drivers of digital transformation they have already established and the challenges they bring then explore emerging trends and technologies what is possiblelikely in the future and currently what were seeing in practice
+introduction digital technologies big data and the shift to the cloud take a guess artificial intelligence and machine learning blockchain data science wisdom of crowds internet of things additive manufacturing
+</DOC>
+
+<DOC>digital business functions
+data and analytics affect every facet of an enterprise in fact digital technologies and infrastructure are transforming the function of virtually every business function from marketing to finance to hr explore the impact of digital technology on a range of business functions see how these functions are being transformed creating new and challenges
+introduction digital business functions digital it digital marketing digital finance digital operations digital communications digital policy digital hr key takeaways digital business functions
+</DOC>
+
+<DOC>business in practice waymo case
+have the to engage in a case study which is a method of teaching popular at many business schools first read an article and how the case based method of learning works and then be able to practice your new on the waymo case written by professor mike lenox
+</DOC>
 <DOC>
 the strategists challenge
 develop your ability to think strategically analyze the competitive environment and recommend firm positioning and value creation explore the underlying theory and frameworks that provide the foundations of a successful business strategy and provide the tools you need to understand that strategy including swot competitor environmental five forces and capabilities analyses
-
-the strategists toolkit
+</DOC>
+<DOC>the strategists toolkit
 discuss what we mean by business strategy and why its important to an organizations competitive positioning about the strategic analysis and the swot competitor and environmental analysis tools and then have an to apply two of these tools in the google case study enjoy learning
 an introduction to strategic analysis strategic analysis the strategists challenge fundamental principles of business strategy competitive markets a little calculus two perspectives on economic rents key takeaways strategic analysis strategists toolkit swot analysis strategists toolkit environmental analysis
+</DOC>
 
-analyzing industry structure
+<DOC>analyzing industry structure
 explore how to assess an industrys structure and how the competitive dynamics in an industry affect profitability go into depth with the five forces tool a common and highly influential analytical framework that helps you understand key factors that shape the nature of competition in a specific industry environment get a chance to apply this tool in the redhook case study enjoy analyzing
 analyzing industry structure threat of entry part threat of entry part threat of substitutes bargaining power of buyers part bargaining power of buyers part bargaining power of suppliers intense rivalry key takeaways industry structure strategistss toolkit five forces analysis
+</DOC>
 
-firm capabilties
+<DOC>firm capabilties
 examine the tangible and intangible assets that form an organizations strength show you in depth how to complete a capabilities analysis and how to use this analysis to guide decision making get a chance to apply this tool in the apple case study to clarify the major activities and resources that drive value to apples customers happy analyzing
 analyzing firm capabilities value chain alignment sustainability imitation sustainability durability building capabilities key takeaways firm capabilities strategists toolkit capabilities analysis
+</DOC>
 
-competitive position
+<DOC>competitive position
 explore firms competitive positioning relative to rivals and analyze the advantages and disadvantages of four generic competitive positions firms occupy use the easy and intuitive strategy maps tool to develop an ataglance communication about firm positioning this visual approach will help spark discussion about drivers of positioning and help you determine the best approach for your firm have a chance to deepen your understanding of how to utilize this tool in the piaggio case study
 determining competitiive position generic competitive position part generic competitive position part mapping competitive positions which position is best key takeaways competitive position strategists toolkit strategy maps
 </DOC>
-
 <DOC>
 introduction to data analytics
 ready to start a in data analysis but dont know where to begin this presents you with a gentle introduction to data analysis the role of a data analyst and the tools used job about the and responsibilities of a data analyst and hear from several data experts sharing their tips advice to start a this will help you to differentiate between the roles of data analysts data scientists and data engineers
 familiarize yourself with the data ecosystem alongside databases data warehouses data marts data lakes and data pipelines continue this exciting journey and discover big data platforms such as hadoop hive and spark by the end of this be able to understand the fundamentals of the data analysis process including gathering cleaning analyzing and sharing data and communicating your insights with the use of visualizations and dashboard tools this all comes together in the final project where it will test your knowledge of the material and provide a realworld scenario of data analysis tasks this does not require any prior data analysis spreadsheet or computer science
-
-what is data analytics
+</DOC>
+<DOC>what is data analytics
 about the different types of data analysis and the key steps in a data analysis process gain an understanding of the different components of a modern data ecosystem and the role data engineers data analysts data scientists business analysts and business intelligence analysts play ecosystem also about the role responsibilities and skillsets required to be a data analyst and what a typical day in the life of a data analyst looks like
 introduction modern data ecosystem key players in the data ecosystem defining data analysis viewpoints what is data analytics responsibilities of a data analyst viewpoints qualities and to be a data analyst a day in the life of a data analyst viewpoints applications of data analytics
+</DOC>
 
-the data ecosystem
+<DOC>the data ecosystem
 about the different types of data structures file formats sources of data and the languages data professionals use in their daytoday tasks gain an understanding of various types of data repositories such as databases data warehouses data marts data lakes and data pipelines in addition about the extract transform and load etl process which is used to extract transform and load data into data repositories gain a basic understanding of big data and big data processing tools such as hadoop hadoop distributed file system hdfs hive and spark
 of the data analyst ecosystem types of data understanding different types of file formats sources of data languages for data professionals of data repositories rdbms nosql data marts data lakes etl and data pipelines foundations of big data big data processing tools
+</DOC>
 
-gathering and wrangling data
+<DOC>gathering and wrangling data
 about the process and steps involved in identifying gathering and importing data from disparate sources about the tasks involved in wrangling and cleaning data in order to make it ready for analysis in addition gain an understanding of the different tools that can be used for gathering importing wrangling and cleaning data along with some of their characteristics strengths limitations and applications
 identifying data for analysis data sources how to gather and import data what is data wrangling tools for data wrangling data cleaning viewpoints data preparation and reliability
+</DOC>
 
-mining visualizing data and communicating results
+<DOC>mining visualizing data and communicating results
 about the role of statistical analysis in mining and visualizing data about the various statistical and analytical tools and techniques you can use in order to gain a deeper understanding of your data these tools help you to understand the patterns trends and correlations that exist in data in addition about the various types of data visualizations that can help you communicate and tell a compelling story with your data also gain an understanding of the different tools that can be used for mining and visualizing data along with some of their characteristics strengths limitations and applications
 of statistical analysis what is data mining tools for data mining of communicating and sharing data analysis findings viewpoints storytelling in data analysis introduction to data visualization introduction to visualization and dashboarding software viewpoints visualization tools
+</DOC>
 
-and data analysis in action
+<DOC>and data analysis in action
 about the different in the field of data analysis and the different paths that you can take for getting skilled as a data analyst at the end of the demonstrate your understanding of some of the basic tasks involved in gathering wrangling mining analyzing and visualizing data
 in data analysis viewpoints get into data profession viewpoints what do employers look for in a data analyst the many paths to data analysis viewpoints options for data professionals viewpoints advice for aspiring data analysts viewpoints women in data professions generative ai for data analytics
 </DOC>
-
 <DOC>
 introduction to cloud computing
 start your cloud computing journey with this selfpaced introductory whether you need general cloud computing knowledge for school or business or you are considering a change this beginnerfriendly is right for you
 about essential characteristics of cloud computing and emerging technologies supported by cloud explore cloud service models including infrastructure as a service iaas platform as a service paas software as a service saas and public private and hybrid deployment models discover the offerings of prominent cloud service providers aws google ibm microsoft and others and review cloud computing case studies about cloud adoption blockchain analytics and ai about the many components of cloud computing architecture including datacenters availability zones virtual machines containers and bare metal servers also familiarize yourself with different types of cloud storage options such as object storage gain foundational knowledge of emergent cloud trends and practices including hybrid multicloud microservices serverless devops cloud native application modernization as as about cloud security and monitoring also explore cloud computing job roles and possible paths and complete a number of labs and quizzes throughout this to increase your understanding of content at the end of the complete a final project where deploy an application to cloud using a serverless architecture a valuable addition to your portfolio after this check out the related courses to help you towards your new as a cloud engineer full stack developer devops engineer cybersecurity analyst and others
-
-of cloud computing
+</DOC>
+<DOC>of cloud computing
 in in the first lesson the definition of cloud computing and its five essential characteristics in the next topic about the history and evolution of cloud computing and the benefits of the payasyougo feature of cloud computing the third topic will describe the key considerations benefits and challenges of cloud computing next discuss some common cloud service providers in the second lesson the need for cloud adoption by businesses then discuss some case studies of businesses that benefitted from cloud adoption in the third lesson about emerging technologies like iot ai blockchain and so on that leverage clouds scalability and processing power to provide value to individuals and businesses alike supported by some case studies
 welcome definition and essential characteristics of cloud computing expert viewpoints definition and essential characteristics of cloud computing history and evolution of cloud computing key considerations for cloud computing key cloud service providers and their services cloud adoption no longer a choice expert viewpoints cloud adoption benefits and use cases cloud adoption some case studies internet of things in the cloud artificial intelligence on the cloud blockchain and analytics in the cloud
-
-cloud computing models
-in about the different types of service and deployment models of cloud computing the first lesson covers the three main service models available on the cloudinfrastructureasaservice iaas platformasaservice paas and softwareasaservice saas the differences between each model the advantages of each and the key components of cloud infrastructure the second lesson goes over the four main deployment models available on the cloudpublic private hybrid and community what deployment models are and the differences and advantages of each model at the end of the create an account on ibm cloud
-of cloud service models iaas infrastructure as a service paas platform as a service saas software as a service public cloud private cloud hybrid cloud expert viewpoints cloud computing service and deployment models
-
-components of cloud computing
-in about the various components of a cloud computing architecture such as the virtualization of virtual machines and bare metal servers and the difference between virtual machines and bare metal servers the different types of virtual machines how to build a secure cloud networking presence how containerbased technologies and the benefits of a content delivery network in the second lesson also familiarize you with the four main types of cloud storagedirect attached file block and object storage the differences in how they can be accessed the capacity they offer how much they cost the types of data they are best suited to store and their readwrite speed
-of cloud infrastructure virtualization and virtual machines explained types of virtual machines bare metal servers secure networking in cloud containers expert viewpoints components of cloud computing basics of storage on cloud file storage block storage object storage object storage tiers and apis cdn content delivery networks expert viewpoints cloud storage
-
-emergent trends and practices
-in about the use cases and challenges of emergent trends in cloud computing such as hybrid multicloud serverless computing and microservices additionally this will teach you about the core concepts and benefits of cloud native applications the role of devops in addressing some of the complexities of cloud computing and how organizations can benefit from modernizing their applications
-hybrid multicloud microservices serverless computing cloud native applications devops on the cloud application modernization expert viewpoints cloud native and emergent cloud trends
-
-cloud security monitoring case studies jobs
-in about elements of cloud security including identity and access management and cloud encryption this will cover how organizations leverage cloud monitoring solutions to optimize business benefits it will familiarize you with cloud adoption case studies in different industry verticals and the various and job roles available in the field of cloud computing today
-what is cloud security part what is cloud security part identity and access management cloud encryption cloud monitoring basics and benefits case studies in different industry verticals and job roles in cloud computing expert viewpoints job market for cloud computing
-
-final project and
-complete a final project to deploy a containerized application on the cloud using a serverless technology no programming needed you can also demonstrate your knowledge of cloud computing by completing an optional assessment based on a cloud architecture design case study
 </DOC>
 
+<DOC>cloud computing models
+in about the different types of service and deployment models of cloud computing the first lesson covers the three main service models available on the cloudinfrastructureasaservice iaas platformasaservice paas and softwareasaservice saas the differences between each model the advantages of each and the key components of cloud infrastructure the second lesson goes over the four main deployment models available on the cloudpublic private hybrid and community what deployment models are and the differences and advantages of each model at the end of the create an account on ibm cloud
+of cloud service models iaas infrastructure as a service paas platform as a service saas software as a service public cloud private cloud hybrid cloud expert viewpoints cloud computing service and deployment models
+</DOC>
+
+<DOC>components of cloud computing
+in about the various components of a cloud computing architecture such as the virtualization of virtual machines and bare metal servers and the difference between virtual machines and bare metal servers the different types of virtual machines how to build a secure cloud networking presence how containerbased technologies and the benefits of a content delivery network in the second lesson also familiarize you with the four main types of cloud storagedirect attached file block and object storage the differences in how they can be accessed the capacity they offer how much they cost the types of data they are best suited to store and their readwrite speed
+of cloud infrastructure virtualization and virtual machines explained types of virtual machines bare metal servers secure networking in cloud containers expert viewpoints components of cloud computing basics of storage on cloud file storage block storage object storage object storage tiers and apis cdn content delivery networks expert viewpoints cloud storage
+</DOC>
+
+<DOC>emergent trends and practices
+in about the use cases and challenges of emergent trends in cloud computing such as hybrid multicloud serverless computing and microservices additionally this will teach you about the core concepts and benefits of cloud native applications the role of devops in addressing some of the complexities of cloud computing and how organizations can benefit from modernizing their applications
+hybrid multicloud microservices serverless computing cloud native applications devops on the cloud application modernization expert viewpoints cloud native and emergent cloud trends
+</DOC>
+
+<DOC>cloud security monitoring case studies jobs
+in about elements of cloud security including identity and access management and cloud encryption this will cover how organizations leverage cloud monitoring solutions to optimize business benefits it will familiarize you with cloud adoption case studies in different industry verticals and the various and job roles available in the field of cloud computing today
+what is cloud security part what is cloud security part identity and access management cloud encryption cloud monitoring basics and benefits case studies in different industry verticals and job roles in cloud computing expert viewpoints job market for cloud computing
+</DOC>
+
+<DOC>final project and
+complete a final project to deploy a containerized application on the cloud using a serverless technology no programming needed you can also demonstrate your knowledge of cloud computing by completing an optional assessment based on a cloud architecture design case study
+</DOC>
 <DOC>
 introduction to digital transformation part
 this was designed to introduce the key components of digital transformation so you can understand the drivers and economics of innovation and technological change to create competitive advantage in your own industry the business value of data and how the exponential growth in core technologies such as artificial intelligence and autonomy are impacting the nature of competition also develop an understanding of the digital transformation stack infrastructure technology business functions and strategy and use the framework to map an approach to transforming your business this is idea for anyone whose industry is undergoing a digital transformation and for those who want a deeper understanding of digital transformation so they have the foundational knowledge to help lead digital transformation
-
-the digital revolution
+</DOC>
+<DOC>the digital revolution
 the exponential rate at which technology is evolving creates an imperative for organizations to deconstruct their value chain to gain a competitive advantage class discuss three fundamental laws about how digital information can be processed communicated and stored then look at how the exponential rate of technological change is driving changes in the industry also hear from the executive leadership of pitney bowes about the ongoing adaptation and transformation of their business
 the digital revolution rise of the digital age exponential evolution of technology competing on technology changing basis of competition deconstructing the value chain digital transformation at pitney bowes interview with marc lautenbach interview with lila snyder key takeaways digital revolution
-
-the economics of digital disruption
-disruption is not new and we can from the past how to thrive given the constant disruptions that are the hallmark of the digital age class explore the foundations of digital transformation and the nature of the competitive life cycle look at the underlying economics of innovation and technological change finally explore incumbency and the economics of innovation through the lens of digital transformation
-introduction economics of digital disruption a historical perspective disruption is not new the five domains of digital transformation environmental analysis and the competitive life cycle the competitive life cycle in detail the liability of incumbency the economics of innovation a portfolio view key takeaways economics of digital disruption
-
-the path to digitization
-
-introduction the path to digitization mapping your digital transformation improving judgment creating value leveraging ecosystems driving growth starbucks digital transformation key takeaways path to digitization
-
-additional resources to advance your learning
-reading
 </DOC>
 
+<DOC>the economics of digital disruption
+disruption is not new and we can from the past how to thrive given the constant disruptions that are the hallmark of the digital age class explore the foundations of digital transformation and the nature of the competitive life cycle look at the underlying economics of innovation and technological change finally explore incumbency and the economics of innovation through the lens of digital transformation
+introduction economics of digital disruption a historical perspective disruption is not new the five domains of digital transformation environmental analysis and the competitive life cycle the competitive life cycle in detail the liability of incumbency the economics of innovation a portfolio view key takeaways economics of digital disruption
+</DOC>
+
+<DOC>the path to digitization
+
+introduction the path to digitization mapping your digital transformation improving judgment creating value leveraging ecosystems driving growth starbucks digital transformation key takeaways path to digitization
+</DOC>
+
+<DOC>additional resources to advance your learning
+reading
+</DOC>
 <DOC>
 introduction to artificial intelligence ai
 artificial intelligence ai is all around us seamlessly integrated into our daily lives and enroll to understand the key ai terminology and applications and launch your ai or transform your existing one
 this covers core ai concepts including deep learning machine learning and neural networks examine generative ai models including large language models llms and their capabilities furthermore examine ais application across domains such as natural language processing nlp computer vision and robotics uncovering how these advancements drive innovation and use cases this explores ais transformative impact including generative ai on businesses it also explains how ai can revolutionize your and environment and what it offers finally the explores ai ethics and governance prevalent concerns and issues surrounding the ai landscape the includes handson labs and a project providing an to explore ais use cases and applications also hear from expert practitioners about the capabilities applications and ethical considerations surrounding ai this is suitable for everyone including professionals enthusiasts and students interested in learning the fundamentals of ai
-
-introduction and applications of ai
+</DOC>
+<DOC>introduction and applications of ai
 the definition of ai and the basics of generative ai explore the impact applications and use cases of ai and how it is transforming our lives additionally discover common tools and applications of generative ai about ai agents and smart assistants and their common use cases finally examine how ai is reshaping various industries and sectors
 introduction introducing ai artificial intelligence vs augmented intelligence introducing generative ai and its use cases the evolution of ai traditional ai vs generative ai artificial intelligence are we there yet ai in daily life ai chatbots and smart assistants what is a chatbot applications of ai in different industries generative ai tools and applications ten everyday ai and machine learning use cases
+</DOC>
 
-ai concepts terminology and application domains
+<DOC>ai concepts terminology and application domains
 about the core concepts of ai covering deep learning machine learning and neural networks explore generative ai models including large language models llms and their capabilities additionally explore the development and application of ai in various domains like natural language processing nlp computer vision and robotics discovering how advancements in these areas drive diverse innovations and use cases
 cognitive computing terminologies and related concepts of ai machine learning machine learning techniques and training deep learning neural networks machine learning vs deep learning generative ai models large language models machine learning vs deep learning vs foundation models natural language processing speech and computer vision what is nlp natural language processing self driving cars ai and cloud computing edge computing and iot
+</DOC>
 
-business and transformation through ai
+<DOC>business and transformation through ai
 explore the development of ai in businessrelevant domains including ai agents and robotics discover the transformative impact of ai especially generative ai on business operations about the benefits ai offers to organizations and examine various use cases additionally discover how ai can revolutionize your and environment the also covers in the ai domain examine key considerations for organizations looking to adopt ai and different frameworks and approaches used for ai implementation this includes an indepth look at ibms ai ladder framework
 ai agents what are ai agents robotics and automation transforming businesses through ai the rise of generative ai for business become a value creator with generative ai what is retrievalaugmented generation rag adopting ai in your business frameworks for ai adoption transforming your through ai tools with ai humans vs ai who should make the decision
+</DOC>
 
-issues concerns and ethical considerations
+<DOC>issues concerns and ethical considerations
 this focuses on ai ethics and governance and addresses prevalent concerns and issues surrounding the ai landscape about the fundamental principles of ai ethics and how to implement them the also discusses the specific ethical considerations related to generative ai also how ai ethics are enforced through governance and regulations this includes a final project and a graded quiz to assess your understanding of the concepts
 ethical considerations and responsible use of ai considerations around generative ai why large language models hallucinate perspective of key players around ai ethics the importance of ai governance how to implement ai ethics wrapup
 </DOC>
-

@@ -17,61 +17,66 @@ throughout the learners will be introduced to the concepts of project management
 agile project management
 the goal of this third in the project management examines the philosophy and process of managing projects using agile project management students will the agile philosophy and process including the scrum framework sprints and user stories upon completion of this be able to distinguish between predictive and agile project management methodologies and understand the benefits of delivering value early in an engineering project
 this can be taken for academic credit as part of cu boulders master of engineering in engineering management meem degree offered on the coursera platform the meem is designed to help engineers scientists and technical professionals move into leadership and management roles in the engineering and technical sectors with performancebased admissions and no application process the meem is ideal for individuals with a broad range of undergraduate education andor more about the meem at httpswwwcourseraorgdegreesmeengineeringmanagementboulder logo image courtesy of alex lion available on unsplash at httpsunsplashcomphotosqovxhjorxk
-
-agile project management
+</DOC>
+<DOC>agile project management
 how this is structured and assessed also explore the history of agile project management and how it differs from other project management methodologies explore the values and principles of agile and examine different agile frameworks
 introduction to the agile project management intro what is agile agile values agile principles intro to agile frameworks agile framework venn
+</DOC>
 
-the agile process
+<DOC>the agile process
 the fundamentals of the agile sprint and the scrum process including the roles of teams and the tools they use
 the scrum master the scrum process intro sprint charter daily standup simplicity principle user story points team velocity setting priorities
+</DOC>
 
-the agile organization
+<DOC>the agile organization
 to apply agile values and principles within an organizational context
 the agile organization agile organizational structure
 </DOC>
-
 <DOC>
 project management foundations and initiation
 project management foundations and initiation provides students the foundational knowledge of how engineering projects are managed and initiated project managers are responsible for project scope stakeholder management effective communication and team leadership develop introductory needed to manage traditional engineering projects along with tools needed to engage stakeholders and build diverse teams
 this can be taken for academic credit as part of cu boulders master of engineering in engineering management meem degree offered on the coursera platform the meem is designed to help engineers scientists and technical professionals move into leadership and management roles in the engineering and technical sectors with performancebased admissions and no application process the meem is ideal for individuals with a broad range of undergraduate education andor more about the meem at httpswwwcourseraorgdegreesmeengineeringmanagementboulder logo image courtesy of jehyun sung available on unsplash at httpsunsplashcomphotosuaemqiajgutmsourceemailutmmediumreferralutmcontentphotospageshare
-
-project management and the role of the project manager
+</DOC>
+<DOC>project management and the role of the project manager
 how this is structured and assessed also be introduced to the practice of project management and the role of the project manager
 introduction to the what is project management characteristics of a project responsibilities of the project manager becoming a project management perspective from a project manager the project management process traditional agile and hybrid methods
+</DOC>
 
-starting the project project scope
+<DOC>starting the project project scope
 the processes required to ensure the project is delivered with the specified features and functions also to develop a team charter
 starting the project introduction the project charter project scope project scope management
+</DOC>
 
-managing stakeholders communications
+<DOC>managing stakeholders communications
 the framework for analyzing and communicating with project stakeholders
 managing stakeholders communications communications in project management managing project communications managing stakeholders
+</DOC>
 
-forming leading the project team
+<DOC>forming leading the project team
 the tools used in project resource management also gain a better understanding of what drives team performance and how to lead a highperforming project team
 project resources the project team project resource management resources in a matrix organization intro to the team types of power common motivation theories emotional intelligence trends in global project management
 </DOC>
-
 <DOC>
 project planning and execution
 the goal of this second of the project management is to provide students with necessary to plan and execute traditional engineering projects project managers must plan and manage complex projects constrained by time and budget as part of this determine project schedules budgets and risk assessments at the end of this also be able to identify and explain various quality tools and methods used in project management
 this can be taken for academic credit as part of cu boulders master of engineering in engineering management meem degree offered on the coursera platform the meem is designed to help engineers scientists and technical professionals move into leadership and management roles in the engineering and technical sectors with performancebased admissions and no application process the meem is ideal for individuals with a broad range of undergraduate education andor more about the meem at httpswwwcourseraorgdegreesmeengineeringmanagementboulder logo image courtesy of shane rounce available on unsplash at httpsunsplashcomphotosdnkonxqticutmsourceemailutmmediumreferralutmcontentphotospageshare
-
-project schedule
+</DOC>
+<DOC>project schedule
 how this is structured and assessed also be the introduced to the process of planning and documenting the project schedule also how to estimate the durations of project activities
 welcome to the lifecycle considerations project schedule management define activities sequencing project activities estimating durations schedule constraints and risks network diagram project schedule template
+</DOC>
 
-project budget and procurement
+<DOC>project budget and procurement
 the process of planning and documenting the project budget also how to manage the procurement process including supplier selection and management
 project cost management cost and estimating estimating tools determine project budget managing project procurement procurement the project manager procurement process contracts
+</DOC>
 
-risk planning and management
+<DOC>risk planning and management
 about how to identify analyze and mitigate potential risks to your projects
 project risks project risk management identifying risks qualitative analysis responding to risks monitoring risks
+</DOC>
 
-quality management compliance
+<DOC>quality management compliance
 about the importance of quality in the project as as the steps in closing the project
 project quality management quality characteristics cost of quality controlling change closing the project
 </DOC>
-

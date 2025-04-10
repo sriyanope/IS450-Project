@@ -11,121 +11,134 @@ each of the courses included in the culminates in an experiential project to pre
 conversational selling playbook for sdrs
 this is in the salesforce sales development representative in order to successfully complete the please ensure you have taken groundwork for success in sales development and foundations for interviewing with confidence
 this will dive into the principles of sv academys conversational selling methodology which will optimize you for success be able to integrate these principles not only in the real world but in your additionally be taught sv academys unique approach to objection handling and framework for highquality prospecting in the sales development representative sdr will give you the necessary to launch a in the nontechnical side of the tech industry by the end of the be able to understand the process of asking strategic questions establishing trust identifying pain points and proposing value in efforts to closing a sale identify and empathize with your ideal customer profile icp and target persona to build a highquality lead list efficiently qualify prospects and leverage data to drive activity investigate various outreach channels and generate a call script incorporating conversational selling strategies develop a foundation for emotional intelligence in a sales context and generate an empathetic email generate a multichannel sales strategy to outreach prospects via phone email and social media to be successful you should have an ability to communicate in verbal and written form in a way that is accessible and understandable by a general audience you dont need to be formal or refined baseline computer literacy you must be able to use a word processor web search and email familiarity with social media including linkedin ability and willingness to new technology tools motivation to grow personally and professionally hunger for feedback and coaching successfully completed the previous courses training
-
-the conversational selling methodology
+</DOC>
+<DOC>the conversational selling methodology
 discover the conversational selling methodology sv academys proven sales technique for topperforming salespeople
 conversational selling playbook for sdrs introduction conversational selling playbook for sdrs instructor introduction moise moodie introduction to conversational selling the power of questions building trust and credibility when cold calling achieving results through empathetic listening the golden talk vs listening ratio proposing value and welcoming objections writing a value proposition welcoming objections and triplea responses empathize and challenge responding to objections closing through feedback and next steps review of the conversational selling methodology
+</DOC>
 
-generate leads and narrow your prospect list
+<DOC>generate leads and narrow your prospect list
 uncover concrete strategies for better understanding your customer through research and data
 the ideal customer profile icp target buyers persona working with icps and personas to achieve goals sv academy ambassadors springboarding your tech lead generation list building and research abovetheline prospects asking the right questions introduction to qualification creating an efficient prospect qualification system leveraging data to drive activity introduction to sales economics review of generate leads and narrow your prospect list
+</DOC>
 
-apply conversational selling across multiple channels
+<DOC>apply conversational selling across multiple channels
 explore the role of multiple channels in a winning outreach strategy
 intro to sv academys multichannel mindset sv academy ambassadors leveraging multichannel mindset conducting prospect outreach by phone effective selling by phone with conversational selling how to leave a compelling voicemail conversational selling through written communication pace email prospecting conversational selling through written communication sv academy ambassadors tips for email prospecting sv academy ambassadors tips for email personalization with abovetheline prospects prospect outreach through social sv academy ambassadors engaging prospects on linkedin prospect outreach through sv academy ambassadors tips for prospecting review of apply conversational selling across multiple channels introduction to the mock company peer review instructions and sample
+</DOC>
 
-get results with emotional intelligence
+<DOC>get results with emotional intelligence
 develop emotional intelligence eq to achieve personal and success
 emotional intelligence eq and the sdr role building selfconfidence how to overcome challenges building and sustaining motivation focusing on selfregulation and mindfulness selfregulation and mindfulness strategies for sdrs performing with empathy the importance of empathy in the sdr role review of get results with emotional intelligence peer review instructions and sample
+</DOC>
 
-design a multichannel outreach approach
+<DOC>design a multichannel outreach approach
 how to create a multichannel sales strategy to outreach prospects and cut through the noise
 design a multichannel outreach approach playing the long game the art of the campaign review of design a multichannel outreach approach review conversational selling playbook for sdrs peer review instructions and sampleweek
 </DOC>
-
 <DOC>
 practical guide to navigating relationships
 this is in the salesforce sales development representative in order to successfully complete the please ensure you have taken groundwork for success in sales development foundations for interviewing with confidence conversational selling playbook for sdrs and boosting productivity through the tech stack
 develop power that are often overlooked but can actually determine success in your role as tech industry professionals we often get trained on how to do the technical but not on how to give and receive feedback communicate effectively present ourselves professionally and manage relationships these humancentered make all the difference when you are being considered for a promotion within your company or applying for an exciting role at another company by taking this gain foundational knowledge and to crush it as a topperforming sdr and beyond by the end of the be able to build an empathetic approach to communication that highlights your demeanor produce a message with confidence and clarity in order to achieve results develop a clear understanding for implementing specific written communication styles in varying scenarios cultivate an understanding of diverse opinions and multiple perspectives in the workplace compose a threemonth plan to implement feedback optimize learning and successfully ramp up your to be successful you should have an ability to communicate in verbal and written form in a way that is accessible and understandable by a general audience you dont need to be formal or refined baseline computer literacy you must be able to use a word processor web search and email familiarity with social media including linkedin ability and willingness to new technology tools motivation to grow personally and professionally hunger for feedback and coaching successfully completed the previous courses training
-
-prioritize and empathetic communication
+</DOC>
+<DOC>prioritize and empathetic communication
 create the personal brand of a top performer and how to communicate effectively with managers teammates and customers
 practical guide to navigating relationships introduction instructor introduction introduction to the mock company introduction to professionalism in the startup world creating the personal brand of a top performer speaking to value communicating with your manager communicating effectively with teammates working with your account executive sv academy ambassadors how to crush call blitzes sv academy ambassadors navigating the sdrae relationship sv academy ambassadors excelling as a team lead communicating effectively with prospects and customers review prioritize and empathetic communication
+</DOC>
 
-speak with confidence and clarity
+<DOC>speak with confidence and clarity
 develop concrete strategies for mastering the conversational approach and delivering your message with
 mastering the conversational approach exuding energy and enthusiasm how to introduce yourself driving results through active listening delivering the message with review speak with confidence and clarity
+</DOC>
 
-empathize and challenge in written communication
+<DOC>empathize and challenge in written communication
 best practices for effective business communication including habits to support actionability clarity concision and followthrough
 introduction to the pace framework in business writing pace email prospecting conversational selling through written communication starting with key messages and action items focusing on concision and clarity following up with ease strategies for effective meeting followup for sdrs review empathize and challenge in written communication peer review instructions and sample
+</DOC>
 
-hone your cultural competency in the workplace
+<DOC>hone your cultural competency in the workplace
 deepen your relationships by learning to communicate across differences tap into multiple points of view and cultivate diversity and cultural competency
 getting results through diverse perspectives cultivating diversity and cultural competency part cultivating diversity and cultural competency part tapping into multiple points of view strategies for empathizing with the opposite point of view communicating across differences how to find common language in a team review hone your cultural competency in the workplace peer review instructions and sample
+</DOC>
 
-accelerate learning in the first days of
+<DOC>accelerate learning in the first days of
 set yourself up for success as an sdr by learning what to expect in the first three months on the job
 what to expect in the first months as an sdr sv academy ambassadors springboarding your with effort and enthusiasm sv academy ambassadors building an sdrspecific plan tips for managing and coaching yourself when needed mobilizing your support system strategies for building your support system at what does it mean to be coachable taking risks and optimizing learnings review accelerate learning in the first days of review practical guide to navigating relationships peer review instructions and sample
 </DOC>
-
 <DOC>
 groundwork for success in sales development
 this is in the salesforce sales development representative in order to successfully complete later courses please ensure you have completed this before moving on
 this is here to introduce you to the key role of a sales development representative at a tech company we want you to develop a winning mindset powered by emotional literacy strategic thinking time management and task prioritization also focus on how be managing your physical mental emotional and spiritual wellbeing in both your personal and life in the sales development representative sdr will give you the necessary to launch a in the nontechnical side of the tech industry to confidently articulate the purpose and power of the sdr role in the tech industry effectively select strategies and tools for developing a winning mindset justify strategies for time management and prioritization that yield results in your personal and life compose plans for taking responsibility for your physical mental emotional and spiritual wellbeing within personal and relationships to be successful you should have an ability to communicate in verbal and written form in a way that is accessible and understandable by a general audience you dont need to be formal or refined baseline computer literacy you must be able to use a word processor web search and email familiarity with social media including linkedin ability and willingness to new technology tools motivation to grow personally and professionally hunger for feedback and coaching
-
-break into the world of tech sales
+</DOC>
+<DOC>break into the world of tech sales
 about the evolution of softwareasaservice the purpose of sales development and the daily workflow of a sales development representative sdr
 mark cuban welcomes you to the sv academy sdr the groundwork for success in sales development achieving financial freedom why i hire sdrs i am a hiring manager intro to the sales development representative instructor introduction naomi furukawa saas is the future of tech sv academy ambassadors breaking into saas demystifying sales what is sales development sdr by saas funding stage a day in the life of an sdr introduction to the sdr bdr workflow review of break into the world of tech sales
+</DOC>
 
-adopt the winning mindset
+<DOC>adopt the winning mindset
 discover key concepts to springboard your success including growth mindset grit optimism selfconfidence and feedback
 growth mindset versus fixed mindset the growth mindset an sdrs best friend grit and the importance of embracing failure nearwins gritty sdrs optimism and selfconfidence building selfconfidence how to overcome challenges giving and receiving feedback review of adopt the winning mindset introduction to the mock company peer review instructions and sample
+</DOC>
 
-crush goals through time management and prioritization
+<DOC>crush goals through time management and prioritization
 master time management through goal setting workflow strategies the principle and much more
 developing a metricsorientation getting to the top of the leaderboard what metrics do sdrs track understanding your working style understanding your energy patterns introduction to time management and prioritization introduction to the rule sv academy ambassadors tips on time management habitformation and the importance of habits optimizing your calendar review of crush goals through time management and prioritization peer review instructions and sample
+</DOC>
 
-collaborate in a topperforming team
+<DOC>collaborate in a topperforming team
 explore strategies for balancing collaboration and peak performance in both personal and contexts
 taking full accountability coachability the key to success excelling through collaboration and competition sdr teamwork review of collaborate in a topperforming team review groundwork for success in sales development peer review instructions and sample
 </DOC>
-
 <DOC>
 boosting productivity through the tech stack
 this is in the salesforce sales development representative in order to successfully complete the please ensure you have taken groundwork for success in sales development foundations for interviewing with confidence and conversational selling playbook for sdrs
 this demonstrates how to enhance productivity by implementing tech tools that streamline your sdr workflow be introduced to a variety of bestinclass sales software that will help you achieve the most optimal results every time by the end of the feel confident in formulating bulletproof outreach strategies in order to engage with prospective customers in the sales development representative sdr will give you the necessary to launch a in the nontechnical side of the tech industry by the end of the be able to examine and navigate the tech stack and stay uptodate on the latest tech tools used in the tech sales workforce understand the basic principles of customer relation management crm tools and how to use them effectively as part of your workflow use sales intelligence tools to find prospects and optimize your workflow formulate bulletproof outreach strategies to engage with prospective customers apply the power of social media and to find and connect with prospects to be successful you should have an ability to communicate in verbal and written form in a way that is accessible and understandable by a general audience you dont need to be formal or refined baseline computer literacy you must be able to use a word processor web search and email familiarity with social media including linkedin ability and willingness to new technology tools motivation to grow personally and professionally hunger for feedback and coaching successfully completed the previous courses training
-
-tech tool basics for sales development
+</DOC>
+<DOC>tech tool basics for sales development
 explore how topperforming salespeople leverage tech tools resourcefulness and creative problemsolving to drive results
 boosting productivity through the tech stack introduction instructor introduction turbocharging the sdr workflow through tech integrating tech tools into the sdr workflow tools to boost productivity keeping up with the evolving tech stack becoming savvy and skillful with tech tools review of tech tool basics for sales development
+</DOC>
 
-ground your workflow with salesforce
+<DOC>ground your workflow with salesforce
 discover salesforce a foundational tool for sales development and tech industry professionals
 what is a crm using crm tools like a pro if its not in salesforce it doesnt exist using salesforce with strategy and creativity transforming the sales through ai review of ground your workflow with salesforce
+</DOC>
 
-optimize your workflow with sales intelligence tools
+<DOC>optimize your workflow with sales intelligence tools
 gain practical knowledge of sales intelligence data enrichment and call analysis tools
 introduction to sales intelligence introduction to data enrichment tools using data enrichment tools like a pro introduction to call analysis tools introduction to power dialers introduction to linkedin sales navigator sdr best prospecting practice linkedin prospect list development review of optimize your workflow with sales intelligence tools
+</DOC>
 
-strategize interact and track with sales engagement tools
+<DOC>strategize interact and track with sales engagement tools
 how to leverage engagement tools and generate bulletproof outreach strategies
 introduction to sales engagement using sales engagement tools like a pro review of strategize interact and track with sales engagement tools
+</DOC>
 
-create leverage with social media and prospecting tools
+<DOC>create leverage with social media and prospecting tools
 uncover the power of social media and outreach to enhance humantohuman connection in a sales context
 introduction to social selling tools using social selling tools like a pro concrete strategies for linkedin introduction to linkedin inmail and direct message introduction to prospecting using prospecting tools like a pro review of create leverage with social media and prospecting tools review boosting productivity through the tech stack introduction to the mock company peer review instructions and sample
 </DOC>
-
 <DOC>
 foundations for interviewing with confidence
 this is in the salesforce sales development representative in order to successfully complete the please ensure you have taken groundwork for success in sales development
 the goal of this is to prepare you to build your tech sales portfolio and develop and leverage your personal and brand be primed to ace your interview and leave a lasting impression on your future employer these will get you in the door of a fastgrowing tech company and launch your tech sales in the sales development representative sdr will give you the necessary to launch a in the nontechnical side of the tech industry by the end of the be able to develop an understanding of the tech industry landscape in order to cultivate a long term plan construct an intimate understanding of your audience and express a personal story that is unforgettable formulate a resultsdriven portfolio that showcases your track record and sets you apart from other candidates create a lasting impression through the interview process to be successful you should have an ability to communicate in verbal and written form in a way that is accessible and understandable by a general audience you dont need to be formal or refined baseline computer literacy you must be able to use a word processor web search and email familiarity with social media including linkedin ability and willingness to new technology tools motivation to grow personally and professionally hunger for feedback and coaching successfully completed training
-
-unlock a rewarding
+</DOC>
+<DOC>unlock a rewarding
 about current trends the role of humancentered and the importance of worklife balance in relation to the tech sales industry
 foundations for interviewing with confidence introduction foundations for interviewing with confidence instructor introduction jarek coles the future of current trends in sales and sales development exploring tech sales as a humancentered discipline the importance of empathy in the sdr role orienting yourself to remote introduction to building your network nurturing your network introduction to template tools to track your network review of unlock a rewarding
+</DOC>
 
-build your personal brand
+<DOC>build your personal brand
 build a captivating personal brand that empathizes with your audience and helps you stand out from the crowd
 empathizing with your interviewers interviewing with confidence the art of storytelling standing out from the crowd speaking to your how to avoid sounding scripted tips for creating personal interview rituals review of build your personal brand peer review instructions and sample
+</DOC>
 
-create a powerful portfolio
+<DOC>create a powerful portfolio
 construct a resultsoriented portfolio that exhibits your achievements and transferrable
 introduction to personal branding the sv academy way personal branding for sdrs resume building for sdrs presenting your track record linkedin and photo sharing your story through your online presence review create a powerful portfolio peer review instructions and sample
+</DOC>
 
-become an interview superstar
+<DOC>become an interview superstar
 uncover concrete strategies for preparing quality interview responses that make a lasting impression
 stages of the tech interview process saas interview formats and strategies effective openings and closings to a sales interview how to research a company to get the job ask great questions interviewing with confidence getting started interviewing with confidence a refresher on how to prepare the most common interview questions tell me about yourself the most common interview questions why sales the most common interview questions why this company using the terminology of the role youre interviewing for its more than appreciation the importance of the thankyou email after an interview thankyou emails in an sdr context preparing to be agile in an interview improv in mock calls sv academy ambassadors preparing for interviews sv academy ambassadors excelling at your interviews review of become an interview superstar review foundations for interviewing with confidence peer review instructions and sample
 </DOC>
-

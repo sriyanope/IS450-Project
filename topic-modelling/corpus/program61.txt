@@ -10,136 +10,156 @@ network security
 welcome to of of this network security
 look at computer networking and securing the network in todays world the internet connects nearly everyone and everything and this is accomplished through networking while most see computer networking as a positive criminals routinely use the internet and the networking protocols themselves as weapons and tools to exploit vulnerabilities and for this reason we must do our best to secure the network review the basic components of a network threats and attacks to the network and how to protect them from attackers network security itself can be a specialty within cybersecurity
 however all information security professionals need to understand how networks operate and are exploited to better secure them after completing this chapter the participant will be able to explain the concepts of network security recognize common networking terms and models identify common protocols and ports and their secure counterparts identify types of network cyber threats and attacks discuss common tools used to identify and prevent threats identify common data center terminology recognize common cloud service terminology identify secure network design terminology practice the terminology of and review network security concepts agenda introduction network concepts and models common network threats and attacks network security infrastructure network security review this training is for it professionals changers college students recent college graduates advanced high school students and recent high school graduates looking to start their path toward cybersecurity leadership by taking the certified in cybersecurity entrylevel exam there are no prerequisites to take the training or the exam it is recommended that candidates have basic information technology it knowledge no in cybersecurity or formal education diplomadegree is required
-
-introduction
+</DOC>
+<DOC>introduction
 look at computer networking and securing the network in todays world the internet connects nearly everyone and everything and this is accomplished through networking while most see computer networking as a positive criminals routinely use the internet and the networking protocols themselves as weapons and tools to exploit vulnerabilities and for this reason we must do our best to secure the network review the basic components of a network threats and attacks to the network and how to protect them from attackers network security itself can be a specialty within cybersecurity however all information security professionals need to understand how networks operate and are exploited to better secure them
+</DOC>
 
-network concepts and models
+<DOC>network concepts and models
 throughout this focus on network concepts and models
 what is networking network models comparison layers and physical layer layer network layer layer transport layer layer session layer
+</DOC>
 
-common network threats and attacks
+<DOC>common network threats and attacks
 throughout this focus on common network threats and attacks
 spoofing phishing dos virus worm trojans onpath attack sidechannel attack host intrusion prevention systems
+</DOC>
 
-network security infrastructure
+<DOC>network security infrastructure
 throughout this focus on network security infrastructure
 data center cloud services infrastructure as a service iaas
+</DOC>
 
-network security review
+<DOC>network security review
 this will test your knowledge on what you have learned throughout this
 network security review network security quiz
 </DOC>
-
 <DOC>
 security operations
 welcome to of of this security operations
 this focuses our attention on the daytoday momentbymoment active use of the security controls and risk mitigation strategies that an organization has in place explore ways to secure the data and the systems they reside on and how to encourage secure practices among people who interact with the data and systems during their daily duties after completing this the participant will be able to explain concepts of security operations discuss data handling best practices identify important concepts of logging and monitoring summarize the different types of encryption and their common uses describe the concepts of configuration management explain the application of common security policies discuss the importance of security awareness training practice the terminology of and review the concepts of network operations agenda introduction understanding data security and encryption controls and asset management best practice security policies understand security education training and awareness seta security operations review final assessment this training is for it professionals changers college students recent college graduates advanced high school students and recent high school graduates looking to start their path toward cybersecurity leadership by taking the certified in cybersecurity entrylevel exam there are no prerequisites to take the training or the exam it is recommended that candidates have basic information technology it knowledge no in cybersecurity or formal education diplomadegree is required
-
-introduction
+</DOC>
+<DOC>introduction
 this focuses our attention on the daytoday momentbymoment active use of the security controls and risk mitigation strategies that an organization has in place explore ways to secure the data and the systems they reside on and how to encourage secure practices among people who interact with the data and systems during their daily duties
-
-understanding data security and encryption
-throughout this focus on understanding data security and encryption
-data handling disposition of data encryption symmetric ciphers hashing
-
-controls and asset management
-throughout this focus on controls and asset management
-
-best practice security policies
-throughout this focus on best practice security policies
-say what you do do what you say change management
-
-understand security education training and awareness seta
-throughout this focus on understanding security education training and awareness seta
-
-security operations review
-this will test your knowledge on what you have learned throughout this
-security operations review security operations quiz
-
-final assessment
-
 </DOC>
 
+<DOC>understanding data security and encryption
+throughout this focus on understanding data security and encryption
+data handling disposition of data encryption symmetric ciphers hashing
+</DOC>
+
+<DOC>controls and asset management
+throughout this focus on controls and asset management
+</DOC>
+
+<DOC>best practice security policies
+throughout this focus on best practice security policies
+say what you do do what you say change management
+</DOC>
+
+<DOC>understand security education training and awareness seta
+throughout this focus on understanding security education training and awareness seta
+</DOC>
+
+<DOC>security operations review
+this will test your knowledge on what you have learned throughout this
+security operations review security operations quiz
+</DOC>
+
+<DOC>final assessment
+
+</DOC>
 <DOC>
 incident response bc and dr concepts
 welcome to of of this incident response bc and dr concepts
 this focuses on the availability part of the cia triad and the importance of maintaining availability of both human and system resources these are usually accomplished through the implementation of incident response ir business continuity bc and disaster recovery dr plans while these three plans may seem to overlap in scope they are three distinct plans that are vital to the survival of any organization after completing this the participant will be able to explain how organizations respond to recover from and continue to operate during unplanned disruptions recall the terms and components of incident response summarize the components of a business continuity plan identify the components of disaster recovery practice the terminology of and review incident response business continuity and disaster recovery concepts agenda introduction incident response ir business continuity bc disaster recovery dr incident response business continuity and disaster recovery review this training is for it professionals changers college students recent college graduates advanced high school students and recent high school graduates looking to start their path toward cybersecurity leadership by taking the certified in cybersecurity entrylevel exam there are no prerequisites to take the training or the exam it is recommended that candidates have basic information technology it knowledge no in cybersecurity or formal education diplomadegree is required
-
-introduction
+</DOC>
+<DOC>introduction
 this focuses on the availability part of the cia triad and the importance of maintaining availability of both human and system resources these are usually accomplished through the implementation of incident response ir business continuity bc and disaster recovery dr plans while these three plans may seem to overlap in scope they are three distinct plans that are vital to the survival of any organizationhere are the primary things to remember first the incident response plan responds to unexpected changes in operating conditions to keep the business operating second the business continuity plan enables the business to continue operating throughout the crisis and finally if both the incident response and business continuity plans fail the disaster recovery plan is activated to help the business to return to normal operations as quickly as possible when it comes to a in cybersecurity the daytoday focus is monitoring information systems and looking out for abnormal network activity malicious software and threat actors security professionals spend their days ensuring the confidentiality integrity and availability of systems and data but in addition to safeguarding networks and securing the exchange of data and shared resources its important to realize that cybersecurity goes beyond the technical aspects its scope encompasses the protection of people and their personal information there is nothing more important than the health and safety of our users coworkers and customers
+</DOC>
 
-incident response ir
+<DOC>incident response ir
 throughout this focus on the goal and the individual components of incident response
+</DOC>
 
-business continuity bc
+<DOC>business continuity bc
 throughout this focus on the goal and the individual components of business continuity bc
 business continuity bc the goal of business continuity
+</DOC>
 
-disaster recovery dr
+<DOC>disaster recovery dr
 throughout this focus on the goal and the individual components of disaster recovery dr
 disaster recovery dr disaster recovery in action
+</DOC>
 
-incident response business continuity and disaster recovery review
+<DOC>incident response business continuity and disaster recovery review
 this will test your knowledge on what you have learned throughout this
 incident response business continuity and disaster recovery review incident response business continuity and disaster recovery quiz
 </DOC>
-
 <DOC>
 access control concepts
 welcome to of of this access control concepts
 in we introduced access control concepts now take a more detailed look at the types of access control that every information security should be familiar with discuss both physical and logical controls and how they are combined to strengthen the overall security of an organization this is where we describe who gets access to what why access is necessary and how that access is managed after completing this the participant will be able to select access controls that are appropriate in a given scenario relate access control concepts and processes to given scenarios compare various physical access controls describe logical access controls practice the terminology of access controls and review concepts of access controls agenda introduction key concepts administrative controls physical controls logical controls controls review this training is for it professionals changers college students recent college graduates advanced high school students and recent high school graduates looking to start their path toward cybersecurity leadership by taking the certified in cybersecurity entrylevel exam there are no prerequisites to take the training or the exam it is recommended that candidates have basic information technology it knowledge no in cybersecurity or formal education diplomadegree is required
-
-introduction
+</DOC>
+<DOC>introduction
 take a more detailed look at the types of access control that every information security should be familiar with discuss both physical and logical controls and how they are combined to strengthen the overall security of an organization this is where we describe who gets access to what why access is necessary and how that access is managed
+</DOC>
 
-key concepts
+<DOC>key concepts
 throughout this focus on access control concepts and processes to given scenarios
 what is a control defense in depth user life cycle management
+</DOC>
 
-administrative controls
+<DOC>administrative controls
 throughout this focus on administrative controls
+</DOC>
 
-physical controls
+<DOC>physical controls
 throughout this focus on physical controls
 key concepts security
+</DOC>
 
-logical controls
+<DOC>logical controls
 throughout this focus on logical controls
 logical controls rolebased access control rbac
+</DOC>
 
-controls review
+<DOC>controls review
 this will test your knowledge on what you have learned throughout this
 controls review controls quiz
 </DOC>
-
 <DOC>
 security principles
 welcome to of of this security principles
 after completing this the participant will be able to discuss the foundational concepts of cybersecurity principles recognize foundational security concepts of information assurance define risk management terminology and summarize the process relate risk management to personal or practices classify types of security controls distinguish between policies procedures standards regulations and laws demonstrate the relationship among governance elements analyze appropriate according to the canons of the isc code of ethics when given examples practice the terminology and review security principles agenda introduction information assurance risk management process security controls governance isc code of ethics this training is for it professionals changers college students recent college graduates advanced high school students and recent high school graduates looking to start their path toward cybersecurity leadership by taking the certified in cybersecurity entrylevel exam there are no prerequisites to take the training or the exam it is recommended that candidates have basic information technology it knowledge no in cybersecurity or formal education diplomadegree is required
-
-introduction
+</DOC>
+<DOC>introduction
 after completing this chapter the participant will be able to discuss the foundational concepts of cybersecurity principles recognize foundational security concepts of information assurance define risk management terminology and summarize the process relate risk management to personal or practices classify types of security controls distinguish between policies procedures standards regulations and laws demonstrate the relationship among governance elements analyze appropriate according to the canons of the isc code of ethics when given examples practice the terminology and review security principles
+</DOC>
 
-information assurance
+<DOC>information assurance
 throughout this focus on information assurance
 cia triads identification multifactor authentication or single factor authentication
+</DOC>
 
-risk mitigation process
+<DOC>risk mitigation process
 throughout this focus on the risk mitigation process
 threats vulnerabilities likelihood risk concepts and definitions risk management
+</DOC>
 
-security controls
+<DOC>security controls
 throughout this focus on security controls
+</DOC>
 
-governance
+<DOC>governance
 throughout this focus on governance
+</DOC>
 
-isc code of ethics
+<DOC>isc code of ethics
 throughout this focus on the isc code of ethics
+</DOC>
 
-security principles review
+<DOC>security principles review
 this will test your knowledge on what you have learned throughout this
 chapter review security principles quiz
 </DOC>
-

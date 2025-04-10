@@ -11,134 +11,147 @@ the practice exercises of the consists of exercises mapped to the theory portion
 uipath orchestrator and capstone projects
 uipath orchestrator and capstone projects will provide knowledge about orchestrator and its capabilities further the learning extends through understanding the orchestrator user interface contexts of orchestrator and assets and queues in orchestrator
 the capstone projects will help you integrate and apply the knowledge gained from completing the rpa while working on the projects apply critical thinking to solve challenging automation problems and develop to build robust automation
-
-orchestrator
+</DOC>
+<DOC>orchestrator
 this introduces orchestrator and its capabilities
 welcome introduction to orchestrator orchestrator capabilities demonstrationconnecting a robot to cloud orchestrator demonstrationconnecting a robot to onpremise orchestrator demonstrationpublishing a project to cloud orchestrator demonstrationpublishing a project to onpremise orchestrator
+</DOC>
 
-functionalities of orchestrator
+<DOC>functionalities of orchestrator
 this explains orchestrator user interface contexts of orchestrator and introduces assets and queues in orchestrator
 user interface of cloud orchestrator user interface of onpremise orchestrator demonstrationcreating assets in cloud orchestrator demonstrationcreating assets in onpremise orchestrator demonstrationusing queues in cloud orchestrator demonstrationusing queues in onpremise orchestrator
+</DOC>
 
-capstone project
+<DOC>capstone project
 this comprises capstone projects
 introduction to capstone projects capstone project invoice entry capstone project stock price trend comparison
 </DOC>
-
 <DOC>
 ui automation and selectors
 the ui automation and selectors provides a deep understanding of the different methods used while interacting with the user interface of different applications like excel word crm websites while building automation projects
 it introduces the recording feature and the different recordings available in studio to record user actions and generate workflows it will also provide knowledge about selectors and how they are beneficial while building automation projects the has multiple practice exercises that will help strengthen your knowledge and understand the creation of workflows in studio
-
-ui interactions
+</DOC>
+<DOC>ui interactions
 this gives an introduction of ui interactions and their types
 welcome introduction to ui interactions and its types
+</DOC>
 
-input actions and input methods
+<DOC>input actions and input methods
 this introduces input actions and input methods in studio
 introduction to input actions and methods input methods demonstrationinput methods
+</DOC>
 
-containers
+<DOC>containers
 this gives an introduction to containers and their types
 introduction to containers and their types demonstrationopening a browser
+</DOC>
 
-recording and its types
+<DOC>recording and its types
 this explains the recording feature and the different types of recording in studio
 recording in studio types of recorders recording wizard
+</DOC>
 
-selectors
+<DOC>selectors
 this explains selectors anchors and their types it also provides an of ui explorer and selector editor
 introduction to selectors demonstrationselectors types of selectors selector editor and its properties dynamic selectors demonstrationdebugging selectors using ui explorer introduction to ui explorer introduction to anchors and their properties demonstrationanchors finetuning selectors
 </DOC>
-
 <DOC>
 rpa basics and introduction to uipath
 the rpa basics and introduction to uipath provides knowledge on robotic process automation basic concepts it also introduces you to the uipath platform and its core components the provides a detailed explanation of uipath studio user interface and its features by the end of the be able to build your first automation project in uipath studio
-
-rpa
+</DOC>
+<DOC>rpa
 this gives an of robotic process automation rpa it also describes its benefits along with the industries and business processes bestsuited for it
 welcome introduction to automation story of introduction to robotic process automation benefits of rpa of industries bestsuited for rpa business units bestsuited for rpa attributes of a process bestsuited for rpa
+</DOC>
 
-uipath
+<DOC>uipath
 this provides an of uipath and its products
 about uipath uipath platform uipath platforms core components introduction to robots types of robots
+</DOC>
 
-studio
+<DOC>studio
 this provides detailed information about uipath studio
 introduction to studio introduction to orchestrator demonstrationuipath studio installation demonstration studio user interface
+</DOC>
 
-features of studio
+<DOC>features of studio
 this explains the features of uipath studio
 activities packages demonstrationinstalling activity packages demonstration installing browser extensions demonstration reusing automation library about version control automation debugging demonstrationdebug panel demonstrationhello world automation project
 </DOC>
-
 <DOC>
 data manipulation in rpa
 the data manipulation in rpa will provide knowledge about variables arguments and data manipulation it will also introduce you to variables and arguments their types and their application in automation projects
 in the later part of the about data manipulation in studio also about the different methods and operations performed on different data types and their usage in automation projects building on each concept there will be demonstration that will explain these operations and methods the has multiple practice exercises that will help strengthen your knowledge and understand the creation of workflows in studio
-
-introduction to variables
+</DOC>
+<DOC>introduction to variables
 this introduces variables and their types in uipath also about the scope of a variable inside a workflow
 welcome introduction to variables and their properties types of variables in studio introduction to variables panel and managing variables introduction to scope of a variable demonstrationcreating variables
+</DOC>
 
-introduction to arguments
+<DOC>introduction to arguments
 this introduces arguments their directions and properties also the use of arguments panel to manage arguments
 introduction to arguments and their properties managing arguments through arguments panel introduction to argument directions demonstrationcreating and initializing arguments
+</DOC>
 
-data manipulation and its importance
+<DOC>data manipulation and its importance
 this introduces data manipulation and describes its importance in automation also the different methods and operations used in studio to manipulate and convert data
 introduction to data manipulation and conversion demonstrationdata conversion
+</DOC>
 
-string and datatable manipulation
+<DOC>string and datatable manipulation
 the methods and techniques for string and datatable manipulation in studio
 string and datatable manipulation demonstrationstring manipulation introduction to regex in studio demonstrationusing regex builder introduction to datatables and creating datatables demonstrationbuilding a datatable demonstrationsorting a datatable
+</DOC>
 
-collection its types and manipulation
+<DOC>collection its types and manipulation
 about collections variables and their types also about the methods for manipulation of collections variables
 introduction to collection variables introduction to lists demonstrationworking with lists introduction to dictionaries demonstrationworking with dictionaries
 </DOC>
-
 <DOC>
 automation techniques in rpa
 the automation techniques in rpa will provide knowledge about extraction and its techniques screen scraping data scraping and pdf extraction
 in the later part of the gain knowledge about workbook excel and email automation in studio also about activities for workbooks and excel automation along with email protocols and related activities building on each concept there will be demonstration that will explain these operations and methods the has multiple practice exercises which will help in strengthening your knowledge and understand the creation of workflows in studio
-
-extraction and its techniques
+</DOC>
+<DOC>extraction and its techniques
 this helps in understanding extraction screen scraping and its methods data scraping and pdf extraction
 welcome extraction and its techniques screen scraping and its methods fulltext method native method ocr method demonstrationscreen scraping data scraping demonstrationdata scraping pdf extraction demonstrationpdf extraction
+</DOC>
 
-automation techniques
+<DOC>automation techniques
 this introduces workbook and excel automation it also covers email automation email protocols and related activities used in studio
 workbook and excel automation manipulating workbooks demonstrationworkbook automation excel application scope demonstrationexcel automation email automation email protocols and related activities categories of email automation demonstration email automation demonstrationemail automation
 </DOC>
-
 <DOC>
 control flow in rpa
 the control flow in rpa provides a deep understanding of the automation flow control flow is a concept that refers to the order in which actions are executed and control flows in an automation project with the help of sequences decision making loops and flowcharts this also focuses on the error handling mechanism which is vital for an automation project
 the has multiple practice exercises which will help in strengthening your knowledge and understanding of workflows in studio
-
-sequences and control flow
+</DOC>
+<DOC>sequences and control flow
 this gives an of sequences and control flow in studio
 welcome introduction to sequences control flow and its types
+</DOC>
 
-decision control
+<DOC>decision control
 this gives knowledge about decision control and the different activities used in studio for decisionmaking
 if activity demonstrationif activity switch activity demonstrationswitch activity difference between if and switch activity
+</DOC>
 
-loop activities
+<DOC>loop activities
 this explains loop activities and their types in studio
 introduction to loop activities and their types do while activity demonstrationdo while activity while activity demonstrationwhile activity for each activity demonstrationfor each activity
+</DOC>
 
-control flow activities
+<DOC>control flow activities
 this explains the different types of control flow activities in studio
 other control flow activities delay activity demonstrationdelay activity break activity demonstrationbreak activity assign activity demonstrationassign activity continue activity demonstrationcontinue activity parallel activity demonstrationparallel activity
+</DOC>
 
-flowcharts
+<DOC>flowcharts
 this covers flowcharts decisionmaking and loops in flowcharts nested flowcharts and sequences and the difference between sequences and flowcharts
 introduction to flowcharts demonstrationflowcharts decisionmaking in flowcharts demonstrationdecisionmaking in flowcharts loops in flowcharts demonstrationloops in flowcharts nesting flowcharts and sequences
+</DOC>
 
-error handling in studio
+<DOC>error handling in studio
 this introduces errors exceptions and the best practices for handling the errors
 introduction to errors and exceptions error handling approach and activities try catch activity demonstration try catch activity retry scope activity continue on error activity
 </DOC>
-

@@ -9,68 +9,75 @@ there are a range of activities included that will enable learners to apply and 
 mathematics for computer science
 welcome to introduction to numerical mathematics this is designed to give you part of the mathematical foundations needed to in computer science in any of its strands from business to visual digital arts music games at any stage of the problem solving and modelling stage require numerical and computational tools we get you started in binary and other number bases some tools to make sense of sequences of numbers how to represent space numerical using coordinates how to study variations of quantities via functions and their graphs for this we prepared computing and everyday life problems for you to solve using these tools from sending secret messages to designing computer graphics
 if you wish to take it further you can join the bsc computer science degree and complete the full numerical mathematics enjoy
-
-number bases
+</DOC>
+<DOC>number bases
 cover the key concepts place value and number systems about the notion of number bases how to do operate in binary
 of using numerical mathematics in computing introduction to number bases and modular arithmetic introduction to number bases place value for integers binary to decimal place value for integers decimal to binary place value for fractional numbers binary rational and irrational numbers decimal and binary of binary system and getting ready for operations in binary addition in binary subtraction in binary multiplication in binary review of tasks and context of binary in computing
+</DOC>
 
-number bases other bases
+<DOC>number bases other bases
 extend the place value and number systems to octal hexadecimal and any other bases also be introduced to the usefulness of hexadecimal in computer science
 octal and hexadecimal integer octal and hexadecimal fractional special relationship between binary and hexadecimal and binary and octal hidden messages inside an image arithmetic in hexadecimaloctal other bases
+</DOC>
 
-modular arithmetic
+<DOC>modular arithmetic
 cover the key concept of congruence modulo an integer also be introduced to the usefulness of congruence and modular arithmetic operations in computer science
 introduction to modular arithmetic computing n mod k addition mod k additive identity and inverse mod k multiplication mod k multiplicative identity inverse mod k exponentiation mod k mod rem and division encryption using modular arithmetic
+</DOC>
 
-sequences
+<DOC>sequences
 cover the key concept of number sequences look into more detail at a special family of sequences called progressions and study arithmetic and geometric progressions
 introduction to sequences and series introduction to sequences of numbers defining sequences arithmetic progressions geometric progressions task investigating random numbers of sequences and preparation for next
+</DOC>
 
-series
+<DOC>series
 cover the key concept of number series building on number sequences look into more detail at a special family of series arising from arithmetic and geometric progressions look at expression summations of sequences using a compact form with a summation symbol
 series sums of terms of sequences summation symbol sigma notation finite sum of arithmetic sequences finite sum of geometric sequences finite sums of series infinite sequences and sums patterns in infinite sequences limit convergence and divergence patterns in series limit convergent and divergent series criteria for identifying convergent divergent sequence and series of convergence of sequences and series
+</DOC>
 
-introduction to graph sketching and kinematics
+<DOC>introduction to graph sketching and kinematics
 cover the key concept of coordinate system functions and graphical representation of functions and kinematics look at the example of modelling motion
 introduction to graph sketching and kinematics cartesian coordinates introduction to functions and graphs functions and tables of values plotting graphs by hand aspects to consider plotting graphs by hand straight lines plotting graphs by hand quadratics plotting graphs by hand cubics plotting graphs by hand higher order polynomials plotting graphs by hand reciprocal plotting graphs by hand rational functions plotting graphs by hand piecewise transformations of graphs of graphs kinematic equations of kinematics
 </DOC>
-
 <DOC>
 how computers
 computers are everywhere they arent just the desktops and laptops we use for but the phones in our pockets and even the watches on our wrists are also computers you probably use a computer every day and in fact you are reading this on a computer
 just because we use computers all the time doesnt mean that we understand them or find them easy to use computer science is the science of computers it is the field of knowledge that experts use to understand computer systems knowing a little computer science will help you understand the computers all around you this isnt a howto for a particular piece of software instead some fundamental concepts that you can apply to any software or computer system apply these concepts to the kind of computer systems we use every day including word processing applications ecommerce the internet and web sites how to apply computer science concepts to solve problems in daily computer use and generally be a better computer user taking this could be the start of your in computer science and the is an introduction to the bachelors in computer science from university of london but it is also for you if you just want to a little computer science to help you better understand the computers you use in your ordinary life
-
-abstraction
+</DOC>
+<DOC>abstraction
 starts your journey into understanding computer science think about how computer science can help you understand the technology you use every day and also one of the most important concepts in computer science abstraction
 what is computer science and how can it help us abstraction abstraction in data representations notional machines cpu and memory
+</DOC>
 
-state modularity and applications
+<DOC>state modularity and applications
 about the computer science concepts of state and modularity and how they can help you understand the computer applications that you use every day
 the deep secret of computer science state an ecommerce site why does turning it off and on again a notional machine files modularity applications debugging
+</DOC>
 
-networks
+<DOC>networks
 about how computers communicate with each other over networks including the internet also about some of the security threats that the internet entails and how they can be avoided
 networks the internet security threats encryption security defenses the perils of the password interview with sarah wiseman
+</DOC>
 
-how the web works
+<DOC>how the web works
 apply all of the computer science concepts you have learned to understanding how modern websites
 what is a website websites networks and the web security and the web state and the web clients and servers embedding and apis your data mooc
 </DOC>
-
 <DOC>
 introduction to computer programming
 this mooc provides you with the foundational set required to write computer programs if you are interested in learning how to write interactive graphical programs from an introductory level in a real programming language this is the for you begin by learning the basics of editing and running programs then how to create d graphics using shapes and coordinates finally how to create interactive graphics that you can control with the mouse even solve a set of interactive puzzles using your coding in the sleuth game which has been created especially for this the uses the javascript language and the pjs library
-
-your development environment
+</DOC>
+<DOC>your development environment
 topic about three key concepts the toolkit use to develop programs drawing using simple shapes and d coordinates the process and of writing code
 welcome to the and about us about you growth mindset what is programming what is pjs running your first with brackets by hacking d coordinate systems code philosophy what it feels like to code getting started with sleuth
+</DOC>
 
-drawing in d
+<DOC>drawing in d
 topic about three key concepts set of d drawing functions in pjs colour representation and styles debugging with the console
 rgb colours fill stroke nofill setup draw and programme flow shapes ellipse rectangle line triangle point how to access and use the console to view errors debugging syntax errors code philosophy asking for help
+</DOC>
 
-variables objects and interaction
+<DOC>variables objects and interaction
 topic about three concepts variables and data simple interaction code organisation
 builtin variables mousex mousey builtin events mousepressed keypressed create your own variables var initialising and assigning top tips for naming variables objects working with operators mathematical functions random min max inspecting variables in the console code philosophy the elegant coder mooc
 </DOC>
-

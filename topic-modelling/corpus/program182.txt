@@ -9,71 +9,75 @@ in each you dive deeper into human health healthier materials and healthier appr
 sustainable building design and specification
 this is an examination of the role designers play in protecting health through specification of materials and choices made in the building design phase you about strategies and principles employed in the execution of healthier design projects finally you look at how the use of healthier materials can lead to a healthier world participants in the should have leadershiplevel in design architecture contracting or a similar field
 this will enable you to shift from traditional design to a healthier materials design approach evaluate tools and resources for protecting human health apply strategies for choosing healthier materials
-
-the path to becoming a material influencer
+</DOC>
+<DOC>the path to becoming a material influencer
 welcome to the path to becoming a material influencer how to design with a healthier world in mind explore strategies and principles of healthier material projects by the end of this gain material health inspiration and understand that theres no onestopshop for material health lets get started
 introduction to healthier materials and sustainable building introduction to sustainable building design and specification introduction to the path to becoming a material influencer designing with material health in mind materials considerations and priorities engaging communities and social justice qa with anasa scottlaude leed ap bdc design principles and defining goals operational considerations of what we specify there is no onestop shop for healthier materials inspiring clients to achieve healthier projects the path to becoming a material influencer conclusion
+</DOC>
 
-establishing the material evaluation process
+<DOC>establishing the material evaluation process
 welcome to establishing the material evaluation process how to review disclosures and make healthier material decisions based on performance quality and affordability think about where to start when compiling material options and how to reach out to manufacturers by the end of this know how to utilize research and approaches for reviewing product health lets get started
 introduction to establishing the material evaluation process transparency and disclosure criteria performance quality and affordability where to start review and outreach to manufacturers approaches to reviewing product health levels of confidence utilizing chemicals of concern research to practice healthier design approaches establishing the material evaluation process conclusion
+</DOC>
 
-beyond design aesthetics healthier materials for a healthier world
+<DOC>beyond design aesthetics healthier materials for a healthier world
 welcome to beyond design aesthetics healthier materials for a healthier world how to compare options and make decisions for a healthier design approach examine healthier alternatives that provide inspiration for the future by the end of this know that no product is perfect but that progress comes as designers overcome obstacles and transform the marketplace lets get started
 introduction to beyond design aesthetics healthier materials for a healthier world translating transparency documents into actions hidden hazards whats not on the label biodesign exploring healthier alternatives circularity and embodied carbon no perfect products progress despite constraints transforming the market beyond design aesthetics healthier materials for a healthier world conclusion sustainable building design and specification conclusion
 </DOC>
-
 <DOC>
 material chemistry and sustainable building
 this covers a wide range of concepts related to toxicology and the chemistry of healthier materials you about toxic substances in the built environment the impact of specific chemicals on human health unsatisfactory substitutions and barriers to change finally you examine ways to remove chemicals of concern in common building products this is designed to give you a basic understanding of chemistry in the built environment this is intended for anyone but in design architecture or a similar field will be beneficial
 by the end of this have gained a scientific understanding of toxic chemicals in building materials and their impact on human health knowledge of healthier and more sustainable building materials the ability to apply strategies for reducing exposure to toxic chemicals in the built environment
-
-chemistry of building materials and human health
+</DOC>
+<DOC>chemistry of building materials and human health
 welcome to chemistry of building materials and human health about the essentials of chemistry materials and human health analyze the implications of toxic chemicals in the built environment by the end of know how green chemistry can be used to create healthier materials lets get started
 introduction to healthier materials and sustainable building introduction to material chemistry and sustainable building introduction to chemistry of building materials and human health the essentials of chemistry materials and human health chemistry and biofabrication in design global risks and regrettable substitutions barriers to change a case study of flame retardants introduction to green chemistry green chemistry and design green chemistry qa with dr john warner chemistry of building materials and human health conclusion
+</DOC>
 
-toxicology of the built environment
+<DOC>toxicology of the built environment
 welcome to toxicology of the built environment about the principles of toxicology and how to evaluate the toxicology of chemicals gain an understanding of how hormone disrupting chemicals pose a specific risk in the built environment see why this is especially important to consider in the context of vulnerable populations lets get started
 introduction to the toxicology of the built environment the essentials of toxicology evaluating chemicals for toxicity characterizing risk assessing hazard exposure and doseresponse toxicology and vulnerable populations hormone disruptors in the built environment the toxicology of the built environment conclusion
+</DOC>
 
-understanding chemicals of concern and driving change
+<DOC>understanding chemicals of concern and driving change
 welcome to understanding chemicals of concern and driving change about chemical classification for safety the specific classes of chemicals of concern and how to take action through tools for evaluating materials and chemicals then explore how to reduce exposure to the chemical classes of concern discover how to screen and evaluate chemicals in building materials lets get started
 introduction to understanding chemicals of concern and driving change insights from chemical classification lessons learned a case study of asbestos in building materials introduction to chemical classes of concern additional chemical classes of concern formaldehydebased binders and nanochemicals tools for screening and evaluating chemicals in building materials understanding chemicals of concern and driving change conclusion material chemistry and sustainable building conclusion
 </DOC>
-
 <DOC>
 sustainable construction in a circular economy
 this takes a widelens view of the role of materials decisions in circular design and the promotion of a healthier world you find out how to execute a healthier project you why healthier materials matter to the entire project team and the importance of communication between teams you look at circularity embodied carbon reduction and the evolution of the built environment you examine the role designers play in executing a healthier project from construction to installation to use and its significance in the context of cities participants in the should have leadershiplevel in design architecture contracting or a similar field
 by the end of this be able to analyze the role of contractors subcontractors and material procurement in the execution of a healthier project discuss the relationship between circular design and design innovation examine the capacity of material systems to contribute to a circular lowcarbon regenerative and equitable world
-
-from blueprint to building
+</DOC>
+<DOC>from blueprint to building
 welcome to from blueprint to building examine how to take a project from the blueprint or design plan often referred to as a construction document to the completed project how specific materials impact the overall health of the project and what that means for the construction team explore the material specification procurement and handling processes by the end of this know how to implement protective measures throughout the lifecycle of a project lets get started
 introduction to healthier materials and sustainable building introduction to sustainable construction in a circular economy introduction to from blueprint to building the significance of materials health to contractors defining practices and coordinating subcontractors writing and implementing healthier specifications materials procurement and tracking protective measures through installation building in the context of healthy environments qa with dennis rijkhoff selecting healthier furnishings from blueprint to building conclusion
+</DOC>
 
-disrupting the status quo design through the lens of circularity
+<DOC>disrupting the status quo design through the lens of circularity
 welcome to disrupting the status quo design through the lens of circularity how linear economic models have given need for a more circular approach in the future explore how the reuse of materials creates economic and change in the marketplace by the end of this understand how collaboration trust and knowledge sharing are essential for generating client buyin to a healthier materials approach lets get started
 introduction to disrupting the status quo design through the lens of circularity the toxic legacy of todays building industry handinhand innovation and circularity waste as a resource urban mining arising from circularity maintaining trust and managing expectations fundamental market changes disrupting the status quo design through the lens of circularity conclusion
+</DOC>
 
-practice in an evolving world
+<DOC>practice in an evolving world
 welcome to practices in an evolving world about the movement toward circular and regenerative cities and see some examples of how cities around the world are implementing circularity explore the capacity of material systems to contribute to a more circular lowcarbon regenerative and equitable world by the end of this have discovered some strategies that you can take forward to build a healthier thriving future lets get started
 introduction to practice in an evolving world the international movement towards circular cities regenerative cities the ecopolis digital technologys role in supporting circularity and health innovating material systems the importance of policy to drive change building from the ground up a localized and harmonized approach practice in an evolving world conclusion sustainable construction in a circular economy conclusion
 </DOC>
-
 <DOC>
 building materials and human health
 this is an exploration of the impact of building materials on human health society and the environment you about toxic exposure and the way toxic chemicals enter the human body finally you consider vulnerabilities in communities and methods for making healthier material choices this covers a wide range of toxics and health concerns it is designed to give you a basic understanding of healthier materials as context within the healthier materials and sustainable building this is intended for anyone but in design architecture or a similar field will be beneficial
 by the end of this be able to assess the human health impact of toxic chemicals in building materials evaluate the health impact of building materials using current methods and resources apply strategies for reducing the health and environmental impacts of building materials throughout their life cycles
-
-toxic materials in the built environment
+</DOC>
+<DOC>toxic materials in the built environment
 welcome to toxic materials in the built environment about how toxics get into the human body and the impact they could have explore ways to lower exposure to toxic chemicals by the end of know how systemic injustices and disadvantaged communities are disproportionately impacted by toxic exposure lets get started
 introduction to healthier materials and sustainable building introduction to building materials and human health introduction to toxic materials in the built environment the impact of building materials on human health no safe level of lead a case study of toxicity in the built environment how toxic chemicals enter and impact our bodies putting risk into context exposure and injustice go handinhand qa with ogonnaya dotsonnewman material health on a budget case studies of renovations in disadvantaged communities toxic materials in the built environment conclusion
+</DOC>
 
-cleaning up the material life cycle designing for health and sustainability
+<DOC>cleaning up the material life cycle designing for health and sustainability
 welcome to cleaning up the material life cycle designing for health and sustainability about the lifecycle of materials and their relationship to human health and the environment analyze health impacts that occur during the use phase of materials discover material life cycle innovations that prioritize human health lets get started
 introduction to cleaning up the material life cycle how the life cycles of materials put people and the environment at risk impacts of the journey packaging and transportation product composition and exposure in the use phase evaluating and mitigating indoor air pollutants making holistically healthier and more sustainable products designing for healthier recycled content cleaning up the material life cycle conclusion
+</DOC>
 
-how to evaluate building materials for health
+<DOC>how to evaluate building materials for health
 welcome to how to evaluate building materials for health about tools and methods for evaluating materials including disclosures certifications and rating systems examine the planning for and implementation of healthier materials strategies by the end of this have discovered some strategies that could be used to move toward healthier environments lets get started
 introduction to how to evaluate building materials for health cultivating your healthier materials mindset disclosures certifications and rating systems evaluating materials for health and transparency creating valuealigned health strategies considerations in practice communicating in teams and leveraging certifications how to evaluate building materials for health conclusion building materials and human health conclusion
 </DOC>
-

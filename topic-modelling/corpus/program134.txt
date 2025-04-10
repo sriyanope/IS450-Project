@@ -12,88 +12,101 @@ as data becomes the modern currency so the ability to analyse the data quickly a
 automate data analysis with the help of named ranges and tables
 and use logical and lookup functions to transform link and categorise data
 this will enable you to build a strong foundation in the fundamentals helping you to be more efficient in your daytoday and developing the necessary to with the more advanced techniques used in later courses to make the content easy to relate to and to personalize the learning we are going to follow zaras journey through the who is zara she is noone and everyone find that zaras trials and tribulations sound familiar and together with zara develop your excel along the way and importantly have some fun doing it the excel for data analytics and visualization courses are the sequel to one of most successful specializations on coursera excel for business which has attracted hundreds of thousands of learners and top ratings transform your your confidence and your by adding this new set of to your repertoire
-
-welcome and critical information
+</DOC>
+<DOC>welcome and critical information
 discussion prompt
-
-cleaning and manipulating text
-by the end of this be an expert in excels text functions this discusses ways you can extract information and manipulate data to fulfil specific business requirements develop techniques for working confidently with these excel functions and unlock the full power of excel by manipulating and cleaning text data this is really important because you cannot properly analyse data if it is invalid or in an unsuitable format begin with the mechanics of creating a function specifying multiple arguments and then look at how to with text in functions also how to use multiple functions in a single formula a technique known as nesting the topics be learning functions for combining text functions for splitting text combining text functions cleaning data changing case and removing and replacing unwanted characters
-introduction excel functions for combining text values functions that split text data combining text functions cleaning data and changing case removing and replacing text characters
-
-working with numbers and dates
-by the end of this be an expert in excels date functions this discusses ways that you can extract information and manipulate data to fulfil specific business requirements also be looking at functions for converting data types such as text to numbers dates to text and then both numbers and text to dates to solve the problem of data not being in the correct format and how to perform arithmetic operations with dates like you would with numbers as as performing calculations with dates also some really great functions specifically for solving daytoday tricky date problems that are required in business such as the workday edate and eomonth functions the topics be learning converting data types understanding dates and basic date functions generating valid dates calculating days between two dates and calculating dates from a given date
-introduction converting data with value and text understanding dates and basic date functions generating valid dates using the date function calculations with dates and using days networkdays and workday more sophisticated date calculations with eomonth and edate
-
-defined names for working more effectively with data
-about different types of cell referencing relative cell referencing absolute cell referencing and mixed cell referencing then about a great excel functionality named ranges which is another way of referencing a cell or a range of cells by giving them a sensible name see that named ranges make our formulas much easier to understand and also see how it makes them much easier to create using tools such as define name and create from selection also about excels name box and the name manager some exciting excel functions that allow you to aggregate and summarise data such as sumifs and countifs and much more the topics be learning cell referencing and naming creating named ranges managing named ranges calculations with named ranges and automating processes with named ranges
-introduction cell referencing and naming defined names and create from selection managing names calculations with named ranges automating data validation with named ranges
-
-tables for automating data manipulation
-that a table in excel is more like a database of records and fields which contains a set of related information such as a table of inventory data how to create format and manage tables and how to easily format select sort and filter in a table also about the total row where you can just pick from a set of automated summarisation functions about structured referencing where you can continue to with the data in a table but the formulas look slightly different because tables use a different way to reference cells also how to automatically extend tables whenever new data is added the topics be learning creating naming and removing tables formatting and selecting in tables sorting and filtering tables performing calculations with structured references and automating processes with tables
-introduction introduction to tables customising tables sorting and filtering tables table calculations and structured references automation with tables
-
-logical and lookup functions
-two great excel weeks first about conditional logic and second about automating lookups the two of these tools together will push your data analytics to the next level excel has several logical functions and this explores some of them such as and or and if start by learning the concept of conditional logic and how conditional logic works in excel formulas then to conduct logic tests and use conditional operations for more complex logic tree scenarios how to use nested if functions to evaluate data then about lookup functions these are widely used in data analytics for connecting data sets as as error checking about one of the most widely used lookup functions in business vlookup as as other lookup functions such as index and match as as excel newest lookup function xlookup the topics be learning performing logical operations with if applying advanced logical operations categorising data with vlookup matching data with vlookup and xlookup and advanced data matching with index and match
-introduction apply logical operations to data using if nested if and and or categorising data with vlookup matching data with vlookup and xlookup power lookups with index and match
-
-final assessment
-this is the final assessment of the and it is worth of your total grade as this is the final assessment it requires you to demonstrate the learning objectives from each of the weeks and thus requires you to demonstrate all the learning objectives of the entire
 </DOC>
 
+<DOC>cleaning and manipulating text
+by the end of this be an expert in excels text functions this discusses ways you can extract information and manipulate data to fulfil specific business requirements develop techniques for working confidently with these excel functions and unlock the full power of excel by manipulating and cleaning text data this is really important because you cannot properly analyse data if it is invalid or in an unsuitable format begin with the mechanics of creating a function specifying multiple arguments and then look at how to with text in functions also how to use multiple functions in a single formula a technique known as nesting the topics be learning functions for combining text functions for splitting text combining text functions cleaning data changing case and removing and replacing unwanted characters
+introduction excel functions for combining text values functions that split text data combining text functions cleaning data and changing case removing and replacing text characters
+</DOC>
+
+<DOC>working with numbers and dates
+by the end of this be an expert in excels date functions this discusses ways that you can extract information and manipulate data to fulfil specific business requirements also be looking at functions for converting data types such as text to numbers dates to text and then both numbers and text to dates to solve the problem of data not being in the correct format and how to perform arithmetic operations with dates like you would with numbers as as performing calculations with dates also some really great functions specifically for solving daytoday tricky date problems that are required in business such as the workday edate and eomonth functions the topics be learning converting data types understanding dates and basic date functions generating valid dates calculating days between two dates and calculating dates from a given date
+introduction converting data with value and text understanding dates and basic date functions generating valid dates using the date function calculations with dates and using days networkdays and workday more sophisticated date calculations with eomonth and edate
+</DOC>
+
+<DOC>defined names for working more effectively with data
+about different types of cell referencing relative cell referencing absolute cell referencing and mixed cell referencing then about a great excel functionality named ranges which is another way of referencing a cell or a range of cells by giving them a sensible name see that named ranges make our formulas much easier to understand and also see how it makes them much easier to create using tools such as define name and create from selection also about excels name box and the name manager some exciting excel functions that allow you to aggregate and summarise data such as sumifs and countifs and much more the topics be learning cell referencing and naming creating named ranges managing named ranges calculations with named ranges and automating processes with named ranges
+introduction cell referencing and naming defined names and create from selection managing names calculations with named ranges automating data validation with named ranges
+</DOC>
+
+<DOC>tables for automating data manipulation
+that a table in excel is more like a database of records and fields which contains a set of related information such as a table of inventory data how to create format and manage tables and how to easily format select sort and filter in a table also about the total row where you can just pick from a set of automated summarisation functions about structured referencing where you can continue to with the data in a table but the formulas look slightly different because tables use a different way to reference cells also how to automatically extend tables whenever new data is added the topics be learning creating naming and removing tables formatting and selecting in tables sorting and filtering tables performing calculations with structured references and automating processes with tables
+introduction introduction to tables customising tables sorting and filtering tables table calculations and structured references automation with tables
+</DOC>
+
+<DOC>logical and lookup functions
+two great excel weeks first about conditional logic and second about automating lookups the two of these tools together will push your data analytics to the next level excel has several logical functions and this explores some of them such as and or and if start by learning the concept of conditional logic and how conditional logic works in excel formulas then to conduct logic tests and use conditional operations for more complex logic tree scenarios how to use nested if functions to evaluate data then about lookup functions these are widely used in data analytics for connecting data sets as as error checking about one of the most widely used lookup functions in business vlookup as as other lookup functions such as index and match as as excel newest lookup function xlookup the topics be learning performing logical operations with if applying advanced logical operations categorising data with vlookup matching data with vlookup and xlookup and advanced data matching with index and match
+introduction apply logical operations to data using if nested if and and or categorising data with vlookup matching data with vlookup and xlookup power lookups with index and match
+</DOC>
+
+<DOC>final assessment
+this is the final assessment of the and it is worth of your total grade as this is the final assessment it requires you to demonstrate the learning objectives from each of the weeks and thus requires you to demonstrate all the learning objectives of the entire
+</DOC>
 <DOC>
 excel power tools for data analysis
 welcome to excel power tools for data analysis fourweek we introduce power query power pivot and power bi three power tools for transforming analysing and presenting data
 excels ease and flexibility have long made it a tool of choice for doing data analysis but it does have some inherent limitations for one truly big data simply does not fit in a spreadsheet and for another the process of importing and cleaning data can be a repetitive timeconsuming and errorprone over the last few years microsoft have worked on transforming the endtoend for analysts and excel has undergone a major upgrade with the inclusion of power query and power pivot how to use power query to automate the process of importing and preparing data for analysis see how power pivot revolutionises the actual analysis process by providing us with an analytical database inside the excel workbook capable of storing millions of rows and a powerful modelling language called dax which allows us to perform advanced analytics on our data finish off by venturing out of excel and introducing power bi which also uses the power query and power bi architecture but allows us to create stunning interactive reports and dashboards this is the third in our on data analytics and visualization the previous courses excel fundamentals for data analysis and data visualization in excel cover data preparation cleaning visualisation and creating dashboards to get the most out of this we would recommend you do the previous courses or have with these topics we focus on excel power tools join us for this exciting journey please note that power query power pivot and power bi desktop are only available on the windows platform so mac users will require bootcamp running windows or a virtual machine with a window os while power query is available as an addin excel and the tools have changed significantly and this has only been designed and tested for excel and later for an optimal we recommend office
-
-welcome and critical information
+</DOC>
+<DOC>welcome and critical information
 welcome to excel power tools for data analysis about importing and transforming data with power query working with huge datasets in power pivot and creating interactive reports with power bi this introductory material will help orient you into the we encourage you to think about your goals for the and share them with your fellow learners
+</DOC>
 
-get and transform power query
+<DOC>get and transform power query
 often the first steps when analysing data are to import the data and combine different datasets together in excel you can use get and transform previously known as power query to help with this how to import data from various sources and the different ways to combine datasets depending on your requirements
 introduction introduction to power query get and transform data from excel get data from a database get data from a folder append queries with datasets append queries with or more datasets merge queries left outer join merge queries inner and anti joins
+</DOC>
 
-transforming data in the query editor
+<DOC>transforming data in the query editor
 once your data is imported and combined you then move on to transforming it a common operation is to pivot data between wide and long formats you can group data and split a column into multiple columns power query has a few extra options that a normal pivottable doesnt have
 introduction applying transformations with the query editor unpivoting data pivoting data in the query editor grouping data working with columns in office working with columns in excel
+</DOC>
 
-power pivot and the data model
+<DOC>power pivot and the data model
 an excel workbook can handle up to million rows which sounds like a lot but sometimes you have more data than that the data model in excel is only limited by the amount of memory your computer has you can also define databaselike relationships between tables then you can visualise your data using power pivot and cube functions and create pivottables
 introduction adding data to the data model data modelling analysing data with power pivot visualising data with power pivot and cube functions introduction to dax measures applying time intelligence and calculate
+</DOC>
 
-visualising data with power bi
+<DOC>visualising data with power bi
 we are moving out of excel with this power bi is microsofts business intelligence tool you can put into practice the that you have learned in power query m and dax to create dynamic and interactive reports and dashboards in power bi once you have the report looking how you want share it with others
 introduction introducing power bi adding a calendar using dax creating a power bi report working with reports adding time intelligence sharing power bi reports
 </DOC>
-
 <DOC>
 data visualization in excel
 in an age now driven by big data we need to cut through the noise and present key information in a way that can be quickly consumed and acted upon making data visualization an increasingly important visualizations need to not only present data in an easy to understand and attractive way but they must also provide context for the data tell a story achieving that fine balance between form and function excel has many rivals space but it is still an excellent choice particularly if its where your data resides it offers a wealth of tools for creating visualizations other than charts and the chart options available are constantly increasing and improving so the newer versions now include waterfall charts sunburst diagrams and even map charts but what sets excel apart is its flexibility it gives us total creative control over our designs so if needed we could produce our own animated custom chart to tell the right story for our data
 over five weeks explore excels rich selection of visualization tools using practical case studies as seen through the eyes of rohan an environmental analyst rohan is required to produce visualizations that will show trends forecasts breakdowns and comparisons for a large variety of environmental data sets as as utilising the usual chart types he wants to use conditional formats sparklines specialised charts and even create his own animated charts and infographics in some cases he will also need to prepare the data using pivot tables to drill down and answer very specific questions we are going to help him achieve all this and present our finished visualizations in attractive reports and dashboards that use tools like slicers and macros for automation and interactivity these are the topics cover dynamic visualizations with conditional formatting custom number formatting sparklines and macros charting techniques for telling the right story creating specialised and custom charts summarising and filtering data with pivot tables and pivot charts creating interactive dashboards in excel this is the second in our on data analytics and visualization the first excel fundamentals for data analysis covers data preparation and cleaning but also teaches some of the prerequisites for this like tables and named ranges as as text lookup and logical functions to get the most out of this we would recommend you do the first or have with these topics we focus on data visualization in excel join us for this exciting journey
-
-welcome and critical information
+</DOC>
+<DOC>welcome and critical information
 discussion prompt
-
-data visualizations using conditional formatting sparklines and number formats
-explore a host of data visualisation tools that do not include charts about conditional formatting including custom conditional formatting using formulas drop down lists and macros then move on to learning about sparklines shapes and custom number formats
-introduction trendbased conditional formats valuebased conditional formats macros for interactive visualizations visualizations with sparklines and shapes custom number formats
-
-mastering charting techniques
-explore a range of options to visualise your data using charts look at standard charts such as line charts pie charts and scatter charts to help you visualise your data also look at charts to add to your standard toolkit such as area charts donut charts and bubble charts which will add that wow factor to your
-introduction charting techniques pies and doughnuts line charts and trendlines area charts scatter and bubble charts
-
-specialized charts
-explore a range of innovative and creative charts many of which are new to excel these charts include hierarchy charts waterfall charts funnel charts and geospatial charts also look at customising and creating our charts when we look at population charts and gauge charts giving you ideas to be innovative and creative
-introduction hierarchy charts waterfall and funnel charts geospatial charts custom chart techniques population charts creative chart techniques gauge charts
-
-create an interactive dashboard using pivot charts and slicers
-we take a turn into data analytics by exploring pivot tables look at how to summarise data with pivot tables as as how to customise group sort and filter pivot data then look at performing calculations in pivot tables finally we explore pivot charts which help us visualise the data in our pivot tables
-introduction summarise data with pivottables customise pivottables group and sort pivot data filter pivot data perform calculations in pivots pivotcharts and other visualizations
-
-complete the dashboard with creative visualisations and dynamic charts
-explore putting all our tools and knowledge together in aesthetic interactive and informative dashboards putting dashboards together will also help you revise all the tools and concepts that you have gathered along the way by the end of the be able to incorporate themes macros hyperlinks as as utilise slicers to make your dashboards interactive
-introduction dashboard planning and layout add charts to a dashboard create responsive infographics slicers for interactive dashboards dashboard drilldowns and protection
-
-final assessment
-this final assessment covers all content in weeks to
 </DOC>
 
+<DOC>data visualizations using conditional formatting sparklines and number formats
+explore a host of data visualisation tools that do not include charts about conditional formatting including custom conditional formatting using formulas drop down lists and macros then move on to learning about sparklines shapes and custom number formats
+introduction trendbased conditional formats valuebased conditional formats macros for interactive visualizations visualizations with sparklines and shapes custom number formats
+</DOC>
+
+<DOC>mastering charting techniques
+explore a range of options to visualise your data using charts look at standard charts such as line charts pie charts and scatter charts to help you visualise your data also look at charts to add to your standard toolkit such as area charts donut charts and bubble charts which will add that wow factor to your
+introduction charting techniques pies and doughnuts line charts and trendlines area charts scatter and bubble charts
+</DOC>
+
+<DOC>specialized charts
+explore a range of innovative and creative charts many of which are new to excel these charts include hierarchy charts waterfall charts funnel charts and geospatial charts also look at customising and creating our charts when we look at population charts and gauge charts giving you ideas to be innovative and creative
+introduction hierarchy charts waterfall and funnel charts geospatial charts custom chart techniques population charts creative chart techniques gauge charts
+</DOC>
+
+<DOC>create an interactive dashboard using pivot charts and slicers
+we take a turn into data analytics by exploring pivot tables look at how to summarise data with pivot tables as as how to customise group sort and filter pivot data then look at performing calculations in pivot tables finally we explore pivot charts which help us visualise the data in our pivot tables
+introduction summarise data with pivottables customise pivottables group and sort pivot data filter pivot data perform calculations in pivots pivotcharts and other visualizations
+</DOC>
+
+<DOC>complete the dashboard with creative visualisations and dynamic charts
+explore putting all our tools and knowledge together in aesthetic interactive and informative dashboards putting dashboards together will also help you revise all the tools and concepts that you have gathered along the way by the end of the be able to incorporate themes macros hyperlinks as as utilise slicers to make your dashboards interactive
+introduction dashboard planning and layout add charts to a dashboard create responsive infographics slicers for interactive dashboards dashboard drilldowns and protection
+</DOC>
+
+<DOC>final assessment
+this final assessment covers all content in weeks to
+</DOC>

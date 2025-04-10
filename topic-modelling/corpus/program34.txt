@@ -15,115 +15,128 @@ the courses combine lecture computer demonstrations exercises and discussion boa
 bayesian statistics mixture models
 bayesian statistics mixture models introduces you to an important class of statistical models the is organized in five each of which contains lecture short quizzes background reading discussion prompts and one or more peerreviewed statistics is best learned by doing it not just watching a so the is structured to help you through application
 some exercises require the use of r a freelyavailable statistical software package a brief tutorial is provided but we encourage you to take advantage of the many other resources online for learning r if you are interested this is an intermediatelevel and it was designed to be the third in uc santa cruzs series on bayesian statistics after herbie lees bayesian statistics from concept to data analysis and matthew heiners bayesian statistics techniques and models to succeed in the you should have some knowledge of and comfort with calculusbased probability principles of maximumlikelihood estimation and bayesian estimation
-
-basic concepts on mixture models
+</DOC>
+<DOC>basic concepts on mixture models
 this defines mixture models discusses its properties and develops the likelihood function for a random sample from a mixture model that will be the basis for statistical learning
 welcome to bayesian statistics mixture models installing and using r basic definitions mixtures of gaussians zeroinflated mixtures hierarchical representations sampling from a mixture model the likelihood function parameter identifiability
+</DOC>
 
-maximum likelihood estimation for mixture models
+<DOC>maximum likelihood estimation for mixture models
 peer reviews discussion prompt
 em for general mixtures em for location mixtures of gaussians em example em example
+</DOC>
 
-bayesian estimation for mixture models
+<DOC>bayesian estimation for mixture models
 peer reviews
 markov chain monte carlo algorithms part markov chain monte carlo algorithms part mcmc for location mixtures of normals part mcmc for location mixtures of normals part mcmc example mcmc example
+</DOC>
 
-applications of mixture models
+<DOC>applications of mixture models
 peer reviews
 density estimation using mixture models density estimation example mixture models for clustering clustering example mixture models and naive bayes classifiers linear and quadratic discriminant analysis in the context of mixture models classification example
+</DOC>
 
-practical considerations
+<DOC>practical considerations
 peer review discussion prompt
 numerical stability computational issues associated with multimodality bayesian information criteria bic bayesian information criteria example estimating the number of components in bayesian settings estimating the full partition structure in bayesian settings example bayesian inference for the partition structure
 </DOC>
-
 <DOC>
 bayesian statistics from concept to data analysis
 this introduces the bayesian approach to statistics starting with the concept of probability and moving to the analysis of data about the philosophy of the bayesian approach as as how to implement it for common types of data compare the bayesian approach to the more commonlytaught frequentist approach and see some of the benefits of the bayesian approach in particular the bayesian approach allows for better accounting of uncertainty results that have more intuitive and interpretable meaning and more explicit statements of assumptions this combines lecture computer demonstrations exercises and discussion boards to create an active learning for computing you have the choice of using microsoft excel or the opensource freely available statistical package r with equivalent content for both options the lectures provide some of the basic mathematical development as as explanations of philosophy and interpretation completion of this will give you an understanding of the concepts of the bayesian approach understanding the key differences between bayesian and frequentist approaches and the ability to do basic data analyses
-
-probability and bayes theorem
+</DOC>
+<DOC>probability and bayes theorem
 we review the basics of probability and bayes theorem in lesson we introduce the different paradigms or definitions of probability and discuss why probability provides a coherent framework for dealing with uncertainty in lesson we review the rules of conditional probability and introduce bayes theorem lesson reviews common probability distributions for discrete and continuous random variables
 introduction lesson classical and frequentist probability lesson bayesian probability and coherence lesson conditional probability lesson bayes theorem lesson bernoulli and binomial distributions lesson uniform distribution lesson exponential and normal distributions
+</DOC>
 
-statistical inference
+<DOC>statistical inference
 this introduces concepts of statistical inference from both frequentist and bayesian perspectives lesson takes the frequentist view demonstrating maximum likelihood estimation and confidence intervals for binomial data lesson introduces the fundamentals of bayesian inference beginning with a binomial likelihood and prior probabilities for simple hypotheses how to use bayes theorem to update the prior with data to obtain posterior probabilities this framework is extended with the continuous version of bayes theorem to estimate continuous model parameters and calculate posterior probabilities and credible intervals
 lesson confidence intervals lesson likelihood function and maximum likelihood lesson computing the mle lesson computing the mle examples introduction to r plotting the likelihood in r plotting the likelihood in excel lesson inference example frequentist lesson inference example bayesian lesson continuous version of bayes theorem lesson posterior intervals
+</DOC>
 
-priors and models for discrete data
+<DOC>priors and models for discrete data
 methods for selecting prior distributions and building models for discrete data lesson introduces prior selection and predictive distributions as a means of evaluating priors lesson demonstrates bayesian analysis of bernoulli data and introduces the computationally convenient concept of conjugate priors lesson builds a conjugate model for poisson data and discusses strategies for selection of prior hyperparameters
 lesson priors and prior predictive distributions lesson prior predictive binomial example lesson posterior predictive distribution lesson bernoullibinomial likelihood with uniform prior lesson conjugate priors lesson posterior mean and effective sample size data analysis example in r data analysis example in excel lesson poisson data
+</DOC>
 
-models for continuous data
+<DOC>models for continuous data
 this covers conjugate and objective bayesian analysis for continuous data lesson presents the conjugate model for exponentially distributed data lesson discusses models for normally distributed data which play a central role in statistics in lesson we return to prior selection and discuss objective or noninformative priors lesson presents bayesian linear regression with noninformative priors which yield results comparable to those of classical regression
 lesson exponential data lesson normal likelihood with variance known lesson normal likelihood with variance unknown lesson noninformative priors lesson jeffreys prior linear regression in r linear regression in excel analysis toolpak linear regression in excel statplus by analystsoft conclusion
 </DOC>
-
 <DOC>
 bayesian statistics capstone project
 this is the capstone project for uc santa cruzs bayesian statistics it is an for you to demonstrate a wide range of and knowledge in bayesian statistics and to apply what you know to realworld data review essential concepts in bayesian statistics with lecture and quizzes and perform a complex data analysis and compose a report on your methods and results
-
-bayesian conjugate analysis for autogressive time series models
+</DOC>
+<DOC>bayesian conjugate analysis for autogressive time series models
 introduce conjugate bayesian analysis for the autoregressive ar models
 introduction model formulation prediction for ar models
-
-model selection criteria
-introduce some criteria that can be used in selecting the order of ar processes and the number of mixing components which will be used later when we introduce mixture of ar models
-aic and bic in selecting the order of ar process deviance information criterion dic
-
-bayesian location mixture of arp model
-perform bayesian analysis for location mixture of arp models
-prediction for location mixture of ar models full conditional distributions of model parameters coding the gibbs sampler prediction for location mixture of ar model
-
-peerreviewed data analysis project
-use everything we have learned up until now to perform a mixture model on time series data
 </DOC>
 
+<DOC>model selection criteria
+introduce some criteria that can be used in selecting the order of ar processes and the number of mixing components which will be used later when we introduce mixture of ar models
+aic and bic in selecting the order of ar process deviance information criterion dic
+</DOC>
+
+<DOC>bayesian location mixture of arp model
+perform bayesian analysis for location mixture of arp models
+prediction for location mixture of ar models full conditional distributions of model parameters coding the gibbs sampler prediction for location mixture of ar model
+</DOC>
+
+<DOC>peerreviewed data analysis project
+use everything we have learned up until now to perform a mixture model on time series data
+</DOC>
 <DOC>
 bayesian statistics time series analysis
 this for practicing and aspiring data scientists and statisticians it is the fourth of a fourcourse sequence introducing the fundamentals of bayesian statistics it builds on the bayesian statistics from concept to data analysis techniques and models and mixture models
 time series analysis is concerned with modeling the dependency among elements of a sequence of temporally related variables to succeed you should be familiar with calculusbased probability the principles of maximum likelihood estimation and bayesian inference how to build models that can describe temporal dependencies and how to perform bayesian inference and forecasting for the models apply what youve learned with the opensource freely available software r with sample databases your instructor raquel prado will take you from basic concepts for modeling temporally dependent data to implementation of specific classes of models
-
-introduction to time series and the ar process
+</DOC>
+<DOC>introduction to time series and the ar process
 this defines stationary time series processes the autocorrelation function and the autoregressive process of order one or ar parameter estimation via maximum likelihood and bayesian inference in the ar are also discussed
 welcome to bayesian statistics time series stationarity the autocorrelation function acf acf pacf differencing and smoothing examples the ar simulating from an ar process maximum likelihood estimation in the ar bayesian inference in the ar bayesian inference in the ar conditional likelihood example
-
-the arp process
-this extends the concepts learned in about the ar process to the general case of the arp maximum likelihood estimation and bayesian posterior inference in the arp are discussed
-definition and statespace representation examples acf of the arp simulating data from an arp bayesian inference in the arp reference prior conditional likelihood model order selection example bayesian inference in the arp conditional likelihood spectral representation of the arp spectral representation of the arp example
-
-normal dynamic linear models part i
-normal dynamic linear models ndlms are defined and illustrated using several examples model building based on the forecast function via the superposition principle is explained methods for bayesian filtering smoothing and forecasting for ndlms in the case of known observational variances and known system covariance matrices are discussed and illustrated
-ndlm definition polynomial trend models regression models the superposition principle filtering filtering in the ndlm example smoothing and forecasting smoothing in the ndlm example second order polynomial filtering and smoothing example using the dlm package in r
-
-normal dynamic linear models part ii
-peer review
-fourier representation building ndlms with multiple components examples filtering smoothing and forecasting unknown observational variance specifying the system covariance matrix via discount factors ndlm unknown observational variance example eeg data google trends
-
-final project
-final project use normal dynamic linear models to analyze a time series dataset downloaded from google trend
 </DOC>
 
+<DOC>the arp process
+this extends the concepts learned in about the ar process to the general case of the arp maximum likelihood estimation and bayesian posterior inference in the arp are discussed
+definition and statespace representation examples acf of the arp simulating data from an arp bayesian inference in the arp reference prior conditional likelihood model order selection example bayesian inference in the arp conditional likelihood spectral representation of the arp spectral representation of the arp example
+</DOC>
+
+<DOC>normal dynamic linear models part i
+normal dynamic linear models ndlms are defined and illustrated using several examples model building based on the forecast function via the superposition principle is explained methods for bayesian filtering smoothing and forecasting for ndlms in the case of known observational variances and known system covariance matrices are discussed and illustrated
+ndlm definition polynomial trend models regression models the superposition principle filtering filtering in the ndlm example smoothing and forecasting smoothing in the ndlm example second order polynomial filtering and smoothing example using the dlm package in r
+</DOC>
+
+<DOC>normal dynamic linear models part ii
+peer review
+fourier representation building ndlms with multiple components examples filtering smoothing and forecasting unknown observational variance specifying the system covariance matrix via discount factors ndlm unknown observational variance example eeg data google trends
+</DOC>
+
+<DOC>final project
+final project use normal dynamic linear models to analyze a time series dataset downloaded from google trend
+</DOC>
 <DOC>
 bayesian statistics techniques and models
 this is the second of a twocourse sequence introducing the fundamentals of bayesian statistics it builds on the bayesian statistics from concept to data analysis which introduces bayesian methods through use of simple conjugate models realworld data often require more sophisticated models to reach realistic conclusions this aims to expand our bayesian toolbox with more general models and computational techniques to fit them in particular introduce markov chain monte carlo mcmc methods which allow sampling from posterior distributions that have no analytical solution use the opensource freely available software r some is assumed eg completing the previous in r and jags no required how to construct fit assess and compare bayesian statistical models to answer scientific questions involving continuous binary and count data this combines lecture computer demonstrations exercises and discussion boards to create an active learning the lectures provide some of the basic mathematical development explanations of the statistical modeling process and a few basic modeling techniques commonly used by statisticians computer demonstrations provide concrete practical walkthroughs completion of this will give you access to a wide range of bayesian analytical tools customizable to your data
-
-statistical modeling and monte carlo estimation
+</DOC>
+<DOC>statistical modeling and monte carlo estimation
 statistical modeling bayesian modeling monte carlo estimation
 introduction objectives modeling process components of bayesian models model specification posterior derivation nonconjugate models monte carlo integration monte carlo error and marginalization computing examples computing monte carlo error
-
-markov chain monte carlo mcmc
-metropolishastings gibbs sampling assessing convergence
-algorithm demonstration random walk example part random walk example part download install setup model writing running and postprocessing multiple parameter sampling and full conditional distributions conditionally conjugate prior example with normal likelihood computing example with normal likelihood trace plots autocorrelation multiple chains burnin gelmanrubin diagnostic
-
-common statistical models
-linear regression anova logistic regression multiple factor anova
-introduction to linear regression setup in r jags model linear regression model checking alternative models deviance information criterion dic introduction to anova one way model using jags introduction to logistic regression jags model logistic regression prediction
-
-count data and hierarchical modeling
-poisson regression hierarchical modeling
-introduction to poisson regression jags model poisson regression predictive distributions correlated data prior predictive simulation jags model and model checking hierarchical modeling posterior predictive simulation linear regression example linear regression example in jags mixture model in jags
-
-capstone project
-peerreviewed data analysis project
 </DOC>
 
+<DOC>markov chain monte carlo mcmc
+metropolishastings gibbs sampling assessing convergence
+algorithm demonstration random walk example part random walk example part download install setup model writing running and postprocessing multiple parameter sampling and full conditional distributions conditionally conjugate prior example with normal likelihood computing example with normal likelihood trace plots autocorrelation multiple chains burnin gelmanrubin diagnostic
+</DOC>
+
+<DOC>common statistical models
+linear regression anova logistic regression multiple factor anova
+introduction to linear regression setup in r jags model linear regression model checking alternative models deviance information criterion dic introduction to anova one way model using jags introduction to logistic regression jags model logistic regression prediction
+</DOC>
+
+<DOC>count data and hierarchical modeling
+poisson regression hierarchical modeling
+introduction to poisson regression jags model poisson regression predictive distributions correlated data prior predictive simulation jags model and model checking hierarchical modeling posterior predictive simulation linear regression example linear regression example in jags mixture model in jags
+</DOC>
+
+<DOC>capstone project
+peerreviewed data analysis project
+</DOC>

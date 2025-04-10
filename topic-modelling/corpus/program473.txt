@@ -14,138 +14,151 @@ the final project combines all of the courses the learner will create a delivery
 unreal engine fundamentals
 welcome to unreal engine fundamentals your gateway to the world of game design using unreal engine introductory equip you with essential to navigate unreal engine from a new user to a proficient game designer
 start by guiding you through setting up your account downloading the engine and familiarizing you with the interface then explore quixel megascans asset importing materials world building lighting sound and source control throughout the to sculpt immersive environments implement dynamic lighting basic audio effects and collaborate effectively with team members using source control are you ready to begin your game design journey with unreal engine lets dive in and discover the exciting possibilities this fantastic platform offers this is meant for learners who are looking to the basics of getting started with unreal engine to take this learners wont need any with unreal engine
-
-introduction to unreal engine
+</DOC>
+<DOC>introduction to unreal engine
 introductory we lay the groundwork for your unreal engine journey by guiding you through the essential setup and familiarizing you with the core interfaces and workflow how to install ue navigate the editors ui manage assets and content integrate with quixel bridge for highquality scans and dive into creating basic materials by the end have a strong foundation in ues fundamentals preparing you for more advanced topics
 introduction downloading installing unreal engine epic games launcher creating your first project navigation within unreal engine content examples unreal engine interface exploration scalability plugins exploring menus world settings exploring menus editor preferences exploring menus project settings exploring menus level editor viewport content browser basics content browser favorites collections references redirectors saving deleting documentation where to get help actor transformations lesson recap preview versions introduction to quixel quixel bridge megascans accessing quixel bridge from unreal engine accessing quixel bridge from desktop adding d assets from quixel bridge adding other assets from quixel bridge importing from other sources quixel trees marketplace megascans quixel megascans lesson recap introduction to materials creating your first material modify your first material material instances material properties blend modes material properties shading models texture assets building a pbr material diffuse building a pbr material metallic building a pbr material roughness building a pbr material emissive building a pbr material normals building a pbr material multi switching maps ambient occlusion building a pbr material named reroutes building a pbr material parameter groups building a pbr material uv material function create your own pbr master material master material homework setup optional introduction to unreal engine recap
+</DOC>
 
-introduction to world building
+<DOC>introduction to world building
 this covers the fundamentals of world building in unreal engine including terrain sculpting landscape material creation foliage placement water system tools and asset management techniques gain practical in creating immersive environments from sculpting landmasses to procedurally populating scenes with foliage blending materials and placing meshes effectively
 introduction to world building landscape mode basics landscape sculpting basics managing landscapes importing height maps packed textures alpha brushes landscape painting basics landscape uv coordinates landscape micro variation landscape macro variation landscape distance blending landscape distance blending landscape material grass node foliage material instance adjustments foliage mode procedural foliage tools automaterials layers and splines landmass blueprint brushes water tools lakes and rivers quixel blend materials mesh painting mode asset zoo and actor palettes asset placement techniques decals traditional levels world partition introduction to world building recap
+</DOC>
 
-introduction to lighting and sound
+<DOC>introduction to lighting and sound
 this equips you with fundamental in lighting and audio for unreal engine projects explore various lighting techniques from basic light setup to nextgen technology systems like lumen ensuring visually stunning environments additionally the covers essential audio features including audio asset management sound design and tools for creating immersive soundscapes
 introduction to light and sound lighting terminology lighting types lighting mobility lighting features and properties environmental lighting sun and sky hdri backdrop post process volumes baked lighting introduction to lumen lumen a practical example introduction to game audio importing audio assets setting up sound cues implementing footsteps sound attenuation basics ambient sounds and d spatialization introduction to light and sound recap
+</DOC>
 
-introduction to collaboration and sharing
+<DOC>introduction to collaboration and sharing
 this covers the essentials of collaboration and sharing in unreal engine with a focus on version control using perforces helix system and techniques for efficient asset management across projects gain practical in setting up version control managing file revisions and resolving conflicts how to streamlining workflows through asset migration and share your project with simple packaging
 introduction to collaboration and sharing of source control source control basic workflow helix perforce helix perforce within unreal engine helix perforce practical example zipping and simple packaging migrating assets introduction to collaboration and sharing recap
+</DOC>
 
-unreal engine fundamentals final project
+<DOC>unreal engine fundamentals final project
 final project apply everything youve learned in the to create a compelling and immersive d environment in unreal engine referred to as your unreal paradise this task will involve landscape creation asset integration lighting and audio implementation to bring your scene to life the use of source control is highly encouraged but is optional and will not be used as a marking or grading criteria for successful completion of this final project
 recap of the gathering reference final project screen shots screen record submission end of congratulations next steps
 </DOC>
-
 <DOC>
 user in game design
 elevate your game design with our immersive on user interface ui in unreal engine where no prior is necessary though completion of courses is recommended this stands out by blending theoretical insights with handson practice to create exceptional user
 begin by exploring the comprehensive game theory behind user ux focusing on key aspects like game loops camera dynamics and ui design how to ensure accessibility for all players through effective iconography automation and audio design progress to implementing ux features using advanced tools such as niagara vfx and unreal engines ui systems enhancing elements from combat to crafting in the final grasp the intricacies of designing effective game loops with goals ranging from seconds to hours by the end be equipped to design inclusive engaging and dynamic game interfaces that resonate with players and enhance their overall this uniquely integrates theory with practical application ensuring you can create polished playerfocused designs
-
-user game theory
+</DOC>
+<DOC>user game theory
 discover what user means in game design this process will give you a glimpse into user methodologies and different approaches to game design there are a variety of concepts that apply to all user categories to review and consider during development
 user in game design introduction user theory what is user in game design usability design development bias learning curve user game theory review
+</DOC>
 
-accessibility design in games
+<DOC>accessibility design in games
 discover what accessibility means in game design it will provide examples on how these accessibility features often improve the for all players and not just those who are disabled
 accessibility in game design vision audio controls difficulty accessibility in games review
+</DOC>
 
-user categories
+<DOC>user categories
 discover how to examine the user for different categories of a game while this is not a complete list it is good selection of a few main categories for user game design the whole level design combat design objective design and crafting design user is closely related to full on game design but is more catered toward the players perspective
 user categories game ux level design ux combat ux objectives ux crafting ux user categories review
+</DOC>
 
-establishing a game loop
+<DOC>establishing a game loop
 discover how to design a game loop each game has a series of small actions that are consistently repeated this is why it is considered a loop a game loop is broken down in to five time based goal per second goals minute goals minute goals hour goals and long term goals a game loop shows the full circle of what you are trying to portray through a game
 establishing a game loop per second goals minute goals minute goals hour goals long term goals establishing a game loop review project congratulations
 </DOC>
-
 <DOC>
 user interface in game design
 unlock the full potential of your game design with our comprehensive on user interface ui in unreal engine designed for aspiring game developers and ui designers this equips you with foundational and advanced techniques to create engaging and intuitive interfaces no prior is needed but its recommended to complete courses for a solid grounding
 dive into the principles of effective ui design from minimalist and modular approaches to understanding programming paradigms gain handson with unreal engines umg learning to differentiate between the designer and code graphs and mastering the essentials of ui creation through practical exercises mock up various ui widgets and add functional code and also develop common game components such as world maps loading screens and mini maps what sets this apart is its blend of theoretical insights and practical application all within the unreal engine ecosystem whether youre aiming to enhance player or streamline your design process this will help you build professionalquality user interfaces with confidence
-
-user interface design theory
+</DOC>
+<DOC>user interface design theory
 cover user interface design theory there are several key design practices used in the games industry to build effective user interface these methodologies will benefit the players during gameplay and help speed up designers when building user interface
 user interface in game design introduction user interface design theory user interface examples minimalist design modular design programming paradigms user interface design theory review
+</DOC>
 
-unreal motion graphics umg
+<DOC>unreal motion graphics umg
 cover the base components to umg in unreal engine user interface in games are broken down in to simple components review how to navigate the unreal engine umg common input and panel widget components at the end of this review user interface design and prototyping tools
 unreal motion graphics umg unreal engine widgets common components input components panel components ui design tools and prototyping unreal motion graphics umg review ui mock up
+</DOC>
 
-creating modular components
+<DOC>creating modular components
 create modular templates to help our workflows in the future these modular templates will be reuseable across multiple widgets we create creating modular templates will keep our user interface construction open to the changes during development
 creating modular components user interface setup button setup button code icon setup icon textures icon import icon variables icon code progress bar setup progress bar variables progress bar code editable text box setup editable text box variables editable text box code window setup move button size button window design options creating modular components review
+</DOC>
 
-creating user interface
+<DOC>creating user interface
 start creating basic user interface that use in our future game modes about size map optimization and how to avoid circular references by the end of this integrate damage healing and a multipurpose statistic change actor during our process of creating user interface will start the creation of our ai to be used for enemies
 creating user interface size map optimization resource bar setup hud setup character statistics user interface communication modifying character statistics statistic changer actor statistic changer code nameplate setup nameplate code ai setup damaging attack code ai nameplate code ability bar setup ability bar code creating user interface review project congratulations
 </DOC>
-
 <DOC>
 game development and prototyping
 be introduced to game development and prototyping for games courses are highly recommended while courses create the foundational unreal engine project assets and code used throughout this this requires no previous and aimed at beginners
 this explores different game modes stealth survival platformer capture the flag action combat crafting and story this will include a preproduction phase where learners will break down the design of each mode using obsidian understanding the core gameplay each mode is intended to design this preproduction phase will not only outline gameplay features but also how you can reuse assets and code for quick prototyping after preproduction there is a dedicated to creating each game mode this will include game modespecific code design and iteration by the end of this package your project to be in a visually presentable format for your portfolio
-
-preproduction
+</DOC>
+<DOC>preproduction
 this is all about planning before a game begins there are numerous decisions that you need to think about it is important to seek out games that are similar in design look for success and failure stories from developer interviews our industry loves to share knowledge through convention talks dev logs on youtube and through communities like discord during preproduction it is important to identify your early goals for development and in phases dont try to fully build specific features always focus on the core game loop it is important to keep it in specific design targets where you can take a moment and play what you are making from there you can adjust iterate and further understand your project progression
 game development and prototyping introduction preproduction obsidian game mode references scope stealth survival scope platformer scope action combat scope capture the flag scope crafting scope story scope shared systems converting scope to level design tasks converting scope to system tasks preproduction review
+</DOC>
 
-implementation
+<DOC>implementation
 implement all the game mechanics we need to start prototyping each game mode create specific features that we can enable or disable for our game design needs this is built to give you a broad understanding on how to implement mechanics and systems in the future
 implementation movement combat and stealth state stealth coverage state stealth coverage actor blender sword and shield twohanded bow rifle stealth attacks magic platformer attack setup platformer attack polish keybind planning ability bar redesign keybinds user interface keybinds enhanced input keybinds ability code the collision detection problem melee attack setup kick attack setup montage notify function melee hit function montage notify projectile attack setup projectile hit code projectile expose on spawn projectile polish projectiles hitting the environment area of effect magic area of effect melee grenade setup projectile explosion area of effect function weapon select setup interact setup interact communication equip weapon teleporter setup teleporter implementation teleporter child actors knockback jump pad death animation player death setup death widget implementation death widget polish respawn new pawn respawn revive respawn polish ai spawner puzzle setup puzzle passcode puzzle polish regeneration player error widget ability costs cooldown setup icon cooldown cooldown communication ai aggro ai leash ai player detection ai move to function player noise setup player noise implementation ai aggro on hit move function to parent class enemy child classes enemy weapon setup enemy attack setup enemy attack polish enemy attack implementation enemy attack rotation team setup patrol marker setup ai patrol setup ai patrol code ai patrol polish nameplate polish loot setup inventory add check inventory function inventory remove inventory widget setup item widget setup inventory widget implementation crafting setup crafting widget recipe widget crafting widget code crafting widget implementation crafting station quest setup quest widgets quest update function quest add function narrative setup narrative widget narrative implementation flag setup flag home setup scoreboard player housing setup player housing code implementation review
+</DOC>
 
-game modes
+<DOC>game modes
 it is time to put everything youve learned to the test everything from all the way through to be tasked to design one of each game mode stealth survival platformer capture the flag action combat crafting and story understanding game design for multiple genres is part of creating innovative new ideas when two seemingly opposite genres get combined together it sparks something new try to take a loose approach at what you create think about the ambience for your level decide what game mechanics do you choose to keep or improve for each game mode
 game modes stealth survival platformer capture the flag action combat crafting story game modes review
+</DOC>
 
-reflection
+<DOC>reflection
 your final project for is to design a small game with complete creative freedom try to keep it simple think about one two or three core gameplay mechanics to focus on your designs should focus on supporting those features perhaps one of your previous game modes sparked your interest and you can take it to the next level by expanding it further you can try combining different game genres that you rarely see used together maybe there is a game type that wasnt discussed that you are really interested in prototyping use obsidian to plan your designs and scope accordingly look for references and complete research on similar genres your limits are only bound to your imagination
 final project reflection review
 </DOC>
-
 <DOC>
 introduction to game design
 this introduces the fundamentals of games and delves into the intricate art of game design exploring concepts from generating original game ideas to crafting comprehensive design documents throughout the learners will discover the iterative process of game development emphasizing teamwork and reflection as essential components of creating compelling interactive
 this is for learners of any level who want an introductory understanding of the game industry
-
-what is game design
+</DOC>
+<DOC>what is game design
 be learning all about games and in particular what we mean when it comes to game design
 genres of games action and adventure shooters role playing games platformers how to find and cultivate fun roles in a development studio paths art vs design specialities indie vs aaa studio different roles in game design responsibilities skillset
+</DOC>
 
-designing your first game
+<DOC>designing your first game
 in your second be learning how to generate ideas and put together a pitch proposal for an original game idea
 where do ideas come from brainstorming pillars of game design market research audience research technical research identifying scope what is the aim of balancing a game how to be fair to the player how do we keep players engaged how do we entertain players what is a design methodology waterfall methodology agile methodology double diamond what is a pipeline identifying target market swot analysis pitch decks presenting a pitch deck
+</DOC>
 
-the iterative process
+<DOC>the iterative process
 the third and of the learners will be taught about the iterative design process of games development and how we in teams to produce content and reflect on content also begin working towards your design document for your own game idea
 iteration cycle working in a team source control project roadmaps prototyping
+</DOC>
 
-design documentation
+<DOC>design documentation
 final be putting together your game design document for your original game idea what a game design document includes and how to use it to communicate ideas to peers
 what is a game design document how are game design documents used keeping organized reviewing an example
 </DOC>
-
 <DOC>
 blueprint scripting
 the blueprint visual scripting system in unreal engine is a visual programming language that uses a nodebased interface to create gameplay elements the nodebased workflow provides designers with a wide range of scripting concepts and tools that are generally only available to programmers in addition blueprintspecific markup available in unreal engines c implementation provides programmers with a way to create baseline systems that designers can extend this is primarily aimed at first and secondyear undergraduates interested in engineering or science along with high school students and professionals with an interest in programming
 this introduces learners to the blueprint visual scripting system participants will blueprint basics how they relate to c and blueprint programming principles and will use their knowledge to create an interactive door for a game this does not require learners to have any previous knowledge about blueprint scripting to get started it is recommended that the learner take courses through before starting this
-
-introduction to visual scripting with blueprints
+</DOC>
+<DOC>introduction to visual scripting with blueprints
 learners will be introduced to blueprints unreal engines visual programming language that uses a nodebased interface to create gameplay elements
 introduction blueprint interface blueprints as designer tools strengths and limitations of blueprints reading nodes components relationship between blueprints and c functions and variables variable types inheritance logic and flow control making a door timelines moving the door locking and unlocking event dispatchers construction script infinite loops timers challenge intro door direction
+</DOC>
 
-blueprint communication
+<DOC>blueprint communication
 about traces the way that blueprints communicate with each other in unreal engine and combine traces and triggers to build additional interactive elements for a game
 traces trace types trace channel object traces single and multi traces hit results interfaces inputs print string overlaps casting trigger class button trigger lever trigger challenge intro elevator
+</DOC>
 
-characters controls and cameras
+<DOC>characters controls and cameras
 learners will be introduced to actors pawns and characters and how to utilize input actions to communicate between the input system and their projects code an input action can be anything that an interactive character might do like jumping or opening a door or it can be used to indicate user input states like holding a button that changes walking movement to running learners will create their own custom logic for a game character
 character class player controller crouching control rotation camera and spring arm switching cameras enhanced input actions triggers and modifiers
+</DOC>
 
-creating mechanics
+<DOC>creating mechanics
 learners will be introduced to how create mechanics in games and devise their own solutions for gameplay this will include completing a simplified inventory system and management of said system
 data assets inventory component picking up items using items enums widget place item trigger
 </DOC>
-
 <DOC>
 visual development and audio design in games
 be introduced to visual and audio development for games about d models animation visual effects vfx and sound effects sfx
@@ -154,28 +167,31 @@ create modify paint and uv d models
 use and create niagara vfx and sfx for game design
 understand technical animation
 how to implement animation in unreal engine
-
-introduction to art styles
+</DOC>
+<DOC>introduction to art styles
 welcome to the introduction to art styles explore art styles camera perspectives and lighting in game design this will help you breakdown the art style of a game and how it can impact game design
 introduction introduction to art styles realism vs stylized camera perspectives camera mechanics stylistic choices lighting in game design meet and greet introduction to art styles review
+</DOC>
 
-introduction to animation
+<DOC>introduction to animation
 cover technical animation and unreal engines animation systems create a new project as a foundation to be used for future game prototyping project import an assortment of mixamo assets as a base animation kit
 animation animation blueprints animation assets procedural animation and motion capture project setup mixamo setup unarmed blendspace animation blueprint event graph animation blueprint anim graph character input strafe character input dodge blendspace character input dodge implementation character input dodge polish jump shield blendspace two handed blendspace rifle blendspace bow blendspace stealth blendspace animation stance idle poses basic attack animations basic attack montages animation blend per bone block montages air dash code comments introduction to animation review
+</DOC>
 
-introduction to d modeling
+<DOC>introduction to d modeling
 cover what is a d model and how it is broken down in to triangles review optimization techniques to help make a game run with smooth framerates walkthrough the development of a d model from sketch creation and implementation import addition free d models to use in our redesign of the stylized egypt level
 introduction to d modeling what is a d model optimization techniques importing weapons weapon swap setup weapon implementation a weapon implementation b unreal engine modeling tools d modeling preproduction d modeling production environment assets d model code comments introduction to d modeling review stylized egypt redesign
+</DOC>
 
-visual effects and audio design
+<DOC>visual effects and audio design
 review what the niagara vfx system is in unreal engine and how it is broken down in to niagara emitters and niagara systems also take a look a implementing common audio design components through your level and character
 of visual effects audio design vfx in unreal engine using niagara systems common niagara emitter settings niagara compatible materials for mesh sfx imports ambient audio footstep audio design attack audio design visual effects vfx and audio design review
+</DOC>
 
-visual development and audio design wrap up
+<DOC>visual development and audio design wrap up
 peer review discussion prompt
 project congratulations
 </DOC>
-
 <DOC>
 fundamentals of level design with unreal engine
 embark on a journey into the heart of game design through our level design discover the art and theory that shapes player examining realgame examples to understand the nuances of level design from singleplayer to multiplayer grasp the principles that make each unique and engaging

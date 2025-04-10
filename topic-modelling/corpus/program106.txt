@@ -14,73 +14,81 @@ use apigee x organizations that are automatically generated for you to build an 
 api development on google clouds apigee api platform
 you how to create apis that utilize multiple services and how you can use custom code on apigee also about fault handling and how to share logic between proxies you about traffic management and caching you also create a developer portal and publish your api to the portal you about logging and analytics as as cicd and the different deployment models supported by apigee
 through a combination of lectures handson labs and supplemental materials how to design build secure deploy and manage api solutions using google clouds apigee api platformthis is the third and final of the developing apis with google clouds apigee api platform series
-
-introduction
+</DOC>
+<DOC>introduction
 welcome to api development this is the third in the developing apis with google clouds apigee api platform series
 series introduction introduction
+</DOC>
 
-mediation
+<DOC>mediation
 this introduces mediation concepts including payload formats and transformation service callouts custom code policies hosted targets shared flows and fault handling
 json xml and soap lab intro add xml support getting started with google cloud platform and qwiklabs mediation and service callouts mediation and service callouts custom code lab intro mashup lab intro call services in parallel using javascript shared flows lab intro shared flows fault handling lab intro fault handling review
+</DOC>
 
-traffic management
+<DOC>traffic management
 this introduces spike arrests quotas and caching within apigee
 apigee components rate limiting with spike arrests and quotas rate limiting with spike arrests and quotas rate limiting with spike arrests and quotas rate limiting with spike arrests and quotas lab intro traffic management caching caching caching lab intro caching review
+</DOC>
 
-api publishing
+<DOC>api publishing
 this introduces api publishing the developer portal and api versioning
 rest api design part iii versioning developer portals lab intro developer portal review
+</DOC>
 
-logging and analytics
+<DOC>logging and analytics
 this introduces message logging cloud logging and apigee analytics
 message logging analytics review
+</DOC>
 
-advanced topics
+<DOC>advanced topics
 this introduces apigee deployment options and cicd tools and strategies
 apigee offline development and cicd apigee deployment options review review
 </DOC>
-
 <DOC>
 api design and fundamentals of google clouds apigee api platform
 you how to design apis and how to use openapi specifications to document them you about the api life cycle and how the apigee api platform helps you manage all aspects of the life cycle you about how apis can be designed using api proxies and how apis are packaged as api products to be used by app developers
 through a combination of lectures handson labs and supplemental materials how to design build secure deploy and manage api solutions using google clouds apigee api platform this is the first of the developing apis with google clouds apigee api platform series after completing this enroll in the api security on google clouds apigee api platform
-
-introduction
+</DOC>
+<DOC>introduction
 welcome to api design and fundamentals this is the first in the developing apis with google clouds apigee api platform series
 series introduction introduction
+</DOC>
 
-apigee
+<DOC>apigee
 this introduces the apigee platform api management and the api lifecycle
 product api lifecycle apigee organizations review
+</DOC>
 
-apifirst and openapi specifications
+<DOC>apifirst and openapi specifications
 this introduces the basic concepts of rest api design api first development and openapi specifications
 rest api design part i basics rest api design part i basics apifirst development openapi specs review
+</DOC>
 
-api proxies
+<DOC>api proxies
 this introduces api proxies proxy and target endpoints environment groups route rules target servers conditions flows and policies
 apigee api proxies lab intro generating an api proxy using an openapi spec getting started with google cloud and qwiklabs proxy endpoints and environment groups conditions flows and policies conditions flows and policies target endpoints route rules and target servers lab intro target servers lab intro route rules and the trace tool review
+</DOC>
 
-api products
+<DOC>api products
 this introduces rest api response design api products app developers apps api keys and api product strategies
 api products developers apps and api keys api product strategies api product strategies lab intro api products developers apps and api keys rest api design part ii responses rest api design part ii responses review review
 </DOC>
-
 <DOC>
 api security on google clouds apigee api platform
 you how to secure your apis you explore the security concerns encounter for your apis you about oauth the primary authorization method for rest apis about json web tokens jwts and federated security you also about securing against malicious requests safely sending requests across a public network and how to secure your data for users of apigee
 through a combination of lectures handson labs and supplemental materials how to design build secure deploy and manage api solutions using google clouds apigee api platform this is the second of the developing apis with google clouds apigee api platform series after completing this enroll in the api development on google clouds apigee api platform
-
-introduction
+</DOC>
+<DOC>introduction
 welcome to api security this is the second in the developing apis with google clouds apigee api platform series
 series introduction introduction
+</DOC>
 
-authentication authorization and oauth
+<DOC>authentication authorization and oauth
 this introduces api security concerns oauth json web tokens saml and openid connect
 api security concerns identity authentication and authorization oauth introduction oauth introduction oauth client credentials grant oauth password grant oauth authorization code grant oauth authorization code grant oauth authorization code grant oauth wrapup lab intro using oauth client credentials grant type getting started with google cloud and qwiklabs jwt jws saml and openid connect review
+</DOC>
 
-content transport and platform security
+<DOC>content transport and platform security
 this introduces contentbased attacks transport security and protection against unauthorized access
 protecting against contentbased attacks protecting against contentbased attacks lab intro json threat protection lab intro regex threat protection transport security transport security apigee platform security apigee platform security lab intro internal threat protection lab intro data masking review review
 </DOC>
-

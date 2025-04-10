@@ -18,153 +18,171 @@ a central premise of these courses is that obtaining a wellrounded expertise in 
 financial accounting foundations
 the foundations of financial accounting information start your journey with a general of what financial accounting information is and the main financial statements then how to code financial transactions in financial accounting language in the meantime about the most important concept in contemporary financial accounting accrual accounting then critically analyze how firms recognize revenues finally finish the with an analysis of accounting for shortterm assets where go into detail on how firms account for accounts receivable and inventories
 upon successful completion of this be able to understand the main financial statements and the financial information write a financial transaction in financial accounting language and understand how this impacts the main financial statements understand how accrual accounting and fundamental accounting concepts understand revenue recognition principles and how they impact the main financial statements account for accounts receivable and inventories this is part of the imba offered by the university of illinois a flexible fullyaccredited online mba at an incredibly competitive price for more information please see the resource page and go to onlinembaillinoisedu
-
-orientation
+</DOC>
+<DOC>orientation
 become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
 meet professor urcan the impact of the gies community
+</DOC>
 
-introduction to financial accounting
+<DOC>introduction to financial accounting
 accounting is the language of business managers communicate the results of operations within a firm through accounting to various financial information users including investors and creditors explore various users of accounting information and the main financial statements they use to acquire accounting information develop an understanding of the particular type of information provided by each financial statement and how financial statements are related to each other
 lesson introduction to financial accounting lesson what is accounting lesson financial accounting information lesson balance sheet lesson balance sheet assets lesson balance sheet liabilities lesson balance sheet shareholders equity lesson income statement lesson cash flow statement case
+</DOC>
 
-recording transactions and financial statement preparation
+<DOC>recording transactions and financial statement preparation
 the starting point of financial statements is individual financial transactions how to code financial transactions in accounting language and how to build the main financial statements from these coded financial transactions this bottomup approach will help you appreciate the impact of various financial transactions on the main financial statements
 lesson introduction lesson example illinois supermarket lesson individual accounts lesson accrual accounting case
+</DOC>
 
-fundamental accounting concepts and revenue recognition
+<DOC>fundamental accounting concepts and revenue recognition
 fundamental accounting concepts and revenue recognition principles are at the heart of coding financial transactions in accounting language as as the preparation of financial statements from these coded financial transactions reallife transactions are reflected in financial statements through the lens of these concepts and principles a good understanding of these concepts and principles will help you understand the type and nature of information you can from financial statements
 lesson introduction lesson fundamental accounting concepts lesson accruals concept lesson conservatism concept lesson revenue recognition case
+</DOC>
 
-shortterm assets
+<DOC>shortterm assets
 one of the major components of a balance sheet is shortterm assets which are assets that can be converted into cash within a year accounts receivables and inventories constitute a major part of shortterm assets understanding accounting for these accounts will help you uncover how these accounts change over time their valuation and their usefulness in managerial decisionmaking
 lesson introduction lesson accounts receivables cash discounts lesson accounts receivables sales returns lesson accounts receivables bad debts lesson accounts receivables of walmart lesson inventories lesson cost flow assumptions lesson inventories of walmart appendix lifo fifo conversion case on your terms
 </DOC>
-
 <DOC>
 financial accounting advanced topics
 explore advanced topics in financial accounting start your journey with accounting for assets with more than a year life in detail how firms account for fixed assets then move on to the financing of assets and discuss accounting for liabilities the will continue with an indepth exploration of shareholders equity finally critically evaluate the preparation components and analysis of the cash flows statement
 upon successful completion of this be able to account for fixed assets understand accounting for liabilities evaluate shareholders equity section of a balance sheet and understand preparation and information provided by cash flows statement this is part of the imba offered by the university of illinois a flexible fullyaccredited online mba at an incredibly competitive price for more information please see the resource page and onlinembaillinoisedu
-
-orientation
+</DOC>
+<DOC>orientation
 become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
 meet professor urcan the impact of the gies community
+</DOC>
 
-longterm assets
+<DOC>longterm assets
 longterm assets assets that can be converted into cash in a time period of more than year constitute a large portion of a balance sheet for a lot of public companies understanding accounting for longterm assets will help you uncover how these accounts change over time their valuation and their usefulness in managerial decision making
 lesson and asset recognition criteria lesson fixed assets lesson disposal of fixed assets lesson gross vs net ppe lesson accounting for asset impairments lesson walmart assets case
+</DOC>
 
-liabilities
+<DOC>liabilities
 one of the major sources of financing for many firms is liabilities firms routinely finance their operations through various liabilities including accounts payable bank loans and bonds accounting for liabilities will help you understand how liabilities are created how they are valued and how they inform a firms liquidity position
 lesson and liability recognition criteria lesson shortterm liabilities lesson longterm liabilities appendix time value of money appendix special liabilities appendix advanced issues in bonds case
+</DOC>
 
-shareholders equity
+<DOC>shareholders equity
 one of the major sources of financing for many firms is contributions from shareholders the shareholders equity section of a balance sheet shows details of the investments of shareholders accounting for shareholders equity will help you understand the amount of shareholder investment the number of shares issued in return by the firm for shareholders the amount of earnings earned by the firm but not distributed to shareholders and information about the amount of shares repurchased by the firm from the stock market
 lesson shareholders equity lesson shareholders equity equity issuance and profitability lesson shareholders equity distributions lesson shareholders equity earnings per share appendix advanced issues in shareholders equity case
+</DOC>
 
-cash flows statement
+<DOC>cash flows statement
 one of the major financial statements is cash flows statement this statement describes in detail how cash changes for a firm over a certain period the cash flows statement provides valuable information about the liquidity position of a firm the cash consequences of managerial operating and investing decisions as as the earnings quality of a firm
 lesson cash flows statement lesson cash flows statement preparation appendix direct method of cfo case on your terms
 </DOC>
-
 <DOC>
 project initiation and planning
 in todays competitive environment learning to effectively manage projects is a critical this will focus on initiating and planning projects the will cover the more traditional linear process like waterfall approach as as the dynamic and iterative approach of agile and hybrid models so the learners can decide when one approach is more suitable for any of their projects to maximize the chances of a successful
-
-orientation
+</DOC>
+<DOC>orientation
 become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
 welcome to project initiation and planning on your terms
+</DOC>
 
-waterfall approach the basics
+<DOC>waterfall approach the basics
 about the life cycle of a project when using the traditional model for project management why is it called waterfall and how does that dictate the process the focus will be on the first state of the project life cycle project initiation
 introduction what is a project waterfall approach to project management initiating a project meet our expert harshad desai senior manager at a technology company insight from an expert on waterfall approach stakeholder management meet our expert garrett whitsitt managing consultant at point b insight from an expert on managing stakeholders project scope scope example project priorities insight from an expert on project priorities breakdown structure insight from an expert on the importance of planning how to use sticky notes to create a breakdown structure introduction to projectlibre how to install for mac introduction to projectlibre how to install for pc creating a breakdown structure using projectlibre organizational and team structure meet our experts sean bauer senior director and andrew howard senior manager at walgreens insight from an expert on structuring the project team takeaways
+</DOC>
 
-waterfall approach get the project going
+<DOC>waterfall approach get the project going
 about the planning phase of the project when using a waterfall approach getting the team on board and collaboratively building a plan for managing tasks stakeholders and risks about how to create the foundation for developing a detailed project plan which includes budget and schedule
 project kickoff kickoff meeting communication planning responsibility matrix risk planning risk response insight from an expert on risk planning mission creep task dependencies illustration of precedence relationship types in projectlibre estimating time estimating cost insight from an expert on time and cost estimation precedence diagramming method pdm creating a network diagram in excel creating a precedence diagram using projectlibre takeaways
+</DOC>
 
-waterfall approach create a plan for action
+<DOC>waterfall approach create a plan for action
 several techniques that will help you develop a detailed project plan the project plan will reveal the critical tasks managing projects using a waterfall approach is a starttofinish approach to getting things done and making projects more successful the critical path has a significant impact on both the cost and schedule of a project
 gantt chart using excel to create a gantt chart stacked bar method using excel to create a gantt chart calendar method projectlibre basic operations critical path method cpm forward pass critical path method cpm backward pass critical path method cpm float cpm an illustrated example in excel cpm an illustrated example in projectlibre pert evaluation and review technique pert example pert calculating expected time and standard deviation pert project completion time analysis takeaways
+</DOC>
 
-agile initiating and planning for dynamic projects
+<DOC>agile initiating and planning for dynamic projects
 about agile project management the methodology best used when project requirements are not defined and nd change frequently this will focus on the roots of agile and show how to initiate and plan projects using scrum
 agile project management agile and lean agile methodologies kanban framework agile methodologies scrum framework scrum initiating a project insight from an expert on the role of the product owner scrum sprint planning story point meeting insight from an expert on story points project manager vs scrum master insight from an expert on servant leadership takeaways
 </DOC>
-
 <DOC>
 project execution and control
 the focus of this is on the process of managing projects after planning is done we need to know how to successfully execute the plan and deliver within the allocated timeframe and cost this will focus on how execution and progress evaluation is performed in a waterfall approach as as the agile approach to project management the goal is to the tools and techniques offered by both of these approaches and empower the project managers to utilize what works for a given project
-
-orientation
+</DOC>
+<DOC>orientation
 become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
 welcome to project execution and control introduction to projectlibre how to install for mac introduction to projectlibre how to install for pc on your terms
+</DOC>
 
-waterfall approach creating a realistic project plan
+<DOC>waterfall approach creating a realistic project plan
 about tools for making a realistic project plan
 scheduling resources projectlibre basic operations assigning resources in projectlibre scheduling resources leveling within float detecting overallocated resources in projectlibre leveling resources within float using projectlibre scheduling resources leveling outside of float leveling resources outside of float using projectlibre crashing crashing example fast tracking adjusting project scope setting baseline plan setting baseline plan in projectlibre takeaways
+</DOC>
 
-waterfall approach tracking a projects progress
+<DOC>waterfall approach tracking a projects progress
 about the tools and techniques used in the waterfall approach for monitoring the progress of a project
 execution phase earned value management basics updating project progress using projectlibre earned value analysis evaluating project cost using projectlibre evaluating project schedule using projectlibre project tracking earned value forecasting the cost earned value schedule forecast tracking gantt chart meet our experts sean bauer senior director and andrew howard senior manager at walgreens insight from an expert on tracking project progress takeaways
+</DOC>
 
-waterfall approach finishing project closure and learning
+<DOC>waterfall approach finishing project closure and learning
 about the importance of proper project closure
 status report change management plan closing phase delivering the project closing phase releasing the resources closing phase project audit meet our expert harshad desai senior manager at a technology company insight from an expert on documenting the project plan and execution insight from an expert on lessons learned from past projects performance evaluation leading vs managing meet our expert garrett whitsitt managing consultant at point b insight from an expert on the balance between managing tasks and managing people insight from an expert on building relationships leading teams insight from an expert on project managers destructive behavior takeaways
+</DOC>
 
-scrum planning and executing for dynamic projects
+<DOC>scrum planning and executing for dynamic projects
 
 daily standup observing a daily standup insight from an expert on working with virtual teams sprint burndown chart sprint review meeting insight from an expert on the dangers of comparing scrum teams backlog grooming sprint retrospective scrum project closure sprint for adaptive process insight from an expert on the journey to agile scrum obstacles insight from an expert on the disadvantages on waterfall insight from an expert on the organizational transformation to agile hybrid models insight from an expert on hybrid models insight from an expert on why hybrid models are used takeaways
 </DOC>
-
 <DOC>
 managing the organization
 this is intended to help you become a better manager by helping you more fully understand and deal with the complexities and challenges associated with managerial life in organizations theories principles and frameworks that will help you more effectively manage and lead your organizations
 be able to analyze common managerial challenges and develop solutions to these challenges use power effectively and strategically to implement organizational change understand the foundations of organizational culture and decisionmaking navigate common decisionmaking pitfalls and ethical challenges apply principles of organization management to common challenges of management this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
-
-orientation
+</DOC>
+<DOC>orientation
 become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
 welcome to the about professor michael bednar about professor geoffrey love on your terms
+</DOC>
 
-power and organizational change
+<DOC>power and organizational change
 this will introduce you to principles of power so that you can recognize where power comes from and use you power more effectively as a manager this will also explore models of organizational change and best practices that can help you successfully implement a change initiative
 introduction sources of power networks and power using power organizational change getting people to commit to change and overcoming resistance to change choosing strategies for change a model for implementing major change like this more with the imba optional
+</DOC>
 
-managing organizational culture
+<DOC>managing organizational culture
 this will explore the concept of organizational culture and will help you to understand where it comes from and how you can manage and shape culture in your organization
 what is culture levels of culture the pros and cons of a strong culture culture and competitive advantage sources of culture
+</DOC>
 
-decisionmaking and ethics
+<DOC>decisionmaking and ethics
 this will introduce different types of decisionmaking processes and will highlight some common decisionmaking biases that can affect managers including a number of ethical decisionmaking traps
 introduction to decision making in organizations lesson rational boundedly rational and intuitive decisionmaking biases in human decisionmaking prospect theory and how losses loom larger than gains ethical decisionmaking traps rationalization ethical decisionmaking tests
+</DOC>
 
-leadership in organizations
+<DOC>leadership in organizations
 this will highlight several perspectives on organizational leadership and will use a leadership lens to review key principles that have been discussed in the
 introduction to leadership pathgoal model of leadership transactional vs transformational leadership leadership as organization building leadership and the problems of organizations recap gies online programs
 </DOC>
-
 <DOC>
 designing the organization
 organizations are complex and can be difficult to manage so managers need tools to help them better understand and deal with the many complexities and challenges associated with organizational life theories principles and frameworks that will help you design more effective organizations
 be able to analyze organizations from multiple perspectives to better understand business challenges strategically plan for effective organizational governance develop systems to plan for growth and change understand implications of the external environment on business and strategically respond to these factors this is part of gies college of business suite of online programs including the imba and imsm more about admission into these programs and explore how your coursera can be leveraged if accepted into a degree at httpsdegreesgiesbusinessillinoiseduidegrees
-
-orientation
+</DOC>
+<DOC>orientation
 become familiar with the your classmates and our learning environment the orientation will also help you obtain the technical required for the
 welcome to the about professor michael bednar about professor geoffrey love on your terms
+</DOC>
 
-purpose and governance
+<DOC>purpose and governance
 this explores the purpose of a business and shows how can managers infuse a sense of purpose into their organizations it also examines different perspectives on corporate governance
 introduction to purpose and governance purpose of a business building purpose into your organization mission statements rational system view of governance natural system view of governance gauging organizational effectiveness
+</DOC>
 
-organizational structure
+<DOC>organizational structure
 this explores various organizational structures and provides a framework for knowing when to choose a particular structure
 introduction to organizational structure contingency theory functional structure divisional structure matrix structure other structures
+</DOC>
 
-growth and organizational life cycles
+<DOC>growth and organizational life cycles
 this explores several of the organizational design implications that managers need to recognize as they grow and move through various stages of the organizational life cycle
 growth growth and the challenge of control mechanistic and organic designs organizational life cycle integrating mechanisms recap
+</DOC>
 
-external environment
+<DOC>external environment
 we examine ways in which organizations can be designed to effectively respond to changes in the external environment
 elements of the external environment designing for uncertainty resource dependence theory exploitation vs exploration disruptive innovation designing to overcome disruption
 </DOC>
-

@@ -7,109 +7,120 @@ whartons business and financial modeling is designed to help you make informed b
 introduction to spreadsheets and models
 the simple spreadsheet is one of the most powerful data analysis tools that exists and its available to almost anyone major corporations and small businesses alike use spreadsheet models to determine where key measures of their success are now and where they are likely to be in the future but in order to get the most out of a spreadsheet you have the knowhow to use it this is designed to give you an introduction to basic spreadsheet tools and formulas so that you can begin harness the power of spreadsheets to map the data you have now and to predict the data you may have in the future through short easytofollow demonstrations how to use excel or sheets so that you can begin to build models and decision trees in future courses
 basic familiarity with and access to excel or sheets is required
-
-spreadsheets a tool for thinking with numbers
+</DOC>
+<DOC>spreadsheets a tool for thinking with numbers
 this was designed to introduce you to the history of spreadsheets their basic capabilities and how they can be used to create models the different types of data used in spreadsheets spreadsheet notations for mathematical operations common builtin formulas and functions conditional expressions relative and absolute references and how to identify and correct circular references by the end of this understand the context of spreadsheets be able to navigate a spreadsheet use builtin formulas and functions in spreadsheets create your own simple formulas and identify and correct common errors so you can put spreadsheets to for you
 objectives and a little spreadsheet history navigating a spreadsheet and crafting formulas using functions using conditional expressions in formulas common errors in spreadsheets differences between sheets and excel
+</DOC>
 
-from spreadsheet to model
+<DOC>from spreadsheet to model
 move from spreadsheet to model so you can begin to create your own models that reflect realworld events how to organize and lay out model elements as as the types of objective functions and their use also whatif analysis and scenarios sensitivity analysis and other classic models by the end of this be able to design a spreadsheet reflecting assumptions decision variables and create a basic cashflow model evaluate a small business conduct whatif analysis identify key variables using sensitivity analysis and linear programming models and deterministic models
 introduction using assumptions and decision variables in spreadsheet models structuring a spreadsheet to model variables objectives and objective functions constructing simple cashflow model whatif analysis and sensitivity analysis limits to simple deterministic models
+</DOC>
 
-addressing uncertainty and probability in models
+<DOC>addressing uncertainty and probability in models
 this was designed to introduce you to how you can use spreadsheets to address uncertainty and probability about random variables probability distributions power exponential and log functions in model formulas models for calculating probability trees and decision trees how to use regression tools to make predictions as as multiple regression by the end of this be able to measure correlations between variables using spreadsheet statistical functions understand the results of functions that calculate correlations use regression tools to make predictions and improve forecasts with multiple regression
 introduction random variables and probability distributions changes in discrete and continuous time power exponential and log functions probability trees and decision trees correlation and regression
+</DOC>
 
-simulation and optimization
+<DOC>simulation and optimization
 to use spreadsheets to implement monte carlo simulations as as linear programs for optimization examine the purpose of monte carlo simulations how to implement monte carlo simulations in spreadsheets the types of problems you can address with linear programs and how to implement those linear programs in spreadsheets by the end of this be able to model uncertainty and risk in spreadsheets and use excels solver to optimize resources to reach a desired also be able to identify the similarities and differences between excel and sheets and be prepared for the next in the business and financial modeling
 introduction monte carlo simulations linear programming next steps and differences between excel and sheets
 </DOC>
-
 <DOC>
 wharton business and financial modeling capstone
 capstone recommend a business strategy based on a data model youve constructed using a data set designed by wharton research data services wrds implement quantitative models in spreadsheets to identify the best for success and minimizing risk using your newly acquired decisionmaking structure a decision and present this of action in a quality powerpoint presentation which includes both data and data analysis from your quantitative models
 wharton research data services wrds is the leading data research platform and business intelligence tool for over corporate academic government and nonprofit clients in countries wrds provides the user with one location to access over terabytes of data across multiple disciplines including accounting banking economics esg finance insurance marketing and statistics
-
-getting started
+</DOC>
+<DOC>getting started
 welcome this opening was designed to give you an of the business and financial modeling capstone in which be working with historical financial data to calculate individual returns and statistics on those returns the project has multiple steps which are outlined below in the project prompt and culminates in a recommendation for portfolio allocation that prepare a presentation on draw on elements from all courses to complete this project and you can use your final presentation as a sample to improve your current job or even find a new one before moving on complete the project scope quiz the you do enables you to understand the steps needed to successfully complete your final project
-
-steps and yahoo finance
-which correlates to steps and in the project prompt be working with a historical data set to calculate performance data and to provide statistics on that data these calculations will allow you to practice using spreadsheets for financial calculations and provides the foundational and numbers for the next steps of the project first use the set to calculate daily returns on a set of securities then use your spreadsheet to calculate statistics be given the to test your knowledge with a sample return to see if your calculations are correct and you may want to refresh your recollection of the content from the with the lectures included here the you complete allows you to form the basis for comparing stock performance which use in creating the investment portfolio for your final project as as the comparison to the performance of a single stock
-definition and uses of models common functions fundamentals of quantitative modeling how models are used in practice fundamentals of quantitative modeling mathematical functions fundamentals of quantitative modeling navigating a spreadsheet and crafting formulas introduction to spreadsheets how to build an optimization model hudson readers ad campaign modeling risk and realities data and visualization graphical representation modeling risk and realities
-
-step creating an optimal risky portfolio on the efficient frontier
-go beyond calculating simple returns to tackle the more advanced task of finding the minimum variance and optimal risk portfolio weights for a portfolio of selected securities note the optimal risky portfolio is also known as an optimal portfolio or tangent portfolio follow the tasks in step in the project prompt and use the resources below to calculate the portfolio weights for two securities that results in the portfolio with the minimum variance then calculate the optimal risky portfolio on the efficient frontier for these same two securities then for all stocks in the pool be quizzed on your calculations and other insights that emerge from this exercise the you complete gives you practice in creating an optimal risky portfolio which is a key component of your final project note there are a number of resources available on the internet providing stepbystep instructions on how to use excel to create an optimal risky portfolio on the efficient frontier given a certain set of available assets we encourage you to attempt to use the you gained during the to through these steps independently you are however permitted to utilize thirdparty resources if you find it necessary weve included some lectures from the underlying courses concerning solver optimization and other relevant topics
-introducton to linear models and optimization fundamentals of quantitative modeling present and future value fundamentals of quantitative modeling optimization fundamentals of quantitative modeling linear programming incl solver introduction to spreadsheets optimizing with solver and alternative data inputs modeling risk and realities adding risk managing investments at epsilon delta capital modeling risk and realities using scenarios for optimizing under high uncertainty sensitivity analysis and efficient frontier modeling risk and realities
-
-step optional exercise using capm tables
-the capital asset pricing model or capm is another tool used by investors to weigh the risks and rewards of potential investments optional covering step in the project prompt you can use capm as a vehicle to further strengthen your financial modeling including using regression concepts you may revisit the lectures below touching on regression to test whether youve grasped the concepts in the capm model this includes a short quiz this assessment is formative meaning your score will not count towards your final grade the you do may inform how you build the mixed asset portfolio of your final project but it is not necessary to complete the final project
-introduction to regression models fundamentals of quantitative modeling use of regression models fundamentals of quantitative modeling correlation and regression introduction to spreadsheets
-
-step creating your asset allocation final presentation
-final you are asked to move beyond a stockonly portfolio to one utilizing more diversified assets and to prepare a short presentation summarizing your findings as explained in step of the project prompt you have million to invest in the vanguard total bond market index fund ticker vbtlx and vanguard index ticker vfiax investment vehicles there are two assessments first complete a short quiz on the characteristics of your optimal risky portfolio then in the peer review component of this capstone you are tasked with preparing a short presentation that i explores how your portfolio of mixed asset class of funds compares to a single security aapl and ii uses that comparison to discuss the importance of portfolio diversification
 </DOC>
 
+<DOC>steps and yahoo finance
+which correlates to steps and in the project prompt be working with a historical data set to calculate performance data and to provide statistics on that data these calculations will allow you to practice using spreadsheets for financial calculations and provides the foundational and numbers for the next steps of the project first use the set to calculate daily returns on a set of securities then use your spreadsheet to calculate statistics be given the to test your knowledge with a sample return to see if your calculations are correct and you may want to refresh your recollection of the content from the with the lectures included here the you complete allows you to form the basis for comparing stock performance which use in creating the investment portfolio for your final project as as the comparison to the performance of a single stock
+definition and uses of models common functions fundamentals of quantitative modeling how models are used in practice fundamentals of quantitative modeling mathematical functions fundamentals of quantitative modeling navigating a spreadsheet and crafting formulas introduction to spreadsheets how to build an optimization model hudson readers ad campaign modeling risk and realities data and visualization graphical representation modeling risk and realities
+</DOC>
+
+<DOC>step creating an optimal risky portfolio on the efficient frontier
+go beyond calculating simple returns to tackle the more advanced task of finding the minimum variance and optimal risk portfolio weights for a portfolio of selected securities note the optimal risky portfolio is also known as an optimal portfolio or tangent portfolio follow the tasks in step in the project prompt and use the resources below to calculate the portfolio weights for two securities that results in the portfolio with the minimum variance then calculate the optimal risky portfolio on the efficient frontier for these same two securities then for all stocks in the pool be quizzed on your calculations and other insights that emerge from this exercise the you complete gives you practice in creating an optimal risky portfolio which is a key component of your final project note there are a number of resources available on the internet providing stepbystep instructions on how to use excel to create an optimal risky portfolio on the efficient frontier given a certain set of available assets we encourage you to attempt to use the you gained during the to through these steps independently you are however permitted to utilize thirdparty resources if you find it necessary weve included some lectures from the underlying courses concerning solver optimization and other relevant topics
+introducton to linear models and optimization fundamentals of quantitative modeling present and future value fundamentals of quantitative modeling optimization fundamentals of quantitative modeling linear programming incl solver introduction to spreadsheets optimizing with solver and alternative data inputs modeling risk and realities adding risk managing investments at epsilon delta capital modeling risk and realities using scenarios for optimizing under high uncertainty sensitivity analysis and efficient frontier modeling risk and realities
+</DOC>
+
+<DOC>step optional exercise using capm tables
+the capital asset pricing model or capm is another tool used by investors to weigh the risks and rewards of potential investments optional covering step in the project prompt you can use capm as a vehicle to further strengthen your financial modeling including using regression concepts you may revisit the lectures below touching on regression to test whether youve grasped the concepts in the capm model this includes a short quiz this assessment is formative meaning your score will not count towards your final grade the you do may inform how you build the mixed asset portfolio of your final project but it is not necessary to complete the final project
+introduction to regression models fundamentals of quantitative modeling use of regression models fundamentals of quantitative modeling correlation and regression introduction to spreadsheets
+</DOC>
+
+<DOC>step creating your asset allocation final presentation
+final you are asked to move beyond a stockonly portfolio to one utilizing more diversified assets and to prepare a short presentation summarizing your findings as explained in step of the project prompt you have million to invest in the vanguard total bond market index fund ticker vbtlx and vanguard index ticker vfiax investment vehicles there are two assessments first complete a short quiz on the characteristics of your optimal risky portfolio then in the peer review component of this capstone you are tasked with preparing a short presentation that i explores how your portfolio of mixed asset class of funds compares to a single security aapl and ii uses that comparison to discuss the importance of portfolio diversification
+</DOC>
 <DOC>
 decisionmaking and scenarios
 this is designed to show you how use quantitative models to transform data into better business decisions both how to use models to facilitate decisionmaking and also how to structure decisionmaking for optimum results two of whartons most acclaimed professors will show you the stepbystep processes of modeling common business and financial scenarios so you can significantly improve your ability to structure complex problems and derive useful insights about alternatives once youve created models of existing realities possible risks and alternative scenarios you can determine the best solution for your business or enterprise using the decisionmaking tools and techniques youve learned
-
-evaluation criteria net present value
+</DOC>
+<DOC>evaluation criteria net present value
 this was designed to introduce you to the many potential criteria for selecting investment projects and to explore the most effective of these criteria net present value npv through the use of concrete examples the key components of net present value including the time value of money and the cost of capital the main utility of npv and why it is ultimately more accurate and useful for evaluating projects than other commonly used criteria by the end of this be able to explain why net present value analysis is the appropriate criteria for choosing whether to accept or reject a project and why other criteria such as irr payback roi etc may not lead to decisions which maximize value
 introduction introduction criteria for evaluating projects time value of money npv analysis of projects other evaluation techniques the cost of capital
+</DOC>
 
-evaluating projects
+<DOC>evaluating projects
 how to evaluate a project with emphasis on analyzing the incremental aftertax cash flows associated with the project through a concrete example using alternative scenarios to test the effectiveness of this method also why only future cash flows are relevant why to ignore financial costs include all incidental effects remember working capital requirements consider the effect of taxes forget sunk costs remember costs use expected cash flows and perform sensitivity analysis by the end of this be able to evaluate projects more thoroughly and effectively with emphasis on how to model the change in the companys aftertax cash flows so that you can make more profitable decisions
 introduction and analyzing incremental aftertax cash flows initial investment phase analyzing incremental aftertax flows operating phase analyzing incremental aftertax flows terminal phase example new production machine key considerations in evaluations
+</DOC>
 
-expressing business strategies in financial terms
+<DOC>expressing business strategies in financial terms
 this was designed to give you the to how business activities transactions and events are translated into financial statements including balance sheets income statements and cash flow statements also how these three statements are linked to each other and how balance sheets and income statements can help forecast the future cash flow statements by the end of this be able to explain how accounting systems translate business activities into financial terms and how to use this to better forecast future cash flows so that you can express your business strategies in these financial terms and show the bottom line for your proposed plan of action
 introduction to financial statements balance sheets and income statements cash flow statements
+</DOC>
 
-new product value
+<DOC>new product value
 apply what youve been learning to an analysis of a new product venture how to map out a plan of the business activities transactions and events that need to happen to implement the new venture including their timing also how to set up a spreadsheet to help with forecasts and to recalculate things automatically as we rethink our plans see how to forecast out the implied financial statements and calculate the net present value npv by the end of this be able to use spreadsheets to explore different risks a venture may face and analyze the implications of these scenarios for npv so that you can make the most profitable datadriven decision possible
 introduction and speadsheet setup forecasting future cash flows npv and irr calculations formulation and evaluation of alternative scenarios expanding beyond the time horizon conclusion
 </DOC>
-
 <DOC>
 fundamentals of quantitative modeling
 how can you put data to for you specifically how can numbers in a spreadsheet tell us about present and past business activities and how can we use them to forecast the future the answer is in building quantitative models and this is designed to help you understand the fundamentals of this critical foundational business through a series of short lectures demonstrations and the key ideas and process of quantitative modeling so that you can begin to create your own models for your own business or enterprise by the end of this have seen a variety of practical commonly used quantitative models as as the building blocks that will allow you to start structuring your own models these building blocks will be put to use in the other courses
-
-introduction to models
+</DOC>
+<DOC>introduction to models
 how to define a model and how models are commonly used examine the central steps in the modeling process the four key mathematical functions used in models and the essential vocabulary used to describe models by the end of this be able to identify the four most common types of models and how and when they should be used also be able to define and correctly use the key terms of modeling giving you not only a foundation for further study but also the ability to ask questions and participate in conversations about quantitative models
 introduction definition and uses of models common functions how models are used in practice key steps in the modeling process a vocabulary for modeling mathematical functions
+</DOC>
 
-linear models and optimization
+<DOC>linear models and optimization
 this introduces linear models the building block for almost all modeling through close examination of the common uses together with examples of linear models how to apply linear models including cost functions and production functions to your business the also includes a presentation of growth and decay processes in discrete time growth and decay in continuous time together with their associated present and future value calculations classical optimization techniques are discussed by the end of this be able to identify and understand the key structure of linear models and suggest when and how to use them to improve for your business also be able to perform present value calculations that are foundational to valuation metrics in addition understand how you can leverage models for your business through the use of optimization to really fine tune and optimize your business functions
 introduction to linear models and optimization growth in discrete time constant proportionate growth present and future value optimization
+</DOC>
 
-probabilistic models
+<DOC>probabilistic models
 this explains probabilistic models which are ways of capturing risk in process need to use probabilistic models when you dont know all of your inputs examine how probabilistic models incorporate uncertainty and how that uncertainty continues through to the outputs of the model also discover how propagating uncertainty allows you to determine a range of values for forecasting the mostwidely used models for risk including regression models treebased models monte carlo simulations and markov chains as as the building blocks of these probabilistic models such as random variables probability distributions bernoulli random variables binomial random variables the empirical rule and perhaps the most important of all of the statistical distributions the normal distribution characterized by mean and standard deviation by the end of this be able to define a probabilistic model identify and understand the most commonly used probabilistic models know the components of those models and determine the most useful probabilistic models for capturing and exploring risk in your own business
 introduction to probabilistic models examples of probabilistic models regression models probability trees monte carlo simulations markov chain models building blocks of probability models the bernoulli distribution the binomial distribution the normal distribution the empirical rule
+</DOC>
 
-regression models
+<DOC>regression models
 this explores regression models which allow you to start with data and discover an underlying process regression models are the key tools in predictive analytics and are also used when you have to incorporate uncertainty explicitly in the underlying data more about what regression models are what they can and cannot do and the questions regression models can answer examine correlation and linear association methodology to fit the best line to the data interpretation of regression coefficients multiple regression and logistic regression also see how logistic regression will allow you to estimate probabilities of success by the end of this be able to identify regression models and their key components understand when they are used and be able to interpret them so that you can discuss your model and convince others that your model makes sense with the ultimate goal of implementation
 introduction to regression model use of regression models interpretation of regression coefficients rsquared and root mean squared error rmse fitting curves to data multiple regression logistic regression of regression models
 </DOC>
-
 <DOC>
 modeling risk and realities
 useful quantitative models help you to make informed decisions both in situations in which the factors affecting your decision are clear as as in situations in which some important factors are not clear at all you can how to create quantitative models to reflect complex realities and how to include in your model elements of risk and uncertainty also the methods for creating predictive models for identifying optimal choices
 and how those choices change in response to changes in the models assumptions also the basics of the measurement and management of risk by the end of this be able to build your own models with your own data so that you can begin making datainformed decisions also be prepared for the next in the
-
-modeling decisions in low uncertainty settings
+</DOC>
+<DOC>modeling decisions in low uncertainty settings
 this is designed to teach you how to analyze settings with low levels of uncertainty and how to identify the best decisions in these settings explore the optimization toolkit how to build an algebraic model using an advertising example convert the algebraic model to a spreadsheet model with solver to discover the best possible decision and examine an example that introduces a simple representation of risk to the model by the end of this be able to build an optimization model use solver to uncover the optimal decision based on your data and begin to adjust your model to account for simple elements of risk these will give you the power to deal with large models as long as the actual uncertainty in the input values is not too high
 introduction how to build an optimization model hudson readers ad campaign optimizing with solver and alternative data inputs adding risk managing investments at epsilon delta capital
+</DOC>
 
-risk and reward modeling high uncertainty settings
+<DOC>risk and reward modeling high uncertainty settings
 what if uncertainty is the key feature of the setting you are trying to model how to create models for situations with a large number of variables examine high uncertainty settings probability distributions and risk common scenarios for multiple random variables how to incorporate risk reduction how to calculate and interpret correlation values and how to use scenarios for optimization including sensitivity analysis and the efficient frontier by the end of this be able to identify and use common models of future uncertainty to build scenarios that help you optimize your business decisions when you have multiple variables and a higher degree of risk
 high uncertainty settings probability distributions uncertainty and risk common scenarios for multiple random variables risk reduction and calculating and interpreting correlation values using scenarios for optimizing under high uncertainty sensitivity analysis and efficient frontier
+</DOC>
 
-choosing distributions that fit your data
+<DOC>choosing distributions that fit your data
 when making business decisions we often look to the past to make predictions for the future examine commonly used distributions of random variables to model the future and make predictions how to create meaningful data visualizations in excel how to choose the the right distribution for your data explore the differences between discrete distributions and continuous distributions and test your choice of model and your hypothesis for goodness of fit by the end of this be able to represent your data using graphs choose the best distribution model for your data and test your model and your hypothesis to see if they are the best fit for your data
 data and visualization graphical representation pt choosing among distributions discrete distributions pt choosing among distributions continuous distributions hypothesis testing and goodness of fit
+</DOC>
 
-balancing risk and reward using simulation
+<DOC>balancing risk and reward using simulation
 this is designed to help you use simulations to enabling compare different alternatives when continuous distributions are used to describe uncertainty through an indepth examination of the simulation toolkit how to make decisions in high uncertainty settings where random inputs are described by continuous probability distributions also how to run a simulation model analyze simulation output and compare alternative decisions to decide on the most optimal solution by the end of this be able to make decisions and manage risk using simulation and more broadly to make successful business decisions in an increasing complex and rapidly evolving business world
 modeling uncertainty from scenarios to continuous distributions connecting random inputs and random outputs in a simulation analyzing and interpreting simulation output evaluating alternatives using simulation results conclusion
 </DOC>
-

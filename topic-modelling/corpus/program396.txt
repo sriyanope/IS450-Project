@@ -14,55 +14,59 @@ practicing your understanding of these ideas through nongraded quizzes and nongr
 <DOC>
 logistic regression and prediction for health data
 this introduces learners to the analysis of binarydichotomous learners will become familiar with fundamental tests for twogroup comparisons and statistical inference plus prediction more broadly using logistic regression they will understand the connection between prevalence risk ratios and odds ratios by the end of this learners will be able to understand how binary arise how to use r to compare proportions between two groups how to fit logistic regressions in r how to make predictions using logistic regression and how to assess the quality of these predictions all concepts taught will be covered with multiple modalities slidebased lectures guided coding practice with the instructor and independent but structured exercises
-
-simple comparisons of binary
+</DOC>
+<DOC>simple comparisons of binary
 this introduces you to binary including how they arise how to calculate proportions and how to compare proportions between two groups
 data science for health research introduction how and when binary can arise a need for models beyond linear regression binary comparing between two groups part binary comparing between two groups part binary comparing between two groups part guided practice ztest guided practice fishers exact test analyzing a binary and binary exposure with the odds ratio interpreting the odds ratio x example the wcgs cardiovascular study
+</DOC>
 
-introducing logistic regression
+<DOC>introducing logistic regression
 be introduced to the ubiquitous logistic regression one of the most common tools for measuring the association between one or more predictors and a binary
 limitations of the x table analysis logistic regression a first look visualizing and interpreting a logistic regression revising the x example wcgs cardiovascular study guided practice fitting a simple logistic regression against one variable extending the wcgs cardiovascular model with multivariable logistic regression prediction with multivariable logistic regression logistic regression a recap and review guided practice fitting a logistic regression against more than one variable guided practice calculating predicted probabilities guided practice visualizing a fitted logistic regression model
+</DOC>
 
-assessing the predictive accuracy of logistic regression models
+<DOC>assessing the predictive accuracy of logistic regression models
 this introduces you to tools for assessing the quality of a fitted logistic regression model
 why do we need to assess predictions extracting probabilities from a logistic regression how do we determine if predicted probabilities are good model calibration hosmerlemeshow test model discrimination changing the cutpoint changes sensitivity and specificity receiver operating characteristic roc curve area under the roc curve auc auc example risk of coronary heart disease brier score cross validation guided practice assessing the predictive ability of logistic regression models guided practice roc and auc guided practice brier score case study treatment of testicular cancer
 </DOC>
-
 <DOC>
 arranging and visualizing data in r
 this provides a first look at the r statistical environment beginning with stepbystep instructions on downloading and installing the software learners will first practice navigating r and its companion rstudio then they will read data into the r environment and prepare it for and analysis a wide variety of concepts will be covered including sorting rows of data grouping by variables summarizing over variables pivoting and creating new variables then learners will visualize their data creating publicationready plots with relatively little effort finally learners will understand how to set up a project workflow for their own analyses all concepts taught will be covered with multiple modalities slidebased lectures guided coding practice with the instructor and independent but structured practice
-
-become knowledgeable about and conversant in the r environment
+</DOC>
+<DOC>become knowledgeable about and conversant in the r environment
 will cover all of the tasks to get you up and running in r how to access r how to navigate it how to install r packages and how to create scripts that keep a record of your also about the global findex database a populationbased survey and report that provides a wealth of information on financial access for persons all over the world your assessments will use data from the global findex database to create a table and figure from the report
 data science for health research introduction working with data in r roadmap r and rstudio what they are and how to get them part r and rstudio what they are and how to get them part objects and in r scripts installing r packages rstudio projects
+</DOC>
 
-format and manipulate data within r into suitable formats
+<DOC>format and manipulate data within r into suitable formats
 in develop insight into how functions as you are introduced to various functions from the tidyverse which is a collection of eight r packages useful in data science the lessons will guide you through performing common data wrangling tasks such as filtering observations of a dataset and joining data from different sources by the end of the have used these tools to reproduce the indicator table from the global findex database which estimates account ownership statistics including gender and income gaps for all of the surveyed countries
 using the tidyverse to read in your data filter grouping and summarizing grouping and summarizing guided practice understanding r functions data pivoting data pivoting guided practice creating new variables with mutate creating new variables with mutate guided practice selecting variables and arranging rows selecting variables and arranging rows guided practice joining data joining data guided practice understanding r functions understanding r functions guided practice
+</DOC>
 
-develop intuition for doing exploratory data analysis
+<DOC>develop intuition for doing exploratory data analysis
 introduces you to r graphical capabilities both about different types of plots including scatterplots lineplots barplots boxplots and histograms and how to make them in r how to create multipanel plots and continue to good overall r hygiene by keeping your code tidy put these newly learned to recreating figure from the global findex database which shows how account ownership varies by the income level of a country
 visualizing data in ggplot the grammar of graphics the grammar of graphics guided practice a first look at geoms a first look at geoms guided practice layering geoms and optional aesthetics layering geoms and optional aesthetics guided practice histograms histograms guided practice bar plots bar plots guided practice boxplots boxplots guided practice complex plots with tidy code complex plots with tidy code guided practice tidy plots tidy plots guided practice faceting faceting guided practice
+</DOC>
 
-develop a workflow in r
+<DOC>develop a workflow in r
 having worked through the first three youve reproduced a table and figure from the global findex database now what in about sharing your with others exporting tables and figures from r onto your computer be introduced to a means of writing reports in r using rmarkdown and finally talk about what happens when you get stuck how to ask questions and where to get help
 sharing your sharing your guided practice r markdown r markdown guided practice working with data in r altogether
 </DOC>
-
 <DOC>
 linear regression modeling for health data
 this provides learners with a first look at the world of statistical modeling it begins with a highlevel of different philosophies on the question of what is a statistical model and introduces learners to the core ideas of traditional statistical inference and reasoning learners will get their first look at the everpopular ttest and delve further into linear regression they will also how to fit and interpret regression models for a continuous with multiple predictors all concepts taught will be covered with multiple modalities slidebased lectures guided coding practice with the instructor and independent but structured exercises
-
-principles of statistical modeling
+</DOC>
+<DOC>principles of statistical modeling
 this gives you a first look at the world of statistical modeling it begins with a highlevel of different philosophies on the question of what is a statistical model and introduces you to the core ideas of traditional statistical inference and reasoning at the end of the have an introductory understanding of important terms such as sampletopopulation stop principle sampling variation and measures of statistical uncertainty also get your first look at the ever popular ttest
 data science for health research introduction what is a statistical model part what is a statistical model part sampling accuracy versus precision confidence intervals hypothesis testing recap what is a ttest trying to mimic guided practice ttest part guided practice ttest part the ttest is a regression model
+</DOC>
 
-simple linear regression
+<DOC>simple linear regression
 this takes you beyond ttest into linear regression by the end of the understand how linear regression is a generalization of the ttest
 going beyond the ttest confounding correlation the connection between correlation and simple linear regression simple linear regression the main idea guided practice linear regression slr estimation and residuals slr prediction and interpretation guided practice the lm function guided practice the function guided practice pointing back to the ttest simple linear regression an example slr with binary predictors is a ttest
+</DOC>
 
-multiple linear regression
+<DOC>multiple linear regression
 a key reason that linear regression is so powerful is that it allows to adjust for multiple predictors at the same time in how to fit regression models for multiple predictors see how to interpret the resulting model and how to use it to answer different questions about your data
 introduction to multiple linear regression or regression with multiple predictors multiple regression the basic setup multiple regression interpreting coefficients guided practice how to fit an mlr multiple regression prediction intervals versus confidence intervals multiple regression choosing from among variables using multiple regression to answer different types of questions evaluating regression models mse mallows cp and press
 </DOC>
-

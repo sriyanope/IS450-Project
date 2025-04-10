@@ -11,105 +11,118 @@ develop a toolkit to teach popular music improvisation arranging and music techn
 teaching popular music in the classroom
 teaching popular music in the classroom explores approaches to teaching popular music from culturally rich communities in the united states students in the will teaching methods that engage youth with the basics of improvisation technology songwriting arranging film score and writing to the strengths of small bands the models how to integrate principles of authentic cultural relevance and positive youth development with contemporary music instruction while providing tools for assessing and documenting learning and progress
 students in the will refine their own pedagogical applying principles of contemporary music instruction content and approaches are intended for secondary music programs but can be adapted for elementary grade levels all lessons are based in core standards for music education with recommendations for assessments
-
-welcome to teaching popular music
+</DOC>
+<DOC>welcome to teaching popular music
 welcome to the here cover all the details about the and what need to know to get the most out of your
+</DOC>
 
-conversations through sound improvisation listening and cultural contexts
+<DOC>conversations through sound improvisation listening and cultural contexts
 lesson begin discussing the first steps towards encouraging improvisation in your classroom look at how to tune your students ears to promote selfassessment as they play and discuss the importance of choosing music that is culturally relevant to your unique group of students
 what in lesson introduction to improvisation tuning the ears modeling conversations through sound cultural contexts cultural contexts continued select and interpret launching your webbased tool box
+</DOC>
 
-songwriting
+<DOC>songwriting
 second lesson the basic principles and techniques of songwriting look at examples of how to create a safe space for students to share their creativity finally discuss creating a lesson to introduce songwriting to your students
 what in lesson basic principles and techniques of songwriting awareness incorporating technology suggested objectives and student assessments webbased toolbox
+</DOC>
 
-arranging music with interactive media tools
+<DOC>arranging music with interactive media tools
 lesson discuss how to utilize technology into your teaching and lesson plans how different technologies can be used to assist students with arranging music also methods to engage and empower the students in our classrooms
 what in lesson engaging and empowering students integrating instruments with tracks suggested objectives and student assessments webbased toolbox
+</DOC>
 
-making the band from modeling to informal learning
+<DOC>making the band from modeling to informal learning
 lesson dive into creating an ensemble identify ways to demonstrate how contemporary music can be used to fulfill the core music standards and how to pitch the idea of a contemporary ensemble to school leaders also examine examples of instructional approaches with small ensembles and how to create studentled groups
 what in lesson establishing small ensembles instructional approaches informal learning practices modeling instructional approaches modeling instructional approaches continued social emotional learning suggested objectives and student assessments final project wrapup
 </DOC>
-
 <DOC>
 jazz improvisation
 the basic concepts of improvisation from gary burton one of the most renowned improvisers in the jazz world including the mental melodic and harmonic processes that contribute to the instinctive that an improviser puts to use when taking a solo
 while many people are fans of jazz and understand that musicians are often making up the notes they are playing during a performance most peopleoften including musicians themselves who are beginning to improvisingarent clear about what exact processes take place to enable this to happen the purpose of this is to introduce the basic concepts of modern improvisation and how to go about mastering the different musical and mental involved author gary burton codifies a soughtafter approach to improvisation that has been at the core of berklee college of musics curriculum for decades students who complete this will know what to practice and how to practice the various aspects of improvising in addition to understanding how the improviser spontaneously communicates to the listeners through their musical creations
-
-welcome to jazz improvisation
+</DOC>
+<DOC>welcome to jazz improvisation
 welcome to the here cover all the details about the and what need to know to get the most out of your
 welcome to jazz improvisation learning music online how this works
+</DOC>
 
-improvisation as a language
+<DOC>improvisation as a language
 since everybody who is taking this starts from a different place in terms of their as an improviser its important at first to cover some basic material begin our journey by exploring the language used by jazz improvisors improvisation is analogous to language in many ways with music we become fluent when the vocabulary scales and chords and grammar harmonic progressions are assimilated into conversational content or story melodic themes and structure and we no longer have to consciously think about them while we play
 improvisation study the relationship between spoken language music storytelling creating your
+</DOC>
 
-the improvisers vocabulary
+<DOC>the improvisers vocabulary
 lesson explore the improvisers lingo identify the most common chord scales and the type of harmony they relate to including major minor and dominant
 the improvisers vocabulary learning scales most important scales the modes dominant scale choices using chord scales
+</DOC>
 
-making scale choices in real time
+<DOC>making scale choices in real time
 improvisers must be able to quickly recall chord scales and be able to play around on them fluently this becomes important when choosing which chord scale to use on a given harmonyanother thing we must be able to determine immediately when a new tune is put in front of you at a session or a rehearsal there isnt time to take the music home and spend an hour or two working out the correct scales improvisers need a quick mostly intuitive way of making these scale choices in real time as the tune is being played explore my method for making these quick musical decisions
 choosing a chord scale finding the correct major scale chord scale method finding the correct minor chord scale minor examples finding the correct dominant chord scale creating your
+</DOC>
 
-harmony for improvisers
+<DOC>harmony for improvisers
 it is important for an improviser to clearly imply the harmonies when improvising it is not enough to just play correct notes on each chord lesson examine how the improviser helps the harmonies move part of the improvisers job is to help the listener follow the changes as the chords move from one to another
 harmonic motion guidetones using guidetone lines harmonic motion creating your
+</DOC>
 
-theme and variation
+<DOC>theme and variation
 discuss how the improviser develops melodic themes in a solo as mentioned in there are natural comparisons between speech and improvising that illustrate how this functions the most common technique for telling a musical story that engages the listener for the duration of your solo is by using a traditional concept called theme and variation that is you introduce a themea musical phrasethen repeat it making variations on it to develop an interesting storyline a good solo is like an explanation or a good story the explanation or story is the content of improvisation
 theme the unfolding of a story three characteristics of melodic form variation musical sentences analyzing songs conclusion creating your
 </DOC>
-
 <DOC>
 the art of music production
 explore the art of record production and how to make recordings that other people will love listening to this will teach you how to make emotionally moving recordings on almost any recording equipment including your phone or laptop the emphasis is on mastering tangible artistic concepts
 the gear you use is up to you to develop the most important tool in the recording studio your ears to enhance every aspect of your own productions both sonically and musically by employing deeper listening
 will include posting your own recordings for peer review and reviewing your classmates by employing specific tools and strategies if you use a digital audio workstation to record and mix thats great but as long as you can record into your computer and post an mp you can complete the as you about the art of record production also about yourself and who you are as an artist and producer it is not necessary that you read music or play an instrument to take this
-
-welcome to the art of music production
+</DOC>
+<DOC>welcome to the art of music production
 welcome to the art of music production before you begin the cover all the details about the and what need to know to get the most out of your
+</DOC>
 
-listening like a producer
+<DOC>listening like a producer
 by the end of this lesson understand the concepts of listening to music emotionally and technically strategies for maintaining objectivity and using kinesthetic observations to discover musical effectiveness will be internalized train yourself to make distinctions on what works and what doesnt rather than just passively listening as a fan
 make it sound like a record why do we listen to music listening emotionally vs listening technically kinesthetic observation emotional cues elements of a compelling musical recording letting go of prejudice
+</DOC>
 
-identity vision and intention
+<DOC>identity vision and intention
 lesson hone in on your identity as a recording artist who are you and what are you meaning to convey through your music on refining your vision and intention for the recordings make employing these and record and post a tape of a new piece of music
 identity vision and intention artist comparison exercise artist identity workshop producer identity workshop what is your artistic intention giving and receiving feedback
+</DOC>
 
-strengthening musical productions tools strategies
+<DOC>strengthening musical productions tools strategies
 by the end of this lesson be able to employ several useful techniques for strengthening your songs and instrumental tracks acquire in prosody focus and an intelligent approach to repetition also to craft better melodies write better lyrics and construct a musical form that best suits the emotional contour you are trying to accomplish with your recording understand the principles of getting the most out of feedback on your recordings in order to gather valuable perspective to better convey your intended response incorporate notes from your colleagues to further refine your recording and repost an updated version
 using prosody to make better art form the structure of your song tools for writing better lyrics crafting better melodies repetition arranging rule of threes studio performance programmed tracks singers virtuoso vs vibe producing vocals
+</DOC>
 
-defining the sonic signature of your song
+<DOC>defining the sonic signature of your song
 by the end of this lesson address the sonic signature as it relates to your intention and vision as as your technology resources and acoustic space about microphone techniques getting good levels and mixing with reverb eq and compression record your material having made some deliberate decisions about the sound of your record and post your recording for peer review according to specific criteria
 the sonics of your song singlesource recording multitrack recording sound absorption vs sound proofing acoustic spaces mic placement microphone types and pick up patterns layering guitar micing clinic application of technology to art where to go from here
 </DOC>
-
 <DOC>
 arranging for songwriters
 youve created a song you wrote the lyrics decided on the melody and maybe even recorded a simple demo now what if you have a basic knowledge of how to use a digital audio workstation daw and are passionate about being a songwriter this will help you take your song from a simple recording on your phone to a fully arranged song ready for the recording studio
 be learning from two berklee college of music songwriting professors bonnie hayes and sarah brindell they will show you how to arrange original songs in a digital audio workstation tools to heighten the emotional response of your listeners and broaden your understanding of instrumentation and how to add sounds to your song without distracting the listener from the most important aspect the vocalist
-
-welcome to arranging for songwriters
+</DOC>
+<DOC>welcome to arranging for songwriters
 welcome to the here cover all the details about the and what need to know to get the most out of your
+</DOC>
 
-new ways of listening
+<DOC>new ways of listening
 first lesson how to arrange our songs horizontally meaning the order and length of song sections and vertically meaning the frequency range and volume of the various instruments in your song also consider how to create and support emotional meaning through our writing and instrumentation review processes for working on arrangements how to listen to arrangements critically and discuss how arrangements change in live performances vs recording sessions by the end of the lesson be able to create a horizontal arrangement for an original song
 arranging for recording vs arranging for live performances deciding whats right for the tune
+</DOC>
 
-laying the foundation
+<DOC>laying the foundation
 second lesson start to lay the foundations for your song discuss how to find the right key and tempo for your song and look at a few popular arrangement styles by the end of the lesson be able to create a basic track of your original song
 developing a feel for your song finding the right key vocals and rhythm
+</DOC>
 
-finding the groove
+<DOC>finding the groove
 in lesson focus on how to determine the right groove for your song discuss how the bass works with the drums to support the rhythmic structure of a song as as creating a foundation for the songs harmony by the end of this lesson be able to create the perfect groove for your original song
 what is groove the low end bass
+</DOC>
 
-instrumentation and vocals
+<DOC>instrumentation and vocals
 final lesson look at how to build the rest of the track around your song now that we have the foundation of the groove with the drums and bass take a look at how we can add other instruments to the mix most importantly discuss how to incorporate these additions without taking focus away from the vocal part by the end of this lesson have completed a full demo of your original song
 using synthesizers in your arrangements strings horn arrangements the primacy of the lead vocal wrapup
 </DOC>
-

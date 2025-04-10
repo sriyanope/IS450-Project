@@ -6,152 +6,174 @@ this builds on the success of the python for everybody and will introduce fundam
 <DOC>
 capstone retrieving processing and visualizing data with python
 in the capstone students will build a series of applications to retrieve process and visualize data using python the projects will involve all the elements of the in the first part of the capstone students will do some visualizations to become familiar with the technologies in use and then will pursue their own project to visualize some other data that they have or can find chapters and from the book python for everybody will serve as the backbone for the capstone this covers python
-
-welcome to the capstone
+</DOC>
+<DOC>welcome to the capstone
 congratulations to everyone for making it this far before you begin please view the introduction and read the capstone the resources section contains additional coursewide material that you may want to refer to in future weeks
 introduction welcome to the class unicode characters and strings office hours in den haag netherlands interview john resig and pam fox khan academy
+</DOC>
 
-building a search engine
+<DOC>building a search engine
 download and run a simple version of the google pagerank algorithm and practice spidering some content the is peergraded and the first of three optional honors in the this a continuation of the material covered in of the and is based on chapter of the textbook
 page rank worked example page rank spidering chapter worked example page rank computation chapter worked example page rank visualization chapter office hours detroit michigan interview anil jain image processing
+</DOC>
 
-exploring data sources project
+<DOC>exploring data sources project
 the optional capstone project is your to select process and visualize the data of your choice and receive feedback from your peers the project is not graded and can be as simple or complex as you like this weeks is to identify a data source and make a short discussion forum post describing the data source and outlining some possible analysis that could be done with it not be required to use the data source presented here for your actual analysis
 dr chucks new kitten sakaiger interview bruce schneier the security mindset
+</DOC>
 
-spidering and modeling email data
+<DOC>spidering and modeling email data
 in our second optional honors retrieve and process email data from the sakai open source project lectures will walk you through the process of retrieving cleaning up and modeling the data
 gmane introduction worked example gmane mail retrieval chapter worked example gmane mail model chapter office hours baltimore md interview bruce schneier building cryptographic systems
+</DOC>
 
-accessing new data sources project
+<DOC>accessing new data sources project
 the task for is to make a discussion thread post that reflects the progress you have made to date in retrieving and cleaning up your data source so can perform your analysis feedback from other students is encouraged to help you refine the process
+</DOC>
 
-visualizing email data
+<DOC>visualizing email data
 in the final optional honors do two visualizations of the email data you have retrieved and processed a word cloud to visualize the frequency distribution and a timeline to show how the data is changing over time
 worked example gmane mail visualization chapter office hours montreal canada interview nathaniel borenstein the father of mime
+</DOC>
 
-visualizing new data sources project
+<DOC>visualizing new data sources project
 discuss the analysis of your data to the class while many of the projects will result in a visualization of the data any other results of analyzing the data are equally valued so use whatever form of analysis and display is most appropriate to the data set you have selected
 office hours dr chucks office ann arbor michigan steve jobs next and the internet
 </DOC>
-
 <DOC>
 using python to access web data
 this will show how one can treat the internet as a source of data scrape parse and read web data as as access data using web apis with html xml and json data formats in python this will cover chapters of the textbook python for everybody to succeed you should be familiar with the material covered in chapters of the textbook and the first two courses these topics include variables and expressions conditional execution loops branching and tryexcept functions python data structures strings lists dictionaries and tuples and manipulating files this covers python
-
-getting started
+</DOC>
+<DOC>getting started
 section install python and a text editor in previous classes in the this was an optional but class it is the first requirement to get started from this point forward stop using the browserbased python grading environment because the browserbased python environment skulpt is not capable of running the more complex programs be developing class
 welcome to the welcome to python guido van rossum windows installing python and writing a windows taking screen shots macintosh using python and writing a macintosh taking screen shots
+</DOC>
 
-regular expressions chapter
+<DOC>regular expressions chapter
 regular expressions are a very specialized language that allow us to succinctly search strings and extract data from strings regular expressions are a language unto themselves it is not essential to know how to use regular expressions but they can be quite useful and powerful
 regular expressions extracting data bonus office hours den haag bonus interview bjarne stroustrup c
+</DOC>
 
-networks and sockets chapter
+<DOC>networks and sockets chapter
 section we about the protocols that web browsers use to retrieve documents and web applications use to interact with application interfaces apis
 networked technology hypertext transfer protocol http worked example sockets chapter using the developer console to explore http bonus leonard kleinrock the first two packets on the arpanet bonus robert cailliau coinventor of the web bonus office hours atlanta ga buckhead fun dr chuck cnn reading the news
+</DOC>
 
-programs that surf the web chapter
+<DOC>programs that surf the web chapter
 section we to use python to retrieve data from web sites and apis over the internet
 unicode characters and strings retrieving web pages worked example using urllib chapter parsing web pages worked example beautifulsoup chapter bonus office hours montreal bonus interview tim bernerslee inventing the web fun i got my mojo working geneva switzerland
+</DOC>
 
-web services and xml chapter
+<DOC>web services and xml chapter
 section we how to retrieve and parse xml extensible markup language data
 data on the web extensible markup language xml xml schema parsing xml worked example xml chapter interview roy fielding understanding the rest architecture bonus office hours boston bonus ian horrocks rdf owl advanced
+</DOC>
 
-json and the rest architecture chapter
+<DOC>json and the rest architecture chapter
 we with application interfaces web services using the javascript object notation json data format
 javascript object notation json worked example json chapter interview douglas crockford discovering json service oriented approach service oriented architectures using application programming interfaces worked example openstreetmap api chapter bonus office hours melbourne au bonus office hours santa monica ca bonus class reunion at bletchley park
 </DOC>
-
 <DOC>
 programming for everybody getting started with python
 this aims to teach everyone the basics of programming computers using python we cover the basics of how one constructs a from a series of simple instructions in python the has no prerequisites and avoids all but the simplest mathematics anyone with moderate computer should be able to master the materials this will cover chapters of the textbook python for everybody once a student completes this they will be ready to take more advanced programming courses this covers python
-
-chapter one why we
+</DOC>
+<DOC>chapter one why we
 these are the coursewide materials as as the first part of chapter one where we explore what it means to write programs we finished chapter one and had the quiz and first in the third of the class throughout the you may want to come back and look at these materials this section should not take you an entire
 welcome to class dr chuck welcome to python guido van rossum why hardware python as a language fun the textbook authors meet pycon face to face office hours bengaluru india
+</DOC>
 
-installing python
+<DOC>installing python
 set things up so you can write python programs not all activities are required for this class so please read the using python class material for details
 demonstration using the python playground windows installing python and writing a windows taking screen shots macintosh using python and writing a macintosh taking screen shots bonus eben upton and the raspberry pi
+</DOC>
 
-chapter one why we continued
+<DOC>chapter one why we continued
 in the first chapter we try to cover the big picture of programming so you get a table of contents of the rest of the book dont worry if not everything makes perfect sense the first time you hear it this chapter is quite broad and you would benefit from reading the chapter in the book in addition to watching the lectures to help it all sink in you might want to come back and rewatch these lectures after you have finished a few more chapters
 writing paragraphs of code demonstration doing the hello world interview daphne koller building coursera facetoface office hours milan italy
+</DOC>
 
-chapter two variables and expressions
+<DOC>chapter two variables and expressions
 chapter we cover how a uses the computers memory to store retrieve and calculate information
 expressions expressions part expressions part worked exercise interview pooja sankar building piazza office hours mountain view ca
+</DOC>
 
-chapter three conditional code
+<DOC>chapter three conditional code
 section we move from sequential code that simply runs one line of code after another to conditional code where some steps are skipped it is a very simple concept but it is how computer software makes choices
 conditional statements more conditional statements worked exercise interview massimo banzi the arduino office hours seoul korea
+</DOC>
 
-chapter four functions
+<DOC>chapter four functions
 this is a relatively short chapter about what functions are and how we can use them the programs in the first chapters of the book are not large enough to require us to develop functions but as the book moves into more and more complex programs functions will be an essential way for us to make sense of our code
 using functions building functions interview guido van rossum the early years of python office hours manila philippines
+</DOC>
 
-chapter five loops and iteration
+<DOC>chapter five loops and iteration
 loops and iteration complete our four basic programming patterns loops are the way we tell python to do something over and over loops are the way we build programs that stay with a problem until the problem is solved
 loops and iteration definite loops finding the largest value loop idioms worked exercise whats next drchuck interview guido van rossum the modern era of python office hours paris france
 </DOC>
-
 <DOC>
 python data structures
 this will introduce the core data structures of the python programming language move past the basics of procedural programming and explore how we can use the python builtin data structures such as lists dictionaries and tuples to perform increasingly complex data analysis this will cover chapters of the textbook python for everybody this covers python
-
-chapter six strings
+</DOC>
+<DOC>chapter six strings
 class we pick up where we left off in the previous class starting in chapter of the textbook and covering strings and moving into data structures the second of this class is dedicated to getting python installed if you want to actually run the applications on your desktop or laptop if you choose not to install python you can just skip to the third and get a head start
 welcome dr chuck strings manipulating strings worked exercise bonus office hours new york city bonus monash museum of computing history fun the textbook authors meet pycon
+</DOC>
 
-unit installing and using python
+<DOC>unit installing and using python
 set things up so you can write python programs we do not require installation of python for this class you can write and test python programs in the browser using the python code playground lesson please read the using python class material for details
 demonstration using the python playground windows installing python and writing a windows taking screen shots macintosh using python and writing a macintosh taking screen shots
+</DOC>
 
-chapter seven files
+<DOC>chapter seven files
 up to now we have been working with data that is read from the user or data in constants but real programs process much larger amounts of data by reading and writing files on the secondary storage on your computer chapter we start to write our first programs that read scan and process real data
 files processing files demonstration worked exercise bonus office hours barcelona bonus gordon bell building blocks of computing
+</DOC>
 
-chapter eight lists
+<DOC>chapter eight lists
 as we want to solve more complex problems in python we need more powerful variables up to now we have been using simple variables to store numbers or strings where we have a single value in a variable starting with lists store many values in a single variable using an indexing scheme to store organize and retrieve different values from within a single variable we call these multivalued variables collections or data structures
 lists manipulating lists lists and strings fun python lists in paris worked exercise lists bonus office hours chicago bonus rasmus lerdorf inventing the php language
+</DOC>
 
-chapter nine dictionaries
+<DOC>chapter nine dictionaries
 the python dictionary is one of its most powerful data structures instead of representing values in a linear list dictionaries store data as key value pairs using key value pairs gives us a simple inmemory database in a single python variable
 dictionaries counting with dictionaries dictionaries and files worked exercise dictionaries bonus office hours amsterdam bonus brendan eich inventing javascript fun dr chuck goes motocross racing
+</DOC>
 
-chapter ten tuples
+<DOC>chapter ten tuples
 tuples are our third and final basic python data structure tuples are a simple version of lists we often use tuples in conjunction with dictionaries to accomplish multistep tasks like sorting or looping through all of the data in a dictionary
 tuples worked exercise tuples and sorting bonus office hours puebla mexico bonus john resig inventing jquery douglas crockford javascript object notation json fun the greatest taco in the world
+</DOC>
 
-graduation
+<DOC>graduation
 to celebrate your making it to the halfway point in our python for everybody we welcome you to attend our online graduation ceremony it is not very long and it features a commencement speaker and very short commencement speech
 graduation ceremony drchuck wrap upwhats next
 </DOC>
-
 <DOC>
 using databases with python
 this will introduce students to the basics of the structured query language sql as as basic database design for storing data as part of a multistep data gathering analysis and processing effort the will use sqlite as its database also build web crawlers and multistep data gathering and visualization processes use the djs library to do basic data visualization this will cover chapters of the book python for everybody to succeed you should be familiar with the material covered in chapters of the textbook and the first three courses this covers python
-
-object oriented python
+</DOC>
+<DOC>object oriented python
 to start this class out we cover the basics of object oriented python we wont be writing our own objects but since many of the things we use like beautifulsoup strings dictionaries database connections all use object oriented oo patterns we should at least understand some of its patterns and terminology
 welcome to using databases with python unicode characters and strings windows installing python and writing a windows taking screen shots macintosh using python and writing a macintosh taking screen shots object oriented definitions and terminology our first class and object object life cycle object inheritance bonus interview software engineering bertrand meyer bonus office hours london
+</DOC>
 
-basic structured query language
+<DOC>basic structured query language
 we the four core crud operations create read update and delete to manage data stored in a database
 relational databases using databases single table crud worked example counting email in a database bonus office hours zagreb croatia interview elizabeth fong the early years of sql
+</DOC>
 
-data models and relational sql
+<DOC>data models and relational sql
 section we about how data is stored across multiple tables in a database and how rows are linked ie we establish relationships in the database
 designing a data model representing a data model in tables inserting relational data reconstructing data with join worked example trackspy chapter bonus office hours perth australia bonus interview niklaus wirth bonus office hours barcelona
+</DOC>
 
-manytomany relationships in sql
+<DOC>manytomany relationships in sql
 section we explore how to model situations like students enrolling in courses where each has many students and each student is enrolled in many courses
 manytomany relationships worked example rosterpy chapter bonus office hours mexico city bonus interview andrew tannenbaum minix
+</DOC>
 
-databases and visualization
+<DOC>databases and visualization
 section we put it all together retrieve and process some data and then use the openstreetmaps api to visualize our data
 geocoding worked example geodata chapter bonus office hours amsterdam bonus interview richard stallman free software foundation bonus interview brian behlendorf apache foundation
 </DOC>
-

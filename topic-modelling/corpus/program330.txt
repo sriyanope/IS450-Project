@@ -18,90 +18,99 @@ upon completion of this learners will have created a project charter project tea
 six sigma principles
 this is for you if you are looking to more about six sigma or refresh your knowledge of the basic components of six sigma and lean six sigma are widely sought by employers both nationally and internationally these have been proven to help improve business processes and performance this will introduce you to the purpose of six sigma and its value to an organization about the basic principles of six sigma and lean your instructors will introduce you to and have you apply some of the tools and metrics that are critical components of six sigma this will provide you with the basic knowledge of the principles roles and responsibilities of six sigma and lean
 every will include and a quiz to help make sure you understand the material and concepts that are studied also have the to participate in discussions and peer review exercises to give you the to apply the material to your daily life our applied curriculum is built around the latest handbook the certified six sigma handbook nd edition and students will develop the fundamentals of six sigma registration includes online access to content projects and resources but does not include the companion text the certified six sigma handbook nd edition the companion text is not required to complete the however the text is a recognized handbook used by professionals in the field also it is a highly recommended text for those wishing to move forward in six sigma and eventually gain certification from agencies such as american society for quality asq
-
-six sigma foundations principles roles and responsibilities
+</DOC>
+<DOC>six sigma foundations principles roles and responsibilities
 welcome to the six sigma yellow belt six sigma are widely sought by employers both nationally and internationally these help to improve business processes and performance your team of instructors dr bill bailey dr david cook dr christine scherrer and dr gregory wiles currently in the college of engineering and engineering technology at kennesaw state university they have collaborated to create a that is all encompassing of the six sigma methodologies for both yellow and green belt completion of this will provide you with the knowledge to either continue to full six sigma certification or simply advance your knowledge professionally be introduced to the foundations of six sigma the purpose of lean and the value to the organization as a whole
 what is quality origins of six sigma david cook six sigma foundations and principles purpose of six sigma six sigma methodology evolution of six sigma value of six sigma individual contributors yellow and green belt roles and responsibilities of black belts role of master black belts role of champions
+</DOC>
 
-quality tools and six sigma metrics
+<DOC>quality tools and six sigma metrics
 dr bill bailey will introduce you to the different types of quality tools as as important six sigma metrics that can be used throughout the dmaic process quality tools and metrics are a critical tool for process improvement this will introduce you to some of the most common quality tools as as the most important six sigma metrics
 introduction to quality tools pareto charts cause and effect diagrams flow charts and process mapping checksheets scatter diagrams histograms six sigma measure pt six sigma measure pt cost of poor quality
+</DOC>
 
-team basics
+<DOC>team basics
 teamwork is an essential component of successful quality improvement many successful organizations have leaders who in teams about why teams are so important to the six sigma process the different types of teams and their different objectives the different stages of team development decision making methods for use in teams and team communication methods
 importance of teams types of teams stages of team development brainstorming team decisionmaking agendas minutes and status reports
+</DOC>
 
-lean foundations and principles
+<DOC>lean foundations and principles
 be introduced to the purpose of lean and its methodologies about the value of lean to an organization this will build off of what you have learned in the previous and help you to better understand how to better serve customers
 purpose of lean value stream mapping s interview real world value stream mapping jit kanban visual management poka yoke value to the organization
 </DOC>
-
 <DOC>
 six sigma tools for analyze
 this will cover the measure phase and portions of the analyze phase of the six sigma dmaic define measure analyze improve and control process about lean tools for process analysis failure mode and effects analysis fmea measurement system analysis msa and gauge repeatability and reproducibility grr and be introduced to basic statistics this will outline useful measure and analysis phase tools and will give you an of statistics as they are related to the six sigma process
 the statistics will provide you with an of the concepts and be given multiple example problems to see how to apply these concepts every will include discussions lecture and quizzes to help make sure you understand the material and concepts that are studied our applied curriculum is built around the latest handbook the certified six sigma handbook nd edition and students will develop the fundamentals of six sigma registration includes online access to content projects and resources but does not include the companion text the certified six sigma handbook nd edition the companion text is not required to complete the however the text is a recognized handbook used by professionals in the field also it is a highly recommended text for those wishing to move forward in six sigma and eventually gain certification from agencies such as american society for quality asq
-
-measurement system analysis
+</DOC>
+<DOC>measurement system analysis
 welcome to six sigma tools for analyze this is the third in the six sigma yellow belt your team of instructors dr bill bailey dr david cook dr christine scherrer and dr gregory wiles currently in the college of engineering and engineering technology at kennesaw state university this will introduce you to measurement system analysis msa which is a key component of the measure phase of the dmaic process also about gauge repeatability reproducibility grr and why it is used in the measurement phase
 measurement system analysis part measurement system analysis part
+</DOC>
 
-process analysis tools
+<DOC>process analysis tools
 this will introduce you to the analysis phase of the dmaic process process analysis helps you to better understand current processes and how they can be improved be introduced to many of the different process analysis tools that are commonly used by six sigma experts failure mode and effects analysis fmea will also be introduced to help you better understand how to identify process failures
 process analysis tools eliminating waste s fmea part fmea part fmea part
+</DOC>
 
-root cause analysis
+<DOC>root cause analysis
 root cause analysis is a common problem solving step determining the root cause of something is an important aspect of uncovering the causes of a problem review the different tools used in determining root cause including whys process mapping forcefield analysis and matrix charts
 root cause analysis whys process mapping force field analysis matrix charts d problem solving with d form in resources
+</DOC>
 
-data analysis
+<DOC>data analysis
 be diving into the statistical side of six sigma begin with learning about the basic distribution types which include normal and binomial then proceed to variation and will the difference between common and special cause variation
 characteristics of probability distributions calculating probabilities using the normal distribution calculating probabilities in the normal distribution example problems the binomial distribution binomial distribution calculations binomial distribution calculations more examples common versus special cause variation
 </DOC>
-
 <DOC>
 six sigma tools for improve and control
 this will provide the tools necessary to complete the final components of the analyze phase as as the improve and control phases of the six sigma dmaic define measure analyze improve and control process this is the final in the six sigma yellow belt about relationships from data using correlation and regression as as the different hypothesis terms in hypothesis testing this will provide you with tools and techniques for improvement also understand the importance of a control plan as as its key characteristics for maintaining process improvements every will include discussions lecture and quizzes to help make sure you understand the material and concepts that are studied
 our applied curriculum is built around the latest handbook the certified six sigma handbook nd edition and students will develop the fundamentals of six sigma registration includes online access to content projects and resources but does not include the companion text the certified six sigma handbook nd edition the companion text is not required to complete the however the text is a recognized handbook used by professionals in the field also it is a highly recommended text for those wishing to move forward in six sigma and eventually gain certification from agencies such as american society for quality asq
-
-correlation and regression
+</DOC>
+<DOC>correlation and regression
 welcome to six sigma tools for improve and control this is the fourth in the six sigma yellow belt your team of instructors dr bill bailey dr david cook dr christine scherrer and dr gregory wiles currently in the college of engineering and engineering technology at kennesaw state university the next two will conclude the analyze phase of the dmaic process and in the final two be introduced to the improve and control phase this will continue to discussion analysis by explaining correlation and regression the meaning of correlation and regression the different types of analysis and how it can be used in six sigma
 dependent and independent variables types of correlation the regression equation use of regression for prediction regression for six sigma
-
-hypothesis testing
-this the final that covers the analysis phase of the dmaic process now that you have collected the data and calculated it need to determine how to make a statistical conclusion about your findings more about the importance of hypothesis testing how to correctly do a hypothesis test reading as as how to avoid errors and statistical significance
-hypothesis testing basics types of errors types of error examples how to do a hypothesis test pvalue and statistical significance
-
-improvement techniques
-this will introduce you to the improve and control phase of the dmaic process the first step phase is determining improvement techniques to help make improvements to an organization this will cover the best and most popular improvement techniques including kaizen and kaizen blitz pdca plandocheckact cycle and cost benefit analysis including cost of quality
-introduction suboptimization kaizen and kaizen blitz pdca cost benefit analysis cost of quality
-
-control tools and documentation
-the final phase of the dmaic process is the control phase about control tools that are useful in maintaining improvements communication is a key component of the control phase therefore it is important to develop standardized documentation about how to standardize and manage documentation to help maintain processes that were implemented during the improve phase of dmaic
-control charts part control charts part document management
-
-capstone project for completion of yellow belt
-this is the capstone project you should only complete this project if you have taken all three previous yellow belt courses six sigma fundamentals six sigma tools for define and measure and six sigma tools for analyze and you want to complete this it should be noted that completing the yellow belt does not give the learner accreditation in six sigma however successful completion will assist in better preparation for such accreditation testing
 </DOC>
 
+<DOC>hypothesis testing
+this the final that covers the analysis phase of the dmaic process now that you have collected the data and calculated it need to determine how to make a statistical conclusion about your findings more about the importance of hypothesis testing how to correctly do a hypothesis test reading as as how to avoid errors and statistical significance
+hypothesis testing basics types of errors types of error examples how to do a hypothesis test pvalue and statistical significance
+</DOC>
+
+<DOC>improvement techniques
+this will introduce you to the improve and control phase of the dmaic process the first step phase is determining improvement techniques to help make improvements to an organization this will cover the best and most popular improvement techniques including kaizen and kaizen blitz pdca plandocheckact cycle and cost benefit analysis including cost of quality
+introduction suboptimization kaizen and kaizen blitz pdca cost benefit analysis cost of quality
+</DOC>
+
+<DOC>control tools and documentation
+the final phase of the dmaic process is the control phase about control tools that are useful in maintaining improvements communication is a key component of the control phase therefore it is important to develop standardized documentation about how to standardize and manage documentation to help maintain processes that were implemented during the improve phase of dmaic
+control charts part control charts part document management
+</DOC>
+
+<DOC>capstone project for completion of yellow belt
+this is the capstone project you should only complete this project if you have taken all three previous yellow belt courses six sigma fundamentals six sigma tools for define and measure and six sigma tools for analyze and you want to complete this it should be noted that completing the yellow belt does not give the learner accreditation in six sigma however successful completion will assist in better preparation for such accreditation testing
+</DOC>
 <DOC>
 six sigma tools for define and measure
 this is for you if you are looking to more about six sigma or refresh your knowledge of the basic components of six sigma and lean six sigma are widely sought by employers both nationally and internationally these have been proven to help improve business processes and performance this will cover the define phase and introduce you to the measure phase of the dmaic define measure analyze improve and control process about six sigma project development and implementation become familiar with project management tools be introduced to statistics and understand its significance to six sigma and finally about data collection and its importance to an organization
 every will include and a quiz to help make sure you understand the material and concepts that are studied also have the to participate in peer review exercises to give you the to apply the material to your daily life our applied curriculum is built around the latest handbook the certified six sigma handbook nd edition and students will develop the fundamentals of six sigma registration includes online access to content projects and resources but does not include the companion text the certified six sigma handbook nd edition the companion text is not required to complete the however the text is a recognized handbook used by professionals in the field also it is a highly recommended text for those wishing to move forward in six sigma and eventually gain certification from agencies such as american society for quality asq
-
-project identification
+</DOC>
+<DOC>project identification
 welcome to six sigma tools for define and measure this is the second in the six sigma yellow belt your team of instructors dr bill bailey dr david cook dr christine scherrer and dr gregory wiles currently in the college of engineering and engineering technology at kennesaw state university this will introduce you to the process of project development and selection the first phase of the dmaic process is the define phase which begins with project identification and proceeds onto project management when identifying six sigma projects it is important to ensure that resources and time are used in the most effective and productive way about the importance of customer and stakeholder needs in relation to project development
 voice of the customer critical to satisfaction quality function deployment project selection swot analysis identifying stakeholders process identification sipoc
+</DOC>
 
-project management basics
+<DOC>project management basics
 now that we have identified the six sigma project how to we begin to develop it this will cover the basics of project development and management be introduced to many common aspects of a project plan as as tools for managing your project these tools include activity network diagrams affinity diagrams tree diagrams relations charts and matrix charts project management is the second aspect of the define phase in the dmaic process of six sigma
 defining the problem statement developing a project plan brainstorming diagramming tools other project planning tools six sigma phase reviews
+</DOC>
 
-basic statistics
+<DOC>basic statistics
 the next phase of the dimac process is the measure phase begin by exploring basic statistics and its significance to six sigma this will introduce you to the measures of variance range standard deviation center mean median and mode also how to interpret these measures using given data sets
 basic statistics pt basic statistics pt
+</DOC>
 
-data collection
+<DOC>data collection
 the second aspect of the measure phase is data collection in the previous we learned about statistics and how to use data for different needs different techniques on how to collect data the reasons for collecting data and ensuring data accuracy and integrity
 data collection data collection techniques part data collection techniques part
 </DOC>
-

@@ -18,40 +18,40 @@ learners will practice creating advertisements on tiktok through guided simulati
 <DOC>
 tiktok for business
 this is the second in the marketing with tiktok dive into why and how businesses use tiktok for marketing how to set up a business account and create a tiktokspecific marketing strategy that will build your brand establish a following and maintain your presence on this innovative platform
-
-tiktok business basics
+</DOC>
+<DOC>tiktok business basics
 you explore how businesses use tiktok to engage audiences and enhance brand visibility to develop a targeted marketing strategy and content calendar create resonant content and adapt to trends to maintain relevance
 introduction introduction instructor introduction tiktok for business how businesses use tiktok business content on tiktok advertising and ecommerce sponsored content and partnering with influencers value of a business tiktok account how to create a business account conclusion tiktok for business
+</DOC>
 
-creating and maintaining a presence on tiktok
+<DOC>creating and maintaining a presence on tiktok
 you explore how to establish and maintain a business presence on tiktok create a marketing strategy tailor a content calendar and produce engaging content that resonates with users additionally to adapt to tiktoks evolving trends to keep your brand relevant and connected
 creating and maintaining a presence on tiktok creating a tiktok marketing strategy building your brand brand voice and style introduction to business content on tiktok create unique content for your tiktok business account tiktok creative center how to use hashtags and trends creating a content calendar tips for creating a tiktok content calendar monitor and evaluate the performance of your intro to audience engagement increase engagement use your insights with influencers to grow your audience use advertising to reach your goals conclusion creating and maintaining a presence on tiktok
 </DOC>
-
 <DOC>
 advertising and ecommerce on tiktok
 this is the third in the marketing with tiktok explore different ways to advertise on tiktok and how to utilize each one also strategies on how to use tiktok for ecommerce discover the analytics platform that tiktok has built and how to use it to optimize your advertising efforts on this exciting platform
-
-advertising ecommerce on tiktok
+</DOC>
+<DOC>advertising ecommerce on tiktok
 plugin
 intro advertising and ecommerce on tiktok advertising on tiktok different advertising options on tiktok best practices for creating ads building campaigns in tiktok ads evaluating campaign success optimizing campaigns evolution of ecommerce on tiktok how businesses can sell promote their products best practices for selling promoting products shopify integration
+</DOC>
 
-measure and optimize
+<DOC>measure and optimize
 discussion prompt
 the importance of measuring of tiktok analytics how to interpret tiktok analytics how to use analytics to evaluate success and inform future strategy conclusion
 </DOC>
-
 <DOC>
 getting started with tiktok
 be introduced to tiktok an exciting social media platform that will open up new marketing for your business
 this focuses on tiktok basics the history of tiktok the key user demographics and the apps unique features gain an understanding of how users interact with the app and the benefits of adding tiktok to your social media strategy set up a personal account and the best strategies for creating compelling content with which other users will want to interact even create your first by the end of this be able to describe the key features and user demographics of tiktok discuss how users interact with tiktok engage with the tiktok community create an engaging with tiktoks editing tools regardless of your current social media this will lay the foundation for success in using tiktok
-
-introduction to tiktok
+</DOC>
+<DOC>introduction to tiktok
 about the tiktok app and discover some of the platforms unique features create your own tiktok account and explore tiktoks unique features also discover how tiktok uses a distinctive algorithm and how it works
 introduction introduction instructor introduction introduction to tiktok a brief history of tiktok introduction to tiktok tiktok app explore tiktok understand the algorithm benefits of tiktok create a tiktok account conclusion introduction to tiktok
+</DOC>
 
-engaging with the tiktok community
+<DOC>engaging with the tiktok community
 explore the tiktok app and more about how users interact on the platform examine tiktok demographics and determine the impact tiktok has on popular culture
 understanding the tiktok community tiktok users how do people use tiktok interacting with followers and the tiktok community engagement options the importance of music on tiktok what makes a great tiktok how to create your first exploring tool options audio features behind the scenes conclusion engaging with the tiktok community
 </DOC>
-

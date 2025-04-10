@@ -6,91 +6,103 @@ this takes a critical look at digital advertising tactics for small business stu
 <DOC>
 programmatic advertising
 native advertising is a niche form of advertising that leverages the design and format of news and entertainment content native advertising is less about selling products and more about producing useful content for consumers who are in the consideration phase of the advertising purchase funnel often in the form of newslike stories native advertising has been shown to persuade consumers native advertising is affordable and doesnt require graphic design to get started for these reasons its a compelling advertising technique for small businesses this outlines a case study where a small travel startup used native advertising to drive hotel sales execution strategies for a successful nocreative native campaign are laid out including gathering existing news coverage ethical content seeding and content generation
-
-google display certification
+</DOC>
+<DOC>google display certification
 this weeks focuses on understanding and mastering programmatic advertising through googles display ad certification
+</DOC>
 
-lectures native advertising
+<DOC>lectures native advertising
 series of lectures students will explore the concept of native advertising its various types ethical concerns and its impact on journalism through case studies such as the defunct travel company travel pony students will about the effectiveness of native advertising in overcoming credibility issues and increasing sales the lectures will also discuss the role of the federal trade commission in regulating native ads targeting strategies based on location purchase intent and contextual relevance and how to measure the success of native advertising campaigns using independent tools like google analytics
 native advertising native case study native advertising ctd
+</DOC>
 
-project native advertising
+<DOC>project native advertising
 this project offers three options for students to apply their knowledge of native advertising article pulling and targeting and seeding strategies students will either analyze native ads from various news sites assess the quality of articles for a local business and identify potential audiences or create a seeding strategy for a small business by completing this project students will gain a deeper understanding of native advertising techniques how to critically assess articles for potential native ad campaigns and develop strategies for encouraging positive reviews from bloggers
+</DOC>
 
-lectures connected tv advertising
+<DOC>lectures connected tv advertising
 series of lectures we explore the transformation of the advertising industry due to cordcutting and the rise of streaming services focusing on the shift towards connected tv advertising we delve into the decline of traditional tv advertising and the factors contributing to the disruption of the cable tv industry furthermore we discuss the impact of data collection on ad targeting privacy concerns and the balance between efficiency and cost the lectures also cover the pros and cons of connected tv advertising programmatic buying and the challenges of measuring attention and attribution
 cord cutting connected tv ctv pros and cons
+</DOC>
 
-lectures targeting
+<DOC>lectures targeting
 series of lectures we delve into the intricacies of digital advertising focusing on targeting retargeting prospecting and lookalike audiences we discuss the importance of balancing retargeting with prospecting and explore the benefits and potential pitfalls of using lookalike audiences additionally we examine the complexities of constructing an advertising campaign by considering various targeting parameters and their interactions the lectures also emphasize the importance of being critical of ad tech tools and methodologies as as addressing potential ethical concerns and privacy issues
 targeting retargeting lookalike audiences and prospecting bid line items
+</DOC>
 
-lectures cookies and contextual
+<DOC>lectures cookies and contextual
 series of lectures explore the evolution of the advertising industry focusing on the shift from display to programmatic advertising and the rise of contextual advertising delve into the ethical concerns surrounding thirdparty data collection the death of cookies and the challenges of brand safety additionally examine the technologies and business models of various ad tech companies as as the future of ad tech regulation and the importance of transparency in the industry
 the death of cookies contextual and brand safety problems with contextual ai
 </DOC>
-
 <DOC>
 introduction to digital advertising
 the digital advertising landscape is complex there are many different types of ads including display audio sponsored native social media and search consumer data and the ad tech that action on that data are both ubiquitous and complicated as a result the sheer number of options available to digital marketers is hard to comprehend and manage this covers the major forms of digital advertising from basic display ads to search to cuttingedge programmatic advertising concepts the trade desk the leading programmatic advertising provider joins us as our programmatic experts and offers an actionable roadmap on how small businesses can leverage state of the art advertising technologies to accomplish business objectives in all this leaves students with an understanding of digital advertising in its various forms and how to strategically identify digital advertising
-
-welcome to the
+</DOC>
+<DOC>welcome to the
 just a couple of things to know before you get started
-
-lectures what is digital advertising
-series of lectures students will explore the evolution of digital advertising its impact on the marketing industry and the various payment models used in ad campaigns the lectures will delve into the role of data and analytics in optimizing ad performance targeting specific audiences and maximizing return on investment students will also about the challenges and limitations of different advertising models such as cost per impression cpm cost per click cpc and cost per action cpa additionally the lectures will demonstrate how to analyze advertising data using excel and discuss the importance of creative elements in native advertising
-from analog to digital ads what makes digital ads so special advertising analytics impressions reach cpm cost per actions cost per action analytics
-
-lectures intro to programmatic advertising
-this lecture series provides an indepth understanding of programmatic advertising its history and its impact on the advertising industry students will explore the roles of key players in the ad tech ecosystem such as dsps ssps ad exchanges and ad networks as as the importance of bidding pacing and various ad types the lectures also delve into the ethical implications of data usage data privacy laws and the future of ad targeting additionally students will gain insights into optimizing their advertising campaigns and explore potential job within the ad tech industry
-programmatic advertising bidding and pacing different types of programmatic ad tech players the advertising data problem
-
-display advertising
-this series of lectures provides an indepth understanding of digital advertising its importance and how it works it covers the basics of advertising the various formats of digital advertising and the trends in ad spending the lectures also discuss the unique aspects of digital advertising such as its trackability interactivity personalization and costeffectiveness furthermore the lectures delve into the advertising funnel the fcb grid and various advertising metrics including impressions gross rating points cost per thousand cpm clickthrough rates ctr cost per action cpa and return on ad spending roas
-
-mobile advertising
-this reading series provides an of mobile advertising discussing its history advantages and disadvantages it highlights the various formats of mobile ads such as sms banner ads and and explains how they can be targeted based on user data the lectures also emphasize the importance of locationbased advertising and the integration of new technologies like ar and vr however concerns about privacy and data misuse are also addressed to make the most of mobile advertising businesses should establish clear campaign goals target audiences and utilize analytics to track performance
 </DOC>
 
+<DOC>lectures what is digital advertising
+series of lectures students will explore the evolution of digital advertising its impact on the marketing industry and the various payment models used in ad campaigns the lectures will delve into the role of data and analytics in optimizing ad performance targeting specific audiences and maximizing return on investment students will also about the challenges and limitations of different advertising models such as cost per impression cpm cost per click cpc and cost per action cpa additionally the lectures will demonstrate how to analyze advertising data using excel and discuss the importance of creative elements in native advertising
+from analog to digital ads what makes digital ads so special advertising analytics impressions reach cpm cost per actions cost per action analytics
+</DOC>
+
+<DOC>lectures intro to programmatic advertising
+this lecture series provides an indepth understanding of programmatic advertising its history and its impact on the advertising industry students will explore the roles of key players in the ad tech ecosystem such as dsps ssps ad exchanges and ad networks as as the importance of bidding pacing and various ad types the lectures also delve into the ethical implications of data usage data privacy laws and the future of ad targeting additionally students will gain insights into optimizing their advertising campaigns and explore potential job within the ad tech industry
+programmatic advertising bidding and pacing different types of programmatic ad tech players the advertising data problem
+</DOC>
+
+<DOC>display advertising
+this series of lectures provides an indepth understanding of digital advertising its importance and how it works it covers the basics of advertising the various formats of digital advertising and the trends in ad spending the lectures also discuss the unique aspects of digital advertising such as its trackability interactivity personalization and costeffectiveness furthermore the lectures delve into the advertising funnel the fcb grid and various advertising metrics including impressions gross rating points cost per thousand cpm clickthrough rates ctr cost per action cpa and return on ad spending roas
+</DOC>
+
+<DOC>mobile advertising
+this reading series provides an of mobile advertising discussing its history advantages and disadvantages it highlights the various formats of mobile ads such as sms banner ads and and explains how they can be targeted based on user data the lectures also emphasize the importance of locationbased advertising and the integration of new technologies like ar and vr however concerns about privacy and data misuse are also addressed to make the most of mobile advertising businesses should establish clear campaign goals target audiences and utilize analytics to track performance
+</DOC>
 <DOC>
 search and display advertising
 consumers search for virtually everything this includes the things that small businesses do from restaurants to bespoke products when consumers search they get organic results along with paid results paid search ads are systematically designed to be relevant as a result theyre often useful at getting consumers where they want to go consumers dont tune out paid search like other types of digital ads
 search ads can be a small business while larger advertisers pay massive amounts to place their ads via search we highlight smart ways small businesses can create their own tailored search campaigns on small budgets this shows small businesses how to create and execute search campaigns on google ads search formally adwords through an introductory students are guided through the official google ads search training materials where they will ultimately earn an official google ads search certification beyond google materials practical campaign creation and optimization best practices and exercises are provided by real experts
-
-search
+</DOC>
+<DOC>search
 this series of lectures provides an of search advertising its history and its role in the digital marketing landscape the lectures discuss the evolution of search engines and the emergence of google as the dominant player in the market they also explain the process of search advertising including bidding audience targeting and search engine optimization seo the advantages and disadvantages of search advertising are explored highlighting its relevance to consumers effectiveness in generating leads and potential challenges such as high competition and limited creative options finally the lectures touch on the future of search advertising with a focus on the increasing role of artificial intelligence and voice search
+</DOC>
 
-lecture search advertising
+<DOC>lecture search advertising
 lecture series we delve into googles dominance in the search and advertising market exploring the debate surrounding its monopoly status and the implications of the department of justices investigation we examine the value of search intent in advertising the basics of search engine optimization seo and the importance of landing page furthermore we discuss the concept of impression share the ongoing tension between googles push for automation in ppc advertising and the potential for automating campaign optimization using python
 is google a monopoly purchase intent a tiny primer to seo search campaign data search ad observations
+</DOC>
 
-project search advertising
+<DOC>project search advertising
 project students will complete a certification from google in search advertising
+</DOC>
 
-banner and advertising
+<DOC>banner and advertising
 this series of provides an of advertising banner advertising and rich media in the digital marketing landscape the lectures discuss the differences between these formats their advantages and disadvantages and their impact on consumer behavior they also explore the future of and rich media advertising highlighting the increasing role of programmatic advertising artificial intelligence and emerging formats such as live broadcasting and virtual reality additionally the lectures touch on the challenges faced by these advertising formats such as ad blockers and complex ad placements
+</DOC>
 
-lecture display and advertising
+<DOC>lecture display and advertising
 this lecture series covers the evolution and various aspects of display advertising from banner ads to ads and their effectiveness in achieving advertising objectives students will about the importance of ad design quality and attribution models as as the significance of selecting appropriate key performance indicators kpis for each campaign the lectures also delve into the limitations and challenges of advertising including measurement issues and viewability scores by analyzing realworld campaign data students will develop critical thinking in assessing the value of various metrics and their impact on advertising campaign performance
 display ad considerations display ad objectives ads ad analytics
 </DOC>
-
 <DOC>
 social media advertising
 social media platforms are driven by digital advertising as a result social media advertising is affordable and can be purchased at almost any budget targeting options in social media advertising are also sophisticated it is possible to tailor ads around a users behaviors eg likes posts and clicks this unpacks small business use cases of facebook instagram and twitter advertising from basic campaigns to advanced techniques including lookalike modeling and audience retargeting this shows how to effectively advertise on three major social media platforms
-
-social media
+</DOC>
+<DOC>social media
 this series of lectures provides an of social media advertising its history and its role in the digital marketing landscape the lectures discuss the evolution of social media platforms and their impact on the communication model they also explain the advantages and disadvantages of social media advertising highlighting its interactive nature trackable metrics and potential challenges such as negative content moderation and social media burnout the lectures touch on the future of social media with a focus on the increasing role of augmented reality virtual reality and influencer marketing finally practical tips for small businesses looking to get started on social media advertising are provided
-
-lecture twitter facebook
-comprehensive lecture series students will explore the intricacies of advertising on social media platforms particularly twitter and facebook the lectures will cover the differences between social media and search engine advertising ad types targeting options and challenges associated with inferenced data and user anonymity also discuss the limitations of twitter and facebook advertising such as ad relevance targeting challenges and spam prevalence furthermore students will about the effectiveness of ads on both platforms analyzing campaign data and utilizing the twitter ads api and facebook pixel for demographic prospecting by the end of this lecture series students will have a comprehensive understanding of social media advertising and how to optimize their campaigns on both twitter and facebook
-twitter twitter limitations targeting case study facebook ads targeting parameters facebook pixel data
-
-lecture instagram
-lecture series explore the power and effectiveness of instagram as an advertising platform examining its unique features targeting capabilities and performance metrics discuss the role of influencers in marketing and the evolving landscape of influencer marketing as as the importance of aesthetics and authenticity in instagram content additionally compare instagram to other social media platforms like facebook and twitter and delve into strategies to overcome the lack of purchase intent on social media lastly touch upon the regulations surrounding sponsored content and the immersive nature of instagram as a medium
-instagram content instagram ad use cases instagram and the funnel instagram takeaways
-
-final project
-this project offers three options for students to apply their knowledge of social media advertising on platforms such as facebook instagram and twitter students will either create a report identifying an audience persona and relevant targeting parameters for a facebook ad campaign assess the potential success of an instagram advertising campaign for two small businesses or develop a twitter ad strategy for a gourmet deli through these students will demonstrate their understanding of targeting parameters creative options and key metrics for evaluating the success of social media advertising campaigns
 </DOC>
 
+<DOC>lecture twitter facebook
+comprehensive lecture series students will explore the intricacies of advertising on social media platforms particularly twitter and facebook the lectures will cover the differences between social media and search engine advertising ad types targeting options and challenges associated with inferenced data and user anonymity also discuss the limitations of twitter and facebook advertising such as ad relevance targeting challenges and spam prevalence furthermore students will about the effectiveness of ads on both platforms analyzing campaign data and utilizing the twitter ads api and facebook pixel for demographic prospecting by the end of this lecture series students will have a comprehensive understanding of social media advertising and how to optimize their campaigns on both twitter and facebook
+twitter twitter limitations targeting case study facebook ads targeting parameters facebook pixel data
+</DOC>
+
+<DOC>lecture instagram
+lecture series explore the power and effectiveness of instagram as an advertising platform examining its unique features targeting capabilities and performance metrics discuss the role of influencers in marketing and the evolving landscape of influencer marketing as as the importance of aesthetics and authenticity in instagram content additionally compare instagram to other social media platforms like facebook and twitter and delve into strategies to overcome the lack of purchase intent on social media lastly touch upon the regulations surrounding sponsored content and the immersive nature of instagram as a medium
+instagram content instagram ad use cases instagram and the funnel instagram takeaways
+</DOC>
+
+<DOC>final project
+this project offers three options for students to apply their knowledge of social media advertising on platforms such as facebook instagram and twitter students will either create a report identifying an audience persona and relevant targeting parameters for a facebook ad campaign assess the potential success of an instagram advertising campaign for two small businesses or develop a twitter ad strategy for a gourmet deli through these students will demonstrate their understanding of targeting parameters creative options and key metrics for evaluating the success of social media advertising campaigns
+</DOC>

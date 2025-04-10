@@ -17,32 +17,36 @@ this is the third in a fivecourse that prepares you to take the dp designing and
 run experiments and train models
 deploy and operationalize machine learning solutions and implement responsible machine learning they will also to use azure databricks to explore prepare and model data
 and integrate databricks machine learning processes with azure machine learning
-
-use the azure machine learning sdk to train a model
+</DOC>
+<DOC>use the azure machine learning sdk to train a model
 azure machine learning provides a cloudbased platform for training deploying and managing machine learning models how to provision an azure machine learning workspace use tools and interfaces to with azure machine learning and run codebased experiments in an azure machine learning workspace finally how to use azure machine learning to train a model and register it in a workspace
 introduction to modern data warehouse analytics in azure lesson introduction azure machine learning workspaces azure machine learning tools and interfaces azure machine learning experiments lesson lesson introduction lesson
+</DOC>
 
-with data and compute in azure machine learning
+<DOC>with data and compute in azure machine learning
 data is the foundation of machine learning how to with datastores and datasets in azure machine learning enabling you to build scalable cloudbased model training solutions also how to use cloud compute in azure machine learning to run training experiments at scale
 lesson introduction introduction to datastores use datastores lesson lesson introduction environments in azure machine learning introduction to compute targets lesson
+</DOC>
 
-orchestrate pipelines and deploy realtime machine learning services with azure machine learning
+<DOC>orchestrate pipelines and deploy realtime machine learning services with azure machine learning
 orchestrating machine learning training with pipelines is a key element of devops for machine learning how to create publish and run pipelines to train models in azure machine learning also how to register and deploy ml models with the azure machine learning service
 lesson introduction introduction to pipelines pass data between pipeline steps lesson lesson introduction troubleshoot service deployment lesson
+</DOC>
 
-deploy batch inference pipelines and tune hyperparameters with azure machine learning
+<DOC>deploy batch inference pipelines and tune hyperparameters with azure machine learning
 machine learning models are often used to generate predictions from large numbers of observations in a batch process accomplish this using azure machine learning to publish a batch inference pipeline also leverage cloudscale experiments to choose optimal hyperparameter values for model training
 lesson introduction lesson summery lesson introduction defining a search space configuring early termination lesson
+</DOC>
 
-select models and protect sensitive data
+<DOC>select models and protect sensitive data
 how to use automated machine learning in azure machine learning to find the best model for your data how differential privacy is a leading edge approach that enables useful analysis while protecting individually identifiable data values also about the factors that influence the predictions models make
 lesson introduction automated machine learning tasks and algorithms preprocessing and featurization lesson lesson introduction understand differential privacy configure data privacy parameters lesson summery lesson introduction feature importance using explainers visualizing explanations lesson
+</DOC>
 
-monitor machine learning deployments
+<DOC>monitor machine learning deployments
 machine learning models can often encapsulate unintentional bias that results in unfairness how to use fairlearn and azure machine learning to detect and mitigate unfairness in your models how to use telemetry to understand how a machine learning model is being used once it has been deployed into production finally how to monitor data drift to ensure your model continues to predict accurately
 lesson introduction consider model fairness analyze model fairness with fairlearn mitigate unfairness with fairlearn lesson lesson introduction enable application insights lesson lesson introduction creating a data drift monitor scheduling alerts lesson congratulations
 </DOC>
-
 <DOC>
 microsoft azure machine learning for data scientists
 machine learning is at the core of artificial intelligence and many modern applications and services depend on predictive machine learning models training a machine learning model is an iterative process that requires time and compute resources automated machine learning can help make it easier how to use azure machine learning to create and publish models without writing code
@@ -50,42 +54,45 @@ this is the second in a fivecourse that prepares you to take the dp designing an
 run experiments and train models
 deploy and operationalize machine learning solutions and implement responsible machine learning they will also to use azure databricks to explore prepare and model data
 and integrate databricks machine learning processes with azure machine learning
-
-use automated machine learning in azure machine learning
+</DOC>
+<DOC>use automated machine learning in azure machine learning
 training a machine learning model is an iterative process that requires time and compute resources automated machine learning can help make it easier how to identify different kinds of machine learning model and how to use the automated machine learning capability of azure machine learning to train and deploy a predictive model
 introduction to create nocode predictive models with azure machine learning azure machine learning to train and deploy a predictive model weekly
+</DOC>
 
-create a regression model with azure machine learning designer
+<DOC>create a regression model with azure machine learning designer
 regression is a supervised machine learning technique used to predict numeric values how to create regression models using azure machine learning designer
 what is regression weekly
+</DOC>
 
-create a classification model with azure ai
+<DOC>create a classification model with azure ai
 classification is a supervised machine learning technique used to predict categories or classes how to create classification models using azure machine learning designer
 what is classification weekly
+</DOC>
 
-create a clustering model with azure ai
+<DOC>create a clustering model with azure ai
 clustering is an unsupervised machine learning technique used to group similar entities based on their features how to create clustering models using azure machine learning designer
 what is clustering weekly wrapup
 </DOC>
-
 <DOC>
 create machine learning models in microsoft azure
 machine learning is the foundation for predictive modeling and artificial intelligence if you want to about both the underlying concepts and how to get into building models with the most common machine learning tools this path is for you the core principles of machine learning and how to use common tools and frameworks to train evaluate and use machine learning models
 this is designed to prepare you for roles that include planning and creating a suitable working environment for data science workloads on azure how to run data experiments and train predictive models in addition manage optimize and deploy machine learning models into production from the most basic classical machine learning models to exploratory data analysis and customizing architectures be guided by easy todigest conceptual content and interactive jupyter notebooks if you already have some idea what machine learning is about or you have a strong mathematical background this is perfect for you these teach some machine learning concepts but move fast so they can get to the power of using tools like scikitlearn tensorflow and pytorch this learning path is also the best one for you if youre looking for just enough familiarity to understand machine learning examples for products like azure ml or azure databricks its also a good place to start if you plan to move beyond classic machine learning and get an education in deep learning and neural networks which we only introduce here this consists of courses to help prepare you to take the exam dp designing and implementing a data science solution on azure the certification exam is an to prove knowledge and expertise operate machine learning solutions at cloud scale using azure machine learning this teaches you to leverage your existing knowledge of python and machine learning to manage data ingestion and preparation model training and deployment and machine learning solution monitoring in microsoft azure each teaches you the concepts and that are measured by the exam
-
-explore data and create models to predict numeric values
+</DOC>
+<DOC>explore data and create models to predict numeric values
 data exploration and analysis is at the core of data science data scientists require in languages like python to explore visualize and manipulate data how to use python to explore visualize and manipulate data also how regression can be used to create a machine learning model that predicts numeric values use the scikitlearn framework in python to train and evaluate a regression model
 introduction to the exam dp designing and implementing a data science solution on azure certification lesson introduction lesson lesson introduction what is regression lesson
+</DOC>
 
-train and evaluate classification and clustering models
+<DOC>train and evaluate classification and clustering models
 classification is a kind of machine learning used to categorize items into classes how classification can be used to create a machine learning model that predicts categories or classes use the scikitlearn framework in python to train and evaluate a classification model also how clustering can be used to create unsupervised machine learning models that group data observations into clusters use the scikitlearn framework in python to train a clustering model
 lesson introduction what is classification evaluate classification models lesson lesson introduction what is clustering lesson
+</DOC>
 
-train and evaluate deep learning models
+<DOC>train and evaluate deep learning models
 about the fundamental principles of deep learning and how to create deep neural network models using pytorch or tensorflow also explore the use of convolutional neural networks to create image classification models
 lesson introduction deep neural network concepts lesson lesson introduction layers in a convolutional neural network transfer learning lesson wrap up
 </DOC>
-
 <DOC>
 perform data science with azure databricks
 how to harness the power of apache spark and powerful clusters running on the azure databricks platform to run data science workloads in the cloud
@@ -93,32 +100,36 @@ this is the fourth in a fivecourse that prepares you to take the dp designing an
 run experiments and train models
 deploy and operationalize machine learning solutions and implement responsible machine learning they will also to use azure databricks to explore prepare and model data
 and integrate databricks machine learning processes with azure machine learning
-
-introduction to azure databricks
+</DOC>
+<DOC>introduction to azure databricks
 discover the capabilities of azure databricks and the apache spark notebook for processing huge files come to understand the azure databricks platform and identify the types of tasks wellsuited for apache spark also be introduced to the architecture of an azure databricks spark cluster and spark jobs
 introduction to the explain azure databricks lesson lesson introduction understand the architecture of azure databricks spark cluster understand the architecture of spark job lesson
+</DOC>
 
-working with data in azure databricks
+<DOC>working with data in azure databricks
 azure databricks supports daytoday datahandling functions such as reads writes and queries with large amounts of data from multiple sources in different raw formats also to use the dataframe column class azure databricks to apply columnlevel transformations such as sorts filters and aggregations also use advanced dataframe functions operations to manipulate data apply aggregates and perform date and time operations in azure databricks
 lesson introduction lesson lesson introduction lesson
+</DOC>
 
-processing data in azure databricks
+<DOC>processing data in azure databricks
 azure databricks supports a range of built in sql functions however sometimes you have to write custom function known as userdefined function udf how to register and invoke udfs also how to use delta lake to create append and upsert data to apache spark tables taking advantage of builtin reliability and optimizations
 describe the open source delta lake lesson lesson introduction lesson
+</DOC>
 
-get started with databricks and machine learning
+<DOC>get started with databricks and machine learning
 how to use pysparks machine learning package to build key components of the machine learning workflows that include exploratory data analysis model training and model evaluation also how to build pipelines for common data featurization tasks
 lesson introduction lesson lesson introduction lesson
+</DOC>
 
-manage machine learning lifecycles and fine tune models
+<DOC>manage machine learning lifecycles and fine tune models
 how to use mlflow to track machine learning experiments and how to use from the sparks machine learning library for hyperparameter tuning and model selection
 lesson introduction lesson lesson introduction lesson
+</DOC>
 
-train a distributed neural network and serve models with azure machine learning
+<DOC>train a distributed neural network and serve models with azure machine learning
 how to use the ubers horovod framework along with the petastorm library to run distributed deep learning training jobs on spark using training datasets in the apache parquet format also how to use mlflow and azure machine learning service register package and deploy a trained model to both azure container instance and azure kubernetes service as a scoring web service
 lesson introduction lesson lesson introduction lesson congratulations
 </DOC>
-
 <DOC>
 prepare for dp data science on microsoft azure exam
 microsoft certifications give you a advantage by providing globally recognized and industryendorsed evidence of mastering in digital and cloud businesses prepare to take the dp azure data scientist associate certification exam
@@ -126,29 +137,33 @@ refresh your knowledge of how to plan and create a suitable working environment 
 run experiments and train models
 deploy and operationalize machine learning solutions and implement responsible machine learning they will also to use azure databricks to explore prepare and model data
 and integrate databricks machine learning processes with azure machine learning
-
-prepare for the dp designing and implementing a data science solution on azure exam
+</DOC>
+<DOC>prepare for the dp designing and implementing a data science solution on azure exam
 after completing this have an understanding of microsoft certification pathways rolebased certifications and jobs and careers associated with certification also find out how to prepare for the proctored exam including the topics covered in the exam how the exam is administered and exam strategy tips and tricks
 introduction to the lesson introduction jobs and careers lesson introduction exam strategy tips and tricks
+</DOC>
 
-exam preparation
+<DOC>exam preparation
 review of the microsoft azure data scientist associate
 lesson introduction recap of topics and key concepts covered in create machine learning models
+</DOC>
 
-exam preparation
+<DOC>exam preparation
 review of the microsoft azure data scientist associate
 lesson introduction recap of topics and key concepts covered in create nocode predictive models with azure machine learning
+</DOC>
 
-exam preparation
+<DOC>exam preparation
 review of the microsoft azure data scientist associate
 lesson introduction recap of topics and key concepts covered in build and operate machine learning solutions with azure machine learning
+</DOC>
 
-exam preparation
+<DOC>exam preparation
 review of the microsoft azure data scientist associate
 lesson introduction recap of topics and key concepts covered in perform data science with azure databricks
+</DOC>
 
-final practice exam
+<DOC>final practice exam
 find out how the core concepts are weighted and are measured before taking the full practice exam following this find out how you can book your certification exam
 lesson introduction support information
 </DOC>
-

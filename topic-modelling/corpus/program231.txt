@@ -7,99 +7,107 @@ essential leadership including how to inspire and motivate individuals manage ta
 leading people and teams capstone
 interviews in organizations constitute a cornerstone of talent selection and promotion practices one of the key goals of the interview process is to understand how you would approach a variety of leadership challenges at given your knowledge expertise and prior within the context of this interview your primary objective for the capstone is to use content from the to demonstrate your knowledge of key leadership
 the benefits of incorporating the content into your interview responses extend beyond the leading people and teams thinking about your past using the concepts tools and frameworks you learned in the will enable you to reflect more deeply on your past actions and their furthermore we selected questions for the mock interview from actual job interviews in other words in your future interviews it is likely be asked similar questions thus by working through the capstone be investing in your own interview preparation and increasing the likelihood of performing in your future interviews
-
-welcome to the capstone
+</DOC>
+<DOC>welcome to the capstone
 congratulations on completing the first four courses in the leading people and teams as the final step in the complete a capstone project this capstone represents an important milestone not only for the but in your developmental journey as a leader we appreciate your commitment to your own development and are looking forward to reviewing your insights and lessons learned through the capstone project
-
-capstone project preparation
-peer review
 </DOC>
 
+<DOC>capstone project preparation
+peer review
+</DOC>
 <DOC>
 influencing people
 this will improve your ability to influence people in situations where you cannot use formal authority about effective ways to build develop and sustain a power base in your organization also influence tactics that enable you to be more persuasive and influential in working with your superiors peers and even subordinates in addition how to build and maintain highquality relationships to further maximize your informal power and ability to influence others importantly distinguish between influence and manipulation and how to protect yourself from the unwanted influence of others
 the influence strategies you will make you a more confident and influential leader presenter and decisionmaker more effective in pitching business ideas to your superiors influencing customers and building coalitions across stakeholders this will not only give you strategic guidance on how to develop and maintain your network for influence and power but also equip you with specific tactics and strategies that are proven to for gaining power and influencing people
-
-building your base of power
+</DOC>
+<DOC>building your base of power
 to lead effectively you must have power your power can be formally defined for example your position or job title your power can be informal for example your expertise or charisma give you power that enable you to influence others explore the meaning of power and where it comes from helping you identify your bases of power and to increase you power over time
 welcome what defining power in organizations the benefits of power the dark side of power part the dark side of power part bases of power structural personal and cognitive part bases of power structural personal and cognitive part strategies for building structural power part strategies for building structural power part strategies for building your personal power strategies for building your cognitive power with power comes responsibility recap building your base of power
+</DOC>
 
-influencing people without relying on formal authority
+<DOC>influencing people without relying on formal authority
 acquire a rich arsenal of influence tactics that will help you change peoples viewpoints and behaviors these influence tactics will enable you to influence up in organizations eg when you have to influence your boss and laterally such as when you have to influence your peers more generally these tactics will allow you to execute effectively in those situations when you either do not have or cannot rely on formal rank and formal power
 social proof informal influence and power authority and influence cognitive biases and influence liking scarcity and reciprocity message speech and influence nonverbal influence time of day influence your influence toolkit
+</DOC>
 
-developing highquality relationships to enhance influence and power
+<DOC>developing highquality relationships to enhance influence and power
 in addition to acquiring a tactical portfolio of influence tools that can be applied in group and individual meetings effective leaders devote a lot of time to building and maintaining social relationships with various stakeholders how build and maintain social relationships in order to maximize your informal power and influence in organizations
 networks and power power and dependence resources in social exchange jeff brodsky on building relationships part jeff brodsky on building relationships part john beilein on building relationships part building a reputation energy and influence building relationships for influence building influence from day on the job
+</DOC>
 
-protect yourself from unwanted influence
+<DOC>protect yourself from unwanted influence
 as a leader people will try to influence you to make a particular decision or take a particular of action it is essential you are able to protect yourself from the unwanted influence of others especially when those others might be attempting to manipulate you in ways that are not in the best interest of your team or organization specific strategies and tactics that you can use to protect yourself and your team from the unwanted influence of others
 why you must protect yourself and your team the difference between influence and manipulation what is the difference between influence and manipulation strategies and tactics minimize biases that allow others to influence strategies and tactics flip the influence tactic strategies and tactics reframing the power relationship protecting yourself from others manipulation recap protecting yourself from unwanted influence
 </DOC>
-
 <DOC>
 inspiring and motivating individuals
 how to create a shared vision for your team and effectively communicate it to your teammates also how to set effective goals and expectations in a way that best enables your team to attain the shared vision finally understand the most important needs and drivers of performance across cultures and will to align rewards with desired behaviors so that your teammates are motivated to attain the teams objectives
 motivation represents a crucial challenge for contemporary organizations a recent gallup poll revealed that only of workers worldwide exhibit high levels of engagement and motivation show you why these motivation problems are not simply due to a bad or unmotivated team member rather motivation is very much driven by what conditions we create for our teammates how we structure goals and objectives and how we reward people for the accomplishment of those goals this will help you diagnose and solve motivation problems so that you can bring out the best in your people
-
-becoming a visionary leader
+</DOC>
+<DOC>becoming a visionary leader
 every team needs a vision consisting of a shared purpose core values and stretch goals as a team leader it is your responsibility to to create and communicate this vision how to become a visionary leader
 welcome reactions to steve jobs vision for apple the business case for visionary leadership how a clear vision creates energy why do we do what we do how starting with why is essential what does success look like how must we act to ensure success does jobs answer the three questions part visionary language part visionary language reflecting on dead poets society part visionary language mlk speech developing a vision for your team verbals and nonverbals part verbal and nonverbals how to design your office to reinforce your vision to be charismatic recap becoming a visionary leader
+</DOC>
 
-setting effective goals and expectations
+<DOC>setting effective goals and expectations
 as a leader one of your most important roles is to set clear goals and expectations what makes for an effective goal how to make goals meaningful and motivating and the risks of setting goals that are too challenging or too specific
 goals and performance the risks of stretch goals smart goals limitations of smart goals making goals meaningful setting smart and meaningful goals autonomy and variety recap setting effective goals
+</DOC>
 
-understanding human needs and drivers of performance across cultures
+<DOC>understanding human needs and drivers of performance across cultures
 to lead people you must understand what motivates people to take action and contribute to the team the fundamental needs that drive human behavior and how to leverage these needs to enhance motivation in your team
 assessment drivers of performance drivers of performance and motivation the business case for employee management understanding human needs to motivate people understanding peoples needs to drive motivation drivers of satisfaction vs dissatisfaction how to diagnose if someone is satisfied or dissatisfied at extrinsic vs intrinsic motivators how to create meaning at exercise backward mapping values and needs from behavior major motivation traps recap drivers of performance
+</DOC>
 
-aligning rewards and behavior
+<DOC>aligning rewards and behavior
 one of the most common problems in organizations is that rewards are not aligned with desired behavior another common problem is ineffective feedback on performance how to align rewards with behavior and deliver effective feedback to drive performance in your team
 equity the folly of rewarding a while hoping for b types of reinforcement managing by fear schedules of reinforcement functions of a performance appraisal challenges of a performance appraisal providing critical performance feedback giving critical performance feedback seeking performance feedback seeking feedback and performance appraisals recap aligning rewards with behaviors
 </DOC>
-
 <DOC>
 managing talent
 best practices for selecting recruiting and onboarding talent also about the key approaches to measuring performance and evaluating your employees in addition how to develop and coach your talent so that they can realize their full potential at altogether gain a thorough understanding of the complete cycle of managing talent and creating a robust talent pipeline for your team and organization
 managing and developing talent is one of the top issues on the minds of ceos from around the world in fact ceos cite managing and developing their leadership talent as the issue that is most important to the future success of their business but that their organizations are least capable of addressing effectively this will provide you with the insights frameworks and tools to effectively manage and develop talent in your teams and organizations
-
-the talent pipeline
+</DOC>
+<DOC>the talent pipeline
 be introduced to the concept of the talent pipeline without amazing people to execute your team division or company strategy be unable to create value and move forward following this understand that the concept of strategy is first followed by the positions or organization structure once designed your recruitment brand will attract people to you through your recruitment strategies recruit and select the best of the best that fit your team onboarding is critical to bringing them into your team and this will help you to implement superb onboarding processes
 welcome and introduction to the talent pipeline strategy first and hr planning recruitment and your recruitment brand recruiting methods selection selecting talent at menlo innovations onboarding onboarding at menlo innovations
+</DOC>
 
-managing performance evaluation and feedback
+<DOC>managing performance evaluation and feedback
 about the central approaches for measuring and evaluating performance and behaviors and understand the implications of different evaluation systems for employees also how to collect assess and use degree feedback in addition how to recognize and mitigate key errors raters make in evaluating the performance of others finally gain awareness of the stereotypes that can affect the accuracy of performance evaluations
 why structured performance management evaluation measuring results and behaviors implications of performance measurement systems jeff brodsky on forced distributions rich sheridan on forced distributions degree feedback using degree feedback receiving and seeking developmental feedback rater errors stereotypes in performance evaluations recap
+</DOC>
 
-developing and coaching your people
+<DOC>developing and coaching your people
 as a leader it is essential that you develop coach and prepare your team for success when you help your team members and grow their motivation and engagement increases their performance improves and they become more committed to the team how to develop and coach your people to realize their potential and improve their performance
 your most developmental the business case for developing talent assessing key drivers of performance assessing strengths or weaknesses questions to help create stretch using stretch to develop people mindful engagement as a tool to prepare for stretch mindful engagement during the stretch developing talent through stretch helping build a personal board of directors the importance of mentors and sponsors the power of structured reflection to drive learning why you must be a good coach steps to effective coaching great coaching questions recap developing and coaching your people
+</DOC>
 
-creating and building a robust talent pipeline
+<DOC>creating and building a robust talent pipeline
 true talent to lead your team division or company is a requirement in our world but will you know talent when you see it be given a model to help to assess those who will be able to lead into the future once selected as a talent have to continue to develop the individual and engage them continuously how do we best develop talent by the end of this be able to create a talent development plan and begin its execution
 what is talent ae model talent management preparing a plan for every person talent engagement human capital systems and succession planning people are everything
 </DOC>
-
 <DOC>
 leading teams
 how to build your team improve teamwork and collaboration and sustain team performance through continuous learning and improvement specifically best practices for composing a team and aligning individual and team goals also how to establish roles build structures and manage decision making so that your team excels this will also help you manage critical team processes such as conflict resolution and building trust that have a profound impact on your teams performance discuss some of the best ways to harness the productive potential of teams while mitigating the risks and traps of teamwork
 in modern organization most of is done in teams yet the results of teamwork are exceptionally mixed many teams are poorly designed and structured fraught with dysfunctional conflict coordination breakdowns and serious motivation challenges as a result many teams fail to realize their potential and frequently underperform even individuals working on similar tasks after completing this acquire a set of tools and practices that enable you to effectively set up run evaluate and continuously improve your team such insights will both make you a more effective team leader but also a standout contributor in team settings
-
-designing your team for excellence
+</DOC>
+<DOC>designing your team for excellence
 as a team leader you must determine how best to compose and structure your team need to determine the optimal team size diversity of team members values and goals for the team all of which will have a big impact on team dynamics and performance strategies and tactics to design your team effectively
 intro designing your team for excellence designing your team with the client in mind what is the optimal team size demographics how demographic diversity impacts teams demographic faultlines be very careful personality how diversity in personality impacts teams valuesbased diversity in teams part valuesbased diversity in teams part team values and personteam fit building a collaborative climate goal setting in teams managing individual expectations emphasizing shared goals avoiding selfsimilarity in composing teams recap designing your team for excellence
+</DOC>
 
-structuring your team for excellence
+<DOC>structuring your team for excellence
 in the first of the we discussed your role as a team leader in designing your teams size composition diversity of personalities and values and goals in addition you must determine how best to structure your team specifically how structure decision making rewards and roles you must also ensure the team has a clear set of norms that guide its behavior strategies and tactics to structure your team effectively
 structuring your team for excellence apollo case study departmentation how to group and organize jobs in the team centralization how to structure decision making in the team rewards how to structure rewards in the team team rewards and punishments virtuality how to manage virtual team structures roles how to define and organize roles in the team every role matters in teams keeping individuals motivated when they do not get their preferred role norms how to create productive norms in the team creating a culture of teamwork through norms and expectations team charters a tool for designing your team recap structuring your team for excellence
+</DOC>
 
-managing team dynamics
+<DOC>managing team dynamics
 it is common to see teams working on identical tasks and having similar access to organizational resources and talent produce systematically different performance this occurs because we mismanage team processes or how teammates on the task and interact with one another during teamwork how to recognize most typically process hurdles in teamwork and how to overcome them thus creating highperforming teams
 coordination common information effect social loafing language working across cultures managing conflict resolving task conflicts recap manage team dynamics
+</DOC>
 
-creating sustainable team performance and learning
+<DOC>creating sustainable team performance and learning
 this is focused on creating sustainable levels of highperformance in teams therefore how to evaluate team performance and how to ensure this high performance is sustainable in your teams relatedly discuss how to ensure team learning and effective flow of new ideas in your teams
 evaluating team performance assessing performance managing teammate satisfaction managing team performance creativity psychological safety engaging your team hit and hug building a safe environment transactive memory facilitating team learning learning from adversity instilling a learning mindset manufacturing team success creating sustainable team performance
 </DOC>
-

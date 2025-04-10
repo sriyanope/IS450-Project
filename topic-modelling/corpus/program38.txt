@@ -12,167 +12,187 @@ our first finding hidden messages in dna was named a top mooc of all time by cla
 comparing genes proteins and genomes bioinformatics iii
 once we have sequenced genomes in the previous we would like to compare them to determine how species have evolved and what makes them different
 in the first half of the compare two short biological sequences such as genes ie short sequences of dna or proteins encounter a powerful algorithmic tool called dynamic programming that will help us determine the number of mutations that have separated the two genesproteins in the second half of the zoom out to compare entire genomes where we see large scale mutations called genome rearrangements seismic events that have heaved around large blocks of dna over millions of years of evolution looking at the human and mouse genomes ask ourselves just as earthquakes are much more likely to occur along fault lines are there locations in our genome that are fragile and more susceptible to be broken as part of genome rearrangements see how combinatorial algorithms will help us answer this question finally how to apply popular bioinformatics software tools to solve problems in sequence alignment including blast
-
-introduction to sequence alignment
+</DOC>
+<DOC>introduction to sequence alignment
 pwelcome to classppif you joined us in the previous then you became an expert at emassemblingem genomes and sequencing antibiotics the next natural question to ask is how to compare dna and amino acid sequences this question will motivate this weeks discussion of strongsequence alignmentstrong which is the first of two questions that ask class the algorithmic methods used to answer them are shown in parenthesespollihow do we compare dna sequences emdynamic programmingemliliare there fragile regions in the human genome emcombinatorial algorithmsemliolpas in previous courses each of these two chapters is accompanied by a bioinformatics cartoon created by talented artist randall christopher and serving as a chapter header in the specializations bestselling a hrefhttpbioinformaticsalgorithmscom targetblankprint companiona you can find the first chapters cartoon at the bottom of this message why have taxis suddenly become free of charge in manhattan where did pavel get so much spare change and how should you get dressed in the morning so that you arent late to your job as a crimestopping superhero answers to these questions and many more weeks installment of the courseppimg srchttpbioinformaticsalgorithmscomimagescoveralignmentcroppedjpg widthp
 check out our wacky intro from sequence comparison to biological insights the alignment game and the longest common subsequence problem the manhattan tourist problem the change problem dynamic programming and backtracking pointers from manhattan to the alignment graph
-
-from finding a longest path to aligning dna strings
-pwelcome to of the classp plast we saw how touring around manhattan and making change in a roman shop help us find a longest common subsequence of two dna or protein stringsp pthis study how to find a highest scoring alignment of two strings see that regardless of the underlying assumptions that we make regarding how the strings should be aligned be able to phrase our alignment problem as an instance of finding the longest path in a directed acyclic graphp
-
-advanced topics in sequence alignment
-pwelcome to of the classp plast we saw how a variety of different applications of sequence alignment can all be reduced to finding the longest path in a manhattanlike graphp pthis conclude the current chapter by considering a few advanced topics in sequence alignment for example if we need to align long strings our current algorithm will consume a huge amount of memory can we find a more memoryefficient approach and what should we do when we move from aligning just two strings at a time to aligning many stringsp
-penalizing insertions and deletions in sequence alignment spaceefficient sequence alignment multiple sequence alignment
-
-genome rearrangements and fragility
-pwelcome to of the classp pyou now know how to compare two dna or protein strings nbspbut what if we wanted to compare entire genomes when we zoom out to the genome level we find that substitutions insertions and deletions dont tell the whole story of evolution we need to model more dramatic evolutionary events known as stronggenome rearrangementsstrong which wrench apart chromosomes and put them back together in a new order a natural question to ask is whether there are fragile regions hidden in your genome where chromosome breakage has occurred more often over millions of years begin addressing this question by asking how we can compute the number of rearrangements on the evolutionary path connecting two speciesp pyou can find this weeks bioinformatics cartoon from randall christopher at the bottom of this email what do earthquakes and a stack of pancakes have to do with species evolution keep learning to find outp pimg width srchttpbioinformaticsalgorithmscomimagescoverrearrangementscroppedjpgp
-transforming men into mice sorting by reversals breakpoint theorem rearrangements in tumor genomes breaks
-
-applying genome rearrangement analysis to find genome fragility
-plast we asked whether there are fragile regions in the human genome then we took a lengthy detour to see how to compute a distance between species genomes a discussion that continue this weekp pit is probably unclear how computing thenbspemdistanceem between two genomes can help us understand whether emfragile regionsem exist if so please stay tuned see that the connection between these two concepts will yield a surprising conclusion to the classp
-breakpoint graphs break distance theorem rearrangement hotspots in the human genome synteny block construction
-
-bioinformatics application challenge
-in the sixth and final of the apply sequence alignment algorithms to infer the nonribosomal code
 </DOC>
 
+<DOC>from finding a longest path to aligning dna strings
+pwelcome to of the classp plast we saw how touring around manhattan and making change in a roman shop help us find a longest common subsequence of two dna or protein stringsp pthis study how to find a highest scoring alignment of two strings see that regardless of the underlying assumptions that we make regarding how the strings should be aligned be able to phrase our alignment problem as an instance of finding the longest path in a directed acyclic graphp
+</DOC>
+
+<DOC>advanced topics in sequence alignment
+pwelcome to of the classp plast we saw how a variety of different applications of sequence alignment can all be reduced to finding the longest path in a manhattanlike graphp pthis conclude the current chapter by considering a few advanced topics in sequence alignment for example if we need to align long strings our current algorithm will consume a huge amount of memory can we find a more memoryefficient approach and what should we do when we move from aligning just two strings at a time to aligning many stringsp
+penalizing insertions and deletions in sequence alignment spaceefficient sequence alignment multiple sequence alignment
+</DOC>
+
+<DOC>genome rearrangements and fragility
+pwelcome to of the classp pyou now know how to compare two dna or protein strings nbspbut what if we wanted to compare entire genomes when we zoom out to the genome level we find that substitutions insertions and deletions dont tell the whole story of evolution we need to model more dramatic evolutionary events known as stronggenome rearrangementsstrong which wrench apart chromosomes and put them back together in a new order a natural question to ask is whether there are fragile regions hidden in your genome where chromosome breakage has occurred more often over millions of years begin addressing this question by asking how we can compute the number of rearrangements on the evolutionary path connecting two speciesp pyou can find this weeks bioinformatics cartoon from randall christopher at the bottom of this email what do earthquakes and a stack of pancakes have to do with species evolution keep learning to find outp pimg width srchttpbioinformaticsalgorithmscomimagescoverrearrangementscroppedjpgp
+transforming men into mice sorting by reversals breakpoint theorem rearrangements in tumor genomes breaks
+</DOC>
+
+<DOC>applying genome rearrangement analysis to find genome fragility
+plast we asked whether there are fragile regions in the human genome then we took a lengthy detour to see how to compute a distance between species genomes a discussion that continue this weekp pit is probably unclear how computing thenbspemdistanceem between two genomes can help us understand whether emfragile regionsem exist if so please stay tuned see that the connection between these two concepts will yield a surprising conclusion to the classp
+breakpoint graphs break distance theorem rearrangement hotspots in the human genome synteny block construction
+</DOC>
+
+<DOC>bioinformatics application challenge
+in the sixth and final of the apply sequence alignment algorithms to infer the nonribosomal code
+</DOC>
 <DOC>
 genome sequencing bioinformatics ii
 you may have heard a lot about genome sequencing and its potential to usher in an era of personalized medicine but what does it mean to sequence a genome
 biologists still cannot read the nucleotides of an entire genome as you would read a book from beginning to end however they can read short pieces of dna see how graph theory can be used to assemble genomes from these short pieces further about brute force algorithms and apply them to sequencing miniproteins called antibiotics in the first half of the see that biologists cannot read the billion nucleotides of a human genome as you would read a book from beginning to end however they can read shorter fragments of dna see how graph theory can be used to assemble genomes from these short pieces in what amounts to the largest jigsaw puzzle ever put together in the second half of the discuss antibiotics a topic of great relevance as antimicrobialresistant bacteria like mrsa are on the rise you know antibiotics as drugs but on the molecular level they are short miniproteins that have been engineered by bacteria to kill their enemies determining the sequence of amino acids making up one of these antibiotics is an important research problem and one that is similar to that of sequencing a genome by assembling tiny fragments of dna see how brute force algorithms that try every possible solution are able to identify naturally occurring antibiotics so that they can be synthesized in a lab finally how to apply popular bioinformatics software tools to sequence the genome of a deadly staphylococcus bacterium that has acquired antibiotics resistance
-
-introduction to genome sequencing
+</DOC>
+<DOC>introduction to genome sequencing
 pwelcome to classppthis will focus on two questions at the forefront of modern computational biology along with the algorithmic approaches use to solve them in parenthesespolliweeks how do we assemble genomes igraph algorithmsililihow do we sequence antibiotics ibrute force algorithmsiliolpeach of the two chapters of content in the class is accompanied by a bioinformatics cartoon created by talented san diego artist randall christopher and serving as a chapter header in the specializations bestselling a hrefhttpbioinformaticsalgorithmscom targetblankprint companiona you can find the first chapters cartoon at the bottom of this message what does a time machine trip to a stack of newspapers a jigsaw puzzle and a giant ant invading a riverside city have to do with putting together a genome start learning today to find outppimg srchttpsdquszaorccloudfrontnetbioinformaticsfimagesfchapterfinallrjpg titleimage httpsdquszaorccloudfrontnetbioinformaticsfimagesfchapterfinallrjpg widthp
 check out our wacky intro field trip what is genome sequencing exploding newspapers the string reconstruction problem string reconstruction as a hamiltonian path problem string reconstruction as an eulerian path problem similar problems with different fates
-
-applying eulers theorem to assemble genomes
-pwelcome to of classp pthis in class see how a yearold mathematical theorem will help us assemble a genome from millions of tiny pieces of dnap
-de bruijn graphs eulers theorem assembling readpairs de bruijn graphs face harsh realities of assembly returning to konigsberg
-
-sequencing antibiotics
-pwelcome to of classp pthis we begin a new chapter titled how do we sequence antibiotics nbspin this chapter learnnbsphow to determine the amino acid sequences making up antibiotics using brute force algorithmsp pbelow is this weeks bioinformatics cartoonp pimg srchttpsdquszaorccloudfrontnetbioinformaticsfimagesfchapterfinaljpg titleimage httpsdquszaorccloudfrontnetbioinformaticsfimagesfchapterfinaljpg widthp
-the discovery of antibiotics how do bacteria make antibiotics sequencing antibiotics by shattering them into pieces a brute force algorithm for cyclopeptide sequencing cyclopeptide sequencing with branch and bound
-
-from ideal to real spectra for antibiotics sequencing
-pwelcome to of classp plast we discussed how to sequence an antibiotic peptide from an ideal spectrum see how to develop more sophisticated algorithms for antibiotic peptide sequencing that are able to handle spectra with many false and missing massesp
-adapting sequencing for spectra with errors from to more than amino acids the spectral convolution saves the day the truth about spectra
-
-bioinformatics application challenge
-welcome to of class see how to apply genome assembly tools to sequencing data from a dangerous pathogenic bacterium
 </DOC>
 
+<DOC>applying eulers theorem to assemble genomes
+pwelcome to of classp pthis in class see how a yearold mathematical theorem will help us assemble a genome from millions of tiny pieces of dnap
+de bruijn graphs eulers theorem assembling readpairs de bruijn graphs face harsh realities of assembly returning to konigsberg
+</DOC>
+
+<DOC>sequencing antibiotics
+pwelcome to of classp pthis we begin a new chapter titled how do we sequence antibiotics nbspin this chapter learnnbsphow to determine the amino acid sequences making up antibiotics using brute force algorithmsp pbelow is this weeks bioinformatics cartoonp pimg srchttpsdquszaorccloudfrontnetbioinformaticsfimagesfchapterfinaljpg titleimage httpsdquszaorccloudfrontnetbioinformaticsfimagesfchapterfinaljpg widthp
+the discovery of antibiotics how do bacteria make antibiotics sequencing antibiotics by shattering them into pieces a brute force algorithm for cyclopeptide sequencing cyclopeptide sequencing with branch and bound
+</DOC>
+
+<DOC>from ideal to real spectra for antibiotics sequencing
+pwelcome to of classp plast we discussed how to sequence an antibiotic peptide from an ideal spectrum see how to develop more sophisticated algorithms for antibiotic peptide sequencing that are able to handle spectra with many false and missing massesp
+adapting sequencing for spectra with errors from to more than amino acids the spectral convolution saves the day the truth about spectra
+</DOC>
+
+<DOC>bioinformatics application challenge
+welcome to of class see how to apply genome assembly tools to sequencing data from a dangerous pathogenic bacterium
+</DOC>
 <DOC>
 molecular evolution bioinformatics iv
 in the previous in the we learned how to compare genes proteins and genomes one way we can use these methods is in order to construct a tree of life showing how a large collection of related organisms have evolved over time
 in the first half of the discuss approaches for evolutionary tree construction that have been the subject of some of the most cited scientific papers of all time and show how they can resolve quandaries from finding the origin of a deadly virus to locating the birthplace of modern humans in the second half of the shift gears and examine the old claim that birds evolved from dinosaurs how can we prove this in particular examine a result that claimed that peptides harvested from a t rex fossil closely matched peptides found in chickens in particular use methods from computational proteomics to ask how we could assess whether this result is valid or due to some form of contamination finally how to apply popular bioinformatics software tools to reconstruct an evolutionary tree of ebolaviruses and identify the source of the recent ebola epidemic that caused global headlines
-
-introduction to evolutionary tree construction
+</DOC>
+<DOC>introduction to evolutionary tree construction
 pwelcome to our classppin this class consider the following two central biologicalnbspquestions the computational approaches needed to solve them are shown in parenthesespolliweeks which animal gave us sars ievolutionary tree constructionililiweeks was emt rexem just a big chickennbspemcombinatorial algorithmsemliolpin complete a bioinformatics application challenge to apply evolutionary tree construction algorithms in order to determine the origin of the recent ebola outbreak in africappas in previous courses each of these two chapters is accompanied by a bioinformatics cartoon created by talented artist randall christopher and serving as a chapter header in the specializations bestselling a hrefhttpbioinformaticsalgorithmscom targetblankprint companiona you can find the first chapters cartoon at the bottom of this message what do stick bugs and bats have to do with deadly viruses and how can bioinformatics be used to stop these viruses in their tracks start learning today and find outppimg srchttpbioinformaticsalgorithmscomimagescoverevolutioncroppedjpg titleimage httpbioinformaticsalgorithmscomimagescoverevolutioncroppedjpg widthp
 check out our wacky intro the fastest outbreak transforming distance matrices into evolutionary trees toward an algorithm for distancebased phylogeny construction additive phylogeny
-
-more algorithms for constructing trees from distance matrices
-pwelcome to of classp plast we started to see how evolutionary trees can be constructed from distance matrices nbspthis encounter additional algorithms for this purpose including the neighborjoining algorithm which has become one of the topten most cited papers in all of science since its introduction three decades agop
-using least squares to construct distancebased phylogenies ultrametric trees the neighborjoining algorithm
-
-constructing evolutionary trees from characters
-pwelcome to of classp pover the last two weeks we have seen several different algorithms for constructing evolutionary trees from distance matricesp pthis conclude the current chapter by considering what happens if we use properties called characters instead of distances also see how to infer the ancestral states of organisms in an evolutionary tree and consider whether it is possible to define an efficient algorithm for this taskp
-characterbased tree reconstruction the small parsimony algorithm the large parsimony algorithm evolutionary tree reconstruction in the modern era
-
-
-pwelcome to of the classp pdid birds evolve from dinosaurs over the next two weeks see how we could analyze molecular evidence in support of this theory you can find this weeks bioinformatics cartoon from randall christopher at the bottom of this email why does the emt rexnbspemlook so much like a chicken and why is the monkey typing frantically keep learning to find outp pimg srchttpbioinformaticsalgorithmscomimagescoverproteomicscroppedjpg titleimage httpbioinformaticsalgorithmscomimagescoverproteomicscroppedjpg widthp
-paleontology meets computing decoding an ideal spectrum from ideal to real spectra peptide sequencing
-
-resolving the t rex peptides mystery
-pwelcome to of classp plast we asked whether it is possible for dinosaur peptides to survive locked inside of a fossil for million years see what this question has to do with statistics in the process see how a monkey typing out symbols on a typewriter can be used to address itp
-peptide identification spectral dictionaries the ostrich hemoglobin riddle searching for posttranslational modifications spectral alignment algorithm
-
-bioinformatics application challenge
-pwelcome to the sixth and final of the coursep pin this weeks bioinformatics application challenge use reconstruct an evolutionary tree of ebolaviruses and use it to determine the origin of the pathogen that caused the recent outbreak in africap
 </DOC>
 
+<DOC>more algorithms for constructing trees from distance matrices
+pwelcome to of classp plast we started to see how evolutionary trees can be constructed from distance matrices nbspthis encounter additional algorithms for this purpose including the neighborjoining algorithm which has become one of the topten most cited papers in all of science since its introduction three decades agop
+using least squares to construct distancebased phylogenies ultrametric trees the neighborjoining algorithm
+</DOC>
+
+<DOC>constructing evolutionary trees from characters
+pwelcome to of classp pover the last two weeks we have seen several different algorithms for constructing evolutionary trees from distance matricesp pthis conclude the current chapter by considering what happens if we use properties called characters instead of distances also see how to infer the ancestral states of organisms in an evolutionary tree and consider whether it is possible to define an efficient algorithm for this taskp
+characterbased tree reconstruction the small parsimony algorithm the large parsimony algorithm evolutionary tree reconstruction in the modern era
+</DOC>
+
+<DOC>
+pwelcome to of the classp pdid birds evolve from dinosaurs over the next two weeks see how we could analyze molecular evidence in support of this theory you can find this weeks bioinformatics cartoon from randall christopher at the bottom of this email why does the emt rexnbspemlook so much like a chicken and why is the monkey typing frantically keep learning to find outp pimg srchttpbioinformaticsalgorithmscomimagescoverproteomicscroppedjpg titleimage httpbioinformaticsalgorithmscomimagescoverproteomicscroppedjpg widthp
+paleontology meets computing decoding an ideal spectrum from ideal to real spectra peptide sequencing
+</DOC>
+
+<DOC>resolving the t rex peptides mystery
+pwelcome to of classp plast we asked whether it is possible for dinosaur peptides to survive locked inside of a fossil for million years see what this question has to do with statistics in the process see how a monkey typing out symbols on a typewriter can be used to address itp
+peptide identification spectral dictionaries the ostrich hemoglobin riddle searching for posttranslational modifications spectral alignment algorithm
+</DOC>
+
+<DOC>bioinformatics application challenge
+pwelcome to the sixth and final of the coursep pin this weeks bioinformatics application challenge use reconstruct an evolutionary tree of ebolaviruses and use it to determine the origin of the pathogen that caused the recent outbreak in africap
+</DOC>
 <DOC>
 finding hidden messages in dna bioinformatics i
 named a top mooc of all time by class central
 this begins a series of classes illustrating the power of computing in modern biology please join us on the frontier of bioinformatics to look for hidden messages in dna without ever needing to put on a lab coat in the first half of the we investigate dna replication and ask the question where in the genome does dna replication begin see that we can answer this question for many bacteria using only some straightforward algorithms to look for hidden messages in the genome in the second half of the we examine a different biological question when we ask which dna patterns play the role of molecular clocks the cells in your body manage to maintain a circadian rhythm but how is this achieved on the level of dna once again see that by knowing which hidden messages to look for we can start to understand the amazingly complex language of dna perhaps surprisingly apply randomized algorithms which roll dice and flip coins in order to solve problems finally get your hands dirty and apply existing software tools to find recurring biological motifs within genes that are responsible for helping mycobacterium tuberculosis go dormant within a host for many years before causing an active infection
-
-welcome
+</DOC>
+<DOC>welcome
 pwelcome to classppthis will focus on two questions at the forefront of modern computational biology along with the algorithmic approaches use to solve them in parenthesespolliweeks where in the genome does dna replication begin emalgorithmic warmupemliliweeks which dna patterns play the role of molecular clocks emrandomized algorithmsemliolpweek will consist of a bioinformatics application challenge in which get to apply software for finding dna motifs to a real biological datasetppeach of the two chapters in the is accompanied by a bioinformatics cartoon created by randall christopher and serving as a chapter header in the specializations bestselling a hrefhttpbioinformaticsalgorithmscom targetblankprint companiona you can find the first chapters cartoon at the bottom of this message what does a cryptic message leading to buried treasure have to do with biology we hope join us to find outppimg srchttpbioinformaticsalgorithmscomimagescoverreplicationcroppedjpg titleimage httpbioinformaticsalgorithmscomimagescoverchaptercroppedjpg widthppa hrefhttpcompeaucbdcmuedu targetblankimg srchttpbioinformaticsalgorithmscomimagescompeaucaricaturejpg width a a hrefhttpcsewebucsdeduppevzner targetblankimg srchttpbioinformaticsalgorithmscomimagespevznercaricaturejpg width appphillip and pavelp
 check out our wacky intro where in the genome does dna replication begin part where in the genome does dna replication begin part
-
-finding replication origins
-pwelcome to of classp pthis examine the biological details of how dna replication is carried out in the cell then see how to use these details to help us design an intelligent algorithmic approach looking for the replication origin in a bacterial genomep
-where in the genome does dna replication begin part where in the genome does dna replication begin part
-
-hunting for regulatory motifs
-pwelcome to of classp pthis we begin a new chapter titled which dna patterns play the role of molecular clocks at the bottom of this message is this weeks bioinformatics cartoon nbspwhat does a late night casino trip with two th century french mathematicians have in common with finding molecular clocks nbspstart learning to find outp pimg srchttpsdquszaorccloudfrontnetbioinformaticsfimagesfchapterfinaljpg titleimage httpsdquszaorccloudfrontnetbioinformaticsfimagesfchapterfinaljpg widthp
-from implanted patterns to regulatory motifs part from implanted patterns to regulatory motifs part from implanted patterns to regulatory motifs part
-
-how rolling dice helps us find regulatory motifs
-pwelcome to of classp plast we encountered a few introductory motiffinding algorithms see how to improve upon these motiffinding approaches by designing randomized algorithms that can roll dice to find motifsp
-how rolling dice helps us find regulatory motifs part how rolling dice helps us find regulatory motifs part how rolling dice helps us find regulatory motifs part
-
-bioinformatics application challenge
-welcome to of the class apply popular motiffinding software in order to hunt for motifs in a real biological dataset
 </DOC>
 
+<DOC>finding replication origins
+pwelcome to of classp pthis examine the biological details of how dna replication is carried out in the cell then see how to use these details to help us design an intelligent algorithmic approach looking for the replication origin in a bacterial genomep
+where in the genome does dna replication begin part where in the genome does dna replication begin part
+</DOC>
+
+<DOC>hunting for regulatory motifs
+pwelcome to of classp pthis we begin a new chapter titled which dna patterns play the role of molecular clocks at the bottom of this message is this weeks bioinformatics cartoon nbspwhat does a late night casino trip with two th century french mathematicians have in common with finding molecular clocks nbspstart learning to find outp pimg srchttpsdquszaorccloudfrontnetbioinformaticsfimagesfchapterfinaljpg titleimage httpsdquszaorccloudfrontnetbioinformaticsfimagesfchapterfinaljpg widthp
+from implanted patterns to regulatory motifs part from implanted patterns to regulatory motifs part from implanted patterns to regulatory motifs part
+</DOC>
+
+<DOC>how rolling dice helps us find regulatory motifs
+pwelcome to of classp plast we encountered a few introductory motiffinding algorithms see how to improve upon these motiffinding approaches by designing randomized algorithms that can roll dice to find motifsp
+how rolling dice helps us find regulatory motifs part how rolling dice helps us find regulatory motifs part how rolling dice helps us find regulatory motifs part
+</DOC>
+
+<DOC>bioinformatics application challenge
+welcome to of the class apply popular motiffinding software in order to hunt for motifs in a real biological dataset
+</DOC>
 <DOC>
 genomic data science and clustering bioinformatics v
 how do we infer which genes orchestrate various processes in the cell how did humans migrate out of africa and spread around the world class see that these two seemingly different questions can be addressed using similar algorithmic and machine learning techniques arising from the general problem of dividing data points into distinct clusters
 in the first half of the introduce algorithms for clustering a group of objects into a collection of clusters based on their similarity a classic problem in data science and see how these algorithms can be applied to gene expression data in the second half of the introduce another classic tool in data science called principal components analysis that can be used to preprocess multidimensional data before clustering in an effort to greatly reduce the number dimensions without losing much of the signal in the data finally how to apply popular bioinformatics software tools to solve a real problem in clustering
-
-introduction to clustering algorithms
+</DOC>
+<DOC>introduction to clustering algorithms
 pwelcome to classppat the beginning of the class see how algorithms fornbspstrongclusteringnbspstronga set of data pointsnbspwill help us determine how yeast became such good winemakers at the bottom of this email is the bioinformatics cartoon for this chapter courtesy of a hrefhttpbearandfoxcom targetblank titlelink httpbearandfoxcomrandall christophera and serving as a chapter header in the specializations bestselling a hrefhttpbioinformaticsalgorithmscom targetblankprint companiona how did the monkey lose a winedrinking contest to a tiny mammal nbspwhy have pavel and phillip become cavemen and will flipping a coin help them escape their eternal boredom until they can return to the present start learning to find outppimg width alt srchttpbioinformaticsalgorithmscomimagescoverclusteringcroppedjpg titleimage httpbioinformaticsalgorithmscomimagescoverclusteringcroppedjpgp
 check out our wacky intro which yeast genes are responsible for wine making gene expression matrices clustering as an optimization problem the lloyd algorithm for kmeans clustering
-
-advanced clustering techniques
-pwelcome to of classp pthis see how we can move from a hard of points to clusters toward a soft that allows the boundaries of the clusters to blend also see how to adapt the lloyd algorithm that we encountered in the first in order to produce an algorithm for soft clustering also see another clustering algorithm called hierarchical clustering that groups objects into larger and larger clustersp
-from hard to soft clustering from coin flipping to kmeans clustering expectation maximization soft kmeans clustering hierarchical clustering
-
-introductory algorithms in population genetics
-
 </DOC>
 
+<DOC>advanced clustering techniques
+pwelcome to of classp pthis see how we can move from a hard of points to clusters toward a soft that allows the boundaries of the clusters to blend also see how to adapt the lloyd algorithm that we encountered in the first in order to produce an algorithm for soft clustering also see another clustering algorithm called hierarchical clustering that groups objects into larger and larger clustersp
+from hard to soft clustering from coin flipping to kmeans clustering expectation maximization soft kmeans clustering hierarchical clustering
+</DOC>
+
+<DOC>introductory algorithms in population genetics
+
+</DOC>
 <DOC>
 finding mutations in dna and proteins bioinformatics vi
 in previous courses in the we have discussed how to sequence and compare genomes this will cover advanced topics in finding mutations lurking within dna and proteins
 in the first half of the we would like to ask how an individuals genome differs from the reference genome of the species our goal is to take small fragments of dna from the individual and map them to the reference genome see that the combinatorial pattern matching algorithms solving this problem are elegant and extremely efficient requiring a surprisingly small amount of runtime and memory in the second half of the how to identify the function of a protein even if it has been bombarded by so many mutations compared to similar proteins with known functions that it has become barely recognizable this is the case for example in hiv studies since the virus often mutates so quickly that researchers can struggle to study it the approach use is based on a powerful machine learning tool called a hidden markov model finally how to apply popular bioinformatics software tools applying hidden markov models to compare a protein against a related family of proteins
-
-introduction to read mapping
+</DOC>
+<DOC>introduction to read mapping
 pwelcome to our class we are glad that you decided to join usppin this class consider the following two central biologicalnbspquestions the computational approaches needed to solve them are shown in parenthesespollihow do we locate diseasecausing mutations emcombinatorial pattern matchingemliliwhy have biologists still not developed an hiv vaccinenbspemhidden markov modelsemliolpas in previous courses each of these two chapters is accompanied by a bioinformatics cartoon created by talented artist randall christopher and serving as a chapter header in the specializations bestselling a hrefhttpbioinformaticsalgorithmscom targetblankprint companiona you can find the first chapters cartoon at the bottom of this message ppimg srchttpsstepicorgmediaattachmentslessonschaptercroppedjpg titleimage httpsstepicorgmediaattachmentslessonschaptercroppedjpg widthp
 check out our wacky intro why do we map reads using the trie from a trie to a suffix tree
-
-the burrowswheeler transform
-pwelcome to of the classp pthis introduce a paradigm called the burrowswheeler transform after seeing how it can be used in string compression demonstrate that it is also the foundation of modern readmapping algorithmsp
-string compression and the burrowswheeler transform inverting burrowswheeler using burrowswheeler for pattern matching
-
-speeding up burrowswheeler read mapping
-pwelcome to of classp plast we saw how the burrowswheeler transform could be applied to multiple pattern matching speed up our algorithm and generalize it to the case that patterns have errors which models the biological problem of mapping reads with errors to a reference genomep
-finding the matched patterns setting up checkpoints inexact matching further applications of read mapping
-
-introduction to hidden markov models
-pwelcome to of classp pthis start examining the case of aligning sequences with many mutations such as related genes from different hiv strains and see that our problem formulation for sequence alignment is not adequate for highly diverged sequencesp pto improve our algorithms introduce a machinelearning paradigm called a hidden markov model and see how dynamic programming helps us answer questions about these modelsp
-classifying hiv phenotypes gambling with yakuza from a crooked casino to a hidden markov model the decoding problem the viterbi algorithm
-
-profile hmms for sequence alignment
-pwelcome to of classp plast we introduced hidden markov models see how hidden markov models can be applied to sequence alignment with a profile hmm then consider some advanced topics area which are related to advanced methods that we considered in a previous for clusteringp
-profile hmms for sequence alignment classifying proteins with profile hmms viterbi learning soft decoding problem baumwelch learning
-
-bioinformatics application challenge
-pwelcome to the sixth and final of classp pthis brings our application challenge in which we apply the hmm sequence alignment algorithms that we have developedp
 </DOC>
 
+<DOC>the burrowswheeler transform
+pwelcome to of the classp pthis introduce a paradigm called the burrowswheeler transform after seeing how it can be used in string compression demonstrate that it is also the foundation of modern readmapping algorithmsp
+string compression and the burrowswheeler transform inverting burrowswheeler using burrowswheeler for pattern matching
+</DOC>
+
+<DOC>speeding up burrowswheeler read mapping
+pwelcome to of classp plast we saw how the burrowswheeler transform could be applied to multiple pattern matching speed up our algorithm and generalize it to the case that patterns have errors which models the biological problem of mapping reads with errors to a reference genomep
+finding the matched patterns setting up checkpoints inexact matching further applications of read mapping
+</DOC>
+
+<DOC>introduction to hidden markov models
+pwelcome to of classp pthis start examining the case of aligning sequences with many mutations such as related genes from different hiv strains and see that our problem formulation for sequence alignment is not adequate for highly diverged sequencesp pto improve our algorithms introduce a machinelearning paradigm called a hidden markov model and see how dynamic programming helps us answer questions about these modelsp
+classifying hiv phenotypes gambling with yakuza from a crooked casino to a hidden markov model the decoding problem the viterbi algorithm
+</DOC>
+
+<DOC>profile hmms for sequence alignment
+pwelcome to of classp plast we introduced hidden markov models see how hidden markov models can be applied to sequence alignment with a profile hmm then consider some advanced topics area which are related to advanced methods that we considered in a previous for clusteringp
+profile hmms for sequence alignment classifying proteins with profile hmms viterbi learning soft decoding problem baumwelch learning
+</DOC>
+
+<DOC>bioinformatics application challenge
+pwelcome to the sixth and final of classp pthis brings our application challenge in which we apply the hmm sequence alignment algorithms that we have developedp
+</DOC>
 <DOC>
 bioinformatics capstone big data in biology
 how to use the basespace cloud platform developed by illumina our industry partner to apply several standard bioinformatics software approaches to real biological data
 in particular in a series of application challenges will see how genome assembly can be used to track the source of a food poisoning outbreak how rnasequencing can help us analyze gene expression data on the tissue level and compare the pros and cons of whole genome vs whole exome sequencing for finding potentially harmful mutations in a human sample plus hacker track students will have the option to build their own genome assembler and apply it to real data
-
-assembly and annotation of the sarscov genome
+</DOC>
+<DOC>assembly and annotation of the sarscov genome
 reading peer review
-
-variant detection and classification of sarscov
-reading peer review
-
-sarscov spike protein structure analysis
-peer review
 </DOC>
 
+<DOC>variant detection and classification of sarscov
+reading peer review
+</DOC>
+
+<DOC>sarscov spike protein structure analysis
+peer review
+</DOC>

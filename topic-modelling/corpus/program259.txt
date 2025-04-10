@@ -21,61 +21,66 @@ apply common statistical methods like mle and map
 linear algebra for machine learning and data science
 newly updated for mathematics for machine learning and data science is a foundational online created by deeplearningai and taught by luis serrano in machine learning you apply math concepts through programming and so apply the math concepts you using python programming in handson lab exercises as a learner need basic to intermediate python programming to be successful
 after completing this be able to represent data as vectors and matrices and identify their properties using concepts of singularity rank and linear independence etc apply common vector and matrix algebra operations like dot product inverse and determinants express certain types of matrix operations as linear transformations apply concepts of eigenvalues and eigenvectors to machine learning problems many machine learning engineers and data scientists need help with mathematics and even experienced practitioners can feel held back by a lack of math this uses innovative pedagogy in mathematics to help you quickly and intuitively with courses that use easytofollow visualizations to help you see how the math behind machine learning actually works we recommend you have a high school level of mathematics functions basic algebra and familiarity with programming data structures loops functions conditional statements debugging and labs are written in python but the introduces all the machine learning libraries use
-
-systems of linear equations
+</DOC>
+<DOC>systems of linear equations
 matrices are commonly used in machine learning and data science to represent data and its transformations how matrices naturally arise from systems of equations and how certain matrix properties can be thought in terms of operations on system of equations
 introduction introduction what to expect and how to succeed a note on programming linear algebra applied i linear algebra applied ii system of sentences system of equations system of equations as lines and planes a geometric notion of singularity singular vs nonsingular matrices linear dependence and independence the determinant conclusion
+</DOC>
 
-solving systems of linear equations
+<DOC>solving systems of linear equations
 how to solve a system of linear equations using the elimination method and the row echelon form also about an important property of a matrix the rank the concept of the rank of a matrix is useful in computer vision for compressing images
 solving nonsingular system of linear equations solving singular system of linear equations solving system of equations with more variables matrix rowreduction row operations that preserve singularity the rank of a matrix the rank of a matrix in general row echelon form row echelon form in general reduced row echelon form the gaussian elimination algorithm conclusion
+</DOC>
 
-vectors and linear transformations
+<DOC>vectors and linear transformations
 an individual instance observation of data is typically represented as a vector in machine learning about properties and operations of vectors also about linear transformations matrix inverse and one of the most important operations on matrices the matrix multiplication see how matrix multiplication naturally arises from composition of linear transformations finally how to apply some of the properties of matrices and vectors that you have learned so far to neural networks
 machine learning motivation vectors and their properties vector operations the dot product geometric dot product multiplying a matrix by a vector matrices as linear transformations linear transformations as matrices matrix multiplication the identity matrix matrix inverse which matrices have an inverse neural networks and matrices conclusion
+</DOC>
 
-determinants and eigenvectors
+<DOC>determinants and eigenvectors
 final take a deeper look at determinants how determinants can be geometrically interpreted as an area and how to calculate determinant of product and inverse of matrices we conclude this with eigenvalues and eigenvectors eigenvectors are used in dimensionality reduction in machine learning see how eigenvectors naturally follow from the concept of eigenbases
 introduction singularity and rank of linear transformations determinant as an area determinant of a product determinants of inverses bases in linear algebra span in linear algebra eigenbases eigenvalues and eigenvectors calculating eigenvalues and eigenvectors on the number of eigenvectors dimensionality reduction and projection motivating pca variance and covariance covariance matrix pca pca why it works pca mathematical formulation discrete dynamical systems conclusion
 </DOC>
-
 <DOC>
 calculus for machine learning and data science
 newly updated for mathematics for machine learning and data science is a foundational online created by deeplearningai and taught by luis serrano in machine learning you apply math concepts through programming and so apply the math concepts you using python programming in handson lab exercises as a learner need basic to intermediate python programming to be successful
 after completing this learners will be able to analytically optimize different types of functions commonly used in machine learning using properties of derivatives and gradients approximately optimize different types of functions commonly used in machine learning using firstorder gradient descent and secondorder newtons method iterative methods visually interpret differentiation of different types of functions commonly used in machine learning perform gradient descent in neural networks with different activation and cost functions many machine learning engineers and data scientists need help with mathematics and even experienced practitioners can feel held back by a lack of math this uses innovative pedagogy in mathematics to help you quickly and intuitively with courses that use easytofollow visualizations to help you see how the math behind machine learning actually works we recommend you have a high school level of mathematics functions basic algebra and familiarity with programming data structures loops functions conditional statements debugging and labs are written in python but the introduces all the machine learning libraries use
-
-derivatives and optimization
+</DOC>
+<DOC>derivatives and optimization
 after completing this be able to
 introduction a note on programming machine learning motivation motivation to derivatives part i derivatives and tangents slopes maxima and minima derivatives and their notation some common derivatives lines some common derivatives quadratics some common derivatives higher degree polynomials some common derivatives other power functions the inverse function and its derivative derivative of trigonometric functions meaning of the exponential e the derivative of ex the derivative of logx existence of the derivative properties of the derivative multiplication by scalars properties of the derivative the sum rule properties of the derivative the product rule properties of the derivative the chain rule introduction to optimization optimization of squared loss the one powerline problem optimization of squared loss the two powerline problem optimization of squared loss the three powerline problem optimization of logloss part optimization of logloss part conclusion
+</DOC>
 
-gradients and gradient descent
+<DOC>gradients and gradient descent
 reading programming ungraded labs plugin
 introduction to tangent planes partial derivatives part partial derivatives part gradients gradients and maximaminima optimization with gradients an example optimization using gradients analytical method optimization using gradient descent in one variable part optimization using gradient descent in one variable part optimization using gradient descent in one variable part optimization using gradient descent in two variables part optimization using gradient descent in two variables part optimization using gradient descent least squares optimization using gradient descent least squares with multiple observations conclusion
+</DOC>
 
-optimization in neural networks and newtons method
+<DOC>optimization in neural networks and newtons method
 programming ungraded labs plugin
 regression with a perceptron regression with a perceptron loss function regression with a perceptron gradient descent classification with perceptron classification with perceptron the sigmoid function classification with perceptron gradient descent classification with perceptron calculating the derivatives classification with a neural network classification with a neural network minimizing logloss gradient descent and backpropagation newtons method newtons method an example the second derivative the hessian hessians and concavity newtons method for two variables conclusion
 </DOC>
-
 <DOC>
 probability statistics for machine learning data science
 newly updated for mathematics for machine learning and data science is a foundational online created by deeplearningai and taught by luis serrano in machine learning you apply math concepts through programming and so apply the math concepts you using python programming in handson lab exercises as a learner need basic to intermediate python programming to be successful
 after completing this be able to describe and quantify the uncertainty inherent in predictions made by machine learning models using the concepts of probability random variables and probability distributions visually and intuitively understand the properties of commonly used probability distributions in machine learning and data science like bernoulli binomial and gaussian distributions apply common statistical methods like maximum likelihood estimation mle and maximum a priori estimation map to machine learning problems assess the performance of machine learning models using interval estimates and margin of errors apply concepts of statistical hypothesis testing to commonly used tests in data science like ab testing perform exploratory data analysis on a dataset to find validate and quantify patterns many machine learning engineers and data scientists need help with mathematics and even experienced practitioners can feel held back by a lack of math this uses innovative pedagogy in mathematics to help you quickly and intuitively with courses that use easytofollow visualizations to help you see how the math behind machine learning actually works we recommend you have a high school level of mathematics functions basic algebra and familiarity with programming data structures loops functions conditional statements debugging and labs are written in python but the introduces all the machine learning libraries use
-
-introduction to probability and probability distributions
+</DOC>
+<DOC>introduction to probability and probability distributions
 about probability of events and various rules of probability to correctly do arithmetic with probabilities the concept of conditional probability and the key idea behind bayes theorem in lesson we generalize the concept of probability of events to probability distribution over random variables about some common probability distributions like the binomial distribution and the normal distribution
 introduction a note on programming what is probability what is probability dice example complement of probability sum of probabilities disjoint events sum of probabilities joint events independence birthday problem conditional probability part conditional probability part bayes theorem intuition bayes theorem mathematical formula bayes theorem spam example bayes theorem prior and posterior bayes theorem the naive bayes model probability in machine learning random variables probability distributions discrete binomial distribution optional binomial coefficient bernoulli distribution probability distributions continuous probability density function cumulative distribution function uniform distribution normal distribution optional chisquared distribution sampling from a distribution conclusion
+</DOC>
 
-describing probability distributions and probability distributions with multiple variables
+<DOC>describing probability distributions and probability distributions with multiple variables
 about different measures to describe probability distributions as as any dataset these include measures of central tendency mean median and mode variance skewness and kurtosis the concept of the expected value of a random variable is introduced to help you understand each of these measures also about some visual tools to describe data and distributions in lesson about the probability distribution of two or more random variables using concepts like joint distribution marginal distribution and conditional distribution end the by learning about covariance a generalization of variance to two or more random variables
 expected value other measures of central tendency median and mode expected value of a function sum of expectations variance standard deviation sum of gaussians standardizing a distribution skewness and kurtosis moments of a distribution skewness and kurtosis skewness skewness and kurtosis kurtosis quantiles and boxplots visualizing data boxplots visualizing data kernel density estimation visualizing data violin plots visualizing data qq plots joint distribution discrete part joint distribution discrete part joint distribution continuous marginal and conditional distribution conditional distribution covariance of a dataset covariance of a probability distribution covariance matrix correlation coefficient multivariate gaussian distribution conclusion
+</DOC>
 
-sampling and point estimation
+<DOC>sampling and point estimation
 shifts its focus from probability to statistics start by learning the concept of a sample and a population and two fundamental results from statistics that concern samples and population the law of large numbers and the central limit theorem in lesson the first and the simplest method of estimation in statistics point estimation see how maximum likelihood estimation the most common point estimation method works and how regularization helps prevent overfitting then how bayesian statistics incorporates the concept of prior beliefs into the way data is evaluated and conclusions are reached
 population and sample sample mean sample proportion sample variance law of large numbers central limit theorem discrete random variable central limit theorem continuous random variable point estimation maximum likelihood estimation motivation mle bernoulli example mle gaussian example mle linear regression regularization back to bayesics bayesian statistics frequentist vs bayesian bayesian statistics map bayesian statistics updating priors bayesian statistics full worked example relationship between map mle and regularization conclusion
+</DOC>
 
-confidence intervals and hypothesis testing
+<DOC>confidence intervals and hypothesis testing
 another estimation method called interval estimation the most common interval estimates are confidence intervals and see how they are calculated and how to correctly interpret them in lesson about hypothesis testing where estimates are formulated as a hypothesis and then tested in the presence of available evidence or a sample of data the concept of pvalue that helps in making a decision about a hypothesis test and also some common tests like the ttest twosample ttest and the paired ttest end the with an interesting application of hypothesis testing in data science ab testing
 confidence intervals confidence intervals changing the interval confidence intervals margin of error confidence intervals calculation steps confidence intervals example calculating sample size difference between confidence and probability unknown standard deviation confidence intervals for proportion defining hypotheses type i and type ii errors righttailed lefttailed and twotailed tests pvalue critical values power of a test interpreting results tdistribution ttests two sample ttest paired ttest ml application ab testing conclusion
 </DOC>
-

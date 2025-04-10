@@ -9,68 +9,79 @@ through various lectures quizzes programming and exams learners will practice an
 probabilistic graphical models learning
 probabilistic graphical models pgms are a rich framework for encoding probability distributions over complex domains joint multivariate distributions over large numbers of random variables that interact with each other these representations sit at the intersection of statistics and computer science relying on concepts from probability theory graph algorithms machine learning and more they are the basis for the stateoftheart methods in a wide variety of applications such as medical diagnosis image understanding speech recognition natural language processing and many many more they are also a foundational tool in formulating many machine learning problems
 this is the third in a sequence of three following the first which focused on representation and the second which focused on inference this addresses the question of learning how a pgm can be learned from a data set of examples the discusses the key problems of parameter estimation in both directed and undirected models as as the structure learning task for directed models the highly recommended honors track contains two handson programming in which key routines of two commonly used learning algorithms are implemented and applied to a realworld problem
-
-learning
+</DOC>
+<DOC>learning
 this presents some of the learning tasks for probabilistic graphical models that tackle
-
-review of machine learning concepts from prof andrew ngs machine learning class optional
-this contains some basic concepts from the general framework of machine learning taken from professor andrew ngs stanford class offered on coursera many of these concepts are highly relevant to the problems tackle
-regularization the problem of overfitting regularization cost function evaluating a hypothesis model selection and train validation test sets diagnosing bias vs variance regularization and bias variance
-
-parameter estimation in bayesian networks
-this discusses the simples and most basic of the learning problems in probabilistic graphical models that of parameter estimation in a bayesian network we discuss maximum likelihood estimation and the issues with it we then discuss bayesian estimation and how it can ameliorate these problems
-maximum likelihood estimation maximum likelihood estimation for bayesian networks bayesian estimation bayesian prediction bayesian estimation for bayesian networks
-
-learning undirected models
-we discuss the parameter estimation problem for markov networks undirected graphical models this task is considerably more complex both conceptually and computationally than parameter estimation for bayesian networks due to the issues presented by the global partition function
-maximum likelihood for loglinear models maximum likelihood for conditional random fields map estimation for mrfs and crfs
-
-learning bn structure
-this discusses the problem of learning the structure of bayesian networks we first discuss how this problem can be formulated as an optimization problem over a space of graph structures and what are good ways to score different structures so as to trade off fit to data and model complexity we then talk about how the optimization problem can be solved exactly in a few cases approximately in most others
-structure learning likelihood scores bic and asymptotic consistency bayesian scores learning tree structured networks learning general graphs heuristic search learning general graphs search and decomposability
-
-learning bns with incomplete data
-we discuss the problem of learning models in cases where some of the variables in some of the data cases are not fully observed we discuss why this situation is considerably more complex than the fully observable case we then present the expectation maximization em algorithm which is used in a wide variety of problems
-learning with incomplete data expectation maximization intro analysis of em algorithm em in practice latent variables
-
-learning and final
-this summarizes some of the issues that arise when learning probabilistic graphical models from data it also contains the final
-
-pgm wrapup
-this contains an of pgm methods as a whole discussing some of the realworld tradeoffs when using this framework in practice it refers to topics from all three of the pgm courses
 </DOC>
 
+<DOC>review of machine learning concepts from prof andrew ngs machine learning class optional
+this contains some basic concepts from the general framework of machine learning taken from professor andrew ngs stanford class offered on coursera many of these concepts are highly relevant to the problems tackle
+regularization the problem of overfitting regularization cost function evaluating a hypothesis model selection and train validation test sets diagnosing bias vs variance regularization and bias variance
+</DOC>
+
+<DOC>parameter estimation in bayesian networks
+this discusses the simples and most basic of the learning problems in probabilistic graphical models that of parameter estimation in a bayesian network we discuss maximum likelihood estimation and the issues with it we then discuss bayesian estimation and how it can ameliorate these problems
+maximum likelihood estimation maximum likelihood estimation for bayesian networks bayesian estimation bayesian prediction bayesian estimation for bayesian networks
+</DOC>
+
+<DOC>learning undirected models
+we discuss the parameter estimation problem for markov networks undirected graphical models this task is considerably more complex both conceptually and computationally than parameter estimation for bayesian networks due to the issues presented by the global partition function
+maximum likelihood for loglinear models maximum likelihood for conditional random fields map estimation for mrfs and crfs
+</DOC>
+
+<DOC>learning bn structure
+this discusses the problem of learning the structure of bayesian networks we first discuss how this problem can be formulated as an optimization problem over a space of graph structures and what are good ways to score different structures so as to trade off fit to data and model complexity we then talk about how the optimization problem can be solved exactly in a few cases approximately in most others
+structure learning likelihood scores bic and asymptotic consistency bayesian scores learning tree structured networks learning general graphs heuristic search learning general graphs search and decomposability
+</DOC>
+
+<DOC>learning bns with incomplete data
+we discuss the problem of learning models in cases where some of the variables in some of the data cases are not fully observed we discuss why this situation is considerably more complex than the fully observable case we then present the expectation maximization em algorithm which is used in a wide variety of problems
+learning with incomplete data expectation maximization intro analysis of em algorithm em in practice latent variables
+</DOC>
+
+<DOC>learning and final
+this summarizes some of the issues that arise when learning probabilistic graphical models from data it also contains the final
+</DOC>
+
+<DOC>pgm wrapup
+this contains an of pgm methods as a whole discussing some of the realworld tradeoffs when using this framework in practice it refers to topics from all three of the pgm courses
+</DOC>
 <DOC>
 probabilistic graphical models representation
 probabilistic graphical models pgms are a rich framework for encoding probability distributions over complex domains joint multivariate distributions over large numbers of random variables that interact with each other these representations sit at the intersection of statistics and computer science relying on concepts from probability theory graph algorithms machine learning and more they are the basis for the stateoftheart methods in a wide variety of applications such as medical diagnosis image understanding speech recognition natural language processing and many many more they are also a foundational tool in formulating many machine learning problems
 this is the first in a sequence of three it describes the two basic pgm representations bayesian networks which rely on a directed graph
 and markov networks which use an undirected graph the discusses both the theoretical properties of these representations as as their use in practice the highly recommended honors track contains several handson on how to represent some realworld problems the also presents some important extensions beyond the basic pgm representation which allow more complex models to be encoded compactly
-
-introduction and
+</DOC>
+<DOC>introduction and
 this provides an overall introduction to probabilistic graphical models and defines a few of the key concepts that will be used later in the
 welcome and motivation distributions factors
-
-bayesian network directed models
-we define the bayesian network representation and its semantics we also analyze the relationship between the graph structure and the independence properties of a distribution represented over that graph finally we give some practical tips on how to model a realworld situation as a bayesian network
-semantics factorization reasoning patterns flow of probabilistic influence conditional independence independencies in bayesian networks naive bayes application medical diagnosis knowledge engineering example samiam basic operations moving data around computing on data plotting data control statements for while if statements vectorization working on and submitting programming exercises
-
-template models for bayesian networks
-in many cases we need to model distributions that have a recurring structure we describe representations for two such situations one is temporal scenarios where we want to model a probabilistic structure that holds constant over time here we use hidden markov models or more generally dynamic bayesian networks the other is aimed at scenarios that involve multiple similar entities each of whose properties is governed by a similar model here we use plate models
-of template models temporal models dbns temporal models hmms plate models
-
-structured cpds for bayesian networks
-a tablebased representation of a cpd in a bayesian network has a size that grows exponentially in the number of parents there are a variety of other form of cpd that exploit some type of structure in the dependency model to allow for a much more compact representation here we describe a number of the ones most commonly used in practice
-structured cpds treestructured cpds independence of causal influence continuous variables
-
-markov networks undirected models
-we describe markov networks also called markov random fields probabilistic graphical models based on an undirected graph representation we discuss the representation of these models and their semantics we also analyze the independence properties of distributions encoded by these graphs and their relationship to the graph structure we compare these independencies to those encoded by a bayesian network giving us some insight on which type of model is more suitable for which scenarios
-pairwise markov networks general gibbs distribution conditional random fields independencies in markov networks imaps and perfect maps loglinear models shared features in loglinear models
-
-decision making
-we discuss the task of decision making under uncertainty we describe the framework of decision theory including some aspects of utility functions we then talk about how decision making scenarios can be encoded as a graphical model called an influence diagram and how such models provide insight both into decision making and the value of information gathering
-maximum expected utility utility functions value of perfect information
-
-knowledge engineering
-this provides an of graphical model representations and some of the realworld considerations when modeling a scenario as a graphical model it also includes the final exam
 </DOC>
 
+<DOC>bayesian network directed models
+we define the bayesian network representation and its semantics we also analyze the relationship between the graph structure and the independence properties of a distribution represented over that graph finally we give some practical tips on how to model a realworld situation as a bayesian network
+semantics factorization reasoning patterns flow of probabilistic influence conditional independence independencies in bayesian networks naive bayes application medical diagnosis knowledge engineering example samiam basic operations moving data around computing on data plotting data control statements for while if statements vectorization working on and submitting programming exercises
+</DOC>
+
+<DOC>template models for bayesian networks
+in many cases we need to model distributions that have a recurring structure we describe representations for two such situations one is temporal scenarios where we want to model a probabilistic structure that holds constant over time here we use hidden markov models or more generally dynamic bayesian networks the other is aimed at scenarios that involve multiple similar entities each of whose properties is governed by a similar model here we use plate models
+of template models temporal models dbns temporal models hmms plate models
+</DOC>
+
+<DOC>structured cpds for bayesian networks
+a tablebased representation of a cpd in a bayesian network has a size that grows exponentially in the number of parents there are a variety of other form of cpd that exploit some type of structure in the dependency model to allow for a much more compact representation here we describe a number of the ones most commonly used in practice
+structured cpds treestructured cpds independence of causal influence continuous variables
+</DOC>
+
+<DOC>markov networks undirected models
+we describe markov networks also called markov random fields probabilistic graphical models based on an undirected graph representation we discuss the representation of these models and their semantics we also analyze the independence properties of distributions encoded by these graphs and their relationship to the graph structure we compare these independencies to those encoded by a bayesian network giving us some insight on which type of model is more suitable for which scenarios
+pairwise markov networks general gibbs distribution conditional random fields independencies in markov networks imaps and perfect maps loglinear models shared features in loglinear models
+</DOC>
+
+<DOC>decision making
+we discuss the task of decision making under uncertainty we describe the framework of decision theory including some aspects of utility functions we then talk about how decision making scenarios can be encoded as a graphical model called an influence diagram and how such models provide insight both into decision making and the value of information gathering
+maximum expected utility utility functions value of perfect information
+</DOC>
+
+<DOC>knowledge engineering
+this provides an of graphical model representations and some of the realworld considerations when modeling a scenario as a graphical model it also includes the final exam
+</DOC>

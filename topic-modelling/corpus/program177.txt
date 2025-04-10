@@ -11,105 +11,115 @@ do you dream of being a cmio or a senior director of clinical informatics if you
 whether youre a nurse pharmacist physician other allied health or come from a nonclinical backgroundyou know that health informatics are in demand
 this newly launched by johnshopkins faculty members provides a solid foundation for anyone wanting to become a leader in one of the hottest fields in healthcare as health informaticians we need to be very clear in our understanding of the current state asis the future state tobe and any unintended consequences that can result from our interventions prior to introducing large scale change we need to assess whether a healthcare organization is truly ready for change this involves taking into account an organizations current culture and values successfully leading change through health informatics also requires strategic planning and careful financial considerations proper workflow redesign and a clear change management strategy are of utmost importance when introducing new technologies and in ensuring their successful adoption and proper use
 by the end of this students will become familiar with examples of successful and failed attempts at change in health informatics and the reasons for each students will be armed with tools to help optimize their chances for successfully leading change in their respective organizations
-
-leading change in health informatics
+</DOC>
+<DOC>leading change in health informatics
 this introduces students to the role of leadership teamwork and governance in health informatics we use various real world examples to help familiarize you with a known step process for successfully leading change during the students will be oriented to the purpose of organizational readiness assessments about the role of clinical governance in health it and the role it plays in designing and optimizing clinical decision support systems
 introduction and of the by dr davison leadership and teams patient portals for clinical trial recruitment introducing change patient portals for clinical trial recruitment overcoming resistance to change the patient and family as important stakeholders interview with dr howard levy creating a sense of urgency reflections with dr marion ball part i organizational readiness for change to take or not to take vision and communication importance of interprofessional collaboration reflections with marion ball enable action and generate wins clinical decision support governance clinical decision support case study
+</DOC>
 
-project management for health informaticists
+<DOC>project management for health informaticists
 knowing how to manage projects effectively is an essential for health informaticians students will be introduced to the standard terminology in project management start by defining what a project is and explaining the phases of a project life cycle in the context of health it become familiar with the role of a breakdown structure gantt charts and process maps see examples of common project related pitfalls such as groupthink and scope creep throughout the we incorporate case studies from real health informaticians in the field both clinical and nonclinical to illustrate the importance of each of these concepts
 project management what is a project project planning groupthink case study in project management role of the breakdown structure in health it process flow charts example of a gantt chart
+</DOC>
 
-strategic planning in health it
+<DOC>strategic planning in health it
 this introduces students to the importance of strategic planning when leading healthcare transformation efforts case studies on the role of strategic planning in mhealth hospital acquisitions and various telemedicine initiatives are woven in throughout the with interviews of subject matter experts from across johns hopkins students will about commonly used strategic planning tools such as swot and scenario planning also review the considerations that go into an organizations decision to build or buy and students will be oriented to commonly used terms in procurement such as rfis rfps tco and roi during the be introduced to the basics of vendor evaluation and will have gain in using a vendor evaluation matrix for purposes of decision making
 strategic planning case study in strategic planning a strategic acquisition strategic planning tools teleemergency medicine interview with junaid ruzak interview rebecca canino and dr ingrid zimmergaller medical second opinion vendor evaluation process what is roi calculating total cost of ownership
+</DOC>
 
-change management
+<DOC>change management
 cover the complexities of change management in health information systems students will be introduced to the pdsa plan do study act cycle demonstrate the value of taking into account the current clinical workflow and how any intervention will impact it challenges associated with usability and workarounds with health information systems are explored students will have an to review and critically interpret a golivereadiness assessment this covers best practices in change management and the need for proper documentation and effective communication of changes
 change management push vs pull workflow redesignreengineering definitions and guidelines define the problem plan the solution implement analyze and iterate key takeaways workarounds change management in software managing change a developers perspective closing remarks
 </DOC>
-
 <DOC>
 culminating project in health informatics
 this capstone in the health informatics will allow learners to create a comprehensive plan for an informatics intervention of their choosing and that will demonstrate to current or future employers the new obtained through the completion of this series of five courses in health informatics
-
-translating an as is and to be into a stack analysis
+</DOC>
+<DOC>translating an as is and to be into a stack analysis
 peer reviews
 introduction to the capstone introduction to plan the solution the stack
+</DOC>
 
-applying online data sources to assess the needs for an informatics intervention
+<DOC>applying online data sources to assess the needs for an informatics intervention
 peer review
+</DOC>
 
-designing an informatics intervention
+<DOC>designing an informatics intervention
 peer reviews
 introduction to types of clinical decision support design phase define phase the language of rules
+</DOC>
 
-communicating a plan for intervention implementation
+<DOC>communicating a plan for intervention implementation
 reading peer reviews discussion prompt
 introduction to capstone wrapup
 </DOC>
-
 <DOC>
 the and interventions of health informatics
 for clinical data science to be effective in healthcareto achieve the desiredit must translate into decision support of some sort either at the patient clinician or manager level by the end of this students will be able to articulate the need for an intervention to right size it to choose the appropriate technology to describe how knowledge should be obtained and to design a monitoring plan
-
-knowing where to intervene
+</DOC>
+<DOC>knowing where to intervene
 be introduced to the through a range of decision support interventions used in health care examine the five rights of decision support and go on to discuss the basics for deciding whether to build an intervention and having done so how to evaluate it
 motivation examples should you should you ii himss framework does it testing is it used does it accomplish goals
+</DOC>
 
-defining decision support
+<DOC>defining decision support
 focus on issues of design both for decision support and as they apply more broadly across multiple environments
 clinical decision support types of clinical decision support design phase define phase ideate phase prototype phase test phase deploy phase
+</DOC>
 
-using transactional and summative data and knowledge for decision support
+<DOC>using transactional and summative data and knowledge for decision support
 we return to decision support focusing on rules the key structure in most decision support provide a key framework for making sure you have all the minimum components for ensuring a successful implementation also address issues of languages used by rules and how to keep rules consistent within and between institutions
 whats in a rule whats in a rule part ii the language of rules data dictionary and taxonomy value sets semantic networks ontology
+</DOC>
 
-eliciting and creating knowledge for decision support
+<DOC>eliciting and creating knowledge for decision support
 go behind the scenes of decision support examining where and how we get the knowledge that drives decision support including data science for generating knowledge from data
 knowledge and decision support expert knowledge decision support committee eliciting expert knowledge the literature data knowledge statistical methods ai dangers
 </DOC>
-
 <DOC>
 the social and technical context of health informatics
 improving health and healthcare institutions requires understanding of data and creation of interventions at the many levels at which health it interact and affect the institution these levels range from the external world in which the institution operates down to the specific technologies data scientists find that when they aim at implementing their models in practice it is the socio components that are both novel to them and mission critical to success at the end of this students will be able to make a quick assessment of a health informatics problemor a proposed solutionand to determine what is missing and what more needs to be learned
 who is this class for physicians nurses pharmacists social workers and other allied health professionals interested in expanding their understanding of digital health big data health information systems and the unintended consequences of disruptive innovation in the healthcare system the is also aimed at those with technical engineering or analytics backgrounds who want to understand the nuances of those topics when it comes to healthcare
-
-of health informatics
+</DOC>
+<DOC>of health informatics
 be given an introduction to the and its foundational concepts after providing examples of health it in the contexts of patients providers and populationsthe three contexts we always return towe articulate the drivers that motivate developments in health it and informatics we then provide the core definitions of key terms like health it and informatics and introduce the core framework for your the informatics stack
 welcome to the health informatics health information technology for patients health information technology for doctors populations imperatives quality imperatives safety imperatives costs imperatives technology definitions the stack using the stack
+</DOC>
 
-world organization roles function
+<DOC>world organization roles function
 we start our journey down the stack to explain the world of informatics and health it we explore the top four levels of the stack world organization roles and functions and then proceed to discuss new us medicalcare world policies that drive health care organizations to change practice so they can accomplish their core functions we also discuss the history of health it in relation to such policies in the past we begin a courselong discussion of interoperability which occurs at each level of the stack and privacyconfidentialitysecurity we end with an explication of methods used to evaluate whether an it project has achieved the organizational goals set for that project
 world organization roles function policy new models policy other models interoperability privacy confidentiality security evaluation
+</DOC>
 
-workflow information system
+<DOC>workflow information system
 we continue the journey starting with the role of needs requirements and specifications we then turn to how workflow issues are turned into requirements and how information systems built to satisfy those requirements are assembled we close with the cautionary notes of how poorly built systems harm the very workflows they were designed to improve
 need and system specification articulating workflow information system architecture the comprising clinical information systems developing software harming workflow
+</DOC>
 
-data information knowledge technology
+<DOC>data information knowledge technology
 this concludes our journey with discussions of data information knowledge and technology regarding data we discuss their sources and types and provide examples we go on to explain differences between information and data and between knowledge and information standards are most important at this level and we discuss the exchange of text and imaging data regarding technology we use the hype cycle as a way for you to keep track of what new technologies are doing what and when we close with a framework for thinking about careers in health it and informatics
 introduction data information knowledge technology many types of clinical data information knowledge putting dikw together data exchange interoperability revisited text data interoperability images making it together technology hype cycles careers
 </DOC>
-
 <DOC>
 the data science of health informatics
 health data are notable for how many types there are how complex they are and how serious it is to get them straight these data are used for treatment of the patient from whom they derive but also for other uses examples of such secondary use of health data include population health eg who requires more attention research eg which drug is more effective in practice quality eg is the institution meeting benchmarks and translational research eg are new technologies being applied appropriately by the end of this students will recognize the different types of health and healthcare data will articulate a coherent and complete question will interpret queries designed for secondary use of ehr data and will interpret the results of those queries
-
-introduction to databases and data types
+</DOC>
+<DOC>introduction to databases and data types
 begin by introducing and defining databases and placing the role of databases within the context of clinical informatics continue by introducing the common health data types such as demographics diagnosis medications procedures and utilization data finish this by reviewing the emerging health data such as lab ordersresults vital signs social data and patientgenerated data
 introduction to databases databases in clinical informatics common data types i common data types ii common data types iii emerging data types
+</DOC>
 
-data sources and data challenges
+<DOC>data sources and data challenges
 we review the data specifications extracted from insurance claims and electronic health records then discuss the common challenges in using health data specifically issues with data quality data interoperability and data system architectures finally describe the big data challenges of health data and explain some of the data problems that may hinder analytical efforts
 common clinical data sources populationlevel data sources data challenges i data challenges ii data challenges iii
+</DOC>
 
-formulating data questions
+<DOC>formulating data questions
 with this understanding of the data available its time to see how to turn questions you and your colleagues will have into queries the database can understand besides getting rules of thumb for doing this translation also be introduced to three online tools available to test some of these also watch an interview with sam meiselman instructor and the data manager in charge of the johns hopkins enterprise data warehouse who has to use these on a daily basis
 formulating a data query i formulating a data query ii real world data questions ib demo healthdatagov demo hcupnet demo
+</DOC>
 
-real world applications of data science in health informatics
+<DOC>real world applications of data science in health informatics
 to send home the recurring message on the challenges and art of translating questions into queries see interviews with two professionals one who comes from the data management side of the equation and one who comes from the domain they will give you perspectives that are both similar the need to understand the problem for which the data are being retrieved and different the multiplicity of data available vs the richness of the domain problem
 introduction interview with sam meiselman interview with sam meiselman part ii interview with bonnie woods interview with brandyn lau part i interview with brandyn lau part ii interview with brandyn lau part iii wrap up
 </DOC>
-

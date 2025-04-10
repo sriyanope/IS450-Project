@@ -7,84 +7,92 @@ this covers the basics of hotel demand management distribution and revenue manag
 htel de ltoile a hotel in crisis
 case study based exercise apply the knowledge you have gained about distribution revenue and demand management to a real world case hotel de ltoile a prestigious upmarket internationally branded property in paris that to the outside world seems to be doing but is in fact unprofitable for its owner
 actual data of the distribution performance revenue management tactics financial situation will be provided by the hotel partner in addition detailed information about the hotels competitive environment will be provided by several industry partners interviews with senior managers from the property will be used to supplement written material to create a more real world as the new director of business development hired to help the hotel decide how to proceed evaluate the hotels current policies and performance making recommendations for improvements and and plan how best to implement them
-
-situational analysis
+</DOC>
+<DOC>situational analysis
 in the examine the very interesting case of hotel de letoile a family owned internationally branded bedroom hotel in the heart of paris france although outwardly very successful the property is struggling with profitability something that owner greg sayer feels might be connected with its distribution revenue management and demand management strategymore information will be released progressively as you complete the please see the resources tab of the unlocked after have done our peer assessment
 introduction to the capstone project peter oconnor situational analysis peter oconnor first interview with greg sayer owner of the hotel interview with gabriella bidewell general manager discussion between sally smith and fred adam revenue mangers set up by peter oconnor and reaction from the owner of the hotel about this analysis
-
-questionning the brand
-having completed your analysis you should make a clear recommendation as to what the owners should do with regard to the brand in order to improve performance
-
-recommendations to the board family
-having completed your analysis and had feedback from your peers its now time to make your recommendation as to what the hotel should actually do
-
-implementation of the strategy
-assuming that the board approves your recommendation and having had feedback from your peer you next need to assess the operational implications of implementing your strategy
 </DOC>
 
+<DOC>questionning the brand
+having completed your analysis you should make a clear recommendation as to what the owners should do with regard to the brand in order to improve performance
+</DOC>
+
+<DOC>recommendations to the board family
+having completed your analysis and had feedback from your peers its now time to make your recommendation as to what the hotel should actually do
+</DOC>
+
+<DOC>implementation of the strategy
+assuming that the board approves your recommendation and having had feedback from your peer you next need to assess the operational implications of implementing your strategy
+</DOC>
 <DOC>
 the fundamentals of hotel distribution
 in todays hotel sector an increasingly complex network of traditional and web based channels have to be managed to insure hotel success key questions include how should you distribute over the web what should you include on your brandcom website so people book through it how can you maximise the potential of online travel agents otas with the distribution environment both highly complex and constantly evolving this will give you comprehensive foundation of current industry practices to help jump start your fascinating domain
 acknowledgements claire bertrand vincent chatain jessica moses benjamin six essec business school emilie dupr imagein gregory halidy triplay
-
-setting the scene
+</DOC>
+<DOC>setting the scene
 the hotel business has evolved from its early days to today through this evolution it has become increasingly specialized this introduces the business models strategies for growth levels of competition and biggest changes and challenges hotels have to face today
 mooc introduction historical evolution the hotel business value chain franchise and management agreements growth and the value of branded hotel chains hotels as economic units introduction to revenue management trends and challenges wrapup and conclusion
+</DOC>
 
-a deep dive into hotel distribution
+<DOC>a deep dive into hotel distribution
 after a rapid introduction of key pieces of terminology and technology this will examine in details the components of online distribution today and focus on how to make the most of an increasingly complex distribution system
 why hotel distribution the origins of hotel distribution the web revolution working with the otas ota business model the brandcom site the forgotten majority traditional channels the distribution cost puzzle the true cost of brandcom the price parity paradox magnificent metasearch disruption in the market place
+</DOC>
 
-direct distribution the key to hotel success
+<DOC>direct distribution the key to hotel success
 distributing directly thus building an effective and efficient website is an essential success factor through this have a deep understanding of the web development process but also understand the cost of driving traffic and the importance of using indirect distribution and online marketing techniques
 introduction deciding what you want registering your domain name content what is good hotel content creating your web pages selecting a good hosting solution introduction to online marketing organic search engine marketing paid search engine marketing email marketing display advertising affiliate marketing social media marketing using analytics for customer insight wrapup and conclusion
+</DOC>
 
-how to manage your ota
+<DOC>how to manage your ota
 final attack the critical issue of how to better with online travel agents learning best practices from ota managers themselves make sure that you are exploiting these valuable and fast growing points of sale to their maximum potential
 working with online travel agents why otas reach the billboard effect payperperformance reactivity market information introduction photos content user reviews competitive rates manage availability how should a hotel with expedia how should a hotel with bookingcom conclusion
 </DOC>
-
 <DOC>
 the fundamentals of revenue management the cornerstone of revenue strategy
 with a fixed capacity a highly disposable product and high fixed costs hotels are a natural candidate for the application of revenue management originally developed by the airlines in the s these analyticsbased techniques help predict consumer behavior at the hotels market level so that the hotel can sell each room each night at the optimum price
 with modernday rising acquisition costs and distribution complexities revenue management techniques have increasingly been adopted by both small and large hotel companies making a comprehensive understanding of segmentation forecasting and pricing an essential requirement for todays hospitality professionals the purpose of this is to provide a core understanding of the fundamentals of revenue management which ties into the larger picture of revenue strategy the is structured to provide an insightful look into revenue management created in conjunction with duetto this is hosted by a group of revenue management leaders in both theory and with handson at properties around the world upon completion of the students should be empowered with industry best practices which can be applied across the vast diversification the hotel industry to empower those to optimize profits duetto delivers powerful revenue strategy solutions to the worlds leading hotels and casinos combining unparalleled expertise with worldclass cloudbased technology acknowledgement bela nagy agnes roquefort jonathon liu frederic toitot pierrick la masne markus keller accor simone truscello ace hotels richard valtr mews system jeanluc chrtien fast booking jeannette ho fairmont raffles hotels resorts chinmai sharma taj hotel resorts cindy estis green kalibri labs jason thielbar red lion christopher cooper rocco forte rom hendler sands rafi rejerano ab hotels riko van santen kempinki hotels resorts vinod sukhija banyan tree hotels resorts olivier flement walt disney company cidalia pinto coehlo louvre hotels trevor stuarthill revenue matters vincent cusma marco benvenuti eric stoessel gayle ehrean nevin reed duetto claire bertrand vincent chatain jessica moses benjamin six essec business school emilie dupr imagein gregory halidy triplay
-
-getting started with revenue management
+</DOC>
+<DOC>getting started with revenue management
 welcome first understand what revenue management is why its important simple steps to get started how revenue management can increase profit through booking curve management and how effective yielding can improve a hotels profits moving forward share best practices and better prepare you for todays complex digital age
 welcome back fundamentals of revenue management the cornerstone of revenue strategy edc and the importance of revenue management history of revenue management shift in consumer behavior of revenue management introduction to segmentation introduction to forecasting and budgeting introduction to pricing how revenue management can increase bottom line effective yielding
+</DOC>
 
-introduction to segmentation
+<DOC>introduction to segmentation
 second discuss segmentation four things to consider while determining segmentation as as our best practices in regards to working with properties who need to go through a resegmentation exercise and presenting you with some key takeaways
 of segmentation what is segmentation evolution in segmentation evolution in segmentation types of segmentation strategic segmentation considerations of determining segmentation resegmentation process industry best practices
+</DOC>
 
-introduction to forecasting budgeting
+<DOC>introduction to forecasting budgeting
 third have an of forecasting and its basic terminology explore forecasting goals trends and tools and understand how to link forecasting and budgeting together
 introduction to forecasting and budgeting basic terminology what is forecasting why forecast start with reservation and market data competitor pricing online review data air traffic and weather data revenue system vs excel evaluating forecast accuracy budgeting best practices
+</DOC>
 
-introduction to pricing
+<DOC>introduction to pricing
 this last should help tie together concepts from the previous three to give you a practical understanding of the fundamentals of revenue management understand why pricing is important the difference between common pricing strategies and what are the most common pricing mistakes after that revisit the topic of big data automated systems and system connectivity as it and discuss best practices for pricing
 and basic vocabulary hotel pricing strategies how to increase rates seven most common pricing mistakes bar vs open pricing revenue strategy key to optimizing profit conclusion
 </DOC>
-
 <DOC>
 demand management breaking down todays commercial silos
 the biggest challenge facing the hospitality industry over the next years is the lack of integration between the key commercial disciplines of sales revenue distribution and finance and the negative impact this will continue to have on delivering asset value and maximum profitability
 this spread over key asset management demand generation digital marketing demand optimisation aims to break down these commercial silos and reveal the journey from longterm asset development through to shortterm profit tactics and how commercial teams can align themselves throughout the organisation created by snapshot this is hosted by a group of experienced industry guest lecturers in their fields of expertise and includes an ideal mix of accessible theory and practical exercises and simulations snapshot is a hotel demand management company that specializes in helping hotels aggregate and use their data we provide useful tools as as innovative education and coaching services to empower hotels to take informed decisions in managing their demand to increase profits
-
-asset management
+</DOC>
+<DOC>asset management
 after a short introduction and definition of asset management this will explore the relationship between what we call the asset management triangle actors then walk through the different milestones of a hotel project from start to finish from initial plan to exit
 welcome back introduction introduction the asset management triangle development and planning types of management construction and preopening operation and asset management asset cycle valuation exit strategy conclusion qa
+</DOC>
 
-demand generation
+<DOC>demand generation
 understand what demand generation means and explore the key factors that ensure that you can achieve your goals in terms of the hotels positioning in the market place the profitability of the operation and its long term valuation
 introduction product offering price value theory segmentation creating a pricing strategy pricing by segment business mix technology and distribution cost of distribution and acquisition conclusion qa
+</DOC>
 
-online marketing
+<DOC>online marketing
 marketing is about making something known desired and bought by the right public while this hasnt changed the means to achieve it has changed exponentially over the last two decades as the customer searches for and finds your hotel have to deal with the costs of distribution and how to sell through the most profitable channels to keep a healthy bottom line while ensuring adequate visibility and top line
 introduction the customer journey make the hotel stand out capture the visitors on your website emotion navigation and reviews third party and intermediary optimization otas third party and intermediary optimization other channels of distribution the net contribution approach advertising attribution model qa
+</DOC>
 
-revenue management
+<DOC>revenue management
 look at what problems revenue management was invented to help hotels and other similar business overcome then go through each of the critical six steps of the revenue management cycle answering such questions along the way as where do i get the data i need from what do i do with the data once i have it how can i predict what is going to happen in the future what kind of forecasting method can i use what decisions do i need to make to get the most revenue and profit
 introduction why is revenue management important revenue management bingo demand optimization data collection and aggregation analysis i benchmarking analysis ii booking curves analysis forecasting decisions profit decision making conclusion qa conclusion wrapup
 </DOC>
-

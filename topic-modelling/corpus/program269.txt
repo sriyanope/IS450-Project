@@ -14,100 +14,112 @@ the final is a capstone that was developed based on the capm exam it will test y
 project lifecycle information sharing and risk management
 every project comes with risk if risk occurs the project team operates in a reactive mode potentially moving towards project failure as a project manager need to be vigilant and constantly evaluate and mitigate potential risks the compelling art of risk management throughout the project lifecycle while using information sharing techniques to keep all stakeholders informed and aligned
 this introduces you to different phases in the project lifecycle and explains the difference in the phases based on the selected project methodology additionally have the to explore best practices for information sharing with project teams and external stakeholders while equipping yourself with effective information sharing techniques the delves into the risk management lifecycle from planning and identifying risks through to evaluation also different strategies to respond to risks about various tools such as risk reports risk registers and the risk matrix and the to apply your to create these artifacts for given project scenarios this is set up to help you succeed as a project manager it is wellsuited for those looking to step up their careers or new graduates seeking to establish their project management careers this is part of a series of courses that will help you prepare for certifications offered by the project management institute pmi including certified associate of project management pmicapm and project management pmipmp recommended it is good for everyone gearing toward a in project management to have basic to intermediate in an office productivity suite such as microsoft office we highly recommend enrolling in the skillup edtech office productivity software which covers word processing spreadsheets powerpoint messaging and email
-
-the project management lifecycle
+</DOC>
+<DOC>the project management lifecycle
 welcome to where introduce you to the major topics in the project management lifecycle about available certification explore the significance of the project management lifecycle and discuss the common lifecycles used also about the importance and components of various documents and processes project managers use and the responsibilities in each phase of the project lifecycle
 introduction lifecycle expert viewpoints lifecycle selection management adaptive lifecycles project initiation project planning project executing project monitoring and controlling expert viewpoints project failure
-
-information sharing communications
-welcome to information sharing communications where cover various topics to help you understand the importance of effective communication in project management about various technology factors that can impact effective communications and the different communication methods project managers use a threestep approach to managing communications and various communication management planning techniques and activities essential to project success also the importance of active listening effective conflict management and communication monitoring responsibilities
-communications basics communications planning expert viewpoints communications planning manage communications part manage communications part manage communications tools and techniques monitor communications expert viewpoints monitoring and controlling communications
-
-information sharing stakeholder management
-welcome to where we dive into the information sharing stakeholder management process this provides an indepth understanding of stakeholder management and the importance of managing stakeholders throughout the project explore the purpose of creating a stakeholder register and stakeholder engagement plan look at project managers tools and steps to identify stakeholders and gain their commitment and support the importance of managing stakeholders throughout the project and why stakeholder commitment levels may become reduced and the benefits of setting ground rules and norms a team charter is also an essential aspect of stakeholder management and discuss its contents and significance
-identify stakeholders plan stakeholder engagement expert viewpoints stakeholder management tools monitor stakeholder engagement expert viewpoints ground rules and norms demo team charter
-
-introduction to project risk management
-welcome to where we focus on project risk management covering the need for effective risk management and the roles and responsibilities involved discover how to define risk and uncertainty in projects including how to differentiate between and threats how to model risk metalanguage to document risks distinguish between cause event and impact the importance of swot analysis and risk management plans also about challenges in implementing a risk qualitative risk analysis and risk exposure and score concepts
-project risk management risk defined risk metalanguage demo swot analysis the risk management plan expert viewpoints risk planning demo risk register expert viewpoints risk management
-
-respond and monitor risk
-welcome to which focuses on risk response planning and management various types of responses to threats and as as the importance of identifying risk triggers developing a solid risk report and using common risk management tools also the value of using a risk matrix to share risks with stakeholders implementing timely risk responses conducting risk audits and how to ensure timely risk reassessments and critical success factors to keep in mind during the process
-responding to risk expert viewpoints risk responses demo risk report risk reassessment review expert viewpoints risk monitoring risk matrix
-
-final project and quiz
-complete a final exam that tests your knowledge of the courses content the exam will include questions on topics including but not limited to project lifecycles communication effectiveness with internal and external stakeholders and risk management concepts also have the to demonstrate your in project management information sharing and risk management through a peergraded final project
 </DOC>
 
+<DOC>information sharing communications
+welcome to information sharing communications where cover various topics to help you understand the importance of effective communication in project management about various technology factors that can impact effective communications and the different communication methods project managers use a threestep approach to managing communications and various communication management planning techniques and activities essential to project success also the importance of active listening effective conflict management and communication monitoring responsibilities
+communications basics communications planning expert viewpoints communications planning manage communications part manage communications part manage communications tools and techniques monitor communications expert viewpoints monitoring and controlling communications
+</DOC>
+
+<DOC>information sharing stakeholder management
+welcome to where we dive into the information sharing stakeholder management process this provides an indepth understanding of stakeholder management and the importance of managing stakeholders throughout the project explore the purpose of creating a stakeholder register and stakeholder engagement plan look at project managers tools and steps to identify stakeholders and gain their commitment and support the importance of managing stakeholders throughout the project and why stakeholder commitment levels may become reduced and the benefits of setting ground rules and norms a team charter is also an essential aspect of stakeholder management and discuss its contents and significance
+identify stakeholders plan stakeholder engagement expert viewpoints stakeholder management tools monitor stakeholder engagement expert viewpoints ground rules and norms demo team charter
+</DOC>
+
+<DOC>introduction to project risk management
+welcome to where we focus on project risk management covering the need for effective risk management and the roles and responsibilities involved discover how to define risk and uncertainty in projects including how to differentiate between and threats how to model risk metalanguage to document risks distinguish between cause event and impact the importance of swot analysis and risk management plans also about challenges in implementing a risk qualitative risk analysis and risk exposure and score concepts
+project risk management risk defined risk metalanguage demo swot analysis the risk management plan expert viewpoints risk planning demo risk register expert viewpoints risk management
+</DOC>
+
+<DOC>respond and monitor risk
+welcome to which focuses on risk response planning and management various types of responses to threats and as as the importance of identifying risk triggers developing a solid risk report and using common risk management tools also the value of using a risk matrix to share risks with stakeholders implementing timely risk responses conducting risk audits and how to ensure timely risk reassessments and critical success factors to keep in mind during the process
+responding to risk expert viewpoints risk responses demo risk report risk reassessment review expert viewpoints risk monitoring risk matrix
+</DOC>
+
+<DOC>final project and quiz
+complete a final exam that tests your knowledge of the courses content the exam will include questions on topics including but not limited to project lifecycles communication effectiveness with internal and external stakeholders and risk management concepts also have the to demonstrate your in project management information sharing and risk management through a peergraded final project
+</DOC>
 <DOC>
 practice exam for capm certification
 are you ready to ace the capm exam and take a leap in your project management about the certified associate project manager capm certification offered by the project management institute pmi and have the to take our carefully designed practice exam
 preparing for the capm exam can be overwhelming but this provides you with indepth insight into the exam format duration coverage and objectives gain a clear understanding of the exams key topics ensuring you maximize your study efforts we also share proven strategies to optimize your exam results from time management techniques to tackling questions strategically we provide tools and tips you need to achieve your best score then leveraging the information gathered in your prior project management and personal take a question mock exam designed to prepare you to pass the real thing and gain your capm certification this assumes you are familiar with the project management knowledge that the capm exam tests if you do not we recommend you complete one of the following programs prior to taking this ibm project management ibm it project management skillup modern project management
-
-capm certification test
+</DOC>
+<DOC>capm certification test
 begin preparation for the capm certified associate in project management exam this includes descriptions of the domains tested an of the question types on the exam a review of testing strategies and additional study tips four practice quizzes organized by domain will help you decide whether you are ready to take the full question practice test in
 introduction information on the capm exam exam taking strategies
-
-capm mock test and next steps
-complete a question capm practice exam this hour test is designed to have questions similar to that which find on the actual capm exam there are domains addressed just like the real exam with the same distribution of items from each domain the items are not ordered by domain they are mixed together good luck
 </DOC>
 
+<DOC>capm mock test and next steps
+complete a question capm practice exam this hour test is designed to have questions similar to that which find on the actual capm exam there are domains addressed just like the real exam with the same distribution of items from each domain the items are not ordered by domain they are mixed together good luck
+</DOC>
 <DOC>
 project management communication stakeholders leadership
 project management is a highly valued that provides a structured approach to managing projects communication stakeholder management leadership are core to any project managers success
 this is intended for anyone interested in project management be it a beginner or an experienced looking to switch or advance their in project management how to lead communicate and manage stakeholders as a project manager this will teach you how to cultivate a healthy project environment and review the benefits of empowering team members different ways of communicating with team members across different types of stakeholders using appropriate communication mediums and channels explore the leadership used to improve stakeholder engagement and facilitate successful projects from their inception through closing throughout this with numerous handson labs and realworld examples to develop your communication leadership and stakeholder management this is part of a series of courses that will help you prepare for certifications offered by the project management institute pmi including certified associate of project management pmicapm and project management pmipmp recommended it is good for everyone gearing toward a in project management to have basic to intermediate in an office productivity suite such as microsoft office we highly recommend enrolling in the skillup edtech office productivity software which covers word processing spreadsheets powerpoint messaging and email
-
-creating a healthy project foundation
+</DOC>
+<DOC>creating a healthy project foundation
 welcome to where explore various methods to cultivate a positive and productive atmosphere for team members a key aspect of a healthy environment is to put people first examine how empowering team members can improve project additionally dive into the importance of project objectives and how objective awareness can prevent scope creep also explore the responsibility of a project manager in developing and communicating project objectives to the team and stakeholders finally introduce the concept of servant leadership its benefits and tips to become a good servant leader
 introduction put your people first communicating clear project objectives participating in the expert viewpoints characteristics of servant leadership
-
-effective communications building blocks
-welcome to where explore the definition of numerous communications best practices and take a deep dive into the process of managing endtoend project communications look at different communication mediums and understand the concepts of the gulf of execution and the gulf of evaluation to identify communication gaps touch on the failing fast concept and how the approach can help turn a failing project into a success finally review the different roles that engage in a project and how the raci matrix can be used to assign responsibilities
-effective conversations project management communication project communications expert viewpoints communicating effectively for positive results synchronous vs asynchronous communications communications mediums expert viewpoints whats the most effective communication media effective engagement cross cultural communications and communications channels when is failing fast good expert viewpoints failing fast successfully expert viewpoints working together as a team
-
-communications planning
-welcome to where introduce two common methods used to establish and effectively communicate an acceptable schedule baseline the methods include critical chain and critical path method also explain and illustrate a communications management plan in addition revisit the need to plan virtual communications effectively discuss status reporting essentials and share how various communication styles can impact the quality of communications
-demo critical path method critical chain method key tool communications management plan demo communications management plan expert viewpoints planning for effective virtual and in person communications planning virtual communications effective status reporting demo status reporting demo assessing communication styles
-
-leadership fundamentals
-welcome to where introduce some critical leadership attributes and styles also cover the key differences between a manager and a leader look at how to be effective as a leader in different situations in addition review the importance of knowledge sharing and understand why intuitive decisionmaking is an important for a leader
-leadership essentials expert viewpoints why leadership expert viewpoints leading successfully demo leadership level survey impact of a good leader on team dynamics and productivity leadership factors and styles expert viewpoints leadership competencies and mindset situational leadership with your team expert viewpoints using your intuition
-
-managing and leading stakeholders
-welcome to where explore effective resource management practices including the resource breakdown structure rbs tool the techniques to plan for and acquire resources the challenges you may face and strategies to overcome the challenges also explore the principles and benefits of effective negotiation
-acquiring resources building trust expert viewpoints trusting team environment emotional intelligence adaptability and resilience expert viewpoints overcoming resource planning challenges
-
-final project and quiz
-complete a final exam that tests your knowledge of the courses content the exam will include questions on topics including but not limited to effective communication managing stakeholders and effective leadership also have the to demonstrate your in project management communications stakeholder management and leadership through a peergraded final project
 </DOC>
 
+<DOC>effective communications building blocks
+welcome to where explore the definition of numerous communications best practices and take a deep dive into the process of managing endtoend project communications look at different communication mediums and understand the concepts of the gulf of execution and the gulf of evaluation to identify communication gaps touch on the failing fast concept and how the approach can help turn a failing project into a success finally review the different roles that engage in a project and how the raci matrix can be used to assign responsibilities
+effective conversations project management communication project communications expert viewpoints communicating effectively for positive results synchronous vs asynchronous communications communications mediums expert viewpoints whats the most effective communication media effective engagement cross cultural communications and communications channels when is failing fast good expert viewpoints failing fast successfully expert viewpoints working together as a team
+</DOC>
+
+<DOC>communications planning
+welcome to where introduce two common methods used to establish and effectively communicate an acceptable schedule baseline the methods include critical chain and critical path method also explain and illustrate a communications management plan in addition revisit the need to plan virtual communications effectively discuss status reporting essentials and share how various communication styles can impact the quality of communications
+demo critical path method critical chain method key tool communications management plan demo communications management plan expert viewpoints planning for effective virtual and in person communications planning virtual communications effective status reporting demo status reporting demo assessing communication styles
+</DOC>
+
+<DOC>leadership fundamentals
+welcome to where introduce some critical leadership attributes and styles also cover the key differences between a manager and a leader look at how to be effective as a leader in different situations in addition review the importance of knowledge sharing and understand why intuitive decisionmaking is an important for a leader
+leadership essentials expert viewpoints why leadership expert viewpoints leading successfully demo leadership level survey impact of a good leader on team dynamics and productivity leadership factors and styles expert viewpoints leadership competencies and mindset situational leadership with your team expert viewpoints using your intuition
+</DOC>
+
+<DOC>managing and leading stakeholders
+welcome to where explore effective resource management practices including the resource breakdown structure rbs tool the techniques to plan for and acquire resources the challenges you may face and strategies to overcome the challenges also explore the principles and benefits of effective negotiation
+acquiring resources building trust expert viewpoints trusting team environment emotional intelligence adaptability and resilience expert viewpoints overcoming resource planning challenges
+</DOC>
+
+<DOC>final project and quiz
+complete a final exam that tests your knowledge of the courses content the exam will include questions on topics including but not limited to effective communication managing stakeholders and effective leadership also have the to demonstrate your in project management communications stakeholder management and leadership through a peergraded final project
+</DOC>
 <DOC>
 project management foundations initiation and planning
 to navigate todays complex and rapidly changing environments many organizations divide into projects project management provides a structured approach to plan and manage projects in order to achieve ontime withinbudget and scope as planned delivery
 compare and contrast predictive and adaptive project management models to avoid common causes of project failure investigate how to lead effective meetings and how motivating your team can lead to project success create essential documents required during the project initiation phase like the business case project charter project brief stakeholder register and stakeholder engagement plan prepare other project documents to help you scope a project and plan accurate project schedules and budgets gain practical with handson labs upon completion have a portfolio of widely used project initiation and planning assets to demonstrate your to potential employers this is set up to help you succeed as a project manager it is wellsuited for those looking to step up their careers or new graduates seeking to establish their project management careers this is part of series of courses intended to help you prepare for capm and pmp certification exam recommended it is good for everyone gearing toward a in project management to have basic to intermediate in an office productivity suite such as microsoft office we highly recommend enrolling in the skillup edtech office productivity software which covers word processing spreadsheets powerpoint messaging and email
-
-why project management
+</DOC>
+<DOC>why project management
 welcome to which introduces the threecourse project management series and the importance of project management in any path this will summarize what you can expect to threecourse series and what the first will cover also the three constraints in project management how to get the most out of this series and the project management certifications for which we prepare you
 introduction what inspired us to create this how to make the most out of this instructor introductions expert viewpoints importance of project management expert viewpoints project management the journey expert viewpoints project management the journey example how is this different
+</DOC>
 
-traditional project management
+<DOC>traditional project management
 welcome to which introduces traditional project management terms models and methodologies about predictive and adaptive project management models and the importance of the project management institutes pmi model also how organizations impact and influence projects the importance of the project management office pmo and fitting the project to the customers needs
 traditional project management expert viewpoints lifecycle selection project management phases different types of organizations the project management office expert viewpoints the project management office
+</DOC>
 
-modern project management
+<DOC>modern project management
 welcome to which introduces topics on modern project management techniques the project management body of knowledges pmbok principles and how to apply them to a project how to avoid common causes of project failure the importance of organizing and leading effective meetings how motivation and influencing your team can lead to project success and the project management institutes pmi quality process
 the principles of project management expert viewpoints principles of project management project management in the virtual environment effective meeting management influencing for results part influencing for results part expert viewpoints developing and managing a team leading change managing quality
+</DOC>
 
-setting up the project for success
+<DOC>setting up the project for success
 welcome to where the focus is on the project initiating phase and the many tools and techniques you need to know to be a successful project manager about the processes and tools that drive the initiation phase and the purpose and structure of essential documents like the business case project charter project brief stakeholder register and stakeholder engagement plan also the importance of decisionmaking in project management and be able to summarize the project management institutes pmi decisionmaking methods interact with labs and subject matter expert sme to discover the importance of the stakeholder register analyze a simulated stakeholder engagement plan and tips and tricks to identify stakeholder roles and responsibilities and how to initiate a project
 the project initiation phase key project management modeling tools part key project management modeling tools part expert viewpoints project initiation stakeholder register decision making expert viewpoints stakeholder identification and management stakeholder engagement plan key financial metrics project budgets
+</DOC>
 
-project planning
+<DOC>project planning
 welcome to which covers project planning processes documents and tips endtoend scope schedule budget support planning techniques and documents and tips supporting these processes also understand the importance of earned value management and the project management plan approval process
 expert viewpoints role of a business analyst scope planning schedule planning demo budget planning part demo budget planning part project support planning demo planning earned value management part demo planning earned value management part expert viewpoints project support planning expert viewpoints project support planning tips
+</DOC>
 
-final project and quiz
+<DOC>final project and quiz
 complete a final exam that tests your knowledge on the content the exam will include questions on topics including but not limited to project management concepts principles terminology and methodologies designing effective project management templates improving project management results setting up and initiating projects and planning the project also have the to demonstrate your and proficiency in initiating and planning projects through a peergraded final project
 demo develop a project charter demo develop a stakeholder register demo develop a breakdown structure demo develop a network diagram demo develop a highlevel budget part demo develop a highlevel budget part
 </DOC>
-

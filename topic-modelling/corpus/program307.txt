@@ -9,106 +9,122 @@ learners will complete a series of projects and that will identify and manage th
 project management project
 this capstone project is designed to allow you to take the knowledge you have gained through the and put that knowledge into practice in the capstone create several of the key planning deliverables that have been discussed in these courses and either on a project you choose or use a suggested case study begin the capstone project by writing part of the project charter build on that information to define your project and then ultimately create a schedule budget and responses for the risks you identify the goal is for you to use what you have learned in the previous courses and to perform your own research on how to best move forward with the capstone project your will be peer reviewed by your classmates in turn peer review the of other classmates instructions on how to conduct peer reviews will be included in the upon completing this series be able to write a narrative charter statement create a breakdown structure sequence project activities build a project schedule create a project budget create a responsibility matrix identify project risks and define responses for those risks
 upon completing this be able to write a narrative charter statement create a breakdown structure sequence project activities build a project schedule create a project budget create a responsibility matrix identify project risks and define responses for those risks
-
-get started
+</DOC>
+<DOC>get started
 this section will prepare you for your capstone project and final peer review it will also answer any questions you might have about the project the grading rubric and what you can expect in the upcoming weeks together
 welcome to the capstone peer review
-
-project components instructions
-this section will take you for a deep dive into each objective that makes up the project components of the final for the capstone it will include a and directions for each component as as grading rubrics to help prepare you for the upcoming feedback peer review and final peer review
-
-content review
-this section will provide review content that you have seen in the introduction to project management principles and practices in hopes of giving you a helping hand in preparing your final capstone project
-
-join the new applied project management
-join our new applied project management more about the requirements for pdus and contact hours from pmi and explore frequently asked questions of coursera learners
-
-feedback peer review
-this section is learners who want to have additional feedback on their project prior to the final peer review submission and evaluation
-
-final project submission
-this is your final peer review submission portion of the please be mindful that there will be no extension given to learners for any deadlines set
-
-final project peer review evaluation
-this is your final peer review evaluation portion of the please be mindful that there will be no extension given to learners for any deadlines set
-
-wrapup
-lets wrap up our time together as we have traveled through the introduction to project management principles and practices
 </DOC>
 
+<DOC>project components instructions
+this section will take you for a deep dive into each objective that makes up the project components of the final for the capstone it will include a and directions for each component as as grading rubrics to help prepare you for the upcoming feedback peer review and final peer review
+</DOC>
+
+<DOC>content review
+this section will provide review content that you have seen in the introduction to project management principles and practices in hopes of giving you a helping hand in preparing your final capstone project
+</DOC>
+
+<DOC>join the new applied project management
+join our new applied project management more about the requirements for pdus and contact hours from pmi and explore frequently asked questions of coursera learners
+</DOC>
+
+<DOC>feedback peer review
+this section is learners who want to have additional feedback on their project prior to the final peer review submission and evaluation
+</DOC>
+
+<DOC>final project submission
+this is your final peer review submission portion of the please be mindful that there will be no extension given to learners for any deadlines set
+</DOC>
+
+<DOC>final project peer review evaluation
+this is your final peer review evaluation portion of the please be mindful that there will be no extension given to learners for any deadlines set
+</DOC>
+
+<DOC>wrapup
+lets wrap up our time together as we have traveled through the introduction to project management principles and practices
+</DOC>
 <DOC>
 budgeting and scheduling projects
 a good project schedule helps all team members together to meet project objectives a project budget with realistic cost constraints is also an essential bedrock of any project to plan and stick to time and cost constraints in order to ensure the success of your projects
 upon completing this be able to identify the resource needs of the project decompose packages into activities define what is needed to estimate activity durations define milestones and create a milestone schedule determine the critical path and calculate float describe the purpose of using leads and lags in a project schedule estimate the quantities and costs of resources required to perform project activities select one of three common cost estimating techniques to determine a project budget use a responsibility matrix to assign responsibilities recognize the components of a projects quality management plan
-
-get started
+</DOC>
+<DOC>get started
 get started by reviewing the and participating in the survey
-
-resource needs quality management
-decompose packages into activities identify the resource needs of the project and use a responsibility matrix ram to assign responsibilities in addition have a lesson on quality management
-lecture case study bonus tips for identifying project resources
-
-estimating
-define what is needed to estimate activity durations estimate the quantities and costs of resources required to perform project activities and discover three common cost estimating techniques to determine a project budget
-lecture case study bonus avoid these estimating pitfalls
-
-scheduling
-create a network diagram determine the critical path and calculate float define milestones and a create a milestone schedule describe the purpose of using leads and lags in a project schedule and recognize the components of a projects quality management plan
-lecture case study bonus revisiting the network diagram
-
-wrap up
-wrap up this by meeting our industry expert panelists taking the final exam and participating in our post survey
 </DOC>
 
+<DOC>resource needs quality management
+decompose packages into activities identify the resource needs of the project and use a responsibility matrix ram to assign responsibilities in addition have a lesson on quality management
+lecture case study bonus tips for identifying project resources
+</DOC>
+
+<DOC>estimating
+define what is needed to estimate activity durations estimate the quantities and costs of resources required to perform project activities and discover three common cost estimating techniques to determine a project budget
+lecture case study bonus avoid these estimating pitfalls
+</DOC>
+
+<DOC>scheduling
+create a network diagram determine the critical path and calculate float define milestones and a create a milestone schedule describe the purpose of using leads and lags in a project schedule and recognize the components of a projects quality management plan
+lecture case study bonus revisiting the network diagram
+</DOC>
+
+<DOC>wrap up
+wrap up this by meeting our industry expert panelists taking the final exam and participating in our post survey
+</DOC>
 <DOC>
 managing project risks and changes
 this will help you manage project risk effectively by identifying analyzing and communicating inevitable changes to project scope and objectives understand and practice the elements needed to measure and report on project scope schedule and cost performance be equipped with the tools to manage change in the least disruptive way possible for your team and other project stakeholders
 upon completing this be able to define components of a communications management plan understand the importance of communications channels define the key elements needed to measure and report on project scope schedule and cost performance identify project risk events prioritize identified risks develop responses for a high priority risk identify and analyze changes to project scope describe causes and effects of project changes define the purpose of conducting a lessons learned session
-
-get started
+</DOC>
+<DOC>get started
 get started by reviewing the and participating in the survey
-
-project communication
-define components of a communications management plan understand the importance of communications channels and define the key elements needed to measure and report project scope schedule and cost performance
-lecture case study bonus how to report status to executives
-
-managing project risks
-identify project risk events discuss a risk statement for a specific event prioritize identified risks and develop responses for a high priority risks
-lecture case study bonus make change control part of your formula for success
-
-change happens
-identify and analyze changes to project scope describe causes and effects of project changes and define the purpose of conducting an lessons learned session
-lecture case study bonus tips for conducting a lessons learned session
-
-wrap up
-wrap up this by meeting our industry expert panelists taking the final exam and participating in our post survey plus review the bonus lesson on project procurement management
 </DOC>
 
+<DOC>project communication
+define components of a communications management plan understand the importance of communications channels and define the key elements needed to measure and report project scope schedule and cost performance
+lecture case study bonus how to report status to executives
+</DOC>
+
+<DOC>managing project risks
+identify project risk events discuss a risk statement for a specific event prioritize identified risks and develop responses for a high priority risks
+lecture case study bonus make change control part of your formula for success
+</DOC>
+
+<DOC>change happens
+identify and analyze changes to project scope describe causes and effects of project changes and define the purpose of conducting an lessons learned session
+lecture case study bonus tips for conducting a lessons learned session
+</DOC>
+
+<DOC>wrap up
+wrap up this by meeting our industry expert panelists taking the final exam and participating in our post survey plus review the bonus lesson on project procurement management
+</DOC>
 <DOC>
 initiating and planning projects
 the courses in the introduction to project management principles and practices are a recommended precursor to ucis applied project management
 successful projects require careful upfront planning the key roles and responsibilities of the project manager and project team also to answer some key questions upfront to help you meet project objectives what will this project accomplish why is this project important who benefits from this project how will we plan for successful upon completing this be able to identify the key characteristics of a project identify primary project constraints define the role and responsibilities of the project manager identify project organizational structures understand the definition of a project stakeholder identify project stakeholders identify information needs of the project stakeholders define responsibility for managing stakeholder and controlling stakeholder engagement define the purpose of using a project charter summarize the key elements of a project plan identify common sources of conflict within a project environment describe the difference between authority and influence
-
-get started
+</DOC>
+<DOC>get started
 get started by reviewing the and participating in the survey
-
-what is a project
-identify the key characteristics of a project identify primary project constraints define the role and responsibilities of the project manager and identify project organizational structures
-lecture case study bonus deciphering the pmbok guide
-
-get to know your stakeholders
-understand the definition of a project stakeholder identify who they are identify their information needs and define responsibility for managing stakeholders and controlling their engagement
-lecture case study bonus a stakeholder story
-
-scope matters
-define the purpose of using a project charter summarize the key elements of a project plan and discuss the scope statement and the breakdown structure wbs
-lecture case study bonus wbs we build strength
-
-authority vs influence
-describe the difference between authority and influence and identify common sources of conflict within a project environment
-lecture case study bonus productive conflict
-
-wrap up
-wrap up this by meeting our industry expert panelists taking the final exam and participating in our post survey
 </DOC>
 
+<DOC>what is a project
+identify the key characteristics of a project identify primary project constraints define the role and responsibilities of the project manager and identify project organizational structures
+lecture case study bonus deciphering the pmbok guide
+</DOC>
+
+<DOC>get to know your stakeholders
+understand the definition of a project stakeholder identify who they are identify their information needs and define responsibility for managing stakeholders and controlling their engagement
+lecture case study bonus a stakeholder story
+</DOC>
+
+<DOC>scope matters
+define the purpose of using a project charter summarize the key elements of a project plan and discuss the scope statement and the breakdown structure wbs
+lecture case study bonus wbs we build strength
+</DOC>
+
+<DOC>authority vs influence
+describe the difference between authority and influence and identify common sources of conflict within a project environment
+lecture case study bonus productive conflict
+</DOC>
+
+<DOC>wrap up
+wrap up this by meeting our industry expert panelists taking the final exam and participating in our post survey
+</DOC>

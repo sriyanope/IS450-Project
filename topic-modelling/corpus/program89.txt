@@ -18,116 +18,134 @@ these hands on components will let you apply the you in the lectures projects wi
 modernizing data lakes and data warehouses with google cloud
 the two key components of any data pipeline are data lakes and warehouses this highlights usecases for each type of storage and dives into the available data lake and warehouse solutions on google cloud in technical detail also this describes the role of a data engineer the benefits of a successful data pipeline to business operations and examines why data engineering should be done in a cloud environment
 this is the first of the data engineering on google cloud series after completing this enroll in the building batch data pipelines on google cloud
-
-introduction
+</DOC>
+<DOC>introduction
 this introduces the data engineering on google cloud source series and this modernizing data lakes and data warehouses with google cloud
 series introduction introduction
-
-introduction to data engineering
-this discusses the role of data engineering and motivates the claim why data engineering should be done in the cloud
-introduction the role of a data engineer data engineering challenges introduction to bigquery data lakes and data warehouses transactional databases versus data warehouses partner effectively with other data teams manage data access and governance demo finding pii in your dataset with the dlp api build productionready pipelines google cloud customer case study recap lab intro using bigquery to do analysis getting started with google cloud and qwiklabs
-
-building a data lake
-we describe what data lake is and how to use cloud storage as your data lake on google cloud
-introduction introduction to data lakes data storage and etl options on google cloud build a data lake using cloud storage secure cloud storage store all sorts of data types cloud sql as a relational data lake lab intro loading taxi data into google cloud sql
-
-building a data warehouse
-we talk about bigquery as a data warehousing option on google cloud
-introduction the modern data warehouse introduction to bigquery demo querying tb of data in seconds get started with bigquery load data into bigquery lab intro loading data into bigquery explore schemas demo exploring schemas schema design nested and repeated fields demo nested and repeated fields design the optimal schema for bigquery lab intro working with json and array data in bigquery optimize with partitioning and clustering lab intro partitioned tables in bigquery review
-
-
-a of the key learning points
 </DOC>
 
+<DOC>introduction to data engineering
+this discusses the role of data engineering and motivates the claim why data engineering should be done in the cloud
+introduction the role of a data engineer data engineering challenges introduction to bigquery data lakes and data warehouses transactional databases versus data warehouses partner effectively with other data teams manage data access and governance demo finding pii in your dataset with the dlp api build productionready pipelines google cloud customer case study recap lab intro using bigquery to do analysis getting started with google cloud and qwiklabs
+</DOC>
+
+<DOC>building a data lake
+we describe what data lake is and how to use cloud storage as your data lake on google cloud
+introduction introduction to data lakes data storage and etl options on google cloud build a data lake using cloud storage secure cloud storage store all sorts of data types cloud sql as a relational data lake lab intro loading taxi data into google cloud sql
+</DOC>
+
+<DOC>building a data warehouse
+we talk about bigquery as a data warehousing option on google cloud
+introduction the modern data warehouse introduction to bigquery demo querying tb of data in seconds get started with bigquery load data into bigquery lab intro loading data into bigquery explore schemas demo exploring schemas schema design nested and repeated fields demo nested and repeated fields design the optimal schema for bigquery lab intro working with json and array data in bigquery optimize with partitioning and clustering lab intro partitioned tables in bigquery review
+</DOC>
+
+<DOC>
+a of the key learning points
+</DOC>
 <DOC>
 smart analytics machine learning and ai on google cloud
 incorporating machine learning into data pipelines increases the ability to extract insights from data this covers ways machine learning can be included in data pipelines on google cloud for little to no customization this covers automl for more tailored machine learning capabilities this introduces notebooks and bigquery machine learning bigquery ml also this covers how to productionalize machine learning solutions by using vertex ai
-
-introduction
+</DOC>
+<DOC>introduction
 we introduce the and agenda
-
-introduction to analytics and ai
-this talks about ml options on google cloud
-introduction what is ai from adhoc data analysis to datadriven decisions options for ml models on google cloud
-
-prebuilt ml model apis for unstructured data
-this focuses on using prebuilt ml apis on your unstructured data
-introduction unstructured data is hard ml apis for enriching data lab intro using the natural language api to classify unstructured text getting started with google cloud and qwiklabs
-
-big data analytics with notebooks
-this covers how to use notebooks
-introduction whats a notebook bigquery magic and ties to pandas lab intro bigquery in jupyterlab on vertex ai
-
-production ml pipelines
-this covers building custom ml models and introduces vertex ai and tensorflow hub
-introduction ways to do ml on google cloud vertex ai pipelines tensorflow hub lab intro running pipelines on vertex ai
-
-custom model building with sql in bigquery ml
-this covers bigquery ml
-introduction bigquery ml for quick model building supported models lab intro predict bike trip duration with a regression model in bigquery ml lab intro movie recommendations in bigquery ml
-
-custom model building with vertex ai automl
-custom model building with vertex ai automl
-introduction why automl automl vision automl natural language processing automl tables
-
-
-this recaps the topics covered in the
 </DOC>
 
+<DOC>introduction to analytics and ai
+this talks about ml options on google cloud
+introduction what is ai from adhoc data analysis to datadriven decisions options for ml models on google cloud
+</DOC>
+
+<DOC>prebuilt ml model apis for unstructured data
+this focuses on using prebuilt ml apis on your unstructured data
+introduction unstructured data is hard ml apis for enriching data lab intro using the natural language api to classify unstructured text getting started with google cloud and qwiklabs
+</DOC>
+
+<DOC>big data analytics with notebooks
+this covers how to use notebooks
+introduction whats a notebook bigquery magic and ties to pandas lab intro bigquery in jupyterlab on vertex ai
+</DOC>
+
+<DOC>production ml pipelines
+this covers building custom ml models and introduces vertex ai and tensorflow hub
+introduction ways to do ml on google cloud vertex ai pipelines tensorflow hub lab intro running pipelines on vertex ai
+</DOC>
+
+<DOC>custom model building with sql in bigquery ml
+this covers bigquery ml
+introduction bigquery ml for quick model building supported models lab intro predict bike trip duration with a regression model in bigquery ml lab intro movie recommendations in bigquery ml
+</DOC>
+
+<DOC>custom model building with vertex ai automl
+custom model building with vertex ai automl
+introduction why automl automl vision automl natural language processing automl tables
+</DOC>
+
+<DOC>
+this recaps the topics covered in the
+</DOC>
 <DOC>
 building batch data pipelines on google cloud
 data pipelines typically fall under one of the extract and load el extract load and transform elt or extract transform and load etl paradigms this describes which paradigm should be used and when for batch data furthermore this covers several technologies on google cloud for data transformation including bigquery executing spark on dataproc pipeline graphs in cloud data fusion and serverless data processing with dataflow learners get handson building data pipeline components on google cloud using qwiklabs
-
-introduction
+</DOC>
+<DOC>introduction
 we introduce the and agenda
+</DOC>
 
-introduction to building batch data pipelines
+<DOC>introduction to building batch data pipelines
 this reviews different methods of data loading el elt and etl and when to use what
 introduction el elt etl quality considerations how to carry out operations in bigquery shortcomings etl to solve data quality issues
+</DOC>
 
-executing spark on dataproc
+<DOC>executing spark on dataproc
 this shows how to run hadoop on dataproc how to leverage cloud storage and how to optimize your dataproc jobs
 introduction the hadoop ecosystem running hadoop on dataproc cloud storage instead of hdfs optimizing dataproc optimizing dataproc storage optimizing dataproc templates and autoscaling optimizing dataproc monitoring lab intro running apache spark jobs on dataproc getting started with google cloud and qwiklabs
+</DOC>
 
-serverless data processing with dataflow
+<DOC>serverless data processing with dataflow
 this covers using dataflow to build your data processing pipelines
 introduction introduction to dataflow why customers value dataflow building dataflow pipelines in code key considerations with designing pipelines transforming data with ptransforms lab intro building a simple dataflow pipeline aggregate with groupbykey and combine lab intro mapreduce in beam side inputs and windows of data lab intro serverless data analysis with dataflow side inputs creating and reusing pipeline templates
+</DOC>
 
-manage data pipelines with cloud data fusion and cloud composer
+<DOC>manage data pipelines with cloud data fusion and cloud composer
 this shows how to manage data pipelines with cloud data fusion and cloud composer
 introduction introduction to cloud data fusion components of cloud data fusion cloud data fusion ui build a pipeline explore data using wrangler lab intro building and executing a pipeline graph in cloud data fusion orchestrate between google cloud services with cloud composer apache airflow environment dags and operators workflow scheduling monitoring and logging lab intro an introduction to cloud composer
-
-
-
 </DOC>
 
 <DOC>
+
+</DOC>
+<DOC>
 building resilient streaming analytics systems on google cloud
 processing streaming data is becoming increasingly popular as streaming enables businesses to get realtime metrics on business operations this covers how to build streaming data pipelines on google cloud pubsub is described for handling incoming streaming data the also covers how to apply aggregations and transformations to streaming data using dataflow and how to store processed records to bigquery or bigtable for analysis learners get handson building streaming data pipeline components on google cloud by using google cloud boost
-
-introduction
+</DOC>
+<DOC>introduction
 this introduces the and agenda
-
-introduction to processing streaming data
-this talks about challenges with processing streaming data
-
-serverless messaging with pubsub
-this talks about using pubsub to ingest incoming streaming data
-introduction introduction to pubsub pubsub push versus pull publishing with pubsub code lab intro publish streaming data into pubsub getting started with google cloud platform and qwiklabs
-
-dataflow streaming features
-this revisits dataflow and focuses on its streaming data processing capabilities
-introduction streaming data challenges dataflow windowing lab intro streaming data pipelines
-
-highthroughput bigquery and bigtable streaming features
-this covers bigquery and bigtable for streaming data
-introduction streaming into bigquery and visualizing results lab intro streaming data processing streaming analytics and dashboards highthroughput streaming with bigtable optimizing bigtable performance lab intro streaming data processing streaming data pipelines into bigtable
-
-advanced bigquery functionality and performance
-this dives into more advanced features of bigquery
-introduction analytic window functions gis functions demo gis functions and mapping with bigquery performance considerations lab intro optimizing your bigquery queries for performance cost considerations
-
-
-this recaps the topics covered in
 </DOC>
 
+<DOC>introduction to processing streaming data
+this talks about challenges with processing streaming data
+</DOC>
+
+<DOC>serverless messaging with pubsub
+this talks about using pubsub to ingest incoming streaming data
+introduction introduction to pubsub pubsub push versus pull publishing with pubsub code lab intro publish streaming data into pubsub getting started with google cloud platform and qwiklabs
+</DOC>
+
+<DOC>dataflow streaming features
+this revisits dataflow and focuses on its streaming data processing capabilities
+introduction streaming data challenges dataflow windowing lab intro streaming data pipelines
+</DOC>
+
+<DOC>highthroughput bigquery and bigtable streaming features
+this covers bigquery and bigtable for streaming data
+introduction streaming into bigquery and visualizing results lab intro streaming data processing streaming analytics and dashboards highthroughput streaming with bigtable optimizing bigtable performance lab intro streaming data processing streaming data pipelines into bigtable
+</DOC>
+
+<DOC>advanced bigquery functionality and performance
+this dives into more advanced features of bigquery
+introduction analytic window functions gis functions demo gis functions and mapping with bigquery performance considerations lab intro optimizing your bigquery queries for performance cost considerations
+</DOC>
+
+<DOC>
+this recaps the topics covered in
+</DOC>

@@ -12,87 +12,96 @@ the assessments will be cumulative and cover the application of artificial intel
 <DOC>
 ai applications in marketing and finance
 about aipowered applications that can enhance the customer journey and extend the customer lifecycle how this aipowered data can enable you to analyze consumer habits and maximize their potential to target your marketing to the right people also about fraud credit risks and how ai applications can also help you combat the everchallenging landscape of protecting consumer data also methods to utilize supervised and unsupervised machine learning to enhance your fraud detection methods also hear from leading industry experts in the world of data analytics marketing and fraud prevention by the end of this have a substantial understanding of the role ai and machine learning play when it comes to consumer habits and how we are able to interact and analyze information to increase deep learning potential for your business
-
-ai and the customer journey
+</DOC>
+<DOC>ai and the customer journey
 delve into the impact of ai in marketing and how it affects how your customers interact with your organization and its offerings about how ai is disrupting retail and transforming the way that we conduct business in the digital age next discover the risks and challenges that you might encounter when trying to implement ai such as privacy issues and how to make the journey from interest to purchase a much shorter one by the end of this have a firm understanding of how ai influences and also impact customer behavior and how you can take advantage of the myriad of ways ai can be applied to support your business and align with your customers
 introduction to ai applications introduction customer journey making the customer journey shorter moving upstream in the customer journey recognizing new forms of risk with machine intelligence organizational structure for analytics a template for ai transformation
+</DOC>
 
-personalization
+<DOC>personalization
 discover different ways that ai can be applied to enhance the consumer take a deep dive into the realm of personalization algorithms and how they are utilized in companies such as pandora netflix and amazon next about the challenges that you can face when trying to implement these algorithms or recommendation systems also hear from barkha saxena chief data office for poshmark and how she takes data provided by their over million users to create a curated but still allow their customers to discover new products and engage with buyers by the end of this you would have gained valuable insight into how ai can enable personalization and in turn drive customer engagement and retention
 personalization recommendation systems personalization impacts on markets personalization addressing the challenges interview with scott wong
+</DOC>
 
-finance
+<DOC>finance
 how to mitigate fraud using ai systems by examining various machine learning methods discover different ways to analyze risk assessment using kpis and the scientific method then about corporate credit and the relationship between money borrowed the price and availability of credit as corporate credit ratings and why and how that rating translates to risk lastly about using models versus realworld data and how you can use ai to conduct error analysis to prevent costly miscalculations by the end of this have a firm knowledge of different risk assessment methods how data can be used to analyze and predict credit ratings as as the benefits and limitations of different applications used in the industry
 introduction process scientific method process data science workflow corporate credit risk credit risk kpis credit risk credit ratings credit risk credit ratings prediction credit risk data credit risk model prep credit risk model training credit risk models vs data credit risk error analysis credit risk concluding thoughts
+</DOC>
 
-additional ai applications in finance
+<DOC>additional ai applications in finance
 hear from executives carleigh jaques hear from executives carleigh jaques svp of cybersource at visa and apoorv saxena formerly the head of googles ai verticals team and was until recently the global head of ai at jpmorgan chase these interviews will allow you to get valuable insight into how major global brands utilize ai to create a secure shopping environment for their customers and clients and how ai is instrumental in the datadriven world of finance by the end of this have heard from top industry experts in their field and gained firsthand accounts of risk management and assessment and how ai is playing a more integral role in combating digital fraud
 interview with apoorv saxena machine learning in finance fraud detection machine learning in finance additional applications interview with carleigh jaques
 </DOC>
-
 <DOC>
 ai fundamentals for nondata scientists
 go indepth to discover how machine learning is used to handle and interpret big data get a detailed look at the various ways and methods to create algorithms to incorporate into your business with such tools as teachable machine and tensorflow also different ml methods deep learning as as the limitations but also how to drive accuracy and use the best training data for your algorithms then explore gans and vaes using your newfound knowledge to engage with automl to help you start building algorithms that to suit your needs also see exclusive interviews with industry leaders who manage big data for companies such as mcdonalds and visa by the end of this have learned different ways to code including how to use nocode tools understand deep learning how to measure and review errors in your algorithms and how to use big data to not only maintain customer privacy but also how to use this data to develop different strategies that will drive your business
-
-big data and artificial intelligence
+</DOC>
+<DOC>big data and artificial intelligence
 be introduced to big data and examine how machine learning is used throughout various business segments also how data is analyzed and extracted and how digital technologies have been used to expand and transform businesses also get a detailed look at data management tools and how they are best implemented and the value of data warehouses by the end of this have gained insight into how machine learning can be used as a generalpurpose technology and some best techniques and practices for data mining
 ai for business introduction introduction big data big data analysis data management tools data management infrastructure data analysis extracting intelligence from big data introduction to artificial intelligence machine learning reinforcement learning a detailed view of machine learning
+</DOC>
 
-training and evaluating machine learning algorithms
+<DOC>training and evaluating machine learning algorithms
 get an indepth look at contrasting machine learning methods including logistic regression and neural nets also about deep learning and its relationship to neural networks and how to best optimize machine learning algorithms lastly be introduced to loss functions and how to best measure and review errors to maintain the integrity of your algorithms by the end of this have learned about machine learning methods the limitations and value of deep learning how best to drive precision and accuracy in algorithms and how to get the best training data for those algorithms
 specific machine learning methods a deep dive intro to model selection feature engineering and deep learning introduction deep learning how deep learning works limitations of deep learning evaluating ml performance common loss functions tradeoffs between loss functions how is training data acquired the overfitting problem test data examples of endtoend flow
+</DOC>
 
-ml application and emerging methods
+<DOC>ml application and emerging methods
 take a look at machine learning within natural language processing and using generative modeling to create new data also focus on automl and how to best utilize automated processes to make your algorithms more efficient also review the nocode machine learning tool teachable machine which serves to make deep and machine learning more accessible by the end of this be able to use automl in your algorithms and be able to navigate and use teachable machine in practice for nocode solutions to building an algorithm
 natural language processing gans and vaes intro to automl using automl teachable machine tensorflow playground ml operations chicken and egg
+</DOC>
 
-industry interview
+<DOC>industry interview
 hear from an industry leader and gain valuable insight into data sampling and building realistic usable models ed lee vp of global menu strategy global marketing at mcdonalds will allow you to review realworld solutions and how they handle data issues as one of the most successful global brands by the end of this have heard from a top industry expert in their field and gained firsthand knowledge and understanding of how big data plays into maintaining privacy in data and also utilizing that data to enhance your marketing content and refine your algorithms
+</DOC>
 
-generative ai
+<DOC>generative ai
 explore multiple aspects of generative ai not only will you gain an understanding of how it makes predictions and generates content but also gain an understanding of how large language models diving deeper explore the generative ai stack as as foundation models and their versatility in performing a broad range of tasks reflecting on research studies examine the implications of generative ai on and productivity including the potential for both human displacement and enhancement gain insights for crafting instructions to improve the quality of output from large language and explore how a company building an application on top of foundation models may gain a competitive advantage
 generative ai implications of generative ai on generative ais implication on productivity the generative ai stack foundation models prompt engineering principles improving output quality customizing llm output differentiation gaining competitive advantage
 </DOC>
-
 <DOC>
 ai strategy and governance
 discover ai and the strategies that are used in transforming business in order to gain a competitive advantage explore the multitude of uses for ai in an enterprise setting and the tools that are available to lower the barriers to ai use get a closer look at the purpose function and usecases for explainable ai this will also provide you with the tools to build responsible ai governance algorithms as faculty dive into the large datasets that you can expect to see in an enterprise setting and how that affects the business on a greater scale finally examine ai in the organizational structure how ai is playing a crucial role in change management and the risks with ai processes by the end of this different strategies to recognize biases that exist within data how to ensure that you maintain and build trust with user data and privacy and what it takes to construct a responsible governance strategy for additional reading professor hosanagars book a humans guide to machine intelligence can be used as an additional resource for more extensive information on topics covered
-
-economics of ai
+</DOC>
+<DOC>economics of ai
 begin by examining the key inputs to ai and what tools are currently used to lower the barriers of entry for ai use next the economics of ai and the competition that has emerged as ai becomes more crucial to support industry needs and we see more cloud adoption about the value of data as it is tied to deep learning and how automl is changing the landscape of machine learning and the growing competition and implications of data harvesting by the end of this have gained knowledge about the economic implications of ai and machine learning and how they impact our lives in unseen ways also understand the complex nature of computational hardware and how that affects consumer demand but also the demand for privacy
 intro to ai strategy ai driven business transformation developing a portfolio lowering barriers for ai use economics of ai software economics of ai economics of ai compute economics of ai data economics of ai automl economics of ai auto ml hubris economics of ai competitive implications interview with apoorv saxena ai in the organization structure interview with barkha saxena
+</DOC>
 
-ai innovation
+<DOC>ai innovation
 examine ai and data analytics to show the economical usecases of big data also about the methods and tools that are being used to lower the barriers of entry for ai use review current examples of big data and how those firms are using their analytical tools to enhance productivity and transformation lastly get an indepth look at how ai can be used in biopharma and how the payoff of their ai investment is revitalizing their industry by the end of this have a firm grasp on the practical deployment of ai across different industries their usecases and how you can best implement them to drive innovation and transformation within business
 is ai and data analytics suited for innovation ai and process innovation product innovation different types of product innovation organization factors dispersion of employees managerial practice ai and drug example
+</DOC>
 
-algorithmic bias and fairness
+<DOC>algorithmic bias and fairness
 examine the inherent bias that can exist within data based on human behaviors building on these foundations explore different responses within algorithmic bias and how organizations should respond and overcome these challenges then review the manipulation of data the different kinds of manipulation and ways to ethically approach these issues lastly examine data protection and the legal frameworks that exist to protect the consumer and individual data and the stages of the privacy lifecycle by the end of this have a thorough understanding of data biases manipulation and ethical questions of how data is handled and stored be able to implement fairer algorithms and understand the legal ramifications of improperly managing data you collect
 risks with ai algorithmic bias and fairness manipulation data protection interview with yogesh mudgal
+</DOC>
 
-ai governance and explainable ai
+<DOC>ai governance and explainable ai
 about explainable ai and its relationship to deep learning also review why it is important to have explainable ai and the different approaches to creating fair algorithms and ai policies also examine explainable ai and review the necessity of equitable algorithms also why we do not always use explainable ai for every model and the impacts that it can have on performance by the end of this have gained insight into decisionmaking with ai and the importance of fairness and transparency in creating explainable ai systems as as the ethical principles and governance policies that build trust in using ai and machine learning
 ai governance ai ethics principles explainable ai what is explainable ai explainable ai examples of when explainability is important explainable ai tradeoffs between interpretability and performance explainable ai approaches to explainable ai explainability and the law
 </DOC>
-
 <DOC>
 ai applications in people management
 about artificial intelligence and machine learning as it applies to hr management explore concepts related to the role of data in machine learning ai application limitations of using data in hr decisions and how bias can be mitigated using blockchain technology machine learning powers are becoming faster and more streamlined and gain firsthand knowledge of how to use current and emerging technology to manage the entire employee lifecycle through study and analysis how to sift through tremendous volumes of data to identify patterns and make predictions that will be in the best interest of your business by the end of this be able to identify how you can incorporate ai to streamline all hr functions and how to with data to take advantage of the power of machine learning
-
-the promise and potential of ai in hr
+</DOC>
+<DOC>the promise and potential of ai in hr
 about the challenges that the hr field has faced prior to the implementation of artificial intelligence as as the role data and machine learning play in optimizing decision making also about the role that training data plays in machine learning how rulebased systems are used to mimic human intelligence and how they manipulate that data based on those rules by the end of this be able to understand the concepts behind artificial intelligence rulebased systems and how data science has changed hr management
 introduction uniqueness of hr challenges hr without ai decision making rulebased systems how machine learning works the role of training data in machine learning feature engineering beyond structured data evaluating machine learning performance end to end example
+</DOC>
 
-ai application
+<DOC>ai application
 how ai is applied in hr and how machine learning can change how people are managed within all hr functions how artificial intelligence algorithms can be used in various scenarios and how data can be used to make predictions by the end of this be able to distinguish how best to use ai algorithms to manage engagement attrition and internal paths
 ai application in hr ai and engagement topic modeling ai and attrition building ml attrition models the value of attrition models ai and careers analyzing
+</DOC>
 
-challenges with applying ai to hr
+<DOC>challenges with applying ai to hr
 examine the challenges that you may face when implementing ai as a tool identify the changing trends in hiring and how that factors into finding the right applicants and how to best apply ai in hiring decisions by the end of this be able to determine how to balance machinedriven decisions and input from supervisors to select the best candidates
 hiring as an example broader issues of privacy and ethics data limitations why arent our systems more accurate measurement problems so why use analytics
+</DOC>
 
-emerging solutions
+<DOC>emerging solutions
 about biases that exist within algorithms and how to manage and avoid data adequacy bias also how to understand and interpret results use blockchain to keep data private and secure and understand the transformative nature of blockchain technology by the end of this be able to explain how data science and ai have markedly changed the way we approach hr and incorporate emerging technological solutions to structure people management
 where does bias come from bias is difficult to manage bias is complicated to fix some approaches to fixing bias what is explainable ai examples of when interpretability is important tradeoffs between interpretability and performance some approaches to xai blockchain in hr why is the blockchain so transformative how does the blockchain what are some emerging hr applications effects of ai conclusion
 </DOC>
-

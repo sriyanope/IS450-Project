@@ -6,114 +6,126 @@ this provides an introduction to big data analytics for all business professiona
 <DOC>
 accounting analytics
 accounting analytics explores how financial statement data and nonfinancial metrics can be linked to financial performance taught by whartons acclaimed accounting professors how data is used to assess what drives financial performance and to forecast future financial scenarios while many accounting and financial organizations deliver data accounting analytics deploys that data to deliver insight and this will explore the many areas in which accounting data provides insight into other business areas including consumer behavior predictions corporate strategy risk management optimization and more by the end of this understand how financial data and nonfinancial data interact to forecast events optimize operations and determine strategy this has been designed to help you make better business decisions about the emerging roles of accounting analytics so that you can apply what youve learned to make your own business decisions and create strategy using financial data
-
-ratios and forecasting
+</DOC>
+<DOC>ratios and forecasting
 the topic for is ratio analysis and forecasting since ratio analysis involves financial statement numbers ive included two optional that review financial statements and sources of financial data in case you need a review do a ratio analysis of a single company during the first examine the companys strategy and business model and then look at the dupont analysis next analyze profitability and turnover ratios followed by an analysis of the liquidity ratios for the company once weve put together all the ratios we can use them to forecast future financial statements if youre interested in learning more ive included another optional on valuation by the end of be able to do a ratio analysis of a company to identify the sources of its competitive advantage or red flags of potential trouble and then use that information to forecast its future financial statements
 review of financial statements optional sources for financial statement information optional ratio analysis case ratio analysis dupont analysis ratio analysis profitability and turnover ratios ratio analysis liquidity ratios forecasting accountingbased valuation optional
+</DOC>
 
-earnings management
+<DOC>earnings management
 we are going to examine earnings management which is the practice of trying to intentionally bias financial statements to look better than they really should look beginning with an of earnings management cover means motive and how managers actually make their earnings look better their incentives for manipulating earnings and how they get away with it then investigate red flags for two different forms of revenue manipulation manipulating earnings through aggressive revenue recognition practices is the most common reason that companies get in trouble with government regulators for their accounting practices next discuss red flags for manipulating earnings through aggressive expense recognition practices which is the second most common reason that companies get in trouble for their accounting practices by the end of this know how to spot earnings management and get a more accurate picture of earnings so that be able to catch some bad guys in finance reporting
 earnings management of earnings management revenue recognition red flags revenue before cash collection revenue recognition red flags revenue after cash collection expense recognition red flags capitalizing vs expensing expense recognition red flags reserve accounts and writeoffs
+</DOC>
 
-big data and prediction models
+<DOC>big data and prediction models
 use big data approaches to try to detect earnings management specifically were going to use prediction models to try to predict how the financial statements would look if there were no manipulation by the manager first look at discretionary accruals models which try to model the noncash portion of earnings or accruals where managers are making estimates to calculate revenues or expenses next talk about discretionary expenditure models which try to model the cash portion of earnings then look at fraud prediction models which try to directly predict what types of companies are likely to commit frauds finally explore something called benfords law which examines the frequency with which certain numbers appear if certain numbers appear more often than dictated by benfords law its an indication that the financial statements were potentially manipulated these models represent the state of the art right now and are what academics use to try to detect and predict earnings management by the end of this have a very strong tool kit that will help you try to detect financial statements that may have been manipulated by managers
 discretionary accruals model discretionary accruals cases discretionary expenditures models discretionary expenditures refinements and cases fraud prediction models benfords law
+</DOC>
 
-linking nonfinancial metrics to financial performance
+<DOC>linking nonfinancial metrics to financial performance
 linking nonfinancial metrics to financial performance is one of the most important things we do as managers and also one of the most difficult we need to forecast future financial performance but we have to take nonfinancial actions to influence it and we must be able to accurately predict the ultimate impact on financial performance of improving nonfinancial dimensions examine how to uncover which nonfinancial performance measures predict financial results through asking fundamental questions such as of the hundreds of nonfinancial measures which are the key drivers of financial success how do you rank or weight nonfinancial measures which dont share a common denominator what performance targets are desirable finally look at some comprehensive examples of how companies have used accounting analytics to show how investments in nonfinancial dimensions pay off in the future and finish with some important organizational issues that commonly arise using these models by the end of this know how predictive analytics can be used to determine what you should be measuring how to weight very very different performance measures when trying to analyze potential financial results how to make tradeoffs between shortterm and longterm objectives and how to set performance targets for optimal financial performance
 introduction connecting numbers to nonfinancial performance measures linking nonfinancial metrics to financial performance steps to linking nonfinancial metrics to financial performance setting targets comprehensive examples incorporating analysis results in financial models using analytics to choose action plans organizational issues
 </DOC>
-
 <DOC>
 business analytics capstone
 the business analytics capstone project gives you the to apply what youve learned about how to make datadriven decisions to a real business challenge faced by global technology companies like yahoo google and facebook at the end of this capstone be able to ask the right questions of the data and know how to use data effectively to address business challenges of your own understand how cuttingedge businesses use data to optimize marketing maximize revenue make operations efficient and make hiring and management decisions so that you can apply these strategies to your own company or business designed with yahoo to give you invaluable in evaluating and creating datadriven decisions the business analytics capstone project provides the chance for you to devise a plan of action for optimizing data itself to provide key insights and analysis and to describe the interaction between key financial and nonfinancial indicators once you complete your analysis be better prepared to make better datadriven business decisions of your own
-
-capstone project topic the problem of adblocking
+</DOC>
+<DOC>capstone project topic the problem of adblocking
 the business analytics was designed to help you how to think about using data in making big and small business decisions capstone project be asked to create a strategy for a fictional digital search engine and content provider goyaface inc often abbreviated as gyf the strategy will be used in responding to the increasing popularity and availability of adblocking software which could have significant negative repercussions for gyfs business you are to assume the role of the leader of the digital advertising tactics and action data team at gyf which has been assigned the job of formulating gyfs strategy in responding to the threat of adblocking your task is to develop a strategy that will be recommended to gyfs senior leadership using what youve learned about business analytics i create a detailed problem statement focusing on gyfs adbuying customers ii develop a strategy iii describe the anticipated effects of the strategy and iv form a plan for measuring the effects of your strategy then put these four pieces together into a final project first please read the full of the project in the project link below and then look at the background information about adblockers and the gyf company profile link in the content for when you are ready to begin the first please move on to defining the problem
+</DOC>
 
-defining the problem
+<DOC>defining the problem
 in define the problem adblockers poses for gyf gyf is intended to be a composite of leading internet platform and content providers who derive substantial revenues from mobile advertising like google yahoo and facebook so you should frame your research around the realworld problems these companies have faced and are facing defining the problem thoroughly will have a direct impact on how successful your strategy will be received by your peers the more deeply you consider the effects of adblockers on the companies that buy advertising space from gyf the more appropriate your overall strategy is likely to be please use the resources below to find out more about the problem and then create your problem statement and submit it for peer review below you can and should draw from all of the business analytics courses but your problem statement should focus on how adblockers might adversely affect gyfs relationship with the companies that pay gyf to place advertisements on gyfs mobile applications and content you should consider the issue of causality in your problem statement weve included some lectures from the underlying courses to refresh you on that topci and you are strongly encouraged to complete and include a response to application exercise see link below as part of your problem statement
 what is descriptive analytics customer analytics descriptive data collection customer analytics passive data collection customer analytics beyond period customer analytics causality people analytics causality people analytics reverse causality people analytics causal data collection and customer analytics
+</DOC>
 
-your strategy
+<DOC>your strategy
 in focus on creating your recommended strategy for gyf to address adblockers your strategy does not have to be lengthy but it must be clear and it must address the problem hint if you have a clearly defined problem your strategy is much more likely to be clearly defined as be submitting your strategy for peer review and then also reviewing the of at least of your peers its ok if reviewing the strategies of other learners gives you further ideas for revising your own strategy one of the primary benefits of peer review is to expand the range of feedback you can get and we designed this around peer review so that you can get as much feedback as possible before moving on to the next phase of the project you may find the resources and lectures below helpful in formulating your strategy and considering how data can be leveraged and appropriately understood you are strongly encouraged to complete and include your response to application exercise as part of your strategy
 performance evaluation the challenge of noisy data people analytics finding persistence regression to the mean people analytics extrapolating from small samples people analytics the wisdom of crowds signal independence people analytics process vs people analytics hiring people analytics hiring people analytics
+</DOC>
 
-effects of your strategymeasuring these effects
+<DOC>effects of your strategymeasuring these effects
 was designed to give you the to focus on the effects of your strategy effects and measurement can be often overlooked in strategy development creating a thoughtful and thorough plan for measuring the effects will improve your final project tremendously part of the project describe two events what you think will happen and how measure it look to the courses in the business analytics to see what kind of data companies use to measure effects to create a measurement plan of your own you are strongly encouraged to complete and include your responses to application exercises and as part of your effects and measurement components you may create a scenario operations analytics to predict some of the intended effects of your strategy either following the outline of application exercise or of your own design once you submit your own plan for effects and measurement please review the of at least three of your peers you may find new ideas or new ways of looking at data and measurement from this exercise we encourage you to incorporate what youve learned into your final submission
 the newsvendor problem operations analytics how to build an optimization model operations analytics optimizing with solver operations analytics simulating uncertain in excel operations analytics decision trees operations analytics linking nonfinancial metrics to financial performance accounting analytics steps to linking nonfinancial metrics to financial performance accounting analytics incorporating analysis results in financial models accounting analytics
+</DOC>
 
-final project submission
+<DOC>final project submission
 final combine the four revised elements of your presentation problem statement strategy effects and measurement including any responses to the application exercises youve completed into one presentation and submit it for peer review then be asked to review the of at least three of your peers once you have gotten feedback on your plan you may use it as an example of strategic thinking at your current job or as a sample when you are applying for a new one a successful strategic analysis which describes the use of datadriven decision making will make you much more marketable in almost any field good luck
 applications roi customer analytics radically new data sets in marketing customer analytics analytics applied kohls netflix amex and more customer analytics
 </DOC>
-
 <DOC>
 operations analytics
 this is designed to impact the way you think about transforming data into better decisions recent extraordinary improvements in datacollecting technologies have changed the way firms make informed and effective business decisions the on operations analytics taught by three of whartons leading experts focuses on how the data can be used to profitably match supply with demand in various business settings how to model future demand uncertainties how to predict the of competing policy choices and how to choose the best of action in the face of risk the will introduce frameworks and ideas that provide insights into a spectrum of realworld business challenges will teach you methods and software available for tackling these challenges quantitatively as as the issues involved in gathering the relevant data
 this is appropriate for beginners and business professionals with no prior analytics
-
-introduction descriptive and predictive analytics
+</DOC>
+<DOC>introduction descriptive and predictive analytics
 be introduced to the newsvendor problem a fundamental operations problem of matching supply with demand in uncertain settings also cover the foundations of descriptive analytics for operations learning how to use historical demand data to build forecasts for future demand over the be introduced to underlying analytic concepts such as random variables descriptive statistics common forecasting tools and measures for judging the quality of your forecasts
 introduction and welcome the newsvendor problem moving averages trends seasonality wrapup apparel industry
+</DOC>
 
-prescriptive analytics low uncertainty
+<DOC>prescriptive analytics low uncertainty
 how to identify the best decisions in settings with low uncertainty by building optimization models and applying them to specific business challenges during the use algebraic formulations to concisely express optimization problems look at how algebraic models should be converted into a spreadsheet format and how to use spreadsheet solvers as tools for identifying the best of action
 how to build an optimization model optimizing with solver network optimization example optional review optional solver on mac optional solver in google sheets
+</DOC>
 
-predictive analytics risk
+<DOC>predictive analytics risk
 how can you evaluate and compare decisions when their impact is uncertain how to build and interpret simulation models that can help you to evaluate complex business decisions in uncertain settings during the be introduced to some common measures of risk and reward use simulation to estimate these quantities and how to interpret and visualize your simulation results
 comparing decisions in uncertain settings simulating uncertain in excel interpreting and visualizing simulation output optional review
+</DOC>
 
-prescriptive analytics high uncertainty
+<DOC>prescriptive analytics high uncertainty
 this introduces decision trees a useful tool for evaluating decisions made under uncertainty using a concrete example how optimization simulation and decision trees can be used together to solve more complex business problems with high degrees of uncertainty also discover how the newsvendor problem introduced in can be solved with the simulation and optimization framework introduced in weeks and
 decision trees using simulation with decision trees using optimization together with simulation wrapup optional session review optional advanced session on optimization
 </DOC>
-
 <DOC>
 people analytics
 people analytics is a datadriven approach to managing people at for the first time in history business leaders can make decisions about their people based on deep analysis of data rather than the traditional methods of personal relationships decision making based on and risk avoidance brand new three of whartons top professors all pioneers in the field of people analytics will explore the stateoftheart techniques used to recruit and retain great people and demonstrate how these techniques are used at cuttingedge companies theyll explain how data and sophisticated analysis is brought to bear on peoplerelated issues such as recruiting performance evaluation leadership hiring and promotion job design compensation and collaboration this is an introduction to the theory of people analytics and is not intended to prepare learners to perform complex talent management data analysis by the end of this understand how and when hard data is used to make softskill decisions about hiring and talent development so that you can position yourself as a strategic partner in your companys talent management decisions this is intended to introduced you to organizations flourish when the people who in them flourish analytics can help make both happen this in people analytics is designed to help you flourish in your too
-
-introduction to people analytics and performance evaluation
+</DOC>
+<DOC>introduction to people analytics and performance evaluation
 meet professors massey bidwell and haas cover the structore and scope of the and dive into the first topic performance evaluation performance evaluation plays an influential role in our lives whether it is used to reward or punish andor to gather feedback yet its fundamental challenge is that the measures we used to evaluate performance are imperfect we cant infer how hard or smart an employee is working based solely on the four key issues in measuring performance regression to the mean sample size signal independence and process vs and see them at in current companies including an extended example from the nfl by the end of this understand how to separate from luck and to read noisy performance measures so that you can go into your next performance evaluation sensitive to the role of chance knowing your environment and aware of the four most common biases so that you can make more informed datadriven decisions about your companys most valuable asset its employees
 introduction to people analytics goals for the outline and people analytics in practice performance evaluation the challenge of noisy data chance vs the nfl draft finding persistence regression to the mean extrapolating from small samples the wisdom of crowds signal independence process vs of performance evaluation
+</DOC>
 
-staffing
+<DOC>staffing
 how to use data to better analyze the key components of the staffing cycle hiring internal mobility and development and attrition explore different analytic approaches to predicting performance for hiring and for optimizing internal mobility to understanding and reducing turnover and to predicting attrition also the critical of understanding causality so that you can avoid using data incorrectly by the end of this be able to use data to improve the quality of the decisions you make in getting the right people into the right jobs and helping them stay there to benefit not only your organization but also employees individual careers
 introduction to professor bidwell staffing analytics hiring predicting performance hiring finetuning predictors hiring using data analysis to predict performance internal mobility analyzing promotibility internal mobility optimizing movement within the organization causality causality attrition understanding and reducing turnover turnover predicting attrition staffing analytics conclusion
+</DOC>
 
-collaboration
+<DOC>collaboration
 the basic principles behind using people analytics to improve collaboration between employees inside an organization so they can together more successfully explore how data is used to describe map and evaluate collaboration networks as as how to intervene in collaboration networks to improve collaboration using examples from realworld companies by the end of this know how to deploy the tools and techniques of organizational network analysis to understand and improve collaboration patterns inside your organization to make your organization and the people working within in it more productive effective and successful
 introduction to professor haas basics of collaboration describing collaboration networks mapping collaboration networks evaluating collaboration networks measuring intervening in collaboration networks
+</DOC>
 
-talent management and future directions
+<DOC>talent management and future directions
 you explore talent analytics how data may be used in talent assessment and development to maximize employee ability how to use data to move from performance evaluation to a more deeper analysis of employee evaluation so that you may be able to improve the both the effectiveness and the equitability of the promotion process at your firm by the end of this will understand the four major challenges of talent analytics context interdependence selffulfilling prophecies and reverse causality the challenges of working with algorithms and some practical tips for incorporating data sensitively fairly and effectively into your own talent assessment and development processes to make your employees and your organization more successful in the conclusion also the current challenges and future directions of the field of people analytics so that you may begin putting employee data to in a ways that are smarter practical and more powerful
 talent analytics the importance of context interdependence selffulfilling prophecies reverse causality special topics tests and algorithms prescriptions navigating the challenges of talent analytics conclusion organizational challenges conclusion organizational challenges and future directions goodbye and good luck
 </DOC>
-
 <DOC>
 customer analytics
 data about our browsing and buying patterns are everywhere from credit card transactions and online shopping carts to customer loyalty programs and usergenerated ratingsreviews there is a staggering amount of data that can be used to describe our past buying behaviors predict future ones and prescribe new ways to influence future purchasing decisions four of whartons top marketing professors will provide an of key areas of customer analytics descriptive analytics predictive analytics prescriptive analytics and their application to realworld business practices including amazon google and starbucks to name a few this provides an of the field of analytics so that you can make informed business decisions it is an introduction to the theory of customer analytics and is not intended to prepare learners to perform customer analytics
 learning after completing the learners will be able to describe the major methods of customer data collection used by companies and understand how this data can inform business decisions describe the main tools used to predict customer behavior and identify the appropriate uses for each tool communicate key ideas about customer analytics and how the field informs business decisions communicate the history of customer analytics and latest best practices at top firms
-
-introduction to customer analytics
+</DOC>
+<DOC>introduction to customer analytics
 what is customer analytics how is this structured what will i what will i in the business analytics these short will give you an of this and the the substantive lectures begin in
 introduction and of the business analytics
+</DOC>
 
-descriptive analytics
+<DOC>descriptive analytics
 what data can and cant describe about customer behavior as as the most effective methods for collecting data and deciding what it means understand the critical difference between data which describes a causal relationship and data which describes a correlative one as you explore the synergy between data and decisions including the principles for systematically collecting and interpreting data to make better business decisions also how data is used to explore a problem or question and how to use that data to create products marketing campaigns and other strategies by the end of this have a solid understanding of effective data collection and interpretation so that you can use the right data to make the right decision for your company or business
 what is descriptive analytics descriptive data collection survey descriptive data collection net promoter score and selfreports descriptive data collection survey design passive data collection media planning causal data collection and
+</DOC>
 
-predictive analytics
+<DOC>predictive analytics
 once youve collected and interpreted data what do you do with it how to take the next step how to use data about actions in the past to make to make predictions about actions in the future examine the main tools used to predict behavior and how to determine which tool is right for which decision purposes additionally the language and the frameworks for making predictions of future behavior at the end of this be able to determine what kinds of predictions you can make to create future strategies understand the most powerful techniques for predictive models including regression analysis and be prepared to take full advantage of analytics to create effective datadriven business decisions
 introduction to predictive analytics asking predictive questions regression analysis part regression analysis part beyond period making predictions using a data set data set predictions mary sharmila or chris probability models implementation of the model results and predictions zodiac story model extensions surprising applications machine learning customerbased corporate valuation cbcv cbcv case study farfetch
+</DOC>
 
-prescriptive analytics
+<DOC>prescriptive analytics
 how do you turn data into action how prescriptive analytics provide recommendations for actions you can take to achieve your business goals first explore how to ask the right questions how to define your objectives and how to optimize for success also examine critical examples of prescriptive models including how quantity is impacted by price how to maximize revenue how to maximize profits and how to best use online advertising by the end of this be able to define a problem define a good objective and explore models for optimization which take competition into account so that you can write prescriptions for datadriven actions that create success for your company or business
 introduction what is prescriptive analytics using the data to maximize revenue parameters of the model market structure competition and online advertising models conclusions
+</DOC>
 
-applicationcase studies
+<DOC>applicationcase studies
 how do top firms put data to how successful businesses use data to create cuttingedge customerfocused marketing practices explore realworld examples of the fivepronged attack to apply customer analytics to marketing starting with data collection and data exploration moving toward building predictive models and optimization and continuing all the way to datadriven decisions at the end of this know the best way to put data to in your own company or business based on the most innovative and effective datadriven practices of todays top firms
 introduction to application to analytics the future of marketing is business analytics the golden age of marketing applications roi radically new data sets in marketing the perils of efficiency analytics applied kohls netflix amex and more conclusion
 </DOC>
-

@@ -9,86 +9,94 @@ by the end of this learners will have completed four different types of projects
 advanced models for decision making
 business analysts need to be able to prescribe optimal solution to problems but analytics courses are often focused on training students in data analysis and visualization not so much in helping them figure out how to take the available data and pair that with the right mathematical model to formulate a solution this is designed to connect data and models to real world decisionmaking scenarios in manufacturing supply chain finance human resource management etc in particular we understand how linear optimization a prescriptive analytics method can be used to formulate decision problems and provide databased optimal solutions throughout this on applied problems in different industries such as
 a finance decisions how should an investment manager create an optimal portfolio that maximizes net returns while not taking too much risks across various investments b production decisions given projected demand supply of raw materials and transportation costs what would be the optimal volume of products to manufacture at different plant locations c hr decisions how many workers need to be hired or terminated over a planning horizon to minimize cost while meeting operational needs of a company c manufacturing what would be the profit maximizing product mix that should be produced given the raw material availability and customer demand how to formulate these problems as mathematical models and solve them using excel spreadsheet
-
-lps for financial decisions
+</DOC>
+<DOC>lps for financial decisions
 look at examples illustrating the application of linear optimization in finance in particular to formulate problems in investment portfolio optimization and multiperiod cash flow management
 analytics for decision making soumya sen advanced optimization for decision making lps for financial decisions an investment decision problem formulating an investment optimization problem entering the investment optimization problem in excel finding the optimal investment strategy understanding the impact of parameter changes a multiperiod cash flow decision problem formulating a cash flow optimization problem part formulating a cash flow optimization problem part entering the cash flow optimization problem in excel finding the optimal cash flow
+</DOC>
 
-lp for supply chain decisions
+<DOC>lp for supply chain decisions
 this explores the use of linear optimization in supply chain decisions particularly in the context of inventory transportation or logistics problems as as in production and inventory management
 lp for supply chain decisions a transportation decision problem formulating a transportation problem part formulating a transportation problem part entering the transportation problem in excel solving the transportation problem model for production and inventory decision problem formulating an inventory planning problem part formulating an inventory planning part entering the inventory planning in excel
+</DOC>
 
-lp for staffing decisions
+<DOC>lp for staffing decisions
 this explores how human resource managers can use optimization as a prescriptive analytics tool to plan staff schedules room allocation and workforce size management
 lp for staffing decisions the model setup for staffing decision problem formulating a staffing decision problem part formulating a staffing decision problem part entering the problem in excel solving the staffing decision problem in excel solving the inventory planning problem the model setup for office decisions formulating the office decision problem entering the office problem in excel solving the office decision problem
+</DOC>
 
-lp for production decisions
+<DOC>lp for production decisions
 linear optimization plays an important role in the decision making process in the manufacturing sector this explores how optimization can be used to prescribe product mix and blending decisions
 lp for production decisions the model setup for a product mix problem formulating a product mix optimization problem setting up the product mix problem in excel solving the product mix optimization problem the model setup for a blending optimization problem formulating a blending optimization problem setting up the blending decision problem in excel solving the blending optimization problem congratulations on finishing the advanced models for decision making carlson school of management master of science in business analytics msba
 </DOC>
-
 <DOC>
 optimization for decision making
 datadriven world companies are often interested in knowing what is the best of action given the data for example manufacturers need to decide how many units of a product to produce given the estimated demand and raw material availability should they make all the products inhouse or buy some from a thirdparty to meet the demand prescriptive analytics is the branch of analytics that can provide answers to these questions it is used for prescribing databased decisions the most important method in the prescriptive analytics toolbox is optimization this will introduce students to the basic principles of linear optimization for decisionmaking using practical examples this teaches how to convert a problem scenario into a mathematical model that can be solved to get the best business to identify decision variables objective function and constraints of a problem and use them to formulate and solve an optimization problem using excel solver and spreadsheet
-
-introduction to linear programming
+</DOC>
+<DOC>introduction to linear programming
 prescriptive analytics is a part of business analytics that is aimed at prescribing solutions to decision problems the most important modeling technique within prescriptive analytics is optimization how to recognize contexts where it can be applied and get introduced to the basics of linear optimization
 analytics for decision making optimization for decision making soumya sen an introduction to linear programming modeling approaches to decision making applications of optimization part applications of optimization part how to setup a linear optimization problem oak barrel brewery an example linear problem luxury sofas problem a practice exercise solution to the luxury sofas practice problem
+</DOC>
 
-solving linear programs
+<DOC>solving linear programs
 in order to solve linear optimization problems ie linear programs we can use graphical methods for basic example problems for higher dimensional problems use tools like excel solver later in the the benefit of using graphical methods is that it gives us an intuition into how these problems can be solved
 solving linear optimization problems part a solving linear optimization problems part b solving linear optimization problems part solving linear optimization problems part example problem how many items of two products should a manufacturer produce part example problem how to plot the feasible region of the problem part example problem finding the optimal solution for the problem part
+</DOC>
 
-alternative specifications special cases in linear optimization
+<DOC>alternative specifications special cases in linear optimization
 explore what happens when the model parameters are changed also look at special cases of linear optimization problems
 alternative specifications and shadow prices impact of changes to model parameters part impact of changes to model parameters part what to do when there are multiple optimal solutions redundant constraints unbounded solutions infeasible solution
+</DOC>
 
-modeling solving linear problems in excel
+<DOC>modeling solving linear problems in excel
 having learned how to formulate linear optimization problem and the graphical methods for solving them we are now going to start solving larger problems using excel solver this provides an of how to set up and solve these decision problems using excel
 modeling solving linear problems in excel introduction to spreadsheet solvers steps in implementing an lp model in excel organizing lp model data in excel optimal solution with excel solver example optimal solution with excel solver example optimal solution with excel solver example solution case exercise make vs buy decision a computer gaming company make vs buy decision lp formulation make vs buy decision excel solution part set up the problem make vs buy decision excel solution part using excel solver congratulations on finishing the optimization for decision making carlson school of management master of science in business analytics msba
 </DOC>
-
 <DOC>
 introduction to predictive modeling
 welcome to introduction to predictive modeling the first in the university of minnesotas analytics for decision making
 this will introduce to you the concepts processes and applications of predictive modeling with a focus on linear regression and time series forecasting models and their practical use in microsoft excel by the end of the be able to understand the concepts processes and applications of predictive modeling understand the structure of and intuition behind linear regression models be able to fit simple and multiple linear regression models to data interpret the results evaluate the goodness of fit and use fitted models to make predictions understand the problem of overfitting and underfitting and be able to conduct simple model selection understand the concepts processes and applications of time series forecasting as a special type of predictive modeling be able to fit several timeseriesforecasting models eg exponential smoothing and holtwinters method in excel evaluate the goodness of fit and use fitted models to make forecasts understand different types of data and how they may be used in predictive models use excel to prepare data for predictive modeling including exploring data patterns transforming data and dealing with missing values this is an introductory to predictive modeling the provides a combination of conceptual and handson learning during the provide you to practice predictive modeling techniques on realworld datasets using excel to succeed you should know basic math the concept of functions variables and basic math notations such as summation and indices and basic statistics correlation sample mean standard deviation and variance this does not require a background in programming but you should be familiar with basic excel operations eg basic formulas and charting for the best you should have a recent version of microsoft excel installed on your computer eg excel or office
-
-weekmodule simple linear regression
+</DOC>
+<DOC>weekmodule simple linear regression
 this provides a brief of predictive modeling problems illustrating their broad applications it then focuses on the simplest form of predictive models simple linear regression the follows a graphical approach to illustrate the structure of a simple linear regression model the intuition for ordinary least squares and related concepts finally we demonstrate how to use various excel tools including trendlines the regression tool and the trend function to fit a simple linear regression model and use it to form predictions
 analytics for decision making personal introduction weekmodule what introduction to predictive modeling introduction to linear regression understanding the mechanics of a regression model using excel to conduct linear regression using linear regression for prediction
+</DOC>
 
-weekmodule multiple linear regression
+<DOC>weekmodule multiple linear regression
 building on we introduce multiple linear regression and its broad applications then we cover how to fit a multiple linear regression model using excels regression tool and trend function and use the resulting model for predictions the further discusses the overfittingunderfitting problems and the basic principles of a good regression model the also introduces one approach for selecting a good model backward elimination that can be implemented in excel
 on multiple linear regression what is multiple linear regression understand model fit and prediction using multiple regression fitting and interpreting multiple regression models using regression tool making predictions using the regression tool making predictions using the trend function building good regression models a demonstration of backward elimination
+</DOC>
 
-weekmodule data preparation
+<DOC>weekmodule data preparation
 how to prepare a dataset for predictive modeling and introduce excel tools that can be leveraged to fulfill this goal discuss different types of variables and how categorical string and datetime values may be leveraged in predictive modeling furthermore discuss the intuition for including highorder and interaction variables in regression models the issue of multicollinearity and how to handle missing values also introduce several handy excel tools for data handling and exploration including pivot table if function vlookup function and relative reference
 preparing your data why is data preparation important working with different types of variables handling different types of variables using excel pivot table to explore column values using excel vlookup to encode ordinal variables using excel if function to encode nominal variables other uses of vlookup and if functions handling datatime variables excel demonstration of handling datatime variables handling high order interaction variables interaction variables handling missing values
+</DOC>
 
-weekmodule time series forecasting
+<DOC>weekmodule time series forecasting
 this focuses on a special subset of predictive modeling time series forecasting we discuss the nature of timeseries data and the structure of time series forecasting problems we then introduce a host of time series models for stationary data and data with trends and seasonality with a focus on techniques that are easily implemented within excel including moving average exponential smoothing double moving average holts method and holtwinters method the also covers linearregressionbased forecasting and a composite forecasting technique for boosting accuracy
 time series forecasting time series data and time series forecasting components of time series model accuracy metrics moving averages how to forecast using the moving averages model the exponential smoothing model demonstration of exponential smoothing double moving averages demonstration of double moving averages double exponential smoothing holts method holtwinters additive model a demonstration of holtwinters additive model holtwinters multiplicative model time series regression composite forecast wrap up a of what you have learned congratulations on finishing introduction to predictive modeling carlson school of management master of science in business analytics msba
 </DOC>
-
 <DOC>
 simulation models for decision making
 this is primarily aimed at third and fourthyear undergraduate students or graduate students interested in learning simulation techniques to solve business problems
 the will introduce you to take everyday and complex business problems that have no one correct answer due to uncertainties that exist in business environments simulation modeling allows us to explore various and protect personal or business interests against unwanted we can model uncertainties by using the concepts of probability and stepwise thinking stepwise thinking allows us to break down the problem in smaller components explore dependencies between related events and allows us to focus on aspects of problem that are prone to changes due to future uncertainties the will introduce you to advanced excel techniques to model and execute simulation models many of the excel techniques learned in the will be useful beyond simulation modeling both monte carlo simulation techniques where overall is of primary interest and discrete event simulation where intermediate dependencies between related events might be of interest the will introduce you to several practical issues in simulation modeling that are normally not covered in textbooks the uses a few running examples throughout the to demonstrate concepts and provide concrete modeling examples after taking the a student will be able to develop fairly advanced simulation models to explore fairly broad range of business environments and
-
-probability concepts
+</DOC>
+<DOC>probability concepts
 uncertainty leads to challenges in decision making mathematically we represent uncertainty by defining probabilities when several of the are possible in the future this provides an of probability concepts that are essential to lay a good foundation for simulation modeling also get our first exposure to excel based simulations
 alok gupta a personal introduction simulation models for decision making introduction to probability axioms of probability dice simulation permutations permutations and probability state space combinations joint probability simulate rolling two dice part simulate rolling two dice part two dice game rules of probability
+</DOC>
 
-weekmodule probability distributions and introduction to monte carlo simulations
+<DOC>weekmodule probability distributions and introduction to monte carlo simulations
 while being able to estimate probabilities using mathematical relationships is important a lot of natural events follow or approximate some nicely defined probability distribution functions such as uniform exponential and normal distributions to effectively build simulation models it is important to understand how to use these distributions further we may need to find what distribution does our observed data follow this introduces the finer details of working with probability distribution functions and introduces the types of simulation models as as some practice based tricks to with realworld data that may not be complete or may not fit a given distribution exactly
 probability distributions and introduction to monte carlo simulations intro to common probability distributions uniform distributions intro to common probability distributions normal distributions normal distributions lab intro to common probability distributions exponential distribution exponential distributions lab empirical probability distributions histogram lab part histogram lab part simulation modeling types of simulation modeling best practices for simulation modeling what the books wont tell you tricks of the trade part tricks of the trade part
+</DOC>
 
-monte carlo simulations
+<DOC>monte carlo simulations
 we started by stating that simulation is one of the most flexible modeling approaches this demonstrates that flexibility four monte carlo simulation models are built for a coffee shop the models increase in technical complexity and sophistication to demonstrate various issues that modelers have to consider in building these models depending upon the type of questions that need to be answered the lessons explain which models can answer certain type of questions and what questions may not be answered by a certain type of model the results obtained from various models are then compared and discussed to understand the tradeoffs in choice of a particular model choice
 monte carlo simulations simulating a coffee shop customers revenue coffee shop simulation monte carlo model coffee shop simulation lab coffee shop simulation lab analysis coffee shop simulation monte carlo model coffee shop model lab coffee shop simulation monte carlo model coffee shop model lab coffee shop simulation monte carlo model coffee shop model lab part coffee shop model lab part coffee shop model lab part coffee shop simulation revenue comparisons models
+</DOC>
 
-counterfactual analysis and discrete event simulations
+<DOC>counterfactual analysis and discrete event simulations
 we wrap up the monte carlo simulation modeling by looking at modeling special cases and doing counterfactual analysis examining scenarios that may not have existed or initiatives that have not actually been implemented we then examine the power of discrete event simulation the goal of discrete event simulation modeling discussion is to introduce you to examine the dependencies in events and how these dependencies can be modeled in excel with some innovative thinking even though excel does not natively support any functionality to support discrete event simulation the material part is completely original and is designed for this and will not be found in any books
 counterfactual analysis and discrete event simulations coffee shop simulation monte carlo model coffee shop weather simulation part coffee shop weather simulation part coffee shop simulation monte carlo counterfactual analysis discrete event simulation discrete event simulation basic concepts definitions discrete event simulation excel lab strategies excel lab building queues simulating mm queues using empirical distribution to simulate using percentile distribution creating xy simulations in excel part creating xy simulations in excel part of discrete event simulation in review congratulations carlson school of management ms in business analytics
 </DOC>
-

@@ -18,113 +18,124 @@ by successfully completing these projects amass a diverse and impressive collect
 compensation and benefits
 this examines the intricacies of the total rewards package for employment how to structure a compensation strategy and evaluate benefit trends in the market also about different benefit types and options as as various pay systems and hr technology
 by the end of this be able to explain the most common theories and motivational principles associated with total rewards evaluate how your organization wants to structure compensation strategy explain how job evaluation techniques are used to align compensation strategy with actual pay explain different benefit types and options appraise different types of pay systems no prior in human resources is needed to be successful
-
-introduction to compensation and benefits
+</DOC>
+<DOC>introduction to compensation and benefits
 define elements of compensation also the different types of differential pay making sure you understand when they apply be able to describe the different compensation system elements in motivating employees
 hrci human resources associate introduction compensation and benefits instructor introduction weekly introduction introduction to compensation and benefits compensation and benefits cab compensation systems base wage or salary incentives benefits salaried and hourly jobs overtime oncall and callback pay reporting pay hazard pay geographic pay weekly review introduction to compensation and benefits
+</DOC>
 
-organization structure and compensation strategy
+<DOC>organization structure and compensation strategy
 upcoming describe the different elements that need to be considered when determining pay and be able to explain the difference between base pay and pay increases also other forms of incentives as compensation also explore different job evaluation techniques and describe pay performance
 weekly introduction organization structure and compensation compensation considerations competitive pay job pricing pay rates and pay ranges pay gaps incentives raises job evaluation pay ranges and broadbanding wage compression compa ratio internal and external equity pay and salary surveys and market compensation example determining base salary pay for performance commissions merit pay group incentive pay profit sharing pay service awards spot bonus tailoring incentives to your organization weekly review organization structure and compensation
+</DOC>
 
-benefits
+<DOC>benefits
 different benefits types and options be able to explain the different benefit types and options including healthcare and family oriented healthcare benefits also identify types of retirement plans highlighting major differences
 weekly introduction benefits employers and benefits total rewards strategy and statement the cost of benefits how employers reduce the cost of benefits healthcare and its challenges different components of health benefits health insurance plans other insurance benefits social security and medicare benefits and worklife balance family and medical leave act fmla childcare benefits employee assistance programs eaps timeoff allowances volunteer timeoff remote relocation assistance tailoring your benefits strategy retirement plan fundamentals qualified retirement plans k plans ira and roth ira plans simplified employee pension plan weekly review benefits
+</DOC>
 
-payroll and benefit technology and design
+<DOC>payroll and benefit technology and design
 the core components of payroll and how to appraise different types of pay systems also evaluate the needs for data protection and describe the types of claims that hr deals with
 weekly introduction payroll and benefit technology and design payroll introduction payroll schedules record keeping human resource information systems hris selecting your hris example using an hris data storage data disposal reporting claims processing and hr workers compensation wage and hour claims disability benefits claims fmla violation claims weekly review payroll and benefit design congratulations
 </DOC>
-
 <DOC>
 talent acquisition
 the talent acquisition won courseras learners first award which honors the instructor and team who have received the highest ratings from coursera learners based on direct feedback
 this focuses on all aspects of the talent acquisition process how to forecast workforce needs source and recruit talented candidates and hire and onboard new employees by the end of this be able to create a recruitment strategy perform a job analysis and write a job explain the talent acquisition life cycle identify core elements of negotiation job offers and employment contracts implement best practices for employee onboarding no prior in human resources is needed to be successful
-
-talent acquistion
+</DOC>
+<DOC>talent acquistion
 be introduced to the hrci and what you need to be successful about different staffing options and understand different tools for forecasting workplace needs finally differentiate common design approaches and understand legal considerations in job design in the us
 hrci human resources associate introduction talent acquisition instructor introduction weekly introduction introduction to talent acquisition forecasting workforce needs tools for forecasting workforce needs independent contractors gig temporary workers exempt and nonexempt employees flexible arrangements example forecasting and planning talent acquisition job design and job redesign approaches to job design legal issues in job design example job design weekly review introduction to talent acquisition
+</DOC>
 
-how to get started in talent acquisition
+<DOC>how to get started in talent acquisition
 how to write a job and how to perform a job analysis understand the different methods you can use to recruit and track applicants in a diverse workforce
 weekly introduction how to get started in talent acquisition the talent acquisition process job analysis job analysis techniques job descriptions example job analysis and job recruiting and tracking applicants recruiting a diverse workforce example recruiting a diverse workforce weekly review how to get started in talent acquisition
+</DOC>
 
-talent acquisition life cycle
+<DOC>talent acquisition life cycle
 discuss the talent acquisition life cycle and how to apply different candidate sourcing methods how to screen candidates for positions and how to effectively interview candidates finally evaluate prospective employees and understand different test options used in the employee evaluation stage
 weekly introduction talent acquisition life cycle talent sourcing strategies employer branding employee referrals job boards candidate pipelines resume mining job fairs erecruitment and eselection systems example talent sourcing screening candidates interviewing candidates types of interviews interviewing dos and donts types of interview bias avoiding bias in interviews example interviewing candidates evaluating employees before hiring background and record checks different test options test reliability and test validity biases in the hiring process example evaluating prospective employees weekly review talent acquisition life cycle
+</DOC>
 
-negotiations and onboarding
+<DOC>negotiations and onboarding
 in your final of core elements of negotiation job offers and employment contracts and how to implement best practices for employee onboarding understand the core components of the employee handbook and explore retention activities and strategies that help to retain talent
 weekly introduction negotiations and onboarding negotiation offer and counteroffer employment contracts and common clauses example negotiations orientation and onboarding employee orientation employee onboarding employee handbook example orientation and onboarding importance of employee retention tactics for retaining employees example employee retention important hr metrics to track weekly review negotiations and onboarding congratulations
 </DOC>
-
 <DOC>
 compliance and risk management
 this introduces risk management and compliance strategy examine risk assessment and how to have a risk management mindset different types of compliance including legal and safety compliance and its role in operational policies also explore the role human resources has in organizational restructuring
 by the end of this be able to explain the criticality of compliance for the ongoing operations and sustainability of an organization explain implement and apply compliance for an organization explain and identify key laws and procedural requirements necessary for compliance explore hrs role in organizational restructuring such as in mergers acquisitions and rightsizing explain and identify key operational activities which require formal risk management policies and procedures no prior in human resources is needed to be successful
-
-introduction to compliance and risk management
+</DOC>
+<DOC>introduction to compliance and risk management
 explain the mindset of positive and negative risk management also the criticality of compliance and being compliant for the ongoing operations and sustainability of the organization differentiating between legal compliance and operation policies and procedures
 hrci human resources associate introduction compliance and risk management instructor introduction rachel instructor introduction michelle weekly introduction introduction to compliance and risk management introduction to risk management risk management the four stages risk management responsibilities and knowledge risk assessment positive and negative risks risk mindset approaching risk management with a positive mindset approaching risk management with a negative mindset introduction to compliance compliance in ongoing operations compliance as a method to sustain an organization organizations that monitor compliance legal vs organizational compliance weekly review introduction to compliance and risk management
+</DOC>
 
-hiring and employee relations regulations
+<DOC>hiring and employee relations regulations
 explain implement and apply legal compliance for an organization also be able to explain implement and apply benefits and pay legal compliances identify key laws and procedural requirements necessary for compliance
 weekly introduction application and design of legal and safety compliance laws and regulations executive orders common law doctrines intro to eeo identifying discrimination edi example identifying discrimination affirmative action elements of affirmative action programs introduction to employee relations laws patents and copyrights unions and labor relations types of unions laws and regulations in compensation and benefits weekly review hiring and employee relations
+</DOC>
 
-health and safety regulations
+<DOC>health and safety regulations
 youre going to about health and safety regulations by exploring osha and other federal laws and regulations that are required in the workplace also about workplace hazards and threats and how to appropriately handle them
 weekly introduction health and safety regulations introduction to hr and workplace health and safety occupational safety and health administration osha standards osha investigations safety and health issues in the workplace common employee behavior issues alcohol and legal drug use laws and regulations in health environmental hazards safety campaigns and programs safety and health management plans vulnerabilities of physical security information security confidentiality and privacy example hr and workplace hazards and threats harassment and hostile environments quid pro quo harassment hostile environment preventing sexual harassment investigating sexual harassment weekly review health and safety restructuring
+</DOC>
 
-compliance strategy and implementation
+<DOC>compliance strategy and implementation
 about hrs role in organization restructuring also explore how hr professionals are involved in business continuity including divestitures and furloughs
 weekly introduction compliance strategy and implementation introduction to organizational restructuring hrs role in restructuring offshoring and outsourcing example role of hr in organizational restructuring introduction to business continuity divestitures furloughs weekly review compliance strategy and implementation
+</DOC>
 
-compliance and risk management training
+<DOC>compliance and risk management training
 about implementing compliance and risk management training by identifying formal risk management policies used in business continuity planning also to identify key operational activities that require formal risk management procedures
 weekly introduction compliance and risk management training formal risk management policies common risk management policies for business continuity example risk management policies new hire onboarding ongoing training compliance training by law weekly review compliance and risk management training congratulations
 </DOC>
-
 <DOC>
 employee relations
 this explores how to create and administer policies and procedures for an organization evaluate the values and attitudes between the workforce and employees performance methods for all levels of employees
 by the end of this be able to create policies for the workforce and employees of an organization evaluate different attitudes and values between the workforce and organization summarize company culture and how it is monitored and how it evolves explain performance management concepts for all levels of employees outline organizational design principles and strategies for effectiveness no prior in human resources is needed to be successful
-
-introduction to employee relations
+</DOC>
+<DOC>introduction to employee relations
 about the talent acquisition process including how to create mission vision values and core competencies for an organization also about company ethics the company handbook and employee communication
 hrci human resources associate introduction employee relations instructor introduction weekly introduction introduction to employee relations mission vision and values developing a mission statement developing a vision statement core competencies developing a value statement ethics codes creating an effective ethics code employee communications the employee handbook company meetings and other communication company training employee relationships weekly review introduction to employee relations
+</DOC>
 
-employee engagement
+<DOC>employee engagement
 about employee engagement by creating an inclusive culture adding inclusion initiatives and evaluating employee engagement
 weekly introduction employee engagement inclusive culture introduction creating an inclusive culture diversity and inclusion diversity and inclusion initiatives inclusion initiatives introduction employee communication employee involvement employee feedback worklife balance employee relations programs example creating an inclusive culture employee engagement introduction measuring employee satisfaction and engagement example evaluating engagement weekly review employee engagement
+</DOC>
 
-performance management
+<DOC>performance management
 throughout about performance management in an organization about various performance appraisal methods along with workplace discipline termination finally how to handle workplace conflict in a variety of forms
 weekly introduction performance management performance management systems the performance management cycle key performance evaluation characteristics management by objectives performance appraisal methods behavioral performance appraisal comparison performance appraisal rating performance appraisal narrative performance appraisal rating methods feedback and appraisals the appraisal process example performance appraisal introduction to workplace discipline progressive discipline positive discipline disciplinary records terminating employment avoiding legal trouble example workplace discipline and termination a variety of workplace conflicts handling difficult people dangerous workplace conflict preventing workplace violence union contract grievance healthy workplace conversations weekly review performance management
+</DOC>
 
-business continuity
+<DOC>business continuity
 about the aspects of business continuity about the role of hr in an organization including strategic planning and company leadership also about various organizational structures and record keeping to conclude the get support to identity the next steps in building your
 weekly introduction business continuity basic goals of hrm smart goals strategic planning introduction to organizational structures the functional organization the divisional model the matrix organization the network cluster organization functional business areas flexible strategies keeping records hr related documents employees rights osha and record keeping posting and training weekly review business continuity congratulations
 </DOC>
-
 <DOC>
 learning and development
 this presents an of best practices for creating effective training in your organization different methods of identifying training needs and delivering training also how to evaluate the effectiveness of training programs
 by the end of this be able to create and deliver learning to your organization explain and propose different methods to access the processes and of training explain different ways to deliver training evaluate key metrics that will demonstrate training and results no prior in human resources is needed to be successful
-
-introduction to learning and development
+</DOC>
+<DOC>introduction to learning and development
 about lifecycles and how to structure a development plan for an employee also how to plan training and development for your organization
 hrci human resources associate introduction learning and development instructor introduction weekly introduction introduction to development orientation lifecycle development six phases of development training and development learning and development planning training needs analysis tna development tools planning example development development weekly review introduction to learning and development
+</DOC>
 
-structure and design of learning
+<DOC>structure and design of learning
 in the second about different learning models used in instructional design including addie ksa blooms taxonomy and the kirkpatrick model and how these apply to an organizations training efforts also discover different types of trainings that can be used and the best situations to use them end the by learning about adult learning and learning styles
 weekly introduction structure and design of learning instructional design the addie learning models the ksa learning model blooms taxonomy kirkpatrick model for training evaluation on the job training job instruction training simulation training apprenticeship job rotation internship example training types adult learning learning styles example catering to different learning styles weekly review structure and design of learning
+</DOC>
 
-implementation and evaluation of training and development
+<DOC>implementation and evaluation of training and development
 is focused on different training delivery methods and how to evaluate the of these training to ensure their effectiveness how to adjust the delivery of training and development based on the results of these evaluations
 weekly introduction implementation and evaluation of training and development onthejob training instructorled vs selfpaced training inhouse vs external training services evaluating training programs experimental design kirkpatrick model pilots and after action review example preparing to evaluate your training set smart goals common metrics in training training cost per employee cost benefit analysis and return on investment learner engagement training satisfaction example evaluating training programs weekly review implementation and evaluation of training and development strategy
+</DOC>
 
-learning delivery application and evaluation
+<DOC>learning delivery application and evaluation
 about training compliance and the necessity of employees completing mandatory training also apply all you have learned by designing a training based on a realworld scenario
 weekly introduction learning delivery application and evaluation training and compliance monitoring training designing a training stepbystep congratulations
 </DOC>
-

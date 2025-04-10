@@ -13,85 +13,93 @@ the emphasis will be on learning through doing and learning through discovery as
 introduction to statistics data analysis in public health
 welcome to introduction to statistics data analysis in public health
 this will teach you the core building blocks of statistical analysis types of variables common distributions hypothesis testing but more than that it will enable you to take a data set youve never seen before describe its keys features get to know its strengths and quirks run some vital basic analyses and then formulate and test hypotheses based on means and proportions then have a solid grounding to move on to more sophisticated analysis and take the other courses in the series the popular flexible and completely free software r used by statistics and machine learning practitioners everywhere its handson so first about how to phrase a testable hypothesis via examples of medical research as reported by the media then through a data set on fruit and vegetable eating habits data that are realistically messy because thats what public health data sets are like in reality there will be miniquizzes with feedback along the way to check your understanding the will sharpen your ability to think critically and not take things for granted age of uncontrolled algorithms and fake news these are more important than ever prerequisites some formulae are given to aid understanding but this is not one of those courses where you need a mathematics degree to follow it need only basic numeracy for example not use calculus and familiarity with graphical and tabular ways of presenting results no knowledge of r or programming is assumed
-
-introduction to statistics in public health
+</DOC>
+<DOC>introduction to statistics in public health
 statistics has played a critical role of in public health research and practice and start by looking at two examples one from eighteenth century london and the other by the united nations the first task in carrying out a research study is to define the research question and express it as a testable hypothesis with examples from the media see what does and does not regard giving you a chance to define a research question from some real news stories
 introduction to statistical thinking for public health uses of statistics in public health introduction to sampling how to formulate a research question formulating a research question for the parkinsons disease and supplement studies
+</DOC>
 
-types of variables common distributions and sampling
+<DOC>types of variables common distributions and sampling
 this will introduce you to some of the key building blocks of knowledge in statistical analysis types of variables common distributions and sampling see the difference between wellbehaved data distributions such as the normal and the poisson and realworld ones that are common in public health data sets
 introduction to variables distribution and sampling of types of variables wellbehaved distributions realworld distributions and their problems the role of sampling in public health research how to choose a sample
+</DOC>
 
-introduction to r and rstudio
+<DOC>introduction to r and rstudio
 now its time to get started with the powerful and completely free statistical software r and its popular interface rstudio with the example of fruit and vegetable consumption how to download r import the data set and run essential descriptive analyses to get to know the variables
 how to describe distributions of real data how to load data and run basic tabulations in r
+</DOC>
 
-hypothesis testing in r
+<DOC>hypothesis testing in r
 having learned how to define a research question and testable hypothesis earlier in the how to apply hypothesis testing in r and interpret the result as all medical knowledge is derived from a sample of patients random and other kinds of variation mean that what you measure on that sample such as the average body mass index is not necessarily the same as in the population as a whole its essential that you incorporate this uncertainty in your estimate of average bmi when presenting it this involves the calculation of a p value and confidence interval fundamental concepts in statistical analysis see how to do this for averages and proportions
 sampling errors for proportions and central limit theorem hypothesis testing choosing the sample size for your study of
 </DOC>
-
 <DOC>
 linear regression in r for public health
 welcome to linear regression in r for public health
 public health has been defined as the art and science of preventing disease prolonging life and promoting health through the organized efforts of society knowing what causes disease and what makes it worse are clearly vital parts of this this requires the development of statistical models that describe how patient and environmental factors affect our chances of getting ill this will show you how to create such models from scratch beginning with introducing you to the concept of correlation and linear regression before walking you through importing and examining your data and then showing you how to fit models using the example of respiratory disease these models will describe how patient and other factors affect such as lung function linear regression is one of a family of regression models and the other courses series will cover two further members regression models have many things in common with each other though the mathematical details differ this will show you how to prepare the data assess how the model fits the data and test its underlying assumptions vital tasks with any type of regression use the free and versatile software package r used by statisticians and data scientists in academia governments and industry worldwide
-
-introduction to linear regression
+</DOC>
+<DOC>introduction to linear regression
 before jumping ahead to run a regression model you need to understand a related concept correlation what it means and how to generate pearsons and spearmans correlation coefficients in r to assess the strength of the association between a risk factor or predictor and the patient then be introduced to linear regression and the concept of model assumptions a key idea underpinning so much of statistical analysis
 welcome to the pearsons correlation part i pearsons correlation part ii intro to linear regression part i intro to linear regression part ii linear regression and model assumptions part i linear regression and model assumptions part ii
+</DOC>
 
-linear regression in r
+<DOC>linear regression in r
 be introduced to the copd data set that use throughout the and will run basic descriptive analyses also practise running correlations in r next see how to run a linear regression model firstly with one and then with several predictors and examine whether model assumptions hold
 introduction to fitting the linear regression multiple regression
+</DOC>
 
-multiple regression and interaction
+<DOC>multiple regression and interaction
 now see how to extend the linear regression model to include binary and categorical variables as predictors and how to check the correlation between predictors then see how predictors can interact with each other and how to incorporate the necessary interaction terms into the model and interpret them different kinds of interactions exist and can be challenging to interpret so take it slowly with worked examples and to practise
 introduction to key dataset features part i introduction to key dataset features part ii interactions between binary variables interactions between binary and continuous variables
+</DOC>
 
-model building
+<DOC>model building
 the last part of the looks at how to build a regression model when you have a choice of what predictors to include in it it describes commonly used automated procedures for model building and shows you why they are so problematic lastly have the chance to fit some models using a more defensible and robust approach
 intro to model development variable selection developing a model building strategy of developing a model building strategy of
 </DOC>
-
 <DOC>
 logistic regression in r for public health
 welcome to logistic regression in r for public health
 why logistic regression for public health rather than just logistic regression there are some particular considerations for every data set and public health data sets have particular features that need special attention in a word theyre messy like the others in the series this is a handson giving you plenty of practice with r on reallife messy data with predicting who has diabetes from a set of patient characteristics as the worked example for this additionally the interpretation of the outputs from the regression model can differ depending on the perspective that you take and public health doesnt just take the perspective of an individual patient but must also consider the population angle that said much of what is covered is true for logistic regression when applied to any data set so be able to apply the principles of this to logistic regression more broadly too by the end of this be able to explain when it is valid to use logistic regression define odds and odds ratios run simple and multiple logistic regression analysis in r and interpret the output evaluate the model assumptions for multiple logistic regression in r describe and compare some common ways to choose a multiple regression model this builds on such as hypothesis testing p values and how to use r which are covered in the first two courses of the statistics for public health if you are unfamiliar with these we suggest you review statistical thinking for public health and linear regression for public health before beginning this if you are already familiar with these we are confident that enjoy furthering your knowledge and in statistics for public health logistic regression for public health we hope you enjoy the
-
-introduction to logistic regression
+</DOC>
+<DOC>introduction to logistic regression
 welcome to statistics for public health logistic regression for public health be introduced to logistic regression and its uses in public health focus on why linear regression does not with binary and on odds and odds ratios and finish the by practising your new by the end of be able to explain when it is valid to use logistic regression and define odds and odds ratios good luck
 welcome to the introduction to logistic regression odds and odds ratios
+</DOC>
 
-logistic regression in r
+<DOC>logistic regression in r
 how to prepare data for logistic regression how to describe data in r how to run a simple logistic regression model in r and how to interpret the output also have the to practise your new by the end of be able to run simple logistic regression analysis in r and interpret the output good luck
 preparing the data for logistic regression logistic regression in r
+</DOC>
 
-running multiple logistic regression in r
+<DOC>running multiple logistic regression in r
 now that youre happy with including one predictor in the model how to run multiple logistic regression including describing and preparing your data and running new logistic regression models have the to practise your new by the end of the be able to run multiple logistic regression analysis in r and interpret the output good luck
+</DOC>
 
-assessing model fit
+<DOC>assessing model fit
 welcome to the final of the how to assess model fit and model performance how to avoid the problem of overfitting and how to choose what variables from your data set should go into your multiple regression model put all the you have learned throughout the into practice by the end of be able to evaluate the model assumptions for multiple logistic regression in r and describe and compare some common ways to choose a multiple regression model good luck
 choosing a logistic regression model overfitting and nonconvergence of the
 </DOC>
-
 <DOC>
 survival analysis in r for public health
 welcome to survival analysis in r for public health
 the three earlier courses series covered statistical thinking correlation linear regression and logistic regression this one will show you how to run survival or time to event analysis explaining whats meant by familiarsounding but deceptive terms like hazard and censoring which have specific meanings context using the popular and completely free software r how to take a data set from scratch import it into r run essential descriptive analyses to get to know the datas features and quirks and progress from kaplanmeier plots through to multiple cox regression use data simulated from real messy patientlevel data for patients admitted to hospital with heart failure and how to explore which factors predict their subsequent mortality how to test model assumptions and fit to the data and some simple tricks to get round common problems that real public health data have there will be miniquizzes on the and the r exercises with feedback along the way to check your understanding prerequisites some formulae are given to aid understanding but this is not one of those courses where you need a mathematics degree to follow it need basic numeracy for example not use calculus and familiarity with graphical and tabular ways of presenting results the three previous courses in the series explained concepts such as hypothesis testing p values confidence intervals correlation and regression and showed how to install r and run basic commands recap all these core ideas in brief but if you are unfamiliar with them then you may prefer to take the first in particular statistical thinking in public health and perhaps also the second on linear regression before embarking on this one
-
-the kaplanmeier plot
+</DOC>
+<DOC>the kaplanmeier plot
 what is survival analysis see what it is when to use it and how to run and interpret the most common descriptive survival analysis method the kaplanmeier plot and its associated logrank test for comparing the survival of two or more patient groups eg those on different treatments about the key concept of censoring
 welcome to what is survival analysis the km plot and logrank test what is heart failure and how to run a km plot in r
+</DOC>
 
-the cox model
+<DOC>the cox model
 get to know the most commonly used survival analysis method for incorporating not just one but multiple predictors of survival cox proportional hazards regression modelling about the key concepts of hazards and the risk set from now and until the end of this therell be plenty of chance to run cox models on data simulated from real patientlevel records for people admitted to hospital with heart failure see why missing data and categorical variables can cause problems in regression models such as cox
 intro to cox model how to run simple cox model in r introduction to missing data
+</DOC>
 
-the multiple cox model
+<DOC>the multiple cox model
 extend the simple cox model to the multiple cox model as preparation run the essential descriptive statistics on your main variables then see what can happen with reallife public health data and some simple tricks to fix the problem
+</DOC>
 
-the proportionality assumption
+<DOC>the proportionality assumption
 final part of the how to assess the fit of the model and test the validity of the main assumptions involved in cox regression such as proportional hazards this will cover three types of residuals lastly get to practise fitting a multiple cox regression model and will have to decide which predictors to include and which to drop a ubiquitous challenge for people fitting any type of regression model
 how to assess cox model fit cox proportional hazards assumption of
 </DOC>
-

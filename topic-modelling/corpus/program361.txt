@@ -12,87 +12,95 @@ the assessments will be cumulative and cover the fundamentals of esg investing p
 esg risks and
 explore the foundations upon which modernday esg was built how market forces react to esg and ways to create and maintain value using esg investment strategies also about the five pathways of materiality and how those interplay with or against esg performance
 examine the many challenges that corporations face when it comes to leveraging esg investing into their portfolios and how the changing landscape of esg is making this an area of untapped potential when it comes to the financial workings of businesses today also from reallife case studies how you can assess risk create better risk management policy and build a map to identify valuable areas of and create better decisionmaking approaches lastly look at portfolio optimization and the utilization of esg factors to maximize returns in addition to examining different funds their fee structures and how investors can blend esg into their investment portfolio by the end of this know the best practices for creating a solid risk management plan and how to create a culture that is sensitive to esg better understand the history and framework behind esg and how to create a path forward using smarter methods to identify risk navigate esg issues and reach esg investing goals
-
-introduction to esg factors and concepts
+</DOC>
+<DOC>introduction to esg factors and concepts
 be introduced to environmental social and governance esg factors and the many different pathways by which they impact financial value about the importance of assessing stakeholder interest or salience in different esg factors and how this varies across industries also gain insight into the five pathways of materiality through which esg factors impact revenues costs or productivity finally examine the conditions under which stakeholders are expected to activate these pathways highlighting the strategic and financial importance of stakeholder relations by the end of this have learned how to discern which esg pathways matter for you and your stakeholders how to navigate the materiality map and the importance of stakeholder relations for shareholder value
 esg introduction introduction to environmental social governance factors concepts environmental factors social factors governance factors pathways of materiality stakeholders
+</DOC>
 
-history and flavors of esg investing
+<DOC>history and flavors of esg investing
 get an of the history of esg investing and review the past and present ways that investors have attempted to incorporate environmental social and governance factors into their strategies also about the relationships between social pressure corporate responses and financial performance next look at portfolio optimization and how to utilize esg factors to maximize returns lastly review various case studies that look at different investment strategies and their in terms of both esg and financial performance by the end of this understand the history of esg investing corporate engagement and responsibility and the different ways esg factors can be integrated into investment strategies
 introduction to history and flavors of esg investing historical origins from value to values engagement case esg and fundamentals case esg and valuebased investment case esg and other equity strategies and asset classes
+</DOC>
 
-esg data
+<DOC>esg data
 about the importance of esg data and how you can best integrate it into your financial analyses next review different providers of data for esg factors and how to assess this data despite the challenges of interpretability and subjectivity next survey the tendency towards integrated reporting whereby firms embed esg data inside their financial reports lastly examine esg data that focuses on the financial impacts on a firms stakeholders who may in turn create financial benefits or harm for the firm by the end of this be better able to utilize esg data assess the differences in esg data provider approaches and determine how to quantify the environmental social and governance factors which impact a firms stakeholders
 introduction and motivation third party esg data providers integrated firmlevel reporting case engine no s total value framework motivation design case engine no s total value framework implementation
+</DOC>
 
-esg management at the firmlevel
+<DOC>esg management at the firmlevel
 you about the specific cost and revenue variances associated with esg issues and how better stakeholder relations can mitigate some of these risks also examine cases from peru ghana and brazil and assess how different esg risk management strategies affected the performance of these projects also review participatory stakeholder processes external value at stake evas and integrated project management systems lastly look at transformative ways to implement esg risk assessments into a broader risk management framework to maximize expected corporate performance by the end of this have identified best practices for creating a solid financial and risk management plan that incorporates esg factors and will understand how to create a culture that is sensitive to esg
 introduction to corporate management of esg costs of conflict case bhp tintaya peru case newmont ahafo gold ghana case anglo american minas rio brazil balanced integration esg transformation lessons from history
 </DOC>
-
 <DOC>
 esg and social activism
 get an of the impact of contemporary esg ratings and how a company balances esg issues against its financial performance evaluate the effectiveness of corporate authenticity and the impacts of politics when building corporate esg policy also about social activisms ability to disrupt markets and the roles that stakeholders play when dealing with financial markets
 next about corporate boards and the importance of creating independent directors that can maintain neutrality to protect the interests of both the business and shareholders also how board structure is managed methods for selecting board members and the role that boards play when crafting esg policy lastly look at the necessity of creating a diverse and inclusive culture within an organization and will examine best practices for boards to create strong crisis and risk management policies by the end of this have a comprehensive understanding of how social activism affects the corporate world in the st century how to build a board of directors that can incorporate esg issues into risk management and governance strategies and how encouraging diverse and inclusive culture benefits companies
-
-social performance
+</DOC>
+<DOC>social performance
 about the role that social performance plays in how a corporation views itself and how it performs in the market get an of the impact of contemporary esg ratings and how companies balance esg issues against its financial performance examine the importance of authenticity and how a company can face backlash if social performance is viewed as solely driven by profit lastly discover the impact of regulation and how corporations use political influence in positive and negative ways by the end of this have a firm understanding of the nuance within social performance how companies respond to stakeholder concerns and how political corruption is managed
 introduction social and financial performance authenticity corporate political activity managing political corruption shareholder activism
+</DOC>
 
-social activism and nonmarket risk
+<DOC>social activism and nonmarket risk
 about contention within social activism and the role that it plays in driving corporate social reform also about the downsides to social movements and how they can become market disruptors if they create negative media attention for a business next examine examples of the harmful effects of activism and how they can have the opposite influence on a business than what was intended based on the ideological alignment of stakeholders lastly consider corporate activism how ceos can take on the role of activist and the ways that they can influence esg policies by partnering with ngos by the end of this know how to identify risks within social activism in your business and how to best ally with ngos as part of an authentic esg strategy
 introduction to contention why social movements hurt polarization corporate activism crosssector collaboration
+</DOC>
 
-good governance board composition to maximize longterm value
+<DOC>good governance board composition to maximize longterm value
 about corporate governance and how that affects risk management and strategy next how a corporation selects directors how independence requirements are put into place to protect the interest of shareholders also review best practices to strengthen the independence of the directors and assess how to increase diversity to gain a more balanced board of directors lastly discover ways to cultivate an inclusive corporate culture in ways that can improve market performance by the end of this be familiar with governance mechanisms and how they in large and small companies understand how to select an independent board of directors and finally identify ways to promote diversity and inclusivity in corporate culture
 governance intro selection and independence selection and best practices diversity and inclusion broadening the diversity lens contingencies
+</DOC>
 
-good governance structures and practices for prioritizing esg performance
+<DOC>good governance structures and practices for prioritizing esg performance
 about the different structures and importance of boards and review their functions within a business then about the succession process within a board and how that can affect shareholders during those periods next discover the process for removing a ceo from an organization the reasons why that would need to occur and how stakeholders can sometimes prompt that removal lastly review executive compensation models the methods of corporate control that allow a board to make decisions that determine an organizations future and the instrumental role of risk management by the end of this have a thorough understanding of board structure how to create and implement a succession plan for a new ceo and how a board exercises its control over a business
 structure succession ousting a ceo executive compensation corporate control risk management
 </DOC>
-
 <DOC>
 esg impact investor perspective
 analyze the importance of assessing stakeholder interest or salience in different esg factors and industry variances also evaluate the importance of esg factors in your investment decisions including how you can use them to create socially responsible portfolios with betterthanaverage returns also examine the risks associated with esg investing and how they can affect the corporations profitability
 next review the concepts of positive and negative screening and identify the esg factors that cause investors to divest from or negatively screen certain assets review esg risks associated with climate diversity executive compensation governance issues and evaluate how corporate performance and stock prices correlate to esg scores also examine how esg adoption could accelerate the growing trend of fossil fuel divestment its minimal impact on returns and what this means long term finally analyze quantitative and qualitative measurements and explore different protocols such as msci to evaluate and provide esg ratings that can affect stakeholder and investor interest by the end of this have explored how esg investing has grown assessed the variety of ways it has been integrated into the market and analyzed the complex indexing and measurement techniques employed in the esg space today
-
-
+</DOC>
+<DOC>
 explore how an investor can use esg factors to maximize positive returns and minimize downside risks examine the significance of screening stocks with esg factors to inform portfolio construction as as the relative significance of positive versus negative screening analyze the importance of assessing stakeholder interest or salience in different esg factors and industry variances next assess the importance of esg factors in your investment decisions including how they can be used to create socially responsible portfolios with betterthanaverage returns by the end of this have identified the best methods of screening stocks to account for esg factors the costs associated with esg strategies and the importance of diversification
 introduction doing good while doing the envestnet study esg indexes positive and negative screening
+</DOC>
 
-
+<DOC>
 explore the complex relationship between esg and the stock market from the inclusion of companies with a large esg profile to the exclusion of those that refuse to adopt a green agenda also assess the risks associated with esg investing and how it can affect a companys profitability next examine how to avoid greenwashing by measuring the impact of a corporations green initiatives through inclusionary screening review esg risks associated with climate diversity executive compensation and governance issues and will examine how corporate performance and stock prices correlate to esg scores by the end of this have differentiated between esg exclusion and inclusion of companies identified how to avoid greenwashing and measuring corporate social impact and reviewed the influence of esg risk factors on stock prices including their relationship to esg scores and their impact on pension plans
 exclusion and inclusion avoiding greenwashing effects of esg on portfolio risk resilience risks resilience esg exposure corporate performance risks resilience pension plans
+</DOC>
 
-
+<DOC>
 analyze the upward growth curve of esg incorporation over the last years as as the main types of assets that are driving this growth also review the motivating esg factors that cause investors to divest from or negatively screen certain assets also assess the way that large investment firms such as blackrock fidelity and vanguard are engaging with esg initiatives and making sustainability a prominent driver in their investment selections lastly examine how esg adoption could be accelerating the growing trend of fossil fuel divestment its minimal impact on returns and what this means long term by the end of this have analyzed esg incorporation and its driving factors reviewed educational institution endowments growing esg investment commitments and examined the rise of fossil fuel divestment and why this matters
 investor interest institutional investors the largest owners fossil fuel divestment fossil fuel divestment part
+</DOC>
 
-
+<DOC>
 assess the various methods for measuring and indexing esg factors in the investing space the inherent challenges in calculating these values and how to go about overcoming these challenges examine how esg indices are created how firms can evaluate their efficacy and how the creation of a sustainability index has made impact measurement easier to gauge next analyze quantitative and qualitative measurements and explore different protocols such as msci to evaluate and provide esg ratings finally assess the various tools that you can use to measure esg investments and how they compare to one another by the end of this have differentiated between how investors can use these tools to monitor esg practices and build indexes that better align with their values
 esg indexing other indexes impact measurement impact measurement carbon reduction example protocols protocols msci
 </DOC>
-
 <DOC>
 esg and climate change
 focus on understanding climate change and the risks and that it creates for businesses in the st century analyze the current impacts of climate change on a global scale and the investment shifts that are required to achieve a netzero economy next analyze the role of climate disclosures and their importance in esg
 also review private environmental governance the active role that private companies are playing in combating climate change and the parallels between the public and private sectors additionally assess the insurance industry and the ways that it spreads risk as as creative ways that insurance as a form of private or public governance can build climate resilience in the final review the concept of greenwashing what is driving firms to make exaggerated environmental claims why it is harmful and examples of enforcement actions finally about the importance of product stewardship by the end of this have a thorough understanding of public and private environmental governance the financial risks that unmitigated climate change is creating climate disclosures and innovative ways that business leaders can view and implement climate solutions
-
-introduction to sustainability climate risk
+</DOC>
+<DOC>introduction to sustainability climate risk
 focus on understanding climate change and the risks and that it creates for businesses in the st century analyze the current impacts of climate change on a global scale and the investment shifts that are required to achieve a zerocarbon economy next examine the stakeholders that are driving business firms to address climate change how both the physical and financial stability risks that are imposed by more frequent natural disasters can affect business firms and the global economy by the end of this have a detailed of the financial impacts of climate change the ways that governments are addressing climate change and the financial risks that unmitigated climate change is creating
 why focus on climate change context the transition to a netzero economy what who is driving business firms to focus on climate change what are the climate risks and for firms
+</DOC>
 
-public and private governance to address climate change goals
+<DOC>public and private governance to address climate change goals
 take an indepth look at public environmental law and the distinct eras that have shaped modernday climate policy also review private environmental governance examining the active role that private companies are playing in combating climate change as as the parallels between the public and private sectors next analyze the role of climate disclosures what they require and their importance in esg by the end of this be able to differentiate between public and private environmental governance and their objectives identify the three eras of public environmental law and distinguish the role and goals of climate disclosures
 understanding the whole picture a basic primer on public environmental law a basic primer on public environmental governance focus climate disclosure
+</DOC>
 
-building climate resilience through creative private solutions
+<DOC>building climate resilience through creative private solutions
 examine ecosystem services and the various methods used to promote climate resilience review the ways in which public law addresses wildlife and habitat conservation and identify the limitations in meeting the demands of conservation efforts especially when quick action is required to address disasters lastly assess the insurance industry and the ways that it spreads risk as as creative ways that insurance as a form of private or public governance can build climate resilience by the end of this have had a critical look at the different methods of building climate resilience minimizing the impact of climate change through naturebased solutions and two primary methods of insurance that can spread risk understand the ways that private insurance can protect ecosystem services and have identified innovative ways that business leaders can view climate solutions
 building climate resilience through creative private solutions ecosystem services in the climate context existing public law and governance can insurance do better a primer on insurance
+</DOC>
 
-extended producer responsibility product stewardship and the circular economy
+<DOC>extended producer responsibility product stewardship and the circular economy
 about the idea of promoting a circular economy through better stewardship of resources and waste management analyze the waste and recycling streams in the united states and the effects that they have on the environment also examine the challenges with recycling programs worldwide next evaluate product stewardship and the key players in that lifecycle and will to differentiate between product stewardship and extended producer responsibility lastly review the concept of greenwashing what is driving firms to make exaggerated environmental claims why it is harmful and examples of enforcement actions by the end of this have assessed the importance of product stewardship reviewed some of the limits on green marketing and analyzed increasing regulatory action
 extended producer responsibility product stewardship and the circular economy product stewardship extended producer responsibility greenwashing conclusion
 </DOC>
-

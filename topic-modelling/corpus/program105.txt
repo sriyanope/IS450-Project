@@ -18,78 +18,88 @@ develop an agile plan with zenhub by writing user stories and simulating a scrum
 introduction to agile development and scrum
 get started with using agile development and scrum with this selfpaced introductory after successfully completing this be able to embrace the agile concepts of adaptive planning iterative development and continuous improvement resulting in early deliveries and value to customers
 look at scrum as a framework and how to apply it alongside agile also become familiar with related methodologies like waterfall extreme programming xp and kanban apply agile practices derived from lean manufacturing concepts like testdriven development how a scrum team functions also about the importance of agile iterative planning and enable yourself to write good user stories and track your teams progress using a kanban board create and refine a product backlog collaboratively with the team and the customer in a flexible and blameless culture also how to use burndown charts achieve sprint goals and conduct the sprint review and retrospective this approach will lead you to higher levels of efficiency with the ability to plan and execute sprints with your development team measuring success with actionable metrics this is about more than facts and processes it is about working collaboratively on a selforganizing team coached by a scrum master and building what is needed rather than simply following a plan developed and taught by an experienced agile practitioner the includes handson practice through realistic scenariobased labs using github and zenhub the will benefit anyone who wants to get started with working the agile way or transform the organizational culture to adopt and realize the benefits of scrum this includes project managers product managers and executives it is particularly suitable for it practitioners such as software developers development managers and it scrum masters
-
-introduction to agile and scrum
+</DOC>
+<DOC>introduction to agile and scrum
 be introduced to the philosophy and characteristics of agile about other methodologies including waterfall extreme programming xp and kanban and how they relate to agile explore the five practices of working agile next get an of scrum as a framework for applying agile principles to project management how scrum benefits the project management process by advocating defined roles events and artifacts how companies can organize for success using agile and how team alignment and autonomy contribute to building better systems also how to recognize and avoid agile antipatterns and measure scrum team health
 introduction to agile development and scrum agile principles methodologies working agile scrum the roles of scrum artifacts events and benefits organizational impact of agile mistaking iterative development for agile
-
-agile planning
-more details about agile iterative planning also how to create good user stories estimate and assign story points build and refine a product backlog and build a sprint plan for managing the agile plan and user stories you can use the github projects kanban or if you have an official email account you can create a trial account on zenhub and set up a kanban board
-destination unknown agile roles and the need for training kanban and agile planning tools creating good user stories effectively using story points building the product backlog backlog refinement getting started backlog refinement finishing up sprint planning
-
-daily execution
-this describes the daily workflow for executing a sprint plan including how to determine which story to on and how to keep the team updated on progress what a daily standup is and how to run one how to use burndown charts to forecast the teams ability to achieve the sprint goal how to conduct the sprint review and the sprint retrospective and find out how to measure success and use actionable metrics to improve the teams performance
-workflow for daily plan execution the daily stand up using burndown charts the sprint review the sprint retrospective using measurements effectively getting ready for the next sprint agile antipatterns and health check
-
-optional honors project create an agile plan with zenhub
-peer review plugins
 </DOC>
 
+<DOC>agile planning
+more details about agile iterative planning also how to create good user stories estimate and assign story points build and refine a product backlog and build a sprint plan for managing the agile plan and user stories you can use the github projects kanban or if you have an official email account you can create a trial account on zenhub and set up a kanban board
+destination unknown agile roles and the need for training kanban and agile planning tools creating good user stories effectively using story points building the product backlog backlog refinement getting started backlog refinement finishing up sprint planning
+</DOC>
+
+<DOC>daily execution
+this describes the daily workflow for executing a sprint plan including how to determine which story to on and how to keep the team updated on progress what a daily standup is and how to run one how to use burndown charts to forecast the teams ability to achieve the sprint goal how to conduct the sprint review and the sprint retrospective and find out how to measure success and use actionable metrics to improve the teams performance
+workflow for daily plan execution the daily stand up using burndown charts the sprint review the sprint retrospective using measurements effectively getting ready for the next sprint agile antipatterns and health check
+</DOC>
+
+<DOC>optional honors project create an agile plan with zenhub
+peer review plugins
+</DOC>
 <DOC>
 introduction to cloud computing
 start your cloud computing journey with this selfpaced introductory whether you need general cloud computing knowledge for school or business or you are considering a change this beginnerfriendly is right for you
 about essential characteristics of cloud computing and emerging technologies supported by cloud explore cloud service models including infrastructure as a service iaas platform as a service paas software as a service saas and public private and hybrid deployment models discover the offerings of prominent cloud service providers aws google ibm microsoft and others and review cloud computing case studies about cloud adoption blockchain analytics and ai about the many components of cloud computing architecture including datacenters availability zones virtual machines containers and bare metal servers also familiarize yourself with different types of cloud storage options such as object storage gain foundational knowledge of emergent cloud trends and practices including hybrid multicloud microservices serverless devops cloud native application modernization as as about cloud security and monitoring also explore cloud computing job roles and possible paths and complete a number of labs and quizzes throughout this to increase your understanding of content at the end of the complete a final project where deploy an application to cloud using a serverless architecture a valuable addition to your portfolio after this check out the related courses to help you towards your new as a cloud engineer full stack developer devops engineer cybersecurity analyst and others
-
-of cloud computing
+</DOC>
+<DOC>of cloud computing
 in in the first lesson the definition of cloud computing and its five essential characteristics in the next topic about the history and evolution of cloud computing and the benefits of the payasyougo feature of cloud computing the third topic will describe the key considerations benefits and challenges of cloud computing next discuss some common cloud service providers in the second lesson the need for cloud adoption by businesses then discuss some case studies of businesses that benefitted from cloud adoption in the third lesson about emerging technologies like iot ai blockchain and so on that leverage clouds scalability and processing power to provide value to individuals and businesses alike supported by some case studies
 welcome definition and essential characteristics of cloud computing expert viewpoints definition and essential characteristics of cloud computing history and evolution of cloud computing key considerations for cloud computing key cloud service providers and their services cloud adoption no longer a choice expert viewpoints cloud adoption benefits and use cases cloud adoption some case studies internet of things in the cloud artificial intelligence on the cloud blockchain and analytics in the cloud
-
-cloud computing models
-in about the different types of service and deployment models of cloud computing the first lesson covers the three main service models available on the cloudinfrastructureasaservice iaas platformasaservice paas and softwareasaservice saas the differences between each model the advantages of each and the key components of cloud infrastructure the second lesson goes over the four main deployment models available on the cloudpublic private hybrid and community what deployment models are and the differences and advantages of each model at the end of the create an account on ibm cloud
-of cloud service models iaas infrastructure as a service paas platform as a service saas software as a service public cloud private cloud hybrid cloud expert viewpoints cloud computing service and deployment models
-
-components of cloud computing
-in about the various components of a cloud computing architecture such as the virtualization of virtual machines and bare metal servers and the difference between virtual machines and bare metal servers the different types of virtual machines how to build a secure cloud networking presence how containerbased technologies and the benefits of a content delivery network in the second lesson also familiarize you with the four main types of cloud storagedirect attached file block and object storage the differences in how they can be accessed the capacity they offer how much they cost the types of data they are best suited to store and their readwrite speed
-of cloud infrastructure virtualization and virtual machines explained types of virtual machines bare metal servers secure networking in cloud containers expert viewpoints components of cloud computing basics of storage on cloud file storage block storage object storage object storage tiers and apis cdn content delivery networks expert viewpoints cloud storage
-
-emergent trends and practices
-in about the use cases and challenges of emergent trends in cloud computing such as hybrid multicloud serverless computing and microservices additionally this will teach you about the core concepts and benefits of cloud native applications the role of devops in addressing some of the complexities of cloud computing and how organizations can benefit from modernizing their applications
-hybrid multicloud microservices serverless computing cloud native applications devops on the cloud application modernization expert viewpoints cloud native and emergent cloud trends
-
-cloud security monitoring case studies jobs
-in about elements of cloud security including identity and access management and cloud encryption this will cover how organizations leverage cloud monitoring solutions to optimize business benefits it will familiarize you with cloud adoption case studies in different industry verticals and the various and job roles available in the field of cloud computing today
-what is cloud security part what is cloud security part identity and access management cloud encryption cloud monitoring basics and benefits case studies in different industry verticals and job roles in cloud computing expert viewpoints job market for cloud computing
-
-final project and
-complete a final project to deploy a containerized application on the cloud using a serverless technology no programming needed you can also demonstrate your knowledge of cloud computing by completing an optional assessment based on a cloud architecture design case study
 </DOC>
 
+<DOC>cloud computing models
+in about the different types of service and deployment models of cloud computing the first lesson covers the three main service models available on the cloudinfrastructureasaservice iaas platformasaservice paas and softwareasaservice saas the differences between each model the advantages of each and the key components of cloud infrastructure the second lesson goes over the four main deployment models available on the cloudpublic private hybrid and community what deployment models are and the differences and advantages of each model at the end of the create an account on ibm cloud
+of cloud service models iaas infrastructure as a service paas platform as a service saas software as a service public cloud private cloud hybrid cloud expert viewpoints cloud computing service and deployment models
+</DOC>
+
+<DOC>components of cloud computing
+in about the various components of a cloud computing architecture such as the virtualization of virtual machines and bare metal servers and the difference between virtual machines and bare metal servers the different types of virtual machines how to build a secure cloud networking presence how containerbased technologies and the benefits of a content delivery network in the second lesson also familiarize you with the four main types of cloud storagedirect attached file block and object storage the differences in how they can be accessed the capacity they offer how much they cost the types of data they are best suited to store and their readwrite speed
+of cloud infrastructure virtualization and virtual machines explained types of virtual machines bare metal servers secure networking in cloud containers expert viewpoints components of cloud computing basics of storage on cloud file storage block storage object storage object storage tiers and apis cdn content delivery networks expert viewpoints cloud storage
+</DOC>
+
+<DOC>emergent trends and practices
+in about the use cases and challenges of emergent trends in cloud computing such as hybrid multicloud serverless computing and microservices additionally this will teach you about the core concepts and benefits of cloud native applications the role of devops in addressing some of the complexities of cloud computing and how organizations can benefit from modernizing their applications
+hybrid multicloud microservices serverless computing cloud native applications devops on the cloud application modernization expert viewpoints cloud native and emergent cloud trends
+</DOC>
+
+<DOC>cloud security monitoring case studies jobs
+in about elements of cloud security including identity and access management and cloud encryption this will cover how organizations leverage cloud monitoring solutions to optimize business benefits it will familiarize you with cloud adoption case studies in different industry verticals and the various and job roles available in the field of cloud computing today
+what is cloud security part what is cloud security part identity and access management cloud encryption cloud monitoring basics and benefits case studies in different industry verticals and job roles in cloud computing expert viewpoints job market for cloud computing
+</DOC>
+
+<DOC>final project and
+complete a final project to deploy a containerized application on the cloud using a serverless technology no programming needed you can also demonstrate your knowledge of cloud computing by completing an optional assessment based on a cloud architecture design case study
+</DOC>
 <DOC>
 introduction to devops
 get started with your devops journey with this beginnerfriendly devops are high in demand and expected to be one of the fastestgrowing in the software industry this is designed to be a first step in obtaining those valuable
 this selfpaced introductory explores devops as a cultural movement it describes the business case for devops and covers its essentials this teaches new ways of thinking working organizing and measuring to fully realize the benefits of devops by applying devops practices be able to build better products for your users how breaking down silos and organizing developers and operators into single crossfunctional teams is necessary for truly adopting devops having everyone contributing and everyone being responsible for success is at the heart of devops see how building a culture of shared responsibility and transparency is the foundation of every highperforming devops teams how you can use cloud native architecture to build resilience in your products and about helpful devops tools like horizontal scaling and independently deployable microservices explore how agile methodologies like scrum are crucial to devops as as about continuous integration and continuous delivery cicd which enables frequent deployments and working as a team to create highquality code this concludes with case studies about devopsbased scenarios which analyze and relate to devops concepts learnt throughout this this is designed for those new to devops as as those looking to increase their current knowledge of devops
-
-of devops
+</DOC>
+<DOC>of devops
 how business models are disrupted by innovation and that technology is the enabler of innovation rather than the driver of innovation that devops is more than simply the dev team and the ops team working together it is a cultural change be introduced to the essential characteristics of devops through a brief history of devops see how devops grew as a grassroots movement and that influential people helped others see that devops is a better way to
 introduction business case for devops devops adoption definition of devops essential characteristics of devops leading up to devops xp agile and beyond brief history of devops
-
-thinking devops
-this is all about thinking devops and getting results how social coding as a community creates better code examine how creating shared repositories and pair programming results in defects found earlier and a broader understanding of the code base for the team see how working in small batches reduces waste and results in delivering useful applications quickly discover how producing a minimum viable product allows you to test a hypothesis and gain valuable feedback about delivering what the customer really desires test driven development will allow you to develop faster and with more confidence behavior driven development results in improved communication and more meaningful information from your stakeholders how cloud native architecture is used to build resilience in your product and take advantage of horizontal scaling and independently deployable microservices failures will happen be able to take advantage of tools that are designed to help you recover quickly from failures
-social coding principles git repository guidelines working in small batches minimum viable product test driven development behavior driven development cloud native microservices designing for failure
-
-working devops
-this is all about working using devops principles and techniques how software development is more like craftwork than factory and that working in silos leads to mistakes and bottlenecks see how devops is driven by behaviors such as collaboration and embracing change be introduced to concepts such as ephemeral infrastructure that emphasizes building quickly and then discarding when that build is no longer needed a more effective style of in which you make changes to container images and redeploy a new container to take its place instead of patching and maintaining it about new processes such continuous integration and continuous delivery that enable frequent deployments and working as a team to create highquality code how to move faster use automation and spend more time building features and less time debugging during integrations
-taylorism and working in silos software engineering vs civil engineering required devops behaviors infrastructure as code continuous integration continuous delivery
-
-organizing for devops
-this is all about organizing for devops about the organizational impact of devops how devops teams are structured and the importance of everyone being responsible for success discover the optimal organization for devops teams review a variety of perspectives on devops and explore misconceptions about devops this addresses the importance of consequences that is allowing teams to feel the consequences of their actions on others who are involved in the see how a shared mindset empowers everyone to deliver customer value
-organizational impact of devops there is no devops team everyone is responsible for success
-
-measuring devops
-this is all about measurements for devops the importance of measuring what matters such as social metrics and continuous improvement goals see how measuring social metrics leads to improved teamwork and how measuring devops metrics allows you to see progress toward your goals discover that actionable metrics help you take action toward your desired one of the key aspects of devops is creating a blameless culture measuring culture is critical for building a culture in which ideas flow openly and people are listened to how that type of working culture can be created see the disadvantages of rewarding one behavior while hoping for a different behavior
-rewarding for a while hoping for b vanity metrics vs actionable metrics how to measure your culture comparison of devops to site reliability engineering
-
-case studies and final exam
-in these case studies read and analyze devopsbased scenarios apply what you learned in the introduction to devops and answer graded quiz questions based on these scenarios
 </DOC>
 
+<DOC>thinking devops
+this is all about thinking devops and getting results how social coding as a community creates better code examine how creating shared repositories and pair programming results in defects found earlier and a broader understanding of the code base for the team see how working in small batches reduces waste and results in delivering useful applications quickly discover how producing a minimum viable product allows you to test a hypothesis and gain valuable feedback about delivering what the customer really desires test driven development will allow you to develop faster and with more confidence behavior driven development results in improved communication and more meaningful information from your stakeholders how cloud native architecture is used to build resilience in your product and take advantage of horizontal scaling and independently deployable microservices failures will happen be able to take advantage of tools that are designed to help you recover quickly from failures
+social coding principles git repository guidelines working in small batches minimum viable product test driven development behavior driven development cloud native microservices designing for failure
+</DOC>
+
+<DOC>working devops
+this is all about working using devops principles and techniques how software development is more like craftwork than factory and that working in silos leads to mistakes and bottlenecks see how devops is driven by behaviors such as collaboration and embracing change be introduced to concepts such as ephemeral infrastructure that emphasizes building quickly and then discarding when that build is no longer needed a more effective style of in which you make changes to container images and redeploy a new container to take its place instead of patching and maintaining it about new processes such continuous integration and continuous delivery that enable frequent deployments and working as a team to create highquality code how to move faster use automation and spend more time building features and less time debugging during integrations
+taylorism and working in silos software engineering vs civil engineering required devops behaviors infrastructure as code continuous integration continuous delivery
+</DOC>
+
+<DOC>organizing for devops
+this is all about organizing for devops about the organizational impact of devops how devops teams are structured and the importance of everyone being responsible for success discover the optimal organization for devops teams review a variety of perspectives on devops and explore misconceptions about devops this addresses the importance of consequences that is allowing teams to feel the consequences of their actions on others who are involved in the see how a shared mindset empowers everyone to deliver customer value
+organizational impact of devops there is no devops team everyone is responsible for success
+</DOC>
+
+<DOC>measuring devops
+this is all about measurements for devops the importance of measuring what matters such as social metrics and continuous improvement goals see how measuring social metrics leads to improved teamwork and how measuring devops metrics allows you to see progress toward your goals discover that actionable metrics help you take action toward your desired one of the key aspects of devops is creating a blameless culture measuring culture is critical for building a culture in which ideas flow openly and people are listened to how that type of working culture can be created see the disadvantages of rewarding one behavior while hoping for a different behavior
+rewarding for a while hoping for b vanity metrics vs actionable metrics how to measure your culture comparison of devops to site reliability engineering
+</DOC>
+
+<DOC>case studies and final exam
+in these case studies read and analyze devopsbased scenarios apply what you learned in the introduction to devops and answer graded quiz questions based on these scenarios
+</DOC>

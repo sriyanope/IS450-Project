@@ -13,165 +13,183 @@ power your programming by learning the core principles of mainframe programming 
 ibm cobol basics
 cobol is a programming language that serves a wide range of businesses key aspects of cobol are that it is scalable mature and selfdocumenting
 in the basics about cobol from its birth and through its evolution have some basic lessons on handling numbers symbols editing procedures and the overall structure even have the to create code of your own buckle up and join us on a ride through the world of cobol we cant wait to see you in class
-
-introduction to cobol
+</DOC>
+<DOC>introduction to cobol
 welcome to your first in ibm cobol basics this will take the beginning steps in learning and using cobol as we navigate through about the birth of cobol the purpose of cobol and who uses cobol then move to learning about the divisions of cobol its structure and the purpose of the compiler
 introduction lab connection guide part getting connected lab connection guide part password and console introduction to cobol structures essentials and preparation
+</DOC>
 
-cobol components numbers data types
+<DOC>cobol components numbers data types
 congratulations on making it through your first on records of fixed and variable sizes cobol hierarchy and clauses wrapping up with some handson cobol coding
 coding components and numbering systems introduction file section data types and data names
+</DOC>
 
-structure and syntax
+<DOC>structure and syntax
 we are going to get right to and about scope terminators and how theyre used to code the initialize statement and its purpose utilize io statements move statements use returncode and compile and link simple programs
 basic procedures part basic procedures part basic procedures part
+</DOC>
 
-arithmetic and beautiful numbers
+<DOC>arithmetic and beautiful numbers
 welcome to four congratulations on making it to our final of the we the arithmetic behind cobol use of symbols and why theyre important for enhanced pictures and perform data editing with numbers
 cobol arithmetic beautiful numbers wrap up
 </DOC>
-
 <DOC>
 ibm cobol software development process
 this is geared towards anyone interested in learning about ibm cobol mainframe computing and the software development lifecycle sdlc and increasing their knowledge and hands on with core concepts and technologies including life cycle and systems analysis concepts design and structured coding and a wide variety of topics designed to provide relevant requisite working knowledge and practical
-
-welcome to ibm cobol software development process
+</DOC>
+<DOC>welcome to ibm cobol software development process
 welcome everyone to the present the objectives and introduce ourselves to the class
 welcome introduction and objectives get familiar with the skytap lab environment
+</DOC>
 
-lifecycle concepts
+<DOC>lifecycle concepts
 describe life cycle concepts associated with ibm cobol and ibm zos environments including the software development lifecycle sdlc the phases of a sdlc and agilescrum methodologies
 introduction and objectives software development lifecycle sdlc sdlc in your reading steps in a sdlc steps in a sdlc in your reading agile methodologies agile methodologies in your reading review the training environment completed objectives
+</DOC>
 
-systems analysis concepts
+<DOC>systems analysis concepts
 define systems analysis concepts associated with cobol and ibm zos environments including core areas of analysis objectives of system analysis and ibm systems architectures
 introduction and objectives ibm systems architecture ibm systems architecture in your reading objectives of systems analysis objectives of systems analysis in your reading core areas of systems analysis core areas of analysis in your reading completed objectives
+</DOC>
 
-design and structured coding
+<DOC>design and structured coding
 in the fourth of this identify design and structured coding concepts associated with cobol and ibm zos environments including pseudocode modern design planning and unit testing and topbottom testing
 introduction and objectives pseudcode pseudocode in your reading modern design modern design in your reading planning and unit testing planning and unit testing in your reading topbottom testing topbottom testing in your reading
+</DOC>
 
-congratulations on completing ibm cobol software development process
+<DOC>congratulations on completing ibm cobol software development process
 congratulate everyone for completing the present the completed objectives and define other pertinent details and next steps
 completed objectives congratulations
 </DOC>
-
 <DOC>
 ibm cobol basic testing and debugging
 welcome to ibm cobol basic testing and debugging by enrolling you are taking a big step in increasing your knowledge and hands on with ibm cobol testing and debugging topics and technologies describe common errors associated with working with cobol list file status codes also describe the process of debugging cobol code so lets get started
-
-welcome to ibm cobol basic testing and debugging
+</DOC>
+<DOC>welcome to ibm cobol basic testing and debugging
 in the first of this welcome everyone to the present the objectives and define other pertinent details
 welcome introduction and objectives get familiar with the skytap lab environment
+</DOC>
 
-common cobol errors
+<DOC>common cobol errors
 in the second of the describe common errors associated with working with cobol by the end of this be able to define cobol runtime errors list file status codes and describe common cobol errors
 introduction and objectives runtime errors runtime errors in your reading file status codes file status codes in your reading common cobol errors common cobol errors in your reading completed objectives
+</DOC>
 
-testing
+<DOC>testing
 in the third of the describe core concepts and topics related to testing cobol code by the end of this identify cobol compile options and their usages within a testing context describe mainframe unit testing define the test drive development tdd methodology in a cobol context
 introduction and objectives cobol compile options cobol compile options in your reading mainframe unit testing mainframe unit testing in your reading test driven development tdd test driven development tdd in your reading completed objectives
+</DOC>
 
-debugging
+<DOC>debugging
 in the fourth of the describe the process of debugging cobol code by the end of this list concepts and topics related to detecting diagnosing and eliminating bugs describe cobol debugging options and describe the ibm zos debugger and its core features and functionality
 introduction and objectives detect diagnose eliminate detect diagnose eliminate in your reading cobol debugging options cobol debugging options in your reading ibm zos debugger ibm zos debugger in your reading completed objectives
+</DOC>
 
-congratulations on completing to ibm cobol basic testing and debugging
+<DOC>congratulations on completing to ibm cobol basic testing and debugging
 congratulate everyone for completing the present the completed objectives and define other pertinent details and next steps
 completed objectives congratulations
 </DOC>
-
 <DOC>
 introduction to enterprise computing
 large scale enterprise computing powers all major transactions and the mainframe is responsible for of all credit card transactions and enables of all fortune companies mainframes are fundamental on how we do business and ibm z is the only production mainframe sold today virtually everyone depends on it this is your introduction to the hardware operating systems security and features that make this possible
 on successful completion of this learners are eligible to earn their introduction to enterprise computing badge more information can be found here httpswwwyouracclaimcomorgibmbadgeintroductiontoenterprisecomputing
-
-introduction to the mainframe environment
+</DOC>
+<DOC>introduction to the mainframe environment
 reading
 introduction computer architecture mainframe architecture virtualization what is an operating system mainframe operating system
+</DOC>
 
-mainframe infrastructure
+<DOC>mainframe infrastructure
 
 why use mainframes ibm z hardware components mainframe features what is millicode hmc and se sysplex
+</DOC>
 
-mainframe security and startup
+<DOC>mainframe security and startup
 
 zos security security addendum transaction level security crypto express key management iocds activation profiles ipling an operating system
 </DOC>
-
 <DOC>
 ibm cobol software development practices
 this is aimed at anybody interested in cobol or or software development be introduced to core practices systems and methodologies associated with ibm cobol software development about cobol as a selfdocumenting language review working with existing coding this also covers quality assurance qa technical support and project management
-
-welcome to ibm cobol software development practices
+</DOC>
+<DOC>welcome to ibm cobol software development practices
 in the first of this we welcome everyone to the present the objectives and define other pertinent details
 introduction and objectives get familiar with the skytap lab environment
+</DOC>
 
-documenting your code
+<DOC>documenting your code
 in the second of the describe the critical task and function of documenting your cobol code by the end of this understand cobol as a selfdocumenting language define cobol documentation usage and audience and describe the need and process of documenting the undocumented in cobol
 introduction and objectives cobol as a selfdocumenting language cobol as a selfdocumenting language in your reading documentation usage and audience documentation usage and audience in your reading documenting the undocumented documenting the undocumented in your reading completed objectives
+</DOC>
 
-working with existing code
+<DOC>working with existing code
 in the third of the describe the process of working with existing cobol code by the end of this identify changes required in existing code decide how much to change and analyze existing code with modern tools
 introduction and objectives identify changes decide how much to change analyze existing code with modern tools completed objectives
+</DOC>
 
-quality assurance qa and technical support concepts
+<DOC>quality assurance qa and technical support concepts
 in the fourth of the describe cobol quality assurance qa and technical support concepts by the end of this be able to describe managing bugs explain cobol ticketing systems and list core cobol technical support concepts
 introduction and objectives managing bugs managing bugs in your reading ticketing systems ticketing systems in your reading technical support technical support in your reading completed objectives
+</DOC>
 
-technical project management
+<DOC>technical project management
 in the fifth of the describe cobol technical project management by the end of this be able to describe project management concepts related to the cobol sdlc identify agile and scrum project management concepts and list cobol project management core competencies
 introduction and objectives project management concepts project management concepts in your reading agile and scrum project management concepts agile and scrum project management concepts in your reading project management core competencies project management core competencies in your reading completed objectives
+</DOC>
 
-congratulations on completing ibm cobol software development practices
+<DOC>congratulations on completing ibm cobol software development practices
 will congratulate everyone for completing the present the completed objectives and define other pertinent details and next steps
 completed objectives group discussion
 </DOC>
-
 <DOC>
 ibm cobol data and file management
 welcome to ibm cobol data and file management by enrolling you are taking a big step in increasing your knowledge and hands on with ibm cobol data and file management the fundamental elements of cobol code the process of working with cobol data handling cobol files this also relational databases in a mainframe cobol context so lets get started
-
-welcome to ibm cobol data and file management
+</DOC>
+<DOC>welcome to ibm cobol data and file management
 in the first of this welcome everyone to the present the objectives and define other pertinent details
 introduction and objectives get familiar with the skytap lab environment
+</DOC>
 
-cobol data fundamentals
+<DOC>cobol data fundamentals
 in the second of the describe the fundamental elements of cobol code by the end of this identify cobol language elements and their usages within a define divisions within a cobol and their usagess and list common cobol commands
 introduction and objectives cobol language elements cobol language elements in your reading cobol programming structure cobol programming structure in your reading common cobol commands common cobol commands in your reading completed objectives
+</DOC>
 
-working with cobol data
+<DOC>working with cobol data
 in the third of the describe the process of working with cobol data by the end of this define vscode zowe components and mainframe extensions describe using cobol command line interface cli and describe jes and jcl for cobol data and file management
 introduction and objectives vscode zowe components and mainframe extensions vscode zowe components and mainframe extensions in your reading cobol command line interface cli cobol command line interface cli in your reading jes and jcl jes and jcl in your reading completed objectives
+</DOC>
 
-handling files in cobol
+<DOC>handling files in cobol
 in the fourth of the describe handling cobol files by the end of this be able to describe records explain blocks and list organization and storage concepts
 introduction and objectives records records in your reading blocks blocks in your reading organization and storage organization and storage in your reading completed objectives
+</DOC>
 
-working with relational databases and mainframe data
+<DOC>working with relational databases and mainframe data
 in the fifth of the describe relational databases in a cobol context by the end of this be able to describe the fundamentals of relational data define fundamental db topics and concepts list cobol data interfaces
 introduction and objectives fundamentals of relational data fundamentals of relational data in your reading fundamentals of db fundamentals of db in your reading cobol data interfaces cobol data interfaces in your reading completed objectives
+</DOC>
 
-congratulations on completing ibm cobol data and file management
+<DOC>congratulations on completing ibm cobol data and file management
 congratulate everyone for completing the present the completed objectives and define other pertinent details and next steps
 completed objectives group discussion
 </DOC>
-
 <DOC>
 ibm cobol core
 cobol is a programming language that serves a wide range of businesses key aspects of cobol are that it is scalable mature and selfdocumenting
 cobol core class discover more features of the language how to handle tables edit use switches numeric usage and structured cobol enjoy your ride through the world of cobol were excited to have you here and cant wait to get started
-
-numeric usage types editing and branching
+</DOC>
+<DOC>numeric usage types editing and branching
 in the first of this discuss numeric usage types editing and branching including defining compound and negated conditions describing four condition names to clarify and reduce coding using switches in a and describing numeric data types of display
 introduction introduction to skytap and system familiarization numeric usage types editing and branching editing and branching editing and branching
+</DOC>
 
-structured programming testing debugging and reports
+<DOC>structured programming testing debugging and reports
 in the second of this discuss structured programming testing debugging and reports including defining a calling and called describing types and components of reports listing steps for proper testing and strategies recognizing and correcting unstructured code describing the components of structured programming and creating readable and maintainable code
 structured cobol testing and beginning debugging cobol reports part cobol reports part how to call programs
+</DOC>
 
-table handling sorting and intrinsic functions
+<DOC>table handling sorting and intrinsic functions
 in the third of this discuss table handling sorting and intrinsic functions including listing six types of intrinsic functions describing the sortmerge process using three examples of sequential search and describing basic table terminology
 table handling part table handling part sort and merging intrinsic functions wrap up
 </DOC>
-

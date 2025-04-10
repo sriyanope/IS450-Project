@@ -10,66 +10,73 @@ to the aircraft design process and particularly the challenges arising during th
 <DOC>
 digitalisation in the aerospace industry
 the online digitalisation in aerospace aims at making you aware of special production requirements connected with digitalisation about the role of robotics and automation in manufacturing and gain a better understanding of differing perspectives on research and manufacturing as as the points where these intersect
-
-digitalisation and the future of the aerospace industry
+</DOC>
+<DOC>digitalisation and the future of the aerospace industry
 this unit is a brief introduction to the history of aerospace discussing the digital evolution of this research area from the earliest days up to the present lecturer professor manfred broy zentrum digitalisierungbayern
+</DOC>
 
-digitalisation in production
+<DOC>digitalisation in production
 the online unit digitalisation in production provides an initial insight into how digitalisation influences production it provides an of what digitalisation is before discussing four aspects of digitalisation and their concrete impact on production technology in addition to cyberphysical systems cps and digital twins assistance systems and robotics in production are examined in greater detail for all examples are given of how use of these technologies is already changing or will change production processes especially in the field of aerospace lecturers professor gunther reinhart technical university munich fraunhofer research institution professor klaus drechsler technical university munich fraunhofer research institution
 introduction cyberphysical systems digital twin assistance systems robotics conclusion
+</DOC>
 
-human factors requirements and challenges for humans teams and organizations
+<DOC>human factors requirements and challenges for humans teams and organizations
 workload is the amount of an individual has to perform actual amount of vs the individuals perception of workload has to be considered assessment of operator workload has a vital impact on the design of manmachine systems occupational or workrelated stress is the response humans may when presented with demands and pressures that are not matched to their knowledge and abilities and challenge their ability to cope potentially resulting in inefficiencies inadequate manmachine cooperation and human error avoiding workload imbalance and occupational stress increases efficiency reliability and the safety of complex systems supporting the attainment of mission objectives in the process the ways in which digitised companies operate will be changing radically the company of the future will use digital means to manage its central functions such as its organisational structure and value creation future leaders will need to understand not only their generation smartphone plusemployees but will also have to accept nonhuman factors such as ai algorithms and robots as part of a team in such a radically changed environment with teams incorporating human and artificial intelligence general mental models have to be developed for the workings of an organization the products of the future and the requirements of the market and customers lecturer professor harald schaub iabg ottobrunn ottofriedrichuniversity bamberg
 workload and humanfactors analysis the psychosocial implications of digitalisation the psychology of the future leader
+</DOC>
 
-managing maintenance repair and overhaul for civil aircraft
+<DOC>managing maintenance repair and overhaul for civil aircraft
 unit professor mendler presents on the individual steps in the approval process for new aircraft under european and international requirements as as on relevant maintenance processes and the impact of digitalisation area lecturer professor josef mendler iabg ottobrunn
 the world of certification covering camo the significance of testing concerning maintenance of aircraft the importance of supply chain within maintenance interaction of maintenance and product life cycle maintenance in the age of digitalisation
 </DOC>
-
 <DOC>
 digitalisation in space research
 this provides an of the most important digital applications in the field of aerospace research the instructors discuss how digitalisation is impacting and changing both satellitebased and manned spaceflight research one unit is specifically devoted to exploring the use of artificial intelligence in the evaluation of satellite data
-
-digital transformation in the space industry
+</DOC>
+<DOC>digital transformation in the space industry
 dr peter weckesser provides insights into digitalisation processes from the manufacturing perspective discussing approaches taken with the new digital workflows
 digital transformation which impact has digitalisation on your life what are the risks of digitalisation for aerospace research
+</DOC>
 
-space and digitisation changing paradigms and challenges
+<DOC>space and digitisation changing paradigms and challenges
 the digital revolution has an impact on many levels of space business and space technology the advent of new space is strongly connected to digitalisation a game changer challenging longstanding paradigms such as in spacecraft mission and system design this illustrates the innovative effects of digitalisation in various areas such as earth observation downstream services and mission and system design the also examines digitalisation challenges in the space sector including cyber threats and the sectors increasing strategic and commercial value lecturer professor roger frstner universitt der bundeswehr mnchen
 introductory words introduction space based products services development production operations risks threats
+</DOC>
 
-global navigation satellite systems gnss for efficient and flexible air navigation
+<DOC>global navigation satellite systems gnss for efficient and flexible air navigation
 civil aviation is a multitrilliondollar market projected to grow continuously until at least aircraft navigation and guidance from terminal to terminal is the determining cost factor for individual flights thus any savings resulting from the introduction of new digital technology will yield an extremely high return on investment due to economies of scale this outlines the specific navigation context before identifying where conventional navigation means flight routes are insufficient for achieving further increases in capacity flexibility and performance the concept of performancebased navigation pbn is outlined and why positioning needs to be available everywhere area navigation rnav the gnss basic positioning principle is described and the relatively frequent satellite failures and anomalies are explored which are the reason why standalone gnss cannot be used directly for a safetycritical application the concept of solution separation statistics combined with the use of multiple gnss constellations is introduced advanced receiver autonomous integrity monitoring araim which in the long term may replace conventional navigation technology the lecture concludes with a look at limiting factors the current planning of civil aviation authorities and the european gnss galileo project lecturer professor thomas pany universitt der bundeswehr mnchen
 civil aviation market classical and performance based navigation satellite navigation gnss a solution for everything relying on gnss current performance and way forward
+</DOC>
 
-digitisation in earth observation
+<DOC>digitisation in earth observation
 this online is about the advances made in earth observation eo over the last few years no other area of space applications has seen so much advancement in recent decadesthe objective of this is to explore the major trends in the collection storage distribution and analysis of remote sensing data the complementary data sources introduced in the include satellites highaltitude platforms hapss planes and unmanned aerial vehicles uavsthe european copernicus system is the worlds largest free and open monitoring system for environmental and security purposes it is cited throughout the as an example of the technological cutting edge presented together with a commercial case study cloudbased access archiving and processing technologies are introduced and discussed and basic terminology like daas saas and paas is explained in the specific context of eothe advent of artificial intelligence represents the dawn of a new era in data analysis aieo provides additional analysis tools beyond physical algorithms ai makes it possible to on extremely big data volumes and combine very different data types such as images and social media data lecturers professor xiaoxiang zhu dlr german aerospace center technical university munich professor volker liebig airbus ds university of stuttgart
 introduction of the lecturers learning objectives introduction data sources data archives access and processing services analysis aieo
 </DOC>
-
 <DOC>
 digitalisation in aeronautics
 the instructors of the online digitalisation in aeronautics present a spectrum of different aviation research and application areas exploring the impact of digitalisation specific field including the effects of digitalisation in simulating the interaction of aircraft components in overall aircraft development and related decisionmaking and in the communication channels used within aircraft a broad and varied range of applications and digital solutions are explored in detail in the individual of this
-
-digital strategy of bavaria
+</DOC>
+<DOC>digital strategy of bavaria
 bavarian state minister of digital affairs judith gerlach provides a brief introduction to the digital strategy of the state of bavaria describing the importance of digitalisation in global manufacturing and research and the aerospace industry in particular she demonstrates compellingly how an effective strategy can be devised for staying on top of the developments complex field of research
 bavarian minister for digitalization judith gerlach what influence has digitalisation on your how can we better handle digitalisation
+</DOC>
 
-collaborative aircraft design
+<DOC>collaborative aircraft design
 the online unit collaborative aircraft design provides an introduction to the aircraft design process it provides an of specifics in the design process focusing particularly on challenges in early production phases the unit explains how aircraft design modelling decisions are made illustrates usage of the tum adebo design tool box and looks at worksharing processes in aircraft development lecturer professor mirko hornung technical university munich bauhaus luftfahrt
 aircraft design process collaborative design aspects tum adebo
+</DOC>
 
-digital avionics networks
+<DOC>digital avionics networks
 the growing complexity of avionics systems and the associated high number of pointtopoint data connections have led to the introduction of digital networks in aerospace these serve to interconnect the system components installed in aircraftspacecraft and integrate subsystems into a higherlevel system enabling efficient onboard communication because of their key role such networks are subject to special requirements in addition to bandwidth failure resilience and interference are therefore of major importance the lecture addresses general requirements topologies and signal transmission types and explains bus systems currently in use such as arinc milstd and afdx lecturer dring peter sttz universitt der bundeswehr mnchen
 basics arinc milstd arinc afdx
+</DOC>
 
-modeling and simulation of aerospace systems with modelica
+<DOC>modeling and simulation of aerospace systems with modelica
 aircraft systems embrace a large set of physical domains hydraulic pneumatic and electrical systems all act within a confined space under extreme environmental conditions global optimisation of an aircraft including all of its systems thus demands a harmonised modelling approach so that all systems can be simulated and evaluated on a common platform modelica offers an open and free standard for multidomain modelling of physical systems individual components are modelled using differentialalgebraic equations while large complex systems can be composed using objectoriented methods the underlying principles of such modelling languages are explained lecture and how they can be applied for aircraft systems the resulting multidomain models afford digital representations of aircraft systems which can then be used to optimise aircraft design modern energy management methods can improve system performance while modelbased fault analysis methods help ensure safety and reliability lecturer dr dirk zimmer dlr german aerospace center
 introduction virtual aircraft simulation modeling of aerospace systems
+</DOC>
 
-digital models and their compression in structurecontrol interaction problems
+<DOC>digital models and their compression in structurecontrol interaction problems
 digital models for flexible aerospace system behaviour are often highorder and have to be reduced when used in combination with models from complementary disciplines or where many parametric iteration steps are required such as for design optimisation typical examples are controlstructure interaction problems such as vibration attenuation of satellite solar arrays and aeroelasticity and dynamic load alleviation of aircraft methods are discussed for realising a reduced order model rom from a higher order model to avoid multiple repetitions of oftencostly reduction processes in cases where model parameters are varied eg for system optimization model parameters should be set for these roms to yield socalled proms the effect of varied parameters can then be covered on the level of the previously established rom simply by updating these via the new relevant parameters the related methods are also called hard computing methods because of the mathematically based approach requiring a relatively wellstructured set of the initial fullorder systems of equations these methods can be applied to a multitude of aerospace problems such as vibration control for satellites in orbit and dynamic aeroelastic load alleviation for aircraft possibilities for reducing computational effort when using proms such as for design optimisation tasks for space structures are also discussed lecturer professor horst baier technical university munich
 part part part part part part part part part
 </DOC>
-

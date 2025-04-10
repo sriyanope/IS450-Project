@@ -10,84 +10,95 @@ for example use word to create a professionallooking resum analyze data and pres
 smarter with microsoft excel
 this is intended for learners with some using microsoft windows who are seeking to build presentation with microsoft excel to be successful you should have an understanding of the basics of using a windowsbased computer with printing and using a web browser are an asset but not required
 knowing how to use microsoft office products is essential in any setting whether you want to expand your expertise to apply for a new role start your own business or simply develop a new personal this is for you this will introduce you to microsofts powerful and easytouse spreadsheet which provides you with an extensive set of tools to organize analyze present and store data if you are familiar with excels basic features you can take your to the next level if you are a beginner get the to develop basic excel become comfortable with creating a new spreadsheet working with basic formulas and functions making your spreadsheets look and presentable and saving and printing a spreadsheet by the end of this be comfortable creating advanced formulas analyzing data with functions analyzing data using functions and pivottables working with tables visualizing data with charts working with graphical objects and enhancing workbooks this will help you prepare for exam mo microsoft excel excel and excel get to demonstrate the ability to create and edit a workbook with multiple sheets and use a graphic element to represent data visually also show that you can apply the correct application of the principal features of excel and complete tasks independently
-
-getting started with excel
+</DOC>
+<DOC>getting started with excel
 get started with some entrylevel basics in microsoft excel by getting to know excel what it does its interface and general layout and features get to start creating workbooks and working with data before exploring how to modify workbooks format data apply layout and prepare to print
 introduction to smarter with excel navigating this get to know excel create a workbook save and share a workbook get help in microsoft excel with data with rows and columns format text format cells align cell content search for and replace data spell check a worksheet define the basic page layout for a workbook refine the page layout and apply print options getting started with excel
-
-working with functions
-start working with excels core features functions and formulas how to implement and use formulas and functions with data in excel also how to use sorting and filtering tools and define data sets by applying range names finally explore an array of specialized text and logical functions that can boost your abilities in excel
-introduction working with functions a closer look at formulas and functions using formulas and functions sort and filter data add range names use range names in formulas function categories and syntax using specialized functions manage text with functions trim and case text functions join and transpose text functions logical functions and operators using logical functions with conditions working with functions
-
-organizing and visualizing data
-move on to how to organize and visualize data in excel all about tables and charts how to create format and modify them to store organize and display data in the way that you need also how to manage large workbooks finally be introduced to analyzing data using excels pivot tables and slicers
-introduction organizing and visualizing data create tables format tables modifying tables name tables and use structured references database functions and convert to range format worksheet tabs manage worksheets manage the view of worksheets and workbooks create charts modify and format charts advanced chart elements create a pivottable summarize data in a pivottable filtering data using slicers organizing and visualizing data
-
-advanced excel features
-have the to try out some of the advanced features that excel has to offer these include customizing formulas proofing and interface options as as applying conditional formatting how to customize manage enhance and automate large workbooks and how to export data and use data sources
-customize formula options customize proofing and save options customize the ribbon and quick access toolbar conditional formatting conditional formatting rules customize workbooks manage workbook properties export data use data sources advanced excel features wrap up smarter with microsoft excel
-
-honors handson practice using microsoft excel
-undertake a handson project with microsoft excel project use the knowledge and that youve gained from the previous by applying your spreadsheet to analyze and present sales data before reviewing and leaving comments
 </DOC>
 
+<DOC>working with functions
+start working with excels core features functions and formulas how to implement and use formulas and functions with data in excel also how to use sorting and filtering tools and define data sets by applying range names finally explore an array of specialized text and logical functions that can boost your abilities in excel
+introduction working with functions a closer look at formulas and functions using formulas and functions sort and filter data add range names use range names in formulas function categories and syntax using specialized functions manage text with functions trim and case text functions join and transpose text functions logical functions and operators using logical functions with conditions working with functions
+</DOC>
+
+<DOC>organizing and visualizing data
+move on to how to organize and visualize data in excel all about tables and charts how to create format and modify them to store organize and display data in the way that you need also how to manage large workbooks finally be introduced to analyzing data using excels pivot tables and slicers
+introduction organizing and visualizing data create tables format tables modifying tables name tables and use structured references database functions and convert to range format worksheet tabs manage worksheets manage the view of worksheets and workbooks create charts modify and format charts advanced chart elements create a pivottable summarize data in a pivottable filtering data using slicers organizing and visualizing data
+</DOC>
+
+<DOC>advanced excel features
+have the to try out some of the advanced features that excel has to offer these include customizing formulas proofing and interface options as as applying conditional formatting how to customize manage enhance and automate large workbooks and how to export data and use data sources
+customize formula options customize proofing and save options customize the ribbon and quick access toolbar conditional formatting conditional formatting rules customize workbooks manage workbook properties export data use data sources advanced excel features wrap up smarter with microsoft excel
+</DOC>
+
+<DOC>honors handson practice using microsoft excel
+undertake a handson project with microsoft excel project use the knowledge and that youve gained from the previous by applying your spreadsheet to analyze and present sales data before reviewing and leaving comments
+</DOC>
 <DOC>
 smarter with microsoft powerpoint
 this is intended for learners with some using microsoft windows who are seeking to build presentation with microsoft powerpoint to be successful you should have an understanding of the basics of using a windowsbased computer with printing and using a web browser are an asset but not required
 knowing how to use microsoft office products is essential in any setting whether you want to expand your expertise to apply for a new role start your own business or simply develop a new personal this is for you this is intended to help you get up to speed on many of the different features found in powerpoint and to become familiar with its more advanced selection of features how to create save and present a basic presentation
 apply the basics of formatting
 and add multimedia to a presentation if you are familiar with powerpoints basic features you can take your to the next level if you are a beginner get the to develop your presentation using powerpoint by the end of this you should be comfortable with customizing the powerpoint user interface customizing design templates implementing media and custom animations in a presentation using collaboration tools customizing slide shows in a number of different ways as as securing and distributing a presentation this will help you prepare for exam mo microsoft powerpoint powerpoint and powerpoint be able to demonstrate the ability to create and manage presentations insert and format shapes and slides create slide content apply transitions and animations and manage multiple presentations be able to apply the principal features of powerpoint and complete tasks independently
-
-getting started with powerpoint
+</DOC>
+<DOC>getting started with powerpoint
 get started with microsoft powerpoint by learning how to navigate the powerpoint environment creating and saving a powerpoint presentation using help and selecting a presentation type during the build a presentation and edit text
 introduction to smarter with powerpoint navigating this navigate the powerpoint environment using the ribbon working with slides and files create and save a powerpoint presentation use help select a presentation type build a presentation lay out a presentation edit text view and navigate a presentation getting started with powerpoint
-
-developing a presentation
-begin formatting with microsoft powerpoint edit and format characters paragraphs objects and text boxes add graphics and smartart to a presentation and apply animation and grouping to objects
-introduction advanced text editing format characters format paragraphs format text boxes insert images insert shapes insert wordart create smartart modify smartart change the look and feel of smartart edit objects format objects group objects arrange objects animate objects advanced text editing
-
-enhancing the appearance of a presentation
-enhance the appearance of a presentation using tables charts audio and also use animations and transitions
-introduction enhancing the appearance of a presentation create a table format a table insert a table from other microsoft office applications create a chart format a chart manipulate a chart insert a chart from microsoft excel add audio to a presentation add to a presentation customize animations timing groups and motion paths enhancing the appearance of a presentation
-
-preparing to deliver a presentation
-this focuses on the delivery of a presentation here review a presentation apply slide transitions print and deliver a presentation add comments create and manage sections annotate and set up a slide show finally use hyperlinks and action buttons and record a presentation
-introduction preparing to deliver a presentation review your presentation review compatibility and accessibility apply transitions print your presentation deliver your presentation add comments to a presentation review a presentation store and share presentations on the web manage a presentation create and manage sections modify slide masters and slide layouts add headers and footers modify the notes master and the handout master annotate a presentation set up a slide show create a custom slide show add hyperlinks and action buttons record a presentation preparing to deliver a presentation wrap up smarter with microsoft powerpoint
-
-honours handson practice using microsoft powerpoint
-have the to complete an optional honors for special recognition you are not required to complete this to get a but if you complete all honors in the your will include a special honors recognition
 </DOC>
 
+<DOC>developing a presentation
+begin formatting with microsoft powerpoint edit and format characters paragraphs objects and text boxes add graphics and smartart to a presentation and apply animation and grouping to objects
+introduction advanced text editing format characters format paragraphs format text boxes insert images insert shapes insert wordart create smartart modify smartart change the look and feel of smartart edit objects format objects group objects arrange objects animate objects advanced text editing
+</DOC>
+
+<DOC>enhancing the appearance of a presentation
+enhance the appearance of a presentation using tables charts audio and also use animations and transitions
+introduction enhancing the appearance of a presentation create a table format a table insert a table from other microsoft office applications create a chart format a chart manipulate a chart insert a chart from microsoft excel add audio to a presentation add to a presentation customize animations timing groups and motion paths enhancing the appearance of a presentation
+</DOC>
+
+<DOC>preparing to deliver a presentation
+this focuses on the delivery of a presentation here review a presentation apply slide transitions print and deliver a presentation add comments create and manage sections annotate and set up a slide show finally use hyperlinks and action buttons and record a presentation
+introduction preparing to deliver a presentation review your presentation review compatibility and accessibility apply transitions print your presentation deliver your presentation add comments to a presentation review a presentation store and share presentations on the web manage a presentation create and manage sections modify slide masters and slide layouts add headers and footers modify the notes master and the handout master annotate a presentation set up a slide show create a custom slide show add hyperlinks and action buttons record a presentation preparing to deliver a presentation wrap up smarter with microsoft powerpoint
+</DOC>
+
+<DOC>honours handson practice using microsoft powerpoint
+have the to complete an optional honors for special recognition you are not required to complete this to get a but if you complete all honors in the your will include a special honors recognition
+</DOC>
 <DOC>
 smarter with microsoft word
 this is intended for learners with some using microsoft windows who are seeking to build presentation with microsoft word to be successful you should have an understanding of the basics of using a windowsbased computer with printing and using a web browser are an asset but not required
 knowing how to use microsoft office products is essential in any setting whether you want to expand your expertise to apply for a new role start your own business or simply develop a new personal this is for you this will introduce you to microsoft become familiar with the apps and services included in an office subscription if you are familiar with words basic features you can take your to the next level if you are not familiar with microsoft products or are a beginner get the to develop basic word processing this covers the different features of the word interface shows you how to create a basic document and introduces you to words most important tools by the end of this you should be able to apply the necessary techniques to produce highquality documents also understand how to create complex documents using tables charts references and various types of illustrations this will help you prepare for exam mo microsoft word word and word this exam covers the ability to create and maintain professionallooking reports multicolumn newsletters rsums and business correspondence certification exam candidates are expected to demonstrate the correct application of the principal features of word and complete tasks independently get an to hone all these
-
-getting started with microsoft
+</DOC>
+<DOC>getting started with microsoft
 get started with microsoft by learning how to navigate your account explore the basics of the most used office applications and access microsoft services
 introduction microsoft fundamentals introduction smarter with microsoft word navigating this careers in microsoft about microsoft microsoft subscriptions microsoft faqs navigating your account finding help and changing settings using desktop office apps introduction to word introduction to excel introduction to powerpoint introduction to outlook optional introduction to access publisher and onenote optional introduction to microsoft teams introduction to onedrive add and organize files in onedrive collaborate using onedrive access items with delve share with delve getting started with microsoft word
-
-entrylevel getting started with word
-begin using the microsoft word application as part of this navigate a document use words editing tools and proof a document using proofing tools
-introduction getting started with word identify the components of the word interface create a word document create a document using a template help features use document views navigate and select text modify text find and replace text check spelling and grammar other proofing tools getting started with microsoft
-
-working with text tables and lists
-move on to more complex word tasks like formatting for text and paragraphs adding and editing tables and cells and also how to manage lists
-introduction working with text tables and lists apply character formatting align text using tabs display text as list items control paragraph layout apply borders and shading apply styles manage formatting insert a table modify a table format a table convert text to a table sort table data control cell layout sort a list renumber a list customize a list working with text tables and lists
-
-working with graphics
-this focuses on working with graphics in microsoft word as as adding graphics and using images in a document also how to create and format text boxes and pull quotes use shapes in a document and enhance your documents using wordart and complex illustrations
-introduction working with graphics insert symbols and special characters add images to a document resize an image adjust image appearance integrate pictures and text insert and format screenshots create text boxes and pull quotes format text boxes and pull quotes draw shapes modify shapes add wordart and other text effects create complex illustrations with smartart working with graphics
-
-finalizing a document
-explore the various features that you can use to finalize documents in microsoft word this includes a review of accessibility features how to set save options controlling text flow adding captions and references adding hyperlinks footnotes and endnotes and slightly more complex tasks such as adding citations a bibliography and a table of contents
-introduction finalizing a document check accessibility using accessibility features file formats and compatibility autosave and autorecover manage additional file types apply a page border and color add a watermark add headers and footers control page layout control paragraph flow insert section breaks insert columns link text boxes to control text flow add captions add crossreferences add bookmarks add hyperlinks insert footnotes and endnotes add citations insert a bibliography insert a table of contents finalizing a document
-
-collaborating on documents
-discover how to collaborate on documents with other team members look at how to share a document with comments and track changes and perform a document review
-introduction collaborating on documents modify user information share a document with comments compare document changes review a document merge document changes collaborating on documents wrap up smarter with microsoft word
-
-honors handson practice using microsoft word
-have the to complete an optional honors for special recognition an immersive practical session applying your word processing to a graded peerreview if you complete the honors your will include a special honors recognition
 </DOC>
 
+<DOC>entrylevel getting started with word
+begin using the microsoft word application as part of this navigate a document use words editing tools and proof a document using proofing tools
+introduction getting started with word identify the components of the word interface create a word document create a document using a template help features use document views navigate and select text modify text find and replace text check spelling and grammar other proofing tools getting started with microsoft
+</DOC>
+
+<DOC>working with text tables and lists
+move on to more complex word tasks like formatting for text and paragraphs adding and editing tables and cells and also how to manage lists
+introduction working with text tables and lists apply character formatting align text using tabs display text as list items control paragraph layout apply borders and shading apply styles manage formatting insert a table modify a table format a table convert text to a table sort table data control cell layout sort a list renumber a list customize a list working with text tables and lists
+</DOC>
+
+<DOC>working with graphics
+this focuses on working with graphics in microsoft word as as adding graphics and using images in a document also how to create and format text boxes and pull quotes use shapes in a document and enhance your documents using wordart and complex illustrations
+introduction working with graphics insert symbols and special characters add images to a document resize an image adjust image appearance integrate pictures and text insert and format screenshots create text boxes and pull quotes format text boxes and pull quotes draw shapes modify shapes add wordart and other text effects create complex illustrations with smartart working with graphics
+</DOC>
+
+<DOC>finalizing a document
+explore the various features that you can use to finalize documents in microsoft word this includes a review of accessibility features how to set save options controlling text flow adding captions and references adding hyperlinks footnotes and endnotes and slightly more complex tasks such as adding citations a bibliography and a table of contents
+introduction finalizing a document check accessibility using accessibility features file formats and compatibility autosave and autorecover manage additional file types apply a page border and color add a watermark add headers and footers control page layout control paragraph flow insert section breaks insert columns link text boxes to control text flow add captions add crossreferences add bookmarks add hyperlinks insert footnotes and endnotes add citations insert a bibliography insert a table of contents finalizing a document
+</DOC>
+
+<DOC>collaborating on documents
+discover how to collaborate on documents with other team members look at how to share a document with comments and track changes and perform a document review
+introduction collaborating on documents modify user information share a document with comments compare document changes review a document merge document changes collaborating on documents wrap up smarter with microsoft word
+</DOC>
+
+<DOC>honors handson practice using microsoft word
+have the to complete an optional honors for special recognition an immersive practical session applying your word processing to a graded peerreview if you complete the honors your will include a special honors recognition
+</DOC>

@@ -14,128 +14,140 @@ and identifying the beliefs that define learners morally and spiritually in thei
 <DOC>
 leading from within
 there is an important difference between leading from without and leading from within the way decisions are made those who lead from without make moral decisions based on external pressure or the opinions of others rather than on the basis of deeply held personal values and beliefs when they speak about moral issues they do so without authenticity and inspire doubt rather than confidence in their followers those who lead from within have deeply held personal values and beliefs and courageously make decisions based on those convictions they have a clear sense of purpose in their own lives and inspire a clear sense of purpose and direction in others this will provide tools and insights that will help you successfully lead from within at the personal organizational and societal levels
-
-the big questions in ethics
+</DOC>
+<DOC>the big questions in ethics
 first of the reflect on some of the big questions in ethics within the context of your leadership goals by the end of the you should be able to articulate a clearer guiding ideal of success in life when it comes to your and your personal goals activities weeks lessons ask you to ponder what your lifes purpose is throughout the be prompted to reflect on the question of whether or not ethics can be taught and whether or not motive matters in ethics you can also discover ways in which your intersects with your faith
 introduction up next can ethics be taught can ethics be taught up next does motive matter does motive matter up next are faith and integrated are faith and integrated up next how should success in life be measured how should success in life be measured points
+</DOC>
 
-the personal level of moral behavior
+<DOC>the personal level of moral behavior
 this weeks lessons cover several topics related to leadership and the personal level of moral behavior by the end of what it means to live in moral and spiritual alignment and identify the values and beliefs that define you morally and spiritually who you are and how those shape your exercise of leadership how you act also be able to appreciate the foundational importance of the four cardinal virtues prudence justice temperance and fortitude to effective leadership as the progresses gain insight into factors that undermine moral behavior through reflection and the about the milgram experiment also about different types of friendship the final lesson guides you in the development of a systematic approach to resolving moral dilemmas how you decide and tests your knowledge of all that was covered in
 introduction up next the pillars of moral character the pillars of moral character up next living in moral alignment living in moral alignment up next obedience vs conscience obedience vs conscience up next the meaning and importance of true friendship the meaning and importance of true friendship up next spiritual leadership spiritual leadership up next how to decide whats right approaches to moral decision making looking back at
+</DOC>
 
-ethical leadership at the organizational level
+<DOC>ethical leadership at the organizational level
 seven lessons relevant to leadership at the organizational level some of the lessons have to do with leadership itself and some have to do with organizational life begin by articulating your leadership point of view and then reflect on how to cultivate a reputation for ethical leadership then consider the notre dame ideal of being a leader who is tender strong and true having already pondered your purpose as a leader then ponder the overriding purpose of business itself next consider the choice leaders face between taking an ethically minimalist compliancebased approach to ethics management or a more aspirational integrity or valuesbased approach finally both the four main drivers of moral behavior that lead people to do the right thing as as the seven deadly sins which represent persistent tendencies to do the wrong thing and harm individuals and relationships in the process
 introduction articulating your leadership point of view up next is being an ethical person enough to be seen as an ethical leader is being an ethical person enough to be seen as an ethical leader up next the notre dame ideal of leadership the heart of true leadership at notre dame the notre dame ideal of leadership up next the purpose of business reconsidered the purpose of business reconsidered up next the high road to ethics management the high road to ethics management up next the four components the drivers of moral behavior the four components theory the drivers of moral behavior up next the seven deadly sins in the workplace the seven deadly sins in the workplace of
+</DOC>
 
-ethical issues at the societal level
+<DOC>ethical issues at the societal level
 business leaders are increasingly pressed to take stances on pressing social issues like racial justice gender equity climate change a living wage and gun control will introduce concepts that will help those who want to lead from within to develop a thoughtful point of view on social issues by reflecting on the following topics human nature the distribution of benefits and burdens in society catholic social teaching the un sustainable development goals resolving pressing social issues resolving crosscultural ethical dilemmas and the role of solitude in effective leadership
 introduction up next competing views of human nature and society competing views of human nature and society up next how should benefits and burdens in society be distributed how should benefits and burdens in society be distributed up next the principles of catholic social teaching the principles of catholic social teaching up next a blueprint for the prosperity of businessinsocietyinnature a blueprint for the prosperity of businessinsocietyinnature up next resolving crosscultural ethical dilemmas resolving crosscultural ethical dilemmas up next solitude at the heart of effective leadership solitude at the heart of effective leadership part solitude at the heart of effective leadership part of congratulations
 </DOC>
-
 <DOC>
 ethics of communication
 welcome to ethics of communication geared toward working professionals in both the corporate and nonprofit sectors ethics of communication covers key topics in the modern world of business areas of focus include an indepth examination of the ethical dimensions of communication selfexamination of individual conflict styles and preferences and crisis management scenario analysis and strategy develop and enhance related to these concepts through lectures conducted by notre dame professor dr amanda g mckendree written communication exercises selfreflection peergraded and a variety of
-
-foundations of communication ethics
+</DOC>
+<DOC>foundations of communication ethics
 begin to how to adopt a communication ethics literacy mindset and address the question what is communication ethics be guided through a selfanalysis of your own values through lectures activities and peergraded exercises also to use communication ethics terminology
 welcome to the introduction to communication ethics johnson johnsons credo communication ethics in action communication ethics literacyoverview of communication ethics definitions barneys new york a case of shop and frisk review
+</DOC>
 
-the ethics of listening
+<DOC>the ethics of listening
 is structured according to three learning objectives the first objective will encourage you to reflect on your own values related to listening in personal and settings through summative reflection the second learning objective will guide you through distinguishing between different listening types through a summative reflection the third learning objective asks you to create an action plan for improving your listening through a peer discussion
 the ethics of listening of active listening five types of listening improving your listening habits active listening and reflection
+</DOC>
 
-conflict communication
+<DOC>conflict communication
 has three primary components assessing organizationalprofessional communication in conflict scenarios considering your own preferred style of conflict communication and planning strategic communication responses including using appropriate tools to respond
 conflict communication components and causes of conflict five modes of conflict analyzing and responding to conflict reflection conflict and ethical communication
+</DOC>
 
-crisis communication
+<DOC>crisis communication
 this weeks topics explore the dynamics of managing a crisis in a digital communication era with an integrated crisis communication framework examine major scholars and crisis resources and document your understanding of crisis communication ethics through a crisis scenario response explore the major concepts and theories of crisis communication identify best practices for creating crisis messages and articulate the meaning and practice of communication ethics for crisis events there will be one cumulative peergraded to assess your knowledge of all the learning objectives while completing this apply crisis concepts and devise strategies for communicating with various stakeholders acquiring these new interpretation will strengthen your responses to crisis scenarios and reinforce your understanding of the crisis planning and managing phases as additionally about the primary components and definitions of crisis and differentiate between risk problem disaster and paracrisis use your new interpretation to shape responses to crisis scenarios using technology tools
 crisis communication defining crisis a crisis communication framework crisis communication messaging crisis communication plan crisis communication ethics communication ethics looking back and ahead
 </DOC>
-
 <DOC>
 ethics of technology
 this explores the ethical implications of data analytics it connects old ideas privacy surveillance power justice accountability corporate responsibility stakeholder theory with new technologies and cases such as the use of machine learning to predict crime the will prepare you to evaluate strategic arguments about the ethics of data analytics and to relate data analytics to ethical concepts so that you approach newer ambiguous capabilities of technology and artificial intelligence with a critical eye
-
-technological bias and critical theories
+</DOC>
+<DOC>technological bias and critical theories
 welcome to of the participate in a variety of learning so that you can begin framing your awareness of the biases inherent in technology first view a welcome from your instructor then your instructor will introduce you to this weeks topic review two case studies complete two practice quizzes and view your instructors analyses of the two case studies finally wrap up the by completing one multiplechoice quiz and one reflective quiz so that you can apply the ethical theories you about to morally evaluate technology biases or preferences
 welcome to the technological biases analysis of the secret bias hidden in mortgageapproval algorithms ethical theories and technology analysis of amazon is using algorithms with little human intervention to fire flex workers
+</DOC>
 
-privacy and surveillance
+<DOC>privacy and surveillance
 welcome to of the examine theories of privacy and surveillance also be given an to reflect upon how the design of technology contributes to violations of privacy and surveillance
 theories of privacy analysis of theres a multibilliondollar market for your phones location data theories of surveillance analysis of theres a multibilliondollar market for your phones location data
+</DOC>
 
-discrimination and fairness
+<DOC>discrimination and fairness
 welcome to of the when an ai decides if you are employable can it discriminate examine different theories of discrimination and fairness in data analytics artificial intelligence and machine learning also review cases that depict how technology can discriminate so that you can consider how the technology design can impact and treat people differently
 technology and discrimination analysis of amazon scraps secret ai recruiting tool that showed bias against women fairness and justice the compas case analysis of machine bias
+</DOC>
 
-measuring accuracy and offering contestability
+<DOC>measuring accuracy and offering contestability
 welcome to of the one of the primary purposes of technology design is to solve problems so take a moment to consider a few global issues or problems that you would like to see resolved do other people share your interest in these issues what role could technology play in solving these problems how could the achieved by a technological intervention to solve these problems be accurately measured delve into the heart of these issues by examining how technology can make mistakes and how we can think of holding people accountable for technology
 artificial intelligence and mistakes analysis of pascos sheriff uses grades and abuse histories to label schoolchildren potential criminals contestability and ethical artificial intelligence analysis of cheatingdetection companies made millions during the pandemic now students are fighting back conclusion and wrapup
 </DOC>
-
 <DOC>
 the discipline of leadership
 because it is likely you either want to improve your leader effectiveness or you may want to increase the number of leadership you have this will focus on outlining the factors that predict leader emergence whether someone will emerge as a leader and leader effectiveness because those predictors are numerous this will be broken down into three distinct parts who one is as a leader evaluating leadersleadership and applying to your own personalitytraitscharacter
 what ones knowledge and abilities should be ksaos
 and how leaders should approach and resolve problems when in a position of leadership leadership develops over time and can be aided by repetition feedback and selfreflection unfortunately no one can teach you how to lead my goal as your professor is to give you the tools that will enable you to teach yourselves how to be better leaders
-
-leader emergence and effectiveness
+</DOC>
+<DOC>leader emergence and effectiveness
 this will cover key concepts related to personality leadership traits and character that can help develop your capacity as an ethical leader as we begin to develop your knowledge of leadership the k in ksaosknowledge abilities other through lectures and selfassessments about predictors of leader emergence and leader effectiveness these concepts include the big openness to conscientiousness extraversion agreeableness and neuroticism affect and mindset finally that although your personality traits and character might be one way right now these are also changeable
 welcome to the leader emergence and effectiveness personality and leadership affect and leadership we can become better leaders
+</DOC>
 
-ksaos knowledge abilities other
+<DOC>ksaos knowledge abilities other
 while started to build your knowledge the k in ksaos goes in more depth to add to your knowledge while also covering key and abilities the sas in ksaos that impact leadership specifically cover key leadership behaviors including consideration initiating structure and transformational leadership this weeks lessons also go over the importance of trust and how to increase the likelihood that you behave in ways that show others you are worthy of their trust in the second lesson put the content that you have learned thus far together to help guide you through critical thinking about the discipline of leadership specifically get to respond to a challenging leadership situation together these elements contribute to your development as an ethical leader
 introduction to consideration and initiating structure transformational leadership its about trust bring it together
+</DOC>
 
-common situations in which leaders find themselves
+<DOC>common situations in which leaders find themselves
 covers common leadership situations and includes learning fundamental negotiation basics and change management principles including effective influence tactics also review essential insights to help you respond effectively to emotionally charged conversations learners should leave understanding that leaders need a broad array of knowledge to identify and effectively implement optimal strategies for the situations leaders face at this insight is key to developing as an ethical leader
 negotiation basics negotiation debrief managing change emotionally charged conversations are you a good follower
+</DOC>
 
-putting it all together
+<DOC>putting it all together
 the final addresses the other factors that can impact the extent to which you are able to execute the leadership lessons weve covered so far the o in ksaos although situational factors are discussed less frequently in the context of leadership they nonetheless play an important role in leadership effectiveness ethical leaders are able to effectively address these situational factors to deliver optimal results
 situational factors wrapup
 </DOC>
-
 <DOC>
 why business what is the role of business in a just and humane society
 the examines the common perceptions of business both positive and negative and the role of business in a market economy by first introducing the main elements of a market economy and then presenting opposing points of view of this economic modelthe encourages reflection upon the possibility that business can be honorable and play a role in a just and humane society
-
-justice in a commercial society
+</DOC>
+<DOC>justice in a commercial society
 many people are suspicious of business should they be can business be honorable is business required to give back to society these are some of the questions consider during this first of the i will introduce you to common perceptions of business negative and positive and encourage you to reflect upon the possibility that business can be honorable and play a role in a just and humane society
 welcome to the justice in a commercial society adam smith on justice and beneficence adam smiths explanation of the wealth of nations part adam smiths explanation of the wealth of nations part pope st john paul ii on the nobility of recap of justice in a commercial society
+</DOC>
 
-value broken windows and prices
+<DOC>value broken windows and prices
 can everything be priced in a market where do prices come from and what do they do second of the examine what prices do about what they are for and consider whether or not markets can price everything
 introduction to value broken windows and prices bastiats what is seen and what is unseen hayek on rational economic order and prices sandel can markets price everything recap of value broken windows and prices
+</DOC>
 
-objections to markets
+<DOC>objections to markets
 what are the most important worries about or objections to market economies can markets be moral in consider the social responsibilities of business also consider criticisms of markets and arguments for government intervention in the economy
 introduction to objections to markets two moral objections from karl marx g a cohens camping trip a recent case for socialism cohen on luck and equality of recap of objections to markets and capitalism
+</DOC>
 
-why business
+<DOC>why business
 can one be fully moral and at the same time engage in business in a market economy can one express ones moral values and live a virtuous life in business in come full circle to address the essential question of the why business reflect on the role of business in a just and humane society also consider the role of business from your own perspective and have a chance to examine question your own moral obligations as a person engaged in or with business
 introduction to why business andrew carnegie on the duties of wealth milton friedman on the social responsibility of business pope francis on economic exclusion recap of why business closing
 </DOC>
-
 <DOC>
 leadership for an increasingly diverse world
 geared toward working professionals in both the corporate and nonprofit sectors leadership for an increasingly diverse world takes leaders from being passively engaged to being actively engaged in the fight for diversity inclusion equity and justice to lead effectively in the st century workplace and beyond requires cultivating a more connected more diverse more inclusive and more globally reflective organizational culture this will help leaders embody a diversity inclusion equity and justice mindset so that they can adapt and respond to a rapidly changing increasingly diverse and globally connected world
-
-discovering yourself as a diverse leader
+</DOC>
+<DOC>discovering yourself as a diverse leader
 welcome to of the the goal of is to help you rediscover the curiosity you had at the age of and to about yourself and others to achieve that goal be guided to unpack diversity from both a conceptual and an existential framework a series of lectures learning activities and reflective exercises will help you unravel all the ways you are diverse then use this selfawareness to analyze how your personal diversity influences your actions and behaviors in the leadership contexts in which you serve before diving into the content and learning activities please view the welcome from your instructor and then complete a short preassessment quiz to gauge what diversity inclusion equity and justice mean to you
 welcome to the introduction to the aha diversity moments and youwhat leaders with a diversity mindset bring to the world the roadmap to personal and diversity the influence of personal identity on identity behavior policy and procedure recap of discovering yourself as a diverse leader
+</DOC>
 
-discovering yourself as an inclusive leader
+<DOC>discovering yourself as an inclusive leader
 now that you have discovered what diversity looks like in yourself and in others how do you integrate those identities this will help you evolve as a more inclusive leader how to utilize what you know about diversity to elevate and celebrate yourself and others in personal and environments
 introduction to discovering yourself as an inclusive leaderthinking through what inclusion looks like the essential qualities that distinguish inclusive leaders how to embody the qualities of an inclusive leader recap of discovering yourself as an inclusive leader
+</DOC>
 
-discovering yourself as an equity leader
+<DOC>discovering yourself as an equity leader
 congratulations on completing the first half of the you have examined the vital role of diversity and inclusion in ethical leadership you have also reflected on your own personal and with diversity and equity your learning will help you build upon the foundation of diversity and inclusion in the workplace as an equity leader
 introduction to discovering yourself as an equity leaderthinking through what equity looks like essential practices for equity leadership how to implement the practices of equity leadership recap of discovering yourself as an equitable leader
+</DOC>
 
-becoming a justiceseeking leader
+<DOC>becoming a justiceseeking leader
 this is it you have reached the final of the where knit together everything you have learned about diversity inclusion and equity so that you can emerge as a justiceseeking leader this capstone will help you design your role as a justiceseeking leader by examining justiceseeking workplace practices exploring the unique qualities of justiceseeking leaders and wrapping up the with your own justiceseeking audit
 introduction to the roadmap to justiceseeking leadershipreviewing the roadmap to justiceseeking leadership what does a justiceseeking leader look like how to critique justice in organizational settings recap of discovering yourself as a justiceseeking leader conclusion and wrapup
 </DOC>
-

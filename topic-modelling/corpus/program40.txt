@@ -12,86 +12,94 @@ and analyze design and code a blockchainbased solution for decentralized applica
 smart contracts
 this second of the blockchain will help you design code deploy and execute a smart contract the computational element of the blockchain technology smart contracts allow for implementing userdefined operations of arbitrary complexity that are not possible through plain cryptocurrency protocols they allow users to implement conditions rules and policies of the domain applications smart contracts are a powerful feature that when properly designed and coded can result in autonomous efficient and transparent systems
 design and smart contracts in solidity language test and deploy them in the remix development environment and invoke them from a simple web interface that remix provides this features best practices for designing solutions with smart contracts using solidity and remix ide main concepts are delivered through demos and handson exercises
-
-smart contract basics
+</DOC>
+<DOC>smart contract basics
 the purpose of this is to introduce the reasons for a smart contract and its critical role in transforming blockchain technology from enabling decentralized systems explore the structure and basic concepts of a smart contract through examples and illustrate remix remixethereumorg web ide for deploying and interacting with a smart contract
 smart contract basics why smart contracts smart contracts defined part remix ide and greeter demos smart contracts defined part simple storage demo processing smart contracts compile artifacts demo deploying smart contracts
+</DOC>
 
-solidity
+<DOC>solidity
 our goal is to master the basics of solidity a highlevel language that is a combination of javascript java and c it is specially designed to write smart contracts and to target the ethereum virtual machine learners will be able to follow demonstrations and practice using solidity
 solidity structure basic data types statements bidder data functions demos specific data types part coin demo specific data types part coin demo cont data structures part ballotv demo data structures part statetransv demo access modifiers applications
+</DOC>
 
-putting it all together
+<DOC>putting it all together
 this focuses on the development of the ballot smart contract incrementally to illustrate various features including time dependencies validation outside the function code using access modifiers asserts and require declarations and event logging
 putting it all together developing smart contracts time elements part time elements part ballotv demo time elements part validation test part ballotv demo validation test part ballotv demo client applications practitioners perspective shared rules trust
+</DOC>
 
-best practices
+<DOC>best practices
 this will focus on best practices including evaluating whether a blockchainbased solution is suitable for your problem designing solidity smart contracts and those relating to remix ide
 best practices evaluating smart contracts designing smart contracts remix web ide
 </DOC>
-
 <DOC>
 blockchain platforms
 this fourth of the blockchain provides learners with an understanding of the broader blockchain ecosystem learners are introduced to other blockchain platforms details of two decentralized application use cases and challenges such as privacy and scalability they are prepared to discuss permissioned blockchain architectures of hyperledger and microsoft azures blockchain as a service model and analyze the augur and grid decentralized application platforms material includes emerging alternative decentralization models such as ipfs and hashgraph challenges in broader blockchain adoption and continuous improvement solutions
-
-permissioned blockchains
+</DOC>
+<DOC>permissioned blockchains
 explore the contributions of two major technology organizations the linux foundations hyperledger fabric and microsoft azures blockchain as a service
 intro permissioned blockchains hyperledger part hyperledger part fabric services fabric model functions part fabric model functions part composer composer demo part composer demo part composer demo part microsoft azure
+</DOC>
 
-decentralized applications platforms
+<DOC>decentralized applications platforms
 explore two dapps augur and grid which are both implemented on ethereum you too can be a participant in these dapps platforms if you wish to do so
 intro decentralized application platforms augur part augur part grid part grid part
+</DOC>
 
-challenges solutions
+<DOC>challenges solutions
 explore just a few of the important challenges and solutions that are continuously innovating blockchain
 introduction challenges solutions consensus scalability privacy confidentiality escrow multisig
+</DOC>
 
-alternative decentralized solutions
+<DOC>alternative decentralized solutions
 explore the interplanetary file system ipfs that aims to address the decentralized data storage problem and hashgraph which aims to solve the decentralized trust problem
 intro alternative decentralized solutions interplanetary file system part interplanetary file system part interplanetary file system demo hashgraph part hashgraph part blockchain social imperative practitioners perspective market adoption
 </DOC>
-
 <DOC>
 decentralized applications dapps
 this third of the blockchain prepares you to design and develop endtoend decentralized applications dapps which provide anyone with access to the blockchains features and services use truffle ide smart contracts a simple web client and a metamask client about the architecture of a dapp the frontend client interface backed by the blockchain and smart contracts the covers the basic design of a dapp truffle development process and commands init develop test and migrate testdriven development of dapp dapp application models and emerging standards that are essential for predictable dapp behavior
 main concepts are delivered through demos and handson exercises
-
-decentralized applications dapps
+</DOC>
+<DOC>decentralized applications dapps
 explore the notion of the blockchain server as the foundation for a decentralized application demonstrate how to install the blockchain server and establish a peertopeer network of nodes it is a common practice to develop and test a dapp on a local test network before deploying it on a public network
 decentralized applications dapps blockchain server dapp defined ethereum apis practitioners perspective public network architecture
+</DOC>
 
-truffle development
+<DOC>truffle development
 explore the userfriendly environment that truffle provides for developing and testing a dapp explore further the truffle commands such as develop init compile migrate test all with truffle in front of them and with any parameters this will illustrate the steps needed in developing and testing a complete dapp
 truffle development truffle ide part truffle ide part compile demo truffle ide part migration demo testdriven development part test demo testdriven development part negative test demo web interface testing part frontend demo web interface testing part metamask demo web interface testing part metamask demo cont
+</DOC>
 
-design improvements
+<DOC>design improvements
 discuss a few of the many best practices exclusive to smart contracts and dapps that will improve your basic dapp design
 design improvements solidity features part design improvements solidity features part event handling part event handling part coin demo oraclize
+</DOC>
 
-application models standards
+<DOC>application models standards
 discuss ethereum improvement proposal and the erc process that are essential for keeping ethereum blockchain updated also explore the standard erc for token dapps and erc for nonfungible tokens
 application models standards dapp models part dapp models part dapp standards part dapp standards part
 </DOC>
-
 <DOC>
 blockchain basics
 this first of the blockchain provides a broad of the essential concepts of blockchain technology by initially exploring the bitcoin protocol followed by the ethereum protocol to lay the foundation necessary for developing applications and programming be equipped with the knowledge needed to create nodes on your personal ethereum blockchain create accounts unlock accounts mine transact transfer ethers and check balances
 about the decentralized peertopeer network an immutable distributed ledger and the trust model that defines a blockchain this enables you to explain basic components of a blockchain transaction block block header and the chain its operations verification validation and consensus model underlying algorithms and essentials of trust hard fork and soft fork content includes the hashing and cryptography foundations indispensable to blockchain programming which is the focus of two subsequent courses smart contracts and decentralized applications dapps on a virtual machine image specifically created for this to build an ethereum test chain and operate on the chain this handson activity will help you understand the workings of a blockchain its transactions blocks and mining main concepts are delivered through demos and handson exercises
-
-blockchain defined
+</DOC>
+<DOC>blockchain defined
 introduce and define blockchain explain the structure and operational aspects of bitcoin blockchain and compare different types of blockchains
 practitioners perspective john wolpert consensys blockchain defined bitcoin blockchain blockchain structure basic operations beyond bitcoin
+</DOC>
 
-ethereum blockchain
+<DOC>ethereum blockchain
 discuss the innovation of the ethereum blockchain review its protocol and explore the payment model for code execution
 ethereum blockchain smart contracts practitioners perspective the enterprise ethereum structure ethereum operations incentive model
+</DOC>
 
-algorithms techniques
+<DOC>algorithms techniques
 discuss the concept of asymmetric key encryption define the concept of hashing and explain techniques that use algorithms to manage the integrity of transactions and blocks in blockchain
 algorithms techniques publickey cryptography hashing transaction integrity securing blockchain
+</DOC>
 
-trust essentials
+<DOC>trust essentials
 define elements of trust in blockchain and discuss the consensus protocol
 trust essentials decentralized systems consensus protocol practitioners perspective decentralized governance robustness forks
 </DOC>
-

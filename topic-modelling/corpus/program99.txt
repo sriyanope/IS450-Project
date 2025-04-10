@@ -9,109 +9,121 @@ by the end of this be able to generate powerful reports and dashboards that will
 creating dashboards and storytelling with tableau
 leveraging the visualizations you created in the previous visual analytics with tableau create dashboards that help you identify the story within your data and discover how to use storypoints to create a powerful story to leave a lasting impression with your audience
 balance the goals of your stakeholders with the needs of your endusers and be able to structure and organize your story for maximum impact throughout the apply more advanced functions within tableau such as hierarchies actions and parameters to guide user interactions for your final project create a compelling narrative to be delivered in a meeting as a static report or in an interactive display online
-
-planning and preproduction aligning your audience stakeholders and data
+</DOC>
+<DOC>planning and preproduction aligning your audience stakeholders and data
 welcome to the first of this in the following and with concepts tips and techniques to help you explore data identify meaningful findings and then explain them through the power of data visualization and storytelling be able to determine the who what why and how of the story and discover the importance of planning before you start be able to interview your stakeholders and assess your audience to find the right story in the data by the end of this be able to define what a story is and build a basic framework for presenting your story lets get started
 introduction what is a story introduction to planning and preproduction for visualizations a design checklist of the who what why and how start with your stakeholders addressing your audience and their context finding the story prioritizing optimizing and designing the data story case study the tale of entrepreneurs part case study the tale of entrepreneurs part case study the tale of entrepreneurs part
+</DOC>
 
-key metrics indicators and decision triggers
+<DOC>key metrics indicators and decision triggers
 welcome to identify the key metrics that will provide the answers to your business question develop an understanding of the types of ways kpis can be visualized create calculated fields for kpis to build a figure that will be used to measure progress in the data by the end of this you should be able to set thresholds and create alerts to trigger a decision also discuss the topic of quality and constraints of the data
 introduction to key metrics indicators and decision triggers key performance indicators kpis tableau calculated fields and kpis creating complex kpis using tableau thresholds and alerts data quality
+</DOC>
 
-dashboard and storytelling with data
+<DOC>dashboard and storytelling with data
 welcome to go from learning tableaus six best practices for dashboard design by the end of this you should be able to apply hierarchies actions filters and parameters within tableau also review five associated with the topic and discover how to uncover the story in the data and be able to frame your story
 best practices for dashboard design dashboard design principles dashboard design principles hierarchies actions filters and parameters parts hierarchies actions filters and parameters part hierarchies actions filters and parameters part important considerations for creating dashboards
+</DOC>
 
-tell the story of your data
+<DOC>tell the story of your data
 welcome to although this focuses on tableau look at a wider range of examples and techniques to help you become a better data storyteller by the end of this you should be able to leverage concepts and techniques designed to help you become a more focused and compelling storyteller with data as the foundation discuss ways to avoid unintentionally creating false narratives with good data also about what neuroscience research tells us about stories audience engagement and decision drivers use structural story elements to help improve the relatability of the story and explore ways design and textual elements can affect the emotional tone of a story lastly how to frame and format the data story based on your design checklist lets get started
 tell the story of your data introduction the art of storytelling past present and future storytelling and the human brain bringing data to life emotions and data storytelling emotion modulators color language and other design elements framing and format framing conventions and priming false narratives and data storytelling telling the stories within the story part telling the stories within the story part story considerations preparation of the story points setting up the story creating points in the story interactive story create a data story in a static presentation
 </DOC>
-
 <DOC>
 visual analytics with tableau
 third of the drill deeper into the tools tableau offers in the areas of charting dates table calculations and mapping explore the best choices for charts based on the type of data you are using look at specific types of charts including scatter plots gantt charts histograms bullet charts and several others and address charting guidelines define discrete and continuous dates and examine when to use each one to explain your data how to create custom and quick table calculations and how to create parameters also introduce mapping and explore how tableau can use different types of geographic data how to connect to multiple data sources and how to create custom maps
-
-getting started and charting
+</DOC>
+<DOC>getting started and charting
 explore the topic of charting in tableau by now you should already be versed in how to change colors shapes and sizes of charts so we are going to practice and demonstrate that more be able to explain what the tableau tooltip does and when to use it be able to discuss the various guidelines for choosing the right chart for your data also create a chart using tableau
 visual analytics with tableau introduction introduction to charting tableau charts colors shapes and sizes dual line charts tableau tooltip charting guidelines bar charts line graphs pie charts charting guidelines maps scatter plots gantt charts bubble charts charting guidelines histograms bullet charts heat maps and highlight tables charting guidelines treemaps and boxandwhisker plots
+</DOC>
 
-dates
+<DOC>dates
 this highlights the important topic of dates within tableau be able to differentiate between discrete and continuous dates and when to use each be able to use date hierarchies and use the date field to better customize your charts be able to convert between discrete and continuous dates and know when and why you want to switch from one to the other create dates using calculated fields
 introduction to dates discrete vs continuous dates date hierarchies converting discrete and continuous dates tableau calculated fields
+</DOC>
 
-table calculations
+<DOC>table calculations
 focus on table calculations be able to create new calculated fields to allow you to compare fields apply aggregations and more be able use quick table calculations and create new calculated fields be able to customize them and apply filters and parameters to your table calculations
 introduction to table calculations calculated fields quick table calculations custom table calculations filters parameters
+</DOC>
 
-mapping
+<DOC>mapping
 final go more in depths about maps within tableau be able to connect to a different data sources and customize your maps by changing colors shapes and sizes be able to custom geocode a map and create tableau maps with geographic data that is not recognized by tableau also be able to create dual layer maps and showcase how to overlay maps on top of one another
 introduction to mapping working with geographic data shapes colors and sizes custom mapping techniques custom geocoding dual layer mapping
 </DOC>
-
 <DOC>
 fundamentals of visualization with tableau
 first of this discover what data visualization is and how we can use it to better see and understand data using tableau examine the fundamental concepts of data visualization and explore the tableau interface identifying and applying the various tools tableau has to offer by the end of the be able to prepare and import data into tableau and explain the relationship between data analytics and data visualization this is designed for the learner who has never used tableau before or who may need a refresher or want to explore tableau in more depth no prior technical or analytical background is required the will guide you through the steps necessary to create your first visualization from the beginning based on data context setting the stage for you to advance to the next in the
-
-data visualization and its importance
+</DOC>
+<DOC>data visualization and its importance
 be able to define what data visualization is and discuss why its so important listen to an interview with dr ben shneiderman a modern pioneer of data visualization be able to define interactive visualization and install tableau public so you can start to get acquainted with it for the next be able to make a simple viz so you can clearly see what are used in the process
 introduction introduction what is data visualization and why do we do it introduction to dr ben schneiderman interview tools for visualizing data how do we make a data visualization installing tableau public
+</DOC>
 
-getting to know tableau for data visualization
+<DOC>getting to know tableau for data visualization
 be able to identify and describe the various parts that make up the welcome screen worksheet screen and dashboard screen
 introduction getting to know tableau a quick tour of tableaus welcome screen anatomy of a tableau worksheet part anatomy of a tableau worksheet part anatomy of the tableau dashboard screen importing data into tableau
+</DOC>
 
-lets make a viz
+<DOC>lets make a viz
 be able to identify potential questions to answer with a given dataset be able to make three different charts a line chart a tree map and a bar chart be able to create a dashboard with those charts and be able to add some simple dashboard interactions
 introduction lets make a viz what questions are we trying to answer from a wall of numbers to a visualization make a bar chart trends over time make a line chart more data exploration make a treemap bringing it all together make a dashboard and add some interactions
+</DOC>
 
-tableau community projects and visualization best practices
+<DOC>tableau community projects and visualization best practices
 be able to discuss where to get help also be able to discuss where to go for inspiration and how to get involved in the tableau community if you are up for the challenge also have the option to obtain an honor badge by applying five data visualization best practices and participate in a makeovermonday peer reviewed project good luck
 introduction getting involved community project data visualization best practices peer review
 </DOC>
-
 <DOC>
 data visualization with tableau project
 projectbased follow your own interests to create a portfolio worthy singleframe viz or multiframe data story that will be shared on tableau public use all the taught to complete this project stepbystep with guidance from your instructors along the way first create a project proposal to identify your goals for the project including the question you wish to answer or explore with data then find data that will provide the information you are seeking then import that data into tableau and prepare it for analysis next create a dashboard that will allow you to explore the data in depth and identify meaningful insights then give structure to your data story by writing the story arc in narrative form finally consult your design checklist to craft the final viz or data story in tableau this is your to show the world what youre capable of so think big and have confidence in your
-
-getting started and milestone develop a project proposal
+</DOC>
+<DOC>getting started and milestone develop a project proposal
 first milestone write a project proposal that will capture the who what why and how of your project plus any challenges that you foresee along the way your proposal will include a specific business case or personal objective any intended a of the needs of the intended audience a of the dataset to be used and any foreseeable challenges
 project welcome milestone
+</DOC>
 
-milestone importing and prepping the data
+<DOC>milestone importing and prepping the data
 in milestone two acquire the dataset that supports your project proposal import it into tableau and prepare the data for analysis
+</DOC>
 
-milestone exploratory analysis
+<DOC>milestone exploratory analysis
 milestone use the that you have learned in the to perform exploratory analysis of your data identify key metrics in the data and create kpis and use those kpis to create dashboards that allow for comparative views and brushing and linking this will allow us to begin to think about the proper context of developing an explanatory analysis that will form the basis for the remaining milestones be sure your visualizations demonstrate the visual and cognitive design principles learned throughout the and make use of advanced features like hierarchies actions filters and parameters
+</DOC>
 
-milestone exploratory analysis and dashboard submission
+<DOC>milestone exploratory analysis and dashboard submission
 continue to through milestone your exploratory analysis and dashboard creation as outlined in the third then submit your deliverables for peer review
+</DOC>
 
-milestone storytelling and storyboarding
+<DOC>milestone storytelling and storyboarding
 milestone take a short but essential break from the data visualization software and begin to give structure to your data stories define the basic story arc of your data story or draft a narrative of what your data visualization communicates you have started that process in the previous milestones but now start assembling our story using story points
+</DOC>
 
-milestone final presentation
+<DOC>milestone final presentation
 final milestone apply design elements from our design checklist you have met the goals of the stakeholders and will complete your design to meet the needs of the audience apply the cognitive and visual design concepts learned throughout this and create a visualization or data story that leaves a lasting impression with your audience
 milestone project
 </DOC>
-
 <DOC>
 essential design principles for tableau
 analyze and apply essential design principles to your tableau visualizations this assumes you understand the tools within tableau and have some knowledge of the fundamental concepts of data visualization define and examine the similarities and differences of exploratory and explanatory analysis as as begin to ask the right questions about whats needed in a visualization assess how data and design together including how to choose the appropriate visual representation for your data and the difference between effective and ineffective visuals apply effective best practice design principles to your data visualizations and be able to illustrate examples of strategic use of contrast to highlight important elements evaluate preattentive attributes and why they are important in visualizations exam the importance of using the right amount of color and in the right place and be able to apply design principles to declutter your data visualization
-
-getting started in effective and ineffective visuals
+</DOC>
+<DOC>getting started in effective and ineffective visuals
 welcome to this first where we are going to start you off with background information about how the human brain perceives the world and then discover effective and ineffective visuals by the end of this be able to recognize how the brain relates to visual design know the difference between cognitive versus perceptual design the various visualization options offered by tableau and some of their advantages and disadvantages discuss why how good ethical practices play in designing visualizations also start to examine ineffective visualizations and how to improve them
 introduction the human brain and data visualization cognitive vs perceptual design distinction introduction of effective and ineffective visuals types of visualizations examples of the types of visualizations in tableau practicing good ethics in data visualization ineffective visuals and how to improve them
+</DOC>
 
-visual perception and cognitive load
+<DOC>visual perception and cognitive load
 welcome to this second this will explore specific data visualization concepts that apply the concepts you learned about how the human brain works from the last be able to define cognitive load and what clutter means from a visualization perspective be able to visually illustrate the principles of visual perception and use contrast to enhance your visualizations be able to define and use preattentive attributes like color to make effective visualizations
 visual perception and cognitive principles introduction cognitive load and clutter principles of visual perception strategic use of contrast preattentive attributes of visualizations color as a preattentive attribute decluttering exercise
+</DOC>
 
-design best practices and exploratory analysis
+<DOC>design best practices and exploratory analysis
 we revisit some of the concepts introduced from the previous be able to apply gestalt principles and leverage preattentive attributes in your visualizations examine the role of accessibility and aesthetics play in your creations also be able to define the ideas of exploratory and explanatory analysis and be able to normalize your data and identify outliers finally be introduced to a challenging concept and construct a control chart to set you up to perform more advanced exploratory analysis
 design best practices introduction gestalt principle proximity leveraging preattentive attributes accessible visualizations aesthetics design and exploratory analysis introduction what is exploratory and explanatory analysis case study anscombes quartet identifying outliers constructing a control chart
+</DOC>
 
-design for understanding
+<DOC>design for understanding
 making sense of large multidimensional data sets can be a challenge for anyone your task as a designer is to make good decisions about encoding arranging and presenting data to reveal meaningful patterns and stories for your audiences after completing this be able to design your visualizations for a target audience and with purpose be able to identify the connection to between data relationships and good visual design implement additional design tools and tips into your visualizations
 design for understanding introduction know your audiences design for purpose data relationships and design static versus interactive visualizations multiple connected view language labeling and scales visual lies and cognitive bias final thoughts
 </DOC>
-

@@ -9,71 +9,79 @@ the capstone project for each requires learners to critically synthesize the mat
 <DOC>
 health care delivery in healthcare organizations
 have you ever needed health care and thought that there must be better ways to get or deliver health care for example have you found yourself thinking that there should be a way to get a diagnostic test or treatment at home or do you in a healthcare organization and find yourself thinking that there must be better ways to deliver health care if you have this is for you content includes an of health care delivery including healthcare consumerism the patients perspective health care delivery for sickness and treatment as as health care delivery for health and wellness the provides links to external sites to connect you to the larger real world of healthcare organizations and health care delivery the links also serve as resources you can take with you after you complete the and because everyone loves a road tripfield trip there are also virtual field trips to the often hidden places of interest on the web the format is quizzes and a brief electronic powerpoint presentation project powerpoint only no oral presentation the powerpoint project requires you to synthesize material to design a patientcentered health care delivery system the way you would have things run in the best of all worlds the electronic powerpoint presentation file is an artifact of the which you can circulate to colleagues or use for a talk or presentation event
-
-lesson one healthcare consumerism and the patients perspective in health care delivery
+</DOC>
+<DOC>lesson one healthcare consumerism and the patients perspective in health care delivery
 this lesson provides an of the as as an of healthcare consumerism and the patients perspective in health care delivery
-
-lesson two sickness and treatment health care delivery models
-this lesson provides an of sickness and treatment health care delivery models
-
-lesson three health and wellness health care delivery models
-this lesson provides an of health and wellness health care delivery models
-
-lesson four design a patientcentered health care delivery system
-this lesson is a synthesis of the material to design and present a patientcentered health care delivery system the way you would have things run in the best of all worlds
 </DOC>
 
+<DOC>lesson two sickness and treatment health care delivery models
+this lesson provides an of sickness and treatment health care delivery models
+</DOC>
+
+<DOC>lesson three health and wellness health care delivery models
+this lesson provides an of health and wellness health care delivery models
+</DOC>
+
+<DOC>lesson four design a patientcentered health care delivery system
+this lesson is a synthesis of the material to design and present a patientcentered health care delivery system the way you would have things run in the best of all worlds
+</DOC>
 <DOC>
 quality improvement in healthcare organizations
 have you ever though that healthcare quality could be improved either where you get health care treatment or where you delivery health care have you ever thought that there should be a way for you to determine the relative quality of your choices have you found yourself thinking that there should be a way for you to provide your view and input on the quality of healthcare organization or do you in a healthcare organization and find yourself thinking that there must be better ways to continuously and systematically improve the quality of your healthcare organization if you have this is for you
 content includes an of quality and quality improvement programs measures and data in healthcare organizations the provides links to external sites to connect you to the larger real world of healthcare organization quality and quality improvement the links also serve as resources you can take with you after you complete the and because everyone loves a road tripfield trip there are also virtual field trips to the often hidden places of interest on the web the format is quizzes and a project the project requires you to synthesize material to design a quality improvement for a healthcare organization the way you would have things run in the best of all worlds the design submitted as an electronic spreadsheet is an artifact of the which you can circulate to colleagues or use as the basis for talks or presentations
-
-lesson one definition of quality and quality improvement in healthcare organizations
+</DOC>
+<DOC>lesson one definition of quality and quality improvement in healthcare organizations
 this lesson provides an of the as as an of quality and quality improvement in healthcare organizations
-
-lesson two quality and quality improvement measures in healthcare organizations
-this lesson provides an of quality and quality improvement measures in healthcare organizations
-
-lesson three data collection and analysis methodologies for quality and quality improvement measures in healthcare organizations
-this lesson provides an of data collection and analysis methodologies for quality and quality improvement measures in healthcare organizations
-
-lesson four design a healthcare organization quality improvement
-this lesson is a synthesis of the material to design a quality improvement in a healthcare organization the way you would have things run in the best of all worlds
 </DOC>
 
+<DOC>lesson two quality and quality improvement measures in healthcare organizations
+this lesson provides an of quality and quality improvement measures in healthcare organizations
+</DOC>
+
+<DOC>lesson three data collection and analysis methodologies for quality and quality improvement measures in healthcare organizations
+this lesson provides an of data collection and analysis methodologies for quality and quality improvement measures in healthcare organizations
+</DOC>
+
+<DOC>lesson four design a healthcare organization quality improvement
+this lesson is a synthesis of the material to design a quality improvement in a healthcare organization the way you would have things run in the best of all worlds
+</DOC>
 <DOC>
 business process management in healthcare organizations
 have you ever needed to resolve a billing or other issue with a healthcare organization and thought that there must be a better more efficient and more customerfriendly way to operate such a business process for example have you thought that there should be an easier way to read your bill or pay your bill or do you in a healthcare organization and find yourself thinking that there must be better ways for the business processes to function if you have this is for you
 content includes an of healthcare organization business processes including business process management approaches as as a discussion of healthcare organization entrepreneurship as a business process the provides links to external sites to connect you to the larger real world of healthcare organization business processes business process management and entrepreneurship the links also serve as resources you can take with you after you complete the and because everyone loves a road tripfield trip there are also virtual field trips to the often hidden places of interest on the web the format is quizzes and a project the project requires you to synthesize material to design patientcentered business processes for a healthcare organization the way you would have things run in the best of all worlds the design submitted as an electronic word processing document in memo format is an artifact of the which you can circulate to colleagues or use as the basis for a talk or presentation event
-
-lesson one healthcare organization business processes and management
+</DOC>
+<DOC>lesson one healthcare organization business processes and management
 this lesson provides an of the as as an of healthcare organization business processes and business process management
-
-lesson two healthcare organization business process management improvement and innovation
-this lesson provides an of healthcare organization business process management improvement and innovation
-
-lesson three healthcare organization electronic patientcustomer records business processes
-this lesson provides an of healthcare organization electronic patientcustomer records business processes
-
-lesson four design patientcentered healthcare organization business processes
-this lesson is a synthesis of the material to design patientcentered healthcare organization business processes the way you would have things run in the best of all worlds
 </DOC>
 
+<DOC>lesson two healthcare organization business process management improvement and innovation
+this lesson provides an of healthcare organization business process management improvement and innovation
+</DOC>
+
+<DOC>lesson three healthcare organization electronic patientcustomer records business processes
+this lesson provides an of healthcare organization electronic patientcustomer records business processes
+</DOC>
+
+<DOC>lesson four design patientcentered healthcare organization business processes
+this lesson is a synthesis of the material to design patientcentered healthcare organization business processes the way you would have things run in the best of all worlds
+</DOC>
 <DOC>
 healthcare organizations and the health system
 have you ever been in a healthcare waiting room and thought about how the organization could be more efficient for example have you found yourself thinking about how to reduce the amount of time spent waiting or do you in a healthcare organization and find yourself thinking about how to improve the organization if you have this is for you content includes an of healthcare organizations their administration and management and their governance
 the provides links to external sites to connect you to the larger real world of healthcare organizations the links also serve as resources you can take with you after you complete the and because everyone loves a road tripfield trip there are also virtual field trips to the often hidden places of interest on the web the format is quizzes and an electronic poster project the poster project requires you to synthesize material to design a healthcare organization and governance structure the way you would have things run in the best of all worlds the electronic poster file is an artifact of the which you can circulate to colleagues or use for a talk or presentation event
-
-lesson one healthcare organizations and the health system
+</DOC>
+<DOC>lesson one healthcare organizations and the health system
 this lesson provides an of the as as an of healthcare organizations and the health system
-
-lesson two healthcare administration and management
-this lesson provides an of healthcare administration and management
-
-lesson three governance
-this lesson provides an of organizational governance and functions
-
-lesson four design a governance structure for a healthcare organization
-this lesson is a synthesis of the material to design and present a healthcare organization and governance structure the way you would have things run in the best of all worlds
 </DOC>
 
+<DOC>lesson two healthcare administration and management
+this lesson provides an of healthcare administration and management
+</DOC>
+
+<DOC>lesson three governance
+this lesson provides an of organizational governance and functions
+</DOC>
+
+<DOC>lesson four design a governance structure for a healthcare organization
+this lesson is a synthesis of the material to design and present a healthcare organization and governance structure the way you would have things run in the best of all worlds
+</DOC>

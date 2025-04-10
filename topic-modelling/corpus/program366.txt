@@ -8,166 +8,194 @@ courses within this involve multiple projects within each including preparing ta
 <DOC>
 taxation of business entities ii passthrough entities
 this provides an introduction to the us federal income taxation of passthrough business entities including subchapter s corporations partnerships and limited liability companies the focuses on the relevant provisions of subchapters s and k of the internal revenue code as as related treasury regulations and judicial opinions governing the formation operation and termination of passthrough entities practical inclass study problems facilitate selfdiscovery of technical tax knowledge along with the development of a variety of and attitudes
-
-introduction to
+</DOC>
+<DOC>introduction to
 become familiar with the your instructor your classmates and our learning environment this orientation will also help you obtain the technical required to navigate and be successful
 introduction about professor donohoe on your terms
+</DOC>
 
-partnership formation
+<DOC>partnership formation
 we begin an examination of the us federal tax treatment of partnerships the first lesson will examine the background and basic concepts of partnerships including the conceptual framework that governs nearly all tax rules for partnerships and special basis concepts that allow for a single layer of taxation the next lessons shift to the partnership life cycle with a focus on partnership formation analyze the nonrecognition provision for property contributions in exchange for a partnership interest as as basis and holding period rules and some of the most common exceptions to the nonrecognition provision
 partnership formation lesson objectives background and basics lesson partnerships lesson legal framework lesson special basis concepts lesson other issues lesson objectives nonrecognition provision lesson concepts part lesson applications logic check lesson applications logic check lesson objectives basis determination and holding period lesson concepts part lesson applications logic check lesson applications logic check lesson applications logic check lesson objectives nonrecognition exceptions lesson concepts part lesson applications logic check lesson applications logic check lesson applications logic check lesson other issues lesson objectives elections and treatments lesson initial costs part lesson accounting methods part lesson tax year part lesson applications logic check lesson applications logic check partnership formation wrapup
+</DOC>
 
-partnership operations
+<DOC>partnership operations
 about partnership operations first examine partnership income measurement and reporting the next two lessons will examine a partners distributive share of partnership income and adjustments to a partners outside basis in the partnership from there consider the deduction for qualified business income on a partners tax return limitations on the deductibility of partnership losses by the partner and transactions between the partnership and partner
 partnership operations lesson objectives income measurement and reporting lesson concepts part lesson applications logic check lesson applications logic check lesson objectives partners distributive share lesson concepts part lesson applications logic check lesson objectives outside basis adjustments lesson concepts part lesson applications logic check lesson applications logic check lesson applications logic check lesson applications logic check lesson partners deduction for qualified business income lesson objectives partner loss limitations lesson concepts part lesson applications logic check lesson applications logic check lesson objectives related transactions lesson concepts part lesson applications logic check lesson applications logic check partnership operations wrapup
+</DOC>
 
-partnership distributions
+<DOC>partnership distributions
 be introduced to the tax treatments of partnership distributions first determine what is a distribution and how it is different from a partners share of partnership earnings partnership distributions will be further classified into proportionate operating proportionate liquidating and disproportionate distributions then discuss the nonrecognition principle of partnership distributions loss limitations and exceptions to these general rules
 partnership distributions lesson objectives proportionate operating distributions lesson concepts i lesson applications logic check lesson concepts ii lesson applications logic check lesson applications logic check lesson objectives proportionate liquidating distributions lesson concepts i lesson applications logic check lesson concepts ii lesson applications logic check lesson concepts iii lesson applications logic check lesson applications logic check lesson concepts iv lesson applications logic check lesson applications logic check lesson concepts v lesson applications logic check lesson objectives disproportions distributions lesson concepts part lesson applications logic check partnership distributions wrapup
+</DOC>
 
-partnership sales and terminations
+<DOC>partnership sales and terminations
 this examines the tax implications of partnership sales and terminations the first lesson will focus on the sale of a partnership interest the next lesson considers a special basis adjustment used to adjust for discrepancies between inside and outside basis that may arise after a sale of a partnership interest the third lesson examines the tax effects of many nonsale dispositions of a partnership interest such as transfers to a corporation likekind exchanges gifts and death of a partner the fourth lesson examines technical tax termination of a partnership which can occur through sale liquidation or operation of law
 partnership sales and terminations lesson objectives sale of partnership interest lesson seller concepts lesson applications logic check lesson buyer concepts lesson applications logic check lesson applications logic check lesson objectives special basis adjustments lesson concepts part lesson applications logic check lesson objectives other dispositions lesson concepts part lesson applications logic check lesson objectives partnership termination lesson concepts part lesson applications logic check partnership sales and terminations wrapup
+</DOC>
 
-other passthrough entities
+<DOC>other passthrough entities
 this examines several other types of passthrough entities including limited liability companies llc limited liability partnerships llp family partnerships and subchapter s corporations the first lesson examines llcs which combine partnership taxation with the limited liability of corporations the next lesson considers limited liability partnerships which operate similar to general partnerships but with significant liability exposure differences family partnerships are considered in the third lesson the last lesson examines the basic attributes of subchapter s corporations which are entities incorporated under state law but taxed as a passthrough entity for federal income tax purposes
 other passthrough entities lesson limited liability companies lesson limited liability partnerships lesson family partnerships lesson objectives subchapter s corporations lesson backgrounds lesson qualifications lesson subchapter s election lesson compliance procedures lesson applications logic check lesson applications logic check lesson applications logic check lesson applications logic check other passthrough entities wrapup
+</DOC>
 
-s corporation operations
+<DOC>s corporation operations
 further examine s corporations explore income measurement and allocation methods for passing through earnings to the shareholders including the differentiation between ordinary income items and separately stated items next discuss shareholder basis also explore loss limitations with respect to shareholder tax basis and atrisk basis then consider the tax effects of distributions to shareholders finally discuss exceptions that subject s corporations to entity level taxes
 s corporation operations lesson objective income measurement and allocation lesson concepts part lesson applications logic check lesson applications logic check lesson applications logic check lesson objective shareholder basis determination lesson concepts part lesson applications logic check lesson objective shareholder loss limitations lesson concepts part lesson applications logic check lesson applications logic check lesson objective distributions to shareholders lesson operating concepts lesson operating applications logic check lesson operating applications logic check lesson operating applications logic check lesson liquidating concepts lesson liquidating applications logic check lesson objectives special taxes and other issues lesson special taxes lesson other issues s corporation operations wrapup
+</DOC>
 
-tax practice and ethics
+<DOC>tax practice and ethics
 examine the ethical guidelines that encompass the tax practice the will begin with a discussion of the mission and authority of the internal revenue service irs the enforcement agency overseeing the tax industry next highlight the various penalties that can be assessed at the taxpayer level both civil and criminal finally be introduced to the ethical standards imposed upon tax advisors by circular and the aicpa
 tax practice and ethics lesson objective tax enforcement lesson the irs mission lesson structure of the irs lesson powers of the irs lesson tax return audits lesson the tax gap lesson taxpayer penalties lesson civil penalties lesson criminal penalties lesson objectives regulation of tax advisers lesson circular lesson aicpa standards lesson tax adviser penalties tax practice and ethics wrapup
+</DOC>
 
-strategic organizational form choice
+<DOC>strategic organizational form choice
 this directly applies the concepts of corporate and passthrough entity taxation to a comprehensive organizational form dilemma in the first lesson about the organizational form dilemma facing the owner of an entity the next lessons will analyze four organizational form options corporation partnership limited liability company and subchapter s corporation the final lesson summarizes the analysis and recommends the best organizational form for this dilemma
 strategic organizational form choice lesson organizational form dilemma lesson c corporation lesson partnership or llc lesson s corporation lesson and recommendation strategic organizational form choice wrapup
 </DOC>
-
 <DOC>
 taxation of business entities i corporations
 this provides an introduction to the us federal income taxation of corporations and their shareholders the focuses on the relevant provisions of subchapter c of the internal revenue code as as related treasury regulations and judicial opinions governing corporate formation operations distributions and liquidation practical inclass study problems facilitate selfdiscovery of technical tax knowledge along with the development of a variety of and attitudes
-
-orientation
+</DOC>
+<DOC>orientation
 become familiar with the your instructor your classmates and our learning environment this orientation will also help you obtain the technical required to navigate and be successful
 introduction about prof donohoe on your terms
+</DOC>
 
-of business taxation
+<DOC>of business taxation
 review the basics of tax law which includes the origins of taxation the three sources of tax law the hierarchy of tax law and judicial doctrines next cover the fundamental features of the different organizational forms sole proprietorship partnership corporation and limited liability corporation there will also be a discussion on strategic form choice finally be introduced to entity classification for tax purposes
 of business taxation lesson objectives tax law refresher lesson origins of taxation lesson sources of tax law statutory lesson sources of tax law administrative lesson sources of tax law judicial lesson hierarchy of tax law sources lesson judicial doctrines lesson objectives organizational form lesson fundamental features lesson strategic form choice lesson tax entity classification of business taxation wrapup
+</DOC>
 
-corporate income taxation
+<DOC>corporate income taxation
 compare the tax formula for c corporations with the tax formula for individuals next examine special tax deductions available only to corporations such as the dividends received deduction and the organizational expenditures deduction how to calculate corporate income tax liability and compute the corporate alternative minimum tax amt this will also discuss booktax differences and finally it will discuss compliance procedures
 corporate income tax lesson income tax formulas lesson objectives special corporate deductions lesson dividends received deductions concepts lesson dividends received deductions applications lesson organizational expenditures deduction concepts lesson organizational expenditures deduction applications lesson objective regular corporate income tax liability lesson regular corporate income tax liability concepts lesson regular corporate income tax liability applications lesson objective special corporate tax liability concepts lesson penalty taxes on corporate accumulations lesson related corporations lesson alternative minimum tax lesson boxtax differences lesson compliance procedures corporate income taxation wrapup
+</DOC>
 
-corporate formation i
+<DOC>corporate formation i
 review the taxation of property transactions be introduced to the sunchaser shakery which is a firm that apply concepts to then examine the nonrecognition provisions in propertyforstock transactions and consider possible exceptions and conditions
 corporate formation i lesson objectives property transaction refresher lesson acquisition and deposition lesson recognition lesson character lesson recapture lesson sunchaser shakery lesson objectives nonrecognition provisions lesson concepts lesson applications logic check lesson applications logic check lesson applications logic check lesson applications logic check lesson objectives basis determination holding period lesson concepts lesson applications logic check lesson applications logic check lesson objectives builtin loss property lesson concepts lesson applications logic check lesson applications logic check lesson objectives treatment of boot lesson concepts lesson applications logic check lesson applications logic check lesson applications logic check corporate formation i wrapup
+</DOC>
 
-corporate formation ii operations
+<DOC>corporate formation ii operations
 continue to explore propertyforstock transactions assumption of liabilities and transfer of services along with property will be introduced next examine the effects of capital contributions on corporations shareholders and nonshareholders also analyze the rules for debt and equity regarding capital structure finally investor losses due to worthlessness of debtequity investments and bad debts will be discussed
 corporate formation ii operations lesson objectives assumption of liabilities lesson concepts lesson applications logic check lesson applications logic check lesson applications logic check lesson objectives property and services lesson concepts lesson applications logic check lesson objectives capital contributions lesson concepts lesson applications logic check lesson objectives debt versus equity lesson concepts lesson applications logic check lesson applications logic check lesson objectives investor losses lesson concepts lesson applications logic check lesson applications logic check lesson applications logic check lesson objectives small business stock lesson concepts lesson applications logic check lesson applications logic check corporate formation ii operations wrapup
+</DOC>
 
-corporate nonliquidating distributions
+<DOC>corporate nonliquidating distributions
 about corporate nonliquidating distributions first earnings and profits ep will be discussed and how to calculate ep next analyze the treatment of cash distributions followed by property distributions then cover the treatment of stock distributions finally treatment of constructive dividends and qualified dividends will be explored
 corporate nonliquidating distributions lesson objectives earnings profits lesson concepts lesson applications logic check lesson applications logic check lesson objectives cash distributions lesson concepts lesson applications logic check lesson applications logic check lesson applications logic check lesson applications logic check lesson objectives property distributions lesson concepts lesson applications logic check lesson applications logic check lesson applications logic check lesson objectives stock distributions lesson concepts lesson applications logic check lesson applications logic check lesson objectives constructive distributions lesson concepts lesson applications logic check lesson qualified dividends corporate nonliquidating distributions wrapup
+</DOC>
 
-corporate redemptions and partial liquidations
+<DOC>corporate redemptions and partial liquidations
 explore redemptions and partial liquidations which is when shareholders sell stock back to the issuing corporation in exchange for cash about the five types of qualified redemptions which are applied after you have considered stock attribution rules finally analyze how these redemptions are treated by both the shareholders and the corporation
 corporate redemptions and partial liquidations lesson background basics lesson objectives stock attribution rules lesson concepts lesson applications logic check lesson applications logic check lesson objectives qualifying stock redemptions i lesson concepts lesson applications logic check lesson applications logic check lesson applications logic check lesson objectives qualifying stock redemptions ii lesson concepts lesson applications logic check lesson applications logic check lesson applications logic check lesson applications logic check lesson objectives corporate tax effects lesson concepts lesson applications logic check lesson applications logic check lesson applications logic check corporate redemptions and partial liquidations wrapup
+</DOC>
 
-corporate liquidations
+<DOC>corporate liquidations
 be introduced to corporate liquidations some basic information on liquidations will be given followed by a discussion on corporate tax treatment of complete liquidations also the tax effects on shareholders will be analyzed finally examine the tax effects on both the parent and subsidiary in parentsubsidiary liquidations
 corporate liquidations lesson background and basics lesson objectives corporate tax effects lesson concepts lesson applications logic check lesson applications logic check lesson applications logic check lesson objectives antistuffing rules lesson concepts lesson applications logic check lesson applications logic check lesson applications logic check lesson concepts ii lesson applications logic check lesson applications logic check lesson objectives shareholder tax effects lesson concepts lesson applications logic check lesson applications logic check lesson objectives parentsubsidiary liquidations lesson parent tax effects i lesson subsidiary tax effects ii lesson applications logic check lesson applications logic check lesson applications logic check lesson applications logic check corporate liquidations wrapup
+</DOC>
 
-corporate reorganizations
+<DOC>corporate reorganizations
 explore corporate reorganizations first some background on the history of corporate restructuring will be given next be introduced to the different types of taxdeferred reorganizations finally analyze the tax consequences of these reorganizations
 corporate reorganizations lesson historical background lesson objectives taxdeferred reorganizations lesson general requirements lesson type a organizations lesson type b and c organizations lesson type d organizations lesson type e f and g organizations lesson objectives tax consequences lesson concepts lesson application logic check lesson application logic check lesson application logic check lesson application logic check lesson application logic check corporate reorganizations wrapup
 </DOC>
-
 <DOC>
 federal taxation i individuals employees and sole proprietors
 this is the first in a fivecourse us federal tax it covers and focuses on the us federal tax system as it relates to individuals employees and sole proprietors key concepts covered include gross income and items that are statutorily included or excluded in it personal and business expenses that qualify as tax deductions and the differing tax treatments for employees versus selfemployed taxpayers unlike many other introductory courses in tax and as part of this courses comprehensive wrapup learners will be provided with practical and tangible reporting both income and expenses on the main individual tax return used in the us form
 if you have enjoyed this consider enrolling in our online graduate accounting the university of illinois at urbanachampaign consistently ranked as one of the nations top three accounting programs now offers a masters in accounting at a very affordable tuition rate and is completely online the imsa is a full master of accountancy and students graduate with an ms that is highly recognized try an open or two then apply for admission into the creditbearing version as you may be eligible to take creditbearing courses during the application process if you are missing any prerequisites for the full degree you can complete coursera courses to demonstrate readiness and strengthen your application for the imsa for more information on this exciting imsa online refer to this link httpswwwcourseraorgdegreesimsa
-
-introduction to the
+</DOC>
+<DOC>introduction to the
 become familiar with the your instructor and your classmates and our learning environment this orientation will also help you obtain the technical required to navigate and be successful
 and meet your instructors about professor matthew hutchens about professor petro lisowsky on your terms
-
-an introduction to taxation
-be introduced to the different kinds of taxes faced by us taxpayers and the us federal income tax structure the origin of tax law and its constitutionality is discussed along with a brief history of the different changes in rates that have occurred since the th amendment was passed finally discover the three different sources of new tax laws and rules
-taxes an introduction a note on the tcja evaluating a tax system the tax structure tax rate history the tax structure examples types of taxes origins of tax law statutory sources of tax law administrative sources of tax law judicial sources of tax law part judicial sources of tax law part
-
-computing the tax
-take a deeper dive into each part of the us federal income tax structure with a focus on what is included in gross income how foragi deductions reduce gross income to generate adjusted gross income or agi and why agi is an important number that determines the floors and ceilings of many fromagi deductions also discuss who qualifies as a dependent wrap up the with a discussion of the actual calculation of the tax as as filing status and filing requirements
-gross income income tax formula gross income tax forms deductions and agi qualifying children and qualifying relatives part qualifying children and qualifying relatives part tax calculation filing status filing requirements and other dependent issues the kiddie tax statutes of limitations
-
-gross income
-take a deeper dive into gross income specifically regarding statutory inclusions congress the courts and the irs have specific rules on whether and when certain income items are included as gross income these rules provide clarification in situations where it is unclear whether money or property received should actually be included as income
-gross income concepts accounting methods accounting method exceptions gross income i alimony discharge of indebtedness annuities gross income example gross income ii prizes life insurance unemployment compensation social security benefits
-
-gross income exclusions
-take a deeper dive into gross income specifically regarding statutory exclusions congress the courts and the irs allow exclusions of money or property received by the taxpayer for various reasons
-municipal bond interest gifts life insurance proceeds scholarships payments for damages compensation for injuries and sickness meals and lodging recovery of capital issues employee fringe benefits nondiscriminatory employee fringe benefits discriminatory
-
-deductions and losses in general
-about deductions which is the term used in tax to describe an expense that is allowed to reduce a taxpayers tax liability discover what adjusted gross income is why it is important and how to calculate it also the difference in tax treatments for special types of activities such as hobbies and rentals
-deductions for vs from agi trade or business deductions concepts timing of deductions political contributions lobbying executive compensation investigation costs hobby losses vacation home rental deductions vacation home rental deductions example
-
-businesss deductions
-we discuss several unique situations where the same expense may or may not be deductible dependent on the facts and circumstances surrounding the situation also about another from agi deduction the new deduction for qualified business income finally discuss other business deductions such as bad debts and net operating losses
-introduction and transportation expenses travel expenses business expenses bad debts business expenses qualified business income qualified business income example net operating losses nols casualty losses education expenses meals entertainment and home office expenses
-
-itemized deductions and retirement plans
-we first turn our focus to expenses that qualify as itemized deductions which are a from agi deduction to finish off this switch back to discussing income and situations where taxpayers can elect to delay recognition of income such as saving for retirement as as situations where taxation of the annual earnings of those retirement savings are either deferred or permanently excluded from income
-itemized deductions and medical expenses itemized deductions taxes and interest itemized deductions charitable contributions retirement plans and traditional iras nondeductible and roth iras ira basis and rollovers exceptions to early withdrawal penalty
-
-comprehensive example
-review the comprehensive example and then to apply the concepts to a tax return problem
 </DOC>
 
+<DOC>an introduction to taxation
+be introduced to the different kinds of taxes faced by us taxpayers and the us federal income tax structure the origin of tax law and its constitutionality is discussed along with a brief history of the different changes in rates that have occurred since the th amendment was passed finally discover the three different sources of new tax laws and rules
+taxes an introduction a note on the tcja evaluating a tax system the tax structure tax rate history the tax structure examples types of taxes origins of tax law statutory sources of tax law administrative sources of tax law judicial sources of tax law part judicial sources of tax law part
+</DOC>
+
+<DOC>computing the tax
+take a deeper dive into each part of the us federal income tax structure with a focus on what is included in gross income how foragi deductions reduce gross income to generate adjusted gross income or agi and why agi is an important number that determines the floors and ceilings of many fromagi deductions also discuss who qualifies as a dependent wrap up the with a discussion of the actual calculation of the tax as as filing status and filing requirements
+gross income income tax formula gross income tax forms deductions and agi qualifying children and qualifying relatives part qualifying children and qualifying relatives part tax calculation filing status filing requirements and other dependent issues the kiddie tax statutes of limitations
+</DOC>
+
+<DOC>gross income
+take a deeper dive into gross income specifically regarding statutory inclusions congress the courts and the irs have specific rules on whether and when certain income items are included as gross income these rules provide clarification in situations where it is unclear whether money or property received should actually be included as income
+gross income concepts accounting methods accounting method exceptions gross income i alimony discharge of indebtedness annuities gross income example gross income ii prizes life insurance unemployment compensation social security benefits
+</DOC>
+
+<DOC>gross income exclusions
+take a deeper dive into gross income specifically regarding statutory exclusions congress the courts and the irs allow exclusions of money or property received by the taxpayer for various reasons
+municipal bond interest gifts life insurance proceeds scholarships payments for damages compensation for injuries and sickness meals and lodging recovery of capital issues employee fringe benefits nondiscriminatory employee fringe benefits discriminatory
+</DOC>
+
+<DOC>deductions and losses in general
+about deductions which is the term used in tax to describe an expense that is allowed to reduce a taxpayers tax liability discover what adjusted gross income is why it is important and how to calculate it also the difference in tax treatments for special types of activities such as hobbies and rentals
+deductions for vs from agi trade or business deductions concepts timing of deductions political contributions lobbying executive compensation investigation costs hobby losses vacation home rental deductions vacation home rental deductions example
+</DOC>
+
+<DOC>businesss deductions
+we discuss several unique situations where the same expense may or may not be deductible dependent on the facts and circumstances surrounding the situation also about another from agi deduction the new deduction for qualified business income finally discuss other business deductions such as bad debts and net operating losses
+introduction and transportation expenses travel expenses business expenses bad debts business expenses qualified business income qualified business income example net operating losses nols casualty losses education expenses meals entertainment and home office expenses
+</DOC>
+
+<DOC>itemized deductions and retirement plans
+we first turn our focus to expenses that qualify as itemized deductions which are a from agi deduction to finish off this switch back to discussing income and situations where taxpayers can elect to delay recognition of income such as saving for retirement as as situations where taxation of the annual earnings of those retirement savings are either deferred or permanently excluded from income
+itemized deductions and medical expenses itemized deductions taxes and interest itemized deductions charitable contributions retirement plans and traditional iras nondeductible and roth iras ira basis and rollovers exceptions to early withdrawal penalty
+</DOC>
+
+<DOC>comprehensive example
+review the comprehensive example and then to apply the concepts to a tax return problem
+</DOC>
 <DOC>
 federal taxation ii property transactions of business owners and shareholders
 this examines the us federal tax system as it relates to property transactions of business owners and shareholders topics include cost recovery such as depreciation amortization and depletion
 calculation of realized versus recognized gains and losses
 evaluation of the potential tax effects of nontaxable exchanges
 and the combining or netting gains and losses that are different in nature facilitate selfdiscovery of knowledge and development of a variety of
-
-introduction to the
+</DOC>
+<DOC>introduction to the
 become familiar with the your instructor and your classmates and our learning environment this orientation will also help you obtain the technical required to navigate and be successful
 and meet your instructors about professor matthew hutchens about professor petro lisowsky on your terms
-
-introduction to cost recovery and depreciation
-be introduced to concepts of cost recovery used by us taxpayers the nature of property will be discussed designating the difference between realty and personalty the modified accelerated cost recovery system macrs will be explained along with its classification of both real and personal assets as as applicable conventions used in depreciating property finally learners will discover how to use the tax depreciation tables to aid in the determination of allowable cost recovery deductions
-concepts in cost recovery of depreciation using the depreciation tables examples using the depreciation tables depreciation of business use realty depreciation in year of disposition
-
-accelerated depreciation amortization and depletion
-take a deeper dive into concepts of cost recovery used in the us federal tax structure this deeper dive begins with a discussion about the two different types of additional first year depreciation known as section depreciation and bonus depreciation next about listed property which faces limitations on the deductibility how intangible personal and real property costs are recovered through amortization and which kinds of intangible property are eligible to be amortized also how natural resource costs are recovered through depletion deductions
-bonus depreciation section election listed property luxury auto limitations amortization depletion capitalization vs expensing reporting cost recovery on form
-
-gains losses and adjusted basis
-take a deep dive into property transactions specifically disposals and their tax consequences under us federal tax law first begin by discussing the economic concept of amount realized next discuss differences between the amount and gains or losses realized versus recognized such as deferred or postponed gains and disallowed losses last discuss the three main ways property basis is established namely cost basis gift basis and inheritance basis
-of gains and losses amount realized basis and realized gains or losses adjusted basis cost basis adjusted basis gift basis adjusted basis inheritance basis
-
-disallowed losses likekind exchanges and involuntary conversions
-about unique property transactions where gains andor losses are deferred first discuss circumstances where certain losses on the disposal of property are not allowed to be recognized next discuss a type of nontaxable exchange called likekind exchange which allows properties to be exchanged with no tax recognition and the rules governing its tax deferred status next discuss specific circumstances where part of the nontaxable transaction actually becomes taxable due to receipt of nonlikekind property called boot last talk about what basis the newly exchanged property should have and what the holding period should be then continue our discussion regarding nontaxable exchanges and discuss involuntary conversions the earliest and latest dates to involuntarily exchange an asset after a casualty loss or condemnation next we discuss paths for conversion direct and indirect and their tax consequences we discuss two tests governing the involuntary conversion rules specifically the functional use test and the taxpayer use test
-recognized gains and losses nontaxable exchanges and likekind exchanges in general part likekind exchanges boot basis and holding period part likekind exchange examples involuntary conversions in general involuntary conversions replacement time period involuntary conversions nonrecognition rules
-
-special gainloss provisions
-we start off by discussing the rules governing the nontaxation of the sale of a taxpayers primary residence discover special nonrecognition rules for the contribution of property to business entities next what wash sales are and the dates that determine whether or not the losses can be recognized finally about the special treatment of worthless securities and gains and losses on certain small business stock
-sale of personal residence contributing property to a business wash sales worthless securities and losses on small business stock gains on qualified small business stock
-
-character and the netting process
-we discuss the character and applicable tax rates for gains and losses on the disposal of property gains and losses are categorized into ordinary section and longterm capital preferential rates next the importance of the holding period and its determination of whether an asset is designated as shortterm versus longterm is discussed the netting of gains and losses from different characterizations is discussed last we discuss what a section asset is and how it gets treated in the netting process
-character of gains and losses introduction part introduction to netting process part key steps to netting process part example of netting process part introduction to assets part netting process of assets part example of netting process of assets
-
-depreciation recapture and other items in the netting process
-take a deeper dive into two categories within section assets section assets and section assets about both depreciation recapture and depreciation unrecapture and the varying special tax rates for gains that are recaptured or unrecaptured discover how other gains and losses fit into the netting process about a special rule that applies to the sale of depreciable property between related parties last about the net investment income tax
-depreciation recapture depreciation recapture other items in netting process gain from sale of depreciable property between related parties the net investment tax
-
-final comprehensive exam
-final apply the tax rules you have learned throughout this to a series of problems when presented with hypothetical taxpayer situations identify potential tax issues and determine appropriate tax treatments
 </DOC>
 
+<DOC>introduction to cost recovery and depreciation
+be introduced to concepts of cost recovery used by us taxpayers the nature of property will be discussed designating the difference between realty and personalty the modified accelerated cost recovery system macrs will be explained along with its classification of both real and personal assets as as applicable conventions used in depreciating property finally learners will discover how to use the tax depreciation tables to aid in the determination of allowable cost recovery deductions
+concepts in cost recovery of depreciation using the depreciation tables examples using the depreciation tables depreciation of business use realty depreciation in year of disposition
+</DOC>
+
+<DOC>accelerated depreciation amortization and depletion
+take a deeper dive into concepts of cost recovery used in the us federal tax structure this deeper dive begins with a discussion about the two different types of additional first year depreciation known as section depreciation and bonus depreciation next about listed property which faces limitations on the deductibility how intangible personal and real property costs are recovered through amortization and which kinds of intangible property are eligible to be amortized also how natural resource costs are recovered through depletion deductions
+bonus depreciation section election listed property luxury auto limitations amortization depletion capitalization vs expensing reporting cost recovery on form
+</DOC>
+
+<DOC>gains losses and adjusted basis
+take a deep dive into property transactions specifically disposals and their tax consequences under us federal tax law first begin by discussing the economic concept of amount realized next discuss differences between the amount and gains or losses realized versus recognized such as deferred or postponed gains and disallowed losses last discuss the three main ways property basis is established namely cost basis gift basis and inheritance basis
+of gains and losses amount realized basis and realized gains or losses adjusted basis cost basis adjusted basis gift basis adjusted basis inheritance basis
+</DOC>
+
+<DOC>disallowed losses likekind exchanges and involuntary conversions
+about unique property transactions where gains andor losses are deferred first discuss circumstances where certain losses on the disposal of property are not allowed to be recognized next discuss a type of nontaxable exchange called likekind exchange which allows properties to be exchanged with no tax recognition and the rules governing its tax deferred status next discuss specific circumstances where part of the nontaxable transaction actually becomes taxable due to receipt of nonlikekind property called boot last talk about what basis the newly exchanged property should have and what the holding period should be then continue our discussion regarding nontaxable exchanges and discuss involuntary conversions the earliest and latest dates to involuntarily exchange an asset after a casualty loss or condemnation next we discuss paths for conversion direct and indirect and their tax consequences we discuss two tests governing the involuntary conversion rules specifically the functional use test and the taxpayer use test
+recognized gains and losses nontaxable exchanges and likekind exchanges in general part likekind exchanges boot basis and holding period part likekind exchange examples involuntary conversions in general involuntary conversions replacement time period involuntary conversions nonrecognition rules
+</DOC>
+
+<DOC>special gainloss provisions
+we start off by discussing the rules governing the nontaxation of the sale of a taxpayers primary residence discover special nonrecognition rules for the contribution of property to business entities next what wash sales are and the dates that determine whether or not the losses can be recognized finally about the special treatment of worthless securities and gains and losses on certain small business stock
+sale of personal residence contributing property to a business wash sales worthless securities and losses on small business stock gains on qualified small business stock
+</DOC>
+
+<DOC>character and the netting process
+we discuss the character and applicable tax rates for gains and losses on the disposal of property gains and losses are categorized into ordinary section and longterm capital preferential rates next the importance of the holding period and its determination of whether an asset is designated as shortterm versus longterm is discussed the netting of gains and losses from different characterizations is discussed last we discuss what a section asset is and how it gets treated in the netting process
+character of gains and losses introduction part introduction to netting process part key steps to netting process part example of netting process part introduction to assets part netting process of assets part example of netting process of assets
+</DOC>
+
+<DOC>depreciation recapture and other items in the netting process
+take a deeper dive into two categories within section assets section assets and section assets about both depreciation recapture and depreciation unrecapture and the varying special tax rates for gains that are recaptured or unrecaptured discover how other gains and losses fit into the netting process about a special rule that applies to the sale of depreciable property between related parties last about the net investment income tax
+depreciation recapture depreciation recapture other items in netting process gain from sale of depreciable property between related parties the net investment tax
+</DOC>
+
+<DOC>final comprehensive exam
+final apply the tax rules you have learned throughout this to a series of problems when presented with hypothetical taxpayer situations identify potential tax issues and determine appropriate tax treatments
+</DOC>

@@ -15,182 +15,204 @@ once youve completed the have a variety of simulated project implementations tha
 implementing an sap solution
 implementing an sap solution is the fifth in the sap technology consultant how to collaborate with stakeholders and other sap professionals for key phases in the sap implementation lifecycle
 explore how to build and prepare system and test environments for implementation and look at different types of testing how to cleanse and anonymize test data and use automation tools look at sap best practice explorer and build your understanding of baseline configurations and integrations how to document issues bugs and recommended fixes after testing plus look at the process for goinglive and getting sign off for a project by the end of this be able to explain what a technology consultant does in the implement monitor and qatesting phases of the sap lifecycle implement and deploy a technical solution approved in the design pitch and redesign phases explain how to test an implemented technical solution including creating test plans writing test scripts and issuing fix or bug resolutions explain how to conduct a postimplementation review including developing the postimplementation review report and the postproduction roadmap
-
-introduction to sap implementation lifecycle implementing an sap solution
+</DOC>
+<DOC>introduction to sap implementation lifecycle implementing an sap solution
 about rise with sap and the implementing an sap solution phase of the sap implementation lifecycle about your role as a technology consultant in collaborating with stakeholder teams to configure and implement the technical solution and for training users and stakeholders understand the preparation needed for conducting a dry run of the solution and how to deploy the technical solution as a technology consultant with other sap professionals to develop functional and uat test plans and use cases about the qa testing processes and monitoring of the implemented solution in the production environment also gain an understanding of your role as a subject matter expert reviewer and trainthetrainer for user training understand how to provide postimplementation support conduct postimplementation review sessions and present the review report and roadmap for future enhancements to the customer
 instructor introduction introduction to sap implementation lifecycle implementing an sap solution rise with sap implement testing and monitoring
+</DOC>
 
-preparing for implementation and testing
+<DOC>preparing for implementation and testing
 about setting up system environments to prepare for implementation understand your role in collaborating with different stakeholder teams to prepare the environments for implementation and leverage the technical solution document for configuring the required test environments gain an understanding of a typical infrastructure setup required for system environments how to cleanse and anonymize data for testing and the privacy and compliance considerations you need to factor about the role of automation tools in automating the management of test and system environments also walk through the steps for setting up containers using docker and deploying a docker image to kubernetes using a delivery pipeline
 introduction to preparing for implementation and testing understanding system environments preparing system environments for implementation planning and sourcing test data cleaning and preparing test data setting up test environments and processes automating system environment management leveraging automation tools
+</DOC>
 
-deploy the technical solution
+<DOC>deploy the technical solution
 how to use sap best practice explorer and guides for baseline configurations and integrations how to implement the process and data model the technical and functional solution the platform architecture integrations and security understand how to configure the functional design and settings and implement integrations across aa and bb scenarios how to develop cutover and rollback plans user and stakeholder communication plans testing signoff plans operational handover plan and postproduction support plans also how best to schedule and conduct a dry run or dress rehearsal of the technical solution prior to go live
 introduction to deploy the technical solution setting up baseline configurations and integrations deploy the technical solution design preparing for and conducting dressrehearsal
+</DOC>
 
-designing and performing testing
+<DOC>designing and performing testing
 best practices for communicating and presenting the technical design solution and implementation roadmap to your customer stakeholders and decisionmakers how to incorporate customer feedback in your solution and manage design limitations through the implementation roadmap before you move for a signoff on the solution and the roadmap the signoff is followed by finalizing the proposed architecture associated tools and the proposed bill of materials before you finally move into the execution configuration and testing phase of the sap implementation lifecycle
 introduction to designing and performing testing writing a test plan developing test scripts performing testing documenting testing and incorporating findings
+</DOC>
 
-going live and monitoring production systems
+<DOC>going live and monitoring production systems
 about the go live and production system activities about some of the monitoring activities that need to be performed for an sap implementation in production these include providing postimplementation support responding to user feedback validating customer technical support requirements for postproduction and preparing to transition the system to customer operational teams how to conduct and document the postimplementation review session based on which the handover plan and postproduction roadmap is created based on the handover plan the system is then handed over to the customer technical and operational teams followed by the postimplementation signoff processes and project wrapup
 introduction to going live and monitoring production systems go live activities monitoring systems in production post implementation support conducting a postimplementation review operational handover and project wrapup
+</DOC>
 
-handson project implementing an sap solution
+<DOC>handson project implementing an sap solution
 be provided with an organization case study that describes how a set of applications for collaboration and data analysis is built evaluate how those applications should be tested and determine the inputs required for a test plan create a gonogo decision matrix based on parameters provided to you to put your learning into practice review the assessment submission of two peers using the peer review rubric provided
 introduction to the handson project project implementing an sap solution
 </DOC>
-
 <DOC>
 becoming an sap
 becoming a certified sap is the seventh in the sap technology consultant now that youve completed the first courses including the project spend time considering the next steps in your sap
 explore different industries portfolios and domains dig deep into available development resources build your resume practice interviewing and look at the jobs available in the market spend time assessing what sap learning journey you wish to pursue including what certifications are required for which role then create your own sap development plan listing the actions you need to take to achieve your desired sap role by the end of this know the next steps you need to take to become an sap have a clear understanding of the different industries portfolios and domains you may want to specialize in as an sap know the sap certification available on the sap learning hub be aware of other industrystandard technical certifications and how they can support and enhance your sap credentials and have clear guidance on writing cvs or resumes undertaking interviews and positioning yourself as the best you can be
-
-introduction to becoming an sap
+</DOC>
+<DOC>introduction to becoming an sap
 about the many avenues for planning your future as an sap sap provides engagement points to connect you with contacts within the sap ecosystem and discuss some of these in detail how to search for jobs on the sap website describe core industries in which an sap might specialize and discuss some of the solutions that are critical to saps strategy and hiring efforts these include shana cloud sap analytics cloud and the wider business technology platform btp also how to develop industry expertise and the necessary for a successful including how to build a network of contacts
 instructor introduction introduction to becoming an sap explore the path to becoming an sap central sap products
+</DOC>
 
-sap learning resources and certifications
+<DOC>sap learning resources and certifications
 about the learning resources and certification choices available on saps websites saps homepage is a key resource for information about working at sap and the sap hiring process about recruitment and internships and where to find pertinent information sap learning journeys provide free easytonavigate learning content which helps you gain the you need and to prepare for an sap certification explore certifications that fit your path and goals and how these certifications can enhance sap credentials in addition to sap certifications examine some examples of industry it certifications
 introduction to sap learning resources and certifications how certifications can enhance
+</DOC>
 
-sap preparation
+<DOC>sap preparation
 sap preparation learners will be introduced to resume writing job searching interviewing and networking they will develop a new resume or edit their existing resume resources for the job search process will be provided as as interview guidance and advice and tips for networking and building networks will be provided and reading activities include interview preparation critique and showcasing interview
 introduction to sap preparation interview showcasing professionalism
+</DOC>
 
-build your sap development plan
+<DOC>build your sap development plan
 final learners will complete a final project to help position them for the next steps in an sap they will complete a resume and development plan using the templates provided then they will complete a selfassessment participate in a peer discussion compare their to best practice exemplars and finish with a graded quiz
 introduction to build your sap development plan project build your development plan sap technology consultant
 </DOC>
-
 <DOC>
 sap technology consultant handson project
 sap technology consultant handson project is the sixth in the sap technology consultant this is your to put the knowledge and you have gained over the previous five courses into practice
 this fun and interesting project is a highlevel challenge based on a realworld problem identify key players in the proposed project and take the necessary steps to understand their current technical landscape identify their business requirements and develop a solution proposal once youve obtained sign off from the customer then identify the key technology elements you need to cover and assess the stakeholders and other sap professionals be working with on and present your design including your assumptions proposed recommendations and other considerations then implement your proposed solution and complete qatesting activities and finish off by creating a postimplementation review report documenting the lessons learnt and the future roadmap overall this project presents an ideal to gain in assessing the digital transformation drivers in a reallife situation by the end of this project be able to review understand and respond to a customer implementing a new sap solution complete typical technology consultant project tasks for each sap lifecycle phase develop and present selected technology consultant project deliverables compare project against provided best practice examples and identify gaps or for development
-
-case study context and project setup
+</DOC>
+<DOC>case study context and project setup
 welcome to the handson project part of the project meet the customer and more about their industry organization and technology landscape discover the customers business goals for an sap implementation and identify the stakeholders wholl be critical to the success of the project finally determine the project structure help assemble the right team get setup and kickoff the project
 instructor introduction introduction to the case study project how to interpret a case study case study project setup
-
-customer engagement and discovery
-phase of the project gather information and insights about the customers business technology and data landscape to identify their goals and requirements develop a customer journey roadmap setting out your approach and plan for the next phase validate your approach and seek signoff to proceed to the design phase of the project
-introduction to customer engagement and discovery case study customer stakeholder interview
-
-designing an sap solution
-phase of the project analyze and design a key part of the technical solution and submit your design submit your design and review the assessment submission of a peer using the peer review rubric provided validate your approach and seek signoff to proceed to the implementation and testing phase of the project
-
-implementing an sap solution
-phase of the project determine the implementation and testing approach including a test plan configuration considerations and proposed deployment activities after the system is deployed respond to issues during the hypercare period and provide recommendations to improve user adoption validate the customers next steps postimplementation
-
-post implementation review and customer signoff
-now youre ready to take stock of the implementation and provide recommendations to resolve any remaining issues or for future planning submit your final project deliverables and review the submission of a peer using the rubric provided finally prepare the customer for operational handover and wrapup the project
 </DOC>
 
+<DOC>customer engagement and discovery
+phase of the project gather information and insights about the customers business technology and data landscape to identify their goals and requirements develop a customer journey roadmap setting out your approach and plan for the next phase validate your approach and seek signoff to proceed to the design phase of the project
+introduction to customer engagement and discovery case study customer stakeholder interview
+</DOC>
+
+<DOC>designing an sap solution
+phase of the project analyze and design a key part of the technical solution and submit your design submit your design and review the assessment submission of a peer using the peer review rubric provided validate your approach and seek signoff to proceed to the implementation and testing phase of the project
+</DOC>
+
+<DOC>implementing an sap solution
+phase of the project determine the implementation and testing approach including a test plan configuration considerations and proposed deployment activities after the system is deployed respond to issues during the hypercare period and provide recommendations to improve user adoption validate the customers next steps postimplementation
+</DOC>
+
+<DOC>post implementation review and customer signoff
+now youre ready to take stock of the implementation and provide recommendations to resolve any remaining issues or for future planning submit your final project deliverables and review the submission of a peer using the rubric provided finally prepare the customer for operational handover and wrapup the project
+</DOC>
 <DOC>
 designing an sap solution
 designing an sap solution is the fourth in the sap technology consultant the dives into the sap implementation lifecycle so you can immerse yourself in the key phases including design pitch and redesign
 with sap activate methodology and look at how to identify business requirements to determine system and data requirements how to interrogate the gaps between sap technical capabilities within business technology platform and the customers existing environment explore the sap iterative approach understand how the predefined content available for the most common sap solutions can provide you a baseline to build your demos and showcase the solution capabilities how to incorporate customer feedback so any gaps will be addressed and how to reach consensus regarding what should be developed when it should be developed and how it should be developed by the end of this be able to explain what a technology consultant does in the design pitch and redesign phases of the sap implementation lifecycle explain how to review a solution proposal and business requirements to determine sap application technical requirements for customers describe how to interrogate gaps between sap technical capabilities and the customers existing environment explain how to design an sap technical solution that fulfills the business requirements documented in the customer interview analysis and communication phases develop a technical design outline in accordance with provided parameters
-
-introduction to designing an sap solution
+</DOC>
+<DOC>introduction to designing an sap solution
 explore the key elements of the sap activate methodology and how it relates to the sap implementation lifecycle phases understand the technology consultants role in the designing an sap solution phase of the implementation lifecycle how to develop a technical design solution that includes the design and approach for the key technology elements of the solution finally how to communicate and present the technical design to the customer and create a roadmap for implementation incorporating your customers feedback on the solution
 instructor introduction introduction to designing an sap solution sap activate methodology design communicating and pitching designs redesigning based on customer feedback
+</DOC>
 
-design review identifying technical design inputs
+<DOC>design review identifying technical design inputs
 how to review the solution proposal and business requirements to determine your customers technical requirements such as the applicationlevel technical requirements and environment settings how to interrogate and identify gaps between the technical capabilities of sap solutions and the customers existing technology landscape this would include weighing decisions regarding adapting the solution versus recommending a change in existing processes finally how to close the gap between the customers existing landscape and the proposed sap solution with your technical design
 intro to design review of business requirements design review of customer technology landscape
+</DOC>
 
-developing a technical design
+<DOC>developing a technical design
 how to use sap tools to design a technical solution that fulfills the business requirements documented in the customer engagement and delivery phase also how to develop the technical design solution some of the things that you would include in the technical design solution would be the design and approach for key technology elements such as the platform architecture and cloud model systems and infrastructure data model security compliance and data provisioning
 intro to technical design tools technical design solution approach and planning develop a technical design solution part develop a technical design solution part
+</DOC>
 
-pitching designs and responding to customer feedback
+<DOC>pitching designs and responding to customer feedback
 best practices for communicating and presenting the technical design solution and implementation roadmap to your customer stakeholders and decisionmakers how to incorporate customer feedback in your solution and manage design limitations through the implementation roadmap before you move for a signoff on the solution and the roadmap the signoff is followed by finalizing the proposed architecture associated tools and the proposed bill of materials before you finally move into the execution configuration and testing phase of the sap implementation lifecycle
 intro to communicating and pitching designs incorporating customer feedback into technical design communicating effectively with stakeholders finalizing and signing off the technical design
+</DOC>
 
-handson project
+<DOC>handson project
 be provided with a case study of a customer implementing a new sap cloud erp system and financialscm system develop and document a highlevel technical solution design based on the business and technical requirements youve identified in the sap customer engagement and discovery also explain how you would go about documenting and incorporating design feedback identifying other role contributors where relevant then summarize your technical solution design in a short precis to present to the customer to put your learning into practice review the assessment submission of two peers using the peer review rubric provided
 intro to project develop a technical solution design
 </DOC>
-
 <DOC>
 sap fundamentals
 sap fundamentals is the first in the sap technology consultant the introduces you to the world of consulting and the range of that you need to succeed competitive field
 explore sap consulting roles and discover what technical consultants functional consultants and other professionals do investigate the wide range of consultants need to have for example strategic thinking business process analysis systems and design thinking and understanding data as as effective soft communication and relationship management explore various planning and project management methodologies such as waterfall agile devops and cloud plus start to get a feel for the whole sap journey from engaging with the customer to deploying a solution by the end of this be able to explain what is meant by the sap ecosystem and the value it brings to customers describe what different sap professionals do and how they engage with customers understand the core and soft consulting that are both in highest demand and frequently not taught in classroom environments describe a typical sap engagement and how key are used at each stage of the sap implementation lifecycle describe key roles with whom an sap typically collaborates
-
-introduction to the sap ecosystem
+</DOC>
+<DOC>introduction to the sap ecosystem
 in be introduced to the sap ecosystem and explain how it helps businesses solve problems and achieve their goals the sap ecosystem includes sap products people partners customers and many others who with us to build the sap platform sap software is at the heart of the sap ecosystem how sap software is used to drive the flow of data and information across organizations sap is all about helping organizations become intelligent and sustainable find out more about our customers and see how sap puts these goals into action for them meet sap professionals from across the ecosystem and get a flavor of what it is like to with sap come to understand the required to operate as an sap in a business environment and how these key are used
 introduction instructor introduction introduction to sap ecosystem and its value to customers setting context what is sap sap and ecosystem in action what does an sap do
+</DOC>
 
-sap part
+<DOC>sap part
 covers the first group of need to be successful as an sap in a business environment these key include how to conduct research and how to think thinking strategically helps you focus effectively on problems the customer hopes to solve the difference between conceptual and strategic through design thinking and systems thinking also how to apply an analytical tool kit to fully understand the customers organization processes and technology and help the customer bring about the right changes to their business communication with the customer is key communication and presentation will help you create concise clear and easytocomprehend written documents on sap projects at the end of the how microsoft suite tools can be used to enhance your communication and writing
 introduction to sap part research concepts research methods strategic thinking design thinking systems thinking part systems thinking part understanding the customer environment analyzing business processes and data analyzing system and technology environments verbal communication presentation writing
+</DOC>
 
-sap part
+<DOC>sap part
 is designed to give you specific related to sap planning project management and collaboration we start with personal planning and project planning to first determine your goals then your tasks then prioritize them also cover project management basics such as the implementation life cycle breakdown structure baselines and statement of also explore different methodologies like waterfall agile devops and cloudbased managing relationships between team members is one of the most vital you can develop as a consultant see how building relationships at is directly related to reaching goals also how developing business acumen political sensitivity and cultural awareness play a part in building teams and consulting finally explore functional and domain and how they apply to working with customers
 introduction to sap part planning and project communication project management and development methodologies building effective relationships and collaboration applying functional and domain knowledge in context
+</DOC>
 
-introduction to the sap implementation lifecycle
+<DOC>introduction to the sap implementation lifecycle
 is an introduction to the sap implementation lifecycle when customers engage with sap and why the phases in the implementation lifecycle will take you from engaging with the customer to deploying a solution in the customers environment see how to engage with the customer discover their challenges and goals prepare for and kick off the project explore and analyze the customers business and technology landscape design a solution then deploy test and run the solution introduce you to templates and tools to help accelerate your project finally more about how to apply your consulting at each stage of the lifecycle
 introduction to the sap implementation lifecycle digital transformation sap implementation lifecycle key for customer engagement discovery and analysis key for design implementation and testing
+</DOC>
 
-understanding sap roles and functional knowledge
+<DOC>understanding sap roles and functional knowledge
 focuses on the roles of the functional consultant and the technical consultant what kind of will you do if you become a functional consultant focus on the customers industry and their processes and operations discuss their pain points and design a solution using sap software what kind of will you do if you become a technical consultant translate the design into technical specifications and ensure that the solution runs effectively in the customers environment you may decide to focus on a particular functional area such as supply chain management or you may decide to focus on an aspect of technology such as writing code help you understand what is possible as you start on the journey toward becoming an sap wrap up this by examining key elements of the sap product strategy and how it helps customers transform their core business processes
 introduction to understanding sap roles and functional knowledge role of a functional consultant role of a technical consultant sap product strategy and functional knowledge sap and functional knowledge
+</DOC>
 
-handson project for successful sap implementations
+<DOC>handson project for successful sap implementations
 is where apply what you have learned this will help you assess your understanding and perhaps get a feel for where you would like to direct your own choose a customer story about a reallife sap implementation then prepare to join the project depicted in the customer story as an sap on the initial team research the customers organization industry and technology environment using the customer story materials and other creditable sources present your findings to the customer either by writing a short or via a short explaining what you have discovered finally review submissions from other learners providing them feedback and receiving feedback on your
 introduction to final project project of
 </DOC>
-
 <DOC>
 understanding the enterprise systems environment
 understanding the enterprise systems environment is the second in the sap technology consultant the builds your understanding of the digital landscape
 explore business processes and organizational alignment get an of how systems are designed and developed and consider architecture infrastructure application development data science cloud privacy and security build your understanding of the sap platform and consider key development and deployment models covering advanced business application programming abap java sap api and sap fiori plus explore gap analysis using sap rise and activate and become familiar with sap cloud strategy architecture and tools by the end of this be able to describe how digital transformation can impact a customers organization business processes and tools peopleprocesstools identify the key elements of system design and development and how they relate to specific it requirements identify different computing models eg compute network storage onprem cloud etc and architectures eg native hybrid multicloud explain the key elements of the sap platform and environment describe key application development and programming models explain the key elements of the sap cloud strategy understand the key questions to keep in mind when faced with a specific request from a prospective client
-
-introduction to sap and the digital landscape
+</DOC>
+<DOC>introduction to sap and the digital landscape
 how enterprise resource planning erp solutions cloudbased infrastructure and advanced analytics underpin digital transformation digital transformation requires not just a transformation of a businesss processes and models but also organizational and cultural transformation cloudbased infrastructure is an essential component of successful digital transformation the cloud offers different service and deployment models that allow businesses to plan their move to the cloud keeping their specific needs in mind the growth in data generation means explosive growth in the potential for examining that data for new insights how data analytics and data science help businesses generate insights from massive volumes of data and the measures they consider to ensure the security and privacy of data about the customer journey and how customer systems shape and provide business technical and data analysis context
 and instructor introduction introduction to sap and the digital landscape digital transformation cloud data analytics and data science customer artificial intelligence and automation security and privacy
+</DOC>
 
-business process and organizational readiness
+<DOC>business process and organizational readiness
 what impact digital transformation has on a company its business processes and its tools to digitally transform all aspects of a company need to be integrated including people processes tools and technology to improve readiness for transformation businesses must set goals prepare the organization identify kpis for tracking progress and prepare people and companies can take early steps for digital transformation by determining the starting point defining priorities building a road map and preparing their teams be able to appreciate how business requirements are linked to business goals a companys maturity impacts its readiness for change and the form of change it could benefit from most about the five stages of business maturity from the initial entrepreneur stage to the stage where an organization is stable organized and operationally structured
 introduction to digital transformation and organizational alignment understanding the organizational impact of digital transformation understanding business goals and process alignment understanding business requirements determining business and organizational alignment
+</DOC>
 
-understanding system design and development
+<DOC>understanding system design and development
 about system architecture and how data modeling helps build the overall architecture design of a system from the highlevel or abstract view to the technical details explore the relationship between cloud architecture and systems design and appreciate the importance of cloud architecture and systems design when consulting with clients also about operating systems platforms data and data sets and databases and their types elastic computing is the ability to dynamically adjust computer processing memory and storage resources to match changing business demands cover the benefits of elastic computing and about the compute and data storage elasticity provided by sap hana cloud about various programming languages development tools apis and their use cases customer shapes solution design by providing a context for the business technical and data analysis factors involved rise with sap is a commercial offering that gives customers the core enterprise resource planning and additional bundled capability to move to the cloud faster and painlessly the sap activate methodology provides the customer with a roadmap for implementing sap solutions also how cloudnative technologies microservices and service meshes modernize application development lastly about security governance common cybersecurity threats and the five pillars of managing cyber risks
 introduction to system design and development architecture architectural design methods cloud architectures part cloud architectures part operating systems and platforms databases elastic computing applications and apis programming languages and development tools data science and analytics design customer design cloud design and management information security cybersecurity
+</DOC>
 
-sap platform and cloud
+<DOC>sap platform and cloud
 this will teach you about the key sap application development and programming models application development can be broken into three key aspects environment languages and integration with other systems about the capabilities of sap hana including database management database administration data security multimodel processing application development and data virtualization revisit the service and deployment models that the cloud provides and about the key drivers of saps cloud strategy saps cloud strategy draws on the elements of flexibility availability reliability and innovation provided by the cloud the core of saps cloud architecture and its services to customers is the sap business technology platform or btp btp is a collection of saps onpremises and cloud products and services gain an understanding of the four pillars or solutions of sap btp including application development integration data and analytics and artificial intelligence about the key cloud architecture elements and tools used in sap environments lastly also about sap hana cloud the cloudbased data foundation for btp and sap analytics cloud the analytics and planning solution of btp
 introduction to sap platform and cloud sap application and development models sap hana development sap cloud strategy sap cloud architecture and tools
+</DOC>
 
-case study project sap customer analysis
+<DOC>case study project sap customer analysis
 is where apply what you have learned complete your case study project analyzing the royal greenland sap business technology platform sap btp implementation earlier in the you reviewed the case study materials to uncover the customers digital transformation goals you also learnt more about sap btps capabilities review the endtoend sap solution assess how the solution helps royal greenland to meet its digital transformation goals and become an intelligent and sustainable enterprise develop a deck to summarize and present your findings to the customer review submissions from other learners providing them feedback and receiving feedback on your finally take the graded quiz for the
 introduction to sap customer analysis project project sap customer analysis of understanding the enterprise systems environment
 </DOC>
-
 <DOC>
 sap customer engagement and discovery
 sap customer engagement and discovery is the third in the sap technology consultant the introduces you to sap activate methodology and teaches you how to engage with customers and with them in exploring how to achieve their transformation goals
 how to gather information and insights about a customers business technology and data investigate saps fittostandard analysis approach consider how to accurately understand and assess a clients needs and look at saps customer journey roadmap which includes how to identify and communicate the value of a solution to stakeholders and get signoff by the end of this be able to describe the key elements of the sap activate methodology and customer engagement model explain the planning and set up activities for a typical sap customer project explain what a technology consultant does in the customer engagement and discovery phase of sap projects explain how to gather relevant information and insights about customer strategy objectives processes technology and data describe how to conduct discovery workshops and interviews explain saps fittostandard approach and key preparation activities and develop a customer journey roadmap identify and communicate the business value of a proposed sap solution
-
-introduction to sap customer engagement and discovery
+</DOC>
+<DOC>introduction to sap customer engagement and discovery
 explore how sap engages with customers from stage to project setup cover and planning activities for a typical customer project including strategy approach roles and responsibilities and running a project kickoff session about the key elements of saps activate methodology and how it can accelerate project finally look at what a technology consultant does in the engagement and discovery phase
 instructor introduction introduction to sap activate methodology sap activate methodology and customer engagement planning and stakeholder analysis setup and kickoff gathering customer insights and information determining analysis approach and preparation activities identifying and communicating business value
+</DOC>
 
-gathering customer information and insights
+<DOC>gathering customer information and insights
 cover how to gather customer information and insights as inputs for the analysis phase look at metrics or models that can be used in business or technical analysis and ways to gather business data and technical information including discovery workshops interviews observations or surveys finally use the insights weve gathered to assess whether the customers business objectives are aligned with the current organization
 introduction to how are metrics and models used in analysis how are metrics and models used to validate how to gather business and technical inputs facilitating a customer discovery session refining and aligning business objectives
+</DOC>
 
-preparing for solution analysis and design
+<DOC>preparing for solution analysis and design
 get ready for the analysis and design phase this includes key preparation and technical setup activities like ensuring the team is ready and configuring environments and tools to run fittostandard process workshops explore saps fittostandard analysis approach and compare it with other models frameworks and tools used to analyse technology and business landscapes
 introduction to understanding the fittostandard analysis approach other analysis frameworks and tools setup and preparation activities review systems and application architecture review business process and functional architecture review data landscape
+</DOC>
 
-communicating business value and seeking signoff
+<DOC>communicating business value and seeking signoff
 walk through how to identify and communicate the solutions business value to the customers key stakeholders explore best practices for documenting your findings during discovery and your approach for the analysis and design phase in a customer journey roadmap walk through how to identify and communicate the sap solutions business value to the customers key stakeholders including how to seek customer feedback and signoff to move to the next phase
 introduction to documenting discovery and validated business objectives customer journey roadmap planning identifying and communicating business value guiding and providing technical expertise presenting the customer journey roadmap incorporating customer feedback and seeking phase signoff
+</DOC>
 
-handson project
+<DOC>handson project
 assess an sap customer case study to understand the customers organization business objectives and technology landscape following the assessment instructions use a template to complete and submit a customer journey map plan explaining how collaborate with other sap professionals to prepare the customer for the analysis and design phase then summarize your customer journey map plan approach in a short precis or by recording a to present to the customer to put your learning into practice review the assessment submission of two peers using the peer review rubric provided
 introduction to project create a customer journey map plan to prepare for analysis and design phase
 </DOC>
-

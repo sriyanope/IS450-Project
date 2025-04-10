@@ -18,119 +18,137 @@ in the final industry project learners can apply all the knowledge gained throug
 competitive strategy
 sixmodule how businesses and organizations behave in situations in which strategic decisions are interdependent ie where my actions affect my competitors profits and vice versa using the basic tools of game theory analyse how businesses choose strategies to attain competitive advantage
 this is also available in chinese please go to our catalog to access the chinese version of competitive strategy
-
-take care of your competitors
+</DOC>
+<DOC>take care of your competitors
 we introduce the basic concepts of game theory and use strategic games to competitor analysis we answer what is a strategy and look at the different ways to determine a best or dominant strategy we also discuss the concepts of nash equilibrium and prisoners dilemma and that it is important to anticipate and take into consideration the actions of the other players lastly we analyse what happens when we change the game from simultaneous where everybody acts at the same time to sequential where players move after each other
 introduction game setting eliminating dominated strategies nash equilibrium prisoners dilemma game setting backward induction credible threats wrap up
+</DOC>
 
-why firms together
+<DOC>why firms together
 according to economic theory companies compete with each other in the marketplace in reality they are often friendly and cooperate with each other we attempt to understand this strategy and why it is good for the organizations involved with this we evaluate the factors that encourage or hinder cooperation and apply them in different examples
 introduction reasons for cooperation finite repetition backward induction infinite repetition factors influencing cooperation aggressive commitment cooperative commitment wrap up
+</DOC>
 
-complementary products and strategic partnerships
+<DOC>complementary products and strategic partnerships
 we introduce complements and discuss what they mean to us in economic terms we study why companies like to sell their products in a bundle and how complementarity creates switching costs we also discuss the importance of that coordination among companies with complementary products finally we look at strategic partnerships as a powerful tool to align companies interests specific setting
 introduction complements examples and definitions generic strategies positive externalities examples strategic partnerships wrap up
+</DOC>
 
-entering a new market
+<DOC>entering a new market
 this is about market entry we first look at different tools to assess the attractiveness of a market and then discuss strategies that have proven to be helpful for entering a new market such as positioning and marketing strategies we also look from the other perspective and analyse what established businesses can do to keep new competitors out of the market
 introduction market attractiveness structural entry barriers strategic entry barriers commitment value chain reconfiguration judo economics niche market structural entry barriers commitment limit pricing predatory pricing preemption wrap up
+</DOC>
 
-why worry about research and development
+<DOC>why worry about research and development
 in the context of rd a number of important strategic questions arise consistently we take a closer look at these questions though many innovations are created by a stroke of luck it seems that the majority of innovations are created because their inventors actively strive towards this specific innovation and differentiation strategy
 introduction stages of rd types of innovation competitive market monopolist monopolist with threat of entry innovation under competition sleeping patents wrap up
+</DOC>
 
-designing products wisely
+<DOC>designing products wisely
 we focus on strategic aspects of product design and pricing strategy we analyse how companies can adjust their products in a way that lowers the competitive pressure in the market later on we look at some generic strategies for product design and pricing and discuss the problems related to being stuck between these strategies
 introduction theoretical model adjusting model assumptions introduction horizontal differentiation vertical differentiation generic strategies stuck in the middle wrap up
 </DOC>
-
 <DOC>
 advanced competitive strategy
 advanced competitive strategy will introduce new topics and with even more real world examples and for student interaction than in the previous competitive strategy httpswwwcourseraorglearncompetitivestrategy
 in advanced competitive strategy look at how companies can build up and maintain their customer base by increasing switching costs and facilitating strategic customer lockins find out how firms can increase their profits by pursuing suitable price discrimination and product differentiation strategies look at examples of what is acceptable behavior under the premises of eu competition and us antitrust policies and discover exciting ways of how companies can increase their returns by strategically making use of network effects and economies of size further intensify our newly acquired knowledge about network effects and discuss strategies that are explicitly tailored to network markets analyze the workings of mergers and acquisitions and moreover support you in considering alternative strategies that can help companies grow organically
-
-maintaining your customer base
+</DOC>
+<DOC>maintaining your customer base
 look at strategies that can help us maintain our customer base for this take an analytical approach that helps us understand the point at which our customers will switch to a competitors and the amount of money a competitor is willing to spend to acquire our customers based on this understanding derive applicable strategies that can help us lock in our customers strategically do this by keeping in mind that also customers may apply their own strategies to avoid lock in and further that our competitors will seek to apply strategies in the pursuit of making our customers theirs
 introduction importance of customer loyalty types of switching costs customer value and switching old suppliers customers new suppliers wrap up
-
-determine your prices wisely
-look at the benefits of price discrimination as a strategic tool that can help us to skim off our customers willingness to pay and increase our utility accordingly we are then going to the different ways of aligning a price discrimination strategy with successful product design and the three different ways in which a price discrimination strategy can be formulated
-introduction price discrimination i reasons to discriminate price discrimination ii synchronization with product differentiation first degree price discrimination second degree price discrimination third degree price discrimination intertemporal pricing wrap up
-
-keep your business clean
-demonstrate that if you want to operate a business you have to keep in mind that there are some powerful external entities socalled competition authorities that highly value and safeguard competition while this supports and opens up for your business if it is new or relatively small and would otherwise simply be crushed by larger incumbent firms it can also put you in danger if you have already achieved a certain size have acquired more market power are already in a rather powerful position
-introduction reasons for competition policy instruments cartel agreements factors favoring cartels examples defining markets and measuring market power forms of market forclosure wrap up
-
-increase your returns
-we are going to discover two very important new concepts with which you can increase your businesss returns network effects and boundaries of the firm find that considering these two concepts in formulating our business strategy can help us improve our strategys effectiveness and eventually increase our returns
-introduction network goods network effects i direct network effects network effects ii indirect network effects market structure in network industries economies of scale economies of scope diseconomies of scale scope reasons to buy reasons to make wrap up
-
-strategies in network markets
-build upon our knowledge from and look into competition in network markets adoption rates and the advantage of critical mass following from this why this is essential for reaching the point of critical mass moreover discuss ways in which companies can raise the attention of potential consumers and reduce their perceived risk
-introduction achieving critical mass raising attention and downsizing perceived risks strategies in standardization knowing the target market strategic pricing wrap up
-
-achieve growth with the help of partners
-look at the trends goals and processes of mergers and acquisitions differentiate the two terms and examine external and internal factors that can hinder the process also find out about the striking advantages that can make a successful merger or an acquisition worthwhile if you have identified the right match for your company and eventually about the process that is involved in real world ma activities
-introduction trends differences goals for partners and buyers goals for targets pre merger considerations merger control post merger integration success of mas wrap up
-
-grow organically
-special bonus discuss the relationship between profitability and growth on the one hand and the limitations that are faced by small companies on the other what organic growth is and that it can be achieved by either protecting and building up our existing customer base and product lines or by developing new products or markets or in turn by diversifying our products portfolio acknowledge and address external and internal limitations to growth and as a final consideration will look into the possibilities of international strategies for growth
-introduction growth and profitability organic growth external limitations internal limitations international strategies wrap up
-
-final exam
-
 </DOC>
 
+<DOC>determine your prices wisely
+look at the benefits of price discrimination as a strategic tool that can help us to skim off our customers willingness to pay and increase our utility accordingly we are then going to the different ways of aligning a price discrimination strategy with successful product design and the three different ways in which a price discrimination strategy can be formulated
+introduction price discrimination i reasons to discriminate price discrimination ii synchronization with product differentiation first degree price discrimination second degree price discrimination third degree price discrimination intertemporal pricing wrap up
+</DOC>
+
+<DOC>keep your business clean
+demonstrate that if you want to operate a business you have to keep in mind that there are some powerful external entities socalled competition authorities that highly value and safeguard competition while this supports and opens up for your business if it is new or relatively small and would otherwise simply be crushed by larger incumbent firms it can also put you in danger if you have already achieved a certain size have acquired more market power are already in a rather powerful position
+introduction reasons for competition policy instruments cartel agreements factors favoring cartels examples defining markets and measuring market power forms of market forclosure wrap up
+</DOC>
+
+<DOC>increase your returns
+we are going to discover two very important new concepts with which you can increase your businesss returns network effects and boundaries of the firm find that considering these two concepts in formulating our business strategy can help us improve our strategys effectiveness and eventually increase our returns
+introduction network goods network effects i direct network effects network effects ii indirect network effects market structure in network industries economies of scale economies of scope diseconomies of scale scope reasons to buy reasons to make wrap up
+</DOC>
+
+<DOC>strategies in network markets
+build upon our knowledge from and look into competition in network markets adoption rates and the advantage of critical mass following from this why this is essential for reaching the point of critical mass moreover discuss ways in which companies can raise the attention of potential consumers and reduce their perceived risk
+introduction achieving critical mass raising attention and downsizing perceived risks strategies in standardization knowing the target market strategic pricing wrap up
+</DOC>
+
+<DOC>achieve growth with the help of partners
+look at the trends goals and processes of mergers and acquisitions differentiate the two terms and examine external and internal factors that can hinder the process also find out about the striking advantages that can make a successful merger or an acquisition worthwhile if you have identified the right match for your company and eventually about the process that is involved in real world ma activities
+introduction trends differences goals for partners and buyers goals for targets pre merger considerations merger control post merger integration success of mas wrap up
+</DOC>
+
+<DOC>grow organically
+special bonus discuss the relationship between profitability and growth on the one hand and the limitations that are faced by small companies on the other what organic growth is and that it can be achieved by either protecting and building up our existing customer base and product lines or by developing new products or markets or in turn by diversifying our products portfolio acknowledge and address external and internal limitations to growth and as a final consideration will look into the possibilities of international strategies for growth
+introduction growth and profitability organic growth external limitations internal limitations international strategies wrap up
+</DOC>
+
+<DOC>final exam
+
+</DOC>
 <DOC>
 strategic organization design
 strategic organization design will introduce new topics and with even more real world examples and for student interaction than its predecessors competitive strategy httpswwwcourseraorglearncompetitivestrategy and advanced competitive strategy httpswwwcourseraorglearnadvancedcompetitivestrategy
 the final in the competitive strategy and organization design covers the internal workings of an organization and its interactions with the outside world where the first two courses mainly covered the way firms interact with the outside world in particular competitors and complementors the third looks at the way a firms organization should be designed to compete effectively
-
-structure organizations
+</DOC>
+<DOC>structure organizations
 this will introduce the fundamental dimensions of organization design take a designers point of view and first introduce the objective elements of organization design the organizational structure this is reflected in the organization chart the size and importance of the functional units the organization by product lines functions or geographical units the second part of the will cover other elements that govern the interaction between units and individuals such as the degree of formalization and centralization the reward system and the degree of task division
 trailer strategic organization design introduction definitions and examples organizational challenges strategic organization design structural dimensions contextual dimensions promoting cooperation and coordination wrap up
-
-manage complexity and interdependence
-this will integrate the elements laid out in the previous one for an organization designer it is crucial to realize that each of the elements will interact with others for example screening employees for their intrinsic motivation and subsequently leaving them little autonomy would lead to decreased performance after laying out the general patterns of complementarity and substitutability the will proceed to outline the consequences for changing an organizations design changes of a single design element will likely trigger further changes in other related elements and some organizational aspects like corporate culture or existing human capital may not be easy to change if at all
-introduction definitions and examples causes and effects managing interdependence channeling individual behavior designing complementarities wrap up
-
-understand your surroundings
-the design of an organization is also affected by the firms environment firms finding themselves in a competitive environment may have to compete for key resources including employees with other firms which may affect the way they recruit but it may also have repercussions for the type of employees or other resources the firm can acquire similarly if firms strive to continuously innovate and seek out new market they have to be designed in a way to support this goal thus a firms strategy its competitive environment and its organization design have to be aligned to help a firm achieve its objective
-introduction definitions and examples environmental challenges meeting environmental challenges why industry matters example knowledge industries wrap up
-
-decide on a corporate office
-this will highlight the role of the corporate office in a number of ways first its importance in corporate decisionmaking is analyzed on the one hand the corporate office is best placed to take the firms overall objectives into account so corporate choices may be more efficient if taken by the corporate office on the other hand lower ranks in the hierarchy often carry more detailed information about the immediate challenges and changes in the different activities of the firm second this looks at the scope of decisions the corporate office takes while some corporate offices restrict themselves to providing an internal financial market others will heavily control the specific actions of the lowerranked units
-introduction introduction improving performance shared services compliance and combinations a form of centralization scope of decisionmaking wrap up
-
-design for growth
-this final of the will combine many of the aspects learned in the earlier imagine you are an entrepreneur with a strategic vision to enter a market with specific competitive conditions and a plan for growth how will you set up an organization that is both effective in the environment it is currently facing so that it is successful in the short term but also effective in managing and facilitating the growth needed to survive in the long term the tension between efficiency in the short run and flexibility in the long run is crucial and this will discuss options of how to manage it and what role an organization designer can play the final will therefore serve as a of the content but also as a practical guide to combine all the aspects above in the actual planning process from foundation to maturity of a firm
-introduction introduction to stages and key challenges efficiency and strategy natural benefits leveraging scale and speed enabling growth balancing efficiency while growing dealing with maturity and decline wrap up
-
-final exam
-
 </DOC>
 
+<DOC>manage complexity and interdependence
+this will integrate the elements laid out in the previous one for an organization designer it is crucial to realize that each of the elements will interact with others for example screening employees for their intrinsic motivation and subsequently leaving them little autonomy would lead to decreased performance after laying out the general patterns of complementarity and substitutability the will proceed to outline the consequences for changing an organizations design changes of a single design element will likely trigger further changes in other related elements and some organizational aspects like corporate culture or existing human capital may not be easy to change if at all
+introduction definitions and examples causes and effects managing interdependence channeling individual behavior designing complementarities wrap up
+</DOC>
+
+<DOC>understand your surroundings
+the design of an organization is also affected by the firms environment firms finding themselves in a competitive environment may have to compete for key resources including employees with other firms which may affect the way they recruit but it may also have repercussions for the type of employees or other resources the firm can acquire similarly if firms strive to continuously innovate and seek out new market they have to be designed in a way to support this goal thus a firms strategy its competitive environment and its organization design have to be aligned to help a firm achieve its objective
+introduction definitions and examples environmental challenges meeting environmental challenges why industry matters example knowledge industries wrap up
+</DOC>
+
+<DOC>decide on a corporate office
+this will highlight the role of the corporate office in a number of ways first its importance in corporate decisionmaking is analyzed on the one hand the corporate office is best placed to take the firms overall objectives into account so corporate choices may be more efficient if taken by the corporate office on the other hand lower ranks in the hierarchy often carry more detailed information about the immediate challenges and changes in the different activities of the firm second this looks at the scope of decisions the corporate office takes while some corporate offices restrict themselves to providing an internal financial market others will heavily control the specific actions of the lowerranked units
+introduction introduction improving performance shared services compliance and combinations a form of centralization scope of decisionmaking wrap up
+</DOC>
+
+<DOC>design for growth
+this final of the will combine many of the aspects learned in the earlier imagine you are an entrepreneur with a strategic vision to enter a market with specific competitive conditions and a plan for growth how will you set up an organization that is both effective in the environment it is currently facing so that it is successful in the short term but also effective in managing and facilitating the growth needed to survive in the long term the tension between efficiency in the short run and flexibility in the long run is crucial and this will discuss options of how to manage it and what role an organization designer can play the final will therefore serve as a of the content but also as a practical guide to combine all the aspects above in the actual planning process from foundation to maturity of a firm
+introduction introduction to stages and key challenges efficiency and strategy natural benefits leveraging scale and speed enabling growth balancing efficiency while growing dealing with maturity and decline wrap up
+</DOC>
+
+<DOC>final exam
+
+</DOC>
 <DOC>
 competitive strategy and organization design project
 this industry project is designed to allow you to apply the knowledge you have gained throughout the for advising a real company our partner company will approach you with two specific questions the company is currently facing and that relate to the content of the you are asked to choose one of these questions and conduct an indepth research on the topic you need to collect relevant information analyze it and relate it to the content you have learned throughout the based on your findings write a final report summarizing your research and consult the company how to deal with the issues they are facing
-
-get started
+</DOC>
+<DOC>get started
 this section will prepare you for your capstone project get to know our partner company and about current issues they are facing throughout the capstone project you are asked to analyze one of the consulting report questions posed by the company and write a report giving recommendations to the company your final report will be forwarded to the company is supposed to give you the possibility to revise relevant content from the three courses in the to about the partner company and their questions and to get familiar with the capstone project and what is to expect in the upcoming weeks
 trailer competitive strategy and organization design project introduction to the industry project
-
-milestone i indepth research
-focus on one of the questions posed by the company and collect relevant information for answering the question how to yourself through various sources of data and to evaluate their quality and relevance for the topic at hand at the end of the you have the chance to share your by handing in a threepage of your method sources and key findings this is an optional peer reviewed and it will not count towards the final grade however it presents a great for you to receive feedback and improve your industry project
-
-milestone ii analysis
-after having identified relevant data sources and information in the previous analyze your findings to combine aggregate and analyze information from various sources and try to find the most appropriate way to present your insights as in the previous you have the to share your by handing in a onepage and four graphical representations of your findings this is again optional yet provides a great to receive feedback that can help you to improve your final project
-
-milestone iii interpretation and synthesis
-interpret and relate your findings from the last two to the theoretical concepts you have learned throughout the three courses this ideally leads to additional insights for answering the analyzed question if you are interested in receiving feedback you have the option to hand in a twopage interpretation of your findings in which you relate them to relevant theoretical concepts
-
-write and finalize your final report
-in the fifth on and finalize your final based on your from the previous weeks write a consulting report for the partner company and develop recommendations for them on how to deal with the specific question at hand there is no additional quiz or voluntary peerreview as you should focus on working on your final report that is due in the next
-
-submit your final report and from your peers
-final submit your final report and review the reports submitted by your peersthe submission of the final is compulsory for passing the the final is a report for the company that summarizes your indepth research on the question analysis and interpretation after the of the project the report is supposed to give recommendations for the company on how to deal with the investigated issue the final report is supposed to comprise ten pages additionally graphical representations or tables of the findings must be attached to the report after you have submitted your report be asked to review reports from your peers this will allow you to see different approaches to analyze the same question and will be an excellent to gather ideas for your future projects
 </DOC>
 
+<DOC>milestone i indepth research
+focus on one of the questions posed by the company and collect relevant information for answering the question how to yourself through various sources of data and to evaluate their quality and relevance for the topic at hand at the end of the you have the chance to share your by handing in a threepage of your method sources and key findings this is an optional peer reviewed and it will not count towards the final grade however it presents a great for you to receive feedback and improve your industry project
+</DOC>
+
+<DOC>milestone ii analysis
+after having identified relevant data sources and information in the previous analyze your findings to combine aggregate and analyze information from various sources and try to find the most appropriate way to present your insights as in the previous you have the to share your by handing in a onepage and four graphical representations of your findings this is again optional yet provides a great to receive feedback that can help you to improve your final project
+</DOC>
+
+<DOC>milestone iii interpretation and synthesis
+interpret and relate your findings from the last two to the theoretical concepts you have learned throughout the three courses this ideally leads to additional insights for answering the analyzed question if you are interested in receiving feedback you have the option to hand in a twopage interpretation of your findings in which you relate them to relevant theoretical concepts
+</DOC>
+
+<DOC>write and finalize your final report
+in the fifth on and finalize your final based on your from the previous weeks write a consulting report for the partner company and develop recommendations for them on how to deal with the specific question at hand there is no additional quiz or voluntary peerreview as you should focus on working on your final report that is due in the next
+</DOC>
+
+<DOC>submit your final report and from your peers
+final submit your final report and review the reports submitted by your peersthe submission of the final is compulsory for passing the the final is a report for the company that summarizes your indepth research on the question analysis and interpretation after the of the project the report is supposed to give recommendations for the company on how to deal with the investigated issue the final report is supposed to comprise ten pages additionally graphical representations or tables of the findings must be attached to the report after you have submitted your report be asked to review reports from your peers this will allow you to see different approaches to analyze the same question and will be an excellent to gather ideas for your future projects
+</DOC>

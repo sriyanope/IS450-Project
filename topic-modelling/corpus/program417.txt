@@ -24,152 +24,165 @@ concrete that top employers are hiring for right now
 create highfidelity designs and prototypes in figma
 create highfidelity designs and prototypes in figma is the fifth in a that will equip you with the you need to apply to entrylevel jobs in user ux design follow stepbystep tutorials to how to create highfidelity designs called mockups in figma a popular design tool then turn those designs into an interactive prototype that works like a finished product conduct research to collect feedback about your designs and make improvements finally how to share your designs with development teams and highlight your in your ux portfolio
 current ux designers and researchers at google will serve as your instructors and complete handson activities that simulate realworld ux design scenarios learners who complete the seven courses should be equipped to apply for entrylevel jobs as ux designers by the end of this be able to build mockups and highfidelity prototypes in figma define and apply common visual design elements and principles demonstrate how design systems can be used to organize standardize and enhance designs understand the role of design critique sessions and feedback while iterating on designs how to hand off finished design projects to engineering teams complete mobile app designs to include in a ux portfolio this is suitable for beginnerlevel ux designers who have completed the previous four courses of the google ux design alternatively learners who have not completed the previous courses should have a strong understanding of the design process how to create lowfidelity designs on paper and in figma and how to conduct usability studies
-
-starting to create mockups
+</DOC>
+<DOC>starting to create mockups
 turn your focus to visual design which is how a product or technology appears to users part of the start to create mockups which are highfidelity designs that represent a final product to create mockups use visual design elements like typography color and iconography elements are often arranged into layouts using methods like grids containment and negative space apply all of these visual design learnings to build on the mobile app designs youve been working on throughout the
 introduction to create highfidelity designs and prototypes in figma kunal my journey to ux welcome to introduction to mockups chikezie transition from lowfidelity to highfidelity designs introduction to foundational elements of visual design typography in ux design the importance of typography color in ux design iconography in ux design add images to your mockups introduction to layouts use grids to guide layouts use containment in layouts use negative white space in layouts wrapup starting to create mockups
+</DOC>
 
-applying visual design principles to mockups
+<DOC>applying visual design principles to mockups
 part of the use visual design principles to refine mockups first use emphasis to guide users to the most important parts of a page next apply hierarchy scale and proportion to organize the elements on each page of your app then consider unity and variety to help elements of your app function together or stand out finally revisit gestalt principles like similarity proximity and common region to help users interpret your designs easily
 welcome to emphasis in ux design hierarchy in ux design scale and proportion in ux design unity and variety in ux design apply gestalt principles to mockups reflect on your progress wrapup applying visual design principles to mockups
+</DOC>
 
-exploring design systems
+<DOC>exploring design systems
 come explore the world of design systems part of the be introduced to the parts of a design system as as the benefits of using a design system examine various companies design systems and have an to use them in your own mockups also how to use and create sticker sheets in figma
 welcome to introduction to design systems benefits of design systems googles design system material design shopifys design system polaris create a sticker sheet in figma use a design system library in figma shabi consider assistive technologies when working in design systems wrapup exploring design systems
+</DOC>
 
-creating highfidelity prototypes
+<DOC>creating highfidelity prototypes
 youre ready to build highfidelity prototypes in figma following six steps turn your mockups into a prototype thats ready for testing in addition explore two new concepts gestures and motion which can help enrich the user and increase the usability of prototypes
 welcome to introduction to highfidelity prototypes create a highfidelity prototype in figma gestures and motion in ux design add gestures and motion in figma accessibility considerations for gestures and motion jen design with accessibility in mind from figma prototype interactions and feedback wrapup creating highfidelity prototypes
+</DOC>
 
-testing and iterating on designs
+<DOC>testing and iterating on designs
 now that you have a highfidelity prototype its time to test your designs to get started conduct a usability study to test your highfidelity prototype of a mobile app analyze the feedback you receive to come up with actionable insights and iterate on your designs then how to hand off designs to engineers for production finally turn everything youve learned about user research ideation wireframes designs and prototypes into a case study for your ux portfolio
 welcome to plan a ux research study conduct a usability study analyze and synthesize usability study results iterate on highfidelity designs identify when a design is complete document and share designs hand off designs for production from figma prepare for hand off create a case study for your portfolio project wrapup testing and iterating on designs congratulations on completing create highfidelity designs and prototypes in figma
 </DOC>
-
 <DOC>
 build dynamic user interfaces ui for websites
 build dynamic user interfaces ui for websites is the sixth in a that will equip you with the you need to apply to entrylevel jobs in user ux design plan a design for a website create wireframes and prototypes and test your designs to get feedback additionally about engaging in design critique sessions and how to give and receive feedback by the end of this have a new design project to include in your ux portfolio in addition how to search for entrylevel ux design jobs create a resume that highlights your and accomplishments and build your portfolio website
 current ux designers and researchers at google will serve as your instructors and complete handson activities that simulate realworld ux design scenarios learners who complete the seven courses should be equipped to apply for entrylevel jobs as ux designers by the end of this be able to apply each step of the ux design thinking framework empathize define ideate prototype test to create a responsive website plan information architecture and create sitemaps for website designs apply common layouts for web pages plan and conduct a usability study to gather feedback about designs iterate on designs based on research insights with design systems add a new design project to your ux portfolio optional create or update a uxfocused resume optional how to search for and apply to introductorylevel jobs in the field of ux this is suitable for beginnerlevel ux designers who have completed the previous five courses of the google ux design alternatively learners need to have a strong foundational understanding of the design process
 creating wireframes mockups and prototypes
 and the ability to conduct usability studies no previous with figma is required
-
-plan a responsive website
+</DOC>
+<DOC>plan a responsive website
 get started with the basics of responsive web design to create a responsive website follow the steps of the ux design process empathize define ideate prototype and test part of the complete the empathize and define phases
 understand responsive websites differentiate between dedicated mobile apps and responsive web apps plan information architecture for a website explore common website structures explore sitemaps build a sitemap for your website explore common layouts for website home pages the basics of wireframes plot a responsive layout adjust page layouts based on screen size transition from paper to digital wireframes refine wireframes to enhance accessibility evaluate wireframes using gestalt principles wrapup creating wireframes for a responsive website
+</DOC>
 
-create and test prototypes
+<DOC>create and test prototypes
 now that youve created digital wireframes its time to build test and iterate on a lowfidelity prototype first how to build a lowfidelity prototype get feedback about your prototype by planning and conducting a usability study then make changes to your lowfidelity designs based on insights from your research
 understand lowfidelity prototypes begin to design mockups with design systems review introduction to highfidelity prototypes review create a highfidelity prototype in figma annotate prototypes for web accessibility wrapup creating and testing highfidelity designs
+</DOC>
 
-participating in design critique sessions
+<DOC>participating in design critique sessions
 after youve empathized with users defined the user problem to solve and begun to ideate possible solutions its time to bring your ideas to life in wireframes your responsive website will have different layouts depending on the device and screen size youre designing for so create lots of different wireframes first explore common website layouts and create paper wireframes next get to know a few elements and components that are commonly used in responsive website design then transition to create digital wireframes finally update and refine your wireframes to enhance accessibility
 collaborate with engineering teams add a project to your portfolio give and receive feedback as a ux designer the basics of design critique sessions best practices for design critique sessions kunal my with design critique sessions introduction to a mock crit session observe a mock crit session turn crit session feedback into actions iterate on mockups based on feedback from crit sessions wrapup participating in design critique sessions
+</DOC>
 
-document design and search for jobs
+<DOC>document design and search for jobs
 with your responsive website designs complete be ready to share your with others to start how to prepare and handoff designs to engineers who will build the final product also add a case study to your ux portfolio featuring your responsive website designs then pivot to focus on your big picture goal getting a job as a ux designer tips and tricks to scan job postings and create a compelling resume that highlights your new ux
 understand common jobs for ux designers explore types of companies that ux designers at kenny perseverance identify where to apply for ux design jobs scan job descriptions for key words understand ux design resumes dane my advice for ux design resumes tim a recruiters advice for ux design resumes update a resume based on job descriptions congratulations on completing build dynamic user interfaces ui for websites
 </DOC>
-
 <DOC>
 conduct ux research and test early concepts
 conduct ux research and test early concepts is the fourth in a that will equip you with the you need to apply to entrylevel jobs in user ux design how to plan and conduct a usability study to gather feedback about designs then modify your lowfidelity designs based on insights from your research
 current ux designers and researchers at google will serve as your instructors and complete handson activities that simulate realworld ux design scenarios learners who complete the seven courses should be equipped to apply for entrylevel jobs as ux designers by the end of this be able to plan a ux research study including the project background research goals research questions key performance indicators methodology participants and script explain the importance of respecting privacy and user data conduct a moderated and unmoderated usability study take notes during a usability study create affinity diagrams to group and analyze data synthesize observations from research and come up with insights develop persuasive presentation to share research insights modify lowfidelity designs based on research insights continue to design a mobile app to include in your portfolio to be successful you should complete the previous three courses in the or you need to have an ability to conduct user research to inform the creation of empathy maps personas user stories user journey maps problem statements and value propositions
 as as an ability to create wireframes and lowfidelity prototypes on paper and in figma
-
-planning ux research studies
+</DOC>
+<DOC>planning ux research studies
 how to plan a ux research study there are seven elements that your plan should include the project background research goals research questions key performance indicators methodology participants and the script or questions ask participants explore each of these elements in detail and create your own research plan to test the designs you developed in the previous of the also how to respect user privacy and data when conducting ux research
 introduction to conduct ux research and test early concepts samar working as a self taught ux researcher jason my journey to ux understand the ux research process get to know the seven elements of a research plan start building a research plan project background research goals and research questions continue building a research plan kpis continue building a research plan methodology continue building a research plan participants finish building a research plan script make privacy a part of ux practices understand privacy issues vanessa ethics privacy and data in the real world wrapup planning ux research studies
+</DOC>
 
-conducting research with usability studies
+<DOC>conducting research with usability studies
 conducting research with participants to get feedback about your designs is critical part of the conduct a usability study which is a research method that assesses how easy it is for participants to complete core tasks in a design also explore how to reduce bias and be inclusive when conducting usability studies and take notes while observing participants in a usability study
 welcome to introduction to usability studies conduct moderated and unmoderated usability studies introduction to a mock unmoderated usability study participant a mock usability study participant b mock usability study participant c mock usability study participant d mock usability study participant e mock usability study explore usability study best practices before the study begins explore usability study best practices during the study deana my job as a ux researcher identify biases when interviewing usability study participants reduce bias in interviews introduction to notetaking methods during usability studies use a spreadsheet to take notes chikezie my journey to ux wrapup conducting research with usability studies
+</DOC>
 
-analyzing and synthesizing research results
+<DOC>analyzing and synthesizing research results
 after you conduct a usability study have a ton of feedback from participants part of the analyze and synthesize all of the feedback from your research gather data and observations in one place organize the data using an affinity diagram find themes and come up with actionable insights
 from observations to insights case study improving design at google developing insights gather and organize data patterns and themes in research data qualities of strong insights utkarsh develop insights from usability studies wrapup analyzing and synthesizing research results
+</DOC>
 
-sharing research insights for better designs
+<DOC>sharing research insights for better designs
 its time to let your hard shine in the spotlight youre ready to share and promote the insights from your research part of the techniques for presenting insights to various audiences and improve your presentation to grab your audiences attention in addition iterate on your designs which means making revisions to create newandimproved designs based on insights from your research
 organize insights for sharing choose a format for sharing insights create a strong presentation presentation tips heather deliver research insights modify lowfidelity designs based on insights how to make researchbased design changes wrapup sharing research insights for better designs congratulations on completing conduct ux research and test early concepts
 </DOC>
-
 <DOC>
 start the ux design process empathize define and ideate
 start the ux design process empathize define ideate is the second in a that will equip you with the needed to apply to entrylevel jobs in user ux design complete the first phases of the design process for a project that be able to include in your portfolio how to empathize with users and understand their pain points define user needs using problem statements and come up with lots of ideas for solutions to those user problems
 current ux designers and researchers at google will serve as your instructors and complete handson activities that simulate realworld ux design scenarios learners who complete the seven courses should be equipped to apply for entrylevel jobs as ux designers no previous is necessary by the end of this be able to empathize with users to understand their needs and pain points create empathy maps personas user stories and user journey maps to understand user needs develop problem statements to define user needs generate ideas for possible solutions to user problems conduct competitive audits start designing a mobile app a new project to include in your ux portfolio
-
-empathizing with users and defining pain points
+</DOC>
+<DOC>empathizing with users and defining pain points
 get ready to begin the design process for a new portfolio project a mobile app this part of the will focus on empathizing with users which is the first phase of the design process think through the needs of your potential users to build empathy maps and create personas these handson activities will help you understand user perspectives and pain points
 introduction to empathize define and ideate lisa create a ux design portfolio introduction to ux design portfolios introduction to website builders introduction to best practices for ux design portfolios empathize with users recruit interview participants prepare for user interviews interviewing users empathy maps identify user pain points understand personas wrapup empathizing with users and defining pain points
+</DOC>
 
-creating user stories and user journey maps
+<DOC>creating user stories and user journey maps
 part of the continue to empathize with users of the mobile app later design craft user stories and develop user journey maps also about the importance of considering accessibility when empathizing with users
 welcome to craft user stories consider edge cases ayan real world example of edge cases create a user journey map consider accessibility when empathizing understand the curb cut effect wrapup creating user stories and user journey maps
+</DOC>
 
-defining user problems
+<DOC>defining user problems
 all of your to empathize with users will help you define the problem that users are facing part of the move from the empathize phase into the define phase of the design process to define the problem your designs will solve build a problem statement a hypothesis statement and a value proposition in addition explore how psychology and human factors influence design
 welcome to create problem statements define hypothesis statements determine a value proposition understand human factors explore psychology principles that influence design wrapup defining user problems
+</DOC>
 
-ideating design solutions
+<DOC>ideating design solutions
 youre ready to move into the third phase of the design process ideate consider everything youve learned about the users youre designing for and the problems theyre facing in order to brainstorm ideas for design solutions to help you come up with lots of ideas for design solutions conduct a competitive audit and complete design activities like how might we and crazy eights
 welcome to understand design ideation explore lots of ideas recognize business needs during design ideation use research to inform ideation craig research informs ideation in the real world create goal statements scope the competition limits to competitive audits steps to conduct a competitive audit use insights from competitive audits to ideate vanessa my journey to ux use how might we to ideate use rapid sketching to ideate consider user journeys during ideation congratulations on completing empathize define and ideate
 </DOC>
-
 <DOC>
 design a user for social good prepare for jobs
 design a user for social good and prepare for jobs is the seventh and final in a that will equip you with the you need to become an entrylevel ux designer design a dedicated mobile app and a responsive website focused on social good showcase all that youve learned during the to complete the design process from beginning to end empathizing with users defining their pain points coming up with ideas for design solutions creating wireframes and prototypes and testing designs to get feedback by the end of this have a new crossplatform design project to include in your ux portfolio
 this will also prepare you to land your first job as a ux designer how to interview for entrylevel ux design positions get tips from googlers based on their own interview and their unique perspectives as hiring managers and polish the ux portfolio youve been building throughout the so that its ready for job applications current ux designers and researchers at google will serve as your instructors and complete handson activities that simulate realworld ux design scenarios learners who complete the seven courses should be equipped to apply for entrylevel jobs as ux designers by the end of this be able to apply each step of the ux design process empathize define ideate prototype test to create designs focused on social good identify the differences between dedicated mobile apps and responsive web apps understand progressive enhancement and graceful degradation approaches for designing across devices build wireframes mockups and lowfidelity and highfidelity prototypes add a new design project to your ux portfolio create your portfolio of design for job applications join and participate in online ux communities interview for an entrylevel ux design job determine if freelance design is a good fit for you ai from google experts to help complete ux design tasks this is suitable for beginnerlevel ux designers who have completed the previous six courses of the google ux design
-
-design for social good and strengthen your portfolio
+</DOC>
+<DOC>design for social good and strengthen your portfolio
 youve reached the final of the google ux design congratulations design a dedicated mobile app and a responsive website focused on social good that showcases everything youve learned in the to get started about designing across devices by exploring progressive enhancement and graceful degradation approaches and the cs with all of this new knowledge begin your portfolio project start with the empathize phase where create personas user stories and user journey maps then move on to the define phase where identify the user need your project will focus on and build a problem statement finally make your way into the ideate phase where conduct a competitive audit and come up with ideas for your dedicated mobile app design through sketching
 introduction to design a user for social good and prepare for jobs case study nest hub max paolo my journey to ux welcome to design for progressive enhancement and graceful degradation googles focus on the user design across devices with the cs capstone guide for building new portfolio projects part capstone guide for building new portfolio projects part
+</DOC>
 
-build a presence
+<DOC>build a presence
 as the digital world continues to expand companies recognize that designing good user is a necessity which is why ux design is a highgrowth and indemand job field the key to landing one of those ux design jobs is a strong portfolio and online presence part of the start to create a portfolio to showcase your upcoming also about the importance of having a personal brand and building an online presence
 explore personal brands use writing best practices in a portfolio start to build an online presence create or update social media profiles get involved in ux design communities network and find a mentor overcome impostor syndrome catherine conquer impostor syndrome wrap up
+</DOC>
 
-finding a ux job
+<DOC>finding a ux job
 in the final part of the google ux design prepare to find a job as a new ux designer start by making final adjustments to your portfolio to ensure its ready to share in job applications next examine the ux design interview process and develop strategies to succeed in various types of interview preinterview research an elevator pitch a phone screen a portfolio presentation a whiteboard exercise a take home design exercise and more finally explore the world of freelancing by creating a business plan and learning how to land your first client
 welcome to prepare a ux portfolio for job applications introduction to the interview process conduct preinterview research get to know the interviewers build rapport with interviewers cinthya interview tips from a hiring manager use strategies to answer interview questions jay interview tips from a hiring manager develop an elevator pitch kartik interview tips from an entrylevel designer present a portfolio during interviews understand whiteboard interviews juan interview tips from a ux designer introduction to freelancing jennifer my journey as a freelance ux designer create a business plan find clients as a freelance ux designer landing the first client wrapup finding a ux job congratulations on completing design a user for social good and prepare for jobs paolo driving impact with ai in the workplace boost your ux design with ai generate personas with help from ai use ai to help with design iteration improve stakeholder communication with ai simplify complex frameworks using ai use ai to help write your portfolio copy unpublished for roc nior introducing google ai essentials congratulations on completing the google ux design exploring recap of the
 </DOC>
-
 <DOC>
 build wireframes and lowfidelity prototypes
 build wireframes and lowfidelity prototypes is the third in a that will equip you with the you need to apply to entrylevel jobs in user ux design continue to design a mobile app for your ux portfolio start by creating storyboards and getting familiar with the basics of drawing then create paper wireframes and digital wireframes using the design tool figma also create a paper prototype and a digital lowfidelity prototype in figma
 current ux designers and researchers at google will serve as your instructors and complete handson activities that simulate realworld ux design scenarios learners who complete the seven courses should be equipped to apply for entrylevel jobs as ux designers by the end of this be able to develop a goal statement create two types of storyboards big picture and closeup understand the difference between lowfidelity and highfidelity design apply the basics of drawing apply the principles of information architecture to organize a mobile app create paper wireframes for a mobile app design develop digital wireframes in the design tool figma build a paper prototype to add interactivity to designs design a lowfidelity prototype in figma recognize implicit bias and deceptive patterns in design continue to design a mobile app to include in your portfolio to be successful you should complete the previous two courses or have an ability to conduct user research to inform the creation of empathy maps personas user stories user journey maps problem statements and value propositions also need paper and a pen or pencil
-
-storyboarding and wireframing
+</DOC>
+<DOC>storyboarding and wireframing
 welcome to the world of wireframes start by learning how to use research findings to inform ideation during the design process next create two types of storyboards big picture and closeup then draw your first wireframes and explore the benefits of wireframing keep in mind that at this point in the design process you should have lots of ideas for designs that address real user needs you want to refine those ideas and wireframing can help you do that
 introduction to build wireframes and lowfidelity prototypes karen my path to ux design introduction to user flows introduction to storyboarding user flows understand the two types of storyboards introduction to wireframes start drawing draw your first wireframe understand the benefits of wireframing wrapup storyboarding and wireframing
+</DOC>
 
-creating paper and digital wireframes
+<DOC>creating paper and digital wireframes
 this is an actionpacked part of the where draw wireframes for a mobile app first draw lots of wireframes on paper then transition to digital wireframes in the design tool figma even directly from figma about how to best use their tool finally apply gestalt principles like similarity proximity and common region to your wireframes
 welcome to the basics of information architecture ia create paper wireframes transition from paper to digital wireframes introduction to figma create digital wireframes in figma optional from figma create wireframes for an app erika tools of the trade use gestalt principles when creating wireframes wrapup creating paper and digital wireframes
+</DOC>
 
-building lowfidelity prototypes
+<DOC>building lowfidelity prototypes
 youve gone through the first three stages of the design process empathize define and ideate now enter the fourth stage of the design process prototype first create a paper prototype of your mobile app then transition to a digital lowfidelity prototype in figma in addition explore ways to recognize potential bias in your designs and how to avoid deceptive patterns
 welcome to about lowfidelity prototypes create a paper prototype introduction to building lowfidelity prototypes in figma build lowfidelity prototypes in figma optional from figma create prototypes recognize implicit bias in design ayan bias in ux design identify deceptive patterns in ux design explore the effects of designs that deceive priya the importance of equitable design wrapup building lowfidelity prototypes congratulations on completing build wireframes and lowfidelity prototypes
 </DOC>
-
 <DOC>
 foundations of user ux design
 foundations of user ux design is the first of a series of seven courses that will equip you with the needed to apply to entrylevel jobs in user design ux designers focus on the interactions that people have with products like websites mobile apps and physical objects ux designers make those everyday interactions usable enjoyable and accessible the role of an entrylevel ux designer might include empathizing with users defining their pain points coming up with ideas for design solutions creating wireframes prototypes and mockups and testing designs to get feedback
 current ux designers and researchers at google will serve as your instructors and complete handson activities that simulate realworld ux design scenarios learners who complete the seven courses should be equipped to apply for entrylevel jobs as ux designers no previous is necessary by the end of this be able to define the field of ux and explain why its important for consumers and businesses understand foundational concepts in ux design such as usercentered design the design thinking framework accessibility and equityfocused design identify the factors that contribute to great user design review common job responsibilities of entrylevel ux designers and teams that they with explore job and paths within the field of user explain why design sprints are an important and useful part of a ux designers describe common ux research methods identify and account for biases in ux research
-
-introducing user design
+</DOC>
+<DOC>introducing user design
 user ux designers focus on the that users have while using products like websites apps and physical objects ux designers make those everyday interactions useful enjoyable and accessible in the first part of this be introduced to the world of ux and the factors that contribute to great user design understand the job of a ux designer and teams that ux designers often with also get to know more about the expectations of the google ux design
 welcome to the google ux design michael get started in ux design introduction to foundations of user design welcome to the basics of user design jobs in the field of user the product development life cycle design for good user job responsibilities of entrylevel ux designers specialists generalists and tshaped designers dane a day in the life of an entrylevel ux designer erika generalist or specialist designer in a crossfunctional team ux design jobs at different types of companies from to success juan a ux design journey mike a ux design journey wrapup introducing user design
+</DOC>
 
-thinking like a ux designer
+<DOC>thinking like a ux designer
 ux designers always put the user first part of the be introduced to usercentered design and one of the design frameworks that ux designers use on the job also about design best practices including the importance of inclusive design and accessibility when designing in addition how to think across platforms to design seamless user
 welcome to universal design inclusive design and equityfocused design the importance of equityfocused design get to know platforms design for different platforms usercentered design assistive technology elise the importance of assistive technology akhil thinking about users new to technology
+</DOC>
 
-joining design sprints
+<DOC>joining design sprints
 ux designers often participate in design sprints to define the direction of a product part of the explore the world of design sprints including the phases of a design sprint and how to plan and participate in one also about retrospectives which is a way to constructively reflect on a design sprint and identify areas of improvement to implement next time
 welcome to introduction to design sprints five phases of design sprints benefits of design sprints plan design sprints the design sprint brief an entrylevel designers role in a sprint jason all about design sprints design sprint retrospectives wrap up
+</DOC>
 
-integrating research into the design process
+<DOC>integrating research into the design process
 as a ux designer its your job to put the user frontandcenter in everything you do part of the explore the role of research in the design process to help you better understand and empathize with users also about the benefits and drawbacks of common ux research methods and identify and account for biases that can arise when conducting research
 emily the power of ux research introduction to ux research christie how feedback impacts design choose the right research method understand benefits and drawbacks of research methods craig my journey to ux identify types of bias in ux research deana identify bias in ux research wrapup integrating research into the design process congratulations on completing foundations of user design
 </DOC>
-

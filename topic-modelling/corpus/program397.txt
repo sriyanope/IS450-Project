@@ -8,72 +8,78 @@ ai ethics research is an emerging field and to prove our we need to demonstrate 
 <DOC>
 artificial intelligence privacy and convenience
 explore fundamental concepts involved in security and privacy of machine learning projects diving into the ethics behind these decisions explore how to protect users from privacy violations while creating useful predictive models also ask big questions about how businesses implement algorithms and how that affects user privacy and transparency now and in the future
-
-privacy and convenience vs big data
+</DOC>
+<DOC>privacy and convenience vs big data
 in we are going to discuss what true anonymity and privacy mean in machine learning
 introduction how safe is your data algorithms vs privacy adversarial attacks on privacy weekly review
+</DOC>
 
-protecting privacy theories and methods
+<DOC>protecting privacy theories and methods
 in we are going to take a deeper look at dataset security also look into methods to add privacy to existing and new datasets to protect those individuals in them
 how secure is your model noise vs signal protecting privacy implementing differential privacy weekly review
+</DOC>
 
-building transparent models
+<DOC>building transparent models
 in discuss putting ethical private models into practice explore the explainable ai movement as as tradeoffs for the teams putting together these algorithms
 privacy methods in practice glass box vs black box models markets and game theory empowering users deconstructing algorithmic complexity weekly review
 </DOC>
-
 <DOC>
 artificial intelligence data fairness and bias
 explore fundamental issues of fairness and bias in machine learning as predictive models begin making important decisions from college admission to loan decisions it becomes paramount to keep models from making unfair predictions from human bias to dataset awareness explore many aspects of building more ethical models
-
-fairness and protections in machine learning
+</DOC>
+<DOC>fairness and protections in machine learning
 welcome to the in one be discussing what fairness means in the context of machine learning and what true parity means in different scenarios
 introduction model parity a balancing act protecting groups protecting individuals imperfect modeling weekly review
+</DOC>
 
-building fair models theory and practice
+<DOC>building fair models theory and practice
 take action against unfairness now that we have an understanding of fairness issues how do we build models that do not violate them
 algorithms inside of algorithms getting to fair testing in theory fair loan decisions deploying fairness combating bias in practice adversarial models wordvec weekly review
+</DOC>
 
-human factors minimizing bias in data
+<DOC>human factors minimizing bias in data
 tackle the human biases that enter the data collection and attribute selection processes the goal removing bias before the model is built
 getting out of your head bias awareness building an exploratory training set imperfect modeling finding a balance human factors game theory weekly review
 </DOC>
-
 <DOC>
 artificial intelligence algorithms models and limitations
 we live in an age increasingly dominated by algorithms as machine learning models begin making important decisions based on massive datasets we need to be aware of their limitations in the real world whether its making loan decisions or rerouting traffic machine learning models need to accurately reflect our shared values explore the rise of algorithms from the most basic to the fullyautonomous and discuss how to make them more ethically sound
-
-getting started algorithms
+</DOC>
+<DOC>getting started algorithms
 welcome to the were going to get started with an of the structure as as an introductory look at the world of algorithms
 introduction introduction sorting functions and data you as a dataset weekly review
+</DOC>
 
-ai and model
+<DOC>ai and model
 we are going to dive into predictive modeling the core differences in theory and practice
 programming the out of the lab models in production weekly review
+</DOC>
 
-rules for ai training and constraints
+<DOC>rules for ai training and constraints
 we are going to focus on machine learning accuracy and training guidelines in the quest for more accurate and ethical models
 modeling structure accuracy and bias mirrors training models with real data weekly review
+</DOC>
 
-ethical ai cause and effect
+<DOC>ethical ai cause and effect
 in our final were going to ask some big questions about where all this predictive intelligence leads discuss the trajectory of artificial intelligence and the broader implications for society as
 learning machines a future look ai balancing morals and profit impact and control preparing for agi weekly review
 </DOC>
-
 <DOC>
 artificial intelligence ethics in action
 ai ethics research is an emerging field and to prove our we need to demonstrate our critical thinking and analytical ability since its not reasonable to jump into a full research paper with our newly founded instead on projects that will demonstrate your ability to analyze ethical ai across a variety of topics and situations these projects include all the youve learned ai ethics
-
-introduction
+</DOC>
+<DOC>introduction
 welcome to the capstone get to know a little bit about the projects be tackling section
-
-project openai gpt analysis
-examining bias in a predictive text model
-
-project alleghany screening analysis
-understanding fairness issues with sensitive predictions
-
-project game theory algorithm design
-predicting ethical issues before they arise in model theory
 </DOC>
 
+<DOC>project openai gpt analysis
+examining bias in a predictive text model
+</DOC>
+
+<DOC>project alleghany screening analysis
+understanding fairness issues with sensitive predictions
+</DOC>
+
+<DOC>project game theory algorithm design
+predicting ethical issues before they arise in model theory
+</DOC>

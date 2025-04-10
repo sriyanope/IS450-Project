@@ -9,58 +9,65 @@ be a consultantintraining who needs to apply what youre learning to the included
 consulting presentations and storytelling
 this is the in the on management consulting in the previous courses weve learned how consultants break down problems with tools and logical thinking now its time to bring all the parts together into consultingquality presentations and deliverables every consulting project is different and yet the final presentation will have many of the same elements
 clear alignment among the stakeholders on the project goals understanding on the consulting approach assumptions and decisions thoughtful progression of ideas that brings the audience along wellconstructed powerpoint slides or excel model which tell a clear story impactful use of graphs tables data visualization persuasive and authoritative delivery style
-
-consulting proposals and statements of
+</DOC>
+<DOC>consulting proposals and statements of
 management consultants are master storytellers because they understand their audience dont overpromise and know how to sell without selling if you want to see a great deliverable start by looking at a project proposal the consultants cautiously scope the problem without overpromising but also demonstrating enough credibility to keep the client interested they collaborate with clients to create a statementofwork sow that outlines a lot of benefits but also sets accountability and expectations artwork
 what will you from this effective proposals and statements of sow how detailed should the proposal be consultants sell without selling
+</DOC>
 
-storytelling and storyboarding
+<DOC>storytelling and storyboarding
 we are all biologically wired for storytelling because our ancestors told stories long before there was a written language so its no surprise that client executives and their organizations need to understand the so what of consulting recommendations real change management needs to satisfy the head heart and the hands satisfy the clients intellectual questions head reduce the clients fears and give them courage heart provide a thoughtful plan and actionable steps hands
 all presentations start and end with storytelling storyboard as if the presentation were a movie the four hats of creative writing
+</DOC>
 
-pyramid principle and storytelling frameworks
+<DOC>pyramid principle and storytelling frameworks
 business executives are pulled in multiple directions they are busy expensive and often impatient final presentations need to start with the executive where you provide the answer first then give supporting analyses
 pyramid principle start with the answer frameworks to show process or decisions frameworks to show segmentation applying frameworks to a cooking analogy
+</DOC>
 
-good and bad data visualization
+<DOC>good and bad data visualization
 effective data visualization is both an art and a science an art because a seasoned data scientist designer or consultant can select the right chart form for the message a science because there are many design principles to remember when making charts a keep it simple b consider the audience c reinforce the key message
 effective charts and tables average graphs and charts examples bad graphs and charts examples
+</DOC>
 
-effective powerpoint presentations
+<DOC>effective powerpoint presentations
 management consultants are infamous for their powerpoint presentations effective presentations are choreographed many weeks before game day the roughdraft storyboard started the first of the project and was continually refined with new analysis and the client input after multiple reviewcycles with consulting senior managers principals the presentation tells a coherent credible and persuasive story done correctly the consultants have socialized the final presentation with key decisions makers many days before the formal presentations using the political legislation terminology they know they have the votes
 getting ready for game day presentations presentation tips for game day presentations for other people powerpoint titles should tell a story onepage executive summaries
+</DOC>
 
-executive presence and consulting success
+<DOC>executive presence and consulting success
 executive presence is both important and also annoying its important because peoples perception of your and brand matter for teamwork and promotions its annoying because this is often quite subjective and biased in a perfect and clinical world you would be measured by your and nothing else however consulting is a people business and therefore we need to be ourselves on our best day
 what is executive presence what is gravitas congratulations and keep doing great
 </DOC>
-
 <DOC>
 getting a consulting job
 this is the in the on management consulting
 how consulting firms and how they make money this can help you network with recruiters and prepare for the case interviews some of the topics covered what drive project profitability what competencies do i need at each stage in my how are consulting interviews different how to do on case interviews how much do i need to practice cases
-
-small and effective teams
+</DOC>
+<DOC>small and effective teams
 consulting firms like law tax audit tax firms are built on a leverage model this means that projects have senior practitioners partners directors who sell the and develop the executive relationships managers keep the teams productive and the client happy junior staff do the conduct interviews gather data run analyses put together presentations
 what will i what is consulting leverage understanding project profitability
+</DOC>
 
-consulting competencies and
+<DOC>consulting competencies and
 management consultants are good at many things they can quickly scope ambiguous problems find and analyze messy data manage small diverse teams keep the client engaged and run profitable projects how can you do them all and which should you first
 competencies what you need to be good at do simple tasks eg executive communications do simple tasks eg meeting minutes
+</DOC>
 
-what are consulting projects like
+<DOC>what are consulting projects like
 consulting projects vary enormously ive been on monthlong implementation with practitioners coming and going and person assessments that only lasted weeks the executive sponsor often varies ceo cfo cmo coo or cio youd be surprised how many similarities these diverse projects have
 projects can vary from weeks to year what to do before the project starts internal consultants have a huge
+</DOC>
 
-what are consulting firms looking for
+<DOC>what are consulting firms looking for
 consulting is a great path many people want to compete for these rare consulting job offers so its important to reverseengineer what the consulting firms are looking for in new recruits consultants help make clients successful firms are looking for candidate who are smart curious good communicators and know how to effectively network
 networking is important and it takes effort who should i network with recruiting is a people business what are consulting firms looking for
+</DOC>
 
-how to prepare for interviews
+<DOC>how to prepare for interviews
 consulting interviews typically come in two flavors behavioral interviews are the ones we are accustomed to interviews ask about our resume motivations and try to understand our fit with the organization case interviews are a collaborative problemsolving exercise to see how you think communicate smile at the same time
 what is a behavioral interview what is a case interview congratulations on completing
 </DOC>
-
 <DOC>
 consulting approach to problem solving
 this is the in the on management consulting
@@ -68,84 +75,95 @@ management consultants excel at solving difficult and complex business problems 
 strategy operations people technology define the problem clearly
 articulate what does success look like break the problem into buckets so it is easy to understand use hypotheses to guess your way to the potential answers find and clean up messy data
 convert the data into useful recommendations
-
-problem definition and scoping
+</DOC>
+<DOC>problem definition and scoping
 problem definition may sound abstract or boring but its incredibly important to solve the right problem like a detective at a crime scene a consultant needs to stay openminded think broadly about the problem and look around for obvious and missing clues in practical terms a clear problem statement helps the consulting manager keep the scope broad enough for flexibility and creativity while narrow enough that the can get done within the project timeframe
 what will you think broadly about the problem scope should be both broad and narrow
+</DOC>
 
-frameworks and logical structuring
+<DOC>frameworks and logical structuring
 using the analogy of a jigsaw puzzle the prior step of problem definition was looking at the picture on the box and defining the edges of the puzzle this step of problem break down is sorting the puzzle pieces into different colors red yellow blue green different business frameworks help to simplify complex problems and identify the key drivers eg pareto principle it also offers the to get early client feedback and form early hypotheses on what the answers could be finally it helps to organize the so the team can divide up the effectively
 breaking the problems into buckets using logic trees to connect the buckets
+</DOC>
 
-hypothesisbased consulting
+<DOC>hypothesisbased consulting
 unless you are a scientist the word hypothesis will likely seem a little strange its the idea that you are making an educated guess on what the solutions could be its a statement not a question that you to prove through testing how is this related to consulting consultants are often hired to solve the toughest problems in a short amount of time the only way to accomplish that is by being smart and selective in what they do this is the secret to how consultants successfully crack the case on their clients problems
 hypothesisbased consulting developing confidence in your solutions
+</DOC>
 
-consultants love data
+<DOC>consultants love data
 yes consultants love data it is the raw ingredients in the cooking of useful recommendations too often the data is messy biased old fragmented or missing as a result one of the first tasks in a consulting project is to identify and collect usable data sets its an enormous task often unglamorous but also the only way you can test your hypotheses and develop recommendations data lends credibility to consultants recommendations
 why do consultants love data messy data is an data lends credibility the journey from data to insights
+</DOC>
 
-data request and data cleansing
+<DOC>data request and data cleansing
 once youve identified the data you need the journey has just begun using a cooking analogy youve only put together the shopping list you still need to get the ingredients check for freshness get enough wash peel cut them before you can do the cooking the same applies for data it takes effort client engagement and some wisdom to request data efficiently
 data request client follow up data request example data cleansing and structuring
+</DOC>
 
-get the right data for the project
+<DOC>get the right data for the project
 there is too much data out there to analyze it all you need to be selective one way to do that is to follow a structured process or methodology it doesnt have to be fancy or proprietary it just needs to outline for yourself and the client what you are going to do when this project plan is at a highlevel and helps you to reorient your efforts to the right data right analysis and right timing the following dmaic framework is used frequently in performance improvement projects
 dmaic a key tool for process improvement dmaic example losing weight congratulations on finishing
 </DOC>
-
 <DOC>
 introduction to management consulting
 management consultants are paid because they help executives to break down complex problems make difficult decisions and implement lasting change consultants know how to smart and fast
 companies like mckinsey bain bcg deloitte ey pwc kpmg and accenture have trained thousands of consultants on useful tools methodologies taught by an exconsultant from deloitte john kim will give you a quick introduction to management consulting what do management consultants do what are the benefits of a consulting how can you these consulting why do clients hire management consultants what is an example of a consulting this is the first in the on management consulting
-
-management consulting
+</DOC>
+<DOC>management consulting
 management consulting is an exciting industry and a wonderful path for smart curious and diligent professionals consultants help executives to break down problems make difficult decisions and create change this can supercharge your
 who should take this what will you from this
+</DOC>
 
-what do consultants do
+<DOC>what do consultants do
 globally there are million people who describe themselves as consultants consulting spans all industries and all functions but seriously what do these highlypaid exactly do
 consultants help executives which executives hire consultants breaking down problems helping decisionmakers to create change
+</DOC>
 
-supercharging your
+<DOC>supercharging your
 why does of harvard universitys graduating class go into management consulting find out
 top reasons to become a consultant consulting more than a job its a and mindset
+</DOC>
 
-consulting and tools
+<DOC>consulting and tools
 consultants have a toolbox of methodologies and tips to help them smart yes they vary by consulting firm industry and preference this will focus on the top that you definitely need to know starting with client interviewing
 demonstrating logic in the way they think talk and write conducting effective client interviews
+</DOC>
 
-how to develop consulting
+<DOC>how to develop consulting
 consulting is an apprenticeship yes you can study like this but you from think of it like learning how to cook under a master chef we need to practice listen fail improve achieve and winning
+</DOC>
 
-why clients hire consultants
+<DOC>why clients hire consultants
 why do clients hire consultants after all dont clients know their business better than outsiders also management consultants are not cheap its common for consulting projects to be millions of dollars
 twelve reasons clients hire consultants vignette a good consulting project what is problem solving why is it important congratulations on finishing
 </DOC>
-
 <DOC>
 consulting tools and tips
 this is the in the on management consulting
 management consultants are quick learners when you first join a generalist consulting firm you are expected to core consulting and will likely be staffed on projects across industry and functions you might be on a chemicals pricing project then a retail costreduction project its critical that you how to get smart quickly and ask smart questions at the same time you should develop an armory of tools to create data through client interviews surveys benchmarking and observations
-
-smart and quickly with internet research
+</DOC>
+<DOC>smart and quickly with internet research
 whats the first thing you do when learning something new internet of so if you have a new client in a new industry that you dont know a lot about where should you start the first steps you should take to the companys business financials and industry trends smart
 what will you from this top ways to get smart on a clients business top ways to get smart on industry trends finvizcom a free way to analyze stocks paid research is expensive and may be useful
+</DOC>
 
-understand industry supply chain dynamics
+<DOC>understand industry supply chain dynamics
 all companies and organizations sit within an industry landscape they have suppliers customers rivals and even new entrants new competitors whats the power dynamics among those players and who has the leverage professor michael porter famously said that strategy is how you cope with competition how can your client create barriers to entry and dig an economic moat around their business profits
 michael porters five forces framework application of the five forces framework creating barriers to entry
+</DOC>
 
-create data through surveys and observations
+<DOC>create data through surveys and observations
 consultants require useful data to make persuasive recommendations some of that data is available in erp enterprise resource planning systems and it databases however some other data doesnt exist you need to create it through client interviews surveys observations benchmarking or other methods its a beautiful thing when consultants are able to drive correlation between the disparate pieces of data and tell a coherent story
 sometimes you need to create new data surveys are useful and take a lot of time observations give a glimpse of reality
+</DOC>
 
-use benchmarks as a starting point
+<DOC>use benchmarks as a starting point
 benchmarking is the simple idea of comparing performance against others when you go to the doctor and they measure your vital signs eg blood pressure heart rate against your peer group eg women in their s this is benchmarking its also a commonly used consulting tool because a clients often want to know how they are performing relative to their peers and its a convenient way for consultants to identify gaps in performance while the concept is simple its incredibly difficult to do its vulnerable to bias and manipulation as a consultant it can get you in trouble and you should use it wisely
 what is benchmarking why is it important how to stay out of benchmarking trouble tips for competitive intelligence
+</DOC>
 
-use excel to model the results
+<DOC>use excel to model the results
 management consultants use excel daily they need to organize analyze and uncover correlations between data so consultants practice excel hygiene to keep their file useful a dont hard code values b keep a copy of your source data c document assumptions d dont merge cells however once you get past these beginner tips you should consider who the audience is for the file before you spend too much time making it pretty for example your manager wants to quickly understand and audit your your client wants you to use the excel model to show them your thinking and make a recommendation
 use exceljetnet to the excel basics excel models vary from simple to fancy congratulations on finishing
 </DOC>
-

@@ -17,181 +17,207 @@ algorithms supervised and unsupervised learning regression classification cluste
 machine learning capstone
 this machine learning capstone uses various pythonbased machine learning libraries such as pandas scikitlearn and tensorflowkeras also to apply your machinelearning and demonstrate your proficiency in them before taking this you must complete all the previous courses in the ibm machine learning
 also to build a recommender system analyze courserelated datasets calculate cosine similarity and create a similarity matrix additionally generate recommendation systems by applying your knowledge of knn pca and nonnegative matrix collaborative filtering finally share your with peers and have them evaluate it facilitating a collaborative learning
-
-machine learning capstone
+</DOC>
+<DOC>machine learning capstone
 be introduced to the idea of recommender systems all labs in subsequent are based on this concept also be provided with an of the capstone project perform exploratory data analysis to find preliminary insights such as data patterns also use it to check assumptions with the help of statistics and graphical representations of online courserelated data sets such as titles genres and enrollments next extract a wordcount vector called a bag of words bow from titles and descriptions the bow feature is probably the simplest but most effective feature characterizing textual data it is widely used in many textual machine learning tasks finally apply the cosine similarity measurement to calculate the similarity using the extracted bow feature vectors
 introduction to machine learning capstone introduction to recommender systems
-
-unsupervisedlearning based recommender system
-create three recommendation systems using different methods in lab create a recommendation system based on user profile and genre matrices by computing an interest score for each and recommend the courses with the highest interest scores in the second lab generate a similarity matrix to create the recommendation system in the third lab implement a clusteringbased recommender system algorithm using kmeans clustering and principal component analysis based on group members enrollment history in labs four and five use collaborative filtering to make predictions about a users interest based on a collection of other users similar preferences in lab perform knnbased collaborative filtering and in lab use nonnegative matrix factorization
-
-supervisedlearning based recommender systems
-predict ratings using neural networks in the first lab train neural networks to predict ratings while simultaneously extracting users and items latent features in lab be given interaction feature vectors as input data using regression analysis calculate numerical rating scores that predict whether a student will audit or complete a lab is similar to lab but instead of using regression use a classification model extract user and item embedding feature vectors from a neural network with those embedding feature vectors create an interaction feature vector and use that to build a classification model the model maps the interaction feature vector to a rating mode that predicts whether a learner will audit or complete a
-
-share and present your recommender systems
-review guidelines and best practices for creating successful reports as you may wish to review instructions on creating powerpoint presentations and how to save a powerpoint as a pdf
-elements of a successful data findings report best practices for presenting your findings
-
-final submission
-final be introduced to streamlit and have the to build a streamlit app to showcase your in previous complete your submission of screenshots from the handson labs for your peers to review once you have completed your submission then review the submission of one of your peers and grade their submission
 </DOC>
 
+<DOC>unsupervisedlearning based recommender system
+create three recommendation systems using different methods in lab create a recommendation system based on user profile and genre matrices by computing an interest score for each and recommend the courses with the highest interest scores in the second lab generate a similarity matrix to create the recommendation system in the third lab implement a clusteringbased recommender system algorithm using kmeans clustering and principal component analysis based on group members enrollment history in labs four and five use collaborative filtering to make predictions about a users interest based on a collection of other users similar preferences in lab perform knnbased collaborative filtering and in lab use nonnegative matrix factorization
+</DOC>
+
+<DOC>supervisedlearning based recommender systems
+predict ratings using neural networks in the first lab train neural networks to predict ratings while simultaneously extracting users and items latent features in lab be given interaction feature vectors as input data using regression analysis calculate numerical rating scores that predict whether a student will audit or complete a lab is similar to lab but instead of using regression use a classification model extract user and item embedding feature vectors from a neural network with those embedding feature vectors create an interaction feature vector and use that to build a classification model the model maps the interaction feature vector to a rating mode that predicts whether a learner will audit or complete a
+</DOC>
+
+<DOC>share and present your recommender systems
+review guidelines and best practices for creating successful reports as you may wish to review instructions on creating powerpoint presentations and how to save a powerpoint as a pdf
+elements of a successful data findings report best practices for presenting your findings
+</DOC>
+
+<DOC>final submission
+final be introduced to streamlit and have the to build a streamlit app to showcase your in previous complete your submission of screenshots from the handson labs for your peers to review once you have completed your submission then review the submission of one of your peers and grade their submission
+</DOC>
 <DOC>
 supervised machine learning classification
 this introduces you to one of the main types of modeling families of supervised machine learning classification how to train predictive models to classify categorical and how to use error metrics to compare across different models the handson section of this focuses on using best practices for classification including train and test splits and handling data sets with unbalanced classes
 by the end of this you should be able to differentiate uses and applications of classification and classification ensembles describe and use logistic regression models describe and use decision tree and treeensemble models describe and use other ensemble methods for classification use a variety of error metrics to compare and select the classification model that best suits your data use oversampling and undersampling as techniques to handle unbalanced classes in a data set who should take this this targets aspiring data scientists interested in acquiring handson with supervised machine learning classification techniques in a business setting what should you have to make the most out of this you should have familiarity with programming on a python development environment as as fundamental understanding of data cleaning exploratory data analysis calculus linear algebra probability and statistics
-
-logistic regression
+</DOC>
+<DOC>logistic regression
 logistic regression is one of the most studied and widely used classification algorithms probably due to its popularity in regulated industries and financial settings although more modern classifiers might likely output models with higher accuracy logistic regressions are great baseline models due to their high interpretability and parametric nature this will walk you through extending a linear regression example into a logistic regression as as the most common error metrics that you might want to use to compare several classifiers and select that best suits your business problem
 welcome introduction what is classification introduction to logistic regression classification with logistic regression logistic regression with multiclasses implementing logistic regression models confusion matrix accuracy specificity precision and recall classification error metrics roc and precisionrecall curves implementing the calculation of roc and precisionrecall curves optional logistic regression lab part optional logistic regression lab part optional logistic regression lab part
+</DOC>
 
-k nearest neighbors
+<DOC>k nearest neighbors
 k nearest neighbors is a popular classification method because they are easy computation and easy to interpret this walks you through the theory behind k nearest neighbors as as a demo for you to practice building k nearest neighbors models with sklearn
 k nearest neighbors for classification k nearest neighbors decision boundary k nearest neighbors distance measurement k nearest neighbors pros and cons k nearest neighbors with feature scaling optional k nearest neighbors notebook part optional k nearest neighbors notebook part optional k nearest neighbors notebook part
+</DOC>
 
-support vector machines
+<DOC>support vector machines
 this will walk you through the main idea of how support vector machines construct hyperplanes to map your data into regions that concentrate a majority of data points of a certain class although support vector machines are widely used for regression outlier detection and classification this will focus on the latter
 introduction to support vector machines classification with support vector machines the support vector machines cost function regularization in support vector machines introduction to support vector machines gaussian kernels support vector machines gaussian kernels part support vector machines gaussian kernels part support vector machines workflow implementing support vector machines kernal models optional support vector machines notebook part optional support vector machines notebook part optional support vector machines notebook part
+</DOC>
 
-decision trees
+<DOC>decision trees
 decision tree methods are a common baseline model for classification tasks due to their visual appeal and high interpretability this walks you through the theory behind decision trees and a few handson examples of building decision tree models for classification realize the main pros and cons of these techniques this background will be useful when you are presented with decision tree ensembles in the next
 of classifiers introduction to decision trees building a decision tree entropybased splitting other decision tree splitting criteria pros and cons of decision trees optional decision trees notebook part optional decision trees notebook part optional decision trees notebook part
+</DOC>
 
-ensemble models
+<DOC>ensemble models
 ensemble models are a very popular technique as they can assist your models be more resistant to outliers and have better chances at generalizing with future data they also gained popularity after several ensembles helped people win prediction competitions recently stochastic gradient boosting became a goto candidate model for many data scientists this model walks you through the theory behind ensemble models and popular treebased ensembles
 ensemble based methods and bagging part ensemble based methods and bagging part ensemble based methods and bagging part random forest optional bagging notebook part optional bagging notebook part optional bagging notebook part review of bagging of boosting adaboost and gradient boosting adaboost and gradient boosting syntax stacking optional boosting notebook part optional boosting notebook part optional boosting notebook part
+</DOC>
 
-modeling unbalanced classes
+<DOC>modeling unbalanced classes
 some classification models are better suited than others to outliers low occurrence of a class or rare events the most common methods to add robustness to a classifier are related to stratified sampling to rebalance the training data this will walk you through both stratified sampling methods and more novel approaches to model data sets with unbalanced classes
 model interpretability examples of selfinterpretable and nonselfinterpretable models modelagnostic explanations surrogate models introduction to unbalanced classes upsampling and downsampling modeling approaches weighting and stratified sampling modeling approaches random and synthetic oversampling modeling approaches nearing neighbor methods modeling approaches blagging
 </DOC>
-
 <DOC>
 unsupervised machine learning
 this introduces you to one of the main types of machine learning unsupervised learning how to find insights from data sets that do not have a target or labeled variable several clustering and dimension reduction algorithms for unsupervised learning as as how to select the algorithm that best suits your data the handson section of this focuses on using best practices for unsupervised learning
 by the end of this you should be able to explain the kinds of problems suitable for unsupervised learning approaches explain the curse of dimensionality and how it makes clustering difficult with many features describe and use common clustering and dimensionalityreduction algorithms try clustering points where appropriate compare the performance of percluster models understand metrics relevant for characterizing clusters who should take this this targets aspiring data scientists interested in acquiring handson with unsupervised machine learning techniques in a business setting what should you have to make the most out of this you should have familiarity with programming on a python development environment as as fundamental understanding of data cleaning exploratory data analysis calculus linear algebra probability and statistics
-
-introduction to unsupervised learning and k means
+</DOC>
+<DOC>introduction to unsupervised learning and k means
 this introduces unsupervised learning and its applications one of the most common uses of unsupervised learning is clustering observations using kmeans you become familiar with the theory behind this algorithm and put it in practice in a demonstration
 introduction introduction to unsupervised learning introduction to unsupervised learning use cases of clustering introduction to clustering kmeans kmeans initialization selecting the right number of clusters in kmeans elbow method and applying kmeans optional k means notebook part k means notebook part optional k means notebook part
-
-distance metrics computational hurdles
-reading app items
-distance metrics euclidean and manhattan distance distance metrics cosine and jaccard distance curse of dimensionality notebook part curse of dimensionality notebook part curse of dimensionality notebook part curse of dimensionality notebook part
-
-selecting a clustering algorithm
-you become familiar with some of the computational hurdles around clustering algorithms and how different clustering implementations try to overcome them after a brief recapitulation of common clustering algorithms how to compare them and select the clustering technique that best suits your data
-hierarchical agglomerative clustering hierarchical agglomerative clustering hierarchical linkage types applying hierarchical agglomerative clustering dbscan visualizing dbscan mean shift comparing algorithms clustering notebook part clustering notebook part optional clustering notebook part clustering notebook part
-
-dimensionality reduction
-this introduces dimensionality reduction and principal component analysis which are powerful techniques for big data imaging and preprocessing data
-dimensionality reduction dimensionality reduction principal component analysis optional dimensionality reduction notebook part dimensionality reduction notebook part dimensionality reduction imaging example
-
-nonlinear and distancebased dimensionality reduction
-this introduces dimensionality reduction techniques like kernal principal component analysis and multidimensional scaling these methods are more powerful than principal component analysis in many applications
-kernel principal component analysis and multidimensional scaling dimensionality reduction notebook part
-
-matrix factorization
-this introduces matrix factorization which is a powerful technique for big data text mining and preprocessing data
-non negative matrix factorization non negative matrix factorization notebook part non negative matrix factorization notebook part
-
-final project
-now you have all the tools in your toolkit to highlight your unsupervised learning abilities in your final project
 </DOC>
 
+<DOC>distance metrics computational hurdles
+reading app items
+distance metrics euclidean and manhattan distance distance metrics cosine and jaccard distance curse of dimensionality notebook part curse of dimensionality notebook part curse of dimensionality notebook part curse of dimensionality notebook part
+</DOC>
+
+<DOC>selecting a clustering algorithm
+you become familiar with some of the computational hurdles around clustering algorithms and how different clustering implementations try to overcome them after a brief recapitulation of common clustering algorithms how to compare them and select the clustering technique that best suits your data
+hierarchical agglomerative clustering hierarchical agglomerative clustering hierarchical linkage types applying hierarchical agglomerative clustering dbscan visualizing dbscan mean shift comparing algorithms clustering notebook part clustering notebook part optional clustering notebook part clustering notebook part
+</DOC>
+
+<DOC>dimensionality reduction
+this introduces dimensionality reduction and principal component analysis which are powerful techniques for big data imaging and preprocessing data
+dimensionality reduction dimensionality reduction principal component analysis optional dimensionality reduction notebook part dimensionality reduction notebook part dimensionality reduction imaging example
+</DOC>
+
+<DOC>nonlinear and distancebased dimensionality reduction
+this introduces dimensionality reduction techniques like kernal principal component analysis and multidimensional scaling these methods are more powerful than principal component analysis in many applications
+kernel principal component analysis and multidimensional scaling dimensionality reduction notebook part
+</DOC>
+
+<DOC>matrix factorization
+this introduces matrix factorization which is a powerful technique for big data text mining and preprocessing data
+non negative matrix factorization non negative matrix factorization notebook part non negative matrix factorization notebook part
+</DOC>
+
+<DOC>final project
+now you have all the tools in your toolkit to highlight your unsupervised learning abilities in your final project
+</DOC>
 <DOC>
 supervised machine learning regression
 this introduces you to one of the main types of modelling families of supervised machine learning regression how to train regression models to predict continuous and how to use error metrics to compare across different models this also walks you through best practices including train and test splits and regularization techniques
 by the end of this you should be able to differentiate uses and applications of classification and regression in the context of supervised machine learning describe and use linear regression models use a variety of error metrics to compare and select a linear regression model that best suits your data articulate why regularization may help prevent overfitting use regularization regressions ridge lasso and elastic net who should take this this targets aspiring data scientists interested in acquiring handson with supervised machine learning regression techniques in a business setting what should you have to make the most out of this you should have familiarity with programming on a python development environment as as fundamental understanding of data cleaning exploratory data analysis calculus linear algebra probability and statistics
-
-introduction to supervised machine learning and linear regression
+</DOC>
+<DOC>introduction to supervised machine learning and linear regression
 this introduces a brief of supervised machine learning and its main applications classification and regression after introducing the concept of regression its best practices as as how to measure error and select the regression model that best suits your data
 welcomeintroduction introduction to supervised machine learning types of machine learning part introduction to supervised machine learning types of machine learning part supervised machine learning part supervised machine learning part regression and classification examples introduction to linear regression part introduction to linear regression part optional linear regression demo part optional linear regression demo part optional linear regression demo part
-
-data splits and polynomial regression
-there are a few best practices to avoid overfitting of your regression models one of these best practices is splitting your data into training and test sets another alternative is to use cross validation and a third alternative is to introduce polynomial features this walks you through the theoretical framework and a few handson examples of these best practices
-training and test splits part training and test splits part optional training and test splits lab part optional training and test splits lab part optional training and test splits lab part optional training and test splits lab part polynomial regression
-
-cross validation
-there is a tradeoff between the size of your training set and your testing set if you use most of your data for training have fewer samples to validate your model conversely if you use more samples for testing have fewer samples to train your model cross validation will allow you to reuse your data to use more samples for training and testing
-cross validation part cross validation demo part cross validation demo part cross validation demo part cross validation demo part cross validation demo part
-
-bias variance trade off and regularization techniques ridge lasso and elastic net
-this walks you through the theory and a few handson examples of regularization regressions including ridge lasso and elastic net realize the main pros and cons of these techniques as as their differences and similarities
-bias variance trade off part bias variance trade off part regularization and model selection ridge regression lasso regression part lasso regression part elastic net polynomial features and regularization demo part polynomial features and regularization demo part polynomial features and regularization demo part
-
-regularization details
-section understand the relationship between the loss function and the different regularization types
-further details of regularization part further details of regularization part optional details of regularization part optional details of regularization part optional details of regularization part
-
-final project
-section test everything you learned
 </DOC>
 
+<DOC>data splits and polynomial regression
+there are a few best practices to avoid overfitting of your regression models one of these best practices is splitting your data into training and test sets another alternative is to use cross validation and a third alternative is to introduce polynomial features this walks you through the theoretical framework and a few handson examples of these best practices
+training and test splits part training and test splits part optional training and test splits lab part optional training and test splits lab part optional training and test splits lab part optional training and test splits lab part polynomial regression
+</DOC>
+
+<DOC>cross validation
+there is a tradeoff between the size of your training set and your testing set if you use most of your data for training have fewer samples to validate your model conversely if you use more samples for testing have fewer samples to train your model cross validation will allow you to reuse your data to use more samples for training and testing
+cross validation part cross validation demo part cross validation demo part cross validation demo part cross validation demo part cross validation demo part
+</DOC>
+
+<DOC>bias variance trade off and regularization techniques ridge lasso and elastic net
+this walks you through the theory and a few handson examples of regularization regressions including ridge lasso and elastic net realize the main pros and cons of these techniques as as their differences and similarities
+bias variance trade off part bias variance trade off part regularization and model selection ridge regression lasso regression part lasso regression part elastic net polynomial features and regularization demo part polynomial features and regularization demo part polynomial features and regularization demo part
+</DOC>
+
+<DOC>regularization details
+section understand the relationship between the loss function and the different regularization types
+further details of regularization part further details of regularization part optional details of regularization part optional details of regularization part optional details of regularization part
+</DOC>
+
+<DOC>final project
+section test everything you learned
+</DOC>
 <DOC>
 exploratory data analysis for machine learning
 this first in the ibm machine learning introduces you to machine learning and the content of the realize the importance of good quality data common techniques to retrieve your data clean it apply feature engineering and have it ready for preliminary analysis and hypothesis testing
 by the end of this you should be able to retrieve data from multiple data sources sql nosql databases apis cloud describe and use common feature selection and feature engineering techniques handle categorical and ordinal features as as missing values use a variety of techniques for detecting and dealing with outliers articulate why feature scaling is important and use a variety of scaling techniques who should take this this targets aspiring data scientists interested in acquiring handson with machine learning and artificial intelligence in a business setting what should you have to make the most out of this you should have familiarity with programming on a python development environment as as fundamental understanding of calculus linear algebra probability and statistics
-
-a brief history of modern ai and its applications
+</DOC>
+<DOC>a brief history of modern ai and its applications
 artificial intelligence is not new but it is new in a sense that it is easier than ever to get started using machine learning in business settings go over a quick introduction to ai and machine learning and visit a brief history of the modern ai also explore some of the current applications of ai and machine learning for you to think about how you want to leverage them in your day to day business practice or personal projects
 introduction introduction to artificial intelligence and machine learning machine learning and deep learning machine learning and deep learning part machine learning and deep learning part history of ai history of machine learning and deep learning modern ai applications machine learning workflow
-
-retrieving and cleaning data
-good data is the fuel that powers machine learning and artificial intelligence how to retrieve data from different sources how to clean it to ensure its quality
-retrieving data from csv and json files retrieving data from databases apis and the cloud optional lab solution reading data jupyter notebook part a optionallab solution reading in database files part b data cleaning handling missing values and outliers handling missing values and outliers using residuals
-
-exploratory data analysis and feature engineering
-how to conduct exploratory analysis to visually confirm it is ready for machine learning modeling by feature engineering and transformations
-introduction to exploratory data analysis eda eda with visualization grouping data for eda optionalsolution eda notebook part optionalsolution eda notebook part optionalsolution eda notebook part optionalsolution eda notebook part feature engineering and variable transformation background variable transformation feature encoding feature scaling common variable transformations in python optional solution feature engineering lab part optional solution feature engineering lab part optional solution feature engineering lab part
-
-inferential statistics and hypothesis testing
-inferential statistics and hypothesis testing are two types of data analysis often overlooked at early stages of analyzing your data they can give you quick insights about the quality of your data they also help you confirm business intuition and help you prescribe what to analyze next using machine learning this looks at useful definitions and simple examples that will help you get started creating hypothesis around your business problem and how to test them
-estimation and inference introduction estimation and inference example estimation and inference parametric vs nonparametric estimation and inference commonly used distributions frequentist vs bayesian statistics introduction to hypothesis hypothesis testing example bayesian interpretation of hypothesis testing example type vs type error type vs type error examples hypothesis testing terminology significance level and pvalues significance level and pvalues and the f statistic optional hypothesis testing demo part optional hypothesis testing demo part correlation vs causation
-
-optional honors project
-optional honors project apply your and knowledge learned throughout the you can select a dataset from the ones used or any other dataset of interest and apply all of the demonstrated techniques including data cleaning feature engineering exploratory data visualization and hypothesis testing
 </DOC>
 
+<DOC>retrieving and cleaning data
+good data is the fuel that powers machine learning and artificial intelligence how to retrieve data from different sources how to clean it to ensure its quality
+retrieving data from csv and json files retrieving data from databases apis and the cloud optional lab solution reading data jupyter notebook part a optionallab solution reading in database files part b data cleaning handling missing values and outliers handling missing values and outliers using residuals
+</DOC>
+
+<DOC>exploratory data analysis and feature engineering
+how to conduct exploratory analysis to visually confirm it is ready for machine learning modeling by feature engineering and transformations
+introduction to exploratory data analysis eda eda with visualization grouping data for eda optionalsolution eda notebook part optionalsolution eda notebook part optionalsolution eda notebook part optionalsolution eda notebook part feature engineering and variable transformation background variable transformation feature encoding feature scaling common variable transformations in python optional solution feature engineering lab part optional solution feature engineering lab part optional solution feature engineering lab part
+</DOC>
+
+<DOC>inferential statistics and hypothesis testing
+inferential statistics and hypothesis testing are two types of data analysis often overlooked at early stages of analyzing your data they can give you quick insights about the quality of your data they also help you confirm business intuition and help you prescribe what to analyze next using machine learning this looks at useful definitions and simple examples that will help you get started creating hypothesis around your business problem and how to test them
+estimation and inference introduction estimation and inference example estimation and inference parametric vs nonparametric estimation and inference commonly used distributions frequentist vs bayesian statistics introduction to hypothesis hypothesis testing example bayesian interpretation of hypothesis testing example type vs type error type vs type error examples hypothesis testing terminology significance level and pvalues significance level and pvalues and the f statistic optional hypothesis testing demo part optional hypothesis testing demo part correlation vs causation
+</DOC>
+
+<DOC>optional honors project
+optional honors project apply your and knowledge learned throughout the you can select a dataset from the ones used or any other dataset of interest and apply all of the demonstrated techniques including data cleaning feature engineering exploratory data visualization and hypothesis testing
+</DOC>
 <DOC>
 deep learning and reinforcement learning
 this introduces you to two of the most soughtafter disciplines in machine learning deep learning and reinforcement learning deep learning is a subset of machine learning that has applications in both supervised and unsupervised learning and is frequently used to power most of the ai applications that we use on a daily basis first about the theory behind neural networks which are the basis of deep learning as as several modern architectures of deep learning once you have developed a few deep learning models the will focus on reinforcement learning a type of machine learning that has caught up more attention recently although currently reinforcement learning has only a few practical applications it is a promising area of research in ai that might become relevant in the near future
 after this if you have followed the courses of the ibm in order have considerable practice and a solid understanding in the main types of machine learning which are supervised learning unsupervised learning deep learning and reinforcement learning by the end of this you should be able to explain the kinds of problems suitable for unsupervised learning approaches explain the curse of dimensionality and how it makes clustering difficult with many features describe and use common clustering and dimensionalityreduction algorithms try clustering points where appropriate compare the performance of percluster models understand metrics relevant for characterizing clusters who should take this this targets aspiring data scientists interested in acquiring handson with deep learning and reinforcement learning what should you have to make the most out of this you should have familiarity with programming on a python development environment as as fundamental understanding of data cleaning exploratory data analysis unsupervised learning supervised learning calculus linear algebra probability and statistics
-
-introduction to neural networks
+</DOC>
+<DOC>introduction to neural networks
 this introduces deep learning neural networks and their applications go through the theoretical background and characteristics that they share with other machine learning algorithms as as characteristics that make them stand out as great modeling techniques for specific scenarios also gain some handson practice on neural networks and key concepts that help these algorithms converge to robust solutions
 introduction introduction to neural networks basics of neurons neural networks with sigmoid function neuron in action neural networks with sklearn forward propagation matrix representation of forward propagation main types of deep neural network optional introduction to neural networks notebook part optional introduction to neural networks notebook part gradient descent basics compare different gradient descent methods optional gradient descent notebook part optional gradient descent notebook part optional gradient descent notebook part
+</DOC>
 
-back propagation training and keras
+<DOC>back propagation training and keras
 about the maths behind the popular back propagation algorithm used to optimize neural networks in the back propagation notebook also see and understand the use of activation functions the main purpose of most activation function is to introduce nonlinearity in the network so it would be capable of learning more complex patterns last but not least to use functions and apis from the keras library to solve tasks that involve neural networks and these tasks start with loading images
 how to train a neural network backpropagation optional backpropagation notebook part optional backpropagation notebook part the sigmoid activation function other popular activation functions optional backpropagation notebook part popular deep learning library a typical keras workflow implementing an example neural network in keras optional keras notebook part optional keras notebook part optional keras notebook part
+</DOC>
 
-neural network optimizers
+<DOC>neural network optimizers
 you can leverage several options to prioritize the training time or the accuracy of your neural network and deep learning models you about key concepts that intervene during model training including optimizers and data shuffling also gain handson practice using keras one of the goto libraries for deep learning
 optimizers and momentum regularization techniques for deep learning popular optimizers details of training neural networks data shuffling transforms
+</DOC>
 
-convolutional neural networks
+<DOC>convolutional neural networks
 you become familiar with convolutional neural networks also known as space invariant artificial neural networks a type of deep neural networks frequently used in image ai applications there are several cnn architectures some of the most common ones to add to your toolkit of deep learning techniques
 categorical cross entropy introduction to convolutional neural networks cnn images dataset kernels convolution for color images convolutional settings padding and stride convolutional settings depth and pooling optional demo cnn notebook part optional demo cnn notebook part
+</DOC>
 
-transfer learning
+<DOC>transfer learning
 understand what is transfer learning and how it works implement transfer learning in general steps using a variety of popular pretrained cnn architectures such as vgg and resnet study the differences among those cnn architectures and see how the invention of each solves the problem of its predecessors last but not least as we are moving to working with deeper neural networks also be equipped with regularization techniques to prevent overfitting of complex models and networks
 introduction to transfer learning transfer learning and fine tuning optional transfer learning notebook convolutional neural network architectures lenet convolutional neural network architectures alexnet vgg convolutional neural network architectures inception convolutional neural network architectures resnet
+</DOC>
 
-recurrent neural networks and longshort term memory networks
+<DOC>recurrent neural networks and longshort term memory networks
 you become familiar with recursive neural networks rnns and longshort term memory networks lstm a type of rnn considered the breakthrough for speech to text recongintion rnns are frequently used in most ai applications today and can also be used for supervised learning
 recurrent neural networks rnns state and recurrent neural networks details recurrent neural networks optional recurrent neural networks notebook part optional recurrent neural networks notebook part longshort term memory lstm networks lstm explanation gated recurrent unit gated recurrent unit details
+</DOC>
 
-autoencoders
+<DOC>autoencoders
 you become familiar with autoencoders an useful application of deep learning for unsupervised learning autoencoders are a neural network architecture that forces the learning of a lower dimensional representation of data commonly images some deep learningbased techniques for data representation how autoencoders and to describe the use of trained autoencoders for image applications
 introduction to autoencoders autoencoders optional autoencoders notebook part optional autoencoders notebook part optional autoencoders notebook part optional autoencoders notebook part optional autoencoders notebook part
+</DOC>
 
-generative models and applications of deep learning
+<DOC>generative models and applications of deep learning
 about two types of generative models which are variational autoencoders vaes and generative adversarial networks gans look at the theory behind each model and then implement them in keras for generating artificial images the goal is usually to generate images that are as realistic as possible in the last lesson of this touch on additional topics in deep learning namely using keras in a gpu environment for speeding up model training
 what is a variational autoencoder how variational autoencoders introduction to gans how gans issues with training gans additional topics in deep learning model agnostic explainable ai
+</DOC>
 
-reinforcement learning
+<DOC>reinforcement learning
 you become familiar with other novel applications of neural networks about generative adversarial networks frequently referred to as gans which are an application of neural networks to generate new data finally you about reinforcement learning one of the big promises for ai based on training algorithms by using rewards instead of using a method to minimize error which is what we have been using throughout the
 reinforcement learning rl optional reinforcement learning notebook part optional reinforcement learning notebook part optional reinforcement learning notebook part optional reinforcement learning notebook part
 </DOC>
-

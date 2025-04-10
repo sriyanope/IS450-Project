@@ -10,87 +10,95 @@ each concludes with a realworld project where you have an to build a cloudnative
 cloud virtualization containers and apis
 welcome to the second in the building cloud computing solutions at scale to design cloudnative systems with the fundamental building blocks of cloud computing these building blocks include virtual machines and containers also how to build effective microservices using technologies like flask and kubernetes finally analyze successful patterns in operations including effective alerts load testing and kaizen
 this is ideal for beginners as as intermediate students interested in applying cloud computing to data science machine learning and data engineering students should have beginner level linux and intermediate level python for your project you build a containerized flask application that is continuously deployed to a cloud platform amazon web services aws azure or google cloud platform gcp
-
-getting started with cloud building blocks
+</DOC>
+<DOC>getting started with cloud building blocks
 how to access the free tiers of three cloud environments if you are joining after completing the first this will already be familiar to you then have an to review the details of the final project creating a containerized flask application that is continuously deployed to a cloud platform each and build upon key cloud development to prepare you for this final project
 instructor introduction introduction prerequisites lab onboarding project
+</DOC>
 
-virtualization and containers
+<DOC>virtualization and containers
 to evaluate the correct workflows for virtual machines and containers and how to choose the appropriate solution for the task at end also about the powerful container management service kubernetes apply this knowledge to create a containerized web service and deploy it to a managed container service
 introduction to virtual machines containers vs virtual machines how do spot instances launch an aws spot instance create a gcp virtual machine from terminal create compute cluster in azure ml studio aws cloud shell google cloud shell introduction to containers using containers what is docker run a container from docker hub build a docker container project from scratch push to project to aws ecr registry what is distroless rust distroless pytorch walkthrough rust distroless pytorch running demo introduction to kubernetes of kubernetes kubernetes key concepts kubernetes pods and nodes kubernetes cluster deploy app to kubernetes on gke kubernetes demo options container orchestration minikube fastapi demo
+</DOC>
 
-microservices
+<DOC>microservices
 to build effective microservices that comply with devops best practices also to operationalize microservices using continuous delivery apply this knowledge to create an effective microservice using aws lambda
 introduction to microservices what is a microservice running microservices introduction to flask what is flask flask change microservice flask azure microservice introduction to serverless microservices serverless functions build marco polo aws lambda build marco polo step function build aws s bucket trigger cli trigger of lambda google cloud function change using aws lambda console using step functions invoking step functions cli building rust aws lambda add function building rust aws lambda divide by two function invoking aws step functions from cli rust aws step functions demo app engine rust deploy
+</DOC>
 
-operations
+<DOC>operations
 to effectively perform operations this involves mastering monitoring and alerts a key question about monitoring and alerts is what to do when they occur this question is handled in the following lesson how load testing can prevent issues before they arise finally the topic of kaizen or continuous improvement is tackled all of the topics are components of devops best practices
 introduction to monitoring and alerts effective monitoring and alerts monitoring triggers and alerts with aws cloudwatch building an alert from scratch monitoring and logging with google app engine rust microservice introduction to load testing effective load testing flask locust load test locust load test in github codespaces prometheus monitoring introduction to kaizen effective continuous improvement what are the five whys
 </DOC>
-
 <DOC>
 cloud machine learning engineering and mlops
 welcome to the fourth in the building cloud computing solutions at scale build upon the cloud computing and data engineering concepts introduced in the first three courses to apply machine learning engineering to realworld projects first develop machine learning engineering applications and use software development best practices to create machine learning engineering applications then to use automl to solve problems more efficiently than traditional machine learning approaches alone finally dive into emerging topics in machine learning including mlops edge machine learning and ai apis
 this is ideal for beginners as as intermediate students interested in applying cloud computing to data science machine learning and data engineering students should have beginner level linux and intermediate level python for your project build a flask web application that serves out machine learning predictions
-
-getting started with machine learning engineering
+</DOC>
+<DOC>getting started with machine learning engineering
 about the methodologies involved in machine learning engineering by the end of the be able to develop machine learning engineering applications and use software development best practices to create machine learning engineering applications
 instructor introduction introduction lab onboarding project introduction to machine learning engineering machine learning engineering machine learning engineering architecture introduction to machine learning microservices machine learning microservices monolithic versus microservice introduction to continuous delivery for machine learning continuous delivery for machine learning what is data drift continuously deploy flask ml application aws app runner highlevel paas continuous delivery
+</DOC>
 
-using automl
+<DOC>using automl
 about automl and how to use it to build efficient machine learning solutions with little to no code these technologies include ludwig google automl apple create ml and azure machine learning studio apply these solutions by using both open source and cloud automl technology
 introduction to automl what is automl automl computer vision introduction to no codelow code no codelow code automl part no codelow code automl part apple create ml automl introduction to ludwig automl what is ludwig automl ludwig automl deep dive ludwig automl by example introduction to cloud automl what is cloud automl cloud automl deep dive guest speaker alfredo deza introduction to azure machine learning studio create a dataset in azure machine learning studio automated ml run in azure machine learning studio experiments in azure machine learning studio deploy a in azure machine learning studio test endpoints in azure machine learning studio
+</DOC>
 
-emerging topics in machine learning
+<DOC>emerging topics in machine learning
 mlops strategies and best practices in designing cloud solutions then explore edge machine learning and how to use ai apis apply these strategies to build a low code or no code cloud solution that performs natural language processing or computer vision
 introduction to mlops what is mlops mlops deep dive introduction to edge machine learning what is edge machine learning edge machine learning vision in action hardware inference model solutions in edge machine learning edge machine learning in google edge machine learning in aws introduction to ai apis how to use ai apis core components of a cloud application aws comprehend for natural language processing aws rekognition for computer vision gcp automl for natural language processing gcp automl for computer vision azure automl for ai predictions azure automl for computer vision core components of a cloud application recap steps to developing an api flask machine learning backend checklist for building web services
 </DOC>
-
 <DOC>
 cloud data engineering
 welcome to the third in the building cloud computing solutions at scale how to apply data engineering to realworld projects using the cloud computing concepts introduced in the first two courses of this series by the end of this be able to develop data engineering applications and use software development best practices to create data engineering applications these will include continuous deployment code quality tools logging instrumentation and monitoring finally use cloudnative technologies to tackle complex data engineering solutions
 this is ideal for beginners as as intermediate students interested in applying cloud computing to data science machine learning and data engineering students should have beginner level linux and intermediate level python for your project build a serverless data engineering pipeline in a cloud platform amazon web services aws azure or google cloud platform gcp
-
-getting started with cloud data engineering
+</DOC>
+<DOC>getting started with cloud data engineering
 about the methodologies involved in data engineering also to evaluate best practices for dealing with the end of moores law develop distributed systems that apply software engineering best practices and evaluate best practices for implementing solutions with big data apply these practices to build a gpu programming project using numba and the cuda sdk
 instructor introduction introduction lab onboarding project introduction to the end of moores law the problem with concurrency in python exploring the end of moores law using cuda and numba what is an asic taking advantage of colab pro exploring colab ai introduction to distributed systems logging and instrumentation distributed systems cap theorem amdahls law elasticity highly available nine nines debugging python code exploring google bigquery what is big data data lakes big data processing introduction to aws data engineering design principles processing big data with aws transform data with databricks spark sql
+</DOC>
 
-examining principles of data engineering
+<DOC>examining principles of data engineering
 what data engineering is and how to use software engineering best practices in data engineering then apply this knowledge by building a commandline data processing tool
 introduction to data engineering data driven organizations what is data engineering batch vs streaming vs events ingesting by batch or stream building cli tools with click building containerized commandline tools rust and python python calculator cli caesar cipher cli advanced testing with amazon codeguru advanced testing with aws codebuild mapping functions to cli part mapping functions to cli part aws codewhisperer cli aws codewhisperer sdk
+</DOC>
 
-building data engineering pipelines
+<DOC>building data engineering pipelines
 serverless data engineering techniques and data governance best practices then apply this knowledge by building a serverless data engineering system
 introduction to serverless data engineering automating pipelines what is serverless serverless concepts service model serverless concepts functions serverless concepts ecosystem aws lambda introduction to aws cloud aws lambda event handling aws lambda hello world aws lambda deploy testing aws lambda wikipedia example build a serverless data pipeline serverless cookbook with aws serverless cookbook with gcp introduction to data governance what is data governance the principle of least privilege cloud security with iam on aws aws shared security model aws iam service aws cloud security operations encrypt at rest and transit
+</DOC>
 
-applying key data engineering tasks
+<DOC>applying key data engineering tasks
 about key data engineering tasks including etl cloud databases and cloud storage then apply this knowledge by building a serverless aws lambda function that labels an image using the aws rekognition api
 introduction to extract transform load etl what is etl ingesting and preparing data on aws using amazon athena with aws glue realworld problems in etl introduction to cloud databases one size does not fit all in the cloud mysql mysql from terminal archive and drop database import external database sakila modify database sakila bash pipelines with mysql mysql to python standard library web server big query with prompt engineering big query colab pipeline introduction to cloud storage why cloud storage cloud storage deep dive using amazon s
 </DOC>
-
 <DOC>
 cloud computing foundations
 welcome to the first in the building cloud computing solutions at scale how to build foundational cloud computing infrastructure including websites involving serverless technology and virtual machines also how to apply agile software development techniques to projects which will be useful in building portfolio projects and globalscale cloud infrastructures
 this is ideal for beginners as as intermediate students interested in applying cloud computing to data science machine learning and data engineering students should have beginner level linux and intermediate level python for your project build a statically hosted website using the hugo framework aws code pipelines aws s and github
-
-getting started with cloud computing foundations
+</DOC>
+<DOC>getting started with cloud computing foundations
 how to access the free tiers of three cloud environments then have an to review the details of the final project building a hugo static website that is continuously deployed using aws code build and aws s static hosting each and build upon key cloud development to prepare you for this final project
 instructor introduction introduction prerequisites lab onboarding project
+</DOC>
 
-developing effective technical communication
+<DOC>developing effective technical communication
 getting started with a good plan is the most challenging part of building software before we dive into the technical aspects of cloud development lets spend some time discussing strategies for effective technical communication strategies for expressing thoughts effectively in a technical forum in a digitally native way constructing effective technical discussions that enhance discussions and provide reusable documentation and explaining successful techniques for teamwork in technical projects apply this by creating a project plan for the final project this project plan includes a spreadsheet a github project and a trello board
 introduction to technical discussions technical discussions with markdown github and jupytercolab creating technical demo effective critical thinking effective technical triple threat introduction to effective technical teamwork effective technical teamwork introduction to technical project management effective technical project management ticket tracking with trello project planning with spreadsheets project management antipatterns
+</DOC>
 
-exploring cloud onboarding
+<DOC>exploring cloud onboarding
 how to build continuous delivery pipelines and apply the essential practices of continuous integration in cloud onboarding these pipelines use both cloudnative build servers as as the popular rd party saas build server github actions additionally you build continuous delivery pipelines in multiple cloud platforms aws azure and gcp
 introduction to aws cloud development introduction to continuous integration cloud development with aws cloud constructing a python project scaffold introduction to github actions setup amazon codecatalyst codewhisperer natural language to bash cli introduction to azure cloud development introduction to testing cloud development with azure cloud shell azure cloud shell continuous integration from zero introduction to gcp cloud development development onboarding with gcp introduction to continuous delivery cloud development with google cloud shell gcp google app engine continuous delivery from zero microservices with gcp cloud run using google cloud functions
+</DOC>
 
-evaluating the cloud service model
+<DOC>evaluating the cloud service model
 about the different types of cloud service models these models include infrastructure as a service iaas platform as a service paas and serverless apply this knowledge by building multiple types of websites static serverless virtualized and paas
 introduction to cloud computing what is cloud computing cloud computing service models introduction to building multiple websites building a static s website on aws using aws lambda console to build python lambda function building a serverless website on aws lambda building a website on an ec virtual machine building a website using paas with aws beanstalk static websites with zola customizing zola theme introduction to cloud computing economics cloud computing economics a story cloud economics deep dive
+</DOC>
 
-applying devops principles
+<DOC>applying devops principles
 devops and how to apply the principles of devops to projects you on then examine the shared practices of software development and it operations using devops finally utilize infrastructure as code iac to manage cloud infrastructure and develop continuous delivery pipelines
 introduction to devops devops in the real world benefits of devops devops best practices introduction to managing cloud infrastructure using iac iac in the real world what is iac launching a vm with terraform on gcp hello world aws cdk for python introduction to continuous pipelines continuous delivery continuous delivery deep dive continuously deploy flask machine learning application with azure continuous delivery pipeline with a lint operation using azure initial setup of aws cloud and github for hugo build hugo directory in aws cloud copy hugo data into aws cloud s bucket automatic updating of hugo in aws cloud
 </DOC>
-

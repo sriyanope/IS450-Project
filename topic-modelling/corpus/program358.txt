@@ -8,97 +8,108 @@ analyze case studies of real music industry scenarios also create a level record
 <DOC>
 copyright law in the music business
 taught by e michael harrington the basis for copyright including what is and is not covered by copyright law this will help clarify what rights artists have as creators as as what the public is free to take from their also what to do if someone copies your and what to do if you are accused of copying someone else finally the will discuss how technology has changed copyright for the better and worse and how copyright laws may change in the coming years
-
-welcome to copyright law in the music industry
+</DOC>
+<DOC>welcome to copyright law in the music industry
 welcome here cover all the details about the and what need to know to get the most out of your
+</DOC>
 
-copyright and intellectual property
+<DOC>copyright and intellectual property
 first lesson start with the basicswhat is copyright what does it cover and who is it for discuss the six exclusive rights granted to creators by the copyright law as as the difference between copyright trademarks and patents also discuss how to leverage the six exclusive rights as a creator to use the copyright law to your benefit
 what lesson of copyright what copyright does not cover the difference between copyrights patents and trademarks the six exclusive rights the six exclusive rights in depth
+</DOC>
 
-copyright in practice
+<DOC>copyright in practice
 lesson take a look at copyright law in practice begin by discussing the benefits and the potential legal pitfalls of a cowriting relationship also discuss the concept of fair use and identify examples of fair use in copyright take a look at the concept of independent creation and how that affects you as a creator finally discuss the public domain and how works enter leave and return to the public domain
 what lesson cowriting cowriting in practice fair use fair use in practice independent creation returning works to the public domain
+</DOC>
 
-sound recording and sampling
+<DOC>sound recording and sampling
 sampling is commonplace in popular music today and this lesson focuses on the legal side of this popular creative process define the difference between a composition copyright and a sound recording copyright and how they function take a closer look at sampling from a legal perspective and compare it to another popular practice called replay also known as interpolation finally discuss the current legal arguments around the practice of sampling and how they affect you as an artist
 what lesson composition copyright and sound recording copyright sampling the difference between sampling and replayinterpolation legal arguments around sampling and replayinterpolation case study the sugarhill gang v busta rhymes
+</DOC>
 
-copyright litigation
+<DOC>copyright litigation
 final lesson take a deeper look at copyright law and litigationthe roles of lawyers and judges the mechanics of a copyright lawsuit and the various ways that copyright issues can be resolved
 what lesson lawyers and judges the mechanics of a lawsuit resolving copyright issues case study blurred lines congratulations
 </DOC>
-
 <DOC>
 the art of music production
 explore the art of record production and how to make recordings that other people will love listening to this will teach you how to make emotionally moving recordings on almost any recording equipment including your phone or laptop the emphasis is on mastering tangible artistic concepts
 the gear you use is up to you to develop the most important tool in the recording studio your ears to enhance every aspect of your own productions both sonically and musically by employing deeper listening
 will include posting your own recordings for peer review and reviewing your classmates by employing specific tools and strategies if you use a digital audio workstation to record and mix thats great but as long as you can record into your computer and post an mp you can complete the as you about the art of record production also about yourself and who you are as an artist and producer it is not necessary that you read music or play an instrument to take this
-
-welcome to the art of music production
+</DOC>
+<DOC>welcome to the art of music production
 welcome to the art of music production before you begin the cover all the details about the and what need to know to get the most out of your
+</DOC>
 
-listening like a producer
+<DOC>listening like a producer
 by the end of this lesson understand the concepts of listening to music emotionally and technically strategies for maintaining objectivity and using kinesthetic observations to discover musical effectiveness will be internalized train yourself to make distinctions on what works and what doesnt rather than just passively listening as a fan
 make it sound like a record why do we listen to music listening emotionally vs listening technically kinesthetic observation emotional cues elements of a compelling musical recording letting go of prejudice
+</DOC>
 
-identity vision and intention
+<DOC>identity vision and intention
 lesson hone in on your identity as a recording artist who are you and what are you meaning to convey through your music on refining your vision and intention for the recordings make employing these and record and post a tape of a new piece of music
 identity vision and intention artist comparison exercise artist identity workshop producer identity workshop what is your artistic intention giving and receiving feedback
+</DOC>
 
-strengthening musical productions tools strategies
+<DOC>strengthening musical productions tools strategies
 by the end of this lesson be able to employ several useful techniques for strengthening your songs and instrumental tracks acquire in prosody focus and an intelligent approach to repetition also to craft better melodies write better lyrics and construct a musical form that best suits the emotional contour you are trying to accomplish with your recording understand the principles of getting the most out of feedback on your recordings in order to gather valuable perspective to better convey your intended response incorporate notes from your colleagues to further refine your recording and repost an updated version
 using prosody to make better art form the structure of your song tools for writing better lyrics crafting better melodies repetition arranging rule of threes studio performance programmed tracks singers virtuoso vs vibe producing vocals
+</DOC>
 
-defining the sonic signature of your song
+<DOC>defining the sonic signature of your song
 by the end of this lesson address the sonic signature as it relates to your intention and vision as as your technology resources and acoustic space about microphone techniques getting good levels and mixing with reverb eq and compression record your material having made some deliberate decisions about the sound of your record and post your recording for peer review according to specific criteria
 the sonics of your song singlesource recording multitrack recording sound absorption vs sound proofing acoustic spaces mic placement microphone types and pick up patterns layering guitar micing clinic application of technology to art where to go from here
 </DOC>
-
 <DOC>
 pro tools basics
 producing music is an incredibly creative process and knowing the tools of the trade is essential in order to transmit the musical ideas in your head into the daw in a creative and uninhibited way whether you have used a computer to create music before or you have been curious about production for years will give you an introductory look into the world of avid pro tools and pro tools first
-
-welcome to pro tools basics
+</DOC>
+<DOC>welcome to pro tools basics
 welcome to your berklee massive online before you begin the cover all the details about the and what need to know to get the most out of your
 welcome to pro tools basics what need for this
+</DOC>
 
-diving in
+<DOC>diving in
 first lesson roll up our sleeves and dive into the pro tools interface how to set up a session and how to add instrument and audio tracks also how to save and bounce our while keeping everything organized
 the pro tools interface midi and software instrument tracks audio tracks working from templates organizing your session bouncing your session saving your session working with the basics giving and receiving feedback
+</DOC>
 
-exploring midi and software instruments
+<DOC>exploring midi and software instruments
 lesson focus on midi and software instruments start by learning about the different kinds of sound waves next the difference between samplers and synthesizers and how to use them in music production also how to manipulate and automate midi
 introduction to onboard software instruments wave basics synthesizers samplers midi manipulation automation working with midi and software instruments
+</DOC>
 
-recording and manipulating audio
+<DOC>recording and manipulating audio
 dive into the world of audio how to properly import and manage audio in pro tools how to record into pro tools and also how to use audiosuite to manipulate audio regions
 importing and managing audio audio suite reverse tempo operations recording in playlists working with audio
+</DOC>
 
-mixing and mastering
+<DOC>mixing and mastering
 final lesson be discussing mixing and mastering how to make a radioquality production by adding reverb eq compression and limiters
 of plugin effects and creating a rough mix eq compression reverb buses and aux tracks limiters practice mixing and mastering wrapup
 </DOC>
-
 <DOC>
 music business foundations
 this has been developed to provide students with the latest instruction on the best way for creators consumers and facilitators to navigate the resurgence of one of the worlds most exciting industries the music business three things are clear about todays music industry the consumption of music is expanding at the greatest rate in history and from the most portals ever imagined the cost of producing music is decreasing and the number of artists creating and seeking to expose their and develop careers through the internet has increased dramatically whether youre a music creator consumer or facilitator of this process want to understand the history underpinnings and basics of the music business author john kelloggadministrator educator entertainment lawyer performer and radio and television personalityoffers students the to the fundamental principles of the developing new music business for now and into the future
 what the basic history of the music industry and todays business trends how recording agreements are formulated the basics of copyright law as it pertains to the music business the role of agents managers attorneys and specific business entities
-
-the music industry
+</DOC>
+<DOC>the music industry
 about the history of the music industry dating back to also about recent technological advances have changed the music industry
 music industry guiding principles napster and beyond todays music industry structure recap
+</DOC>
 
-recording agreements
+<DOC>recording agreements
 the ins and outs of recording agreements and why they are important what royalties and advances are and how they are calculated also about degree or allin deals
 the importance of recording agreements recording agreements demystified contract provisions royalties third party licensing breakage deductions free goods reserves streaming services advances and recording budgets deals or allin deals neil jacobson on degree deals richard blackstone on degree deals recap
+</DOC>
 
-copyright basics
+<DOC>copyright basics
 will focus on copyright law about the history of copyright about the various types of rights and when copyright infringement occurs also how to register your creative works with the united states copyright office
 copyright basics the importance of copyright history of copyright forms pa and sr bundle of rights bundle of rights that relate to the sound recording copyright infringement fair use recap
+</DOC>
 
-managers agents and attorneys
+<DOC>managers agents and attorneys
 outlines the various roles in the music business team managers agents and attorneys also how to negotiate a contract for each of these roles
 the music business team the role of the personal manager traits of the successful personal manager personal manager commissions contract term fiduciary responsibilities the it factor the importance of a fanengaging show business and road managers booking agents regulations of managers and agents entertainment attorneys recap
 </DOC>
-

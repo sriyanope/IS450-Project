@@ -19,24 +19,27 @@ many programming languages provide a number of builtin data types to store thing
 embedded systems such as transportation utility networks and aerospace
 robotics industry and manufacturing
 iot internet of things used in smart homes automation and wearables ieee the worlds largest technical organization for the advancement of technology ranks c as third of the top programming languages of in demand by employers source ieee spectrum this has received financial support from the patrick lina drahi foundation
-
-welcome
+</DOC>
+<DOC>welcome
 app item discussion prompts
 welcome get to with codecast about taskgrader how to navigate the third party tool
-
-structures
-by the end of be able to create initialize and modify variable of new data type structures as as understand how much memory is used for these variables also to define initialize and modify arrays of structures and then pass these structures to functions by value
-
-structures and pointers
-by the end of be able to createdereference pointers to structures pass structures to functions where they can be modified and dynamically allocate memory to store a variable of data type structure also be able to explain the difference between the direct and the indirect member selection operators
-
-linked lists
-by the end of be able to create and initialize a linked list of structures as as perform basic operations on them swapping elements sorting through by alphabet or numerically and searching through a linked list for a particular member
-
-concluding the
-
 </DOC>
 
+<DOC>structures
+by the end of be able to create initialize and modify variable of new data type structures as as understand how much memory is used for these variables also to define initialize and modify arrays of structures and then pass these structures to functions by value
+</DOC>
+
+<DOC>structures and pointers
+by the end of be able to createdereference pointers to structures pass structures to functions where they can be modified and dynamically allocate memory to store a variable of data type structure also be able to explain the difference between the direct and the indirect member selection operators
+</DOC>
+
+<DOC>linked lists
+by the end of be able to create and initialize a linked list of structures as as perform basic operations on them swapping elements sorting through by alphabet or numerically and searching through a linked list for a particular member
+</DOC>
+
+<DOC>concluding the
+
+</DOC>
 <DOC>
 c programming language foundations
 to use logical statements and arrays in c logical statements are used for decisionmaking with followup instructions based on conditions you define arrays are used to store keep track of and organize larger amounts of data furthermore implement some fundamental algorithms to search and sort data
@@ -44,24 +47,27 @@ why c not only is it one of the most stable and popular programming languages in
 embedded systems such as transportation utility networks and aerospace
 robotics industry and manufacturing
 iot internet of things used in smart homes automation and wearables ieee the worlds largest technical organization for the advancement of technology ranks c as third of the top programming languages of in demand by employers source ieee spectrum this has received financial support from the patrick lina drahi foundation
-
-welcome
+</DOC>
+<DOC>welcome
 lets start coding lets get ready to code and how to use the cutting edge tools that we have developed to facilitate your learning
 lets get started get to with codecast how to use taskgrader how to navigate with the thirdparty tools
-
-logic conditions and ifelse statements
-utilize logical conditions ie ifstatements ifelse statements and combinenegate several logical conditions using logic operations and or and not
-
-arrays for and while loops
-create and utilize arrays of integers and floating point numbers also be able to explain the syntax of a for and while loop and create programs using them as nest branch statements
-
-strings sort and search algorithms
-create arrays of characters strings use the null terminator and manipulate strings to find their lengths also be able to sort through arrays alphabetizing strings ordering numbers finding specific numbers etc
-
-concluding the
-
 </DOC>
 
+<DOC>logic conditions and ifelse statements
+utilize logical conditions ie ifstatements ifelse statements and combinenegate several logical conditions using logic operations and or and not
+</DOC>
+
+<DOC>arrays for and while loops
+create and utilize arrays of integers and floating point numbers also be able to explain the syntax of a for and while loop and create programs using them as nest branch statements
+</DOC>
+
+<DOC>strings sort and search algorithms
+create arrays of characters strings use the null terminator and manipulate strings to find their lengths also be able to sort through arrays alphabetizing strings ordering numbers finding specific numbers etc
+</DOC>
+
+<DOC>concluding the
+
+</DOC>
 <DOC>
 linux basics the command line interface
 this will introduce you to linux a powerful operating system used by most developers
@@ -69,27 +75,30 @@ why add linux to your c programming most people use linux without knowing it whe
 embedded systems such as transportation utility networks and aerospace
 robotics industry and manufacturing
 iot internet of things used in smart homes automation and wearables ieee the worlds largest technical organization for the advancement of technology ranks c as one of the top programming languages of in demand by employers source ieee spectrum this has received financial support from the patrick lina drahi foundation
-
-welcome
+</DOC>
+<DOC>welcome
 lets get coding
 lets get started how to use weblinux
-
-history of linux and the command line
-by the end of be able to describe the background key dates and important people of the creation of linux projects unix and c also be able to run commonly used preinstalled programs on linux via the command line interface
-operating systems genesis definition services files memory processes key dates unix genesis mac projet mit multics thompson ritchie linux genesis and history gnu stallman gpl linus torvals linux command line interface prompt command options and files data command cal as example first commands echo hello world date cal history whoami hostname uptime clear command not found man command options interactive commands top htop nano vim how to get back to the prompt play with commands hello worm firework rain hanoi
-
-the linux file system
-by the end of be able to navigate through the linux filesystem with the command line interface also be comfortable working with files and in directories using the following creating deleting copying renaming and moving
-filesystem pwd cd ls absolute path relative path pwd cd ls absolute path relative path touch rm names with spaces cat less mkdir rm r unblock yourself in the command line mv rename and move cp cp r find locate
-
-c compilation with gcc
-by the end of be able to inspect the memory consumption of processes using the linux common line interface cli as as build interactive programs for the cli in the c programming language also be able to evaluate the average cpu consumption distinguish between compilation and interpretation of programs and runcompile a written in c on linux
-compiler vs interpreter compile a c automatically on weblinux compile a c using gcc memory representation ram cells word byte bit memory address manage the memory with the command line free top htop memory consumption of a using htop virtual memory reboot weblinux if needed interactive programs in c using scanf fflush use scanf and file redirection to simulate an input dont use scanf use fgets getline or readline
-
-concluding the
-
 </DOC>
 
+<DOC>history of linux and the command line
+by the end of be able to describe the background key dates and important people of the creation of linux projects unix and c also be able to run commonly used preinstalled programs on linux via the command line interface
+operating systems genesis definition services files memory processes key dates unix genesis mac projet mit multics thompson ritchie linux genesis and history gnu stallman gpl linus torvals linux command line interface prompt command options and files data command cal as example first commands echo hello world date cal history whoami hostname uptime clear command not found man command options interactive commands top htop nano vim how to get back to the prompt play with commands hello worm firework rain hanoi
+</DOC>
+
+<DOC>the linux file system
+by the end of be able to navigate through the linux filesystem with the command line interface also be comfortable working with files and in directories using the following creating deleting copying renaming and moving
+filesystem pwd cd ls absolute path relative path pwd cd ls absolute path relative path touch rm names with spaces cat less mkdir rm r unblock yourself in the command line mv rename and move cp cp r find locate
+</DOC>
+
+<DOC>c compilation with gcc
+by the end of be able to inspect the memory consumption of processes using the linux common line interface cli as as build interactive programs for the cli in the c programming language also be able to evaluate the average cpu consumption distinguish between compilation and interpretation of programs and runcompile a written in c on linux
+compiler vs interpreter compile a c automatically on weblinux compile a c using gcc memory representation ram cells word byte bit memory address manage the memory with the command line free top htop memory consumption of a using htop virtual memory reboot weblinux if needed interactive programs in c using scanf fflush use scanf and file redirection to simulate an input dont use scanf use fgets getline or readline
+</DOC>
+
+<DOC>concluding the
+
+</DOC>
 <DOC>
 c programming pointers and memory management
 examine a key concept foundational to any programming language the usage of memory
@@ -97,24 +106,27 @@ this builds upon the basic concept of pointers discussed in c programming modula
 embedded systems such as transportation utility networks and aerospace
 robotics industry and manufacturing
 iot internet of things used in smart homes automation and wearables ieee the worlds largest technical organization for the advancement of technology ranks c as third of the top programming languages of in demand by employers source ieee spectrum this has received financial support from the patrick lina drahi foundation
-
-welcome
+</DOC>
+<DOC>welcome
 lets start coding get familiar with the leaning tools our team has developed to make learning code easier
 lets get started get to with codecast about taskgrader how to navigate the third party tool
-
-memory and pointers
-by the end of be able to both visualize the concept of a pointer in memory and use pointers in functions with simple pointer arithmetic also demonstrate that an array name is a pointer performing pointer arithmetic and will create functions that accept and modify arrays
-
-multidimensional arrays
-by the end of be able to deference pointers using array notation and star notation also be able to store multiple strings in an array and manipulate matrices
-
-dynamic memory allocation
-by the end of be able to distinguish between the stack and the heap memory spaces also be able to allocate and deallocate memory programmatically in the heap for arrays
-
-concluding the
-
 </DOC>
 
+<DOC>memory and pointers
+by the end of be able to both visualize the concept of a pointer in memory and use pointers in functions with simple pointer arithmetic also demonstrate that an array name is a pointer performing pointer arithmetic and will create functions that accept and modify arrays
+</DOC>
+
+<DOC>multidimensional arrays
+by the end of be able to deference pointers using array notation and star notation also be able to store multiple strings in an array and manipulate matrices
+</DOC>
+
+<DOC>dynamic memory allocation
+by the end of be able to distinguish between the stack and the heap memory spaces also be able to allocate and deallocate memory programmatically in the heap for arrays
+</DOC>
+
+<DOC>concluding the
+
+</DOC>
 <DOC>
 c programming modular programming and memory management
 enhance your coding along your path to becoming a proficient c programmer with the essential concepts of functions and pointers
@@ -122,25 +134,28 @@ be introduced to the concept of modular programming that is dividing up more com
 embedded systems such as transportation utility networks and aerospace
 robotics industry and manufacturing
 iot internet of things used in smart homes automation and wearables ieee the worlds largest technical organization for the advancement of technology ranks c as third of the top programming languages of in demand by employers source ieee spectrum this has received financial support from the patrick lina drahi foundation
-
-welcome
+</DOC>
+<DOC>welcome
 lets start coding get familiar with the leaning tools our team has developed to make learning code easier
 lets get started get to with codecast how to use taskgrader how to navigate with the thirdparty tools on coursera
-
-functions and recursion
-to decompose a more complex into various functions to do this to create functions write function calls and prototypes call on functions and have functions return specific values
-
-memory and the scope of variables
-know more of the von neumann architecture model recall how computer memory is organized and addressed use the sizeof functions with variables of different types recognize overflow and roundoff errors and identify the scope of a variable
-discover the von neumann architecture memory representation ram cells word byte bit memory address
-
-pointers
-visualize describe and utilize points using simple pointer arithmetic be able to create functions to which arrays can be passed and that can modify arrays
-
-concluding the
-
 </DOC>
 
+<DOC>functions and recursion
+to decompose a more complex into various functions to do this to create functions write function calls and prototypes call on functions and have functions return specific values
+</DOC>
+
+<DOC>memory and the scope of variables
+know more of the von neumann architecture model recall how computer memory is organized and addressed use the sizeof functions with variables of different types recognize overflow and roundoff errors and identify the scope of a variable
+discover the von neumann architecture memory representation ram cells word byte bit memory address
+</DOC>
+
+<DOC>pointers
+visualize describe and utilize points using simple pointer arithmetic be able to create functions to which arrays can be passed and that can modify arrays
+</DOC>
+
+<DOC>concluding the
+
+</DOC>
 <DOC>
 c programming using linux tools and libraries
 how to use tools and libraries to write and build c programs within the linux operating system
@@ -148,46 +163,52 @@ this seventh and final in the c programming with linux will allow you to develop
 embedded systems such as transportation utility networks and aerospace
 robotics industry and manufacturing
 iot internet of things used in smart homes automation and wearables ieee the worlds largest technical organization for the advancement of technology ranks c as third of the top programming languages of in demand by employers source ieee spectrum this has received financial support from the patrick lina drahi foundation
-
-welcome
+</DOC>
+<DOC>welcome
 discussion prompts
 welcome how to use weblinux how to use taskgrader
-
-libraries in c
-by the end of be able to effectively declare and define functions as as use external libraries eg math compression image
-distinguish between function declaration and function definition use the math library use multiple libraries in c
-
-modularization libraries and makefiles
-by the end of be able to use preprocessor directives build an application from multiple source files and automate the building process using makefiles
-gcc details object files modify object files make file more elaborate makefile run a with makefile create your library modify your library ultimate makefile
-
-file operations in c
-by the end of be able to pass and use arguments to the main function read and use a file write to a file and install a profession c compiler
-pass arguments to a from the command line use arguments passed to a from the command line read numbers from a file read until the end of the file write numbers to a file using fprintf append numbers to a file at the end
-
-concluding the
-reading
 </DOC>
 
+<DOC>libraries in c
+by the end of be able to effectively declare and define functions as as use external libraries eg math compression image
+distinguish between function declaration and function definition use the math library use multiple libraries in c
+</DOC>
+
+<DOC>modularization libraries and makefiles
+by the end of be able to use preprocessor directives build an application from multiple source files and automate the building process using makefiles
+gcc details object files modify object files make file more elaborate makefile run a with makefile create your library modify your library ultimate makefile
+</DOC>
+
+<DOC>file operations in c
+by the end of be able to pass and use arguments to the main function read and use a file write to a file and install a profession c compiler
+pass arguments to a from the command line use arguments passed to a from the command line read numbers from a file read until the end of the file write numbers to a file using fprintf append numbers to a file at the end
+</DOC>
+
+<DOC>concluding the
+reading
+</DOC>
 <DOC>
 c programming getting started
 start learning one of the most powerful and widely used programming languages c within moments be coding handson in a browser tool that will provide instant feedback on your code
 the c programming language is one of the most stable and popular programming languages in the world it helps to power your smartphone your cars navigation system robots drones trains and almost all electronic devices c is used in any circumstances where speed and flexibility are important such as in embedded systems or highperformance computing get started with c and how to write your first programs how to make simple computations and print the results to the screen how to store values in variables and how to repeat instructions using loops beginners even those without any programming will be able to immediately start coding in c with the help of powerful yet simple coding tools right within the web browser no need to install anything why c and not another programming language did you know that smartphones your cars navigation system robots drones trains and almost all electronic devices have some ccode running under the hood c is used in any circumstance where speed and flexibility are important such as in embedded systems or highperformance computing c is a foundational programming language taught at engineering schools around the world and represents one of the building blocks of modern computer information technology invented in the s it is still one of the most stable and popular programming languages in the world we are excited to introduce you to the world of coding and launch you along your path to becoming a skilled c programmer this is the first in the c programming with linux this series of seven courses will establish your programming and unlock doors to careers in computer engineering this has received financial support from the patrick lina drahi foundation
-
-welcome and the history of c
+</DOC>
+<DOC>welcome and the history of c
 write your first line of code and become familiar with our learning tools without installing anything
 welcome get to with codecast about taskgrader how to navigate the third party tool history of the c programming language and its inventors history of hello world hardware software algorithms
-
-printing loops and comments
-to print text to the screen utilize forloops explain their code by adding comments in various ways and recognize the different sections of a simple cprogram and their purposes eg variable declaration main function
-
-integers variables and user input
-explore the concept of variables and use integertype variables of format specifier d through declarations and reassignments also utilize these integertype variables in forloops and with user input
-
-characters and doubles
-utilize variables of type integer double and character through declarations reassignments printing converting between types casting etc also create cprograms that perform tasks involving user input integer and floating point arithmetic operations and output to the screen
-
-concluding the
-
 </DOC>
 
+<DOC>printing loops and comments
+to print text to the screen utilize forloops explain their code by adding comments in various ways and recognize the different sections of a simple cprogram and their purposes eg variable declaration main function
+</DOC>
+
+<DOC>integers variables and user input
+explore the concept of variables and use integertype variables of format specifier d through declarations and reassignments also utilize these integertype variables in forloops and with user input
+</DOC>
+
+<DOC>characters and doubles
+utilize variables of type integer double and character through declarations reassignments printing converting between types casting etc also create cprograms that perform tasks involving user input integer and floating point arithmetic operations and output to the screen
+</DOC>
+
+<DOC>concluding the
+
+</DOC>

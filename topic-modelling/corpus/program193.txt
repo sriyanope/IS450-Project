@@ -17,100 +17,112 @@ learners will apply the they acquire to complete assessment exams as as a projec
 operating systems administration and security
 of organizations are planning to increase security investments as a result of a breach ibm report companies need skilled it support and cybersecurity professionals now more than ever whether youre just starting out or switching to tech this provides the critical operating systems os knowledge you need to move forward
 operating systems are fundamental to all aspects of computing foundational concepts common to all operating systems and the unique aspects of windows linux and macos explore os file systems and the associated security features discover the macos features that revolutionized os functionality plus investigate virtualization and containerization additionally through labs and a final project get handson managing virus and threat protection configuring user accounts and permissions with commandline tools and securing systems against threats if youre looking to get started it or cybersecurity enroll today to gain essential knowledge in operating systems that enables you to towards a in cybersecurity system administration network engineering or it support
-
-windows operating systems
+</DOC>
+<DOC>windows operating systems
 about file systems and the directory structure of the windows operating system also how windows separates bit and bit applications the will also enable you to explore windows user mode and kernel mode components finally have the to manage windows files and folders explore microsoft windows server features and use microsoft windows command prompt tools for administration through handson labs
 introduction an introduction to operating systems microsoft windows systems file systems directory structure microsoft windows server lab environment user and kernel modes microsoft windows server of microsoft windows command prompt tools for administration microsoft management console what is active directory
+</DOC>
 
-windows security
+<DOC>windows security
 about microsoft windows security settings to protect your system against various threats also be able to create a firewall rule in microsoft windows defender through a handson lab next recognize the importance of patches and updates in protecting against cyberattacks also explore microsoft update and some critical practices to ensure a smooth and successful update the will also explore kerberos and its benefits in domainbased authentication systems finally to uncover system vulnerabilities and weaknesses through security auditing techniques
 active directory accounts and security considerations windows security settings user management and permissions antimalware tools and microsoft windows firewall configuration of patching microsoft update kerberos of windows auditing
+</DOC>
 
-linux operating systems
+<DOC>linux operating systems
 about linux systems and shell commands to efficiently perform various system administration tasks have access to a linux and bash commands cheat sheet which will serve as a ready reckoner for commonly used commands and their syntax in the linux terminal this will also cover linux file systems directory structures and run levels also have the to get started with the linux terminal explore common linux and unix commands and navigate linux user management tasks through handson labs
 linux systems exploring linux operating system essentials linux terminal of common linux shell commands linux file systems and directory structure
+</DOC>
 
-macos and virtualization
+<DOC>macos and virtualization
 about macos its features preferences and how to upgrade it also the differences between ios and android the will cover fundamental concepts of virtualization and cloud computing also have the to explore macos features create a virtual machine simulation and explore containers docker and ibm cloud through handson labs
 macos macos features macos system preferences introduction to mobile devices ios introduction to mobile devices android an of virtualization an of cloud computing introduction to containers introduction to docker
+</DOC>
 
-final project
+<DOC>final project
 peer review app items plugin
 using your microsoft windows lab workspace completion
 </DOC>
-
 <DOC>
 cybersecurity compliance framework standards regulations
 cyber threats present a constant challenge today costing billions and affecting everyone from governments to small businesses are you ready to contribute to the solution
 this will provide you with a deep understanding of cybersecurity principles industry standards regulations and audit processes explore the fundamental concepts of information security and compliance covering topics such as governance risk compliance cybersecurity frameworks and process management also about it service management and explore the nist risk management framework and ai ethical considerations gain insights into cybersecurity laws and regulations focusing on both us and global perspectives including hippa gdpr and pci dss additionally familiarize yourself with the audit processes using the cobit framework and soc reports also explore prominent standards such as owasp iso and ieee learning how to apply them effectively throughout this fivemodule selfpaced engage in interactive activities to apply your knowledge in realworld scenarios also complete a final project to test your and showcase your understanding join us on this cybersecurity journey
-
-introduction to information security and compliance
+</DOC>
+<DOC>introduction to information security and compliance
 information security and compliance are essential aspects for organizations that want to protect their sensitive data and adhere to regulations this provides a comprehensive of the guidelines practices policies and technologies involved in safeguarding digital assets first be introduced to the governance risk and compliance grc strategy and tools then about the nist cybersecurity framework or csf which guides organizations in managing cybersecurity risks also gain insights into csf components functions and tier levels further you are going to about security compliance that helps organizations protect their data assets and reputation as as about the repercussions of noncompliance with laws regulations or industry standards also gain knowledge regarding the use of standardized processes in an organization that allows for a centralized structure and the concepts of automation and orchestration which are essential to cybersecurity streamlining processes and reducing manual intervention finally you learned about change management which helps you adapt to new technologies and regulations
 introduction governance risk and compliance grc governance components nist cybersecurity framework elements of effective security compliance standardize processes automation and orchestration change management
-
-foundations of it service management and risk governance
-this offers a comprehensive introduction to it service management itsm risk management and ethical considerations in artificial intelligence ai participants will explore key frameworks and processes essential for effective it service delivery risk mitigation and ethical ai implementation through a combination of activities and quizzes participants will gain practical insights into itil risk management frameworks and ai ethics
-information technology infrastructure library itil key itil processes risk management thirdparty risk assessment and management ai ethics how to implement ai ethics
-
-understanding cybersecurity laws and regulations
-this provides an indepth exploration of cybersecurity laws and regulations focusing on both us and global perspectives participants will gain insights into key legislations such as hipaa gdpr and pci dss and how to ensure compliance with these regulations through a combination of activities and quizzes participants will develop a comprehensive understanding of legal frameworks governing cybersecurity
-of us cybersecurity laws and regulations hipaa security rule of global cybersecurity laws and regulations
-
-understanding cybersecurity standards and audits
-this delves into the landscape of cybersecurity standards and audits providing participants with a comprehensive understanding of industry standards and audit processes participants will explore prominent standards such as owasp nist iso and ieee and how to apply them effectively additionally the covers security control audits cobit framework and soc reports to ensure participants grasp the auditing process through activities and quizzes participants will gain practical knowledge to enhance cybersecurity practices
-industry standards nist iso and ieee security control audits performing a security audit isaca frameworks soc reports
-
-final project
-complete a final project where have an to demonstrate your understanding of cybersecurity frameworks risk management and standards and regulations
 </DOC>
 
+<DOC>foundations of it service management and risk governance
+this offers a comprehensive introduction to it service management itsm risk management and ethical considerations in artificial intelligence ai participants will explore key frameworks and processes essential for effective it service delivery risk mitigation and ethical ai implementation through a combination of activities and quizzes participants will gain practical insights into itil risk management frameworks and ai ethics
+information technology infrastructure library itil key itil processes risk management thirdparty risk assessment and management ai ethics how to implement ai ethics
+</DOC>
+
+<DOC>understanding cybersecurity laws and regulations
+this provides an indepth exploration of cybersecurity laws and regulations focusing on both us and global perspectives participants will gain insights into key legislations such as hipaa gdpr and pci dss and how to ensure compliance with these regulations through a combination of activities and quizzes participants will develop a comprehensive understanding of legal frameworks governing cybersecurity
+of us cybersecurity laws and regulations hipaa security rule of global cybersecurity laws and regulations
+</DOC>
+
+<DOC>understanding cybersecurity standards and audits
+this delves into the landscape of cybersecurity standards and audits providing participants with a comprehensive understanding of industry standards and audit processes participants will explore prominent standards such as owasp nist iso and ieee and how to apply them effectively additionally the covers security control audits cobit framework and soc reports to ensure participants grasp the auditing process through activities and quizzes participants will gain practical knowledge to enhance cybersecurity practices
+industry standards nist iso and ieee security control audits performing a security audit isaca frameworks soc reports
+</DOC>
+
+<DOC>final project
+complete a final project where have an to demonstrate your understanding of cybersecurity frameworks risk management and standards and regulations
+</DOC>
 <DOC>
 introduction to cybersecurity tools cyberattacks
 according to a recent ibm report cyberattacks have surged this alarming statistic highlights a huge demand for cybersecurity professionals this ibm will introduce you to fundamental cybersecurity concepts threats and preventive measures to start your cybersecurity journey
 explore the evolution of cybersecurity and discover the critical thinking model also cover threat actors malware ransomware and defenses against social engineering additionally about internet security threats and security controls explore the fundamentals of identity and access management iam authentication and access control also look at the physical threats organizations encounter and consider effective security measures throughout build practical knowledge through handson labs and gain technical expertise through insights from industry experts your final project will enable you to effectively demonstrate your understanding of cybersecurity principles this is for anyone who wants a basic understanding of cybersecurity and is part of a series designed to help you start a as a cybersecurity analyst
-
-cybersecurity insights
+</DOC>
+<DOC>cybersecurity insights
 receive a concise detailing the history of cybersecurity along with insights into key events that influenced the global approach to cybersecurity about critical thinking its significance and how it applies in realworld scenarios within cybersecurity additionally gain a clear understanding of the five key elements of the critical thinking model finally delve into the five critical thinking that help form the foundation of critical thinking in every field including cybersecurity
 introduction the impact of the wargames movie on cybersecurity the impact of on cybersecurity the impact of covid on cybersecurity critical thinking in cybersecurity critical thinking model critical thinking key
-
-cybersecurity threats
-discover various threat actors and their motivations and explore the trends highlighted in the latest ibm security xforce threat intelligence index also explore emerging trends in cybersecurity additionally study malware and ransomware tactics along with strategies to protect your system against them the will also introduce social engineering and its applications by cybercriminals finally identify essential tips to safeguard your system against phishing vishing and smishing attempts
-types of actors and their motives cybersecurity trends what is malware lets hear the hackers viewpoint what is ransomware how to prevent malware attacks social engineering how bad guys hack users what is phishing humans vs ai whos better at phishing
-
-cybersecurity controls
-about a range of internet security threats including network mapping packet sniffing id spoofing denialofservice dos attacks and injection attacks also gain insights into system network and application security and engage in practical exercises to implement security controls furthermore delve into vulnerability assessment incident response and digital forensics
-internet security threats mapping internet security threats packet sniffing internet security threats ip spoofing internet security threats denialofservice attacks internet security threats injection attacks security controls system security network security application security by design vulnerability management incident response and digital forensics
-
-identity and physical controls
-about identity and access management iam and its four main categories explore various authentication protocols and methods to verify an individuals identity and gain a clear understanding of different access control schemes additionally compare traditional and innovative access control methods and explore multifactor authentication single signon and passkeys finally about various threats that can impact an organizations cybersecurity and identify different security measures for deterring them
-identity and access management iam authentication authorization access controls what is multifactor authentication what is single signon sso passkeys fido physical threats and controls
-
-final project and wrapup
-complete a final project on multifactor authentication that will provide you with an to apply the knowledge and acquired also take a graded exam to evaluate your understanding of various cybersecurity tools and attacks
 </DOC>
 
+<DOC>cybersecurity threats
+discover various threat actors and their motivations and explore the trends highlighted in the latest ibm security xforce threat intelligence index also explore emerging trends in cybersecurity additionally study malware and ransomware tactics along with strategies to protect your system against them the will also introduce social engineering and its applications by cybercriminals finally identify essential tips to safeguard your system against phishing vishing and smishing attempts
+types of actors and their motives cybersecurity trends what is malware lets hear the hackers viewpoint what is ransomware how to prevent malware attacks social engineering how bad guys hack users what is phishing humans vs ai whos better at phishing
+</DOC>
+
+<DOC>cybersecurity controls
+about a range of internet security threats including network mapping packet sniffing id spoofing denialofservice dos attacks and injection attacks also gain insights into system network and application security and engage in practical exercises to implement security controls furthermore delve into vulnerability assessment incident response and digital forensics
+internet security threats mapping internet security threats packet sniffing internet security threats ip spoofing internet security threats denialofservice attacks internet security threats injection attacks security controls system security network security application security by design vulnerability management incident response and digital forensics
+</DOC>
+
+<DOC>identity and physical controls
+about identity and access management iam and its four main categories explore various authentication protocols and methods to verify an individuals identity and gain a clear understanding of different access control schemes additionally compare traditional and innovative access control methods and explore multifactor authentication single signon and passkeys finally about various threats that can impact an organizations cybersecurity and identify different security measures for deterring them
+identity and access management iam authentication authorization access controls what is multifactor authentication what is single signon sso passkeys fido physical threats and controls
+</DOC>
+
+<DOC>final project and wrapup
+complete a final project on multifactor authentication that will provide you with an to apply the knowledge and acquired also take a graded exam to evaluate your understanding of various cybersecurity tools and attacks
+</DOC>
 <DOC>
 computer networks and network security
 the us bureau of labor statistics forecasts a growth in information security analyst jobs until these analysts are in demand as part of the team that keeps networks secure
 this provides practical handson computer networking and network security that employers want through innovative handson labs how to secure a small home office network soho install and configure dhcp and filter dns also get realworld practice installing and using an opensource extended detection and response xdr system additionally build valuable supporting knowledge of ports protocols and ip addresses including ipv and network routing about layer and addressing routers and routing tables plus develop knowledge of cybersecurity analyst tools for data protection endpoint protection and siem which you can apply to an organizations compliance and threat intelligence needs which is crucial in todays cybersecurity landscape complete a final project where demonstrate your ability to perform network and security planning tasks networking and network security pay invest in yourself and enroll today
-
-networking fundamentals
+</DOC>
+<DOC>networking fundamentals
 about networking hardware including routers and switches gain essential jobready knowledge of wireless networking standards about basic network design and gain practical designing and drawing a basic network structure based on requirements also engage in practical identification exercises about network ports protocols and protocol tables that need to understand key networking models
 introduction computer networks networking hardware devices models standards protocols and ports computer networks wireless networks and standards protocol table microsoft windows server lab environment
-
-ip addressing routing and switching
-after completing this be able to explain and apply ip addressing ip address structure and network classes ip protocols traffic routing and the ipv address schema also be able to compare the structure and uses of ipv and ipv be able to explain basic network routing principles layer and layer addressing and address resolution protocols arp and describe the basics of routers and routing table sessions gain you can use in the real world when you how to secure a small officehome office soho network
-ip addressing the basics of binary ip address structure and network classes ip protocol and traffic routing introduction to the ipv address schema basics of network routing layer and layer addressing address resolution protocol routers and routing tables part routers and routing tables part routers and routing tables part
-
-network protocols
-about network protocols and security measures combining theoretical knowledge with practical applications begin with an introduction to application and transport protocols focusing on udp and tcp then explore dns and dhcp and a handson lab for configuring dhcp and an activity on dns filtering then how to use syslog message logs and network analysis techniques including port mirroring promiscuous mode and user behavior analysis
-application and transport protocols part application and transport protocols part dns and dhcp dns filtering syslog message logging protocol flows and network analysis port mirroring and promiscuous mode user behavior analysis
-
-network security techniques
-this introduces you to network security techniques including firewall technologies stateless and stateful inspections ids and ips systems also examine network address translation nat and file integrity monitoring along with advanced security measures such as data loss prevention dlp network access control and endpoint detection and response edr conclude this with a handson lab where you can gain realworld with an opensource extended detection and response xdr application
-stateless inspection stateful inspection firewall filters with intrusion systems using your microsoft windows lab workspace intrusion detection and prevention systems compared network address translation file integrity monitoring data loss prevention dlp network access control nac endpoint detection and response edr extended detection and response
-
-final project and wrapup
-apply the knowledge and handson you gained in prior to complete your final peerreviewed project during your final project you complete realworld tasks including designing a network with subnets calculating subnet addresses and subnet masks configuring firewalls and analyzing website traffic
 </DOC>
 
+<DOC>ip addressing routing and switching
+after completing this be able to explain and apply ip addressing ip address structure and network classes ip protocols traffic routing and the ipv address schema also be able to compare the structure and uses of ipv and ipv be able to explain basic network routing principles layer and layer addressing and address resolution protocols arp and describe the basics of routers and routing table sessions gain you can use in the real world when you how to secure a small officehome office soho network
+ip addressing the basics of binary ip address structure and network classes ip protocol and traffic routing introduction to the ipv address schema basics of network routing layer and layer addressing address resolution protocol routers and routing tables part routers and routing tables part routers and routing tables part
+</DOC>
+
+<DOC>network protocols
+about network protocols and security measures combining theoretical knowledge with practical applications begin with an introduction to application and transport protocols focusing on udp and tcp then explore dns and dhcp and a handson lab for configuring dhcp and an activity on dns filtering then how to use syslog message logs and network analysis techniques including port mirroring promiscuous mode and user behavior analysis
+application and transport protocols part application and transport protocols part dns and dhcp dns filtering syslog message logging protocol flows and network analysis port mirroring and promiscuous mode user behavior analysis
+</DOC>
+
+<DOC>network security techniques
+this introduces you to network security techniques including firewall technologies stateless and stateful inspections ids and ips systems also examine network address translation nat and file integrity monitoring along with advanced security measures such as data loss prevention dlp network access control and endpoint detection and response edr conclude this with a handson lab where you can gain realworld with an opensource extended detection and response xdr application
+stateless inspection stateful inspection firewall filters with intrusion systems using your microsoft windows lab workspace intrusion detection and prevention systems compared network address translation file integrity monitoring data loss prevention dlp network access control nac endpoint detection and response edr extended detection and response
+</DOC>
+
+<DOC>final project and wrapup
+apply the knowledge and handson you gained in prior to complete your final peerreviewed project during your final project you complete realworld tasks including designing a network with subnets calculating subnet addresses and subnet masks configuring firewalls and analyzing website traffic
+</DOC>

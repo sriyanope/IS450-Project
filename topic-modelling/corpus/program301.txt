@@ -9,32 +9,33 @@ learners will create a comprehensive set of designs and strategies for a new pro
 product management essentials
 product management is one of the fastest growing and most lucrative jobs available today companies have awoken to the desperate need for product managers to create products that customers love that integrate design functionality and business solutions in our we define the fundamentals of product management and why this role is so coveted as a launch pad for future ceos and startup founders
 to be effective product managers need a clear understanding of their jobs and duties they also need a clear understanding of the required and competencies an appreciation of these roles responsibilities and capabilities is also beneficial for stakeholders and team members who collaborate with product managers this investigates the framework for success in product management by defining the product managers position in an organization and the key responsibilities examine the and competencies most critical to carrying out those responsibilities to further improve your understanding of product management discuss how product managers engage with the product team and stakeholders to create and manage successful products product managers must also know how to establish organize and lead a team they must know the typical product development life cycle and be able to select the right development methodology for the product and the target market to meet these challenges to product team leadership consider the phases of product development and the roles that product managers play in each step examine a variety of team structures and product development methodologies and the importance of establishing a team charter lastly also explore the and challenges of market development and commercialization provide an orientation to key marketing concepts critical to developing and commercializing innovative products and services
-
-introduction to product management essentials
+</DOC>
+<DOC>introduction to product management essentials
 get acquainted with the learning and format meet the faculty and connect with classmates from across the globe
+</DOC>
 
-roles and responsibilities of the product manager
+<DOC>roles and responsibilities of the product manager
 discussion prompt
 roles and responsibilities of the product manager what do product managers do product vs project vs types of product managers how to become a product manager the productdevelopment life cycle finding and planning the productdevelopment life cycle designing the productdevelopment life cycle building the productdevelopment life cycle sharing the productdevelopment life cycle assessing
+</DOC>
 
-managing innovative product teams
+<DOC>managing innovative product teams
 discussion prompt
 managing innovative product teams organizing and managing a product team c analysis creating an hypothesis validating the hypothesis creating the product requirements document prd what is user design product managers vs designers the design process usability testing dieter rams principles of good design productengineering relationships software development methodologies waterfall development agile development scrum kanban
+</DOC>
 
-market development and commercialization
+<DOC>market development and commercialization
 discussion prompt
 market development and commercialization marketing challenges common marketing mistakes know your customer rethinking the ps of marketing revisiting customer development highlights from the customer development manifesto market type and marketing how market type affects marketing strategy the basics of crossing the chasm solving customer problems segmenting the market expanding your market
 </DOC>
-
 <DOC>
 creative design prototyping and testing
 designing the customer and user is essential to creating great products today gone is the old paradigm of form follows function model of design the process must be iterative and follow the best product design and development processes while designing a great user can be a lengthy and expensive process there are approaches to doing it faster and smarter without compromising results
 this essential product management explains key design thinking principles around personas story mapping and prototyping product managers need to know and appreciate product designer tools and processes by combining these principles with good scrum processes to create great products that dont sacrifice design for functionality or feasibility this enables students to transition from ideas to prototyping and concept testing of their products and services students how best to effectively translate ideas into marketable offerings so that the best product and service ideas are harnessed and create real value for customers and the organization emphasis is placed on an integrated and interdisciplinary approach to engineering design concurrent engineering design for manufacturing industrial design and the business of new product development topics include design methods modeling and simulation material and manufacturing process selection platform and modular design mass customization planning and scheduling
-
-introduction to creative design prototyping and testing
+</DOC>
+<DOC>introduction to creative design prototyping and testing
 get acquainted with the learning and format meet the faculty and connect with classmates from across the globe
 </DOC>
-
 <DOC>
 financial management for product leaders
 this is for aspiring or active product leaders who wants to understand how to secure and manage funding for their activities demystify key accounting and financing concepts to give product leaders a guide to developing the business case for their ideas and securing funding to translate ideas into reality
@@ -42,33 +43,34 @@ this focuses on four key areas learning the fundamentals and how to create finan
 examining valuation techniques for understanding how to assess and grow the value of the corporate venture
 exploring the different sources of internal and external financing for the corporate venture
 and applying lessons learned in the to structure a funding deal and pitch the corporate venture
-
-introduction to financial management for product leaders
+</DOC>
+<DOC>introduction to financial management for product leaders
 introduce the fundamentals of financial management and examine how to create financial statements
 introducing our finance for the corporate entrepreneur the entrepreneurial spectrum corporate entrepreneur vs startup entrepreneur the too typical return on investment roi process a better approach to return on investment roi intangible assets and return on investment roi the roles of products and leadership in return on investment roi financial statement basics financial statement details financial metrics
+</DOC>
 
-valuation techniques for product leaders
+<DOC>valuation techniques for product leaders
 examine valuation techniques for understanding how to assess and grow the value of the corporate venture
 welcome valuation techniques net present value cost of capital why npv is best project payback period internal rate of return weighted average cost of capital
+</DOC>
 
-sources of financing for product leaders
+<DOC>sources of financing for product leaders
 explore the different sources of internal and external financing for the corporate venture
 welcome sources of funding internal funding customer and vendor financing franchising joint ventures cobranding licensing agreements
+</DOC>
 
-creating the investment proposal for product leaders
+<DOC>creating the investment proposal for product leaders
 apply lessons learned in the to structure a funding deal and pitch the corporate venture
 welcome business proposals and the pitch how to write an effective business proposal what do your funding sources want to see how to create a pitch deck dos and donts of the pitch final thoughts
 </DOC>
-
 <DOC>
 establishing productmarket fit
 entrepreneur and investor marc andreessen coined the term productmarket fit in when he said productmarket fit means being in a good market with a product that can satisfy that market while there are ample articles that mention the term detailed guidance on how to actually achieve productmarket fit is scarce
 through our explore an actionable model that defines productmarket fit using five key components from bottom to top examine the layers of productmarket fit beginning with your target customer and transitioning through your customers underserved needs your value proposition your feature set and ultimately your user ux our process is an iterative easytofollow guide through each layer to achieve productmarket fit this process helps you to articulate test and revise your key hypotheses about your product and the market so you can define and improve your productmarket fit using the principles of lean product process our is structured in seven steps determining your target customer identifying underserved customer needs defining your value proposition specifying your minimum viable product mvp feature set creating your mvp prototype testing your mvp with customers and iterating to improve productmarket fit
-
-introduction to establishing productmarket fit
+</DOC>
+<DOC>introduction to establishing productmarket fit
 
 </DOC>
-
 <DOC>
 developing innovative ideas for product leaders
 for product leaders creating new new products and improving existing products are imperatives for success maturing technologies and aging product portfolios are requiring companies to discover develop and deliver products that customers love this is focused on the first step of this journey identifying and evaluating new product
@@ -76,20 +78,22 @@ this is primarily aimed at professionals who are inspired or tasked to develop a
 examining entrepreneurial thinking within yourself and your colleagues with an awareness of entrepreneurial mindset entrepreneurial motivations and entrepreneurial behaviors
 cultivating seeing entrepreneurially within yourself and your colleagues with attention to industry conditions industry status macroeconomic change and competition
 and championing acting entrepreneurially within the corporate environment with an understanding of value innovation and identification
-
-introduction to developing innovative ideas for product leaders
+</DOC>
+<DOC>introduction to developing innovative ideas for product leaders
 get acquainted with the learning and format meet the faculty and connect with classmates from across the globe
+</DOC>
 
-thinking entrepreneurially
+<DOC>thinking entrepreneurially
 examine entrepreneurial thinking within yourself and your colleagues with an awareness of entrepreneurial mindset entrepreneurial motivations and entrepreneurial behaviors
 welcome to thinking entrepreneurially what are entrepreneurial what is strategic decisionmaking why study strategic decisionmaking what is your decisionmaking style do you have a high need for achievement how does individualism influence your decisionmaking do you believe that you have control of your own destiny are you able to effectively focus your time and resources do friends characterize you as an optimist do you have high selfefficacy do you exhibit high cognitive motivation what is your tolerance for ambiguity do you have the confidence to attempt the difficult what is your risk tolerance are your interpersonal developed are you rich in social capital
+</DOC>
 
-seeing entrepreneurially
+<DOC>seeing entrepreneurially
 cultivate seeing entrepreneurially within yourself and your colleagues with attention to industry conditions industry status macroeconomic change and competition
 welcome to seeing entrepreneurially what impact do knowledge conditions have in your industry are the demand conditions in your industry favorable what is the lifecycle stage of your industry is the industry capital intensive is the industry advertising intensive are you trying to enter a concentrated market what is the average size of a company in the industry what demographic changes are creating new market needs what psychographic changes are opportunistic what technical advancements are emerging what societal changes are presenting new what political and regulatory forces will influence the market how does the learning curve influence your success what complementary assets are critical to develop what is the reputation of your competitors
+</DOC>
 
-acting entrepreneurially
+<DOC>acting entrepreneurially
 champion acting entrepreneurially within the corporate environment with an understanding of value innovation and identification
 welcome to acting entrepreneurially what is value innovation what existing factors can you eliminate where can you reduce factors and not reduce value which factors can you raise above competitors what new factors can you create is the problem real does your solution create value for your stakeholders is your advantage superior and sustainable can you build the right team at the right time
 </DOC>
-

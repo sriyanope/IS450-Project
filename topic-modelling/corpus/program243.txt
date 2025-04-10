@@ -21,98 +21,109 @@ finetuning and deploying large language models llms and containerized models usi
 mlops platforms amazon sagemaker and azure ml
 in mlops machine learning operations platforms amazon sagemaker and azure ml the necessary to build train and deploy machine learning solutions in a production environment using two leading cloud platforms amazon web services aws and microsoft azure this is also a great resource for individuals looking to prepare for aws or azure machine learning certifications or who are working or seek to as data scientists software engineers software developers data analysts or other roles that use machine learning
 through a series of handson exercises gain an intuition for basic machine learning algorithms and practical working with these leading cloud platforms by the end of the be able to deploy machine learning solutions in a production environment using aws and azure technology explore data engineering with aws technology discuss topics such as getting started with machine learning on aws creating data repositories and identifying and implementing solutions for data ingestion and transformation gain basic data science with aws technology data cleaning techniques perform feature engineering data analysis and data visualization for machine learning prioritize using serverless solutions that are available on aws to make the process more efficient machine learning models with aws technology examine how to select appropriate models for the task at hand choose hyperparameters train models on the platform and evaluate models mlops with aws the final phase of putting machine learning into production discuss topics such as operationalizing a machine learning model deciding between cpu and gpu and deploying and maintaining the model how to with data and machine learning in a second leading cloudbased platform azure ml
-
-data engineering with aws technology
+</DOC>
+<DOC>data engineering with aws technology
 how to build data engineering solutions on aws and apply it by building a data engineering pipeline with aws step functions and aws lambda
 meet your instructor noah gift using sagemaker studio lab getting started with aws cloudshell advantages of using cloud developer workspaces prototyping ai apis in cloudshell cloud with aws codewhisperer ai pair programming tool introduction to data storage determining the correct storage medium working with amazon s batch vs streaming job styles introduction to data ingestion and processing pipelines working with aws batch working with aws step functions transforming data in transit handling map reduce for machine learning working with emr serverless
+</DOC>
 
-exploratory data analysis with aws technology
+<DOC>exploratory data analysis with aws technology
 compose data engineering solutions using aws technology and apply it by building data science notebooks
 cleaning up data scaling data labeling data identifying and extracting features feature engineering concepts graphing data clustering data
+</DOC>
 
-modeling with aws technology
+<DOC>modeling with aws technology
 compose machine learning modeling solutions using aws technology and apply it by building a linear regression model that runs inside a commandline tool
 when to use machine learning supervised vs unsupervised machine learning selecting a machine learning solution selecting a machine learning model modeling demo with sagemaker canvas using train test and split solving optimization problems selecting gpu vs cpu neural network architecture overfitting vs underfitting selecting metrics comparing models using experiment tracking
+</DOC>
 
-mlops with aws technology
+<DOC>mlops with aws technology
 to deploy and operationalize machine learning solutions using aws technology and apply it by finetuning a hugging face model using sagemaker studio lab
 monitoring and logging multiple regions reproducible workflows awsflavored devops reviewing compute choices provisioning ec provisioning ebs aws ai ml services principle of least privilege aws lambda integrated security of sagemaker studio workflow model predictions with sagemaker canvas data drift and model monitoring running pytorch with aws app runner
+</DOC>
 
-machine learning certifications
+<DOC>machine learning certifications
 about machine learning certifications from the major cloud providers and how to apply them to mlops about services related to machine learning and ml engineering tasks like automl and how they apply to the certifications
 introduction to azure certifications learning resources for azure certifications microsoft learning paths and study notes creating an azure ml workspace creating an azure auto ml job introductory azure ml and mlops concepts prerequisite technology real time and batch deployment azure open datasets exploring open datasets sdk more advanced azure ml and mlops concepts exploring azure ml command line triggering azure ml with github using hyperparameters train a model using the python sdk
 </DOC>
-
 <DOC>
 python essentials for mlops
 python essentials for mlops machine learning operations is a designed to provide learners with the fundamental python needed to succeed in an mlops role this covers the basics of the python programming language including data types functions and testing techniques it also covers how to effectively with data sets and other data science tasks with pandas and numpy through a series of handson exercises learners will gain practical working with python in the context of an mlops workflow by the end of the learners will have the necessary to write python scripts for automating common mlops tasks this is ideal for anyone looking to break into the field of mlops or for experienced mlops professionals who want to improve their python
-
-introduction to python
+</DOC>
+<DOC>introduction to python
 how to effectively use variables logic and pythons data structures to load persist and iterate over data apply these data structures to solve different problems as as extract data from them
 meet your instructor alfredo deza lesson introduction variables and types variables and working with different data types conditionals and evaluations catching and handling exceptions lesson recap variables and types lesson introduction python data structures introduction to lists creating and iterating over lists introduction to dictionaries creating and iterating over dictionaries other data structures tuples and sets lesson recap python data structures lesson introduction adding and extracting data adding data to lists extracting data from lists extracting data from dictionaries lesson recap adding and extracting data
+</DOC>
 
-python functions and classes
+<DOC>python functions and classes
 how to create functions classes and methods these are the basis of almost any you might create with python functions and classes are useful for organizing code increasing maintainability and code reuse
 lesson introduction working with functions function structure and values function arguments variable and keyword arguments lesson recap working with functions lesson introduction building classes and methods introduction to classes using a constructor adding methods class inheritance lesson recap building classes and methods lesson introduction and advanced usages introduction to python working with imports working with python scripts virtual environments and dependencies lesson recap and advanced usages
+</DOC>
 
-testing in python
+<DOC>testing in python
 the basics of python testing from a brief of the standard library to using a more modern approach with pytest one of the most popular testing libraries in python by the end of this you should be comfortable working with existing tests creating new tests and debugging test failures
 lesson introduction writing and executing tests motivations for testing in python testing conventions testing with pytest lesson recap writing and executing tests lesson introduction writing useful tests using plan asserts in pytest writing test classes test classes vs test functions parameterizing tests lesson recap writing useful tests lesson introduction testing failures test failure output python debugging with pdb other pytest runner options pytest fixtures lesson recap testing failures
+</DOC>
 
-introduction to pandas and numpy
+<DOC>introduction to pandas and numpy
 how to with data using pandas and numpy from loading and reading datasets from different sources to plotting graphs and exploring common problems in data pandas will allow you to perform transformations and export your data into different formats and numpy will boost your ability to with numerical data
 lesson introduction basic pandas usage introduction to pandas loading data into pandas writing data from pandas dataframes exploratory analysis with pandas lesson recap basic pandas usage lesson introduction working with dataframes common dataframe operations manipulating text in dataframes applying functions with pandas visualizing data with pandas lesson recap working with dataframes lesson introduction numpy basics introduction to numpy arrays common numpy array operations more numpy array operations lesson recap numpy basics
+</DOC>
 
-applied python for mlops
+<DOC>applied python for mlops
 grasp the basics of how to create and use apis with python using http and commandline tools go through all the details you need to know to create your own commandline tools and http apis to expose machine learning models
 lesson introduction apis and sdks installing azure commandline interface cli azureml studio with python hugging face transformers hugging face datasets azure open datasets lesson recap apis and sdks lesson introduction automation with commandline tools creating a single file script using the argparse framework declaring dependencies using the click framework packaging your project solving a machine learning problem with a cli tool lesson recap automation with commandline tools lesson introduction building machine learning apis introduction to flask framework building an api with flask introduction to the fastapi framework building an api with fastapi python api best practices lesson recap building machine learning apis
 </DOC>
-
 <DOC>
 devops dataops mlops
 how to apply machine learning operations mlops to solve realworld problems the covers endtoend solutions with artificial intelligence ai pair programming using technologies like github copilot to build solutions for machine learning ml and ai applications this is for people working or seeking to as data scientists software engineers or developers data analysts or other roles that use ml
 by the end of the be able to use web frameworks eg gradio and hugging face for ml solutions build a commandline tool using the click framework and leverage rust for gpuaccelerated ml tasks explore mlops technologies and pretrained models to solve problems for customers apply ml and ai in practice through optimization heuristics and simulations develop operations pipelines including devops dataops and mlops with github build containers for ml and package solutions in a uniformed manner to enable deployment in cloud systems that accept containers switch from python to rust to build solutions for kubernetes docker serverless data engineering data science and mlops
-
-introduction to mlops
+</DOC>
+<DOC>introduction to mlops
 how to apply foundational in mlops to build machine learning solutions and apply it by building microservices in python
 introduction to mlops mlops background mlops trends and techniques what is devops what is dataops mlops heavy vs light mlops hierarchy of needs data poisoning machine learning systems what are the key components in mlops considering the mlops maturity models what is continuous integration what is continuous delivery what is a feature store what is data drift operationalizing a microservice ci for microservices end to end mlops huggingface spaces app runner example flask example building golang gcp app engine microservice getting started with makefile the three most important files in a python project
+</DOC>
 
-essential math and data science
+<DOC>essential math and data science
 how to apply essential in math and data science for mlops and apply it by building simulations
 doing data science your first day what is colab understanding the traveling salesman problem tsp simulations vs experiment tracking machine learning and ai in practice with clustering
+</DOC>
 
-operations pipelines devops dataops mlops
+<DOC>operations pipelines devops dataops mlops
 how to build operations pipelines and then apply these by building solutions for pretrained hugging face models
 cloud developer workspace advantage key components of github ecosystem using github templates demo of github codespaces gpu code whisperer finetuning with hugging face demo of github copilot github actions pipelines for dataops using step functions query databricks pipeline building data ingestion pipelines on aws marco polo step functions transforming data in transit on aws demo aws batch service serverless data engineering pipelines on aws building python functions from zero building a python nlp project with python fire extending google cloud functions using google cloud functions deploying a rust azure function with github actions
+</DOC>
 
-end to end mlops and aiops
+<DOC>end to end mlops and aiops
 how to build end to end mlops and aiops solutions and apply it by building solutions with pretrained models from openai while benefiting from using ai pair programming tools like github copilot
 containerized microservices containerized continuous delivery containerized machine learning containerized endtoend machine learning building distroless containers use ai to write ai key for python devops with copilot amazon codewhisperer vs github copilot enabling ai workflows prototyping ai apis using transfer learning assimilate openai technology using streamlit
+</DOC>
 
-rust for mlops the practical transition from python to rust
+<DOC>rust for mlops the practical transition from python to rust
 how to switch from python to rust a powerful and efficient systems programming language this will cover various practical applications of rust such as cli web and mlops solutions as as cloud computing solutions for aws gcp and azure also how to build rust solutions for kubernetes docker serverless data engineering data science and machine learning operations mlops by the end of this have a strong understanding of rusts key syntax and features and be able to leverage rust for gpuaccelerated machine learning tasks
 introduction to switching to rust from python introduction to rust lecture notes configure rust for aws cloud github copilot enabled rust programming using rust packaging for web development comparing energy efficiency of rust vs python comparing rust vs python for mlops continuous integration for rust with github actions demo unit testing rust building a deduplication tool with rust zero shot classification rust hugging face rust gpu hugging face translator pytorch stable diffusion rust with gpu rust pytorch demo building gpu stress test using rust onnx with efs for aws lambda onboarding to gcp with python and rust via cloudshell run rust actix microservice with google cloud run build and deploy rust microservice via google cloud run monitoring and logging with rust for google app engine load testing a rust microservice building a containerized rust microservice with aws aws step functions with rust deploy an app engine rust microservice size calculator in aws s
 </DOC>
-
 <DOC>
 mlops tools mlflow and hugging face
 this covers two of the most popular open source platforms for mlops machine learning operations mlflow and hugging face go through the foundations on what it takes to get started in these platforms with basic model and dataset operations start with mlflow using projects and models with its powerful tracking system and how to interact with these registered models from mlflow with full lifecycle examples then explore hugging face repositories so that you can store datasets models and create live interactive demos
 by the end of the be able to apply mlops concepts like finetuning and deploying containerized models to the cloud this is ideal for anyone looking to break into the field of mlops or for experienced mlops professionals who want to improve their programming
-
-introduction to mlflow
+</DOC>
+<DOC>introduction to mlflow
 what mlflow is and how to use it install mlflow and perform basic operations like registering runs models and artifacts then create an mlflow project for reproducible results finally understand how to use a registry with mlflow models and reference artifacts from the api
 meet your instructor alfredo deza of mlflow installing and using mlflow introduction to the tracking ui parameters version artifacts and metrics working with mlflow projects create an mlflow project run project from remote git repositories connecting mlflow to databricks components of an mlflow package using a registry with an mlflow model referencing artifacts with the api saving and serving mlflow models
+</DOC>
 
-introduction to hugging face
+<DOC>introduction to hugging face
 the basics of the hugging face platform use some of its features like its repositories so that you can store models and datasets finally how to add and use models and datasets using hugging face apis as as the web interface
 what is hugging face of the hugging face hub introduction to the hugging face hub using hugging face repositories using hugging face spaces introduction to applied hugging face using gpu enabled codespaces using the hugging face cli using the model hub downloading models working with models adding datasets using datasets working with datasets
+</DOC>
 
-deploying hugging face
+<DOC>deploying hugging face
 how to containerize hugging face models and use the fastapi framework to serve the model with an interactive http api endpoint once you understand how to put everything together use automation for speed and reproducibility finally use azure and docker hub to store the containers so that they can be used later for deployments
 hugging face and fastapi containerizing hugging face running fastapi with hugging face cicd packaging with github actions hugging face and azure ml studio registering a hugging face dataset on azure registering a hugging face model on azure inspecting a hugging face dataset on azure azure ml python sdk using github actions for model deployments using azure container registry automating packaging with azure container registry automating packaging with docker hub
+</DOC>
 
-applied hugging face
+<DOC>applied hugging face
 how to finetune hugging face models by using preexisting models and then modifying finetuning them with additional data also use azure to deploy the container and how to troubleshoot it finally also see how to deploy a model to hugging face spaces
 create an azure container application configure an azure container application deploy hugging face to azure troubleshooting container deployment introduction to finetuning theory performing finetuning introduction to onnx and hugging face exporting hugging face models to onnx introduction to hugging face spaces hugging face spaces walkthrough deploying hugging face spaces profit sharing concepts tragedy of the genai commons game theory of genai perfect competition negative externalities regulatory entrepreneurship
 </DOC>
-

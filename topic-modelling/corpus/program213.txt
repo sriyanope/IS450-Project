@@ -9,87 +9,95 @@ quizzes and projects for introduction to cyber security were designed to exercis
 enterprise and infrastructure security
 this introduces a series of advanced and current topics in cyber security many of which are especially relevant in modern enterprise and infrastructure settings the basics of enterprise compliance frameworks are provided with introduction to nist and pci hybrid cloud architectures are shown to provide an to fix many of the security weaknesses in modern perimeter local area networks
 emerging security issues in blockchain blinding algorithms internet of things iot and critical infrastructure protection are also described for learners in the context of cyber risk mobile security and cloud security hyperresilience approaches are also introduced the completes with some practical advice for learners on how to plan careers in cyber security
-
-security awareness compliance assessments and risk
+</DOC>
+<DOC>security awareness compliance assessments and risk
 this includes an introduction to many practical aspects of modern enterprise security including awareness compliance assessments and risk management
 introduction what from this on cyber security and reading social engineering phishing security awareness using for security awareness security assessment and audit what is grc nist framework pcidss framework challenges of compliance versus security welcome roger thornton part cto alienvault
+</DOC>
 
-hybrid cloud security
+<DOC>hybrid cloud security
 this provides students with an introduction to the cyber security implications of the enterprise shifting to a hybrid cloud computing model
 and reading enterprise shift to hybrid cloud workload microsegmentation defense in depth through microsegmentation cloud access security brokers advanced hybrid cloud security architecture part advanced hybrid cloud security architecture part advanced hybrid cloud security architecture part security of isolated servers outside perimeter welcome john popolizio founder riverdale group
+</DOC>
 
-blockchain anonymity and critical infrastructure protection
+<DOC>blockchain anonymity and critical infrastructure protection
 this introduces several advanced topics in cyber security ranging from blockchain usage user anonymity and critical infrastructure protection
 and reading hashing algorithms blockchain part blockchain part cyber attribution onion routing and tor chaum binding algorithm critical infrastructure part requirements critical infrastructure part protection methods welcome roger thornton part cto alienvault
+</DOC>
 
-mobility security and deception
+<DOC>mobility security and deception
 this introduces several advanced topics in cyber security including mobility security and deception and includes suggestions on planning for future cyber professionals
 and reading mobility security imsi catching iot security iot botnets using deception and honey pots for security welcome elena kvochko cyber security expert advice on careers in cyber security how to continue a learning plan in cyber security
 </DOC>
-
 <DOC>
 introduction to cyber attacks
 this provides learners with a baseline understanding of common cyber security threats vulnerabilities and risks an of how basic cyber attacks are constructed and applied to real systems is also included examples include simple unix kernel hacks internet worms and trojan horses in software utilities network attacks such as distributed denial of service ddos and botnet attacks are also described and illustrated using real examples from the past couple of decades
 familiar analytic models are outlined such as the confidentialityintegrityavailability cia security threat framework and examples are used to illustrate how these different types of threats can degrade real assets the also includes an introduction to basic cyber security risk analysis with an of how threatasset matrices can be used to prioritize risk decisions threats vulnerabilities and attacks are examined and mapped in the context of system security engineering methodologies
-
-introduction to cyber security
+</DOC>
+<DOC>introduction to cyber security
 this provides exposure to basic cyber security concepts including some simple foundational attack methods
 introduction what from this on cyber security and reading hacking an oldfashioned soda machine simple worm trojan horse login malicious compiler typical unix kernel attack explaining interview series welcome lou manousos part welcome lou manousos part
+</DOC>
 
-understanding basic security frameworks
+<DOC>understanding basic security frameworks
 this introduces some fundamental frameworks models and approaches to cyber security including the cia model
 and reading purpose of cyber security adversary types vulnerability types threat types matching quiz matching quiz solution confidentiality threat integrity threat availability threat fraud threat testing for vultnerabilities attacks brute force vs hueristic attacks crytanalysis cryptanalyzing caesar cipher welcome jose dominguez
+</DOC>
 
-examining cyber threats more closely
+<DOC>examining cyber threats more closely
 this covers some of the more intense attacks over the past decade including worms and ddos attacks
 and reading sql slammer worm of nachi worm of botnet design botnet arithmetic welcome elad yoran assets and infrastructure calculating risk making security and cost decisions based on risk threat trees and completeness of analysis
+</DOC>
 
-introducing security risk analysis
+<DOC>introducing security risk analysis
 this introduces basic engineering and analysis methods for managing cyber security risk to valued assets
 and reading mapping assets to threats estimating risk for threatasset pairs example case study matrix part example case study matrix part example case study matrix part mapping assets threats vulnerabilities and attacks welcome nasir memon
 </DOC>
-
 <DOC>
 realtime cyber threat detection and mitigation
 this introduces realtime cyber security techniques and methods in the context of the tcpip protocol suites explanation of some basic tcpip security hacks is used to introduce the need for network security solutions such as stateless and stateful firewalls learners will be introduced to the techniques used to design and configure firewall solutions such as packet filters and proxies to protect enterprise assets
 perimeter solutions such as firewalls and intrusion prevention systems are shown to have significant drawbacks in common enterprise environments the result of such weakness is shown to often exist as advanced persistent threats apts from nationstate actors such attacks as as ddos and thirdparty attacks are shown to have potential solutions for modern enterprise
-
-basic network security
+</DOC>
+<DOC>basic network security
 this introduces the basics of tcpip for security including firewall design and use
 introduction what from this on cyber security and reading security through obscurity tcpip evolution and security tcpip ip spoofing tcp sequence number attack packet flooding packet sniffing syn packets for access control definition of a firewall firewall stateful versus stateless interview john viega
+</DOC>
 
-more advanced network security technologies
+<DOC>more advanced network security technologies
 this introduces packet filters firewall rule sets proxies and additional network security methods
 and reading packet filtering sample packet filtering and reference architecture default firewall block firewall rules to allow outbound web browsing firewall rules to allow telnet and other tcp services establishing corporate policy rules ftp protocol firewall rules for ftp application proxy filtering forward and reverse proxies interview roger piqueras jover
+</DOC>
 
-network security architectures
+<DOC>network security architectures
 this introduces the foundations firewall architectures intrusion detection and soc design
 and firewall architectures part firewall architectures part management by exception system auditing basics of intrusion detection signature versus behavioral detection ids versus ips design of siem design of a soc interview dino dai zovi
+</DOC>
 
-enterprise network security
+<DOC>enterprise network security
 this introduces the limitations of perimeters and the challenges in the enterprise of dealing with threats such as ddos and apt
 and reading practical limitations of perimeter apt schema through perimeter holes third party security target apt attack large government agency attack layer ddos protection layer application level ddos risk large financial website ddos attacks network security industry interview ray cheng pt interview ray cheng pt
 </DOC>
-
 <DOC>
 cyber attack countermeasures
 this introduces the basics of cyber defense starting with foundational models such as belllapadula and information flow frameworks these underlying policy enforcements mechanisms help introduce basic functional protections starting with authentication methods learners will be introduced to a series of different authentication solutions and protocols including rsa secureid and kerberos in the context of a canonical schema
 the basics of cryptography are also introduced with attention to conventional block ciphers as as public key cryptography important cryptographic techniques such as cipher block chaining and tripledes are explained modern certification authoritybased cryptographic support is also discussed and shown to provide basis for secure ecommerce using secure sockets layer ssl schemes
-
-cyber security safeguards
+</DOC>
+<DOC>cyber security safeguards
 this provides an introduction to security modeling foundational frameworks and basic safeguard approaches
 introduction what from this on cyber security and reading safeguards and countermeasures reference model orange book compliance bell la padula model biba integrity model issues with subjectobjectactions models covert channels information flow models and hookup theorem part information flow models and hookup theorem part welcome kirsten bay
+</DOC>
 
-understanding authentication protocols
+<DOC>understanding authentication protocols
 this introduces important protocols and techniques associated with advanced authentication processes
 and reading identification and authentication factors of authentication including fa authentication protocol schema and zones passwords and analysis handheld authentication protocol part implementation handheld authentication protocol part analysis and cryptanalysis welcome lior frenkel rsa secureid protocol part implementation rsa secureid protocol part analysis
+</DOC>
 
-introducing conventional cryptography
+<DOC>introducing conventional cryptography
 this introduces the foundations of conventional cryptography along with its practical application in kerberos
 and reading lamports skey protocol part implementation lamports skey protocol part analysis welcome ajoy kumar kerberos part implementation tgt issuance kerberos part implementation tbob issuance basic cryptosystems and properties cryptographic algorithm design des design tripledes
+</DOC>
 
-of public key cryptographic methods
+<DOC>of public key cryptographic methods
 this introduces the basics of public key cryptography including an of ssl and ca applications
 and reading cbc mode block cryptography conventional cryptography scaling issues public key crypto basics public key secrecy public key digital signature cryptographic message exchange diffiehellman key exchange key distribution and certification authority secure sockets layer the story of james ellis and clifford cox welcome franscis cianfrocca
 </DOC>
-

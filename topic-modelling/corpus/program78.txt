@@ -9,74 +9,83 @@ includes handson labs focused on building lookml to curate data for business use
 <DOC>
 analyzing and visualizing data in looker
 you how to do the kind of data exploration and analysis in looker that would formerly be done primarily by sql developers or analysts upon completion of this be able to leverage lookers modern analytics platform to find and explore relevant content in your organizations looker instance ask questions of your data create new metrics as needed and build and share visualizations and dashboards to facilitate datadriven decision making
-
-the looker platform
+</DOC>
+<DOC>the looker platform
 this provides an of the looker user interface and its key components for data explorers
 what is looker looker user interface organizing content with folders
+</DOC>
 
-data analysis building blocks
+<DOC>data analysis building blocks
 this reviews three data analysis building blocks dimensions measures and filters
 dimensions in looker measures in looker example exploring measures using customer data using dimensions and measures example combining dimensions and measures filtering dimensions filtering measures example filtering with measures getting started with google cloud platform and qwiklabs
+</DOC>
 
-working with looker content
+<DOC>working with looker content
 this explores the use of dashboards for multiple visualizations and boards to curate looker content
 filtering looks introducing dashboards filtering dashboards curating looker content in boards example board creation
+</DOC>
 
-customizing explores
+<DOC>customizing explores
 this explores pivoting data in looker to turn a selected dimension into several columns the also covers the writing of table calculations to instantaneously create new metrics and offset calculations to programmatically reference values from other rows or columns in your query results to calculate new values
 pivoting data in looker example working with pivots introduction to table calculations types of table calculations writing table calculations example writing and visualizing table calculations example percent of total table calculations introducing offset functions writing offset calculations example writing offset calculations
+</DOC>
 
-creating new looker content
+<DOC>creating new looker content
 this explores the creation of single standalone reports looks and dashboards which can be used to combine individual visualizations
 creating new looks creating new dashboards
+</DOC>
 
-sharing looker data with others
+<DOC>sharing looker data with others
 this explores how you can share or export content from looker
 sharing and scheduling looks sharing and scheduling dashboards tilelevel dashboard alerts
 </DOC>
-
 <DOC>
 exploring data transformation with google cloud
 cloud technology can bring great value to an organization and combining the power of cloud technology with data has the potential to unlock even more value and create new customer
 exploring data transformation with google cloud explores the value data can bring to an organization and ways google cloud can make data useful and accessible part of the cloud digital leader learning path this aims to help individuals grow in their role and build the future of their business
-
-introduction
+</DOC>
+<DOC>introduction
 introduction explore the goals and preview each section
+</DOC>
 
-the value of data
+<DOC>the value of data
 section of the explore the important role that data plays in an organizations digital transformation
 introduction how data creates value unlocking business value from data data management concepts the role of data in digital transformation the data value chain data governance
+</DOC>
 
-google cloud data management solutions
+<DOC>google cloud data management solutions
 section of the explore google cloud data management products and solutions and how they apply to different business use cases
 introduction unstructured data storage structured data storage semistructured data storage choosing the right storage product database migration and modernization
+</DOC>
 
-making data useful and accessible
+<DOC>making data useful and accessible
 section of the examine how smart analytics business intelligence tools and streaming analytics can add value in different business use cases
 introduction business intelligence and insights using looker streaming analytics pubsub and dataflow
-
-
-the closes with a of the key points covered in each section and next steps to continue learning
 </DOC>
 
 <DOC>
+the closes with a of the key points covered in each section and next steps to continue learning
+</DOC>
+<DOC>
 developing data models with lookml
 this empowers you to develop scalable performant lookml looker modeling language models that provide your business users with the standardized readytouse data that they need to answer their questions upon completing this be able to start building and maintaining lookml models to curate and manage data in your organizations looker instance
-
-introducing looker and lookml
+</DOC>
+<DOC>introducing looker and lookml
 this provides an of looker and the looker integrated development environment ide for lookml developers
 looker and lookml the looker user interface the looker ide lookml project version control example git workflow in looker how looker writes sql
+</DOC>
 
-data modeling using lookml
+<DOC>data modeling using lookml
 this reviews how to model new dimensions and measures using lookml the also explores the use of dashboards to combine key queries and visualizations into a one page executive view
 anatomy of a lookml project modeling dimensions example creating dimensions using lookml modeling measures example modeling measures using lookml dimension measure modeling logic getting started with google cloud platform and qwiklabs lookml dashboards
+</DOC>
 
-modeling explores for your users
+<DOC>modeling explores for your users
 this provides a deeper dive into the model files of lookml projects for developers to start designing and building custom explores for business users
 modeling new explores using lookml to filter explores understanding symmetric aggregation
+</DOC>
 
-working with derived tables
+<DOC>working with derived tables
 this explains how to use derived tables in looker to create new custom tables that do not yet exist in the underlying database this also provides an of how caching works in looker and how developers can use datagroups to manage caching policies
 introducing derived tables types of derived tables using sql derived tables using native derived tables native derived table parameters using persistent derived tables caching and datagroups implementing datagroups in looker
 </DOC>
-

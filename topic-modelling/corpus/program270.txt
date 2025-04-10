@@ -9,132 +9,145 @@ in the projects students build on provided free software written in multiple lan
 modern robotics robot motion planning and control
 do you want to know how robots are you interested in robotics as a are you willing to invest the effort to fundamental mathematical modeling techniques that are used in all subfields of robotics
 if so then the modern robotics mechanics planning and control may be for you this consisting of six short courses is serious preparation for serious students who hope to in the field of robotics or to undertake advanced study it is not a sampler in of the robot motion planning and control key concepts of robot motion generation planning a motion for a robot in the presence of obstacles and realtime feedback control to track the planned motion chapter motion planning of the modern robotics textbook covers foundational material like cspace obstacles graphs and trees and graph search as as classical and modern motion planning techniques such as gridbased motion planning randomized samplingbased planners and virtual potential fields chapter robot control covers motion control force control and hybrid motionforce control this follows the textbook modern robotics mechanics planning and control lynch and park cambridge university press you can purchase the book or use the free preprint pdf build on a library of robotics software in the language of your choice among python mathematica and matlab and use the free crossplatform robot simulator vrep which allows you to with stateoftheart robots in the comfort of your own home and with zero financial investment
-
-chapter motion planning part of
+</DOC>
+<DOC>chapter motion planning part of
 cspace obstacles graphs and trees and a graph search
 of motion planning chapter cspace obstacles chapter graphs and trees chapter graph search chapter complete path planners chapter
+</DOC>
 
-chapter motion planning part of
+<DOC>chapter motion planning part of
 motion planning on a discretized cspace grid randomized samplingbased planners virtual potential fields and nonlinear optimization
 grid methods for motion planning chapter sampling methods for motion planning chapter part of sampling methods for motion planning chapter part of virtual potential fields chapter nonlinear optimization chapter
+</DOC>
 
-chapter robot control part of
+<DOC>chapter robot control part of
 first and secondorder linear error dynamics stability of a feedback control system and motion control of robots when the output of the controller commands joint velocities
 control system chapter error response chapter linear error dynamics chapter firstorder error dynamics chapter secondorder error dynamics chapter motion control with velocity inputs chapter part of motion control with velocity inputs chapter part of motion control with velocity inputs chapter part of
+</DOC>
 
-chapter robot control part of
+<DOC>chapter robot control part of
 motion control of robots when the output of the controller commands joint torques force control and hybrid motionforce control
 motion control with torque or force inputs chapter part of motion control with torque or force inputs chapter part of motion control with torque or force inputs chapter part of force control chapter hybrid motionforce control chapter
 </DOC>
-
 <DOC>
 modern robotics robot kinematics
 do you want to know how robots are you interested in robotics as a are you willing to invest the effort to fundamental mathematical modeling techniques that are used in all subfields of robotics
 if so then the modern robotics mechanics planning and control may be for you this consisting of six short courses is serious preparation for serious students who hope to in the field of robotics or to undertake advanced study it is not a sampler in of the robot kinematics to solve the forward kinematics calculating the configuration of the hand of the robot based on the joint values using the productofexponentials formula your efforts in pay off handsomely as forward kinematics is a breeze with the tools youve learned this is followed by velocity kinematics and statics relating joint velocities and forcestorques to endeffector twists and wrenches inverse kinematics calculating joint values that achieve a desired hand configuration and kinematics of robots with closed chains this follows the textbook modern robotics mechanics planning and control lynch and park cambridge university press you can purchase the book or use the free preprint pdf build on a library of robotics software in the language of your choice among python mathematica and matlab and use the free crossplatform robot simulator vrep which allows you to with stateoftheart robots in the comfort of your own home and with zero financial investment
-
-chapter forward kinematics
+</DOC>
+<DOC>chapter forward kinematics
 product of exponentials formula for forward kinematics in the space frame and the endeffector frame
 product of exponentials formula in the space frame chapter through product of exponentials formula in the endeffector frame chapter forward kinematics example
-
-chapter velocity kinematics and statics
-velocity kinematics using the space jacobian and body jacobian statics of open chains singularities and manipulability
-velocity kinematics and statics chapter introduction space jacobian chapter through body jacobian chapter through statics of open chains chapter singularities chapter manipulability chapter
-
-chapter inverse kinematics
-analytical and numerical inverse kinematics
-inverse kinematics of open chains chapter introduction numerical inverse kinematics chapter part of numerical inverse kinematics chapter part of
-
-chapter kinematics of closed chains
-forward kinematics inverse kinematics velocity kinematics and statics of closed chains
 </DOC>
 
+<DOC>chapter velocity kinematics and statics
+velocity kinematics using the space jacobian and body jacobian statics of open chains singularities and manipulability
+velocity kinematics and statics chapter introduction space jacobian chapter through body jacobian chapter through statics of open chains chapter singularities chapter manipulability chapter
+</DOC>
+
+<DOC>chapter inverse kinematics
+analytical and numerical inverse kinematics
+inverse kinematics of open chains chapter introduction numerical inverse kinematics chapter part of numerical inverse kinematics chapter part of
+</DOC>
+
+<DOC>chapter kinematics of closed chains
+forward kinematics inverse kinematics velocity kinematics and statics of closed chains
+</DOC>
 <DOC>
 modern robotics robot manipulation and wheeled mobile robots
 do you want to know how robots are you interested in robotics as a are you willing to invest the effort to fundamental mathematical modeling techniques that are used in all subfields of robotics
 if so then the modern robotics mechanics planning and control may be for you this consisting of six short courses is serious preparation for serious students who hope to in the field of robotics or to undertake advanced study it is not a sampler in of the robot motion planning and wheeled mobile robots we delve into advanced topics in robotics chapter grasping and manipulation of the modern robotics textbook covers the modeling of kinematics and forces between rigid bodies in contact and applies the modeling to analysis and planning of robot grasping and other manipulation tasks chapter wheeled mobile robots covers modeling motion planning and feedback control of omnidirectional and nonholonomic wheeled mobile robots and concludes by addressing control of mobile manipulators consisting of a wheeled mobile base and a robot arm this follows the textbook modern robotics mechanics planning and control lynch and park cambridge university press you can purchase the book or use the free preprint pdf build on a library of robotics software in the language of your choice among python mathematica and matlab and use the free crossplatform robot simulator vrep which allows you to with stateoftheart robots in the comfort of your own home and with zero financial investment
-
-chapter grasping and manipulation part of
+</DOC>
+<DOC>chapter grasping and manipulation part of
 kinematics of contact contact types rolling sliding and breaking graphical methods for representing kinematic constraints in the plane and formclosure grasping complete kinematic constraint
 grasping and manipulation chapter firstorder analysis of a single contact chapter contact types rolling sliding and breaking chapter multiple contacts chapter planar graphical methods chapter part of planar graphical methods chapter part of form closure chapter
+</DOC>
 
-chapter grasping and manipulation part of
+<DOC>chapter grasping and manipulation part of
 coulomb friction friction cones graphical methods for representing forces and torques in the plane force closure grasping and examples of manipulation other than grasping
 friction chapter planar graphical methods chapter force closure chapter duality of force and motion freedoms chapter manipulation and the meterstick trick chapter transport of an assembly chapter
+</DOC>
 
-chapter wheeled mobile robots part of
+<DOC>chapter wheeled mobile robots part of
 kinematic models of omnidirectional and nonholonomic wheeled mobile robots
 wheeled mobile robots chapter omnidirectional wheeled mobile robots chapter part of omnidirectional wheeled mobile robots chapter part of modeling of nonholonomic wheeled mobile robots chapter
+</DOC>
 
-chapter wheeled mobile robots part of
+<DOC>chapter wheeled mobile robots part of
 controllability motion planning and feedback control of nonholonomic wheeled mobile robots odometry for wheeled mobile robots and mobile manipulation
 controllability of wheeled mobile robots chapter part of controllability of wheeled mobile robots chapter part of controllability of wheeled mobile robots chapter part of controllability of wheeled mobile robots chapter part of motion planning for nonholonomic mobile robots chapter feedback control for nonholonomic mobile robots chapter odometry chapter mobile manipulation chapter
 </DOC>
-
 <DOC>
 modern robotics foundations of robot motion
 do you want to know how robots are you interested in robotics as a are you willing to invest the effort to fundamental mathematical modeling techniques that are used in all subfields of robotics
 if so then the modern robotics mechanics planning and control may be for you this consisting of six short courses is serious preparation for serious students who hope to in the field of robotics or to undertake advanced study it is not a sampler in of the foundations of robot motion fundamental material regarding robot configurations for both serial robot mechanisms and robots with closed chains about configuration space cspace degrees of freedom cspace topology implicit and explicit representations of configurations and holonomic and nonholonomic constraints also how to represent spatial velocities and forces as twists and wrenches this material is at the core of the study of anything that moves eg robots this follows the textbook modern robotics mechanics planning and control lynch and park cambridge university press you can purchase the book or use the free preprint pdf build on a library of robotics software in the language of your choice among python mathematica and matlab and use the free crossplatform robot simulator vrep which allows you to with stateoftheart robots in the comfort of your own home and with zero financial investment
-
-introduction to modern robotics
+</DOC>
+<DOC>introduction to modern robotics
 introduction to the the modern robotics code library the coppeliasim robot simulator and the lightboard videogeneration tool
 welcome and acknowledgments introduction to the lightboard
+</DOC>
 
-chapter configuration space part of
+<DOC>chapter configuration space part of
 configuration space and degrees of freedom of rigid bodies and robots
 foundations of robot motion degrees of freedom of a rigid body chapter through degrees of freedom of a robot chapter
+</DOC>
 
-chapter configuration space part of
+<DOC>chapter configuration space part of
 configuration space topology and representation configuration and velocity constraints task space and workspace
 configuration space topology chapter configuration space representation chapter configuration and velocity constraints chapter task space and workspace chapter
+</DOC>
 
-chapter rigidbody motions part of
+<DOC>chapter rigidbody motions part of
 rigidbody motions rotation matrices angular velocities and exponential coordinates of rotation
 introduction to rigidbody motions chapter through rotation matrices chapter part of rotation matrices chapter part of angular velocities chapter exponential coordinates of rotation chapter part of exponential coordinates of rotation chapter part of
+</DOC>
 
-chapter rigidbody motions part of
+<DOC>chapter rigidbody motions part of
 homogeneous transformation matrices twists screws exponential coordinates of rigidbody motion and wrenches
 homogeneous transformation matrices chapter through twists chapter part of twists chapter part of exponential coordinates of rigidbody motion chapter wrenches chapter
 </DOC>
-
 <DOC>
 modern robotics capstone project mobile manipulation
 the capstone project of the modern robotics is on mobile manipulation simultaneously controlling the motion of a wheeled mobile base and its robot arm to achieve a manipulation task this project integrates several topics from the including trajectory planning odometry for mobile robots and feedback control beginning from the modern robotics software library provided to you written in python mathematica and matlab and software you have written for previous courses develop software to plan and control the motion of a mobile manipulator to perform a pick and place task test your software on the kuka youbot a mobile manipulator consisting of an omnidirectional mecanumwheel mobile base a joint robot arm and a gripper the stateoftheart crossplatform vrep robot simulator will be used to simulate the task
-
-introduction to the capstone project and milestone
+</DOC>
+<DOC>introduction to the capstone project and milestone
 odometry for wheeled mobile robots and its use in a kinematic simulator for the youbot omnidirectional mobile robot with four mecanum wheels
 introduction to the capstone project mobile manipulation of the capstone project optional review omnidirectional wheeled mobile robots chapter part of optional review omnidirectional wheeled mobile robots chapter part of optional review odometry chapter
-
-milestone reference trajectory generation
-generating a reference trajectory in se for the endeffector of a mobile manipulator to achieve a pickandplace task
-milestone reference trajectory generation optional review pointtopoint trajectories chapters and part of optional review pointtopoint trajectories chapters and part of
-
-milestone feedforward control
-feedforward control of the endeffector of a mobile manipulator to drive the endeffector along a reference trajectory
-optional review product of exponentials formula in the endeffector frame chapter optional review body jacobian chapter optional review motion control with velocity inputs chapter part of optional review mobile manipulation chapter
-
-completing the project and your submission
-feedforwardplusfeedback control of the endeffector of a mobile manipulator to stabilize a reference trajectory for the endeffector
 </DOC>
 
+<DOC>milestone reference trajectory generation
+generating a reference trajectory in se for the endeffector of a mobile manipulator to achieve a pickandplace task
+milestone reference trajectory generation optional review pointtopoint trajectories chapters and part of optional review pointtopoint trajectories chapters and part of
+</DOC>
+
+<DOC>milestone feedforward control
+feedforward control of the endeffector of a mobile manipulator to drive the endeffector along a reference trajectory
+optional review product of exponentials formula in the endeffector frame chapter optional review body jacobian chapter optional review motion control with velocity inputs chapter part of optional review mobile manipulation chapter
+</DOC>
+
+<DOC>completing the project and your submission
+feedforwardplusfeedback control of the endeffector of a mobile manipulator to stabilize a reference trajectory for the endeffector
+</DOC>
 <DOC>
 modern robotics robot dynamics
 do you want to know how robots are you interested in robotics as a are you willing to invest the effort to fundamental mathematical modeling techniques that are used in all subfields of robotics
 if so then the modern robotics mechanics planning and control may be for you this consisting of six short courses is serious preparation for serious students who hope to in the field of robotics or to undertake advanced study it is not a sampler in of the robot dynamics efficient numerical algorithms for forward dynamics calculating the robots acceleration given its configuration velocity and joint forces and torques and inverse dynamics calculating the required joint forces and torques given the robots configuration velocity and acceleration the former is useful for simulation and the latter is useful for robot control also how to plan robot trajectories subject to dynamic constraints this follows the textbook modern robotics mechanics planning and control lynch and park cambridge university press you can purchase the book or use the free preprint pdf build on a library of robotics software in the language of your choice among python mathematica and matlab and use the free crossplatform robot simulator vrep which allows you to with stateoftheart robots in the comfort of your own home and with zero financial investment
-
-chapter dynamics of open chains part of
+</DOC>
+<DOC>chapter dynamics of open chains part of
 lagrangian formulation of dynamics centripetal and coriolis forces robot mass matrix dynamics of a rigid body and newtoneuler inverse dynamics for an openchain robot
 lagrangian formulation of dynamics chapter through part of lagrangian formulation of dynamics chapter through part of understanding the mass matrix chapter dynamics of a single rigid body chapter part of dynamics of a single rigid body chapter part of newtoneuler inverse dynamics chapter
+</DOC>
 
-chapter dynamics of open chains part of
+<DOC>chapter dynamics of open chains part of
 forward dynamics of an open chain taskspace dynamics constrained dynamics and practical effects due to gearing and friction
 forward dynamics of open chains chapter dynamics in the task space chapter constrained dynamics chapter actuation gearing and friction chapter
+</DOC>
 
-chapter trajectory generation part of
+<DOC>chapter trajectory generation part of
 pointtopoint straightline trajectories and polynomial trajectories passing through via points
 pointtopoint trajectories chapter through part of pointtopoint trajectories chapter through part of polynomial via point trajectories chapter
+</DOC>
 
-chapter trajectory generation part of
+<DOC>chapter trajectory generation part of
 timeoptimal motions along a specified path subject to robot dynamics and actuator limits
 timeoptimal time scaling chapter part of timeoptimal time scaling chapter part of timeoptimal time scaling chapter part of
 </DOC>
-

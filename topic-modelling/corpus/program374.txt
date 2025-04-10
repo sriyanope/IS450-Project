@@ -7,112 +7,124 @@ this covers the basics of how web pages are created from writing syntactically c
 introduction to css
 the web today is almost unrecognizable from the early days of white pages with lists of blue links now sites are designed with complex layouts unique fonts and customized color schemes this will show you the basics of cascading style sheets css the emphasis will be on learning how to write css rules how to test code and how to establish good programming habits
 when done correctly the styling of a webpage can enhance your page when done incorrectly the result can be worse than no styling at all to ensure that your sites do not put up barriers for people with cognitive andor physical disabilities how to evaluate pages using the standardized pour accessibility guidelines upon completion of the learners will be able to sketch a design for a given html page using that design they will use css to implement the design by adding fonts colors and layouts here is a sample final css page httpswdewebsitecsswdecssreplco this is the second in the web design for everybody subsequent courses focus on adding interaction with javascript and enhancing the styling with responsive design it will be difficult to complete this if you do not have access to a laptop or desktop computer for the homework
-
-one getting started with simple styling
+</DOC>
+<DOC>one getting started with simple styling
 welcome to introduction to css how to style your pages by taking advantage of the power of css focus on both proper syntax how to write your styling rules and the importance of accessibility design making sure that your style enhances your site not make it harder to navigate it is so important that you jump in ready to make mistakes and typos the only way really understand the material is to practice typing it in on your own as often as possible
 introduction to css cascading style sheets reviewing the cascading of css colors styling your text code together applying style display and visibility part display and visibility part code together the display property homework one
-
-two advanced selectors display and designing for accessibility
-colors and fonts are just the start to styling your page the nice thing about starting with these properties is that they are usually very straightforward to implement you pick a color and boom instant expected results more about something called the display property if you took the html with us you know that some elements like images can be displayed sidebyside on the screen while others like paragraphs are placed underneath each other i really like showing people the grid and flex properties to give you a little more power about where things can go on the screen after learning how to style links and lists talk about more advanced selectors have you ever noticed on a web page that some links are blue and others are purple depending upon if you have clicked on the links how is it possible to style some anchor tags and not others
-display grid display flex styling links and lists advanced selectors attribute selectors code together navigation browser capabilities code together background images and opacity designing for accessibility homework two
-
-three the box model and positioning
-has my favorite styling the box model learning how to add borders padding and margin can really make your page attractive we end with the subject of positioning how to get elements to stick to a certain part of your page think about annoying popup ads how do the programmers get them to stay right in the middle of the screen despite the fact that you keep trying to scroll them away
-box model code together box model positioning
-
-four pseudoclasses pseudoelements and a final project
-will be heavy on demos how to style pseudoclasses eg a link that has been visiting an element that has the mouse hovering over it and pseudoelements eg the firstletter of a heading the first line of a paragraph these elements are not difficult to style but do require careful coding the final step to completing this is the completion of the peergraded project have the chance to demonstrate the ability to follow styling guidelines while still putting your own personal touch on the project just remember you need to validate your for proper syntax and accessibility
-pseudo classes and elements code together styling images with pseudoclasses transitions transforms code together transitions accessible navigation final project closing
-
-five where to go from here
-if you would like to do more now that you have finished this i have a few recommendations the most important thing is that you continue to practice your and always have something that you are working on
 </DOC>
 
+<DOC>two advanced selectors display and designing for accessibility
+colors and fonts are just the start to styling your page the nice thing about starting with these properties is that they are usually very straightforward to implement you pick a color and boom instant expected results more about something called the display property if you took the html with us you know that some elements like images can be displayed sidebyside on the screen while others like paragraphs are placed underneath each other i really like showing people the grid and flex properties to give you a little more power about where things can go on the screen after learning how to style links and lists talk about more advanced selectors have you ever noticed on a web page that some links are blue and others are purple depending upon if you have clicked on the links how is it possible to style some anchor tags and not others
+display grid display flex styling links and lists advanced selectors attribute selectors code together navigation browser capabilities code together background images and opacity designing for accessibility homework two
+</DOC>
+
+<DOC>three the box model and positioning
+has my favorite styling the box model learning how to add borders padding and margin can really make your page attractive we end with the subject of positioning how to get elements to stick to a certain part of your page think about annoying popup ads how do the programmers get them to stay right in the middle of the screen despite the fact that you keep trying to scroll them away
+box model code together box model positioning
+</DOC>
+
+<DOC>four pseudoclasses pseudoelements and a final project
+will be heavy on demos how to style pseudoclasses eg a link that has been visiting an element that has the mouse hovering over it and pseudoelements eg the firstletter of a heading the first line of a paragraph these elements are not difficult to style but do require careful coding the final step to completing this is the completion of the peergraded project have the chance to demonstrate the ability to follow styling guidelines while still putting your own personal touch on the project just remember you need to validate your for proper syntax and accessibility
+pseudo classes and elements code together styling images with pseudoclasses transitions transforms code together transitions accessible navigation final project closing
+</DOC>
+
+<DOC>five where to go from here
+if you would like to do more now that you have finished this i have a few recommendations the most important thing is that you continue to practice your and always have something that you are working on
+</DOC>
 <DOC>
 advanced styling with responsive design
 it used to be the case that everyone viewed web pages on about the same size screen a desktop computer but now it is just as likely that someone will be using a smart phone tablet or assistive technology to access the internet therefore people viewing your site will now expect that it will perform regardless of the device smartphone tablet laptop desktop computer or screen reader and take into account some common personal settings such as color schemes this ability to respond to any platform and user preferences is called responsive design
 this will expand upon the basic knowledge of css to include topics such as wireframes fluid design media queries and the use of existing styling paradigms after the learners will be able to explain the mobilefirst paradigm and the importance of wireframes in the design phase create sites that behave across a range of platforms recognize existing design frameworks such as bootstrap a basic understanding of html and css is expected when you enroll class so it can be taken third or fourth in the web design for everybody additional courses focus on adding interactivity with the javascript programming language and completing a capstone project
-
-one style with responsive design
+</DOC>
+<DOC>one style with responsive design
 what does it mean to have responsive design for your site how can you tell if your existing site is responsive begin with the theories behind the mobilefirst paradigm the idea that your mobile site should provide everything needed not a pareddown version of a good page we end the by taking the first concrete step of using fluid measurements in your css
 introduction to responsive design what is responsive design testing sites benefits of responsive design fluid measurements code with me fluid measurements
+</DOC>
 
-two basic concepts
+<DOC>two basic concepts
 get a chance to put the theories into practice using media queries in your css these queries can automatically change the look and functionality of your site based on the size of the browser being used to view the page this allows you to decide what type of look you want to achieve at various screen sizes also called viewports
 media queries code with me fluid measurements and media queries wire frames breakpoints media queries part two code with me responsive navigation homework review basic media queries
+</DOC>
 
-three media queries for layout and accessibility
+<DOC>three media queries for layout and accessibility
 knowing what your want your site to look like is the first step but actually writing the code is another we look at the grid and flex display properties to suggest ways to organize the layout of your page we also talk about media queries that you should be including to increase the accessibility of your page these queries can react to user preferences about color schemes animation and more
 preview of code with me using media queries with grid code with me using media queries with flex media queries for accessibility accessibility testing
+</DOC>
 
-four frameworks
+<DOC>four frameworks
 after every good programmer has put in time creating sites from scratch it is common to utilize existing tools out there after all why recreate the wheel the you have done up to this point will give you the knowledge needed to craft your own unique sites from these frameworks with bootstrap a framework that uses html css and javascript but dont worry if you have never used javascript yourself
 using frameworks introduction to bootstrap bootstrap grid system code with me bootstrap grid example code with me bootstrap navigation example optional interview with m w optional interview with h w optional interview with h n homework review final project conclusion
 </DOC>
-
 <DOC>
 introduction to html
 thanks to a growing number of software programs it seems as if anyone can make a webpage but what if you actually want to understand how the page was created there are great textbooks and online resources for learning web design but most of those resources require some background knowledge this is designed to help the novice who wants to gain confidence and knowledge
 explore the theory what actually happens when you click on a link on a webpage the practical what do i need to know to make my own page and the overlooked i have the code but how do i put it on the web to share with others throughout the there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities this will appeal to a wide variety of people but specifically those who would like a stepbystep of the basics there are no prerequisites for this and it is assumed that students have no prior programming or it the will culminate in a small final project that will require the completion of a very simple page with links and images the focus of this is on the basics not appearance you can see a sample final html page at httpsexamplesitewdehtmlreplco this is the first in the web design for everybody subsequent courses focus on the marketable of styling the page with css adding interactivity with javascript and enhancing the styling with responsive design
-
-one learning about the web
+</DOC>
+<DOC>one learning about the web
 uncover the mystery behind the internet what happens when you type a url into your browser so that a webpage magically appears what is html and what happened to html also cover some practical concepts that you need to master before you begin coding your own pages
 introduction to html the evolution of html how it works the magic of page requests looking at your browser options editors how to use an editor to create an html file editors how to use vs code editors how to use replit
+</DOC>
 
-two structure of a web page
+<DOC>two structure of a web page
 need to take a deep breath and jump into coding i will cover a large number of html tags but it is important that you do more than just listen to these and read the text book material you need to practice and fail in order to believe it or not once you master the basic idea of using tags and attributes know everything you need to use any html tag the page may not look the way you want it to look yet but be able to use text links images tables and even music and if you want to refer to a textbook for reinforcement of concepts be using the shay howe online textbook as a reference i will include links after the lectures but some students prefer to read before the my preferred approach is to readwatchread again
 the document object model dom html tags and syntax semantic tags template page in visual studio code template page in replit images accessible images hyperlinks useful tags
+</DOC>
 
-three hosting and accessibility
+<DOC>three hosting and accessibility
 okay you created a filewhat now begin by covering the important but often overlooked concepts of validation and accessibility did you follow the dom structure when you created your page did you use semantic tags to make sure that page viewers can access all of the information even if they have physical or cognitive disabilities this is knowledge you can use if you would like to pursue a as a web accessibility specialist finally i will briefly cover the steps needed to post your site to the web if you decide to use something other than replit there are many free and paid services that you can use to get your off your computer and on to the internet
 accessible web validating your site hosting your site creating a github pages account optional uploading to github pages account optional sharing your page from replit final project demo closing
 </DOC>
-
 <DOC>
 interactivity with javascript
 if you want to take your website to the next level the ability to incorporate interactivity is a must but adding some of these types of capabilities requires a stronger programming language than html or css and javascript can provide just what you need with just a basic understanding of the language you can create a page that will react to common events such as page loads mouse clicks movements and even keyboard input
 this will introduce you to the basics of the javascript language cover concepts such as variables looping functions and even a little bit about debugging tools understand how the document object model dom is used by javascript to identify and modify specific parts of your page after the learners will be able to react to dom events and dynamically alter the contents and style of their page the class will culminate in a final project the creation of an interactive html form that accepts and verifies input this can be completed as the third or fourth in the web design for everybody
-
-one data types
+</DOC>
+<DOC>one data types
 if you havent use a traditional programming language before this first is key before we begin with the how talk about the why mainly why we want to use javascript the main reason is that it is very easy for javascript to with the dom and easy is always a great way to start speaking of starting out it is also always more fun when our code actually does something we can see so jump quickly into different ways we can generate output it wont be flashy yet but it will be a great way to get your feet wet with traditional programming after that we go back to the basics of how a computer uses data we begin with variables expressions and operators
 introduction to javascript dom review with object oriented programming newer dom methods output variables data types operators and expressions
+</DOC>
 
-two reacting to your audience
+<DOC>two reacting to your audience
 if you have written html code in the past hopefully you have fallen into the great habit of validating your code making sure that you close all of your open tags there are other rules that you may or may not have been following as for instance the importance of using each id attribute only once per page this is called writing clean code the reasoning and importance of following these rules becomes clear as we begin to manipulate the different components of your webpage based on the the actions of the person interacting with your page in particular about the javascript mouse events and touch events this weeks materials will end with a photo gallery example that you can create along with me
 functions code placement folder structure organizing your code events code with me events this homework javascript interactive photo gallery
+</DOC>
 
-three arrays and looping
+<DOC>three arrays and looping
 delve into more complex programming concepts arrays and looping arrays allow you to represent groups of related information looping provides efficiency and flexibility to your programs using both expand upon the photo gallery example
 javascript arrays code with me arrays
+</DOC>
 
-four using js for interactive images
+<DOC>four using js for interactive images
 is all about putting concepts together to do cool things and we even stop for a second to talk about the the tradeoff between cool things and accessibility the final project will be a new version of your coding project in make an interactive photo gallery from your own images and will add the functionality of keyboard accessibility to it
 code with me randomizing your images using arrays code with me using lightbox code with me looping through images final project conclusion
 </DOC>
-
 <DOC>
 web design for everybody capstone
 the capstone will develop a higherquality web portfolio students will demonstrate the ability to design and implement a responsive site for a minimum of three platforms adherence to validation and accessibility standards will be required the evolving student implementations will be reviewed each by capstone peers and teaching assistants to make sure that the student keeps up with the agenda of the
 upon completion of this students will feel comfortable creating andor updating existing frontend sites utilizing existing frameworks and testing sites for accessibility compliance this is only open to students who have completed the first four courses in the web design for everybody introduction to html introduction to css interactivity with javascript and advanced styling with responsive design
-
-one introduction
+</DOC>
+<DOC>one introduction
 welcome to the web design for everyone capstone it really is my intention to make sure that everyone who completes this capstone will have a product they are proud of the challenge is that everyone is actually a very diverse group of people each person coming in with different sets and interests so pick from one of three portfolio options to complete the goal of this approach is to help students selfselect into appropriate peer groups
 welcome portfolio options
-
-two design phase
-students will submit wireframes for a multipart online portfolio the topic of your site is your choice but be expected to fulfill a small checklist of requirements with respect to the amount of proposed content and the variety of html tags emphasis will be on ability to demonstrate mobilefirst paradigm design
-
-three review and preparation phase
-continue to review your fellow students designs feedback will be based on layout proposed content and accessibility the goal is that these peer reviews will inspire you to attempt something more on your site or provide the feedback that lets you know you may want to scale down your own expectations begin to create the content of your site as you wait for the reviews of your project to be created
-using the w validator using the wave tool utilizing developer tools sticky footers embedding a google calendar using bootstrap to add a carousel adding a lightbox plugin font awesome
-
-four coding phase
-using the feedback you received from other capstone participants begin to style your portfolio at the end of five have the to submit your intermediate for review
-
-five validation and review phase
-validate and test your site write a of the results and explain if necessary why you needed to violate any coding conventions
-
-six revise and submit phase
-conclude with a period of peerreview and modifications to your site by the end of have a unique responsive accessible portfolio congratulations
 </DOC>
 
+<DOC>two design phase
+students will submit wireframes for a multipart online portfolio the topic of your site is your choice but be expected to fulfill a small checklist of requirements with respect to the amount of proposed content and the variety of html tags emphasis will be on ability to demonstrate mobilefirst paradigm design
+</DOC>
+
+<DOC>three review and preparation phase
+continue to review your fellow students designs feedback will be based on layout proposed content and accessibility the goal is that these peer reviews will inspire you to attempt something more on your site or provide the feedback that lets you know you may want to scale down your own expectations begin to create the content of your site as you wait for the reviews of your project to be created
+using the w validator using the wave tool utilizing developer tools sticky footers embedding a google calendar using bootstrap to add a carousel adding a lightbox plugin font awesome
+</DOC>
+
+<DOC>four coding phase
+using the feedback you received from other capstone participants begin to style your portfolio at the end of five have the to submit your intermediate for review
+</DOC>
+
+<DOC>five validation and review phase
+validate and test your site write a of the results and explain if necessary why you needed to violate any coding conventions
+</DOC>
+
+<DOC>six revise and submit phase
+conclude with a period of peerreview and modifications to your site by the end of have a unique responsive accessible portfolio congratulations
+</DOC>

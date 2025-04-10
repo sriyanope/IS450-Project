@@ -22,91 +22,105 @@ these hands on components will let you apply the you in the lectures projects wi
 <DOC>
 developing applications with google cloud foundations
 you the fundamentals of application development on google cloud you best practices for cloud applications and how to select compute and data options to match your application use cases youre introduced to generative ai and how its used to help build applications you about authentication and authorization application deployment continuous integration and delivery and monitoring and performance tuning for your applications running in google cloud using lectures and handson labs you how to get started building and running applications on google cloud
-
-introduction
+</DOC>
+<DOC>introduction
 welcome to developing applications with google cloud foundations this introduces you to best practices for cloud applications and how to select compute and data options to match application use cases you about google services for continuous integration and delivery how to deploy your applications and how to monitor your applications as they run in google cloud you also how google cloud helps you build authentication authorization security and artificial intelligence into your applications through a combination of lectures handson labs and supplemental materials the fundamentals of application development in google cloud
+</DOC>
 
-best practices for cloud application development
+<DOC>best practices for cloud application development
 this introduces best practices for developing applications that run in the cloud
 best practices for cloud application development best practices for cloud application development
+</DOC>
 
-getting started with google cloud development
+<DOC>getting started with google cloud development
 this introduces the different google cloud tools that use to develop your applications
 cloud apis and the google cloud sdk the google cloud cli cloud client libraries cloud shell and cloud code
+</DOC>
 
-data storage options
+<DOC>data storage options
 this compares the data storage and database services provided by google cloud
 cloud storage and databases bigquery memorystore and product comparisons lab coursera getting started with google cloud platform and qwiklabs
+</DOC>
 
-handling authentication and authorization
+<DOC>handling authentication and authorization
 this explains how authentication and authorization are added to your cloud applications
 authorization with cloud iam authenticating to google apis and service accounts choosing an authentication method other authenticationauthorization methods using secret manager
+</DOC>
 
-adding intelligence to your application
+<DOC>adding intelligence to your application
 this discusses how pretrained machine learning apis and generative ai can improve your cloud applications
 using pretrained machine learning models intro to generative ai lab
+</DOC>
 
-deploying applications
+<DOC>deploying applications
 this discusses how to build and deploy applications on google cloud
 continuous integration and delivery containers and building application images
+</DOC>
 
-compute options for your application
+<DOC>compute options for your application
 this discusses the compute options available for running your applications in google cloud
 compute engine google kubernetes engine cloud run cloud run functions comparisons
+</DOC>
 
-monitoring and performance tuning
+<DOC>monitoring and performance tuning
 this discusses the application use cases of the services in google cloud observability
 google cloud observability logging and metrics error reporting managing performance lab
 </DOC>
-
 <DOC>
 service orchestration and choreography on google cloud
 this introduces you to eventbased applications and teaches you how to use service orchestration and choreography to coordinate microservices using lectures and handson labs you how to use workflows eventarc cloud tasks and cloud scheduler to build microservices applications on google cloud
-
-introduction
+</DOC>
+<DOC>introduction
 welcome to service orchestration and choreography on google cloud this introduces you to microservices eventdriven applications and the use of service choreography and orchestration on google cloud through a combination of lectures handson labs and supplemental materials about google clouds services that enable application integration and service communication workflows eventarc cloud tasks and cloud scheduler
+</DOC>
 
-introduction to microservices
+<DOC>introduction to microservices
 this introduces you to microservices and discusses the benefits and challenges of using a microservices architecture for your applications
 what are microservices benefits of microservices architectures challenges of microservices architectures
+</DOC>
 
-eventdriven applications
+<DOC>eventdriven applications
 this introduces events and eventdriven applications and discusses the benefits of choosing an eventdriven architecture for your microservices applications
 eventdriven architecture benefits of eventdriven applications
+</DOC>
 
-choreography and orchestration
+<DOC>choreography and orchestration
 this introduces two effective patterns for interservice communication choreography and orchestration eventarc uses the choreography pattern which allows independent services to perform tasks when events are received workflows uses orchestration and acts as a central orchestrator of the interactions between the services you how workflows eventarc cloud tasks and cloud scheduler can be used to build powerful microservices applications on google cloud
 coordinating microservices choreography in google cloud orchestration in google cloud should i use choreography or orchestration cloud tasks cloud scheduler getting started with google cloud and qwiklabs lab intro building eventdriven orchestration on google cloud
 </DOC>
-
 <DOC>
 developing applications with cloud run functions on google cloud
 you about cloud run functions googles serverless fullymanaged functions as a service faas product that lets you implement singlepurpose function code that reponds to http requests and events from your cloud infrastructure
-
-introduction
+</DOC>
+<DOC>introduction
 introduction to the content
-
-introduction to cloud run functions
-an introduction to cloud run functions what they are and their benefits and use cases
-an introduction to cloud run functions deploying cloud run functions getting started with google cloud platform and qwiklabs lab intro develop and deploy cloud run functions review
-
-calling and connecting cloud run functions
-how to trigger and call cloud run functions and how to connect them in workflows and to cloud resources in your network
-triggering functions connecting cloud run functions with workflows lab intro connect cloud run functions review
-
-securing cloud run functions
-secure access to cloud run functions about function identity and how to protect data used by functions
-accessing and authenticating to functions protecting functions and data review
-
-integrating with cloud databases
-how to integrate cloud run functions with cloud databases
-integrating functions with cloud databases lab intro integrate cloud run functions with firestore review
-
-best practices for functions
-how to use best practices with functions
-best practices for functions review
-
-review
-review of content
 </DOC>
 
+<DOC>introduction to cloud run functions
+an introduction to cloud run functions what they are and their benefits and use cases
+an introduction to cloud run functions deploying cloud run functions getting started with google cloud platform and qwiklabs lab intro develop and deploy cloud run functions review
+</DOC>
+
+<DOC>calling and connecting cloud run functions
+how to trigger and call cloud run functions and how to connect them in workflows and to cloud resources in your network
+triggering functions connecting cloud run functions with workflows lab intro connect cloud run functions review
+</DOC>
+
+<DOC>securing cloud run functions
+secure access to cloud run functions about function identity and how to protect data used by functions
+accessing and authenticating to functions protecting functions and data review
+</DOC>
+
+<DOC>integrating with cloud databases
+how to integrate cloud run functions with cloud databases
+integrating functions with cloud databases lab intro integrate cloud run functions with firestore review
+</DOC>
+
+<DOC>best practices for functions
+how to use best practices with functions
+best practices for functions review
+</DOC>
+
+<DOC>review
+review of content
+</DOC>

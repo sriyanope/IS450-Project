@@ -10,121 +10,136 @@ have the to apply what youve learned through case studies and usability analysis
 <DOC>
 anthropometry biomechanics and motor in user design
 examines the role of anthropometrics biomechanics and motor in human performance as as key factors that influence how humans produce and sense motion and how these can be applied to training and testing performance
-
-introduction
+</DOC>
+<DOC>introduction
 this explores anthropometry biomechanics and motor about measuring human body dimensions and characteristics known as anthropometrics and how these measurements are used in design the covers factors influencing motion production and perception including open and closedloop control and stimulusresponse compatibility also explore the applications of motiontracking technologies in training and testing human performance
+</DOC>
 
-anthropometry ergonomics
+<DOC>anthropometry ergonomics
 explores anthropometry and ergonomics covering the measurement of human body dimensions and the importance of anthropometric data in fields like product design and workspace layout the also focuses on ergonomics the science of designing products and environments to fit human capabilities and enhance safety and efficiency about the principles and goals of ergonomics as as ergonomic design considerations for creating usercentered products and workspaces
 what is anthropometry what is ergonomics ergonomic design
+</DOC>
 
-ergonomics research office design and exercise
+<DOC>ergonomics research office design and exercise
 in we dive into the realm of ergonomics research exploring various applications in different settings we begin with lesson focusing on office design and exercise aiming to create the perfect ergonomic workspace moving on to lesson we shift our attention to factories and industrial settings in lesson we turn our focus to the healthcare sector
 ergonomics research office design and exercise ergonomics research factories ergonomics research healthcare
+</DOC>
 
-intro to biomechanics
+<DOC>intro to biomechanics
 we explore the field of biomechanics which focuses on studying the mechanics and movement of the human body cover various aspects of biomechanics including its definition applications in different domains and methods for analyzing human movement by the end of this have a solid understanding of biomechanics principles and how they are used to study and analyze human motion
 what is biomechanics describing human movement measuring human movement
+</DOC>
 
-biomechanics applications
+<DOC>biomechanics applications
 focuses on the practical applications of biomechanics in various fields it explores how biomechanics can be utilized to optimize performance prevent injuries and enhance movement in sports rehabilitation ergonomics and other contexts
 how can we apply biomechanics correct technique vs individual optimization movement sonification
 </DOC>
-
 <DOC>
 human cognitive capacities limitations
 presents an of cognitive capacities and limitations distinguish between different types of attention compare and contrast different types of memory identify the most common strategies and heuristics humans use for decision making and problem solving
-
-introduction
+</DOC>
+<DOC>introduction
 building upon the knowledge gained from we now delve into the cognitive aspects of human factors in cognitive capacities limitations throughout this explore different types of attention memory decisionmaking strategies and problemsolving techniques by understanding the limitations in attentional capacity and decisionmaking strategies we can gain insights into how they contribute to human error this knowledge will empower us to design systems and interfaces that accommodate these cognitive limitations and optimize human performance
+</DOC>
 
-motor control
+<DOC>motor control
 discuss the field of motor control exploring how we control our movements and the various constraints that shape our actions through this uncover the characteristics of movement solutions and gain insights into the intricate processes involved in motor control
 how we control our movements constraints some characteristics of movement solutions
+</DOC>
 
-human memory and attention
+<DOC>human memory and attention
 we shift our focus to human memory and attention understanding how our memory works and how we allocate our attention is crucial for designing effective interfaces and optimizing human performance we explore the concept of attention the different types of attention and their role in information processing we also delve into the complexities of human memory including its various stages encoding processes and factors that influence memory retrieval lastly we examine the traditional model of acquisition shedding light on how individuals acquire and refine their over time
 what is attention and why do we need it human memory human memory fitts and posner traditional model of acquisition traditional model of acquisition
+</DOC>
 
-problemsolving and decisionmaking
+<DOC>problemsolving and decisionmaking
 in we explore the cognitive processes and factors that influence our decisionmaking abilities from understanding how decisions are made to exploring the role of heuristics and biases this provides valuable insights into the human mind and its approach to problemsolving additionally we discussed the concept of creativity and how it contributes to innovative problemsolving techniques
 how do we make decisions heuristics and biases creativity
+</DOC>
 
-motor learning and acquisition
+<DOC>motor learning and acquisition
 discuss motor learning and acquisition by the end of this have a comprehensive understanding of the traditional and ecological approaches to acquisition and the research findings that contribute to our knowledge of motor learning and development
 the ecological approach to acquisition research on the ecological approach
 </DOC>
-
 <DOC>
 how can we measure and study human error
 teaches you how to distinguish between different methods for studying human error also about humancentered design and usability and how to compare and contrast different methodologies for evaluating the usability of products technologies systems
-
-introduction
+</DOC>
+<DOC>introduction
 gain the to distinguish between various research methods understand their strengths and weaknesses and explore humancentered design principles by the end of be wellequipped to conduct comprehensive research and evaluation to optimize human interactions within complex systems
+</DOC>
 
-methods for studying human error part i
+<DOC>methods for studying human error part i
 explore the fundamental concepts and methods used in research and evaluation begin by examining various research methods for studying human performance and human error then delve into the process of hypothesis testing and the key elements of a research study or experiment additionally discuss the effects that need to be accounted for such as confounding variables placebo effect and framing by the end of this have a solid foundation in research methods and hypothesis testing enabling you to design and conduct effective studies in the field of human factors
 hypothesis testing designing experiments to test hypotheses what do the results from a study really tell us
+</DOC>
 
-methods for studying human error part ii
+<DOC>methods for studying human error part ii
 continue our exploration of different methods for studying human error building upon the foundational knowledge from delve deeper into advanced techniques and approaches used to analyze and understand human errors in various domains by examining case studies research papers and expert insights enhance your understanding of the complexities involved in studying human error and develop a comprehensive toolkit of research methods
 sensitivity vs bias what gets lost in the average case studies
+</DOC>
 
-intro to usability humancentered design
+<DOC>intro to usability humancentered design
 this provides an of usability and humancentered design it explores key components of usability such as learnability efficiency memorability errors and satisfaction the also covers the concept of affordances and their impact on user interactions additionally learners gain insights into humancentered design principles including empathy mapping and the iterative design process
 what is usability nielsens usability heuristics ux and usercentered design
+</DOC>
 
-methods for evaluating usability
+<DOC>methods for evaluating usability
 in we delve into the methods for evaluating usability focusing on usability research and methodology we explore how to assess the usability of products and technology in various domains and examine the findings from research conducted in these areas
 what is usability testing usability methods examples of usability research
 </DOC>
-
 <DOC>
 what is the human factor in design
 provides an of human factors systems and human errors it covers the key concepts and applications of human factors and introduces various methods for reducing human error
-
-and introduction
+</DOC>
+<DOC>and introduction
 explore the foundational concepts of human factors the significance of a systems approach and key human error types the provides the to strategies to reduce errors and optimize performance in various industries
 human factors usability engineering what is the human factor
+</DOC>
 
-what is the human factor
+<DOC>what is the human factor
 be introduced to the field of human factors and its importance in understanding and reducing human error about the basic concepts of human factors and how they are applied in various industries also about the different types of human error and the factors that contribute to them lastly explore the different methods for reducing human error and the importance of taking a systems approach by the end of this have a good understanding of what human factors is and how it can be used to improve safety and performance in various industries
 to err is human reducing errors by understanding human factors some success and failures in human factors
+</DOC>
 
-taking a human systems approach
+<DOC>taking a human systems approach
 we have learned why when and how humans fail and how this can lead to catastrophic events in explore how we can reduce the frequency of human errors and when they do occur reduce their impact on our safety and wellbeing welcome to the field of human factors where we use our understanding of what humans can and cant do to improve the design of all parts of the systems around us eg transportation medicine education etc
 where did the field of human factors come from reducing human errors by taking a systems approach why should we take a systems approach
+</DOC>
 
-types of human error
+<DOC>types of human error
 delve into the different types of human error exploring their underlying factors and the methods used to study them by understanding the various categories of human error we can better address their root causes and implement effective strategies to mitigate their impact on overall system performance through engaging examples and how to identify classify and compare different human error types and the methods used to study them
 examples of human error methods for studying human error types of human error
+</DOC>
 
-methods for reducing human error
+<DOC>methods for reducing human error
 while it may be impossible to eliminate human error completely there are effective ways to reduce its occurrence and impact explore various methods and strategies for minimizing human error in different contexts by understanding and applying human factors principles how to identify potential sources of error and implement targeted interventions to mitigate their effects through engaging examples and discover the tools and techniques necessary to improve system performance and safety by reducing human error
 methods for reducing human error challenges with trying to reduce human error examples of methods to reduce human error
 </DOC>
-
 <DOC>
 the limits of human perception
 explores the perceptual capacities and limitations of humans and computers it discusses various types of visual auditory and tactile displays and how they can be used to create effective interfaces
-
-introduction
+</DOC>
+<DOC>introduction
 in focus on perceptual capacities and limitations explore the basic functions of vision including static and dynamic visual acuity depth perception peripheral vision and stereoacuity additionally compare and contrast different types of visual displays to understand their impact on user the will also cover the fundamental functions of the human auditory and somatosensory systems providing insights into how we perceive sound and touch examine various types of auditory and tactile displays and their implications for designing effective interfaces
+</DOC>
 
-human vision
+<DOC>human vision
 understanding how human vision works is crucial in designing effective user interfaces and optimizing user also examine important aspects of vision such as acuity brightness color and glare furthermore study the role of eye movements in visual perception as as depth perception and motion processing
 the human visual system acuity brightness color and glare eye movements depth and motion
+</DOC>
 
-visual displays
+<DOC>visual displays
 of this explores the principles and considerations involved in designing effective visual displays it delves into the concepts of object perception visual design principles and the role of affordances in design
 object perception visual design principles affordances and design
+</DOC>
 
-the human auditory system
+<DOC>the human auditory system
 focuses on the topic of the human auditory system it explores the anatomy and functions of the auditory system the properties of sound waves and the perception of complex sounds additionally it delves into the sense of touch the receptors involved and the perception of different tactile qualities
 the human auditory system perception of complex sounds and sound localization the sense of touch
+</DOC>
 
-auditory and tactile displays
+<DOC>auditory and tactile displays
 of this explores the importance and applications of using modalities other than vision in interface design it delves into the benefits of auditory and tactile displays and how they can enhance user and safety
 why use modalities other than vision auditory warnings and displays tactile warnings and displays
 </DOC>
-

@@ -10,93 +10,99 @@ medcerts highly immersive courses use various unique elearning components design
 the heart blood and lungs
 on the heart blood and lungs about the wonderful diversity of the cardiovascular immune and respiratory systems and the medical language that is used to describe these systems throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussed
 this will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include cardiovascular system blood and immune system and respiratory system
-
-
+</DOC>
+<DOC>
 reading plugins
 introduction and objectives anatomy of the heart anatomy of blood vessels physiology of the heart cardiac conduction system the cardiac cycle pathology of the heart heart valve damage and defects heart failure and inflammation irregular heart rhythms pathology of blood vessels circulation pathology diagnostic and therapeutic procedures
+</DOC>
 
-
+<DOC>
 reading plugins
 introduction and objectives anatomy and physiology of blood blood formation blood cells hemostasis and blood groups anatomy of the immunelymphatic system physiology of the immune system antibodies pathology of blood and immune systems part one pathology of blood and immune systems part two disorders of the lymphaticimmune system
+</DOC>
 
-
+<DOC>
 reading plugins
 introduction and objectives the upper respiratory tract the lower respiratory tract and respiration respiratory pathology part one respiratory pathology part two other respiratory diseases diagnostic and therapeutic procedures
 </DOC>
-
 <DOC>
 medical terminology anatomy and physiology fundamentals
 introduction to medical terminology and the human body about the medical language that is used to describe the human body throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussed
 this will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include introduction to medical terminology introduction to anatomy physiology and pathology cells the foundation of life and the human body
-
-
+</DOC>
+<DOC>
 reading plugins
 introduction objectives and vocabulary analyzing and building medical terms prefixes suffixes additional word forms
+</DOC>
 
-
+<DOC>
 reading plugins
 introduction objectives and vocabulary introduction to anatomy and physiology introduction to pathology and diseases diagnostics treatment and therapy
+</DOC>
 
-
+<DOC>
 reading plugins
 introduction objectives and vocabulary cells and tissues pathology of cells cancer
+</DOC>
 
-
+<DOC>
 reading plugins
 introduction and objectives organs and organ systems homeostasis and survival surface anatomy regions quadrants and cavities pathology related to nutrition respiratory and cardiovascular pathology pathology related to hydration and body temperature
 </DOC>
-
 <DOC>
 the skin bones and muscles
 on the skin bones and muscles about the wonderful diversity of the integumentary skeletal and muscular systems and the medical language that is used to describe these systems throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussed
 this will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include integumentary system skeletal system and muscular system
-
-
+</DOC>
+<DOC>
 reading plugins
 introduction and objectives anatomy and physiology of the skin common pathology burns skin cancer
+</DOC>
 
-
+<DOC>
 reading plugins
 introduction and objectives anatomy and physiology of bones axial skeleton appendicular skeleton pathology of joints pathology of bones
+</DOC>
 
-
+<DOC>
 reading plugins
 introduction and objectives anatomy and physiology of muscles metabolism of muscles muscles and movement major skeletal muscles
 </DOC>
-
 <DOC>
 digestion micturition and reproduction
 on digestion micturition and reproduction about the wonderful diversity of the digestive urinary and reproductive systems and the medical language that is used to describe these systems throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussed
 this will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include digestive system urinary system and reproductive system
-
-
+</DOC>
+<DOC>
 reading plugins
 introduction and objectives basic nutrition digestive functions metabolic pathology gi tract pathology liver disease other disorders of the gi tract
+</DOC>
 
-
+<DOC>
 reading plugins
 introduction and objectives anatomy and physiology of the urinary system urinary path and production urinary system pathology urinary conditions diagnostic and therapeutic procedures
+</DOC>
 
-
+<DOC>
 reading plugins
 introduction and objectives anatomy and physiology of reproduction the male reproductive system anatomy and physiology of the female reproductive system female reproduction pregnancy part one pregnancy part two pathology of the reproductive system menstrual disorders inflammatory disorders benign and malignant growths disorders of pregnancy sexual transmission of disease
 </DOC>
-
 <DOC>
 the human bodys communication systems
 on the human bodys communication systems about the wonderful diversity of the nervous and endocrine systems and the medical language that is used to describe these systems throughout each lesson the roots of terms are explained to help students understand how medical terminology works in healthcare and to increase their knowledge and understanding of the material discussed
 this will provide you with a better understanding and working knowledge of medicine that is required for understanding of medical records used for multiple purposes and job duties in the medical field lessons include nervous system special senses and endocrine system
-
-
+</DOC>
+<DOC>
 reading plugins
 introduction and objectives anatomy and physiology of nerves central nervous system memories and sleep peripheral nervous system pathology of nerves levels of consciousness and disorders diagnostic and therapeutic procedures
+</DOC>
 
-
+<DOC>
 reading plugins
 introduction and objectives anatomy and physiology of special senses the eye eye anatomy and sight pathology of the eye and vision disorders of the eye sense of smell and taste anatomy of the ear hearing and balance pathology of smell taste hearing and balance
+</DOC>
 
-
+<DOC>
 reading plugins
 introduction and objectives anatomy and physiology of glands major glands part one major glands part two pathology of the glands part one pathology of the glands part two diagnostic and therapeutic procedures
 </DOC>
-

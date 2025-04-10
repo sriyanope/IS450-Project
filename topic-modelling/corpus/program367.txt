@@ -11,101 +11,113 @@ participate in several short exercisesboth visual and nonvisualto apply acquired
 visual elements of user interface design
 this designcentric examines the broad question of what an interface is and what role a designer plays in creating a user interface learning how to design and articulate meaning using color type and imagery is essential to making interfaces function clearly and seamlessly through a series of lectures and visual exercises focus on the many individual elements and components that make up the skillset of an interface designer by the end of this be able to describe the key formal elements of clear consistent and intuitive ui design and apply your learned to the design of a static screenbased interface
 this is the first in the uiux design which brings a designcentric approach to user interface ui and user ux design and offers practical skillbased instruction centered around a visual communications perspective rather than on one focused on marketing or programming alone these courses are ideal for anyone with some in graphic or visual design and who would like to build their set in ui or ux for app and web design it would also be ideal for anyone with in front or backend web development or humancomputer interaction and want to sharpen their visual design and analysis for ui or ux
-
-and
+</DOC>
+<DOC>and
 welcome first i will summarize the and expectations of this as as the uiux design
 welcome to the uiux design introduction introducing an additional instructor why peer review peer review tips how to apply feedback
+</DOC>
 
-what is a user interface anyway
+<DOC>what is a user interface anyway
 first look at some basic broad concepts and contexts for user interfaces looking at examples both on and offscreen look at basic principles of interaction theory discuss the relationship between ui and ux and examine the relationship between coding and designing discuss the roles of functionality and aesthetics in interface design and outline a formfirst philosophy to user interface design will focus on background information and terminology and will give you the context and vocabulary necessary before you start making great interfaces
 introduction to what is a user interface the relationship between ui and ux roles in uiux a brief historical of interface design interface conventions theory interface conventions application template vs content aesthetics functionality
+</DOC>
 
-formal elements of interface design
+<DOC>formal elements of interface design
 we are going to examine the various formal elements that make up an interface start out with the larger questions of content context and audience that frame any uiux project in other words what is it who is it for and where does it live and look at the big picture of overall design direction what is often referred to as look and feel from there go into detail of how the basic components of how visual design works in the context of interface design language shape color imagery typography and icons these areas will be the formal building blocks use to create the more complex visual structure of a screenbased user interface
 introduction to design before design look and feel language as a design tool color and shape imagery typography icons
+</DOC>
 
-active elements of interface design
+<DOC>active elements of interface design
 we are going to take our static interface elements and begin to think about how a user interacts with them in other words how to bring these elements a stage closer to having a life on the screen be looking at navigational conventions such as menus buttons and icons in different states our focus will move from what the graphic interface looks like to include how it works and how it responds to the user by adding interactivity to our static designs the idea is to think more deeply about the role the designer plays in shaping a users interactive
 introduction to static to active functionality speed and style composition and structure buttons not buttons states and changes
+</DOC>
 
-composing the elements of interface design
+<DOC>composing the elements of interface design
 we are going to take our individual interface components and see what happens when we try to put them together into a more complex structure be looking at how to get our components to harmoniously as a family figuring out how hierarchy works in the interface and discussing conventions and expectations of contemporary interface design also be examining how to navigate to different screens and how to build visual relationships between different kinds of content within a single site finally be discussing different platforms how to create variable content for different screen sizes and looking at how to organize complex bodies of content into userfriendly structures
 introduction to invisible complexity making a whole from many parts hierarchy of content conventions and expectations structure and grids platforms and screen sizes putting it all together slice n dice design critique review of example submissions
 </DOC>
-
 <DOC>
 ux design fundamentals
 this handson examines how content is organized and structured to create an for a user and what role the designer plays in creating and shaping user be led through a condensed process that acts as a roadmap for developing robust uiux design from ideation and sitemapping to the creation of paper and digital prototypes building on the design learned in visual elements of user interface design apply this methodology to produce a digital prototype for a multiscreen app of your own invention
 by the end of this be able to describe and apply current best practices and conventions in ux design and employ the fundamental principles of how ux design functions to shape an audiences of a given body of content this is the second in the uiux design which brings a designcentric approach to user interface ui and user ux design and offers practical skillbased instruction centered around a visual communications perspective rather than on one focused on marketing or programming alone these courses are ideal for anyone with some in graphic or visual design and who would like to build their set in ui or ux for app and web design it would also be ideal for anyone with in front or backend web development or humancomputer interaction and want to sharpen their visual design and analysis for ui or ux
-
-
+</DOC>
+<DOC>
 welcome first i will summarize the and expectations of this
 introduction why peer review peer review tips how to apply feedback
+</DOC>
 
-ideation articulation and development
+<DOC>ideation articulation and development
 your at the end of is the first stage in a multistep process towards developing a clickable prototype coming up with a clearly articulated idea for an app with a specific goal in mind so focus on how to articulate and structure your ideas and goals how to use naming and language as a part of your apps identity also look at audience research and user centered design
 introduction to ideation articulation and development good ideas ideas and goals research and development audience and rationale goals and for the clientdesigner naming and mission
+</DOC>
 
-planning testing researching mapping
+<DOC>planning testing researching mapping
 were going to continue to develop plan and test your app idea start by sketching out more extensive content and mapping it into a structure to test what aspects of your app are working look at how to create a nonvisual paper prototype and our way towards a sitemap while youre developing the logic of your app also begin to develop the look and feel of it the visual development process
 introduction to mapping testing envisioning mapping content mapping interaction nonvisual paper prototyping nonvisual user testing sitemap look and feelvisual research
+</DOC>
 
-what goes where
+<DOC>what goes where
 at this stage in our process we are going to take our site map look and feel research and user testing to the next level in order to get a more accurate static prototype by building a wireframe of our interface figure out what goes where and on which pages utilizing our user testing information to figure out the hierarchy and structure of our app is about the logic and functionality of our interface and how its actually going to within the app
 introduction to getting real wireframes and interfaces nielsens usability heuristics what goes where part what goes where part consistency and details wireframe map visual direction developing ui refining ui
+</DOC>
 
-making it by faking it
+<DOC>making it by faking it
 final of the be taking your wireframes or app screens and make a simple functioning digital prototype to simulate the of interactivity be using simple prototyping software to put your static screens into a realistic context and simulating interaction in order to understand how your app feels in order to troubleshoot and fix problems this is the part of the where all your talents come together for me this is the most exciting part of uiux development when it all starts to become real and you have a believable prototype in your hands
 introduction to making it by faking it feeling real additional prototyping approaches linking up branching out making pathways publish your prototype design critique example prototype submissions
 </DOC>
-
 <DOC>
 web design strategy and information architecture
 this is focused on the early user ux challenges of research planning setting goals understanding the user structuring content and developing interactive sequences while the concepts covered will translate to many kinds of interactive media apps digital kiosks games our primary focus will be on designing contemporary responsive websites complete the first half of a large scale projectdeveloping a comprehensive plan for a complex websiteby defining the strategy and scope of the site as as developing its information architecture and overall structure along the way also discuss
 different job descriptions in the web design industry and where ux and ui fall within this spectrum the difference between native apps and websites the difference of agile vs waterfall approaches user personas and site personas user testing the and knowledge continues in the last in the uiux design web design wireframes to prototypes where tacklefinallywireframes visual mockups and clickable prototypes this is the third in the uiux design which brings a designcentric approach to user interface ui and user ux design and offers practical skillbased instruction centered around a visual communications perspective rather than on one focused on marketing or programming alone these courses are ideal for anyone with some in graphic or visual design and who would like to build their set in ui or ux for app and web design it would also be ideal for anyone with in front or backend web development or humancomputer interaction and want to sharpen their visual design and analysis for ui or ux
+</DOC>
+<DOC>
 
+</DOC>
 
-
-
-the user process
+<DOC>the user process
 i will give you a brief of the user process that i will teach sequence begin by defining the term user and then briefly look at the five phases of ux design strategy outline of scope sitemap wireframes and visual mockups i will also talk about the differences between mobile apps and websites and the differences between waterfall and agile approaches to ux design lastly i will introduce you to the main project that be working on and the one that follows it be starting your first at the end of the last heres something to keep in mind design is not just what it looks like and feels like design is how it workssteve jobs
 introduction to defining the term user usercentric design what could possibly go wrong the ux phases part the ux phases part waterfall vs agile web vs app project ideas alyson and bradley why peer review peer review tips how to apply feedback bonus material interview with chris manik
+</DOC>
 
-asking good questions determining strategy
+<DOC>asking good questions determining strategy
 is all about strategy talk about how to conduct research in the beginning of a project and i will tell you about the importance of defining a target audience for your website also discuss how to determine user needs and client needs the strategy that you develop first step in the ux process will influence all decisions you make further down the line thats why its so important to take the time and think about what you want to accomplish what the goals are and how they might be measured when the project launches
 introduction to user research inspiration analytics user needs and client needs target audience user personas strategy alyson and bradley interview with craig cooke determining success
+</DOC>
 
-what is in and what is out outlining scope
+<DOC>what is in and what is out outlining scope
 by now you should have a pretty clear idea what your projects will be about and who your target audience is talk about how to take the user and client needs that you have established and create a set of content and functionality requirements from them in other words youre transforming your overarching goals from last into specific requirements for your site
 introduction to introduction to outline of scope content and functionality outline of scope example scope alyson and bradley interview with melissa kuo
+</DOC>
 
-getting your ducks in a row the sitemap
+<DOC>getting your ducks in a row the sitemap
 welcome to the last of this with your outline of scope in hand now how to transform the content and functionality requirements determined last into a navigable structure this structure will be visualized by something called a sitemap ill tell you all about sitemaps and how to create them along the way also define the term information architecture and i will introduce a tool called treejack which will enable you to test your site map on actual users
 introduction to introduction to sitemaps information architecture sitemap concerns sitemapping an annotated process sitemap elements sitemap example treejack introduction treejack analysis sitemap alyson and bradley
 </DOC>
-
 <DOC>
 web design wireframes to prototypes
 this is focused on the application of the early ux research to actual user interfaces the creation of wireframes highfidelity mockups and clickable prototypes along the way also discuss
 responsive web design and mobile web challenges mobilefirst approach web typography the relationship between design and programming and whether it is important to know how to code the different web technologies that make the web such as html css javascript serverside coding and databases this is the continuation of the web design strategy and information architecture in which students completed the first half of a large scale projectdeveloping a comprehensive plan for a complex website if you are intending to complete the to earn a you must complete the strategy and information architecture first so you have the materials and data needed to begin creating wireframes and mockups this is the fourth and last in the uiux design which brings a designcentric approach to user interface ui and user ux design and offers practical skillbased instruction centered around a visual communications perspective rather than on one focused on marketing or programming alone these courses are ideal for anyone with some in graphic or visual design and who would like to build their set in ui or ux for app and web design it would also be ideal for anyone with in front or backend web development or humancomputer interaction and want to sharpen their visual design and analysis for ui or ux
+</DOC>
+<DOC>
 
+</DOC>
 
-
-
-not getting caught up in the details wireframes
+<DOC>not getting caught up in the details wireframes
 is all about wireframes after mapping out our strategy and scope in the previous web design strategy and information architecture this is the first time in the process that address the screen now things are going to get much more concrete as were starting to actually lay out elements for the user interface why working on wireframes firstbefore designing highfidelity mockupsis a helpful intermediate step ill also talk about responsive design navigation systems wayfinding common design patterns and strategies for homepage design and discuss which tools are most appropriate for creating wireframes because creating those will be your at the end of the
 introduction to introduction to wireframes responsive design what size should your website be navigation systems wayfinding common web design patterns common form elements examples of homepage content strategies wireframing tools wireframes bradley wireframes alyson part wireframes alyson part why peer review peer review tips how to apply feedback
+</DOC>
 
-finally make it beautiful the mockup phase
+<DOC>finally make it beautiful the mockup phase
 we finally reached the point that many of youespecially if you consider yourself a visual designerhave probably been waiting for now talk about designing the look and feel for your website meaning were ready to design visual mockups finally get to decide on colors typefaces and images maybe create a few illustrations and your site will need a logo too focus on designing the visual mockups of just the homepage to find some inspiration ill also have you create a mood board
 introduction to visual mockups design principles what is whitespace using whitespace to style a form a visual comparison web fonts web typography a few tips creating visual mockups visual mockups example moodboards and homepage mockup bradley homepage mockup alyson bonus material interview with rob hope on web design trends
+</DOC>
 
-an excursion to codelandia
+<DOC>an excursion to codelandia
 continue the visual design of your websites refining the look and feel based on peer feedback having worked on the homepage mockup last its time to design the remaining screens as an important aside i will take you on a short expedition to the land of code although this isnt about learning how to code i want to at least introduce you to the technologies that make the web and look at a few coding examples after all the web is built upon certain languageshtml css and javascript in order to be an effective ux designer it is helpful to have a rudimentary understanding of these technologies
 introduction to do i need to how to code survey of web technologies html vs css vs javascript a metaphorical adventure html basics css basics web inspector bonus material interview with rob hope part
+</DOC>
 
-putting it all together final presentation
+<DOC>putting it all together final presentation
 welcome to the final of this and the final of the entire uiux design i hope that you learned a lot of new concepts techniques and that will allow you to design some amazing interactive in the real world have time to revise any of your project components and then id like you to assemble them into a presentation that will represent the culmination of all of the ux phases we covered this should be a great project to include in your portfolio ill also show you how to take your static mockups and assemble them into clickable prototypes
 introduction to clickable prototype example part clickable prototype example part accessibility bonus material interview with margaret andersen full mockups bradley full mockups alyson
 </DOC>
-

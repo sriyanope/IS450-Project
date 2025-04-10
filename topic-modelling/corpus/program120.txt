@@ -17,91 +17,100 @@ in the effective communication capstone learners apply the lessons of business w
 by successfully undertaking the capstone learners will accomplish three main goals they will hone their writing design and speaking and build a portfolio for a job search andor application
 they will shape these into a unique brand identity
 and if they choose they will undertake a transformative effect in the world around them ultimately the importance of capstone portfolio is greater than the sum of its individual parts its true goal lies in each students personal transformation and expression of their best selves we invite you to unleash your and we cant wait to see the results this can be taken for academic credit as part of cu boulders master of science in data science msds degree offered on the coursera platform the msds is an interdisciplinary degree that brings together faculty from cu boulders departments of applied mathematics computer science information science and others with performancebased admissions and no application process the msds is ideal for individuals with a broad range of undergraduate education andor in computer science information science mathematics and statistics more about the msds at httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder
-
-capstone introduction
+</DOC>
+<DOC>capstone introduction
 quentin dave and william introduce learners to the capstone discuss options for the project and provide learners with an of the elements necessary for completion
 welcome to the capstone a message of thanks from quentin dave and william william delivers the effective communication pitch
+</DOC>
 
-writing the memo
+<DOC>writing the memo
 compose a highly polished draft of your memo review the key lessons from business writing so that you have a fresh reminder of the principles and techniques that drive all great writing then receive peer feedback and a grade in preparation to create the visual elements and speech that will comprise your final project
 composing the memo excavating quentins scaffold in the pitch memo optional review be the windowpane optional review waste no time optional review the principles of good writing revisited and explained the business writing conclusion
+</DOC>
 
-designing the slides
+<DOC>designing the slides
 design presentation slides which will illustrate key points from your memo review a few lectures from the graphic design and to make your slides functional and visually attractive the final slides will be used in your capstone presentation
 the inbetween guy designing the coursera pitch slides optional review unexpected places yield unexpected results optional review introducing the grid
+</DOC>
 
-creating the presentation
+<DOC>creating the presentation
 create a draft of your final presentation draw on the youve done writing your memo and designing your slides as in the previous you can review some of the and documents from the previous mooc successful presentation and youre here will lay the foundation for your final revision
 crafting the speech optional review the paradox of public speaking optional review the basic formula optional review the central importance of the introduction optional review dynamic vs static getting into your brand
+</DOC>
 
-the final push
+<DOC>the final push
 youve reached the final of effective communication and youre ready to produce your very best we ask you to pull together your memo slides and speech into a powerful expression of who you are
 the final synthesis its a wrap a conversation about our approach what we learned and what coursera means to us
 </DOC>
-
 <DOC>
 business writing
 writing is one of the most important you can develop to be successful in the business world over seventy companies and thirty thousand studentsfrom writers to new employees to nonnative english speakers to seasoned executiveshave used the techniques in business writing to power their ability to communicate and launch their ideas this will teach you how to apply the top ten principles of good business writing to your how to deploy simple tools to dramatically improve your writing and how to execute organization structure and revision to communicate more masterfully than ever from the very first lesson be able to apply your new learning immediately to your and improve your writing today your ideas are powerful how to deliver them with the clarity and impact they deserve
 thank you for giving me the knowledge i need in life business writing was helpful life changing and has made a huge impact in my writing message from a business writing student the principles enable you to become a great business writer they also provide the foundation for moving into graphic design and successful presentation so that you can unleash your best self wheneverand howeveryou present your ideas in the workplace this can be taken for academic credit as part of cu boulders master of science in data science msds degree offered on the coursera platform the msds is an interdisciplinary degree that brings together faculty from cu boulders departments of applied mathematics computer science information science and others with performancebased admissions and no application process the msds is ideal for individuals with a broad range of undergraduate education andor in computer science information science mathematics and statistics more about the msds at httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder
-
-building great business writing
+</DOC>
+<DOC>building great business writing
 the first lesson introduces the effective communication the capstone project and the business writing meet the writing instructor dr quentin mcandrew and her counterparts dave underwood and professor william kuskin who teach graphic design and successful presentation dave and william join quentin to offer insights into how writing design and presentation relate to a process of continuous personal branding that we call effective communication discover the simple principles that inform all great business writing and that serve as the foundation of this these lessons set the stage for the deeper exploration and specific techniques that follow not just in business writing but in graphic design and successful presentation as lets get started
 the effective communication whats so great about the capstone what is good writing be the windowpane waste no time dont sound smart be smart own your ideas everyone needs an editor or the story of my failure who are you appearance matters looking your best dave gives pointers type is the message success
+</DOC>
 
-the formula for writing success
+<DOC>the formula for writing success
 did you know that the most important element of good writing isnt good writing its good organization if you havent organized your documents for maximum effectiveness youve wasted an to present your ideasand yourselfwith power this teaches you the universal organizational formula that allows you to optimize your business writing understand how the principles you learned in one build to this formula and see how a scaffold gets created and applied to a real business document by the end of this be able to wield your organizational knowledge in service of your ideas and personal brand and have built the foundation that allows you to generate powerful sentences in three
 organize or die great writers are great revisers the organizational scaffold you need for everything quentin william and dave brainstorm the memo bonus the basics of greatness a blank page facing the void say it the body paragraphs building out the scaffold the conclusion concludes
+</DOC>
 
-crafting powerful writing
+<DOC>crafting powerful writing
 in the first lesson of three apply our writing principles and our scaffold to creating an actual memo see stepbystep how the scaffold guides the writing process to make it easier to create a forceful business document understand how to apply the scaffold to guide sentence and paragraph creation and have a chance to test and reinforce your new the second lesson covers common grammatical errors that sap many writers brands short explain each error why each hurts your clarity and how to correct your writingeven if you dont remember the grammar rule understand why these changes are important to your goal of effective communication and why its important to eliminate these common missteps from your own writing
 its go time the first paragraph roadmap signposting with topic sentences william on voicing writing how does it sound writing a paragraph revising a paragraph the conclusion concludes reprise does good grammar matter grammar blast i vs me grammar blast mangled modifiers grammar blast serial or oxford comma grammar blast pronoun problems grammar blast apostrophe abuse grammar blast your youre their theyre there grammar blast that vs which
+</DOC>
 
-activate your voice
+<DOC>activate your voice
 so youve started to write a document four takes you beyond the scaffold and good grammar to provide you with specific tips that will elevate your language infuse your writing with clarity and amp up your ability to communicate your ideas effectively every lesson is based on the principles you learned in one and they form a checklist of techniques that you can apply to any business document to insure your ideas shine on the page short on emails and longer documents give you simple techniques for applying the lessons of this to a broad range of your
 writing is revision check your scaffold keep it simple brevity is the soul of wit dave on how logo design reflects brevity and clarity always be specific avoid generalities and jargon the power of active voice limit crutch verbs cut prepositional phrases dont repeat words always proofread a word on email long documents in brief in conclusion time to design dave takes the memo
 </DOC>
-
 <DOC>
 successful presentation
 few kinds of communication can have the effect of a powerful presentation even a short speech can motivate people to change longheld beliefs or to take action and a wonderfully delivered speech can transform a normal person into a leader
 prof william kuskin provides a series of pragmatic and exercises for successful public speaking and presentations the develops through four themesmastering fear developing a creative formula using verbal and body language and anticipating the roomso that you can discover your personal power as a speaker and give excellent presentations successful presentations do not rely on perfect teeth a deep voice or an army of scriptwriters they depend largely on the same as successful business writing and graphic design clarity structure and revision the goal of the therefore is to enable you to discover your own internal power as a speaker and express it to the world after this with some practice be able to go into any situation and command the room for as long as you like this can be taken for academic credit as part of cu boulders master of science in data science msds degree offered on the coursera platform the msds is an interdisciplinary degree that brings together faculty from cu boulders departments of applied mathematics computer science information science and others with performancebased admissions and no application process the msds is ideal for individuals with a broad range of undergraduate education andor in computer science information science mathematics and statistics more about the msds at httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder
-
-getting started with public speaking
+</DOC>
+<DOC>getting started with public speaking
 william tackles the one element that makes public speaking difficult fear unlike writing a memo or designing a slide deck presenting a speech puts you directly in front of an audience public speaking is wrapped up in the fear of immediate judgment and of lasting rejection yet the of writing and design are exactly the same as those of public speaking clarity structure revision and above all storytelling by applying these you can control your fear and take center stage in public the results will astound you
 welcome to effective communication for new learners whats so great about the capstone for new learners welcome to successful presentation understanding fear the code rule survival reactions the paradox of public speaking weve all felt fear successful presentation is storytelling stories and storytellers performance
+</DOC>
 
-a formula for successful presentation
+<DOC>a formula for successful presentation
 like the second of business writing this zeroes in on a practical formula for successful presentations william establishes this structure and then breaks down it down into modular elements so the most complex presentations can be created easily revised effectively and delivered confidently still no onesizefitsall outline no rigid set of rules is capable of expressing your own personality and unlocking your own brilliance and so william goes beyond the basic formula to teach you the secret ingredient to public speaking creativity
 the basic formula the secret ingredient creativity what is creativity the central importance of the introduction the introduction the salutation the introduction the review of the structure the introduction the one compelling point kuskin receives his for coursera presentation intro the modular content unit pushing each unit thinking in circles building transitions how do you push yourself the conclusion the entire talk is a circle
+</DOC>
 
-practicing your self
+<DOC>practicing your self
 weve all sat through presentations that had solid content but just didnt seem to sometimes its hard to define why a speaker fails to deliver the key is practice practice is tricky however because poor practice techniques actually make a dull presentation even dullerfurther from the inspiring passionate you want to create for your audience in three william redefines the notion of practice as a dynamic process of verbal and physical language and then teaches you how focus your language to express your personal style of passion three teaches you to put passion in a bottle and release it when you want
 dynamic vs static getting into your brand you are your own harshest critic the reverse outline rehearsing the introduction passion in a bottle hearing your language marking your script recognizing your body using your body the importance of stance
+</DOC>
 
-engaging with the world
+<DOC>engaging with the world
 youve put away your fear youve used the formula to write a clear talk and youve tweaked it with the secret ingredient of creativity youve rehearsed and mastered your personal verbal and physical language still a conference room or a lecture hall is an unpredictable arena one that contains an uncontrollable amount of variables the layout of the space the mood of the audience the complexity of the questionsthese are the elements of a presentation for which you can never fully prepare how do you actually get ready to walk out on stage the last of successful presentation teaches you how to anticipate the field of the play so you are flexible agile and confident it lays out in simple terms how to deal with interruptions and hostility alike concluding the by looking ahead to how you develop your own identity not merely as a public speaker but as powerful individual
 anticipating the field of play a chaucerian interlude attending to your audience slides vs handouts what is a question being soft averys demo presentation frankenstein and science building a public portfolio from the private self the paradox of the public self effective communication
 </DOC>
-
 <DOC>
 graphic design
 welcome to graphic design the second in the effective communications over different companies have provided this to their employees as a resource for internal development why because employers know that effective visual communication is the key to attracting an audience building a relationship and closing the sale
 this practical gives you the tools to create looking powerpoints reports resumes and presentations using a set of best practices refined through years of make your look fresh and inspired apply simple design tricks to begin any project with confidence and professionalism receive and respond to criticism and revise your project from good to great this is fantastic it teaches a great amount of starter graphic design information but it is broken down into easily understood and quizzes the quality was top notch and the interaction was as good as you would get in a brick and mortar school i did not feel like i was missing anything by taking it online a recent graphic design student all of the can be completed with basic presentation software such as microsoft powerpoint google slides or apple keynote also have to explore and apply more sophisticated tools such as adobe photoshop illustrator and indesign this can be taken for academic credit as part of cu boulders master of science in data science msds degree offered on the coursera platform the msds is an interdisciplinary degree that brings together faculty from cu boulders departments of applied mathematics computer science information science and others with performancebased admissions and no application process the msds is ideal for individuals with a broad range of undergraduate education andor in computer science information science mathematics and statistics more about the msds at httpswwwcourseraorgdegreesmasterofsciencedatascienceboulder
-
-getting started
+</DOC>
+<DOC>getting started
 introduces you to the importance of recognizing good design as the starting place for creating attractive of your own look to the ubiquitous world of graphic design to establish a vocabulary of successful design and to find inspiration for our own projects also discuss prerequisites and review a basic digital design glossary that will help you navigate your chosen application
 optional introduction to the for new learners optional whats so great about the capstone for new learners from writing to design the handoff the importance of designing prerequisites glossary of design terms professionalism in design designing with a critical eye developing a design vocabulary the importance of inspiration unexpected places yield unexpected results
+</DOC>
 
-the blank canvas
+<DOC>the blank canvas
 will look at the blank canvas the untouched rectangle that will become our design project discuss the importance of working with a grid understanding negative space and using appropriate margins will also explore the palette of elements which when chosen and used wisely ensure that the finished design project is successful cover type color images and graphic elements such as borders bars and backgrounds
 the necessity of structure introducing the grid the grid and audience perception the power of negative space introducing the palette type is the message type anatomy type families type formatting creating with type color and its meaning color and the natural world image treatment creative cropping graphic elements
+</DOC>
 
-tricks of the trade
+<DOC>tricks of the trade
 its time to start designing discuss the process of composition use the palette items covered in and deploy common visual design tricks such as contrast repetition sublimation tension and more to help see both the effect and the universality of these design approaches look at design examples from art history film and current media also cover the strategy of composition see that providing an obvious target maintaining a natural visual flow and prioritizing information are all critical to clear visual communication
 design tricks designing with a closed set of elements the clarity guitars ad contrast white space repetition in writing design and presentation rhythm or repetition sublimation interlocking elements introduction to tension tension and movement targets and portals establishing priorities
+</DOC>
 
-revision and distance
+<DOC>revision and distance
 as weve said before designers dont in a vacuum our will be judged by others and as good designers to take that judgement constructively and in stride talk about what it means to be confident yet open to criticism explore the importance of revision as an ongoing component of design as as the need to enlist feedback and maintain distance in assessing our own
 your is not precious your ability is you are your own worst critic looking back at best practices moving forward public speaking
 </DOC>
-

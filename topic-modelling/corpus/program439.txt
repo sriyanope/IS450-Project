@@ -18,179 +18,196 @@ to round off your learning take a mock exam that has been set up in a similar st
 deploy and maintain power bi assets and capstone project
 this forms part of the microsoft power bi analyst this consists of a series of courses that offers a good starting point for a in data analysis using microsoft power bi
 how to deploy and maintain assets in power bi through handson exercises explore the process of creating implementing and managing power bi workspacesyoull also implement security and monitoring to protect data in organizations at the end of the complete a capstone project to showcase all your new power bi and data analytical after completing this be able to describe how sql is used in enterprise data analysis create and publish an app in power bi audit usage in reports and dashboard manage and refresh datasets implement dynamic reports in power bi implement security measures and alerting in a power bi report or dashboard establish row level security in a power bi model this is also a great way to prepare for the microsoft pl exam by passing the pl exam earn the microsoft power bi data analyst certification
-
-power bi in enterprise
+</DOC>
+<DOC>power bi in enterprise
 gain a larger view of power bi in enterprise scenarios and how deploying and maintaining assets plays an important role in datadriven businesses
 introduction how data flows through business datadriven enterprise the important role of a data analyst sql in enterprise connecting to a sql database what are dynamic reports creating a dynamic report creating a multivalue dynamic report whatif parameters vignette the world of data power bi in enterprise
+</DOC>
 
-deploying assets
+<DOC>deploying assets
 deploy power bi assets and explore deployment pipelines and their importance in data integrity
 what is a workspace creating a workspace assign workspace roles creating workspace apps monitoring workspace usage creating a usage report datasets in power bi service power bi gateways configure a dataset refresh endorsing datasets electric car manufacturing development lifecycles deployment pipeline impact analysis and lineage improving performance with caching troubleshoot service connectivity deploying assets
+</DOC>
 
-security and monitoring
+<DOC>security and monitoring
 audit secure and monitor power bi assets
 safely sharing information sharing via links data sensitivity labels leaking of sensitive data dataset permissions configuring dataset permissions sharing outside your organization what is rowlevel security configuring static rowlevel security dynamic rowlevel security with dax subscribing to reports and dashboards configuring data alerts how data alerts prevented trading losses security and monitoring
+</DOC>
 
-capstone project
+<DOC>capstone project
 be assessed on the key covered throughout the courses the contains the capstone project which encapsulates the learning into a practical whole
 recap and capstone introduction capstone checkin capstone project review congratulations
 </DOC>
-
 <DOC>
 data modeling in power bi
 this forms part of the microsoft power bi analyst this consists of a series of courses that offers a good starting point for a in data analysis using microsoft power bi
 how to use power bi to create and maintain relationships in a data model and form a model using multiple schemas explore the basics of dax power bis expression language and add calculations to your model to create elements and analysis in power bi discover how to configure the model to support power bi features for insightful visualizations analysis and optimization after completing this be able to create and maintain relationships in a data model form a model using a star schema write calculations dax to create elements and analysis in power bi create calculated columns and measures in a model perform useful time intelligence calculations in dax optimize performance in a power bi model this is also a great way to prepare for the microsoft pl exam by passing the pl exam earn the microsoft power bi data analyst certification
-
-concepts for data modeling
+</DOC>
+<DOC>concepts for data modeling
 this introduces data modeling and the schemas used to create them
 introduction introduction to data models introduction to schemas setting up a flat schema in power bi understanding fact and dimension tables introduction to cardinality introduction to crossfilter direction defining data granularity setting up a star schema in power bi setting up a snowflake schema why it is important to use snowflake schema resolving challenges in data models concepts for data modeling
+</DOC>
 
-using data analysis expressions dax in power bi
+<DOC>using data analysis expressions dax in power bi
 this introduces the learner to the dax data analysis expressions language the explores the syntax of dax using multiple business use cases the also integrates dax with previous lessons on database tables and their use and introduces the concept of time intelligence
 introduction to data analysis expressions dax formulas and functions in dax row context and filter context introduction to calculated tables creating calculated columns introduction to measures types of measures basic statistical functions dax measures and context in business creating quick measures creating custom measures with dax introduction to the crossfilter function using calculate with filters introduction to roleplaying dimensions introduction to the userelationship function configuring roleplaying dimensions the importance of time intelligence using dax for summarization over time using dax for comparison over time setting up a common date table using dax setting up a common date table with m and power query time intelligence in business using dax in power bi
+</DOC>
 
-optimize a model for performance in power bi
+<DOC>optimize a model for performance in power bi
 this explores the optimization process and examines the tools and methods to achieve this in power bi including using performance analyzer and directquery features this also dives deeper into dax and its use in the real world
 what is optimization and why is it necessary optimization by example identifying and reducing cardinality levels resolving performance issues in the data model behavior and limitations of directquery connections optimizing directquery performance with query reductions optimizing directquery performance with table storage what are aggregations and why use them creating an aggregation optimize a model for performance in power bi
+</DOC>
 
-final project and assessment modeling data in power bi
+<DOC>final project and assessment modeling data in power bi
 be assessed on the key covered in the this summarizes the and reflects on the primary learning objectives the also contains the project for the which encapsulates the learning into a practical whole
 recap modeling data in power bi congratulations
 </DOC>
-
 <DOC>
 creative designing in power bi
 this forms part of the microsoft power bi analyst this consists of a series of courses that offers a good starting point for a in data analysis using microsoft power bi
 how to creatively design dashboards reports and charts that are easier for the audience to use how to create cohesive business intelligence reports and dashboards as as what common problems to avoid the insights that gain will help you to tell compelling stories using specialist chart visualizations and visual elements such as streaming data and qr codes after completing this be able to create compelling and cohesive reports and dashboards recognize common problems in design in power bi reports and dashboards produce audience focused reports and dashboards in detail with specialist chart visualizations use visualizations in reports add elements such as streaming data and qr codes to dashboards this is also a great way to prepare for the microsoft pl exam by passing the pl exam earn the microsoft power bi data analyst certification
-
-visualization and design
+</DOC>
+<DOC>visualization and design
 you are introduced to data display and visualization design principles this includes instruction on how to create a cohesive report while targeting your designs for a specific audience and it describes the importance of security in data visualization
 introduction great data visualization introduction to color theory the important role of color positioning and scale of information positioning and information density chaotic versus cohesive pages creating cohesion knowing the audience age related design prioritizing key information security in data the real world impact visualization and design
+</DOC>
 
-designing powerful report pages
+<DOC>designing powerful report pages
 you explore the principles of cohesive design and discover how good design improves the user and comprehension of data
 clarity and visual impact in charts design power bi reports for accessibility clarity and impact creating and formatting a kpi chart dot plot chart in power bi visualising high density multidimensional data advanced display optimizing report layout for mobile shape map visuals choropleth maps choropleth maps in action tips on map visualizations accessing the map compare and contrast shape and filled maps power bi azure maps identifying a new market what are custom visualizations adding a pythonbased visualization designing powerful report pages
+</DOC>
 
-dashboard design and storytelling
+<DOC>dashboard design and storytelling
 compare designing a dashboard in contrast to designing a report you also get to explore the principles of data storytelling
 dashboard vs report design targeting the enduser optimize a dashboard for mobile phones working with multiple dashboards dashboards and media adding media to dashboards qr codes in dashboards what is data storytelling story elements the storytelling process dashboard design and storytelling
+</DOC>
 
-final project and assessment creative design in power bi
+<DOC>final project and assessment creative design in power bi
 be assessed on the key covered in the a of the is provided and you get to reflect on the primary learning objectives there is also the project for the which encapsulates the learning into a practical whole
 recap creative design in power bi congratulations
 </DOC>
-
 <DOC>
 microsoft pl exam preparation and practice
 this forms part of the microsoft power bi analyst this consists of a series of courses that offer a good starting point for a in data analysis using microsoft power bi
 this will help you prepare for the microsoft pl exam refresh your knowledge of all the key areas assessed in the microsoftcertified exam pl microsoft power bi data analyst in addition prepare for the certification exam by taking a mock exam with a similar format and content as in the microsoft pl exam also get tips and tricks testing strategies useful resources and information on how to sign up for the microsoft pl proctored exam this is a great way to prepare for the microsoft pl exam by passing the pl exam earn the microsoft power bi data analyst certification earning a microsoft certification is globally recognized evidence of realworld after completing this be able to prepare the data model the data visualize and analyze the data deploy and maintain assets
-
-preparing data
+</DOC>
+<DOC>preparing data
 revise key concepts related to preparing and loading data in power bi to prepare for the pl exam
 introduction introduction to preparing for the exam identify and connect to a data source directquery import and dual mode parameter values connecting to a dataflow evaluating data data statistics and column properties resolve inconsistencies and data quality issues create and transform columns identify when to use reference queries merge and append queries table relationships preparing data
+</DOC>
 
-modeling data
+<DOC>modeling data
 revise key concepts related to modeling data in power bi to prepare for the pl exam
 designing a schema implementing roleplaying dimensions using calculate to manipulate filters cardinality and crossfilter direction calculated columns single aggregation measures implement time intelligence measures additive semiadditive and nonadditive measures calculated tables data hierachies using the performance analyzer improve performancing via cardinality and summarization modeling data
+</DOC>
 
-visualize and analyze data
+<DOC>visualize and analyze data
 revise key concepts related to visualizing and analzying data in power bi to prepare for the pl exam
 using appropriate visualizations configuring and formatting visualizations slicing and filtering report navigation and sorting interactions between visuals sync slicers group and layer visuals by using the selection pane design reports for mobile devices detect outliers and anomalies grouping and binning data ai visuals reference lines and error bars scorecards and metrics visualize and analyze data
+</DOC>
 
-deploy and maintain assets
+<DOC>deploy and maintain assets
 revise key concepts related to deploying and maintaining assets in power bi to prepare for the pl exam
 workspaces and workspace roles workspace apps subscriptions and data alerts promote or certify power bi content data gateways rowlevel security providing access to datasets deploy and maintain assets
+</DOC>
 
-practice exam
+<DOC>practice exam
 also have access to resources that will help you to prepare for the microsoft exam pl microsoft power bi data analyst
 introduction to the pl exam understanding microsoft copilot understanding copilot for power bi specialists enhancing report design with aiassisted tasks mastering dax formulas with copilot congratulations day in the life
 </DOC>
-
 <DOC>
 extract transform and load data in power bi
 this forms part of the microsoft power bi analyst this consists of a series of courses that offers a good starting point for a in data analysis using microsoft power bi
 the process of extract transform and load or etl identify how to collect data from and configure multiple sources in power bi and prepare and clean data using power query also have the to inspect and analyze ingested data to ensure data integrity after completing this be able to identify explain and configure multiple data sources in power bi clean and transform data using power query inspect and analyze ingested data to ensure data integrity this is also a great way to prepare for the microsoft pl exam by passing the pl exam earn the microsoft power bi data analyst certification
-
-data sources in power bi
+</DOC>
+<DOC>data sources in power bi
 set up data sources and explore the different data source capabilities in power bi
 introduction how combining data sources gives business insights setting up a flat data source storage modes in power bi configuring storage modes in power bi structured vs unstructured data what are connectors triggers and actions data sources in power bi
+</DOC>
 
-transforming data in power bi
+<DOC>transforming data in power bi
 practice cleaning and transforming data to prepare for data modeling in later courses
 why data needs to be transformed introduction to power query and its interface the applied steps list working with columns dealing with errors in power query unpivot and pivot columns the importance of data combination combining tables with append what is a join join types combining tables with merge identifying a new potential product transforming data in power bi
+</DOC>
 
-advanced etl in powerbi
+<DOC>advanced etl in powerbi
 gain an understanding of the load portion of the etl process and practice data profiling and advanced queries
 introduction to loading data the staging area in power bi introduction to data profiling profiling data in power bi vignette bad data best practices when working with power query introduction to dataflows introduction to reference queries reference queries and dataflows query parameters using advanced editor to modify code advanced etl in powerbi
+</DOC>
 
-graded assessment and wrap up
+<DOC>graded assessment and wrap up
 be assessed on the key covered in the
 recap extract transform and load data in power bi congratulations
 </DOC>
-
 <DOC>
 harnessing the power of data with power bi
 this forms part of the microsoft power bi analyst this consists of a series of courses that offers a good starting point for a in data analysis using microsoft power bi
 about the role of a data analyst and the main stages involved in the data analysis process with a focus on applying them using microsoft power bi after completing this be able to describe how data is produced and gathered in businesses and organizations outline the role of data in creating datadriven decisions and successful business classify key stages in the data analysis process recognize the needed by a power bi analyst and the tools they use list the tasks performed by a power bi data analyst recognize the components of power bi this is also a great way to prepare for the microsoft pl exam by passing the pl exam earn the microsoft power bi data analyst certification
-
-data analysis in business
+</DOC>
+<DOC>data analysis in business
 this introduces the learner to the role of a data analyst key data analysis concepts and how data plays an important role in business the learner is briefly introduced to power bi as tool for data analysis
 introduction what is the role of a data analyst roles working with data essential data analyst gathering the right data processing and analyzing the data how data insights drive business introduction to power bi analyzing data with power bi data analysis in business
+</DOC>
 
-the right tools for the job
+<DOC>the right tools for the job
 this introduces the learner to data collection data sources the etl process and the importance of evaluating data for analysis
 identifying and evaluating required data workflow in power bi the etl extract transform load process ingesting and gathering data storing and managing data transforming and cleaning data what is power query the right tools for the job
+</DOC>
 
-final project and assessment harnessing the power of data in power bi
+<DOC>final project and assessment harnessing the power of data in power bi
 be assessed on the key covered in the
 recap harnessing the power of data congratulations
 </DOC>
-
 <DOC>
 preparing data for analysis with microsoft excel
 this forms part of the microsoft power bi analyst this consists of a series of courses that offers a good starting point for a in data analysis using microsoft power bi
 no prior are needed to be successful how to make use of excel in business scenarios for data analysis also how to utilize formulas and functions for data analysis specifically this will help you gain knowledge and for preparing data for analysis using microsoft excel and take you one step closer to becoming a microsoft power bi analyst after completing this be able to create data in microsoft excel and prepare it for data analysis make use of common formulas and functions in a worksheet prepare excel data for analysis in power bi using functions
-
-excel fundamentals
+</DOC>
+<DOC>excel fundamentals
 this introduces essential excel elements and techniques begininning with the creation and formatting of worksheets it explores the excel features that are useful when viewing large data blocks and explains how to create accurate calculations
 introduction to the introduction preparing data for analysis with microsoft excel day in the life welcome to generative ai for everyone understanding the capabilities of generative ai for business functions generative ai under the hood the potential pitfalls and shortcomings of gen ai introduction to microsoft excel entering and formatting data reading large data blocks sorting and filtering data in excel excel fundamentals
+</DOC>
 
-formulas and functions
+<DOC>formulas and functions
 this introduces formulas and functions in excel it explores how these are important to data analysis and how these are used in business scenarios
 what is a formula controlling calculations controlling calculations in action what is a function formula and how to write it using the insert function formulas and functions
+</DOC>
 
-preparing data for analysis using functions
+<DOC>preparing data for analysis using functions
 the introduces common functions that help prepare excel data for analysis in tools such as power bi
 how inconsistent data can affect data analysis why understanding date calculations is important dynamic date and time entries using the if function using nested if and ifs function preparing data for analysis using functions
+</DOC>
 
-final project and assessment preparing data for analysis with microsoft excel
+<DOC>final project and assessment preparing data for analysis with microsoft excel
 be assessed on the key covered in the
 recap preparing data for analysis with microsoft excel congratulations
 </DOC>
-
 <DOC>
 data analysis and visualization with power bi
 this forms part of the microsoft power bi analyst this consists of a series of courses that offers a good starting point for a in data analysis using microsoft power bi
 report design and formatting in power bi which offers extraordinary visuals for building reports and dashboards additionally how to use report navigation to tell a compelling datadriven story in power bi explore how to get a statistical for your data and how to create and export reports in power bi also perform advanced analytics in power bi to get deeper and more meaningful data insights after completing this be able to recognize the different types of visualizations in power bi add visualizations to reports and dashboards apply formatting choices to visuals add useful navigation techniques to the power bi report design accessible reports and dashboards use visualizations to perform data analysis this is also a great way to prepare for the microsoft pl exam by passing the pl exam earn the microsoft power bi data analyst certification
-
-creating reports
+</DOC>
+<DOC>creating reports
 be introduced to using visualization and reports in microsoft power bi to present data to stakeholders
 introduction analysis for business intelligence what are visualizations common visualizations creating a basic report table visualization bar and column charts line and area charts combo charts pie and donut charts treemaps displaying key performance indicators ribbon and waterfall charts funnel charts scatter charts creating reports
+</DOC>
 
-navigation and accessibility
+<DOC>navigation and accessibility
 discover how to improve accessibility and user in reports
 accessibility in reports formatting and configuring visualizations conditional formatting working with themes adding custom tooltips report hierarchies report drillthrough sorting and filtering data in reports crossfilter and crosshighlight adding slicers adding buttons adding bookmarks group and layer visuals dax filter context in visualizations navigation and accessibility
+</DOC>
 
-bringing data to the user
+<DOC>bringing data to the user
 be introduced to dashboards and how they differ from reports as as publishing and exporting reports
 what is a dashboard creating a dashboard improving usability in dashboards limitations of pinned visuals publishing reports pagination and exporting reports introduction to the performance analyzer resolving performance issues in dax using variables for performance using variables for troubleshooting bringing data to the user
+</DOC>
 
-identifying patterns and trends
+<DOC>identifying patterns and trends
 be introduced to data analysis explore how to use visualizations and ai in microsoft power bi to perform an analysis of data
 introduction to analytics statistical group and bin data for analysis histograms and top n clustering techniques continuous and categorical axes using the analyze feature conducting a time series analysis creating reference lines forecasting key influencers decomposition trees identifying patterns and trends
+</DOC>
 
-final project and assessment data analysis and visualization with power bi
+<DOC>final project and assessment data analysis and visualization with power bi
 be assessed on the key covered in the this provides a of the and reflects on the primary learning objectives the also contains the project for the which encapsulates the learning into a practical whole
 recap data analysis and visualization with power bi congratulations
 </DOC>
-

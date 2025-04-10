@@ -16,216 +16,241 @@ introduction to hardware and operating systems
 get ready to enter the thriving field of information technology it with job ready this beginner friendly provides the core hardware and operating system knowledge needed by anyone new to it and computer hardware who wants to start a new in technology including it support networking cybersecurity and software development
 first be introduced to computing fundamentals the four functions of computing and the benefits of computing become knowledgeable of internal computer components including motherboards central processing units cpus memory hard drives expansion slots and others to identify interfaces ports connectors and peripherals become familiar with tasks that it professionals perform
 including workstation procurement workstation setup processes configure commonly used operating system settings screen capture commands computer acquisition practices and jobessential troubleshooting processes by the end of this become knowledgeable about hardware and operating systems mobile operating systems interfaces and connectors linux and macos throughout the practice what you using interactive exercises and handson labs at the end of the have the to complete a final project where apply your understanding of content this is also part of the series to help you prepare for comptia itf and a certification exams
-
-introduction to computing fundamentals
+</DOC>
+<DOC>introduction to computing fundamentals
 welcome to your first after completing this be able to define what a computer is about the four functions of computing the parts of a computer associated with each of those functions and the benefits of computing explore how to classify computing devices based on size and usage and describe the evolution of operating systems discover how computers communicate using notational numeric systems for processing and storing data displaying onscreen text hardware addresses website colors and web addresses gain the practical knowledge needed to evaluate computing performance and storage know the four ways to log into microsoft windows be able to describe how to use the start menu tiles taskbar and settings capabilities and will be able to explain how to manage windows on the desktop round out your with a lab where locate programs and navigate windows to find important information about the computer and the windows operating system
 introduction introduction to computing fundamentals common computing devices and platforms understanding how computers talk an introduction to operating systems getting started with microsoft windows microsoft windows server lab environment
+</DOC>
 
-computing devices and peripherals
+<DOC>computing devices and peripherals
 computer hardware is the set of physical parts that make up the interior of your computer peripherals are pieces of hardware that are added to the outside of a computer for it to more efficiently both hardware and peripherals are used to take input store data display output and execute commands about several types of hardware components and peripherals about printers and scanners input and output devices external storage devices and audio and devices
 identifying hardware components and peripherals input and pointing devices hard drives optical drives and external storage display devices printers and scanners audio and visual devices
+</DOC>
 
-interfaces and connectors
+<DOC>interfaces and connectors
 a computers multiple components both internal and external are constantly interacting with each other to receive input perform requested computing functions and provide output as technology has evolved and connection methods have standardized a vast array of external devices can now easily and successfully connect with computers and reliably perform their tasks how hardware and peripheral devices connect to form a functioning computer about ports interfaces and connectors used by graphics audio networks printers and other peripheral devices also about the types of installations these devices use to become operational
 identifying ports and connectors identifying graphic devices identifying audio connectors wired and wireless connections peripheral and printer connections installation types
+</DOC>
 
-internal computer components
+<DOC>internal computer components
 computer hardware the physical part of a computer is infrequently changed while software and data are modified frequently when you think of the term computer hardware you probably think of whats inside your personal computer at home or your computer at however computer hardware does not specifically refer to personal computers instead it is all types of computer systems computer hardware is located in embedded systems in automobiles microwave ovens cd players dvd players and many more devices lesson about common internal components of home and business computer systems
 internal computer components data processing and storage internal storage display cards and sound cards network interface cards cooling and fans
+</DOC>
 
-windows workstation setup evaluation and troubleshooting
+<DOC>windows workstation setup evaluation and troubleshooting
 workstation setup operating system configuration and workstation troubleshooting are all in a days for it support whether the task is selecting a new computer for a colleague reconfiguring an operating system for a coworkers accessibility needs or troubleshooting a file or directory visibility issue it support personnel need procedures that help them complete these tasks quickly confidently and correctly gain knowledge of workstation procurement and basic windows operating system configuration and management discover techniques that help you optimize file and folder organization and perhaps even help users locate hidden files timesaving keyboard commands to capture screens using windows workstations macos workstations and chromebooks complete your learning with an of business continuity principles used for fault tolerance and disaster recovery
 installing microsoft windows operating system microsoft windows operating system configuration microsoft windows management and performance managing file and folders evaluating computing performance and storage workstation evaluation and setup screen capture and tools introduction to troubleshooting advanced microsoft windows management and utilities introduction to business continuity principles
+</DOC>
 
-final quiz and
+<DOC>final quiz and
 assess your knowledge through a final quiz based on the previous five
 optional ibm technical support optional of courses
+</DOC>
 
-bonus exploring additional desktop and mobile operating systems
+<DOC>bonus exploring additional desktop and mobile operating systems
 welcome to your bonus although microsoft windows dominates the desktop operating system market organizations also use computers that run linux macos and chromeos operating systems and many organizations also support users who have devices that use ios and android mobile operating systems when you complete this be able to explain why organizations support these alternative operating systems be able to compare and contrast operating system login processes network connection methods onscreen navigation menus and features also gain the knowledge needed to explain where each operating system stores device identifiers version information and system settings stretch and grow your linux using the linux lab
 exploring linux operating system essentials getting started with macos networking and performance macos essentials chromeos operating system essentials introduction to mobile devices ios introduction to mobile devices android
 </DOC>
-
 <DOC>
 introduction to software programming and databases
 take the next step in your it journey with this selfpaced beginner friendly this covers the basics of software cloud computing web browsers application development concepts programming languages and database fundamentals
 first be introduced to computing platforms and software applications about the software lifecycle software compatibility across different platforms and software versioning also about installing and managing web browsers using extensions and plugins and keeping them secure and updated next about basic programming concepts coding logic and the different programming languages like python move on to data and database fundamentals and how to use interface with access and backup databases after completing this have a better grasp of software processes and feel more confident about using and securing applications from mobile phone operating systems to workplace database applications this covers a wide range of software discover the benefits of cloudbased technologies and see how using the cloud can help businesses create and deploy applications faster to solidify your understanding and put your to the test the includes numerous handson labs it ends with a final project where showcase your newfound expertise and demonstrate your understanding of software programming and databases enroll now to take the next step in developing expertise in it fundamentals
-
-computing platforms and software applications
+</DOC>
+<DOC>computing platforms and software applications
 do you know which computing platform is on your device are you using the right software for the task youre tackling are your software versions updated this will help you answer these questions by giving you a better understanding of the essentials of software and by showing you how to effectively manage programs and applications about computing platforms single and crossplatform software compatibility across platforms and software versioning about the differences between commercial and open source software while also learning about different types of software and file formats
 introduction computing platforms and compatibility commercial and open source software software licenses software installation management software versions using your windows lab workspace microsoft windows server lab environment mobile applications stores productivity business and collaboration software types of file formats
-
-fundamentals of web browsers applications and cloud computing
-do you know which web browser to use and how to configure it to best for you is your web browser as secure as it might be and do you need to use browser extensions or plugins do you want to know what the cloud is really all about and do you understand how applications that you develop might be used and deployed by your users about common web browsers and browser settings browser security and browser extensions and plugins about cloud computing and also about application architecture models application delivery methods and the software development lifecycle or sdlc
-common web browsers browser installs and updates browser plugins and extensions basic browser security settings browser security and popups settings private browsing and clientside scripting settings introduction to cloud computing and cloud deployment and service models application architecture and delivery methods software development life cycle
-
-basics of programming
-understanding programming basics and the software development cycle is a crucial part of working with the software software developers must know how to code and understand how to identify and fix software problems when writing code software creators need to select the right data types choose the best programming language for the software and organize code most effectively about basic programming concepts and programming language categories about programming logic components and organizational techniques
-interpreted and compiled programming languages comparing compiled and interpreted programming languages query and assembly programming languages scripting languages use cases windows and linux understanding code organization methods branching and looping programming logic introduction to programming concepts part introduction to programming concepts part
-
-database fundamentals
-about database fundamentals during this about the different types of databases as as the basic concepts of what makes a database a database next be taught how to use and manage a database finally how to interface with a database and know how and why backing up a database is important
-types of data sources and uses database fundamentals and constructs database roles and permissions database types interfacing with databases database management backing up databases
-
-final quiz optional lab and honors project
-assess your knowledge through a final quiz based on the previous four
 </DOC>
 
+<DOC>fundamentals of web browsers applications and cloud computing
+do you know which web browser to use and how to configure it to best for you is your web browser as secure as it might be and do you need to use browser extensions or plugins do you want to know what the cloud is really all about and do you understand how applications that you develop might be used and deployed by your users about common web browsers and browser settings browser security and browser extensions and plugins about cloud computing and also about application architecture models application delivery methods and the software development lifecycle or sdlc
+common web browsers browser installs and updates browser plugins and extensions basic browser security settings browser security and popups settings private browsing and clientside scripting settings introduction to cloud computing and cloud deployment and service models application architecture and delivery methods software development life cycle
+</DOC>
+
+<DOC>basics of programming
+understanding programming basics and the software development cycle is a crucial part of working with the software software developers must know how to code and understand how to identify and fix software problems when writing code software creators need to select the right data types choose the best programming language for the software and organize code most effectively about basic programming concepts and programming language categories about programming logic components and organizational techniques
+interpreted and compiled programming languages comparing compiled and interpreted programming languages query and assembly programming languages scripting languages use cases windows and linux understanding code organization methods branching and looping programming logic introduction to programming concepts part introduction to programming concepts part
+</DOC>
+
+<DOC>database fundamentals
+about database fundamentals during this about the different types of databases as as the basic concepts of what makes a database a database next be taught how to use and manage a database finally how to interface with a database and know how and why backing up a database is important
+types of data sources and uses database fundamentals and constructs database roles and permissions database types interfacing with databases database management backing up databases
+</DOC>
+
+<DOC>final quiz optional lab and honors project
+assess your knowledge through a final quiz based on the previous four
+</DOC>
 <DOC>
 introduction to cloud computing
 start your cloud computing journey with this selfpaced introductory whether you need general cloud computing knowledge for school or business or you are considering a change this beginnerfriendly is right for you
 about essential characteristics of cloud computing and emerging technologies supported by cloud explore cloud service models including infrastructure as a service iaas platform as a service paas software as a service saas and public private and hybrid deployment models discover the offerings of prominent cloud service providers aws google ibm microsoft and others and review cloud computing case studies about cloud adoption blockchain analytics and ai about the many components of cloud computing architecture including datacenters availability zones virtual machines containers and bare metal servers also familiarize yourself with different types of cloud storage options such as object storage gain foundational knowledge of emergent cloud trends and practices including hybrid multicloud microservices serverless devops cloud native application modernization as as about cloud security and monitoring also explore cloud computing job roles and possible paths and complete a number of labs and quizzes throughout this to increase your understanding of content at the end of the complete a final project where deploy an application to cloud using a serverless architecture a valuable addition to your portfolio after this check out the related courses to help you towards your new as a cloud engineer full stack developer devops engineer cybersecurity analyst and others
-
-of cloud computing
+</DOC>
+<DOC>of cloud computing
 in in the first lesson the definition of cloud computing and its five essential characteristics in the next topic about the history and evolution of cloud computing and the benefits of the payasyougo feature of cloud computing the third topic will describe the key considerations benefits and challenges of cloud computing next discuss some common cloud service providers in the second lesson the need for cloud adoption by businesses then discuss some case studies of businesses that benefitted from cloud adoption in the third lesson about emerging technologies like iot ai blockchain and so on that leverage clouds scalability and processing power to provide value to individuals and businesses alike supported by some case studies
 welcome definition and essential characteristics of cloud computing expert viewpoints definition and essential characteristics of cloud computing history and evolution of cloud computing key considerations for cloud computing key cloud service providers and their services cloud adoption no longer a choice expert viewpoints cloud adoption benefits and use cases cloud adoption some case studies internet of things in the cloud artificial intelligence on the cloud blockchain and analytics in the cloud
-
-cloud computing models
-in about the different types of service and deployment models of cloud computing the first lesson covers the three main service models available on the cloudinfrastructureasaservice iaas platformasaservice paas and softwareasaservice saas the differences between each model the advantages of each and the key components of cloud infrastructure the second lesson goes over the four main deployment models available on the cloudpublic private hybrid and community what deployment models are and the differences and advantages of each model at the end of the create an account on ibm cloud
-of cloud service models iaas infrastructure as a service paas platform as a service saas software as a service public cloud private cloud hybrid cloud expert viewpoints cloud computing service and deployment models
-
-components of cloud computing
-in about the various components of a cloud computing architecture such as the virtualization of virtual machines and bare metal servers and the difference between virtual machines and bare metal servers the different types of virtual machines how to build a secure cloud networking presence how containerbased technologies and the benefits of a content delivery network in the second lesson also familiarize you with the four main types of cloud storagedirect attached file block and object storage the differences in how they can be accessed the capacity they offer how much they cost the types of data they are best suited to store and their readwrite speed
-of cloud infrastructure virtualization and virtual machines explained types of virtual machines bare metal servers secure networking in cloud containers expert viewpoints components of cloud computing basics of storage on cloud file storage block storage object storage object storage tiers and apis cdn content delivery networks expert viewpoints cloud storage
-
-emergent trends and practices
-in about the use cases and challenges of emergent trends in cloud computing such as hybrid multicloud serverless computing and microservices additionally this will teach you about the core concepts and benefits of cloud native applications the role of devops in addressing some of the complexities of cloud computing and how organizations can benefit from modernizing their applications
-hybrid multicloud microservices serverless computing cloud native applications devops on the cloud application modernization expert viewpoints cloud native and emergent cloud trends
-
-cloud security monitoring case studies jobs
-in about elements of cloud security including identity and access management and cloud encryption this will cover how organizations leverage cloud monitoring solutions to optimize business benefits it will familiarize you with cloud adoption case studies in different industry verticals and the various and job roles available in the field of cloud computing today
-what is cloud security part what is cloud security part identity and access management cloud encryption cloud monitoring basics and benefits case studies in different industry verticals and job roles in cloud computing expert viewpoints job market for cloud computing
-
-final project and
-complete a final project to deploy a containerized application on the cloud using a serverless technology no programming needed you can also demonstrate your knowledge of cloud computing by completing an optional assessment based on a cloud architecture design case study
 </DOC>
 
+<DOC>cloud computing models
+in about the different types of service and deployment models of cloud computing the first lesson covers the three main service models available on the cloudinfrastructureasaservice iaas platformasaservice paas and softwareasaservice saas the differences between each model the advantages of each and the key components of cloud infrastructure the second lesson goes over the four main deployment models available on the cloudpublic private hybrid and community what deployment models are and the differences and advantages of each model at the end of the create an account on ibm cloud
+of cloud service models iaas infrastructure as a service paas platform as a service saas software as a service public cloud private cloud hybrid cloud expert viewpoints cloud computing service and deployment models
+</DOC>
+
+<DOC>components of cloud computing
+in about the various components of a cloud computing architecture such as the virtualization of virtual machines and bare metal servers and the difference between virtual machines and bare metal servers the different types of virtual machines how to build a secure cloud networking presence how containerbased technologies and the benefits of a content delivery network in the second lesson also familiarize you with the four main types of cloud storagedirect attached file block and object storage the differences in how they can be accessed the capacity they offer how much they cost the types of data they are best suited to store and their readwrite speed
+of cloud infrastructure virtualization and virtual machines explained types of virtual machines bare metal servers secure networking in cloud containers expert viewpoints components of cloud computing basics of storage on cloud file storage block storage object storage object storage tiers and apis cdn content delivery networks expert viewpoints cloud storage
+</DOC>
+
+<DOC>emergent trends and practices
+in about the use cases and challenges of emergent trends in cloud computing such as hybrid multicloud serverless computing and microservices additionally this will teach you about the core concepts and benefits of cloud native applications the role of devops in addressing some of the complexities of cloud computing and how organizations can benefit from modernizing their applications
+hybrid multicloud microservices serverless computing cloud native applications devops on the cloud application modernization expert viewpoints cloud native and emergent cloud trends
+</DOC>
+
+<DOC>cloud security monitoring case studies jobs
+in about elements of cloud security including identity and access management and cloud encryption this will cover how organizations leverage cloud monitoring solutions to optimize business benefits it will familiarize you with cloud adoption case studies in different industry verticals and the various and job roles available in the field of cloud computing today
+what is cloud security part what is cloud security part identity and access management cloud encryption cloud monitoring basics and benefits case studies in different industry verticals and job roles in cloud computing expert viewpoints job market for cloud computing
+</DOC>
+
+<DOC>final project and
+complete a final project to deploy a containerized application on the cloud using a serverless technology no programming needed you can also demonstrate your knowledge of cloud computing by completing an optional assessment based on a cloud architecture design case study
+</DOC>
 <DOC>
 practice exam for comptia itf certification
 this short from ibm will test your readiness for the comptia itf certification exam success in the comptia itf exam certifies candidates readiness to embark on a as an it practitioner for example an it support specialist
 become familiar with the eligibility requirements signup process testing methods and the knowledge and related to it fundamentals that are assessed examination also complete a mock exam that contains the same number and type of questions as the comptia itf certification exam through this about the domains the itf exam is based on and exam testing strategies also have the to practice for the comptia itf certification exam this comprehensive assessment will test your knowledge and in it concepts and terminology infrastructure applications and software software development database fundamentals and security additionally the includes a sample assessment on cloud computing topics this assumes that you are already familiar with it fundamental knowledge that the itf exam tests on if you do not have this knowledge it is recommended that you complete the courses in the ibm it and cloud fundamentals or the first six courses in the ibm it support prior to starting this
-
-about the comptia itf certification exam
+</DOC>
+<DOC>about the comptia itf certification exam
 in one about the eligibility requirements for the comptia itf certification exam the domains and testing methods examtaking strategies and additional study resources and tips you can also assess your readiness for the comptia itf mock exam through a practice quiz
 introduction examtaking strategies
-
-practice exam for comptia itf certification
-complete a simulation of the comptia itf exam with the same number and type of questions
-
-wrapup and cloud basics exam
-about the next steps you can take after completing this and have the chance to complete an honors on the cloud basics exam
 </DOC>
 
+<DOC>practice exam for comptia itf certification
+complete a simulation of the comptia itf exam with the same number and type of questions
+</DOC>
+
+<DOC>wrapup and cloud basics exam
+about the next steps you can take after completing this and have the chance to complete an honors on the cloud basics exam
+</DOC>
 <DOC>
 introduction to cybersecurity essentials
 with this beginner friendly fundamental cybersecurity that are crucial for anyone using computing devices and connecting to the internet
 first to recognize common security threats and risks that individuals and organizations may face such as theft tampering and destruction of sensitive information then discover the characteristics of cyberattacks and how you can employ best practices to guard against them next about the best practices against cyberattacks these include using strong passwords good password management and multifactor authentication ways in which you can strengthen your security plan with techniques like device hardening encryption and more then about safe browsing practices gain an understanding of why you must practice safe browsing
 to protect yourself against hackers phishing identity theft security leaks privacy issues and more also explore methods for securing and managing confidential information then discover how to configure browsers to help reduce security breaches throughout this complete many handson labs which will enhance your understanding of material at the end of this have the to complete a final project where demonstrate your proficiency in cybersecurity designed specifically for beginners and those who are interested in a cybersecurity specialist or analyst roles as as entrylevel roles in information security infosec engineering this dives into the world of cybersecurity to give you the critical employers need it also supports the needs of technical and it support roles who can find themselves on the front lines of defense for cybersecurity issues
-
-common security threats and risks
+</DOC>
+<DOC>common security threats and risks
 cybersecurity is the practice of protecting systems networks and programs from digital attacks these attacks typically include business interruptions or the theft tampering or destruction of sensitive information ransomware attacks are on the rise and are predicted to cost victims more than billion usd annually by and that is just one type of threat we all need to protect against the need for organizations to implement effective security practices has never been more important or urgent this will teach you the you need to identify basic security threats and choose the best security practices to address those threats the difference between data information and insights and how companies leverage all three to help guide their business decisions how to maintain data integrity and keep data confidential also begin to about the different types of attacks and breaches that threaten todays organizations and their data
 introduction confidentiality integrity and availability security and information privacy threats and breaches microsoft windows server lab environment threat types phishing social engineering and other attacks
-
-security best practices
-unfortunately theres no single solution for effective cybersecurity the best practice is to use multiple layers of security some great first steps you can take to improve security and build a solid foundation to protect against cyberattacks are to use strong passwords good password management and multifactor authentication you should also limit access to data and resources to only those people who need them your security plan can be further rounded out and strengthened by using techniques such as device hardening and encryption and by educating employees about cyberthreats as a regular part of their training more about security including password management creating effective passwords and securing devices the differences between authentication authorization and accounting and how these concepts help secure devices and validate logons also how encryption can help secure data transmissions and how to manage email and spam
-password management techniques authentication and sso security threats access control authorization and authentication hardening devices security threats validation and device usage security threats encryption concepts managing email and spam
-
-safe browsing practices
-from people to computers to mobile phones and the internet of things everything is connected today there are more devices than people for some mobile phones and tablets have replaced traditional desktop computers and laptops the web is where people and businesses get things done and its always on hours a day the internet can be an awesome place to go for entertainment learning and other online but the internet isnt safe hackers phishing identity theft security leaks privacy issues and more are valid reasons to consistently practice safe browsing to protect yourself about safety concerns with applications and public browsing including managing plugins extensions and toolbars about web browser security configurations cookies and computer caches
-safe browsing practices application ecosystem security safe browsing practices public browsing risks safe browsing practices plugins extensions and toolbars security threats safe browsing techniques virtual private networks
-
-final quiz
-assess your knowledge through a final quiz based on the previous four
 </DOC>
 
+<DOC>security best practices
+unfortunately theres no single solution for effective cybersecurity the best practice is to use multiple layers of security some great first steps you can take to improve security and build a solid foundation to protect against cyberattacks are to use strong passwords good password management and multifactor authentication you should also limit access to data and resources to only those people who need them your security plan can be further rounded out and strengthened by using techniques such as device hardening and encryption and by educating employees about cyberthreats as a regular part of their training more about security including password management creating effective passwords and securing devices the differences between authentication authorization and accounting and how these concepts help secure devices and validate logons also how encryption can help secure data transmissions and how to manage email and spam
+password management techniques authentication and sso security threats access control authorization and authentication hardening devices security threats validation and device usage security threats encryption concepts managing email and spam
+</DOC>
+
+<DOC>safe browsing practices
+from people to computers to mobile phones and the internet of things everything is connected today there are more devices than people for some mobile phones and tablets have replaced traditional desktop computers and laptops the web is where people and businesses get things done and its always on hours a day the internet can be an awesome place to go for entertainment learning and other online but the internet isnt safe hackers phishing identity theft security leaks privacy issues and more are valid reasons to consistently practice safe browsing to protect yourself about safety concerns with applications and public browsing including managing plugins extensions and toolbars about web browser security configurations cookies and computer caches
+safe browsing practices application ecosystem security safe browsing practices public browsing risks safe browsing practices plugins extensions and toolbars security threats safe browsing techniques virtual private networks
+</DOC>
+
+<DOC>final quiz
+assess your knowledge through a final quiz based on the previous four
+</DOC>
 <DOC>
 introduction to networking and storage
 jumpstart your in information technology it with this beginner friendly selfpaced by taking this enhance your base knowledge of essential in networking storage and system administration
 first about networking fundamentals which include network types network cables topologies and models understand how data travels across a network and discover how protocols and standards enable all network activity then how to set up and configure devices and cables for both wired and wireless networks next to diagnose and troubleshoot network connectivity issues and discover how to use command line utilities and network tools in windows settings after that identify different types of storage drives and discover the difference between shortterm and longterm memory the features of local offsite and cloud storage and when to use each and investigate file block and object storage and out which cloud provider solutions best for different networking scenarios practice activities and virtual handson labs will help you develop and apply the you need to diagnose and repair basic networking and storage issues so you can keep users connected and their data accessible at the end of this complete a final quiz and where demonstrate your understanding of the content
-
-networking fundamentals
+</DOC>
+<DOC>networking fundamentals
 computer networking plays a vital role in facilitating the communication required in almost every aspect of daily life activities like talking with friends and family collaborating with coworkers paying bills and even completing transactions at a store often depend on some form of computer networking computer networking is defined as the connection of people through the use of devices and cables and sometimes wireless signals about the basic types and shapes of networks and how they are used also about wired connections wireless connections and network cables and finally about the advantages and disadvantages of each network type
 introduction network types and topologies from wired to wireless internet connections cables wireless connections advantages and disadvantages of network types
+</DOC>
 
-networking fundamentals part ii
+<DOC>networking fundamentals part ii
 understanding the foundations of how all networks behave is achieved by investigating the rules that includes finding out how each rule works and observing how each rule is applied to the network and how the network is affected by that rule about networking devices and the basic instructions they follow to connect us in the ways we expect understand how data is packaged electronically which rules are used to send the data how those rules are made and how computers determine where to send those data packages
 networking hardware devices packets ip addressing dns dhcp and nat microsoft windows server lab environment models standards protocols and ports wireless networks and standards protocol table
+</DOC>
 
-configuring and troubleshooting networks
+<DOC>configuring and troubleshooting networks
 one of the key components of communicating is understanding how to communicate that includes knowing what enables communication and what blocks it this is just as true for computer networking as it is for persontoperson interactions if you dont understand the ways to get data from one point to another the data will never arrive where you want it to the basic steps for setting up small office or home office networksincluding wired wireless and mobile configurations explore network settings in windows and then what causes network connectivity problems and how to resolve those problems finally how command line utilities can be used to find network information and diagnose network issues
 configuring a wired soho network configuring a wireless soho network mobile configurations network settings in windows troubleshooting network connectivity network troubleshooting with command line utilities
+</DOC>
 
-storage types and network sharing
+<DOC>storage types and network sharing
 as weve discussed connection plays a vital role in communication another key component in communication is memory information is not useful if it cant be recalled network storage is where the memory is located in computer networking about different types of network storage and basic storage troubleshooting about shortterm and longterm memory and the different ways that memory can be arranged to increase capacity and efficiency also about local offsite and cloud memory and how all these different kinds of memory enable faster and more efficient interaction between people devices and software
 types of local storage devices local storage with multiple drives troubleshooting storage issues types of hosted storage and sharing network storage types cloudbased storage devices
+</DOC>
 
-final quiz and
+<DOC>final quiz and
 peer review discussion prompt plugins
 optional ibm technical support optional of courses
 </DOC>
-
 <DOC>
 introduction to technical support
 technical support professionals are in great demand this is the first in the ibm it support designed to prepare you for a rewarding in technical support
 begin this selfpaced by learning what informational technology it support is all about find out the roles and responsibilities of technical support professionals and become familiar with all the different paths you can take in technical support also hear from experts in the it industry about getting started in the field and how you can pursue this without prior or degrees also some basics about the technology that technical support professionals use hear from industry insiders about how you can develop a customer support mindset and how to talk with customers and solve their problems gain insights into performance evaluation paths and the industryrecognized certifications that can propel your technical support forward then gain a comprehensive understanding of support tools and support channels and how they streamline issue resolution also about the importance of servicelevel agreements slas and how they contribute to delivering exceptional support next explore ticketing systems a fundamental component of modern technical support about their features benefits and the lifecycle of a ticket or a support issue moreover immerse yourself in tech support methodologies frameworks and the art of effective documentation the wraps up with a project that provides you with the to use a ticketing system handson and simulate the that it support specialists and helpdesk technicians perform
-
-industry professionals guide to technical support
+</DOC>
+<DOC>industry professionals guide to technical support
 about the you need for success in information technology it careers and the roles and responsibilities of technical support professionals also about different it systems hear from industry insiders about getting started in technical support and how you can pursue a in information technology it without prior or degrees in the guided activities practice identifying the responsibilities of technical support professionals
 optional ibm technical support optional of courses introduction becoming a technical support insiders viewpoints background for tech support in technical support insiders viewpoints getting started in tech support technical support roles and responsibilities introduction to it infrastructure
-
-technical support and
-about the required for technical support what certifications benefit you the purpose of performance evaluations and the possible paths and progressions available to you in it also hear from industry insiders about developing your customer support mindset getting feedback on the customer and what you need for success in technical support then in the guided activity demonstrate the you need for technical support
-technical support soft technical support professionalism insiders viewpoints customer support mindset basics of technical performance evaluation of technical support professionals insiders viewpoints feedback and rewarding paths and progression in technical support insiders viewpoints paths in tech support industry certifications for technical support insiders viewpoints for success in technical support
-
-support tools support tiers and servicelevel agreements
-about different support channels remote support tools servicelevel agreements slas and the escalation matrix in the guided activities explore connecting to a remote computer classifying support levels and managing escalations hear from industry insiders about using remote support and why slas are important and also about tiered support levels and the future of tech support
-of support channels remote support tools remote access insiders viewpoints remote support levels of technical support servicelevel agreements slas insiders viewpoints what are slas the escalation matrix
-
-ticketing systems
-about ticketing systems their common features and benefits and the essential elements of industryleading ticketing systems a day in the life of a technical support specialist also hear from industry insiders with vast in ticketing systems as they discuss the advances and changes in technical support about it service management itsm and the benefits of effective documentation and communication and in the guided activities explore the ticket lifecycle and then practice logging a ticket
-what are ticketing systems handling difficult situations features and benefits of ticketing systems popular ticketing systems insiders viewpoints ticketing systems introduction to troubleshooting tech support methodologies frameworks insiders viewpoints advances in technical support effective documentation communication a day in the life of a technical support specialist
-
-final handson project and quiz
-participate in the handson lab working with a ticketing system create update and resolve records and generate reports and charts in a ticketing system also participate with your peers in a discussion about your plans for your future finally hear from industry insiders about why getting started in technical support is the right choice
 </DOC>
 
+<DOC>technical support and
+about the required for technical support what certifications benefit you the purpose of performance evaluations and the possible paths and progressions available to you in it also hear from industry insiders about developing your customer support mindset getting feedback on the customer and what you need for success in technical support then in the guided activity demonstrate the you need for technical support
+technical support soft technical support professionalism insiders viewpoints customer support mindset basics of technical performance evaluation of technical support professionals insiders viewpoints feedback and rewarding paths and progression in technical support insiders viewpoints paths in tech support industry certifications for technical support insiders viewpoints for success in technical support
+</DOC>
+
+<DOC>support tools support tiers and servicelevel agreements
+about different support channels remote support tools servicelevel agreements slas and the escalation matrix in the guided activities explore connecting to a remote computer classifying support levels and managing escalations hear from industry insiders about using remote support and why slas are important and also about tiered support levels and the future of tech support
+of support channels remote support tools remote access insiders viewpoints remote support levels of technical support servicelevel agreements slas insiders viewpoints what are slas the escalation matrix
+</DOC>
+
+<DOC>ticketing systems
+about ticketing systems their common features and benefits and the essential elements of industryleading ticketing systems a day in the life of a technical support specialist also hear from industry insiders with vast in ticketing systems as they discuss the advances and changes in technical support about it service management itsm and the benefits of effective documentation and communication and in the guided activities explore the ticket lifecycle and then practice logging a ticket
+what are ticketing systems handling difficult situations features and benefits of ticketing systems popular ticketing systems insiders viewpoints ticketing systems introduction to troubleshooting tech support methodologies frameworks insiders viewpoints advances in technical support effective documentation communication a day in the life of a technical support specialist
+</DOC>
+
+<DOC>final handson project and quiz
+participate in the handson lab working with a ticketing system create update and resolve records and generate reports and charts in a ticketing system also participate with your peers in a discussion about your plans for your future finally hear from industry insiders about why getting started in technical support is the right choice
+</DOC>
 <DOC>
 technical support it case studies and capstone
 ibm apply the knowledge gained from the it support to realistic situations this capstone leads you through a series of technical support case studies that require handson to resolve upon completing this gain an enriched perspective on employing technical support in settings making you a soughtafter it
 navigate a range of handson technical support labs crafted to challenge and enhance your problemsolving abilities merge theory with practice to analyze user help requests and employ systematic troubleshooting techniques to diagnose and resolve technical issues a comprehensive understanding of escalation protocols and adept utilization of ticketing systems and diagnostic tools will become second nature to you examine the intricacies of hardware and software across diverse computing platforms grasp network fundamentals delve into security and explore the cloud computing landscape have the to sharpen your communication and master conflict mitigation and deescalation techniques culminating in a comprehensive customer service orientation by the end of this better understand how to use your technical support in everyday settings this assumes that you are already familiar with it fundamentals knowledge if you do not have this knowledge it is recommended that you complete the previous courses in the ibm it support before starting this learners who complete and pass all courses in the it support will receive a discount voucher for a comptia certification exam
-
-hardware and operating systems
+</DOC>
+<DOC>hardware and operating systems
 demonstrate knowledge of hardware and operating systems with a focus on providing effective technical support from effective phone and email support to understanding the inner workings of computer components this lays the groundwork for your journey into technical expertise
 introduction microsoft windows server lab environment
-
-software programming and databases
-looks deeper in the the realm of technical support where test your and knowledge with case studies on topics like software programming and databases from troubleshooting webrelated issues to guiding users through software updates and database management this lets you strengthen your ability to provide topnotch technical assistance
-
-networking and storage
-demonstrate knowledge of networking software and storage in the context of providing technical support by mastering live chat and email support and gaining expertise in remote support tools be wellprepared to diagnose and resolve network issues configure storage solutions and ensure smooth data transfer
-
-cybersecurity
-demonstrate knowledge of cybersecurity from understanding opensource code licensing to securing user information and combatting cyber threats this equips you with the ability to test your knowledge and in case studies to safeguard digital assets and promote safe computing practices
-
-cloud computing
-final explore the dynamic field of cloud computing use your and knowledge in case studies to practice managing access policies resetting passwords and navigating the complex world of cloud services
 </DOC>
 
+<DOC>software programming and databases
+looks deeper in the the realm of technical support where test your and knowledge with case studies on topics like software programming and databases from troubleshooting webrelated issues to guiding users through software updates and database management this lets you strengthen your ability to provide topnotch technical assistance
+</DOC>
+
+<DOC>networking and storage
+demonstrate knowledge of networking software and storage in the context of providing technical support by mastering live chat and email support and gaining expertise in remote support tools be wellprepared to diagnose and resolve network issues configure storage solutions and ensure smooth data transfer
+</DOC>
+
+<DOC>cybersecurity
+demonstrate knowledge of cybersecurity from understanding opensource code licensing to securing user information and combatting cyber threats this equips you with the ability to test your knowledge and in case studies to safeguard digital assets and promote safe computing practices
+</DOC>
+
+<DOC>cloud computing
+final explore the dynamic field of cloud computing use your and knowledge in case studies to practice managing access policies resetting passwords and navigating the complex world of cloud services
+</DOC>
 <DOC>
 tech support guide and interview preparation
 this is designed to prepare you to enter the job market as a technical support specialist it provides guidance about the regular functions and tasks of support professionals and options for development it explains practical techniques for creating essential jobseeking materials such as a resume and a portfolio as as auxiliary tools like a cover letter and an elevator pitch how to find and assess prospective job positions apply to them and lay the groundwork for interviewing also get inside tips and steps you can use to perform professionally and effectively at interviews let seasoned professionals share their to help you get ahead of the competition
 a note this often discusses technical support specialists specifically but the majority of the content will apply to technical support specialists overall and the terms technical support engineer help desk specialist it specialist and technical support specialist will be used interchangeably
-
-building a foundation
+</DOC>
+<DOC>building a foundation
 your job search will be much more effective if you do some primary before you begin in building a foundation how to clearly understand the jobs be looking for how to write a basic resume and collect your previous examples into a portfolio also create some other materials that will be useful such as a cover letter and an elevator pitch
 introduction to technical support understanding the role of a technical support specialist expert viewpoint paths in technical support expert viewpoint setting goals in technical support build your portfolio expert viewpoint optimal portfolios expert viewpoints technical specialist roles draft your resume expert viewpoint attentiongetting resumes expert viewpoint standing out from the crowd
+</DOC>
 
-applying and preparing to interview
+<DOC>applying and preparing to interview
 job seeking and interview preparation helps you understand how to put yourself forth as a memorable candidate get guidance on researching prospective companies and assessing job leads to sift out the ones you want to focus on about rehearsing for interviews and why it can make a big difference in your performance and ways to network and let people you meet help you find your ideal role
 company and industry research networking online and off expert viewpoint building your network assessing job listings expert viewpoint a closer look at job listings technical review technical fundamentals review technical review soft fundamentals review refreshing essential technical support expert viewpoint job interview prep interview rehearsal
+</DOC>
 
-interviewing
+<DOC>interviewing
 after youve attracted a companys attention its important to know how to follow through the interviewing will guide you through the interview process from beginning to end about common types of interviews and what to expect from them including code challenges also some crucial tips for making a great impression in a final interview and how to follow up so that you stand out from the crowd
 of the interview process expert viewpoint case study insights expert viewpoint tech screen expectations final interviewing technical interviewing discussing a project expert viewpoints interviewing expert viewpoints candidate good impression expert viewpoint negotiations
 </DOC>
-

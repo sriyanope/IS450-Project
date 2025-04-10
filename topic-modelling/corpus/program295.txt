@@ -9,84 +9,92 @@ this series utilizes a custom autograding environment for an authentic set of gr
 intermediate postgresql
 this covers a wide range of sql techniques beyond basic crud create read update and delete operations in postgresql the specifics of aggregation transactions reading and parsing csv files and inserting data into a database also take a look at how postgresql handles and indexes text data
 specifically students will do that alter table schemas create stored procedures construct advanced queries explore sorting and grouping query data and techniques for working with text in databases including regular expressions
-
-sql techniques
+</DOC>
+<DOC>sql techniques
 first be introduced to the and look at sql commands for editing columns and tables in a postgresql database to create stored procedures and also utilize the select distinct command
 welcome to intermediate sql altering table schema dates distinct group by demonstration select distinct demonstration group by subqueries demonstration subqueries concurrency and transactions demonstration concurrency and transactions stored procedures demonstration stored procedures office hours hyderabad india pycon office hours puebla mexico
+</DOC>
 
-using sql techniques
+<DOC>using sql techniques
 focus on producing properly normalized tables from csv files and utilizing the alter table command to adjust the schema of tables
 demo reading and parsing files demonstration creating and loading a database demonstration loading and normalizing csv data office hours gingerman raceway south haven michigan usa office hours haag netherlands
+</DOC>
 
-text in postgresql
+<DOC>text in postgresql
 will focus on text in postgresql including utilizing character sets identifying hashtag algorithms and attributes as as index choices and techniques
 text in databases text function character sets character sets in python inside hashes bruce schneier cryptography hashing and nist index choices and index techniques demonstration generating and scanning text office hours new york city office hours miami florida usa
+</DOC>
 
-regular expressions
+<DOC>regular expressions
 in our final focus on regular expressions their functions and how to construct them to select rows from a table that match a pattern
 regular expressions using regular expressions demonstration regular expressions demonstration flat files regex email wrap up office hours mountain view california usa
 </DOC>
-
 <DOC>
 json and natural language processing in postgresql
 within this about how postgresql creates and uses inverted indexes for json and natural language content use various sources of data for our databases including access to an online api and spidering its data and storing the data in a json column in postgresql students will explore how fulltext inverted indexes are structured students will build their own inverted indexes and then make use of postgresql builtin capabilities to support fulltext indexes
-
-natural language
+</DOC>
+<DOC>natural language
 first we introduce you to the and its main focus text and json
 welcome to the allocating rows to blocks in postgresql index implementation details building an inverted index with sql demonstration sql inverse index building a natural language index with sql demonstration sql natural language index bonus office hours seoul south korea bonus office hours portland oregon usa
+</DOC>
 
-inverted indexes with postgresql
+<DOC>inverted indexes with postgresql
 look at ginbased inverted indexes and tsvector and tsquery functions
 a ginbased inverted index with postgresql demonstration ginbased inverted index building a natural language index in postgresql demonstration fulltext tsquery and tsvector functions demonstration building a gin tsvector index office hours washington dc usa office hours amsterdam netherlands
+</DOC>
 
-python and postgresql
+<DOC>python and postgresql
 is all about connecting and comparing python and postgresql
 lecture postgresql and python demonstration python and postgresql simplepy demonstration loadbookpy lecture mail archive demonstration mail archive demonstration mail archive lecture ranking search results with postgresql demonstration mail archive office hours zagreb croatia office hours orlando florida usa
+</DOC>
 
-json and postgresql
+<DOC>json and postgresql
 final focus primarily on json and its functions
 lecture javascript object notation interview douglas crockford json lecture python and json lecture postgresql and json demonstration music tracks and json lecture using a json api demonstration star wars api demonstration star wars api wrap up office hours london england office hours montreal quebec canada at pycon
 </DOC>
-
 <DOC>
 database design and basic sql in postgresql
 more about the historical design of databases and the use of sql in the postgresql environment using sql techniques and common commands insert into where order by on delete cascade etc will enable you to create tables column types and define the schema of your data in postgresql about data modeling and how to represent onetomany and manytomany relationships in postgresql students will do handson creating tables inserting data designing data models creating relational structures and inserting and querying relational data in tables
-
-introduction to sql
+</DOC>
+<DOC>introduction to sql
 first hear more about the goals of this about the people and organizations instrumental to building the sql standard to differentiate between relational databases and flat files and utilize psql and sql commands to create read update and delete tables in a postgresql database
 welcome to postgresql history of relational databases bonus elizabeth fong and sql standards sql architecture using pythonanywhere to run sql using the dbeaver client to run sql commands dr chuck goes racing joliet illinois usa office hours london very close to pythonanywhere
+</DOC>
 
-single table sql
+<DOC>single table sql
 to recall and utilize common psql commands create a database using command line prompts and utilize common sql commands including insert into where and order by
 working with tables and postgresql data types in postgresql database keys and indexes in postgresql musical track database csv dr chuck sings the blues in geneva switzerland near cern office hours kyoto japan
+</DOC>
 
-onetomany data models
+<DOC>onetomany data models
 focuses on relational database design and onetomany data models also the functions of primary logical and foreign keys within a database and how to reconnect rows with corresponding data in a table
 relational database design part relational database design part keys database normalization building tables inserting data using join across tables office hours at bletchley park milton keynes england office hours philadelphia pennsylvania usa
+</DOC>
 
-manytomany data models
+<DOC>manytomany data models
 the final focuses on manytomany data models soon be able to differentiate between onetomany and manytomany relationships and as as normalize and insert data items into a connected set of manytomany tables
 manytomany relationships demonstration database design and many to many up next beyond crud create read update delete and join office hours capetown south africa office hours raleigh north carolina usa
 </DOC>
-
 <DOC>
 database architecture scale and nosql with elasticsearch
 final explore database architecture postgresql and various scalable deployment configurations see how postgresql implements basic crud operations and indexes and review how transactions and the acid atomicity consistency isolation durability requirements are implemented
 to use elasticsearch nosql which is a common nosql database and a supplement to a relational database to highspeed search and indexing examine elasticsearch as an example of a basestyle basic availability soft state eventual consistency database approach as as compare and contrast the advantages and challenges associated with acid and base databases
-
-scaling databases
+</DOC>
+<DOC>scaling databases
 first introduce you to the topics covered including the comparison between sql and nosql and scaling relational databases
 welcome to the lecture to sql or to nosql scaling relational databases office hours breda netherlands office hours bletchley park milton keynes uk
-
-cloud scale applications
-compare and contrast acid and base style architectures and analyze the impact of first generation cloud applications
-first generation cloud applications first generation cloud applications second generation cloud applications the emergence of base solutions ie nosql reacting to the rise of nosql office hours kitchener ontario canada office hours mumbai india iit techfest
-
-elasticsearch
-focus on creating and utilizing an elasticsearch index in different contexts
-elasticsearch programming elasticsearch demonstration loading a book into elasticsearch demonstration loading email into elasticsearch demonstration elasticsearch tweets office hours seattle washington usa office hours phoenix arizona usa
-
-wrap up
-reading
 </DOC>
 
+<DOC>cloud scale applications
+compare and contrast acid and base style architectures and analyze the impact of first generation cloud applications
+first generation cloud applications first generation cloud applications second generation cloud applications the emergence of base solutions ie nosql reacting to the rise of nosql office hours kitchener ontario canada office hours mumbai india iit techfest
+</DOC>
+
+<DOC>elasticsearch
+focus on creating and utilizing an elasticsearch index in different contexts
+elasticsearch programming elasticsearch demonstration loading a book into elasticsearch demonstration loading email into elasticsearch demonstration elasticsearch tweets office hours seattle washington usa office hours phoenix arizona usa
+</DOC>
+
+<DOC>wrap up
+reading
+</DOC>

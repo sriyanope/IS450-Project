@@ -24,190 +24,221 @@ write code to connect a website to the database for user authentication
 managing relational databases
 in managing relational databases about their structure design and use of primary and foreign key fields equipping you with foundational knowledge
 upon completing this be able to master the use of structured query language sql and use it to analyze database structures create and manage databases tables and records conduct data analysis using basic sql queries conditional statements and logical comparison control output data using sql create complex queries using joins and subqueries throughout this handson labs will provide practical in working with sql and manipulating databases at the end of this complete a capstone project allowing you to showcase the knowledge and you learned throughout the
-
-database fundamentals
+</DOC>
+<DOC>database fundamentals
 about the concepts behind databases and relational database explore the structure of a relational database and sql the language used to manage relational databases then master the to create queries using the select statement including conditional queries logical operations comparison and arithmetic operators finally explore more complex criteria that can be used to search for ranges and with pattern matching
 introduction to the ata track of ata track advice for completing the ata databases syllabus databases tables and keys relationships structured query language sql finding the database structure queries conditional queries database fundamentals review
+</DOC>
 
-multiple conditions and complex criteria
+<DOC>multiple conditions and complex criteria
 how to create queries with multiple criteria using the key words and and or also to create queries using more complex criteria involving comparison and arithmetic operators searching for ranges of values handling null values and finally incorporating pattern matching and regular expressions
 and and or queries comparison operators arithmetic operators searching for a range of values the in operator null values pattern matching regular expressions multiple conditions and complex criteria review
+</DOC>
 
-working with functions
+<DOC>working with functions
 about functions and date and time data types to use date and aggregate functions to extract and analyze data also to format dates strings and numbers so they can be used for reporting and analysis
 date functions the distinct key word aggregate functions formatting text and numbers trim and substr functions concatenation working with functions review
+</DOC>
 
-retrieving and organizing data from multiple tables
+<DOC>retrieving and organizing data from multiple tables
 how to combine multiple queries together using union intersect and except then how to combine data from multiple tables using joins the four types of joins and then explore using them with multiple tables and for selfjoins finally organize data using order by group by and rollup
 union operator intersect and except operators joins multiple table joins self joins data sorting limit results group by and having clauses rollup operator retrieving and organizing data from multiple tables review
+</DOC>
 
-using subqueries
+<DOC>using subqueries
 how to use subqueries which are queries contained inside of other queries how and when to use subqueries in the where and from clauses also about correlated subqueries and subqueries used to test for the existence of records finally how to create nested subqueries for situations where just one subquery wont get the data you need
 subqueries subqueries in where clauses subqueries in from clauses correlated subqueries existing records nested subqueries using subqueries review
+</DOC>
 
-manipulating table data
+<DOC>manipulating table data
 how to create databases tables and fields to insert new records update existing records and delete records that are no longer needed
 creating databases and tables insert statement inserting multiple rows update statement delete statement truncate table statement manipulating table data review
+</DOC>
 
-database fundamentals capstone
+<DOC>database fundamentals capstone
 demonstrate mastery of the objectives
 capstone introduction capstone instructions
 </DOC>
-
 <DOC>
 introduction to it security
 in introduction to it security develop a comprehensive understanding of security management about risk assessment and management concepts analyze quantitative and qualitative risk and familiarize yourself with various types of security controls
 upon completing this be able to understand the security management process harden endpoint devices including mobile and iot devices manage incident responses effectively and plan for business continuity implement network security including firewalls idsips wireless security remote access and cloud computing throughout this handson labs will enable you to apply security concepts to realworld scenarios these range from practicing the application of security to networks hacking simulations to forensic simulations at the end of this complete a capstone project allowing you to showcase the knowledge and you learned throughout the
-
-security fundamentals
+</DOC>
+<DOC>security fundamentals
 explore the information security cycle including the concepts of security risk and the security management process then leqarn about physical security including the different control types and physical security controls from each type and addressing environmental exposures
 introduction to the ata of ata track advice for completing the ata security syllabus security risk security management process physical security physical security controls environmental exposures security fundamentals review
+</DOC>
 
-authentication and account management
+<DOC>authentication and account management
 explore authentication in depth including learning about authentication factors multifactor and singlefactor authentication and strong passwords about account management including multiple and shared accounts single signon and access control
 authentication authentication factors strong passwords multiple and shared accounts account management single signon access control authentication and account management review
+</DOC>
 
-device security
+<DOC>device security
 about securing endpoints including patch management and application control explore integrating mobile and iot devices and the effects of location services
 hardening endpoints patch management application control mobile devices location services application control device security review
+</DOC>
 
-encryption
+<DOC>encryption
 the basics of cryptography including the difference between symmetric and asymmetric encryption and some of the algorithms about hashes and digital and understand the fundamentals of a public key infrastructure
 cryptography symmetric encryption asymmetric encryption hashes digital digital signatures https example public key infrastructure life cycle key escrow cryptography fundamentals review
+</DOC>
 
-network security
+<DOC>network security
 review network components and about defense in depth including firewalls and intrusion detectionprevention systems about extending the network perimeter including wireless networks cloud services and remote access
 defense in depth firewalls intrusion detection and prevention systems wireless networks implementing wireless securing wireless remote access remote access protocols cloud computing network security review
+</DOC>
 
-security management
+<DOC>security management
 about vulnerability scanning and ethical hacking explore data security security policies and gain a deeper understanding of risk also about compliance
 vulnerability scanning ethical hacking data security security documents typical security policies risk compliance security management review
+</DOC>
 
-security threats
+<DOC>security threats
 about attackers and attacks about the concepts behind social engineering and some of the more common social engineering attacks about web attacks malware software attacks wireless attacks and password attacks
 attackers social engineering web attacks malware softwarenetwork attacks wireless attacks password attacks security threats review
+</DOC>
 
-managing security incidents
+<DOC>managing security incidents
 about how to manage security incidents including prevention techniques gain an understanding of incident response forensics business continuity redundancy the disaster recovery process raid and backups
+</DOC>
 
-capstone
+<DOC>capstone
 students will demonstrate mastery of the material by creating and uploading a capstone project
 capstone introduction capstone instructions powerpoint tutorial
 </DOC>
-
 <DOC>
 networking fundamentals
 in the networking fundamentals the basic principles of network theory and terminology this includes understanding network components node functions different types of networks and network models
 upon completing this be able to understand network theory terminology and models implement the osi model and tcpip including encapsulation and network protocols master the use of networking hardware like switches and routers troubleshoot wired and wireless networks using tools like packet sniffers in addition with software that simulates sophisticated networks helping you gain practical handson at the end of the complete a capstone project demonstrating your comprehensive understanding of the material
-
-network theory
+</DOC>
+<DOC>network theory
 this provides the student with an to understand some of the most basic vocabulary used in networking students will about the categories of networks and the standard network models
 introduction to the ata of ata track advice for completing the ata syllabus definition of networking networking components network theory review
+</DOC>
 
-protocol models
+<DOC>protocol models
 students will about the osi model and the tcpip model which describe how protocols
 how the osi model works part how the osi model works part how the osi model works part protocol models review
+</DOC>
 
-network transmissions and hardware
+<DOC>network transmissions and hardware
 students will about data transmission methods after learning about the most common media access methods they will explore common network connectivity devices finally students will about wireless networks
 introduction to ethernet csmacd csmaca network transmissions and hardware review wireless review
+</DOC>
 
-internet protocols
+<DOC>internet protocols
 students will about how the ip protocol works students will about ipv and ipv addresses and routing
 rules of tcpip subnet masks basic anding local or remote part local or remote part local or remote part routing number systems decimal numbers binary numbers hexadecimal numbers cidr background subnetting cidr notation internet protocols review
+</DOC>
 
-tcpip services
+<DOC>tcpip services
 students will about the dhcp and dns services that support tcpip they will also explore some basic troubleshooting commands
 static and dynamic addressing the dhcp lease process centralized dhcp dhcp server settings dhcp reservations host names fully qualified domain names hosts file dns dns name resolution part dns name resolution part dns servers dns records part dns records part split dns ping tracerttraceroutepathping tcpip services review
+</DOC>
 
-network security
+<DOC>network security
 students will about defense in depth they will explore controls for securing networks and controls for detecting network intrusions
 defense in depth demilitarized zones network security review
+</DOC>
 
-remote networking
+<DOC>remote networking
 students will remote access in general and vpns in specific
 vpns remote networking review
+</DOC>
 
-network management troubleshooting
+<DOC>network management troubleshooting
 students will the concepts of network management they will study troubleshooting methodology and review strategies for troubleshooting various types of issues
+</DOC>
 
-capstone
+<DOC>capstone
 the student will upload a capstone project that demonstrates mastery of the material
 captsone introduction capstone instructions
 </DOC>
-
 <DOC>
 operating systems fundamentals
 the operating systems fundamentals provides a comprehensive introduction to linux and equips you with a foundation widely used opensource operating system about various linux distributions and the concept of copyleft gaining valuable knowledge on different system configurations
 upon completing this be able to understand and use shell commands to extract basic system information and seek help from the operating system mange linux file systems manage disks and directories with absolute and relative paths and organize backup and restore files effectively with text files from the shell and employ expressions to search files and directories apply security principles to set permissions and ownership mange jobs processes the boot process and also system settings including selinux in addition acquire handson on how to build your own linux machine using virtualization which they will use for all the lab given throughout the complete a capstone project showcasing the you have learned throughout the
-
-performing basic linux tasks
+</DOC>
+<DOC>performing basic linux tasks
 students will basic information about the history of computers and linux then students will explore simple shell commands and about virtualization
 introduction to the ata track of ata track advice for completing the ata syllabus the linux environment shell syntax getting basic information getting help virtualization installing virtualbox walkthrough installing ubuntu walkthrough using basic shell commands walkthrough performing basic linux tasks review
+</DOC>
 
-managing the file system in linux
+<DOC>managing the file system in linux
 students will the structure of the linux file system including understanding directories paths and naming conventions they will also to search and backup content
 understanding file systems standard directories absolute paths relative paths file browsers creating and removing directories listing files and directories working with files using grep whereis command find command archiving working with directories walkthrough searching for files with find walkthrough performing backups walkthrough managing the file system in linux review
+</DOC>
 
-working with text files
+<DOC>working with text files
 students will how to manage text files from the shell they will master the cat command and the vim editor they will how to search and filter text files and with text streams
 the vim command the cat command diff vimdiff and wc aspell tr and redirecting output ls with wildcards using grep with expressions to find numbers using grep with expressions to find letters using grep with expressions to find special characters cut command sort command textutil commands creating text files using vim walkthrough editing text files in command mode walkthrough searching text files walkthrough applying textutil commands to modify the output walkthrough working with text files review
+</DOC>
 
-user and group accounts
+<DOC>user and group accounts
 students will about the default user and group accounts and how to create new users and groups as as manage passwords students will about user profiles and using the skeleton directory to set up a template for new profiles
 creating user accounts modifying user accounts deleting user accounts passwords groups user profiles the skeleton directory creating user and group accounts walkthrough configuring user profiles walkthrough configuring a new user account walkthrough managing group accounts walkthrough user and group accounts review
+</DOC>
 
-managing linux permissions and ownership
+<DOC>managing linux permissions and ownership
 students will about linux permissions and ownership students will explore the default file and directory permissions as as how to change them they will also master the basics of access control lists and flags
 permissions effective permissions chmod command default file and directory permissions chown command special permissions chattr and lsattr commands modifying file and directory permissions walkthrough modifying file and directory ownership walkthrough setting user access to files walkthrough managing linux permissions and ownership review
+</DOC>
 
-managing jobs and processes
+<DOC>managing jobs and processes
 students will about starting and stopping linux and managing services they will explore processes and jobs and to manage them throughout the lifecycle of the operating system
 starting and stopping linux walkthrough managing jobs and processes walkthrough managing timing of jobs and processes walkthrough managing jobs and processes review
+</DOC>
 
-managing partitions and the linux file system
+<DOC>managing partitions and the linux file system
 students will about file systems partitions and the commands and utilities to manage them students will about mount points swap space local storage devices journaling file systems and file system maintenance
 creating partitions walkthrough mounting file systems walkthrough maintaining the linux file system walkthrough managing partitions and the linux file system review
+</DOC>
 
-manage system services
+<DOC>manage system services
 students will about system initialization system logs centralized logging and log file analysis students will also about securityenhanced linux and security policies
 configuring system log settings walkthrough configuring rsyslogd as a central log server walkthrough managing system services review
+</DOC>
 
-capstone
+<DOC>capstone
 students will demonstrate mastery of the material by creating and uploading a capstone project
 capstone introduction capstone instructions
 </DOC>
-
 <DOC>
 python scripting fundamentals
 in python scripting fundamentals develop a comprehensive understanding of python starting with the programming process its history and the fundamentals of writing python code gain foundational knowledge of python syntax variables data types and functions
 upon completing this be able to understand the programming process and the history of python navigate complex variable types like lists tuples sets ranges and dictionaries write code to process sequences manage web form data efficiently throughout this gain handson by developing four applications from scratch an age calculator a word guessing game a lemonade stand game and a textbased adventure game at the end of this complete a capstone project allowing you to showcase your ability to apply your python proficiently
-
-exploring programming concepts
+</DOC>
+<DOC>exploring programming concepts
 explore programming concepts and begin to about the python language explore foundational concepts about using functions variables and understanding python data types
 introduction to the ata track of ata track advice for completing the ata programming syllabus programs and languages the programming process python functions variables data types arithmetic operators exploring programming concepts review
+</DOC>
 
-developing a simple application
+<DOC>developing a simple application
 about conditional statements loops and testing user input then about complex variable structures including lists tuples sets ranges and dictionaries
 conditional statements logical operators identity operators loops sequences lists list processing tuples sets ranges dictionaries troubleshooting errors developing a simple application review
+</DOC>
 
-structuring code for reuse
+<DOC>structuring code for reuse
 about loop control review nested sequences and go over useful functions and methods to create and call your own functions including returning values and managing the scope of variables
 loop control nested sequences useful functions and methods defining and calling functions returning values scope structuring code for reuse review
+</DOC>
 
-working with files and directories
+<DOC>working with files and directories
 how to import and use python also to with files and folders from inside python scripts
 importing file objects reading files accessing directories file and folder operations working with files and directories review
+</DOC>
 
-practicing basic
+<DOC>practicing basic
 create two applications that will give you an to practice the you have learned up to this point
+</DOC>
 
-using databases and interacting with web sites
+<DOC>using databases and interacting with web sites
 how to create python scripts that interact with mysql databases also to integrate python scripts with web applications including handling form data and returning html code to the browser
 database construction querying databases updating records handling form data creating records putting it all together using databases and interacting with web sites review
+</DOC>
 
-exploring programming concepts capstone
+<DOC>exploring programming concepts capstone
 demonstrate mastery of the objectives
 capstone introduction capstone instructions
 </DOC>
-

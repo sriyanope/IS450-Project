@@ -8,71 +8,79 @@ learners will create tools used in public relations including a press release st
 <DOC>
 the nuts and bolts of public relations
 how to create the necessary collateral related to doing public relations including a press release story pitch and media contact list these collateral materials can then be used to tell your companys story its important that all collateral stay on message and communicate a companys mission and core values working with journalists and other media professionals can sometimes be challenging so talk through some tricks to building these relationships lastly talk about social media influencers and if working with influencers is the right tactic for your communication goals
-
-writing the press release
+</DOC>
+<DOC>writing the press release
 how to identify news within your organization and write a press release to gain media attention and publicity
 introduction to the nuts and bolts of pr introduction to inverted pyramid writing the press release associated press style what is news
+</DOC>
 
-pitching stories
+<DOC>pitching stories
 how to formulate a pitch to share with journalists that will ensure your story makes headlines practice writing a pitch and accompanying press release
 introduction to what is a pitch writing the pitch pitching journalists
+</DOC>
 
-staying on message
+<DOC>staying on message
 how messaging should always ladder up to an organizations mission and core values and how different media require different messaging strategies
 introduction to it all matters in pr peso model strategic communication
+</DOC>
 
-influencers
+<DOC>influencers
 about social media influencers and their return on influence understand why influencers are valuable to communication plans and the different types of influencers and how to choose one that aligns with your organizations goals
 introduction to influencers identifying and vetting influencers wrap up
 </DOC>
-
 <DOC>
 working with the media
 about branding and the role of public relations as opposed to adjacent fields like advertising and marketing understand the media and how to leverage storytelling with different outlets and gatekeepers foundational mass communication and public relations theories will be discussed in terms of issue and crisis management
-
-organizational mission and core values
+</DOC>
+<DOC>organizational mission and core values
 the importance of an organizations mission and core values in branding and in public relations storytelling
 introduction to working with media introduction what is a brand mission and core values on brand storytelling your personal brand
+</DOC>
 
-prs role in branding
+<DOC>prs role in branding
 about the similarities and differences between public relations and other fields like journalism advertising and marketing also understand how public relations works with the related fields in the process of branding
 introduction to stay in your lane prs role in branding storytelling in pr
+</DOC>
 
-issue and crisis management
+<DOC>issue and crisis management
 the difference between an issue and a crisis situation including the risk and reward to company reputation also the basics of crisis communication and reputation management
 introduction to issue vs crisis stages of a crisis writing a crisis communication plan postcrisis plan
+</DOC>
 
-gatekeeping in public relations
+<DOC>gatekeeping in public relations
 about different forms of media and how the gatekeeping process works also be introduced to media theoryjust enough to be dangerous
 introduction to how news works mass media theory connecting to the right audience helpful tools for media relations
+</DOC>
 
-the art of the press release
+<DOC>the art of the press release
 how to with journalists and build a media contact list specific to your organizations communication goals understand the basics of the press release and pitch process and practice writing your own
 introduction to working with journalists building media lists press release basics writing the pitch pitching news
 </DOC>
-
 <DOC>
 principles of public relations
 learners are exposed to an of public relations principles and theories relevant to practice explore the field including the origin and trends affecting the future of the industry as as how to land a job in public relations this provides a broad of working in public relations and how different tenets of persuasion are used in practice the also addresses ethical implications of public relations
-
-defining public relations
+</DOC>
+<DOC>defining public relations
 the meaning of public relations and understand how different brands use strategic communication to reach target audiences with key messages that advance an organizations goals
 introduction introduction to defining the public relations industry introduction to brief history and development of the field of public relations public relations society of america scholars pointofview
+</DOC>
 
-the step process in public relations
+<DOC>the step process in public relations
 about the fourstep public relations process that informs public relations planning with both qualitative and quantitative research and shifts the public relations function from tactical to strategic
 introduction to the fourstep process in public relations an example of the fourstep process in pr shifting from tactical to strategic planning
+</DOC>
 
-corporate social responsibility
+<DOC>corporate social responsibility
 about corporate social responsibility csr a form of selfregulation that contributes to societal goals by engaging in volunteering or ethicallyoriented business practices
 introduction to defining csr csr in practice corporate social advocacy
+</DOC>
 
-working in public relations
+<DOC>working in public relations
 about the different types of jobs available in the field and the different sets needed for working in public relations
 introduction to agency vs corporate communications range of jobs in public relations polishing your linkedin profile tips for interviewing in pr
+</DOC>
 
-ethics in public relations practice
+<DOC>ethics in public relations practice
 about the ethical principles applied in public relations practice and will be challenged by different reallife scenarios
 introduction to defining ethics in public relations making the right decision
 </DOC>
-
